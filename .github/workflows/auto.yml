@@ -1,11 +1,8 @@
 name: Suburb Automatic
 on: 
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Suburb Automatic"]
-    branches: [master]
-    types:
-      - completed
+  repository_dispatch:
+    types: [auto-suburb]
 
 jobs:
   test:
@@ -58,3 +55,8 @@ jobs:
           message: Updated results
           default_author: github_actions
           pull: '--rebase --autostash'
+
+      - name: Start new workflow
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          event-type: auto-suburb
