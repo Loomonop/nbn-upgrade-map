@@ -1,13 +1,6 @@
-name: Suburb Check
+name: Suburb Automatic
 on: 
   workflow_dispatch:
-    inputs:
-      suburb:
-        required: true
-        description: 'Suburb to check'
-      state:
-        required: true
-        description: 'State of suburb to check'
 
 jobs:
   test:
@@ -41,7 +34,7 @@ jobs:
 
       - name: Run program
         run: |
-          python code/main.py "${{ github.event.inputs.suburb }}" "${{ github.event.inputs.state }}"
+          python code/main.py "NA" "NA"
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9

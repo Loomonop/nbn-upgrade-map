@@ -31,8 +31,10 @@
         // get url parameters
         var urlParams = new URLSearchParams(window.location.search);
         var default_suburb = "bli-bli";
-        if (urlParams.has("suburb")) {
+        var default_state = "QLD";
+        if (urlParams.has("suburb") && urlParams.get("suburb") != "" && urlParams.has("state") && urlParams.get("state") != "") {
             default_suburb = urlParams.get("suburb");
+            default_state = urlParams.get("state");
         }
 
         // add dropdown
@@ -43,7 +45,7 @@
                 var dropdownHTML = '<select id="suburb" onchange="loadSuburb(this.value)">';
                 for (var suburb in data["suburbs"]) {
                     suburb = data["suburbs"][suburb];
-                    dropdownHTML += '<option value="https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/' + suburb.file + '.geojson" ' + (suburb.file == default_suburb ? "selected" : "") + '>' + suburb.name + '</option>';
+                    dropdownHTML += '<option value="https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/' + suburb.state + '/' + suburb.file + '.geojson" ' + ((suburb.file == default_suburb && suburb.state == default_state) ? "selected" : "") + '>' + suburb.name + '</option>';
                 }
                 dropdownHTML += '</select>';
                 div.innerHTML = dropdownHTML;
@@ -96,11 +98,11 @@
                 // fit to bounds
                 map.fitBounds(L.geoJson(data).getBounds());
                 // update url
-                window.history.pushState("", "", "?suburb=" + url.split("/").pop().split(".")[0]);
+                window.history.pushState("", "", "?suburb=" + url.split("/").pop().split(".")[0] + "&state=" + url.split("/").slice(-2)[0]);
             });
         }
 
-        loadSuburb("https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/"+default_suburb+".geojson")
+        loadSuburb("https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/"+default_state+"/"+default_suburb+".geojson")
     </script>
 </body>
 </html>

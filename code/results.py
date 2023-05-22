@@ -1,29 +1,23 @@
 import datetime
-import sys
 import json
+import os
 
 if __name__ == "__main__":
-    target_suburb = sys.argv[1]
-    target_state = sys.argv[2]
-    target_location = [target_suburb, target_state]
-    target_suburb_display = target_suburb.title()
-    target_suburb_file = target_suburb.lower().replace(" ", "-")
+    suburb_record = {"suburbs": []}
 
-    suburb_record = open("results/results.json", "r")
-    suburb_record = json.load(suburb_record)
+    # check the folders in results
+    states = ["ACT", "NSW", "NT", "QLD", "SA", "TAS", "VIC", "WA"]
 
-    flag = False
-    for suburb in suburb_record["suburbs"]:
-        if suburb["internal"] == target_suburb:
-            suburb["date"] = datetime.datetime.now().strftime("%d-%m-%Y")
-            flag = True
-            break
-    if not flag:
-        suburb_record["suburbs"].append({
-            "internal": target_suburb,
-            "name": target_suburb_display,
-            "file": target_suburb_file,
-            "date": datetime.datetime.now().strftime("%d-%m-%Y")
-        })
+    for state in states:
+        for file in os.listdir("results/" + state):
+            if file.endswith(".geojson"):
+                suburb_record["suburbs"].append({
+                    "internal": file.split(".")[0].replace("-", " ").upper(),
+                    "state": state,
+                    "name": file.split(".")[0].replace("-", " ").title(),
+                    "file": file.split(".")[0],
+                    "date": datetime.datetime.fromtimestamp(os.path.getmtime("results/" + state + "/" + file)).strftime("%d-%m-%Y")
+                })
+
     with open("results/results.json", "w") as outfile:
         json.dump(suburb_record, outfile, indent=4)
