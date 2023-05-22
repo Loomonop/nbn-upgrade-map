@@ -9,6 +9,9 @@ if __name__ == "__main__":
     states = ["ACT", "NSW", "NT", "QLD", "SA", "TAS", "VIC", "WA"]
 
     for state in states:
+        # check if the folder exists
+        if not os.path.exists("results/" + state):
+            continue
         for file in os.listdir("results/" + state):
             if file.endswith(".geojson"):
                 suburb_record["suburbs"].append({
