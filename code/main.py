@@ -73,16 +73,20 @@ if __name__ == "__main__":
     if target_suburb == "NA":
         suburb_list = open("results/suburbs.json", "r")
         suburb_list = json.load(suburb_list)
-        for suburb in suburb_list["states"]["ACT"]:
-            flag = False
-            for suburb_record in suburb_record["suburbs"]:
-                if suburb_record["internal"] == suburb:
-                    flag = True
+        
+        for state in suburb_list["states"]:
+            for suburb in suburb_list["states"][state]:
+                flag = False
+                for suburb_record in suburb_record["states"]:
+                    if suburb_record["internal"] == suburb:
+                        flag = True
+                        break
+                if not flag:
+                    target_suburb = suburb
+                    target_state = state
+                    target_location = [target_suburb, target_state]
                     break
-            if not flag:
-                target_suburb = suburb
-                target_state = "ACT"
-                target_location = [target_suburb, target_state]
+            if target_suburb != "NA":
                 break
         if target_suburb == "NA":
             sys.exit()
