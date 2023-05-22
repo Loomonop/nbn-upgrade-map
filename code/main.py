@@ -112,5 +112,6 @@ if __name__ == "__main__":
                 }
             }
             formatted_addresses["features"].append(formatted_address)
-    with open(f"results/{target_state}/{target_suburb_file}.geojson", "w") as outfile:
-        json.dump(formatted_addresses, outfile)
+    if len(formatted_addresses["features"]) > 0:
+        with open(f"results/{target_state}/{target_suburb_file}.geojson", "w") as outfile:
+            json.dump(formatted_addresses, outfile)
