@@ -57,7 +57,7 @@ def get_data(address):
 
 def runner(addresses):
     threads= []
-    with ThreadPoolExecutor(max_workers=40) as executor:
+    with ThreadPoolExecutor(max_workers=20) as executor:
         for address in addresses:
             threads.append(executor.submit(get_data, address))
        
