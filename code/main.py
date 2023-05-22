@@ -68,9 +68,6 @@ if __name__ == "__main__":
     target_suburb_display = target_suburb.title()
     target_suburb_file = target_suburb.lower().replace(" ", "-")
 
-    suburb_record = open("results/results.json", "r")
-    suburb_record = json.load(suburb_record)
-
     addresses = get_addresses(target_location)
     addresses = sorted(addresses, key=lambda k: k['name'])
     runner(addresses)
@@ -96,21 +93,3 @@ if __name__ == "__main__":
             formatted_addresses["features"].append(formatted_address)
     with open(f"results/{target_suburb_file}.geojson", "w") as outfile:
         json.dump(formatted_addresses, outfile)
-
-    # check if suburb has been processed before and that results were found
-    if len(formatted_addresses["features"]) != 0:
-        flag = False
-        for suburb in suburb_record["suburbs"]:
-            if suburb["internal"] == target_suburb:
-                suburb["date"] = datetime.datetime.now().strftime("%d-%m-%Y")
-                flag = True
-                break
-        if not flag:
-            suburb_record["suburbs"].append({
-                "internal": target_suburb,
-                "name": target_suburb_display,
-                "file": target_suburb_file,
-                "date": datetime.datetime.now().strftime("%d-%m-%Y")
-            })
-        with open("results/results.json", "w") as outfile:
-            json.dump(suburb_record, outfile, indent=4)
