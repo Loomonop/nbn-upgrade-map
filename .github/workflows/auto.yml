@@ -1,6 +1,11 @@
 name: Suburb Automatic
 on: 
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Suburb Automatic"]
+    branches: [master]
+    types:
+      - completed
 
 jobs:
   test:
