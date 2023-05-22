@@ -5,6 +5,7 @@ import urllib.parse
 import psycopg2
 import json
 import sys
+import os
 
 lookupUrl = "https://places.nbnco.net.au/places/v1/autocomplete?query="
 detailUrl = "https://places.nbnco.net.au/places/v2/details/"
@@ -113,5 +114,7 @@ if __name__ == "__main__":
             }
             formatted_addresses["features"].append(formatted_address)
     if len(formatted_addresses["features"]) > 0:
+        if not os.path.exists(f"results/{target_state}"):
+            os.makedirs(f"results/{target_state}")
         with open(f"results/{target_state}/{target_suburb_file}.geojson", "w") as outfile:
             json.dump(formatted_addresses, outfile)
