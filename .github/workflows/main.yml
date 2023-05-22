@@ -48,3 +48,4 @@ jobs:
         with:
           message: Updated files
           default_author: github_actions
+          pull: '--rebase --autostash'
