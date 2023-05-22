@@ -64,7 +64,7 @@
                     
                     for (var suburb in states[state]) {
                         suburb = states[state][suburb];
-                        dropdownHTML += '<option value="https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/' + suburb.state + '/' + suburb.file + '.geojson" ' + ((suburb.file == default_suburb && suburb.state == default_state) ? "selected" : "") + '>' + suburb.name + ' (' + suburb.date + ')</option>';
+                        dropdownHTML += '<option value="https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/' + suburb.state + '/' + suburb.file + '.geojson" ' + ((suburb.file == default_suburb && suburb.state == default_state) ? "selected" : "") + '>' + suburb.name + '</option>';
                     }
                     dropdownHTML += '</optgroup>';
                 }
