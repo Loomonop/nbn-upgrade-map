@@ -77,8 +77,8 @@ if __name__ == "__main__":
         for state in suburb_list["states"]:
             for suburb in suburb_list["states"][state]:
                 flag = False
-                for suburb_record in suburb_record["states"]:
-                    if suburb_record["internal"] == suburb:
+                for record in suburb_record["suburbs"]:
+                    if record["internal"] == suburb:
                         flag = True
                         break
                 if not flag:
