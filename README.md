@@ -1,5 +1,7 @@
 # NBN FTTP Upgrade Map
 
+NOTE: A few errors need to be fixed before I start adding more suburbs please refer to the issues for details.
+
 The Australian National Broadband Network (NBN) announced an on-demand upgrade program for select premises serviced via Fibre to the Node (FTTN) and Fibre to the Curb (FTTC) to Fibre to the Premises (FTTP) in October 2020.
 
 NBN has progressively announced towns and suburbs where FTTN users will be eligable for a FTTP upgrade (FTTC areas aren't disclosed by NBN).
