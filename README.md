@@ -46,3 +46,5 @@ The available SUBURB/STATE combinations can be found in results/all_suburbs.json
 The results will be saved in the corresponding state folder in results.
 
 To update the results/results.json file the results.py script can be run using `python code/results.py`
+
+To view the results you will need a geojson viewer such as [geojson.io](https://geojson.io/) or modify the index.html file to load local files instead of those hosted on this repo.
