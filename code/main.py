@@ -1,4 +1,5 @@
-import datetime
+import argparse
+import logging
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib.parse
@@ -63,8 +64,16 @@ def runner(addresses):
             threads.append(executor.submit(get_data, address))
        
 if __name__ == "__main__":
-    target_suburb = sys.argv[1]
-    target_state = sys.argv[2]
+    LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
+    logging.basicConfig(level=LOGLEVEL)
+
+    parser = argparse.ArgumentParser(description='Create GeoJSON files containing FTTP upgrade details for the prescribed suburb.')
+    parser.add_argument('target_suburb', help='The name of a suburb, for example "bli-bli", or "NA" to process the next suburb')
+    parser.add_argument('target_state', help='The name of a state, for example "QLD"')
+    args = parser.parse_args()
+
+    target_suburb = args.target_suburb.upper()
+    target_state = args.target_state.upper()
     target_location = [target_suburb, target_state]
 
     suburb_record = open("results/results.json", "r")
@@ -94,8 +103,10 @@ if __name__ == "__main__":
     target_suburb_display = target_suburb.title()
     target_suburb_file = target_suburb.lower().replace(" ", "-")
 
+    logging.info('Processing %s, %s', target_suburb_display, target_state)
     addresses = get_addresses(target_location)
     addresses = sorted(addresses, key=lambda k: k['name'])
+    logging.info('Fetched %d addresses from database', len(addresses))
     runner(addresses)
     formatted_addresses = {
         "type": "FeatureCollection",
@@ -121,4 +132,5 @@ if __name__ == "__main__":
         if not os.path.exists(f"results/{target_state}"):
             os.makedirs(f"results/{target_state}")
         with open(f"results/{target_state}/{target_suburb_file}.geojson", "w") as outfile:
+            logging.info('Writing results to %s', outfile.name)
             json.dump(formatted_addresses, outfile)
