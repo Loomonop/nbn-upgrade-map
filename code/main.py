@@ -22,7 +22,7 @@ cur = conn.cursor()
 
 
 def get_addresses(target_suburb, target_state):
-    """return a list of addresses for the provided suburb+state from the database"""
+    """Return a list of addresses for the provided suburb+state from the database"""
     cur.execute(f"SELECT * FROM gnaf_202302.address_principals WHERE locality_name = '{target_suburb}' AND state = '{target_state}' LIMIT 100000")
 
     rows = cur.fetchall()
@@ -39,7 +39,7 @@ def get_addresses(target_suburb, target_state):
 
 
 def get_data(address):
-    """fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict"""
+    """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     locID = None
     try:
         r = requests.get(lookupUrl + urllib.parse.quote(address["name"]), stream=True, headers={"referer": "https://www.nbnco.com.au/"})
@@ -60,7 +60,7 @@ def get_data(address):
 
 
 def select_suburb(target_suburb, target_state):
-    """return a (state,suburb) tuple based on the provided input or the next suburb in the list"""
+    """Return a (state,suburb) tuple based on the provided input or the next suburb in the list."""
     target_suburb = target_suburb.upper()
     target_state = target_state.upper()
     if target_suburb == "NA":
@@ -84,7 +84,7 @@ def select_suburb(target_suburb, target_state):
 
 
 def get_all_addresses(suburb, state):
-    """Fetch all addresses for suburb+state from the DB and then fetch the upgrade+tech details for each address"""
+    """Fetch all addresses for suburb+state from the DB and then fetch the upgrade+tech details for each address."""
     logging.info('Fetching all addresses for %s, %s', suburb.title(), state)
     addresses = get_addresses(suburb, state)
     addresses = sorted(addresses, key=lambda k: k['name'])
@@ -99,7 +99,7 @@ def get_all_addresses(suburb, state):
 
 
 def format_addresses(addresses):
-    """convert the list of addresses (with upgrade+tech fields) into a GeoJSON FeatureCollection"""
+    """Convert the list of addresses (with upgrade+tech fields) into a GeoJSON FeatureCollection."""
     formatted_addresses = {
         "type": "FeatureCollection",
         "features": []
@@ -125,7 +125,7 @@ def format_addresses(addresses):
 
 
 def write_geojson_file(suburb, state, formatted_addresses):
-    """write the GeoJSON FeatureCollection to a file"""
+    """Write the GeoJSON FeatureCollection to a file."""
     if formatted_addresses["features"]:
         if not os.path.exists(f"results/{state}"):
             os.makedirs(f"results/{state}")
@@ -138,6 +138,7 @@ def write_geojson_file(suburb, state, formatted_addresses):
 
 
 def process_suburb(target_suburb, target_state):
+    """Query the DB for addresses, augment them with upgrade+tech details, and write the results to a file."""
     suburb, state = select_suburb(target_suburb, target_state)
     if suburb == 'NA':
         logging.error('No more suburbs to process')
