@@ -83,7 +83,10 @@ def get_nbn_data(address: str):
 
     address["locID"] = loc_id
     address["tech"] = status["addressDetail"]["techType"]
-    address["upgrade"] = status['addressDetail']['altReasonCode']
+    if "altReasonCode" in status['addressDetail']:
+        address["upgrade"] = status['addressDetail']['altReasonCode']
+    else:
+        address["upgrade"] = "NULL_NA"
 
 
 def select_suburb(target_suburb: str, target_state: str) -> tuple:
