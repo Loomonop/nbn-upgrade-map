@@ -11,17 +11,29 @@ from psycopg2.extras import NamedTupleCursor
 
 lookupUrl = "https://places.nbnco.net.au/places/v1/autocomplete?query="
 detailUrl = "https://places.nbnco.net.au/places/v2/details/"
+headers = {"referer": "https://www.nbnco.com.au/"}
 
-conn = psycopg2.connect(
-    database="postgres",
-    host="localhost",
-    user="postgres",
-    password="password",
-    port="5433",
-    cursor_factory=NamedTupleCursor
-)
+conn = None
+cur = None
 
-cur = conn.cursor()
+def connect_to_db(database, host, port, user, password):
+    """Connect to the database"""
+    global conn
+    try:
+        conn = psycopg2.connect(
+            database=database,
+            host=host,
+            port=port,
+            user=user,
+            password=password,
+            cursor_factory=NamedTupleCursor
+        )
+    except psycopg2.OperationalError as e:
+        logging.error('Unable to connect to database: %s', e)
+        exit(1)
+
+    global cur
+    cur = conn.cursor()
 
 
 def get_addresses(target_suburb, target_state):
@@ -35,12 +47,14 @@ def get_addresses(target_suburb, target_state):
     cur.execute(query)
 
     addresses = []
-    while row := cur.fetchone():
+    row = cur.fetchone()
+    while row is not None:
         address = {
             "name": f"{row.address} {row.locality_name} {row.postcode}",
             "location": [float(row.latitude), float(row.longitude)]
         }
         addresses.append(address)
+        row = cur.fetchone()
 
     return addresses
 
@@ -49,14 +63,14 @@ def get_nbn_data(address):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     locID = None
     try:
-        r = requests.get(lookupUrl + urllib.parse.quote(address["name"]), stream=True, headers={"referer": "https://www.nbnco.com.au/"})
+        r = requests.get(lookupUrl + urllib.parse.quote(address["name"]), stream=True, headers=headers)
         locID = r.json()["suggestions"][0]["id"]
     except requests.exceptions.RequestException as e:
         return e
     if not locID.startswith("LOC"):
         return
     try:
-        r = requests.get(detailUrl + locID, stream=True, headers={"referer": "https://www.nbnco.com.au/"})
+        r = requests.get(detailUrl + locID, stream=True, headers=headers)
         status = r.json()
     except requests.exceptions.RequestException as e:
         return e
@@ -162,6 +176,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Create GeoJSON files containing FTTP upgrade details for the prescribed suburb.')
     parser.add_argument('target_suburb', help='The name of a suburb, for example "bli-bli", or "NA" to process the next suburb')
     parser.add_argument('target_state', help='The name of a state, for example "QLD"')
+    parser.add_argument('-u', '--dbuser', help='The name of the database user', default='postgres')
+    parser.add_argument('-p', '--dbpassword', help='The password for the database user', default='password')
+    parser.add_argument('-H', '--dbhost', help='The hostname for the database', default='localhost')
+    parser.add_argument('-P', '--dbport', help='The port number for the database', default='5433')
     args = parser.parse_args()
 
+    connect_to_db("postgres", args.dbhost, args.dbport, args.dbuser, args.dbpassword)
     process_suburb(args.target_suburb, args.target_state)
