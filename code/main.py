@@ -5,7 +5,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib.parse
 import psycopg2
 import json
-import sys
 import os
 
 lookupUrl = "https://places.nbnco.net.au/places/v1/autocomplete?query="
@@ -62,7 +61,32 @@ def runner(addresses):
     with ThreadPoolExecutor(max_workers=20) as executor:
         for address in addresses:
             threads.append(executor.submit(get_data, address))
-       
+
+
+def select_suburb(target_suburb, target_state):
+    """return a (state,suburb) tuple based on the provided input or the next suburb in the list"""
+    target_suburb = target_suburb.upper()
+    target_state = target_state.upper()
+    if target_suburb == "NA":
+        # load the list of previously completed suburbs
+        with open("results/results.json", "r") as f:
+            completed_suburbs = {}  # state -> set-of-suburbs
+            for completed in json.load(f)["suburbs"]:
+                state, suburb = completed['state'], completed['internal']
+                if state not in completed_suburbs:
+                    completed_suburbs[state] = set()
+                completed_suburbs[state].add(suburb)
+        # load the list of all suburbs
+        with open("results/suburbs.json", "r") as f:
+            suburb_list = json.load(f)
+            for state, suburbs in suburb_list["states"].items():
+                for suburb in suburbs:
+                    if state not in completed_suburbs or suburb not in completed_suburbs[state]:
+                        return suburb, state
+
+    return target_suburb, target_state
+
+
 if __name__ == "__main__":
     LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
     logging.basicConfig(level=LOGLEVEL)
@@ -72,34 +96,7 @@ if __name__ == "__main__":
     parser.add_argument('target_state', help='The name of a state, for example "QLD"')
     args = parser.parse_args()
 
-    target_suburb = args.target_suburb.upper()
-    target_state = args.target_state.upper()
-    target_location = [target_suburb, target_state]
-
-    suburb_record = open("results/results.json", "r")
-    suburb_record = json.load(suburb_record)
-
-    if target_suburb == "NA":
-        suburb_list = open("results/suburbs.json", "r")
-        suburb_list = json.load(suburb_list)
-        
-        for state in suburb_list["states"]:
-            for suburb in suburb_list["states"][state]:
-                flag = False
-                for record in suburb_record["suburbs"]:
-                    if record["internal"] == suburb:
-                        flag = True
-                        break
-                if not flag:
-                    target_suburb = suburb
-                    target_state = state
-                    target_location = [target_suburb, target_state]
-                    break
-            if target_suburb != "NA":
-                break
-        if target_suburb == "NA":
-            sys.exit()
-
+    target_suburb, target_state = target_location = select_suburb(args.target_suburb, args.target_state)
     target_suburb_display = target_suburb.title()
     target_suburb_file = target_suburb.lower().replace(" ", "-")
 
