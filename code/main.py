@@ -52,7 +52,7 @@ def get_addresses(target_suburb: str, target_state: str) -> list:
     while row is not None:
         address = {
             "name": f"{row.address} {row.locality_name} {row.postcode}",
-            "location": [float(row.latitude), float(row.longitude)]
+            "location": [float(row.longitude), float(row.latitude)]
         }
         addresses.append(address)
         row = cur.fetchone()
