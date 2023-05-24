@@ -38,7 +38,7 @@ def get_addresses(target_suburb, target_state):
     return addresses
 
 
-def get_data(address):
+def get_nbn_data(address):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     locID = None
     try:
@@ -93,7 +93,7 @@ def get_all_addresses(suburb, state):
     threads = []
     with ThreadPoolExecutor(max_workers=20) as executor:
         for address in addresses:
-            threads.append(executor.submit(get_data, address))
+            threads.append(executor.submit(get_nbn_data, address))
 
     return addresses
 
