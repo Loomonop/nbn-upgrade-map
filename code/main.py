@@ -1,11 +1,13 @@
 import argparse
-import logging
-import requests
-from concurrent.futures import ThreadPoolExecutor
-import urllib.parse
-import psycopg2
 import json
+import logging
 import os
+import urllib.parse
+from concurrent.futures import ThreadPoolExecutor
+
+import psycopg2
+import requests
+from psycopg2.extras import NamedTupleCursor
 
 lookupUrl = "https://places.nbnco.net.au/places/v1/autocomplete?query="
 detailUrl = "https://places.nbnco.net.au/places/v2/details/"
@@ -15,23 +17,28 @@ conn = psycopg2.connect(
     host="localhost",
     user="postgres",
     password="password",
-    port="5433"
+    port="5433",
+    cursor_factory=NamedTupleCursor
 )
 
 cur = conn.cursor()
 
 
 def get_addresses(target_suburb, target_state):
-    """Return a list of addresses for the provided suburb+state from the database"""
-    cur.execute(f"SELECT * FROM gnaf_202302.address_principals WHERE locality_name = '{target_suburb}' AND state = '{target_state}' LIMIT 100000")
+    """Return a list of addresses for the provided suburb+state from the database."""
+    query = f"""
+        SELECT address, locality_name, postcode, latitude, longitude
+        FROM gnaf_202302.address_principals
+        WHERE locality_name = '{target_suburb}' AND state = '{target_state}'
+        LIMIT 100000"""
 
-    rows = cur.fetchall()
+    cur.execute(query)
 
     addresses = []
-    for row in rows:
+    while row := cur.fetchone():
         address = {
-            "name": f"{row[15]} {row[16]} {row[17]}",
-            "location": [float(row[25]), float(row[24])]
+            "name": f"{row.address} {row.locality_name} {row.postcode}",
+            "location": [float(row.latitude), float(row.longitude)]
         }
         addresses.append(address)
 
