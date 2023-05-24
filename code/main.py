@@ -1,7 +1,10 @@
+"""Main script for fetching NBN data for a suburb from the NBN API and writing to a GeoJSON file."""
+
 import argparse
 import json
 import logging
 import os
+import sys
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
@@ -9,12 +12,13 @@ import psycopg2
 import requests
 from psycopg2.extras import NamedTupleCursor
 
-lookupUrl = "https://places.nbnco.net.au/places/v1/autocomplete?query="
-detailUrl = "https://places.nbnco.net.au/places/v2/details/"
-headers = {"referer": "https://www.nbnco.com.au/"}
+LOOKUP_URL = "https://places.nbnco.net.au/places/v1/autocomplete?query="
+DETAIL_URL = "https://places.nbnco.net.au/places/v2/details/"
+HEADERS = {"referer": "https://www.nbnco.com.au/"}
 
 conn = None
 cur = None
+
 
 def connect_to_db(database, host, port, user, password):
     """Connect to the database"""
@@ -28,9 +32,9 @@ def connect_to_db(database, host, port, user, password):
             password=password,
             cursor_factory=NamedTupleCursor
         )
-    except psycopg2.OperationalError as e:
-        logging.error('Unable to connect to database: %s', e)
-        exit(1)
+    except psycopg2.OperationalError as err:
+        logging.error('Unable to connect to database: %s', err)
+        sys.exit(1)
 
     global cur
     cur = conn.cursor()
@@ -61,21 +65,26 @@ def get_addresses(target_suburb, target_state):
 
 def get_nbn_data(address):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
-    locID = None
+    loc_id = None
     try:
-        r = requests.get(lookupUrl + urllib.parse.quote(address["name"]), stream=True, headers=headers)
-        locID = r.json()["suggestions"][0]["id"]
-    except requests.exceptions.RequestException as e:
-        return e
-    if not locID.startswith("LOC"):
+        req = requests.get(
+            LOOKUP_URL + urllib.parse.quote(address["name"]), stream=True, headers=HEADERS)
+        loc_id = req.json()["suggestions"][0]["id"]
+    except requests.exceptions.RequestException as err:
+        logging.debug('Error finding NBN locID for %s: %s',
+                      address["name"], err)
+        return
+    if not loc_id.startswith("LOC"):
         return
     try:
-        r = requests.get(detailUrl + locID, stream=True, headers=headers)
-        status = r.json()
-    except requests.exceptions.RequestException as e:
-        return e
+        req = requests.get(DETAIL_URL + loc_id, stream=True, headers=HEADERS)
+        status = req.json()
+    except requests.exceptions.RequestException as err:
+        logging.debug('Error fetching NBN data for %s: %s',
+                      address["name"], err)
+        return
 
-    address["locID"] = locID
+    address["locID"] = loc_id
     address["tech"] = status["addressDetail"]["techType"]
     address["upgrade"] = status['addressDetail']['altReasonCode']
 
@@ -86,16 +95,16 @@ def select_suburb(target_suburb, target_state):
     target_state = target_state.upper()
     if target_suburb == "NA":
         # load the list of previously completed suburbs
-        with open("results/results.json", "r") as f:
+        with open("results/results.json", "r", encoding="utf-8") as file:
             completed_suburbs = {}  # state -> set-of-suburbs
-            for completed in json.load(f)["suburbs"]:
+            for completed in json.load(file)["suburbs"]:
                 state, suburb = completed['state'], completed['internal']
                 if state not in completed_suburbs:
                     completed_suburbs[state] = set()
                 completed_suburbs[state].add(suburb)
         # load the list of all suburbs
-        with open("results/suburbs.json", "r") as f:
-            suburb_list = json.load(f)
+        with open("results/suburbs.json", "r", encoding="utf-8") as file:
+            suburb_list = json.load(file)
             for state, suburbs in suburb_list["states"].items():
                 for suburb in suburbs:
                     if state not in completed_suburbs or suburb not in completed_suburbs[state]:
@@ -151,7 +160,7 @@ def write_geojson_file(suburb, state, formatted_addresses):
         if not os.path.exists(f"results/{state}"):
             os.makedirs(f"results/{state}")
         target_suburb_file = suburb.lower().replace(" ", "-")
-        with open(f"results/{state}/{target_suburb_file}.geojson", "w") as outfile:
+        with open(f"results/{state}/{target_suburb_file}.geojson", "w", encoding="utf-8") as outfile:
             logging.info('Writing results to %s', outfile.name)
             json.dump(formatted_addresses, outfile)
     else:
@@ -173,14 +182,22 @@ if __name__ == "__main__":
     LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
     logging.basicConfig(level=LOGLEVEL)
 
-    parser = argparse.ArgumentParser(description='Create GeoJSON files containing FTTP upgrade details for the prescribed suburb.')
-    parser.add_argument('target_suburb', help='The name of a suburb, for example "bli-bli", or "NA" to process the next suburb')
-    parser.add_argument('target_state', help='The name of a state, for example "QLD"')
-    parser.add_argument('-u', '--dbuser', help='The name of the database user', default='postgres')
-    parser.add_argument('-p', '--dbpassword', help='The password for the database user', default='password')
-    parser.add_argument('-H', '--dbhost', help='The hostname for the database', default='localhost')
-    parser.add_argument('-P', '--dbport', help='The port number for the database', default='5433')
+    parser = argparse.ArgumentParser(
+        description='Create GeoJSON files containing FTTP upgrade details for the prescribed suburb.')
+    parser.add_argument(
+        'target_suburb', help='The name of a suburb, for example "bli-bli", or "NA" to process the next suburb')
+    parser.add_argument(
+        'target_state', help='The name of a state, for example "QLD"')
+    parser.add_argument(
+        '-u', '--dbuser', help='The name of the database user', default='postgres')
+    parser.add_argument(
+        '-p', '--dbpassword', help='The password for the database user', default='password')
+    parser.add_argument(
+        '-H', '--dbhost', help='The hostname for the database', default='localhost')
+    parser.add_argument(
+        '-P', '--dbport', help='The port number for the database', default='5433')
     args = parser.parse_args()
 
-    connect_to_db("postgres", args.dbhost, args.dbport, args.dbuser, args.dbpassword)
+    connect_to_db("postgres", args.dbhost, args.dbport,
+                  args.dbuser, args.dbpassword)
     process_suburb(args.target_suburb, args.target_state)
