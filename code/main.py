@@ -37,18 +37,19 @@ def get_addresses(target_suburb, target_state):
 
     return addresses
 
+
 def get_data(address):
     """fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict"""
     locID = None
     try:
-        r = requests.get(lookupUrl + urllib.parse.quote(address["name"]), stream=True, headers={"referer":"https://www.nbnco.com.au/"})
+        r = requests.get(lookupUrl + urllib.parse.quote(address["name"]), stream=True, headers={"referer": "https://www.nbnco.com.au/"})
         locID = r.json()["suggestions"][0]["id"]
     except requests.exceptions.RequestException as e:
         return e
     if not locID.startswith("LOC"):
         return
     try:
-        r = requests.get(detailUrl + locID, stream=True, headers={"referer":"https://www.nbnco.com.au/"})
+        r = requests.get(detailUrl + locID, stream=True, headers={"referer": "https://www.nbnco.com.au/"})
         status = r.json()
     except requests.exceptions.RequestException as e:
         return e
@@ -136,6 +137,16 @@ def write_geojson_file(suburb, state, formatted_addresses):
         logging.warning('No addresses found for %s, %s', suburb.title(), state)
 
 
+def process_suburb(target_suburb, target_state):
+    suburb, state = select_suburb(target_suburb, target_state)
+    if suburb == 'NA':
+        logging.error('No more suburbs to process')
+    else:
+        addresses = get_all_addresses(suburb, state)
+        formatted_addresses = format_addresses(addresses)
+        write_geojson_file(suburb, state, formatted_addresses)
+
+
 if __name__ == "__main__":
     LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
     logging.basicConfig(level=LOGLEVEL)
@@ -145,10 +156,4 @@ if __name__ == "__main__":
     parser.add_argument('target_state', help='The name of a state, for example "QLD"')
     args = parser.parse_args()
 
-    target_suburb, target_state = select_suburb(args.target_suburb, args.target_state)
-
-    addresses = get_all_addresses(target_suburb, target_state)
-
-    formatted_addresses = format_addresses(addresses)
-
-    write_geojson_file(target_suburb, target_state, formatted_addresses)
+    process_suburb(args.target_suburb, args.target_state)
