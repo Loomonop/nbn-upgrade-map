@@ -16,11 +16,8 @@ LOOKUP_URL = "https://places.nbnco.net.au/places/v1/autocomplete?query="
 DETAIL_URL = "https://places.nbnco.net.au/places/v2/details/"
 HEADERS = {"referer": "https://www.nbnco.com.au/"}
 
-conn = None
-cur = None
 
-
-def connect_to_db(database, host, port, user, password):
+def connect_to_db(database: str, host: str, port: str, user: str, password: str):
     """Connect to the database"""
     global conn
     try:
@@ -40,7 +37,7 @@ def connect_to_db(database, host, port, user, password):
     cur = conn.cursor()
 
 
-def get_addresses(target_suburb, target_state):
+def get_addresses(target_suburb: str, target_state: str) -> list:
     """Return a list of addresses for the provided suburb+state from the database."""
     query = f"""
         SELECT address, locality_name, postcode, latitude, longitude
@@ -63,7 +60,7 @@ def get_addresses(target_suburb, target_state):
     return addresses
 
 
-def get_nbn_data(address):
+def get_nbn_data(address: str):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     loc_id = None
     try:
@@ -89,7 +86,7 @@ def get_nbn_data(address):
     address["upgrade"] = status['addressDetail']['altReasonCode']
 
 
-def select_suburb(target_suburb, target_state):
+def select_suburb(target_suburb: str, target_state: str) -> tuple:
     """Return a (state,suburb) tuple based on the provided input or the next suburb in the list."""
     target_suburb = target_suburb.upper()
     target_state = target_state.upper()
@@ -113,7 +110,7 @@ def select_suburb(target_suburb, target_state):
     return target_suburb, target_state
 
 
-def get_all_addresses(suburb, state):
+def get_all_addresses(suburb: str, state: str) -> list:
     """Fetch all addresses for suburb+state from the DB and then fetch the upgrade+tech details for each address."""
     logging.info('Fetching all addresses for %s, %s', suburb.title(), state)
     addresses = get_addresses(suburb, state)
@@ -128,7 +125,7 @@ def get_all_addresses(suburb, state):
     return addresses
 
 
-def format_addresses(addresses):
+def format_addresses(addresses: list) -> dict:
     """Convert the list of addresses (with upgrade+tech fields) into a GeoJSON FeatureCollection."""
     formatted_addresses = {
         "type": "FeatureCollection",
@@ -154,7 +151,7 @@ def format_addresses(addresses):
     return formatted_addresses
 
 
-def write_geojson_file(suburb, state, formatted_addresses):
+def write_geojson_file(suburb: str, state: str, formatted_addresses: dict):
     """Write the GeoJSON FeatureCollection to a file."""
     if formatted_addresses["features"]:
         if not os.path.exists(f"results/{state}"):
@@ -167,7 +164,7 @@ def write_geojson_file(suburb, state, formatted_addresses):
         logging.warning('No addresses found for %s, %s', suburb.title(), state)
 
 
-def process_suburb(target_suburb, target_state):
+def process_suburb(target_suburb: str, target_state: str):
     """Query the DB for addresses, augment them with upgrade+tech details, and write the results to a file."""
     suburb, state = select_suburb(target_suburb, target_state)
     if suburb == 'NA':
