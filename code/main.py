@@ -6,7 +6,9 @@ import logging
 import os
 import sys
 import urllib.parse
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
+from threading import Lock
 
 import psycopg2
 import requests
@@ -60,9 +62,8 @@ def get_addresses(target_suburb: str, target_state: str) -> list:
     return addresses
 
 
-def get_nbn_data(address: str):
+def augment_address_with_nbn_data(address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
-    loc_id = None
     try:
         req = requests.get(
             LOOKUP_URL + urllib.parse.quote(address["name"]), stream=True, headers=HEADERS)
@@ -120,10 +121,25 @@ def get_all_addresses(suburb: str, state: str) -> list:
     addresses = sorted(addresses, key=lambda k: k['name'])
     logging.info('Fetched %d addresses from database', len(addresses))
 
+    def progress_indicator(future):
+        with progress_indicator.lock:
+            progress_indicator.tasks_completed += 1
+            if progress_indicator.tasks_completed % 100 == 0:
+                logging.info('Completed %d tasks', progress_indicator.tasks_completed)
+
+    progress_indicator.tasks_completed = 0
+    progress_indicator.lock = Lock()
+
+    logging.info('Submitting %d requests to add NBNco data...', len(addresses))
     threads = []
     with ThreadPoolExecutor(max_workers=20) as executor:
         for address in addresses:
-            threads.append(executor.submit(get_nbn_data, address))
+            future = executor.submit(augment_address_with_nbn_data, address)
+            future.add_done_callback(progress_indicator)
+            threads.append(future)
+    logging.info('All threads completed')
+    logging.info('Tally of tech types: %s', Counter([address.get("tech") for address in addresses]))
+    logging.info('Location ID starting with "LOC": %s', Counter([address.get("locID","").startswith("LOC") for address in addresses]))
 
     return addresses
 
