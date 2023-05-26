@@ -19,6 +19,9 @@ LOOKUP_URL = "https://places.nbnco.net.au/places/v1/autocomplete?query="
 DETAIL_URL = "https://places.nbnco.net.au/places/v2/details/"
 HEADERS = {"referer": "https://www.nbnco.com.au/"}
 
+# set HTTP_CACHE to TRUE to use cached results from the NBN API
+# Maybe this is a bad idea, but it's a lot faster than hitting the API
+HTTP_CACHE = os.environ.get('HTTP_CACHE', 'FALSE').upper() == 'TRUE'
 
 def connect_to_db(database: str, host: str, port: str, user: str, password: str, create_index: bool = True):
     """Connect to the database"""
@@ -52,7 +55,6 @@ def connect_to_db(database: str, host: str, port: str, user: str, password: str,
             conn.rollback()
 
 
-
 def get_addresses(target_suburb: str, target_state: str) -> list:
     """Return a list of addresses for the provided suburb+state from the database."""
     query = f"""
@@ -76,32 +78,44 @@ def get_addresses(target_suburb: str, target_state: str) -> list:
     return addresses
 
 
+def get_nbn_data_json(url):
+    """Gets a JSON response from a URL, optionally caching the result in a file."""
+    if not HTTP_CACHE:
+        return requests.get(url, stream=True, headers=HEADERS,).json()
+
+    cache_file = f'cache/{url.replace("/", "_").replace(":", "_")}.json'
+    if os.path.exists(cache_file):
+        with open(cache_file, "r") as infile:
+            return json.load(infile)
+    else:
+        result = requests.get(url, stream=True, headers=HEADERS).json()
+        os.makedirs('cache', exist_ok=True)
+        with open(cache_file, "w") as outfile:
+            json.dump(result, outfile)
+        return result
+
+
+def get_nbn_loc_id(address: str) -> str:
+    """Return the NBN locID for the provided address, or None if there was an error."""
+    return get_nbn_data_json(LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]  # may not start with LOC
+
+
+def get_nbn_loc_details(id: str) -> dict:
+    """Return the NBN locID for the provided address, or None if there was an error."""
+    return get_nbn_data_json(DETAIL_URL + id)
+
+
 def augment_address_with_nbn_data(address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     try:
-        req = requests.get(
-            LOOKUP_URL + urllib.parse.quote(address["name"]), stream=True, headers=HEADERS)
-        loc_id = req.json()["suggestions"][0]["id"]
+        loc_id = get_nbn_loc_id(address["name"])
+        status = get_nbn_loc_details(loc_id)
+        address["locID"] = loc_id
+        address["tech"] = status["addressDetail"]["techType"]
+        address["upgrade"] = status["addressDetail"].get("altReasonCode", "NULL_NA")
     except requests.exceptions.RequestException as err:
-        logging.debug('Error finding NBN locID for %s: %s',
-                      address["name"], err)
-        return
-    if not loc_id.startswith("LOC"):
-        return
-    try:
-        req = requests.get(DETAIL_URL + loc_id, stream=True, headers=HEADERS)
-        status = req.json()
-    except requests.exceptions.RequestException as err:
-        logging.debug('Error fetching NBN data for %s: %s',
-                      address["name"], err)
-        return
-
-    address["locID"] = loc_id
-    address["tech"] = status["addressDetail"]["techType"]
-    if "altReasonCode" in status['addressDetail']:
-        address["upgrade"] = status['addressDetail']['altReasonCode']
-    else:
-        address["upgrade"] = "NULL_NA"
+        logging.warning('Error fetching NBN data for %s: %s', address["name"], err)
+    # other exceptions are raised to the caller
 
 
 def select_suburb(target_suburb: str, target_state: str) -> tuple:
@@ -151,7 +165,12 @@ def get_all_addresses(suburb: str, state: str) -> list:
             future = executor.submit(augment_address_with_nbn_data, address)
             future.add_done_callback(progress_indicator)
             threads.append(future)
-    logging.info('All threads completed')
+    exceptions = [thread.exception() for thread in threads if thread.exception() is not None]
+    logging.info('All threads completed, %d exceptions', len(exceptions))
+    # TODO: not the most elegant way to handle this
+    for e in exceptions:
+        if not isinstance(e, requests.exceptions.RequestException):
+            logging.error('Unhandled exception: %s', e)
     logging.info('Tally of tech types: %s', Counter([address.get("tech") for address in addresses]))
     logging.info('Location ID starting with "LOC": %s', Counter([address.get("locID","").startswith("LOC") for address in addresses]))
 
