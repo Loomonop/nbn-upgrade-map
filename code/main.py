@@ -47,7 +47,7 @@ def connect_to_db(database: str, host: str, port: str, user: str, password: str,
         try:
             logging.info('Creating DB index...')
             cur.execute(f"CREATE index address_name_state on {db_schema}.address_principals (locality_name, state)")
-        except psycopg2.Error:
+        except psycopg2.errors.DuplicateTable:
             logging.info('Skipping index creation as already exists')
             conn.rollback()
 
