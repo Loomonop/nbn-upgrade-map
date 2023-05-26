@@ -38,12 +38,16 @@ def connect_to_db(database: str, host: str, port: str, user: str, password: str)
     global cur
     cur = conn.cursor()
 
+    global db_schema
+    cur.execute("SELECT schema_name FROM information_schema.schemata where schema_name like 'gnaf_%'")
+    db_schema = cur.fetchone().schema_name
+
 
 def get_addresses(target_suburb: str, target_state: str) -> list:
     """Return a list of addresses for the provided suburb+state from the database."""
     query = f"""
         SELECT address, locality_name, postcode, latitude, longitude
-        FROM gnaf_202302.address_principals
+        FROM {db_schema}.address_principals
         WHERE locality_name = '{target_suburb}' AND state = '{target_state}'
         LIMIT 100000"""
 
