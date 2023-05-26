@@ -11,6 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 from threading import Lock
 
 import psycopg2
+import psycopg2.errors
 import requests
 from psycopg2.extras import NamedTupleCursor
 
@@ -19,7 +20,7 @@ DETAIL_URL = "https://places.nbnco.net.au/places/v2/details/"
 HEADERS = {"referer": "https://www.nbnco.com.au/"}
 
 
-def connect_to_db(database: str, host: str, port: str, user: str, password: str):
+def connect_to_db(database: str, host: str, port: str, user: str, password: str, create_index: bool = True):
     """Connect to the database"""
     global conn
     try:
@@ -38,12 +39,25 @@ def connect_to_db(database: str, host: str, port: str, user: str, password: str)
     global cur
     cur = conn.cursor()
 
+    global db_schema
+    cur.execute("SELECT schema_name FROM information_schema.schemata where schema_name like 'gnaf_%'")
+    db_schema = cur.fetchone().schema_name
+
+    if create_index:
+        try:
+            logging.info('Creating DB index...')
+            cur.execute(f"CREATE index address_name_state on {db_schema}.address_principals (locality_name, state)")
+        except psycopg2.errors.DuplicateTable:
+            logging.info('Skipping index creation as already exists')
+            conn.rollback()
+
+
 
 def get_addresses(target_suburb: str, target_state: str) -> list:
     """Return a list of addresses for the provided suburb+state from the database."""
     query = f"""
         SELECT address, locality_name, postcode, latitude, longitude
-        FROM gnaf_202302.address_principals
+        FROM {db_schema}.address_principals
         WHERE locality_name = '{target_suburb}' AND state = '{target_state}'
         LIMIT 100000"""
 
@@ -196,7 +210,7 @@ def process_suburb(target_suburb: str, target_state: str):
 
 if __name__ == "__main__":
     LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
-    logging.basicConfig(level=LOGLEVEL)
+    logging.basicConfig(level=LOGLEVEL, format='%(asctime)s %(levelname)s %(message)s')
 
     parser = argparse.ArgumentParser(
         description='Create GeoJSON files containing FTTP upgrade details for the prescribed suburb.')
@@ -212,8 +226,10 @@ if __name__ == "__main__":
         '-H', '--dbhost', help='The hostname for the database', default='localhost')
     parser.add_argument(
         '-P', '--dbport', help='The port number for the database', default='5433')
+    parser.add_argument(
+        '-i', '--create_index', help='Whether to add an index to the DB to help speed up queries', default=True)
     args = parser.parse_args()
 
     connect_to_db("postgres", args.dbhost, args.dbport,
-                  args.dbuser, args.dbpassword)
+                  args.dbuser, args.dbpassword, args.create_index)
     process_suburb(args.target_suburb, args.target_state)
