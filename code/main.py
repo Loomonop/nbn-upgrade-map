@@ -173,7 +173,8 @@ def get_all_addresses(suburb: str, state: str) -> list:
 
     # TODO Each thread that accesses a cache should also call close on the cache.
     DISK_CACHE.close()
-    print(DISK_CACHE.stats())
+    hits, misses = DISK_CACHE.stats(reset=True)
+    logging.info('Cache stats: %d hits, %d misses', hits, misses)
 
     return addresses
 
