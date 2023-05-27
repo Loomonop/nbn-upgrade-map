@@ -10,6 +10,7 @@ from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from threading import Lock
 
+import diskcache
 import psycopg2
 import psycopg2.errors
 import requests
@@ -19,9 +20,8 @@ LOOKUP_URL = "https://places.nbnco.net.au/places/v1/autocomplete?query="
 DETAIL_URL = "https://places.nbnco.net.au/places/v2/details/"
 HEADERS = {"referer": "https://www.nbnco.com.au/"}
 
-# set HTTP_CACHE to TRUE to use cached results from the NBN API
-# Maybe this is a bad idea, but it's a lot faster than hitting the API
-HTTP_CACHE = os.environ.get('HTTP_CACHE', 'FALSE').upper() == 'TRUE'
+DISK_CACHE = diskcache.Cache('cache', statistics=True)  # 1GB LRU cache of gnaf_pid->loc_id and loc_id->details
+
 
 def connect_to_db(database: str, host: str, port: str, user: str, password: str, create_index: bool = True):
     """Connect to the database"""
@@ -58,7 +58,7 @@ def connect_to_db(database: str, host: str, port: str, user: str, password: str,
 def get_addresses(target_suburb: str, target_state: str) -> list:
     """Return a list of addresses for the provided suburb+state from the database."""
     query = f"""
-        SELECT address, locality_name, postcode, latitude, longitude
+        SELECT gnaf_pid, address, locality_name, postcode, latitude, longitude
         FROM {db_schema}.address_principals
         WHERE locality_name = '{target_suburb}' AND state = '{target_state}'
         LIMIT 100000"""
@@ -69,6 +69,7 @@ def get_addresses(target_suburb: str, target_state: str) -> list:
     row = cur.fetchone()
     while row is not None:
         address = {
+            "gnaf_pid": row.gnaf_pid,
             "name": f"{row.address} {row.locality_name} {row.postcode}",
             "location": [float(row.longitude), float(row.latitude)]
         }
@@ -79,36 +80,32 @@ def get_addresses(target_suburb: str, target_state: str) -> list:
 
 
 def get_nbn_data_json(url):
-    """Gets a JSON response from a URL, optionally caching the result in a file."""
-    if not HTTP_CACHE:
-        return requests.get(url, stream=True, headers=HEADERS,).json()
-
-    cache_file = f'cache/{url.replace("/", "_").replace(":", "_")}.json'
-    if os.path.exists(cache_file):
-        with open(cache_file, "r") as infile:
-            return json.load(infile)
-    else:
-        result = requests.get(url, stream=True, headers=HEADERS).json()
-        os.makedirs('cache', exist_ok=True)
-        with open(cache_file, "w") as outfile:
-            json.dump(result, outfile)
-        return result
+    """Gets a JSON response from a URL."""
+    return requests.get(url, stream=True, headers=HEADERS).json()
 
 
-def get_nbn_loc_id(address: str) -> str:
+def get_nbn_loc_id(key: str, address: str) -> str:
     """Return the NBN locID for the provided address, or None if there was an error."""
-    return get_nbn_data_json(LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]  # may not start with LOC
+    if key in DISK_CACHE:
+        return DISK_CACHE[key]
+    loc_id = get_nbn_data_json(LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]
+    DISK_CACHE[key] = loc_id  # cache indefinitely
+    return loc_id
 
 
 def get_nbn_loc_details(id: str) -> dict:
-    """Return the NBN locID for the provided address, or None if there was an error."""
-    return get_nbn_data_json(DETAIL_URL + id)
+    """Return the NBN details for the provided id, or None if there was an error."""
+    if id in DISK_CACHE:
+        return DISK_CACHE[id]
+    details = get_nbn_data_json(DETAIL_URL + id)
+    DISK_CACHE.set(id, details, expire=60 * 60 * 24 * 7)  # cache for 7 days
+    return details
 
 
 def augment_address_with_nbn_data(address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     try:
-        loc_id = get_nbn_loc_id(address["name"])
+        loc_id = get_nbn_loc_id(address["gnaf_pid"], address["name"])
         status = get_nbn_loc_details(loc_id)
         address["locID"] = loc_id
         address["tech"] = status["addressDetail"]["techType"]
@@ -173,6 +170,10 @@ def get_all_addresses(suburb: str, state: str) -> list:
             logging.error('Unhandled exception: %s', e)
     logging.info('Tally of tech types: %s', Counter([address.get("tech") for address in addresses]))
     logging.info('Location ID starting with "LOC": %s', Counter([address.get("locID","").startswith("LOC") for address in addresses]))
+
+    # TODO Each thread that accesses a cache should also call close on the cache.
+    DISK_CACHE.close()
+    print(DISK_CACHE.stats())
 
     return addresses
 
