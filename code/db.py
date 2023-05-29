@@ -28,8 +28,7 @@ class AddressDB:
         if create_index:
             try:
                 logging.info('Creating DB index...')
-                self.cur.execute(
-                    f"CREATE index address_name_state on {self.db_schema}.address_principals (locality_name, state)")
+                self.cur.execute(f"CREATE index address_name_state on {self.db_schema}.address_principals (locality_name, state)")
                 self.conn.commit()
             except psycopg2.errors.DuplicateTable:
                 logging.info('Skipping index creation as already exists')

@@ -18,6 +18,7 @@ class NBNApi:
         self.cache = diskcache.Cache('cache', statistics=True)
 
     def close(self):
+        """Close the cache."""
         # TODO Each thread that accesses a cache should also call close on the cache.
         self.cache.close()
         hits, misses = self.cache.stats(reset=True)

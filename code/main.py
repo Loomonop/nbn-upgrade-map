@@ -50,7 +50,7 @@ def select_suburb(target_suburb: str, target_state: str) -> tuple:
     return target_suburb, target_state
 
 
-def get_all_addresses(db: AddressDB, nbn: NBNApi, suburb: str, state: str) -> list:
+def get_all_addresses(db: AddressDB, nbn: NBNApi, suburb: str, state: str, max_threads: int = 10) -> list:
     """Fetch all addresses for suburb+state from the DB and then fetch the upgrade+tech details for each address."""
     logging.info('Fetching all addresses for %s, %s', suburb.title(), state)
     addresses = db.get_addresses(suburb, state)
@@ -61,14 +61,15 @@ def get_all_addresses(db: AddressDB, nbn: NBNApi, suburb: str, state: str) -> li
         with progress_indicator.lock:
             progress_indicator.tasks_completed += 1
             if progress_indicator.tasks_completed % 100 == 0:
-                logging.info('Completed %d tasks', progress_indicator.tasks_completed)
+                logging.info('Completed %d tasks',
+                             progress_indicator.tasks_completed)
 
     progress_indicator.tasks_completed = 0
     progress_indicator.lock = Lock()
 
     logging.info('Submitting %d requests to add NBNco data...', len(addresses))
     threads = []
-    with ThreadPoolExecutor(max_workers=20) as executor:
+    with ThreadPoolExecutor(max_workers=max_threads) as executor:
         for address in addresses:
             future = executor.submit(augment_address_with_nbn_data, nbn, address)
             future.add_done_callback(progress_indicator)
@@ -124,24 +125,25 @@ def write_geojson_file(suburb: str, state: str, formatted_addresses: dict):
         logging.warning('No addresses found for %s, %s', suburb.title(), state)
 
 
-def process_suburb(db: AddressDB, nbn: NBNApi, target_suburb: str, target_state: str):
+def process_suburb(db: AddressDB, nbn: NBNApi, target_suburb: str, target_state: str, max_threads: int = 10):
     """Query the DB for addresses, augment them with upgrade+tech details, and write the results to a file."""
     suburb, state = select_suburb(target_suburb, target_state)
     if suburb == 'NA':
         logging.error('No more suburbs to process')
     else:
-        addresses = get_all_addresses(db, nbn, suburb, state)
+        addresses = get_all_addresses(db, nbn, suburb, state, max_threads)
         formatted_addresses = format_addresses(addresses)
         write_geojson_file(suburb, state, formatted_addresses)
 
 
 def main():
+    """Parse command line arguments and start processing selected suburb."""
     parser = argparse.ArgumentParser(
         description='Create GeoJSON files containing FTTP upgrade details for the prescribed suburb.')
     parser.add_argument(
-        'target_suburb', help='The name of a suburb, for example "bli-bli", or "NA" to process the next suburb')
+        'target_suburb', help='The name of a suburb, for example "bli-bli", or "NA" to process the next suburb', default='NA')
     parser.add_argument(
-        'target_state', help='The name of a state, for example "QLD"')
+        'target_state', help='The name of a state, for example "QLD"', default='NA')
     parser.add_argument(
         '-u', '--dbuser', help='The name of the database user', default='postgres')
     parser.add_argument(
@@ -152,12 +154,13 @@ def main():
         '-P', '--dbport', help='The port number for the database', default='5433')
     parser.add_argument(
         '-i', '--create_index', help='Whether to add an index to the DB to help speed up queries', default=True)
+    parser.add_argument(
+        '-n', '--threads', help='The number of threads to use', default=10, type=int, choices=range(1, 40))
     args = parser.parse_args()
 
-    db = AddressDB("postgres", args.dbhost, args.dbport,
-                   args.dbuser, args.dbpassword, args.create_index)
+    db = AddressDB("postgres", args.dbhost, args.dbport, args.dbuser, args.dbpassword, args.create_index)
     nbn = NBNApi()
-    process_suburb(db, nbn, args.target_suburb, args.target_state)
+    process_suburb(db, nbn, args.target_suburb, args.target_state, args.threads)
 
 
 if __name__ == "__main__":
