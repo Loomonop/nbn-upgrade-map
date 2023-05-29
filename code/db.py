@@ -21,16 +21,14 @@ class AddressDB:
         self.cur = self.conn.cursor()
 
         # detect the schema used by the DB
-        self.cur.execute(
-            "SELECT schema_name FROM information_schema.schemata where schema_name like 'gnaf_%'")
+        self.cur.execute("SELECT schema_name FROM information_schema.schemata where schema_name like 'gnaf_%'")
         self.db_schema = self.cur.fetchone().schema_name
 
         # optionally create a DB index
         if create_index:
             try:
                 logging.info('Creating DB index...')
-                self.cur.execute(
-                    f"CREATE index address_name_state on {self.db_schema}.address_principals (locality_name, state)")
+                self.cur.execute(f"CREATE index address_name_state on {self.db_schema}.address_principals (locality_name, state)")
                 self.conn.commit()
             except psycopg2.errors.DuplicateTable:
                 logging.info('Skipping index creation as already exists')
