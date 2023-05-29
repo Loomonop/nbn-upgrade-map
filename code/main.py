@@ -17,16 +17,13 @@ from nbn import NBNApi
 def augment_address_with_nbn_data(nbn: NBNApi, address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     try:
-        loc_id = nbn.extended_get_nbn_loc_id(
-            address["gnaf_pid"], address["name"])
+        loc_id = nbn.extended_get_nbn_loc_id(address["gnaf_pid"], address["name"])
         status = nbn.get_nbn_loc_details(loc_id)
         address["locID"] = loc_id
         address["tech"] = status["addressDetail"]["techType"]
-        address["upgrade"] = status["addressDetail"].get(
-            "altReasonCode", "UNKNOWN")
+        address["upgrade"] = status["addressDetail"].get("altReasonCode", "UNKNOWN")
     except requests.exceptions.RequestException as err:
-        logging.warning('Error fetching NBN data for %s: %s',
-                        address["name"], err)
+        logging.warning('Error fetching NBN data for %s: %s', address["name"], err)
     # other exceptions are raised to the caller
 
 
@@ -81,17 +78,14 @@ def get_all_addresses(db: AddressDB, suburb: str, state: str, max_threads: int =
             chunk = addresses[i:i + chunk_size]
             future = executor.submit(process_chunk, chunk)
             threads.append(future)
-    exceptions = [thread.exception()
-                  for thread in threads if thread.exception() is not None]
+    exceptions = [thread.exception() for thread in threads if thread.exception() is not None]
     logging.info('All threads completed, %d exceptions', len(exceptions))
     # TODO: not the most elegant way to handle this
     for e in exceptions:
         if not isinstance(e, requests.exceptions.RequestException):
             logging.error('Unhandled exception: %s', e)
-    logging.info('Tally of tech types: %s', Counter(
-        [address.get("tech") for address in addresses]))
-    logging.info('Location ID starting with "LOC": %s', Counter(
-        [address.get("locID", "").startswith("LOC") for address in addresses]))
+    logging.info('Tally of tech types: %s', Counter([address.get("tech") for address in addresses]))
+    logging.info('Location ID starting with "LOC": %s', Counter([address.get("locID", "").startswith("LOC") for address in addresses]))
 
     return addresses
 
@@ -168,13 +162,11 @@ def main():
         '-n', '--threads', help='The number of threads to use', default=10, type=int, choices=range(1, 40))
     args = parser.parse_args()
 
-    db = AddressDB("postgres", args.dbhost, args.dbport,
-                   args.dbuser, args.dbpassword, args.create_index)
+    db = AddressDB("postgres", args.dbhost, args.dbport, args.dbuser, args.dbpassword, args.create_index)
     process_suburb(db, args.target_suburb, args.target_state, args.threads)
 
 
 if __name__ == "__main__":
     LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
-    logging.basicConfig(
-        level=LOGLEVEL, format='%(asctime)s %(levelname)s %(message)s')
+    logging.basicConfig(level=LOGLEVEL, format='%(asctime)s %(levelname)s %(message)s')
     main()
