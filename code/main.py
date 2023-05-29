@@ -4,110 +4,20 @@ import argparse
 import json
 import logging
 import os
-import sys
-import urllib.parse
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from threading import Lock
-
-import diskcache
-import psycopg2
-import psycopg2.errors
 import requests
-from psycopg2.extras import NamedTupleCursor
 
-LOOKUP_URL = "https://places.nbnco.net.au/places/v1/autocomplete?query="
-DETAIL_URL = "https://places.nbnco.net.au/places/v2/details/"
-HEADERS = {"referer": "https://www.nbnco.com.au/"}
-
-DISK_CACHE = diskcache.Cache('cache', statistics=True)  # 1GB LRU cache of gnaf_pid->loc_id and loc_id->details
+from db import AddressDB
+from nbn import NBNApi
 
 
-def connect_to_db(database: str, host: str, port: str, user: str, password: str, create_index: bool = True):
-    """Connect to the database"""
-    global conn
-    try:
-        conn = psycopg2.connect(
-            database=database,
-            host=host,
-            port=port,
-            user=user,
-            password=password,
-            cursor_factory=NamedTupleCursor
-        )
-    except psycopg2.OperationalError as err:
-        logging.error('Unable to connect to database: %s', err)
-        sys.exit(1)
-
-    global cur
-    cur = conn.cursor()
-
-    global db_schema
-    cur.execute("SELECT schema_name FROM information_schema.schemata where schema_name like 'gnaf_%'")
-    db_schema = cur.fetchone().schema_name
-
-    if create_index:
-        try:
-            logging.info('Creating DB index...')
-            cur.execute(f"CREATE index address_name_state on {db_schema}.address_principals (locality_name, state)")
-            conn.commit()
-        except psycopg2.errors.DuplicateTable:
-            logging.info('Skipping index creation as already exists')
-            conn.rollback()
-
-
-def get_addresses(target_suburb: str, target_state: str) -> list:
-    """Return a list of addresses for the provided suburb+state from the database."""
-    query = f"""
-        SELECT gnaf_pid, address, locality_name, postcode, latitude, longitude
-        FROM {db_schema}.address_principals
-        WHERE locality_name = '{target_suburb}' AND state = '{target_state}'
-        LIMIT 100000"""
-
-    cur.execute(query)
-
-    addresses = []
-    row = cur.fetchone()
-    while row is not None:
-        address = {
-            "gnaf_pid": row.gnaf_pid,
-            "name": f"{row.address} {row.locality_name} {row.postcode}",
-            "location": [float(row.longitude), float(row.latitude)]
-        }
-        addresses.append(address)
-        row = cur.fetchone()
-
-    return addresses
-
-
-def get_nbn_data_json(url):
-    """Gets a JSON response from a URL."""
-    return requests.get(url, stream=True, headers=HEADERS).json()
-
-
-def get_nbn_loc_id(key: str, address: str) -> str:
-    """Return the NBN locID for the provided address, or None if there was an error."""
-    if key in DISK_CACHE:
-        return DISK_CACHE[key]
-    loc_id = get_nbn_data_json(LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]
-    DISK_CACHE[key] = loc_id  # cache indefinitely
-    return loc_id
-
-
-def get_nbn_loc_details(id: str) -> dict:
-    """Return the NBN details for the provided id, or None if there was an error."""
-    if id in DISK_CACHE:
-        return DISK_CACHE[id]
-    details = get_nbn_data_json(DETAIL_URL + id)
-    DISK_CACHE.set(id, details, expire=60 * 60 * 24 * 7)  # cache for 7 days
-    return details
-
-
-def augment_address_with_nbn_data(address: dict):
+def augment_address_with_nbn_data(nbn: NBNApi, address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     try:
-        loc_id = get_nbn_loc_id(address["gnaf_pid"], address["name"])
-        status = get_nbn_loc_details(loc_id)
+        loc_id = nbn.get_nbn_loc_id(address["gnaf_pid"], address["name"])
+        status = nbn.get_nbn_loc_details(loc_id)
         address["locID"] = loc_id
         address["tech"] = status["addressDetail"]["techType"]
         address["upgrade"] = status["addressDetail"].get("altReasonCode", "NULL_NA")
@@ -140,10 +50,10 @@ def select_suburb(target_suburb: str, target_state: str) -> tuple:
     return target_suburb, target_state
 
 
-def get_all_addresses(suburb: str, state: str) -> list:
+def get_all_addresses(db: AddressDB, nbn: NBNApi, suburb: str, state: str) -> list:
     """Fetch all addresses for suburb+state from the DB and then fetch the upgrade+tech details for each address."""
     logging.info('Fetching all addresses for %s, %s', suburb.title(), state)
-    addresses = get_addresses(suburb, state)
+    addresses = db.get_addresses(suburb, state)
     addresses = sorted(addresses, key=lambda k: k['name'])
     logging.info('Fetched %d addresses from database', len(addresses))
 
@@ -160,7 +70,7 @@ def get_all_addresses(suburb: str, state: str) -> list:
     threads = []
     with ThreadPoolExecutor(max_workers=20) as executor:
         for address in addresses:
-            future = executor.submit(augment_address_with_nbn_data, address)
+            future = executor.submit(augment_address_with_nbn_data, nbn, address)
             future.add_done_callback(progress_indicator)
             threads.append(future)
     exceptions = [thread.exception() for thread in threads if thread.exception() is not None]
@@ -170,12 +80,7 @@ def get_all_addresses(suburb: str, state: str) -> list:
         if not isinstance(e, requests.exceptions.RequestException):
             logging.error('Unhandled exception: %s', e)
     logging.info('Tally of tech types: %s', Counter([address.get("tech") for address in addresses]))
-    logging.info('Location ID starting with "LOC": %s', Counter([address.get("locID","").startswith("LOC") for address in addresses]))
-
-    # TODO Each thread that accesses a cache should also call close on the cache.
-    DISK_CACHE.close()
-    hits, misses = DISK_CACHE.stats(reset=True)
-    logging.info('Cache stats: %d hits, %d misses', hits, misses)
+    logging.info('Location ID starting with "LOC": %s', Counter([address.get("locID", "").startswith("LOC") for address in addresses]))
 
     return addresses
 
@@ -219,21 +124,18 @@ def write_geojson_file(suburb: str, state: str, formatted_addresses: dict):
         logging.warning('No addresses found for %s, %s', suburb.title(), state)
 
 
-def process_suburb(target_suburb: str, target_state: str):
+def process_suburb(db: AddressDB, nbn: NBNApi, target_suburb: str, target_state: str):
     """Query the DB for addresses, augment them with upgrade+tech details, and write the results to a file."""
     suburb, state = select_suburb(target_suburb, target_state)
     if suburb == 'NA':
         logging.error('No more suburbs to process')
     else:
-        addresses = get_all_addresses(suburb, state)
+        addresses = get_all_addresses(db, nbn, suburb, state)
         formatted_addresses = format_addresses(addresses)
         write_geojson_file(suburb, state, formatted_addresses)
 
 
-if __name__ == "__main__":
-    LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
-    logging.basicConfig(level=LOGLEVEL, format='%(asctime)s %(levelname)s %(message)s')
-
+def main():
     parser = argparse.ArgumentParser(
         description='Create GeoJSON files containing FTTP upgrade details for the prescribed suburb.')
     parser.add_argument(
@@ -252,6 +154,13 @@ if __name__ == "__main__":
         '-i', '--create_index', help='Whether to add an index to the DB to help speed up queries', default=True)
     args = parser.parse_args()
 
-    connect_to_db("postgres", args.dbhost, args.dbport,
-                  args.dbuser, args.dbpassword, args.create_index)
-    process_suburb(args.target_suburb, args.target_state)
+    db = AddressDB("postgres", args.dbhost, args.dbport,
+                   args.dbuser, args.dbpassword, args.create_index)
+    nbn = NBNApi()
+    process_suburb(db, nbn, args.target_suburb, args.target_state)
+
+
+if __name__ == "__main__":
+    LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
+    logging.basicConfig(level=LOGLEVEL, format='%(asctime)s %(levelname)s %(message)s')
+    main()
