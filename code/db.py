@@ -21,7 +21,8 @@ class AddressDB:
         self.cur = self.conn.cursor()
 
         # detect the schema used by the DB
-        self.cur.execute("SELECT schema_name FROM information_schema.schemata where schema_name like 'gnaf_%'")
+        self.cur.execute(
+            "SELECT schema_name FROM information_schema.schemata where schema_name like 'gnaf_%'")
         self.db_schema = self.cur.fetchone().schema_name
 
         # optionally create a DB index

@@ -18,6 +18,7 @@ class NBNApi:
         self.cache = diskcache.Cache('cache', statistics=True)
 
     def close(self):
+        """Close the cache."""
         # TODO Each thread that accesses a cache should also call close on the cache.
         self.cache.close()
         hits, misses = self.cache.stats(reset=True)
@@ -31,7 +32,8 @@ class NBNApi:
         """Return the NBN locID for the provided address, or None if there was an error."""
         if key in self.cache:
             return self.cache[key]
-        loc_id = self.get_nbn_data_json(self.LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]
+        loc_id = self.get_nbn_data_json(
+            self.LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]
         self.cache[key] = loc_id  # cache indefinitely
         return loc_id
 
@@ -50,5 +52,6 @@ class NBNApi:
         if id in self.cache:
             return self.cache[id]
         details = self.get_nbn_data_json(self.DETAIL_URL + id)
-        self.cache.set(id, details, expire=60 * 60 * 24 * 7)  # cache for 7 days
+        self.cache.set(id, details, expire=60 * 60 *
+                       24 * 7)  # cache for 7 days
         return details
