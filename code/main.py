@@ -157,7 +157,7 @@ def main():
     parser.add_argument(
         '-P', '--dbport', help='The port number for the database', default='5433')
     parser.add_argument(
-        '-i', '--create_index', help='Whether to add an index to the DB to help speed up queries', default=True)
+        '-i', '--create_index', help='Whether to add an index to the DB to help speed up queries', default=True, type=bool)
     parser.add_argument(
         '-n', '--threads', help='The number of threads to use', default=10, type=int, choices=range(1, 40))
     args = parser.parse_args()

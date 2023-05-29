@@ -42,7 +42,7 @@ jobs:
 
       - name: Run program
         run: |
-          python code/main.py "${{ github.event.inputs.suburb }}" "${{ github.event.inputs.state }}" --create_index False
+          python code/main.py "${{ github.event.inputs.suburb }}" "${{ github.event.inputs.state }}" -i False
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
