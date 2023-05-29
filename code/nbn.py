@@ -35,6 +35,16 @@ class NBNApi:
         self.cache[key] = loc_id  # cache indefinitely
         return loc_id
 
+    def extended_get_nbn_loc_id(self, key: str, address: str) -> str:
+        """Return the NBN locID for the provided address, following the addressSplitDetails if required."""
+        loc_id = self.get_nbn_loc_id(key, address)
+        if not loc_id.startswith("LOC"):
+            details = self.get_nbn_loc_details(loc_id)
+            new_address = ' '.join(details['addressSplitDetails'].values())
+            if new_address.lower() != address.lower():
+                loc_id = self.get_nbn_loc_id("X" + key, new_address)
+        return loc_id
+
     def get_nbn_loc_details(self, id: str) -> dict:
         """Return the NBN details for the provided id, or None if there was an error."""
         if id in self.cache:
