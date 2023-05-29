@@ -1,8 +1,12 @@
-import logging
 import urllib.parse
 
 import diskcache
 import requests
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
+
+# 1GB LRU cache of gnaf_pid->loc_id and loc_id->details
+CACHE = diskcache.Cache('cache')
 
 
 class NBNApi:
@@ -14,26 +18,24 @@ class NBNApi:
     }
 
     def __init__(self):
-        # 1GB LRU cache of gnaf_pid->loc_id and loc_id->details
-        self.cache = diskcache.Cache('cache', statistics=True)
+        self.session = requests.Session()
+        self.session.mount('http://', HTTPAdapter(max_retries=(Retry(total=5))))
 
     def close(self):
         """Close the cache."""
         # TODO Each thread that accesses a cache should also call close on the cache.
-        self.cache.close()
-        hits, misses = self.cache.stats(reset=True)
-        logging.info('Cache stats: %d hits, %d misses', hits, misses)
+        CACHE.close()
 
     def get_nbn_data_json(self, url):
         """Gets a JSON response from a URL."""
-        return requests.get(url, stream=True, headers=self.HEADERS).json()
+        return self.session.get(url, stream=True, headers=self.HEADERS).json()
 
     def get_nbn_loc_id(self, key: str, address: str) -> str:
         """Return the NBN locID for the provided address, or None if there was an error."""
-        if key in self.cache:
-            return self.cache[key]
+        if key in CACHE:
+            return CACHE[key]
         loc_id = self.get_nbn_data_json(self.LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]
-        self.cache[key] = loc_id  # cache indefinitely
+        CACHE[key] = loc_id  # cache indefinitely
         return loc_id
 
     def extended_get_nbn_loc_id(self, key: str, address: str) -> str:
@@ -48,8 +50,8 @@ class NBNApi:
 
     def get_nbn_loc_details(self, id: str) -> dict:
         """Return the NBN details for the provided id, or None if there was an error."""
-        if id in self.cache:
-            return self.cache[id]
+        if id in CACHE:
+            return CACHE[id]
         details = self.get_nbn_data_json(self.DETAIL_URL + id)
-        self.cache.set(id, details, expire=60 * 60 * 24 * 7)  # cache for 7 days
+        CACHE.set(id, details, expire=60 * 60 * 24 * 7)  # cache for 7 days
         return details
