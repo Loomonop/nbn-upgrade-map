@@ -37,7 +37,7 @@ jobs:
 
       - name: Run program
         run: |
-          python code/main.py "NA" "NA" -i False
+          python code/main.py "NA" "NA" -i
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
