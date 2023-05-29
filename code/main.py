@@ -10,6 +10,7 @@ from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from threading import Lock
 
+import diskcache
 import psycopg2
 import psycopg2.errors
 import requests
@@ -18,6 +19,8 @@ from psycopg2.extras import NamedTupleCursor
 LOOKUP_URL = "https://places.nbnco.net.au/places/v1/autocomplete?query="
 DETAIL_URL = "https://places.nbnco.net.au/places/v2/details/"
 HEADERS = {"referer": "https://www.nbnco.com.au/"}
+
+DISK_CACHE = diskcache.Cache('cache', statistics=True)  # 1GB LRU cache of gnaf_pid->loc_id and loc_id->details
 
 
 def connect_to_db(database: str, host: str, port: str, user: str, password: str, create_index: bool = True):
@@ -53,11 +56,10 @@ def connect_to_db(database: str, host: str, port: str, user: str, password: str,
             conn.rollback()
 
 
-
 def get_addresses(target_suburb: str, target_state: str) -> list:
     """Return a list of addresses for the provided suburb+state from the database."""
     query = f"""
-        SELECT address, locality_name, postcode, latitude, longitude
+        SELECT gnaf_pid, address, locality_name, postcode, latitude, longitude
         FROM {db_schema}.address_principals
         WHERE locality_name = '{target_suburb}' AND state = '{target_state}'
         LIMIT 100000"""
@@ -68,6 +70,7 @@ def get_addresses(target_suburb: str, target_state: str) -> list:
     row = cur.fetchone()
     while row is not None:
         address = {
+            "gnaf_pid": row.gnaf_pid,
             "name": f"{row.address} {row.locality_name} {row.postcode}",
             "location": [float(row.longitude), float(row.latitude)]
         }
@@ -77,32 +80,40 @@ def get_addresses(target_suburb: str, target_state: str) -> list:
     return addresses
 
 
+def get_nbn_data_json(url):
+    """Gets a JSON response from a URL."""
+    return requests.get(url, stream=True, headers=HEADERS).json()
+
+
+def get_nbn_loc_id(key: str, address: str) -> str:
+    """Return the NBN locID for the provided address, or None if there was an error."""
+    if key in DISK_CACHE:
+        return DISK_CACHE[key]
+    loc_id = get_nbn_data_json(LOOKUP_URL + urllib.parse.quote(address))["suggestions"][0]["id"]
+    DISK_CACHE[key] = loc_id  # cache indefinitely
+    return loc_id
+
+
+def get_nbn_loc_details(id: str) -> dict:
+    """Return the NBN details for the provided id, or None if there was an error."""
+    if id in DISK_CACHE:
+        return DISK_CACHE[id]
+    details = get_nbn_data_json(DETAIL_URL + id)
+    DISK_CACHE.set(id, details, expire=60 * 60 * 24 * 7)  # cache for 7 days
+    return details
+
+
 def augment_address_with_nbn_data(address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     try:
-        req = requests.get(
-            LOOKUP_URL + urllib.parse.quote(address["name"]), stream=True, headers=HEADERS)
-        loc_id = req.json()["suggestions"][0]["id"]
+        loc_id = get_nbn_loc_id(address["gnaf_pid"], address["name"])
+        status = get_nbn_loc_details(loc_id)
+        address["locID"] = loc_id
+        address["tech"] = status["addressDetail"]["techType"]
+        address["upgrade"] = status["addressDetail"].get("altReasonCode", "NULL_NA")
     except requests.exceptions.RequestException as err:
-        logging.debug('Error finding NBN locID for %s: %s',
-                      address["name"], err)
-        return
-    if not loc_id.startswith("LOC"):
-        return
-    try:
-        req = requests.get(DETAIL_URL + loc_id, stream=True, headers=HEADERS)
-        status = req.json()
-    except requests.exceptions.RequestException as err:
-        logging.debug('Error fetching NBN data for %s: %s',
-                      address["name"], err)
-        return
-
-    address["locID"] = loc_id
-    address["tech"] = status["addressDetail"]["techType"]
-    if "altReasonCode" in status['addressDetail']:
-        address["upgrade"] = status['addressDetail']['altReasonCode']
-    else:
-        address["upgrade"] = "NULL_NA"
+        logging.warning('Error fetching NBN data for %s: %s', address["name"], err)
+    # other exceptions are raised to the caller
 
 
 def select_suburb(target_suburb: str, target_state: str) -> tuple:
@@ -152,9 +163,19 @@ def get_all_addresses(suburb: str, state: str) -> list:
             future = executor.submit(augment_address_with_nbn_data, address)
             future.add_done_callback(progress_indicator)
             threads.append(future)
-    logging.info('All threads completed')
+    exceptions = [thread.exception() for thread in threads if thread.exception() is not None]
+    logging.info('All threads completed, %d exceptions', len(exceptions))
+    # TODO: not the most elegant way to handle this
+    for e in exceptions:
+        if not isinstance(e, requests.exceptions.RequestException):
+            logging.error('Unhandled exception: %s', e)
     logging.info('Tally of tech types: %s', Counter([address.get("tech") for address in addresses]))
     logging.info('Location ID starting with "LOC": %s', Counter([address.get("locID","").startswith("LOC") for address in addresses]))
+
+    # TODO Each thread that accesses a cache should also call close on the cache.
+    DISK_CACHE.close()
+    hits, misses = DISK_CACHE.stats(reset=True)
+    logging.info('Cache stats: %d hits, %d misses', hits, misses)
 
     return addresses
 
