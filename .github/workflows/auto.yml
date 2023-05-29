@@ -15,6 +15,7 @@ jobs:
           swap-size-mb: 1024
           remove-dotnet: 'true'
           remove-android: 'true'
+          remove-haskell: 'true'
 
       - name: Checkout
         uses: actions/checkout@v2
@@ -36,7 +37,7 @@ jobs:
 
       - name: Run program
         run: |
-          python code/main.py "NA" "NA"
+          python code/main.py "NA" "NA" --create_index False
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
