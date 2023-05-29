@@ -7,6 +7,7 @@ import os
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from threading import Lock
+
 import requests
 
 from db import AddressDB
@@ -50,29 +51,32 @@ def select_suburb(target_suburb: str, target_state: str) -> tuple:
     return target_suburb, target_state
 
 
-def get_all_addresses(db: AddressDB, nbn: NBNApi, suburb: str, state: str, max_threads: int = 10) -> list:
+def get_all_addresses(db: AddressDB, suburb: str, state: str, max_threads: int = 10) -> list:
     """Fetch all addresses for suburb+state from the DB and then fetch the upgrade+tech details for each address."""
     logging.info('Fetching all addresses for %s, %s', suburb.title(), state)
     addresses = db.get_addresses(suburb, state)
     addresses = sorted(addresses, key=lambda k: k['name'])
     logging.info('Fetched %d addresses from database', len(addresses))
 
-    def progress_indicator(future):
-        with progress_indicator.lock:
-            progress_indicator.tasks_completed += 1
-            if progress_indicator.tasks_completed % 100 == 0:
-                logging.info('Completed %d tasks',
-                             progress_indicator.tasks_completed)
+    chunk_size = 200
+    chunks_completed = 0
+    lock = Lock()
 
-    progress_indicator.tasks_completed = 0
-    progress_indicator.lock = Lock()
+    def process_chunk(chunk):
+        nbn = NBNApi()
+        for address in chunk:
+            augment_address_with_nbn_data(nbn, address)
+        with lock:
+            nonlocal chunks_completed
+            chunks_completed += 1
+            logging.info('Completed %d requests', chunks_completed * chunk_size)
 
     logging.info('Submitting %d requests to add NBNco data...', len(addresses))
     threads = []
     with ThreadPoolExecutor(max_workers=max_threads) as executor:
-        for address in addresses:
-            future = executor.submit(augment_address_with_nbn_data, nbn, address)
-            future.add_done_callback(progress_indicator)
+        for i in range(0, len(addresses), chunk_size):
+            chunk = addresses[i:i + chunk_size]
+            future = executor.submit(process_chunk, chunk)
             threads.append(future)
     exceptions = [thread.exception() for thread in threads if thread.exception() is not None]
     logging.info('All threads completed, %d exceptions', len(exceptions))
@@ -125,13 +129,13 @@ def write_geojson_file(suburb: str, state: str, formatted_addresses: dict):
         logging.warning('No addresses found for %s, %s', suburb.title(), state)
 
 
-def process_suburb(db: AddressDB, nbn: NBNApi, target_suburb: str, target_state: str, max_threads: int = 10):
+def process_suburb(db: AddressDB, target_suburb: str, target_state: str, max_threads: int = 10):
     """Query the DB for addresses, augment them with upgrade+tech details, and write the results to a file."""
     suburb, state = select_suburb(target_suburb, target_state)
     if suburb == 'NA':
         logging.error('No more suburbs to process')
     else:
-        addresses = get_all_addresses(db, nbn, suburb, state, max_threads)
+        addresses = get_all_addresses(db, suburb, state, max_threads)
         formatted_addresses = format_addresses(addresses)
         write_geojson_file(suburb, state, formatted_addresses)
 
@@ -159,8 +163,7 @@ def main():
     args = parser.parse_args()
 
     db = AddressDB("postgres", args.dbhost, args.dbport, args.dbuser, args.dbpassword, args.create_index)
-    nbn = NBNApi()
-    process_suburb(db, nbn, args.target_suburb, args.target_state, args.threads)
+    process_suburb(db, args.target_suburb, args.target_state, args.threads)
 
 
 if __name__ == "__main__":
