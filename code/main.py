@@ -16,7 +16,7 @@ from nbn import NBNApi
 def augment_address_with_nbn_data(nbn: NBNApi, address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     try:
-        loc_id = nbn.get_nbn_loc_id(address["gnaf_pid"], address["name"])
+        loc_id = nbn.extended_get_nbn_loc_id(address["gnaf_pid"], address["name"])
         status = nbn.get_nbn_loc_details(loc_id)
         address["locID"] = loc_id
         address["tech"] = status["addressDetail"]["techType"]
