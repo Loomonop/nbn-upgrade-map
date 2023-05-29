@@ -20,7 +20,7 @@ def augment_address_with_nbn_data(nbn: NBNApi, address: dict):
         status = nbn.get_nbn_loc_details(loc_id)
         address["locID"] = loc_id
         address["tech"] = status["addressDetail"]["techType"]
-        address["upgrade"] = status["addressDetail"].get("altReasonCode", "NULL_NA")
+        address["upgrade"] = status["addressDetail"].get("altReasonCode", "UNKNOWN")
     except requests.exceptions.RequestException as err:
         logging.warning('Error fetching NBN data for %s: %s', address["name"], err)
     # other exceptions are raised to the caller
