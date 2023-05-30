@@ -6,6 +6,7 @@ import logging
 import os
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
 from threading import Lock
 
 import requests
@@ -94,6 +95,7 @@ def format_addresses(addresses: list) -> dict:
     """Convert the list of addresses (with upgrade+tech fields) into a GeoJSON FeatureCollection."""
     formatted_addresses = {
         "type": "FeatureCollection",
+        "generated": datetime.now().isoformat(),
         "features": []
     }
     for address in addresses:
