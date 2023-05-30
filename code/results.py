@@ -18,7 +18,7 @@ if __name__ == "__main__":
             if "generated" not in result:
                 result["generated"] = datetime.now().isoformat()
                 with open(file, "w", encoding="utf-8") as outfile:
-                    json.dump(result, outfile)
+                    json.dump(result, outfile, indent=1)  # indent=1 is to minimise size increase
 
             suburbs.append({
                 "internal": filename.replace("-", " ").upper(),
