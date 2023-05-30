@@ -50,10 +50,14 @@ def print_progress(done_all_suburbs, vs_description: str, vs_file: str):
 
     # we may have done suburbs that are not in the vs list: don't count them
     print(f"Progress vs {vs_description}:")
+    total_done = total_count = 0
     for state in STATES:
         state_done = done_all_suburbs[state] & vs_all_suburbs[state]
         done_percent = len(state_done) / len(vs_all_suburbs[state]) * 100
+        total_done += len(state_done)
+        total_count += len(vs_all_suburbs[state])
         print(f"  {state}: {len(state_done)} / {len(vs_all_suburbs[state])}  ({done_percent:.1f}%)")
+    print(f"  TOTAL: {total_done} / {total_count}  ({total_done / total_count * 100:.1f}%)")
 
 
 if __name__ == "__main__":
