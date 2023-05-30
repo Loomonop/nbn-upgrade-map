@@ -126,7 +126,7 @@ def write_geojson_file(suburb: str, state: str, formatted_addresses: dict):
         target_suburb_file = suburb.lower().replace(" ", "-")
         with open(f"results/{state}/{target_suburb_file}.geojson", "w", encoding="utf-8") as outfile:
             logging.info('Writing results to %s', outfile.name)
-            json.dump(formatted_addresses, outfile)
+            json.dump(formatted_addresses, outfile, indent=1)  # indent=1 is to minimise size increase
     else:
         logging.warning('No addresses found for %s, %s', suburb.title(), state)
 
