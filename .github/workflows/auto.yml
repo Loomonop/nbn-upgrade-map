@@ -5,7 +5,7 @@ on:
     types: [auto-suburb]
 
 jobs:
-  test:
+  auto-suburb:
     runs-on: ubuntu-latest
     steps:
       - name: Maximize build space

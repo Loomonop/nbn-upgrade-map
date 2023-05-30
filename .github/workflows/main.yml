@@ -10,7 +10,7 @@ on:
         description: 'State of suburb to check'
 
 jobs:
-  test:
+  suburb-check:
     runs-on: ubuntu-latest
     steps:
       - name: Maximize build space
