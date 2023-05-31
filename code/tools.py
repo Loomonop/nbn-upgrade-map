@@ -1,32 +1,16 @@
-import psycopg2
 import json
 
-conn = psycopg2.connect(
-    database="postgres",
-    host="localhost",
-    user="postgres",
-    password="password",
-    port="5433"
-)
+import psycopg2
+
+conn = psycopg2.connect(database="postgres", host="localhost", user="postgres", password="password", port="5433")
 
 cur = conn.cursor()
 
-cur.execute(f"SELECT DISTINCT locality_name, state FROM gnaf_202302.address_principals")
+cur.execute("SELECT DISTINCT locality_name, state FROM gnaf_202302.address_principals")
 
 rows = cur.fetchall()
 
-suburbs = {
-    "states": {
-        "NSW": [],
-        "VIC": [],
-        "QLD": [],
-        "SA": [],
-        "WA": [],
-        "TAS": [],
-        "NT": [],
-        "ACT": []
-    }
-}
+suburbs = {"states": {"NSW": [], "VIC": [], "QLD": [], "SA": [], "WA": [], "TAS": [], "NT": [], "ACT": []}}
 
 act = []
 act_suburbs = open("results/misc/ACT.txt", "r")
