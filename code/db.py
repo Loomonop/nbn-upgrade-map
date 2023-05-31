@@ -22,7 +22,7 @@ class AddressDB:
         # optionally create a DB index
         if create_index:
             try:
-                logging.info("Creating DB index...")
+                logging.info('Creating DB index...')
                 self.cur.execute(
                     f"CREATE index address_name_state on {self.db_schema}.address_principals (locality_name, state)"
                 )
