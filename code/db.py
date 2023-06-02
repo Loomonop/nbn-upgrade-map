@@ -34,7 +34,7 @@ class AddressDB:
     def get_addresses(self, target_suburb: str, target_state: str) -> list:
         """Return a list of addresses for the provided suburb+state from the database."""
         query = f"""
-            SELECT gnaf_pid, address, locality_name, postcode, latitude, longitude
+            SELECT gnaf_pid, address, postcode, latitude, longitude
             FROM {self.db_schema}.address_principals
             WHERE locality_name = '{target_suburb}' AND state = '{target_state}'
             LIMIT 100000"""
@@ -46,7 +46,7 @@ class AddressDB:
         while row is not None:
             address = {
                 "gnaf_pid": row.gnaf_pid,
-                "name": f"{row.address} {row.locality_name} {row.postcode}",
+                "name": f"{row.address} {target_suburb} {row.postcode}",
                 "location": [float(row.longitude), float(row.latitude)],
             }
             addresses.append(address)
