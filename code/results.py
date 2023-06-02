@@ -1,9 +1,12 @@
 import glob
 import json
 import os
+from collections import Counter
 from datetime import datetime
 
 STATES = ["ACT", "NSW", "NT", "QLD", "SA", "TAS", "VIC", "WA"]
+
+UPGRADE_TALLY = Counter()
 
 
 def collect_completed_suburbs():
@@ -20,6 +23,8 @@ def collect_completed_suburbs():
                 result["generated"] = datetime.now().isoformat()
                 with open(file, "w", encoding="utf-8") as outfile:
                     json.dump(result, outfile, indent=1)  # indent=1 is to minimise size increase
+
+            UPGRADE_TALLY.update(feature["properties"].get("upgrade", "") for feature in result["features"])
 
             suburbs.append(
                 {
@@ -60,6 +65,12 @@ def print_progress(done_all_suburbs, vs_description: str, vs_file: str):
     print(f"  TOTAL: {total_done} / {total_count}  ({total_done / total_count * 100:.1f}%)")
 
 
+def print_upgrade_types():
+    print("Upgrade types:")
+    for k, v in sorted(UPGRADE_TALLY.items()):
+        print(f"  {k}: {v}")
+
+
 if __name__ == "__main__":
     suburbs = collect_completed_suburbs()
     write_results_json(suburbs)
@@ -71,3 +82,4 @@ if __name__ == "__main__":
 
     print_progress(done_suburbs, "Listed Suburbs", "results/suburbs.json")
     print_progress(done_suburbs, "All Suburbs", "results/all_suburbs.json")
+    print_upgrade_types()
