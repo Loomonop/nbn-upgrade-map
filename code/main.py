@@ -4,6 +4,7 @@ import argparse
 import json
 import logging
 import os
+import traceback
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
@@ -18,13 +19,13 @@ def augment_address_with_nbn_data(nbn: NBNApi, address: dict):
     """Fetch the upgrade+tech details for the provided address from the NBN API and add to the address dict."""
     try:
         loc_id = nbn.extended_get_nbn_loc_id(address["gnaf_pid"], address["name"])
-        status = nbn.get_nbn_loc_details(loc_id)
-        address["locID"] = loc_id
-        address["tech"] = status["addressDetail"]["techType"]
-        address["upgrade"] = status["addressDetail"].get("altReasonCode", "UNKNOWN")
+        if loc_id:
+            status = nbn.get_nbn_loc_details(loc_id)
+            address["locID"] = loc_id
+            address["tech"] = status["addressDetail"]["techType"]
+            address["upgrade"] = status["addressDetail"].get("altReasonCode", "UNKNOWN")
     except requests.exceptions.RequestException as err:
         logging.warning("Error fetching NBN data for %s: %s", address["name"], err)
-    # other exceptions are raised to the caller
 
 
 def select_suburb(target_suburb: str, target_state: str) -> tuple:
@@ -65,7 +66,11 @@ def get_all_addresses(db: AddressDB, suburb: str, state: str, max_threads: int =
     def process_chunk(chunk):
         nbn = NBNApi()
         for address in chunk:
-            augment_address_with_nbn_data(nbn, address)
+            try:
+                augment_address_with_nbn_data(nbn, address)
+            except Exception as e:
+                logging.error(traceback.format_exc())  # gobble all exceptions so we can continue processing
+
         with lock:
             nonlocal chunks_completed
             chunks_completed += 1
@@ -84,18 +89,28 @@ def get_all_addresses(db: AddressDB, suburb: str, state: str, max_threads: int =
     for e in exceptions:
         if not isinstance(e, requests.exceptions.RequestException):
             logging.error("Unhandled exception: %s", e)
-    logging.info("Tally of tech types: %s", Counter([address.get("tech") for address in addresses]))
-    logging.info(
-        'Location ID starting with "LOC": %s',
-        Counter([address.get("locID", "").startswith("LOC") for address in addresses]),
-    )
+    tech_tally = Counter([address.get("tech") for address in addresses])
+    logging.info("Completed. Tally of tech types: %s", dict(tech_tally))
+
+    loc_tally = Counter()
+    for address in addresses:
+        loc_id = address.get("locID", None)
+        tag = "None" if loc_id is None else "LOC" if loc_id.startswith("LOC") else "Other"
+        loc_tally[tag] += 1
+
+    logging.info("Location ID types: %s", dict(loc_tally))
 
     return addresses
 
 
 def format_addresses(addresses: list, suburb: str) -> dict:
     """Convert the list of addresses (with upgrade+tech fields) into a GeoJSON FeatureCollection."""
-    formatted_addresses = {"type": "FeatureCollection", "generated": datetime.now().isoformat(), "suburb": suburb, "features": []}
+    formatted_addresses = {
+        "type": "FeatureCollection",
+        "generated": datetime.now().isoformat(),
+        "suburb": suburb,
+        "features": [],
+    }
     for address in addresses:
         if "upgrade" in address and "tech" in address:
             formatted_address = {
@@ -149,7 +164,12 @@ def main():
     )
     parser.add_argument("target_state", help='The name of a state, for example "QLD"', default="NA")
     parser.add_argument("-u", "--dbuser", help="The name of the database user", default="postgres")
-    parser.add_argument("-p", "--dbpassword", help="The password for the database user", default="password")
+    parser.add_argument(
+        "-p",
+        "--dbpassword",
+        help="The password for the database user",
+        default="password",
+    )
     parser.add_argument("-H", "--dbhost", help="The hostname for the database", default="localhost")
     parser.add_argument("-P", "--dbport", help="The port number for the database", default="5433")
     parser.add_argument(
@@ -159,12 +179,29 @@ def main():
         action="store_false",
     )
     parser.add_argument(
-        "-n", "--threads", help="The number of threads to use", default=10, type=int, choices=range(1, 41)
+        "-n",
+        "--threads",
+        help="The number of threads to use",
+        default=10,
+        type=int,
+        choices=range(1, 41),
     )
     args = parser.parse_args()
 
-    db = AddressDB("postgres", args.dbhost, args.dbport, args.dbuser, args.dbpassword, args.create_index)
-    process_suburb(db, args.target_suburb, args.target_state, args.threads)
+    db = AddressDB(
+        "postgres",
+        args.dbhost,
+        args.dbport,
+        args.dbuser,
+        args.dbpassword,
+        args.create_index,
+    )
+    # process_suburb(db, args.target_suburb, args.target_state, args.threads)
+    with open("results/suburbs.json", "r", encoding="utf-8") as file:
+        suburb_list = json.load(file)
+        state = "VIC"
+        for suburb in suburb_list["states"][state]:
+            process_suburb(db, suburb, state, args.threads)
 
 
 if __name__ == "__main__":
