@@ -1,5 +1,6 @@
 import itertools
 import logging
+from argparse import ArgumentParser, Namespace
 
 import data
 import psycopg2
@@ -54,8 +55,8 @@ class AddressDB:
 
         return addresses
 
-    def get_progress(self, suburbs_states: dict) -> dict:
-        """Calculate a state-by-state completion progress relative to the DB totals."""
+    def get_list_vs_total(self, suburbs_states: dict) -> dict:
+        """Calculate which fraction of the entire dataset is represented by the given list of state+suburb."""
         self.cur.execute("SELECT state, COUNT(*) FROM address_principals GROUP BY state")
         states = {row.state: {"total": row.count} for row in self.cur.fetchall()}
 
@@ -73,18 +74,58 @@ class AddressDB:
         for row in self.cur.fetchall():
             states[row.state]["completed"] = row.count
 
+        # add a totals row
+        total_completed = sum(sp.get("completed", 0) for sp in states.values())
+        total = sum(sp.get("total", 0) for sp in states.values())
+        states["total"] = {"completed": total_completed, "total": total}
+
         return states
 
-    def get_and_log_progress(self, suburbs_states: dict) -> dict:
-        """Calculate and log a state-by-state completion progress relative to the DB totals."""
-        progress = self.get_progress(suburbs_states)
+    def get_counts_by_suburb(self) -> dict:
+        """return a tally of addresses by state and suburb"""
+        query = f"""
+            SELECT locality_name, state, COUNT(*)
+            FROM address_principals
+            GROUP BY locality_name, state
+            ORDER BY state, locality_name
+        """
+        self.cur.execute(query)
 
-        total_completed = total = 0
-        for state, sp in progress.items():
-            s_completed, s_total = sp.get("completed", 0), sp.get("total", 0)
-            logging.info("%5s: %d/%d (%.1f%%)", state, s_completed, s_total, s_completed / s_total * 100)
-            total_completed += s_completed
-            total += s_total
-        logging.info("Total: %d/%d (%.1f%%)", total_completed, total, total_completed / total * 100)
+        results = {}
+        for record in self.cur.fetchall():
+            if record.state not in results:
+                results[record.state] = {}
+            results[record.state][record.locality_name] = record.count
 
-        return progress
+        return results
+
+
+def add_db_arguments(parser: ArgumentParser):
+    """Add arguments to the provided parser for connecting to the DB"""
+    parser.add_argument("-u", "--dbuser", help="The name of the database user", default="postgres")
+    parser.add_argument(
+        "-p",
+        "--dbpassword",
+        help="The password for the database user",
+        default="password",
+    )
+    parser.add_argument("-H", "--dbhost", help="The hostname for the database", default="localhost")
+    parser.add_argument("-P", "--dbport", help="The port number for the database", default="5433")
+    parser.add_argument(
+        "-i",
+        "--create_index",
+        help="Whether to disable adding an index to the DB to help speed up queries (only used for GitHub Actions)",
+        action="store_false",
+    )
+
+
+def connect_to_db(args: Namespace) -> AddressDB:
+    """return a DB connection based on the provided args"""
+    return AddressDB(
+        "postgres",
+        args.dbhost,
+        args.dbport,
+        args.dbuser,
+        args.dbpassword,
+        args.create_index,
+    )
