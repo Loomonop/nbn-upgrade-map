@@ -31,7 +31,7 @@ def select_suburb(target_suburb: str, target_state: str) -> tuple:
                     completed_suburbs[state] = set()
                 completed_suburbs[state].add(suburb)
         # load the list of all suburbs
-        with open("results/suburbs.json", "r", encoding="utf-8") as file:
+        with open("results/all_suburbs.json", "r", encoding="utf-8") as file:
             suburb_list = json.load(file)
             for state, suburbs in suburb_list["states"].items():
                 for suburb in suburbs:
