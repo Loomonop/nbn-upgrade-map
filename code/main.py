@@ -26,7 +26,7 @@ def select_suburb(target_suburb: str, target_state: str) -> tuple:
         completed_suburbs = get_completed_suburbs_by_state()
         # load the list of all suburbs
         suburb_list = get_all_suburbs()
-        for state, suburbs in suburb_list["states"].items():
+        for state, suburbs in suburb_list.items():
             for suburb in suburbs:
                 if state not in completed_suburbs or suburb not in completed_suburbs[state]:
                     return suburb, state
