@@ -18,12 +18,7 @@ def read_json_file(filename):
 
 def format_addresses(addresses: AddressList, suburb: str) -> dict:
     """Convert the list of addresses (with upgrade+tech fields) into a GeoJSON FeatureCollection."""
-    formatted_addresses = {
-        "type": "FeatureCollection",
-        "generated": datetime.now().isoformat(),
-        "suburb": suburb,
-        "features": [],
-    }
+    features = []
     for address in addresses:
         if address.upgrade and address.tech:
             formatted_address = {
@@ -37,9 +32,14 @@ def format_addresses(addresses: AddressList, suburb: str) -> dict:
                     "gnaf_pid": address.gnaf_pid,
                 },
             }
-            formatted_addresses["features"].append(formatted_address)
+            features.append(formatted_address)
 
-    return formatted_addresses
+    return {
+        "type": "FeatureCollection",
+        "generated": datetime.now().isoformat(),
+        "suburb": suburb,
+        "features": sorted(features, key=lambda x: x["properties"]["gnaf_pid"]),
+    }
 
 
 def get_geojson_filename(suburb: str, state: str) -> str:
