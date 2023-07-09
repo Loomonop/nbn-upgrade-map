@@ -5,12 +5,11 @@ from collections import Counter
 from datetime import datetime
 
 import data
-import geojson
 from db import add_db_arguments, connect_to_db
 from suburbs import (
     get_all_suburbs,
-    get_completed_suburbs_by_state,
     get_completed_suburbs,
+    get_completed_suburbs_by_state,
     get_listed_suburbs,
     write_results_json,
 )
@@ -24,7 +23,10 @@ def update_existing_suburbs(suburbs: list):
     for new_suburb in suburbs:
         add_suburb = True
         for existing_suburb in existing:
-            if new_suburb["internal"] == existing_suburb["internal"] and new_suburb["state"] == existing_suburb["state"]:
+            if (
+                new_suburb["internal"] == existing_suburb["internal"]
+                and new_suburb["state"] == existing_suburb["state"]
+            ):
                 existing_suburb.update(new_suburb)
                 add_suburb = False
                 break
@@ -39,7 +41,7 @@ def collect_completed_suburbs():
     for state in data.STATES:
         for file in glob.glob(f"results/{state}/*.geojson"):
             filename, _ = os.path.splitext(os.path.basename(file))
-            result = geojson.read_json_file(file)
+            result = data.read_json_file(file)
 
             # Check if result has a "suburb" field
             suburb = result.get("suburb", filename.replace("-", " "))
@@ -47,7 +49,7 @@ def collect_completed_suburbs():
             # fixup any missing generated dates
             if "generated" not in result:
                 result["generated"] = datetime.now().isoformat()
-                geojson.write_json_file(file, result, indent=1)  # indent=1 is to minimise size increase
+                data.write_json_file(file, result, indent=1)  # indent=1 is to minimise size increase
 
             UPGRADE_TALLY.update(feature["properties"].get("upgrade", "") for feature in result["features"])
 
@@ -146,9 +148,7 @@ def print_upgrade_types():
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Emit a summary of progress against the list of suburbs in the DB."
-    )
+    parser = argparse.ArgumentParser(description="Emit a summary of progress against the list of suburbs in the DB.")
     parser.add_argument(
         "-s",
         "--simple",
@@ -194,7 +194,7 @@ def main():
         },
         "addresses": address_vs,
     }
-    geojson.write_json_file("results/progress.json", results)  # indent=1 is to minimise size increase
+    data.write_json_file("results/progress.json", results)  # indent=1 is to minimise size increase
 
 
 if __name__ == "__main__":
