@@ -28,7 +28,7 @@ jobs:
 
       - name: Run program
         run: |
-          python code/main.py -i
+          python code/main.py -i -t 30
 
       - name: Run results
         run: |

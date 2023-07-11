@@ -15,6 +15,7 @@ from suburbs import (
 )
 
 UPGRADE_TALLY = Counter()
+CONNECTION_TALLY = Counter()
 
 
 def update_existing_suburbs(suburbs: list):
@@ -47,6 +48,7 @@ def collect_completed_suburbs():
             suburb = result.get("suburb", filename.replace("-", " "))
 
             UPGRADE_TALLY.update(feature["properties"].get("upgrade", "") for feature in result["features"])
+            CONNECTION_TALLY.update(feature["properties"].get("tech", "") for feature in result["features"])
 
             suburbs.append(
                 {
@@ -142,6 +144,12 @@ def print_upgrade_types():
         print(f"  {k}: {v}")
 
 
+def print_connection_types():
+    print("Connection types:")
+    for k, v in sorted(CONNECTION_TALLY.items()):
+        print(f"  {k}: {v}")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Emit a summary of progress against the list of suburbs in the DB.")
     parser.add_argument(
@@ -175,6 +183,7 @@ def main():
     print_progress(suburb_vs_all)
 
     print_upgrade_types()
+    print_connection_types()
 
     address_vs = collect_address_progress()
     print("Progress vs Addresses in Listed Suburbs")
