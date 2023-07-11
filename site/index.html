@@ -133,7 +133,11 @@
                     },
                     onEachFeature: function (feature, layer) {
                         // popup with place name and upgrade type
-                        layer.bindPopup("<b>" + feature.properties.name + "</b><br>Current tech: " + feature.properties.tech + "<br>Upgrade available: " + (feature.properties.upgrade == "FTTP_SA" ? "Yes" : feature.properties.tech == "FTTP" ? "N/A" : "No"));
+                        layer.bindPopup(
+                            "<b>" + feature.properties.name + 
+                            "</b><br>Current tech: " + feature.properties.tech + 
+                            "<br>Upgrade available: " + (feature.properties.upgrade == "FTTP_SA" ? "Yes" : feature.properties.tech == "FTTP" ? "N/A" : "No")
+                        );
                     }
                 }).addTo(map);
                 // Create stats table
@@ -160,6 +164,7 @@
                         statsHTML += '<tr><td>' + tech + '</td><td>' + techs[tech] + '</td></tr>';
                     }
                     statsHTML += '</table>';
+                    statsHTML += 'Last Update: ' + new Date(data["generated"]).toLocaleDateString("en-AU");
                     div.innerHTML = statsHTML;
                     return div;
                 }
