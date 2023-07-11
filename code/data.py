@@ -40,7 +40,7 @@ AddressList = list[Address]
 
 # A combination of results.json and suburbs.json/all_suburbs.json plus suburb-dates
 #             "internal": "AINSLIE",
-#             "state": "ACT",
+#             "state": "ACT",  # removed from file/structure; add manually to dict if required
 #             "name": "Ainslie",
 #             "file": "ainslie",
 #             "date": "05-06-2023"
@@ -49,13 +49,23 @@ AddressList = list[Address]
 @dataclass(slots=True)
 class Suburb:
     name: str
-    # internal: str
-    state: str  # redundant but useful
-    # file: str # redundant but useful
     processed_date: datetime = None
     announced: bool = False  # should be redundant vs announced_date, but isn't
     announced_date: str = None  # TODO: datetime?
-    # completed: bool
+
+    @property
+    def internal(self):
+        return self.name.upper().replace(" ", "-")
+
+    @property
+    def file(self):
+        return self.name.lower().replace(" ", "-")
+
+    def __eq__(self, other):
+        return self.name == other.name
+
+    def __lt__(self, other):
+        return self.name < other.name
 
 
 def write_json_file(filename: str, data: dict, indent=4):
