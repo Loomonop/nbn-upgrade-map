@@ -127,9 +127,41 @@
                 // add circle marker for each feature
                 L.geoJson(data, {
                     pointToLayer: function (feature, latlng) {
+                        var color = "#000000";
+                        switch(feature.properties.tech) {
+                            case "FTTP":
+                                color = "#00aa00";
+                                break;
+                            case "FTTC":
+                                color = "#ff0000";
+                                break;
+                            case "FTTB":
+                                color = "#ff0000";
+                                break;
+                            case "FTTN":
+                                color = "#ff0000";
+                                break;
+                            case "HFC":
+                                color = "#ffa500";
+                                break;
+                            case "WIRELESS":
+                                color = "#ff0000";
+                                break;
+                            case "SATELLITE":
+                                color = "#ff0000";
+                                break;
+                            case "NULL":
+                                color = "#888888";
+                                break;
+                        }
+                        switch(feature.properties.upgrade) {
+                            case "FTTP_SA":
+                                color = "#00ff00";
+                                break;
+                        }
                         return L.circleMarker(latlng, {
                             radius: 5,
-                            fillColor: feature.properties.upgrade == "FTTP_SA" ? "#00ff00" : feature.properties.tech == "FTTP" ? "#00aa00" : feature.properties.tech == "HFC" ? "#ffa500" : feature.properties.upgrade == "UNKNOWN" ? "#888888" : "#ff0000",
+                            fillColor: color,
                             color: "#000000",
                             weight: 1,
                             opacity: 1,
