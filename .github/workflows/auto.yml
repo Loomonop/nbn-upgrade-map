@@ -28,7 +28,7 @@ jobs:
 
       - name: Run program
         run: |
-          python code/main.py "NA" "NA" -i
+          python code/main.py -i
 
       - name: Run results
         run: |
