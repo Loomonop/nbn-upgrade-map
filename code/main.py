@@ -22,7 +22,8 @@ def select_suburb(target_suburb: str, target_state: str) -> tuple[str, str]:
     target_suburb = target_suburb.upper()
     target_state = target_state.upper()
     if target_suburb == "NA":
-        for state, suburb_list in read_all_suburbs().items():
+        suburbs = [(state, sorted(suburb_list, key=lambda s: s.announced, reverse=True)) for state, suburb_list in read_all_suburbs().items()]
+        for state, suburb_list in suburbs:
             for suburb in suburb_list:
                 if suburb.processed_date is None:
                     return suburb.name.upper(), state
