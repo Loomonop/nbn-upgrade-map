@@ -19,16 +19,24 @@ from suburbs import read_all_suburbs
 
 def select_suburb(target_suburb: str, target_state: str) -> tuple[str, str]:
     """Return a (state,suburb) tuple based on the provided input or the next suburb in the list."""
-    target_suburb = target_suburb.upper()
-    target_state = target_state.upper()
-    if target_suburb == "NA":
-        suburbs = [(state, sorted(suburb_list, key=lambda s: s.announced, reverse=True)) for state, suburb_list in read_all_suburbs().items()]
+    suburbs = [(state, sorted(suburb_list, key=lambda s: s.announced, reverse=True)) for state, suburb_list in read_all_suburbs().items()]
+
+    if target_suburb is None or target_state is None:
         for state, suburb_list in suburbs:
             for suburb in suburb_list:
                 if suburb.processed_date is None:
                     return suburb.name.upper(), state
-
-    return target_suburb, target_state
+    else:
+        target_suburb = target_suburb.upper()
+        target_state = target_state.capitalize()
+        for state, suburb_list in suburbs:
+            if state == target_state:
+                for suburb in suburb_list:
+                    if suburb.name == target_suburb:
+                        return suburb.name.upper(), state
+        logging.error("Suburb %s, %s not found in suburbs list", target_suburb, target_state)
+    
+    return None, None
 
 
 def get_address(nbn: NBNApi, address: Address, get_status=True) -> Address:
@@ -116,7 +124,7 @@ def process_suburb(
 ):
     """Query the DB for addresses, augment them with upgrade+tech details, and write the results to a file."""
     suburb, state = select_suburb(target_suburb, target_state)
-    if suburb == "NA":
+    if suburb is None:
         logging.error("No more suburbs to process")
     else:
         # get addresses from DB
@@ -147,12 +155,8 @@ def main():
     parser = argparse.ArgumentParser(
         description="Create GeoJSON files containing FTTP upgrade details for the prescribed suburb."
     )
-    parser.add_argument(
-        "target_suburb",
-        help='The name of a suburb, for example "bli-bli", or "NA" to process the next suburb',
-        default="NA",
-    )
-    parser.add_argument("target_state", help='The name of a state, for example "QLD"', default="NA")
+    parser.add_argument("--suburb", help='The name of a suburb, for example "bli-bli"')
+    parser.add_argument("--state", help='The name of a state, for example "QLD"')
     parser.add_argument(
         "-n",
         "--threads",
@@ -166,7 +170,7 @@ def main():
     args = parser.parse_args()
 
     db = connect_to_db(args)
-    process_suburb(db, args.target_suburb, args.target_state, args.threads, progress_bar=args.progress)
+    process_suburb(db, args.suburb, args.state, args.threads, progress_bar=args.progress)
 
 
 if __name__ == "__main__":
