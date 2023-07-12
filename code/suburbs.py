@@ -4,19 +4,7 @@ import itertools
 from datetime import datetime
 
 import data
-
-
-def get_all_suburbs() -> dict[str, list[str]]:
-    """Return a list of all suburbs by state"""
-    return {state: [suburb.name.upper() for suburb in suburb_list] for state, suburb_list in read_all_suburbs().items()}
-
-
-def get_listed_suburbs() -> dict[str, list[str]]:
-    """Return a list of all suburbs by state (names are uppercased)"""
-    return {
-        state: [suburb.name.upper() for suburb in suburb_list if suburb.announced]
-        for state, suburb_list in read_all_suburbs().items()
-    }
+import results
 
 
 def get_completed_suburbs() -> list[dict]:
@@ -46,18 +34,9 @@ def get_completed_suburbs() -> list[dict]:
     return list(itertools.chain.from_iterable(by_state))
 
 
-def get_completed_suburbs_by_state() -> dict[str, set[str]]:
-    """Return a dict->set(internal-name) of all suburbs by state that have been completed."""
-    # deprecated
-    completed_suburbs = {state: set() for state in data.STATES}
-    for suburb in get_completed_suburbs():
-        completed_suburbs[suburb["state"]].add(suburb["name"].upper())
-    return completed_suburbs
-
-
 def write_results_json(suburbs: list[dict]):
     """Write the list of completed suburbs to a JSON file."""
-    # Compatability with previous API. To be refactored.
+    # Compatibility with previous API. To be refactored.
 
     # make state->suburb->date lookup
     suburb_dates_by_state = {state: {} for state in data.STATES}
@@ -89,7 +68,7 @@ def write_all_suburbs(all_suburbs: dict[str, list[data.Suburb]]):
     data.write_json_file("results/combined-suburbs.json", all_suburbs_dicts, indent=1)
 
 
-def read_all_suburbs() -> dict:
+def read_all_suburbs() -> dict[str, list[data.Suburb]]:
     """Read the new combined file list of all suburbs."""
 
     def _dict_to_suburb(d: dict) -> data.Suburb:
@@ -99,3 +78,16 @@ def read_all_suburbs() -> dict:
     results = data.read_json_file("results/combined-suburbs.json")
     # TODO: convert to dict[str, dict[str, data.Suburb]]  (state->suburub_name->Suburb)
     return {state: sorted(_dict_to_suburb(d) for d in results[state]) for state in sorted(results)}
+
+
+def update_suburb_in_all_suburbs(suburb: str, state: str) -> dict[str, list[data.Suburb]]:
+    """Update the suburb in the combined file."""
+    suburb = suburb.title()
+
+    all_suburbs = read_all_suburbs()
+    found_suburb = next(s for s in all_suburbs[state.upper()] if s.name == suburb)
+    found_suburb.processed_date = datetime.now()
+    write_all_suburbs(all_suburbs)
+
+    results.update_progress()
+    return all_suburbs
