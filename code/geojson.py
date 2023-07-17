@@ -8,21 +8,21 @@ from data import AddressList, read_json_file, write_json_file
 
 def format_addresses(addresses: AddressList, suburb: str) -> dict:
     """Convert the list of addresses (with upgrade+tech fields) into a GeoJSON FeatureCollection."""
-    features = []
-    for address in addresses:
-        if address.upgrade and address.tech:
-            formatted_address = {
-                "type": "Feature",
-                "geometry": {"type": "Point", "coordinates": address.location},
-                "properties": {
-                    "name": address.name,
-                    "locID": address.loc_id,
-                    "tech": address.tech,
-                    "upgrade": address.upgrade,
-                    "gnaf_pid": address.gnaf_pid,
-                },
-            }
-            features.append(formatted_address)
+    features = [
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [address.longitude, address.latitude]},
+            "properties": {
+                "name": address.name,
+                "locID": address.loc_id,
+                "tech": address.tech,
+                "upgrade": address.upgrade,
+                "gnaf_pid": address.gnaf_pid,
+            },
+        }
+        for address in addresses
+        if address.upgrade and address.tech
+    ]
 
     return {
         "type": "FeatureCollection",
@@ -33,6 +33,7 @@ def format_addresses(addresses: AddressList, suburb: str) -> dict:
 
 
 def get_geojson_filename(suburb: str, state: str) -> str:
+    """Get the filename for the GeoJSON file."""
     return f"results/{state.upper()}/{suburb.lower().replace(' ', '-')}.geojson"
 
 
