@@ -28,7 +28,6 @@ jobs:
       uses: actions/checkout@v3
       with:
         sparse-checkout: |
-          /*
           !results
 
     # Initializes the CodeQL tools for scanning.
