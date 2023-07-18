@@ -27,7 +27,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
+        sparse-checkout-cone-mode: false
         sparse-checkout: |
+          /*
           !results
 
     # Initializes the CodeQL tools for scanning.
