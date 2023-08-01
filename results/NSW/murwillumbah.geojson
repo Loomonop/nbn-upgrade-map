@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-04T14:06:15.886718",
+ "generated": "2023-08-01T23:27:42.865174",
  "suburb": "MURWILLUMBAH",
  "features": [
   {
@@ -14500,7 +14500,7 @@
     "name": "146 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000039950269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705448115"
    }
   },
@@ -20109,8 +20109,8 @@
    "properties": {
     "name": "64 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000065312104",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705450762"
    }
   },
@@ -22303,7 +22303,7 @@
     "name": "75 WOLLUMBIN STREET MURWILLUMBAH 2484",
     "locID": "LOC000061472382",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705452013"
    }
   },
@@ -25669,7 +25669,7 @@
     "name": "85 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000062562000",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705453998"
    }
   },
@@ -25737,7 +25737,7 @@
     "name": "91 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000071345385",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705454002"
    }
   },
@@ -36566,7 +36566,7 @@
     "name": "UNIT 1, 91 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000072021867",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708244249"
    }
   },
@@ -54297,7 +54297,7 @@
     "name": "UNIT 1, 85 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000062562000",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717021816"
    }
   },
@@ -54501,7 +54501,7 @@
     "name": "UNIT 2, 85 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000064452123",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717021828"
    }
   },
@@ -59074,7 +59074,7 @@
     "name": "UNIT 1, 75 WOLLUMBIN STREET MURWILLUMBAH 2484",
     "locID": "LOC000061472382",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717644592"
    }
   },
@@ -59278,7 +59278,7 @@
     "name": "UNIT 2, 75 WOLLUMBIN STREET MURWILLUMBAH 2484",
     "locID": "LOC000061472382",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717644604"
    }
   },
@@ -61878,8 +61878,8 @@
    "properties": {
     "name": "2B BENT STREET MURWILLUMBAH 2484",
     "locID": "LOC000014996436",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW717904436"
    }
   },
@@ -63341,7 +63341,7 @@
     "name": "60-62 MURWILLUMBAH STREET MURWILLUMBAH 2484",
     "locID": "LOC000121093150",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717960503"
    }
   },
@@ -82485,6 +82485,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721126067"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.37581232,
+     -28.33205888
+    ]
+   },
+   "properties": {
+    "name": "178E BYANGUM ROAD MURWILLUMBAH 2484",
+    "locID": "LOC000188995332",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721127991"
    }
   },
   {
