@@ -9,6 +9,7 @@ import db
 import geojson
 import requests
 import suburbs
+import utils
 from bs4 import BeautifulSoup
 
 NBN_UPGRADE_DATES_URL = "https://www.nbnco.com.au/residential/upgrades/more-fibre"
@@ -100,7 +101,7 @@ def rebuild_status_file():
 
     # Load list of all suburb dates from NBN website
     suburb_dates = get_nbn_suburb_dates()
-    geojson.write_json_file("results/suburb-dates.json", suburb_dates)
+    utils.write_json_file("results/suburb-dates.json", suburb_dates)
 
     # TODO: Townsville not in DB. Why?  Two similar names included
 
@@ -141,9 +142,9 @@ def resort_results():
     for state in data.STATES:
         for file in glob.glob(f"results/{state}/*.geojson"):
             print(file)
-            result = data.read_json_file(file)
+            result = utils.read_json_file(file)
             result["features"] = sorted(result["features"], key=lambda x: x["properties"]["gnaf_pid"])
-            data.write_json_file(file, result, indent=1)
+            utils.write_json_file(file, result, indent=1)
 
 
 def get_suburb_extents():
@@ -153,7 +154,7 @@ def get_suburb_extents():
     result = xdb.get_extents_by_suburb()
     logging.info("Writing extents")
     # pprint.pprint(result)
-    data.write_json_file("results/suburb-extents.json", result, indent=1)
+    utils.write_json_file("results/suburb-extents.json", result, indent=1)
 
 
 def update_all_suburbs_from_db():
@@ -161,7 +162,7 @@ def update_all_suburbs_from_db():
     db_suburbs = get_db_suburb_list()
     db_suburbs["QLD"].append("Barwidgi")  # hack for empty suburb
     db_suburbs["QLD"].sort()
-    data.write_json_file(
+    utils.write_json_file(
         "results/all_suburbs.json",
         {"states": {state: [suburb.upper() for suburb in suburb_list] for state, suburb_list in db_suburbs.items()}},
     )
