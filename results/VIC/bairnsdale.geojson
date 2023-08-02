@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-05T05:39:02.689078",
+ "generated": "2023-08-02T11:29:39.203497",
  "suburb": "BAIRNSDALE",
  "features": [
   {
@@ -2634,7 +2634,7 @@
     "name": "1 COLLINS STREET BAIRNSDALE 3875",
     "locID": "LOC000036072626",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC410806354"
    }
   },
@@ -7087,7 +7087,7 @@
    "properties": {
     "name": "19 LLEWELYN COURT BAIRNSDALE 3875",
     "locID": "ChIJtS6NZPl-L2sRsTxVGDU4AeA",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419640919"
    }
@@ -20586,7 +20586,7 @@
     "name": "23 BAILEY STREET BAIRNSDALE 3875",
     "locID": "LOC000071178728",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420066203"
    }
   },
@@ -28357,6 +28357,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420373880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.59146489,
+     -37.87450654
+    ]
+   },
+   "properties": {
+    "name": "265 HUMPHREYS ROAD BAIRNSDALE 3875",
+    "locID": "ChIJ0Y81uRh5L2sR86sC0KNsInw",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC420374809"
    }
   },
   {
@@ -66146,7 +66163,7 @@
     "name": "10 COLLINS STREET BAIRNSDALE 3875",
     "locID": "LOC000036072626",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421810928"
    }
   },
@@ -89394,23 +89411,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.60663016,
-     -37.83990686
-    ]
-   },
-   "properties": {
-    "name": "16 ROVAN PLACE BAIRNSDALE 3875",
-    "locID": "LOC000125761064",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424888690"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      147.60642051,
      -37.84020152
     ]
@@ -95735,23 +95735,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.60663016,
-     -37.83990686
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 16 ROVAN PLACE BAIRNSDALE 3875",
-    "locID": "LOC000125761064",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425687851"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      147.60667822,
      -37.83966273
     ]
@@ -95762,23 +95745,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425687852"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     147.60663016,
-     -37.83990686
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 16 ROVAN PLACE BAIRNSDALE 3875",
-    "locID": "LOC000125761064",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425687853"
    }
   },
   {
