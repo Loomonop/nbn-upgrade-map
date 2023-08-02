@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-05T21:31:29.249492",
+ "generated": "2023-08-02T19:14:03.071207",
  "suburb": "SUNSHINE WEST",
  "features": [
   {
@@ -491,8 +491,8 @@
    "properties": {
     "name": "7 HEBE PLACE SUNSHINE WEST 3020",
     "locID": "LOC000041344464",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC412408523"
    }
   },
@@ -1426,8 +1426,8 @@
    "properties": {
     "name": "4 HEBE PLACE SUNSHINE WEST 3020",
     "locID": "LOC000047294994",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC412412335"
    }
   },
@@ -19344,8 +19344,8 @@
    "properties": {
     "name": "1 BRIAR WAY SUNSHINE WEST 3020",
     "locID": "LOC000047961296",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419727629"
    }
   },
@@ -20041,8 +20041,8 @@
    "properties": {
     "name": "5 FOXCROFT COURT SUNSHINE WEST 3020",
     "locID": "LOC000073354209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419802699"
    }
   },
@@ -24189,8 +24189,8 @@
    "properties": {
     "name": "20 NOBLE COURT SUNSHINE WEST 3020",
     "locID": "LOC000008867166",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419902352"
    }
   },
@@ -27045,8 +27045,8 @@
    "properties": {
     "name": "546 SOMERVILLE ROAD SUNSHINE WEST 3020",
     "locID": "LOC000008898479",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419908189"
    }
   },
@@ -31618,8 +31618,8 @@
    "properties": {
     "name": "19 SALVATORE COURT SUNSHINE WEST 3020",
     "locID": "LOC000031070166",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420029866"
    }
   },
@@ -48417,23 +48417,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420512182"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.818883,
-     -37.791735
-    ]
-   },
-   "properties": {
-    "name": "8 OLDFIELD STREET SUNSHINE WEST 3020",
-    "locID": "LOC000089115393",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420512183"
    }
   },
   {
@@ -79286,8 +79269,8 @@
    "properties": {
     "name": "2 EUCALYPTUS COURT SUNSHINE WEST 3020",
     "locID": "LOC000056983247",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421220169"
    }
   },
@@ -79813,7 +79796,7 @@
    "properties": {
     "name": "236 FAIRBAIRN ROAD SUNSHINE WEST 3020",
     "locID": "LOC000191521932",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421240846"
    }
@@ -89656,8 +89639,8 @@
    "properties": {
     "name": "14 CLEMATIS PLACE SUNSHINE WEST 3020",
     "locID": "LOC000089075655",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421449111"
    }
   },
@@ -108051,7 +108034,7 @@
     "name": "1 ADAMS COURT SUNSHINE WEST 3020",
     "locID": "LOC000102346103",
     "tech": "FTTC",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423130340"
    }
   },
@@ -124448,40 +124431,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 14B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071927984",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552943"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 14C, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071968679",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552944"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.81955253,
      -37.81186581
     ]
@@ -124584,23 +124533,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 22A, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071779936",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552951"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.81946233,
      -37.81238647
     ]
@@ -124635,40 +124567,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 23B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000072058456",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552954"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 23C, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071702141",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552955"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.81920484,
      -37.81248769
     ]
@@ -124679,23 +124577,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424552956"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 24B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071679436",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552957"
    }
   },
   {
@@ -124720,23 +124601,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 25B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000072071685",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552959"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.81902446,
      -37.81246802
     ]
@@ -124754,23 +124618,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 26B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071890991",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552961"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.81892596,
      -37.81245727
     ]
@@ -124781,23 +124628,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424552962"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 27B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071729870",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552963"
    }
   },
   {
@@ -124856,23 +124686,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 30B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000072009377",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552967"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.81901663,
      -37.81217561
     ]
@@ -124890,40 +124703,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 31B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000072070720",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552969"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 32B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071552987",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552970"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.81916066,
      -37.81209191
     ]
@@ -124934,40 +124713,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424552971"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 33B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071682669",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552972"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 33C, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071601883",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552973"
    }
   },
   {
@@ -125002,23 +124747,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424552975"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.81905091,
-     -37.81198033
-    ]
-   },
-   "properties": {
-    "name": "FACTORY 35B, 180 FAIRBAIRN ROAD SUNSHINE WEST 3020",
-    "locID": "LOC000071707412",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424552976"
    }
   },
   {
@@ -125815,8 +125543,8 @@
    "properties": {
     "name": "2 COMINO ROAD SUNSHINE WEST 3020",
     "locID": "LOC000011962649",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424614274"
    }
   },
@@ -129861,8 +129589,8 @@
    "properties": {
     "name": "5 PALENCIA CRESCENT SUNSHINE WEST 3020",
     "locID": "LOC000111374542",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424760743"
    }
   },
@@ -136389,8 +136117,8 @@
    "properties": {
     "name": "3 SARAH STREET SUNSHINE WEST 3020",
     "locID": "LOC000159836687",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425168822"
    }
   },
