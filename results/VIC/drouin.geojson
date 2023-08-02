@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-06T05:57:05.897460",
+ "generated": "2023-08-02T22:53:18.978116",
  "suburb": "DROUIN",
  "features": [
   {
@@ -440,8 +440,8 @@
    "properties": {
     "name": "UNIT 1, 15 MCCLURE STREET DROUIN 3818",
     "locID": "LOC000050225200",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC411271391"
    }
   },
@@ -2123,7 +2123,7 @@
    "properties": {
     "name": "96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148487",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411288890"
    }
@@ -3554,23 +3554,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC414619013"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.83241177,
-     -38.10708571
-    ]
-   },
-   "properties": {
-    "name": "116 FAIRWAY DRIVE DROUIN 3818",
-    "locID": "EioxMTYgRmFpcndheSBEciwgRHJvdWluIFZJQyAzODE4LCBBdXN0cmFsaWEiMBIuChQKEglZADocE8ApaxH6s84yvHImshB0KhQKEglZADocE8ApaxGAw6hdF_967A",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC414619014"
    }
   },
   {
@@ -16743,8 +16726,8 @@
    "properties": {
     "name": "16 WILLIAMSON STREET DROUIN 3818",
     "locID": "LOC000075196900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420409541"
    }
   },
@@ -25141,7 +25124,7 @@
    "properties": {
     "name": "70 GARDNER AND HOLMAN ROAD DROUIN 3818",
     "locID": "LOC000063755312",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420931380"
    }
@@ -36871,7 +36854,7 @@
    "properties": {
     "name": "23 CALWAY STREET DROUIN 3818",
     "locID": "LOC000192964601",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421610595"
    }
@@ -64700,7 +64683,7 @@
    "properties": {
     "name": "5 MANALLACK LANE DROUIN 3818",
     "locID": "ChIJuZ0ws0qVKWsRp9rj7lYrFYc",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423811753"
    }
@@ -65907,8 +65890,8 @@
    "properties": {
     "name": "50 LONGWARRY ROAD DROUIN 3818",
     "locID": "LOC000052379679",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423925634"
    }
   },
@@ -67913,8 +67896,8 @@
    "properties": {
     "name": "81 LONGWARRY ROAD DROUIN 3818",
     "locID": "LOC000070383426",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423939601"
    }
   },
@@ -72282,8 +72265,8 @@
    "properties": {
     "name": "5 RIVENDALE CRESCENT DROUIN 3818",
     "locID": "LOC000070074418",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424068035"
    }
   },
@@ -80782,8 +80765,8 @@
    "properties": {
     "name": "17 MILLER CLOSE DROUIN 3818",
     "locID": "LOC000070868969",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424499425"
    }
   },
@@ -91442,7 +91425,7 @@
     "name": "6 RIVENDALE CRESCENT DROUIN 3818",
     "locID": "LOC000113121243",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424762463"
    }
   },
@@ -97664,7 +97647,7 @@
     "name": "35 MANIKATO DRIVE DROUIN 3818",
     "locID": "LOC000115812891",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424883993"
    }
   },
@@ -115173,7 +115156,7 @@
    "properties": {
     "name": "9 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "LOC000180389215",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719099889"
    }
@@ -115632,7 +115615,7 @@
    "properties": {
     "name": "10 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "ChIJIe7d_OK_KWsRPWBcJSOohqo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719111438"
    }
@@ -115649,7 +115632,7 @@
    "properties": {
     "name": "36 LEURA STREET DROUIN 3818",
     "locID": "LOC000180388995",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719111631"
    }
@@ -115785,7 +115768,7 @@
    "properties": {
     "name": "32 LEURA STREET DROUIN 3818",
     "locID": "LOC000180389010",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719114654"
    }
@@ -116006,7 +115989,7 @@
    "properties": {
     "name": "34 LEURA STREET DROUIN 3818",
     "locID": "LOC000180389006",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719117760"
    }
@@ -116023,7 +116006,7 @@
    "properties": {
     "name": "6 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "ChIJ77TqwuK_KWsR8TK2RYZdQv4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719118478"
    }
@@ -128467,7 +128450,7 @@
    "properties": {
     "name": "22 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388660",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720125324"
    }
@@ -128484,7 +128467,7 @@
    "properties": {
     "name": "1 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180389166",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720125641"
    }
@@ -128739,7 +128722,7 @@
    "properties": {
     "name": "18 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180389236",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720129738"
    }
@@ -128773,7 +128756,7 @@
    "properties": {
     "name": "24 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388673",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720130537"
    }
@@ -129589,7 +129572,7 @@
    "properties": {
     "name": "8 GENONI RISE DROUIN 3818",
     "locID": "ChIJaeOwCeO_KWsRf_lrU51cAB0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720138882"
    }
@@ -129640,7 +129623,7 @@
    "properties": {
     "name": "16 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180389150",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720139894"
    }
@@ -129657,7 +129640,7 @@
    "properties": {
     "name": "3 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388953",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720141221"
    }
@@ -129929,7 +129912,7 @@
    "properties": {
     "name": "26 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388687",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720145085"
    }
@@ -129980,7 +129963,7 @@
    "properties": {
     "name": "20 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180389243",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720145572"
    }
@@ -130031,7 +130014,7 @@
    "properties": {
     "name": "28 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388694",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720146123"
    }
@@ -130167,7 +130150,7 @@
    "properties": {
     "name": "UNIT 18, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148592",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720212528"
    }
@@ -130201,7 +130184,7 @@
    "properties": {
     "name": "UNIT 8, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148494",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720212998"
    }
@@ -130303,7 +130286,7 @@
    "properties": {
     "name": "UNIT 6, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148473",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720216022"
    }
@@ -130371,7 +130354,7 @@
    "properties": {
     "name": "UNIT 7, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148487",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720216978"
    }
@@ -130388,7 +130371,7 @@
    "properties": {
     "name": "UNIT 16, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148571",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720217092"
    }
@@ -130405,7 +130388,7 @@
    "properties": {
     "name": "UNIT 11, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148528",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720218774"
    }
@@ -130422,7 +130405,7 @@
    "properties": {
     "name": "UNIT 12, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148537",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720219761"
    }
@@ -130490,7 +130473,7 @@
    "properties": {
     "name": "UNIT 4, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148456",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720221455"
    }
@@ -130524,7 +130507,7 @@
    "properties": {
     "name": "UNIT 5, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148460",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720222346"
    }
@@ -130558,7 +130541,7 @@
    "properties": {
     "name": "UNIT 17, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148585",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720222563"
    }
@@ -130609,7 +130592,7 @@
    "properties": {
     "name": "UNIT 9, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148500",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720223130"
    }
@@ -130626,7 +130609,7 @@
    "properties": {
     "name": "UNIT 15, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148563",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720223221"
    }
@@ -130779,7 +130762,7 @@
    "properties": {
     "name": "UNIT 1, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148425",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720225613"
    }
@@ -130830,7 +130813,7 @@
    "properties": {
     "name": "UNIT 13, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148544",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720226590"
    }
@@ -131017,7 +131000,7 @@
    "properties": {
     "name": "UNIT 2, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148439",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720230003"
    }
@@ -131068,7 +131051,7 @@
    "properties": {
     "name": "UNIT 3, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148441",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720230803"
    }
@@ -131102,7 +131085,7 @@
    "properties": {
     "name": "UNIT 10, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148516",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720230982"
    }
@@ -131187,7 +131170,7 @@
    "properties": {
     "name": "UNIT 14, 96 LAMPARD ROAD DROUIN 3818",
     "locID": "LOC000188148559",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720231769"
    }
@@ -139160,7 +139143,7 @@
    "properties": {
     "name": "18 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279730",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720741509"
    }
@@ -139245,7 +139228,7 @@
    "properties": {
     "name": "20 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389023",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720742017"
    }
@@ -139262,7 +139245,7 @@
    "properties": {
     "name": "46 LEURA STREET DROUIN 3818",
     "locID": "LOC000180388625",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720742031"
    }
@@ -139364,7 +139347,7 @@
    "properties": {
     "name": "11 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279782",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720742723"
    }
@@ -139381,7 +139364,7 @@
    "properties": {
     "name": "10 ADIANTUM ROAD DROUIN 3818",
     "locID": "LOC000192279805",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720743024"
    }
@@ -139415,7 +139398,7 @@
    "properties": {
     "name": "4 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "LOC000180389215",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720743095"
    }
@@ -139602,7 +139585,7 @@
    "properties": {
     "name": "17 ASTER RISE DROUIN 3818",
     "locID": "LOC000180388924",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720744070"
    }
@@ -139636,7 +139619,7 @@
    "properties": {
     "name": "2 ADIANTUM ROAD DROUIN 3818",
     "locID": "LOC000192279846",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720744316"
    }
@@ -139670,7 +139653,7 @@
    "properties": {
     "name": "5 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389258",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720744469"
    }
@@ -139755,7 +139738,7 @@
    "properties": {
     "name": "6 ADIANTUM ROAD DROUIN 3818",
     "locID": "LOC000192279822",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720745326"
    }
@@ -139789,7 +139772,7 @@
    "properties": {
     "name": "9 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279585",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720745370"
    }
@@ -139806,7 +139789,7 @@
    "properties": {
     "name": "10 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389075",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720745454"
    }
@@ -139823,7 +139806,7 @@
    "properties": {
     "name": "34 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388953",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720745467"
    }
@@ -139874,7 +139857,7 @@
    "properties": {
     "name": "13 ASTER RISE DROUIN 3818",
     "locID": "LOC000180388907",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720745750"
    }
@@ -140010,7 +139993,7 @@
    "properties": {
     "name": "16 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389047",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720746440"
    }
@@ -140027,7 +140010,7 @@
    "properties": {
     "name": "4 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279690",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720746609"
    }
@@ -140095,7 +140078,7 @@
    "properties": {
     "name": "11 ASTER RISE DROUIN 3818",
     "locID": "LOC000193028632",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720746869"
    }
@@ -140146,7 +140129,7 @@
    "properties": {
     "name": "30 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388656",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720747208"
    }
@@ -140299,7 +140282,7 @@
    "properties": {
     "name": "12 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389068",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720749070"
    }
@@ -140316,7 +140299,7 @@
    "properties": {
     "name": "4 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389109",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720749079"
    }
@@ -140384,7 +140367,7 @@
    "properties": {
     "name": "8 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279674",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720749517"
    }
@@ -140503,7 +140486,7 @@
    "properties": {
     "name": "14 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389052",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720750276"
    }
@@ -140571,7 +140554,7 @@
    "properties": {
     "name": "14 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180389166",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720750576"
    }
@@ -140605,7 +140588,7 @@
    "properties": {
     "name": "14 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279753",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720750710"
    }
@@ -140639,7 +140622,7 @@
    "properties": {
     "name": "1 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "LOC000180389184",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720751147"
    }
@@ -140707,7 +140690,7 @@
    "properties": {
     "name": "9 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389121",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720751790"
    }
@@ -140724,7 +140707,7 @@
    "properties": {
     "name": "11 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279592",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720751916"
    }
@@ -140741,7 +140724,7 @@
    "properties": {
     "name": "16 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279635",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720752053"
    }
@@ -140826,7 +140809,7 @@
    "properties": {
     "name": "2 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389113",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720752550"
    }
@@ -140979,7 +140962,7 @@
    "properties": {
     "name": "20 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279724",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720753611"
    }
@@ -140996,7 +140979,7 @@
    "properties": {
     "name": "3 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "LOC000180389204",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720753668"
    }
@@ -141115,7 +141098,7 @@
    "properties": {
     "name": "12 ADIANTUM ROAD DROUIN 3818",
     "locID": "LOC000192279795",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720754384"
    }
@@ -141132,7 +141115,7 @@
    "properties": {
     "name": "10 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279661",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720754464"
    }
@@ -141166,7 +141149,7 @@
    "properties": {
     "name": "13 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279603",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720754637"
    }
@@ -141200,7 +141183,7 @@
    "properties": {
     "name": "18 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279626",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720754988"
    }
@@ -141336,7 +141319,7 @@
    "properties": {
     "name": "5 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279563",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720755762"
    }
@@ -141353,7 +141336,7 @@
    "properties": {
     "name": "40 LEURA STREET DROUIN 3818",
     "locID": "LOC000180388976",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720756276"
    }
@@ -141455,7 +141438,7 @@
    "properties": {
     "name": "14 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279642",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720756859"
    }
@@ -141489,7 +141472,7 @@
    "properties": {
     "name": "5 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "LOC000180389227",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720757112"
    }
@@ -141574,7 +141557,7 @@
    "properties": {
     "name": "38 LEURA STREET DROUIN 3818",
     "locID": "LOC000180388982",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720757722"
    }
@@ -141591,7 +141574,7 @@
    "properties": {
     "name": "10 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279776",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720757941"
    }
@@ -141659,7 +141642,7 @@
    "properties": {
     "name": "16 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279748",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720758208"
    }
@@ -141710,7 +141693,7 @@
    "properties": {
     "name": "12 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279769",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720758683"
    }
@@ -141829,7 +141812,7 @@
    "properties": {
     "name": "2 SUTCLIFFE MEWS DROUIN 3818",
     "locID": "LOC000180389197",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720759988"
    }
@@ -141931,7 +141914,7 @@
    "properties": {
     "name": "19 ASTER RISE DROUIN 3818",
     "locID": "LOC000180388948",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720760362"
    }
@@ -141982,7 +141965,7 @@
    "properties": {
     "name": "8 ADIANTUM ROAD DROUIN 3818",
     "locID": "LOC000192279814",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720760892"
    }
@@ -142016,7 +141999,7 @@
    "properties": {
     "name": "18 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389034",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720761011"
    }
@@ -142050,7 +142033,7 @@
    "properties": {
     "name": "3 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279559",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720761200"
    }
@@ -142152,7 +142135,7 @@
    "properties": {
     "name": "4 ADIANTUM ROAD DROUIN 3818",
     "locID": "LOC000192279833",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720762088"
    }
@@ -142169,7 +142152,7 @@
    "properties": {
     "name": "22 BRACKEN STREET DROUIN 3818",
     "locID": "LOC000192279711",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720762116"
    }
@@ -142271,7 +142254,7 @@
    "properties": {
     "name": "21 ASTER RISE DROUIN 3818",
     "locID": "LOC000180388930",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720762729"
    }
@@ -142356,7 +142339,7 @@
    "properties": {
     "name": "44 LEURA STREET DROUIN 3818",
     "locID": "LOC000180388639",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720764108"
    }
@@ -142373,7 +142356,7 @@
    "properties": {
     "name": "6 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279688",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720764122"
    }
@@ -142390,7 +142373,7 @@
    "properties": {
     "name": "12 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279657",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720764131"
    }
@@ -142407,7 +142390,7 @@
    "properties": {
     "name": "42 LEURA STREET DROUIN 3818",
     "locID": "LOC000180388969",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720764192"
    }
@@ -142492,7 +142475,7 @@
    "properties": {
     "name": "7 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279571",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720764702"
    }
@@ -142543,7 +142526,7 @@
    "properties": {
     "name": "3 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389145",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720764864"
    }
@@ -142594,7 +142577,7 @@
    "properties": {
     "name": "6 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389099",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720765087"
    }
@@ -142645,7 +142628,7 @@
    "properties": {
     "name": "1 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279544",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720765287"
    }
@@ -142696,7 +142679,7 @@
    "properties": {
     "name": "15 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279619",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720765499"
    }
@@ -142730,7 +142713,7 @@
    "properties": {
     "name": "8 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389081",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720765534"
    }
@@ -142781,7 +142764,7 @@
    "properties": {
     "name": "1 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389178",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720766143"
    }
@@ -142832,7 +142815,7 @@
    "properties": {
     "name": "7 ASTER RISE DROUIN 3818",
     "locID": "LOC000180389132",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720766549"
    }
@@ -142849,7 +142832,7 @@
    "properties": {
     "name": "15 ASTER RISE DROUIN 3818",
     "locID": "LOC000180388911",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720766699"
    }
@@ -142934,7 +142917,7 @@
    "properties": {
     "name": "7 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069846",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720820894"
    }
@@ -142985,7 +142968,7 @@
    "properties": {
     "name": "5 CHARBRAY STREET DROUIN 3818",
     "locID": "ChIJKYHxLszqKWsR-60kVdv4EX8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720821355"
    }
@@ -143104,7 +143087,7 @@
    "properties": {
     "name": "2 KARAK STREET DROUIN 3818",
     "locID": "LOC000192279707",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720823662"
    }
@@ -143138,7 +143121,7 @@
    "properties": {
     "name": "1 CHARBRAY STREET DROUIN 3818",
     "locID": "ChIJ9_r4MMzqKWsRy980QPNkKzg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720823839"
    }
@@ -143257,7 +143240,7 @@
    "properties": {
     "name": "11 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069867",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720824889"
    }
@@ -143291,7 +143274,7 @@
    "properties": {
     "name": "8 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069949",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720825244"
    }
@@ -143342,7 +143325,7 @@
    "properties": {
     "name": "10 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069931",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720825922"
    }
@@ -143393,7 +143376,7 @@
    "properties": {
     "name": "17 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069898",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720826433"
    }
@@ -143597,7 +143580,7 @@
    "properties": {
     "name": "15 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069880",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720827965"
    }
@@ -143614,7 +143597,7 @@
    "properties": {
     "name": "16 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069908",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720828095"
    }
@@ -143648,7 +143631,7 @@
    "properties": {
     "name": "12 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069920",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720828618"
    }
@@ -143699,7 +143682,7 @@
    "properties": {
     "name": "4 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069965",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720828719"
    }
@@ -143835,7 +143818,7 @@
    "properties": {
     "name": "9 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069851",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720830999"
    }
@@ -143971,7 +143954,7 @@
    "properties": {
     "name": "14 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069912",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720833298"
    }
@@ -144345,7 +144328,7 @@
    "properties": {
     "name": "6 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069954",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720837192"
    }
@@ -144413,7 +144396,7 @@
    "properties": {
     "name": "3 CHARBRAY STREET DROUIN 3818",
     "locID": "ChIJ78grLszqKWsRkdCWpuCTe40",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720838078"
    }
@@ -144668,7 +144651,7 @@
    "properties": {
     "name": "13 SIMMENTAL STREET DROUIN 3818",
     "locID": "LOC000193069879",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720841602"
    }
@@ -144753,7 +144736,7 @@
    "properties": {
     "name": "9 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJm2KXlaLqKWsRtKyPKMkYUTE",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720907886"
    }
@@ -144821,7 +144804,7 @@
    "properties": {
     "name": "7 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJS_XZ-aLqKWsRiQr35GltrXc",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720908795"
    }
@@ -144855,7 +144838,7 @@
    "properties": {
     "name": "23 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJL3G6hKLqKWsRKy9HBmnPoQ0",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720908887"
    }
@@ -144940,7 +144923,7 @@
    "properties": {
     "name": "13 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJNa5dvaLqKWsRoBJ6Ah7GV1g",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720909739"
    }
@@ -144991,7 +144974,7 @@
    "properties": {
     "name": "24 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJc1AWmaLqKWsRJlbLkf5Lcvo",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720910120"
    }
@@ -145008,7 +144991,7 @@
    "properties": {
     "name": "17 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJOVovjKLqKWsRfD0AxzXZbJc",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720910274"
    }
@@ -145025,7 +145008,7 @@
    "properties": {
     "name": "28 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJ6S_qn6LqKWsR16NARPE41Kk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720910312"
    }
@@ -145059,7 +145042,7 @@
    "properties": {
     "name": "13 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJ32pj86LqKWsR-kGwfA4rs3U",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720910569"
    }
@@ -145076,7 +145059,7 @@
    "properties": {
     "name": "14 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJdboyk6LqKWsRD70IZJfYCOc",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720911218"
    }
@@ -145093,7 +145076,7 @@
    "properties": {
     "name": "15 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJqVCUjKLqKWsRycIc4c_J82k",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720911244"
    }
@@ -145110,7 +145093,7 @@
    "properties": {
     "name": "10 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJye5w7qLqKWsRnmit8-6ePvo",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720911281"
    }
@@ -145144,7 +145127,7 @@
    "properties": {
     "name": "16 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJQy-fk6LqKWsRvQWDVKYR8Z8",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720911672"
    }
@@ -145161,7 +145144,7 @@
    "properties": {
     "name": "7 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJcT4ylaLqKWsRHkZ0JdtPSbQ",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720911708"
    }
@@ -145195,7 +145178,7 @@
    "properties": {
     "name": "22 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJO1rpmaLqKWsRsUWmKKgn6BU",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720912166"
    }
@@ -145297,7 +145280,7 @@
    "properties": {
     "name": "9 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJDf0W96LqKWsRr7BjhrKy4kM",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720913496"
    }
@@ -145484,7 +145467,7 @@
    "properties": {
     "name": "25 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJU6vVnKLqKWsRiH6Wz-9qf3E",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720916227"
    }
@@ -145501,7 +145484,7 @@
    "properties": {
     "name": "12 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJyzGr7aLqKWsRSSwAe38pW5k",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720916852"
    }
@@ -145552,7 +145535,7 @@
    "properties": {
     "name": "4 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJZRE2-6LqKWsReevlnXpr258",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720917260"
    }
@@ -145637,7 +145620,7 @@
    "properties": {
     "name": "30 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJE5wNoKLqKWsRb_3tmpagf2U",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720918029"
    }
@@ -145688,7 +145671,7 @@
    "properties": {
     "name": "5 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJo3-NVaLqKWsRkihUKX69X70",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720919352"
    }
@@ -145773,7 +145756,7 @@
    "properties": {
     "name": "17 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJF4EvoqLqKWsRH5E-pqgW8vE",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720920610"
    }
@@ -145790,7 +145773,7 @@
    "properties": {
     "name": "32 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJla2GoKLqKWsRRSdrSAe5SZk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720920752"
    }
@@ -145807,7 +145790,7 @@
    "properties": {
     "name": "11 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJjwWo9qLqKWsRBKNm0PA1Apw",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720921251"
    }
@@ -145892,7 +145875,7 @@
    "properties": {
     "name": "19 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJjWGpj6LqKWsRi8zTT_RnU8A",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720921945"
    }
@@ -145909,7 +145892,7 @@
    "properties": {
     "name": "34 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJEwb-CZjqKWsRtquMgrUWAOs",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720922278"
    }
@@ -145977,7 +145960,7 @@
    "properties": {
     "name": "26 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJy1zgnqLqKWsRwxEUb0V0Alo",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720923967"
    }
@@ -146028,7 +146011,7 @@
    "properties": {
     "name": "20 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJfxgyl6LqKWsRjwglJgV_zl4",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720924231"
    }
@@ -146045,7 +146028,7 @@
    "properties": {
     "name": "1 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJVZUC5qLqKWsRKnBE5fxPJLY",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720924436"
    }
@@ -146079,7 +146062,7 @@
    "properties": {
     "name": "11 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJ6bQelqLqKWsRMjtDQPCaMMw",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720924751"
    }
@@ -146113,7 +146096,7 @@
    "properties": {
     "name": "8 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJ4ynG76LqKWsRghr9NN140NM",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720925717"
    }
@@ -146130,7 +146113,7 @@
    "properties": {
     "name": "2 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJi9DJ_KLqKWsRKtovn8ia9LQ",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720926036"
    }
@@ -146181,7 +146164,7 @@
    "properties": {
     "name": "21 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJ98NrhaLqKWsRjTTI8YDZYhQ",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720926371"
    }
@@ -146198,7 +146181,7 @@
    "properties": {
     "name": "5 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJSdCq66LqKWsRTkUINXnHz7M",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720926596"
    }
@@ -146215,7 +146198,7 @@
    "properties": {
     "name": "3 VENTURA ROAD DROUIN 3818",
     "locID": "ChIJqQdl6aLqKWsRhQUkOa1BiXc",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720926629"
    }
@@ -148306,7 +148289,7 @@
    "properties": {
     "name": "33 COMMERCIAL PLACE DROUIN 3818",
     "locID": "ChIJAd-Ht1CVKWsRU_XurvdjzQ8",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721030574"
    }
@@ -149343,7 +149326,7 @@
    "properties": {
     "name": "19 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJyxy3D5jqKWsRySJ7XLxe5fY",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721086071"
    }
@@ -149360,7 +149343,7 @@
    "properties": {
     "name": "3 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJ2URrcZjqKWsRrNDE7zPTLNs",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721086814"
    }
@@ -149377,7 +149360,7 @@
    "properties": {
     "name": "11 COMPASS STREET DROUIN 3818",
     "locID": "ChIJ092CqaLqKWsRIlHsmXXrJD0",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721086827"
    }
@@ -149394,7 +149377,7 @@
    "properties": {
     "name": "50 BARREL ROAD DROUIN 3818",
     "locID": "ChIJp5THyaLqKWsRlXNQ_KFWu8k",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721086833"
    }
@@ -149411,7 +149394,7 @@
    "properties": {
     "name": "14 COMPASS STREET DROUIN 3818",
     "locID": "ChIJ32ympaLqKWsRq9TItgd4DsY",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721087202"
    }
@@ -149428,7 +149411,7 @@
    "properties": {
     "name": "9 COMPASS STREET DROUIN 3818",
     "locID": "ChIJf4PKrqLqKWsRtYd_V_M8Fkk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721087995"
    }
@@ -149445,7 +149428,7 @@
    "properties": {
     "name": "7 COMPASS STREET DROUIN 3818",
     "locID": "ChIJfcJQrqLqKWsR8TrV4Dibu7s",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721088101"
    }
@@ -149479,7 +149462,7 @@
    "properties": {
     "name": "63 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJoa2cH6PqKWsRmOYTUvqT3fI",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721089370"
    }
@@ -149496,7 +149479,7 @@
    "properties": {
     "name": "51 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJmZVvzqLqKWsRU_LuKeJhk4M",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721089613"
    }
@@ -149513,7 +149496,7 @@
    "properties": {
     "name": "15 COMPASS STREET DROUIN 3818",
     "locID": "ChIJW0g7AZjqKWsR3kzdphpUFJk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090386"
    }
@@ -149530,7 +149513,7 @@
    "properties": {
     "name": "4 COMPASS STREET DROUIN 3818",
     "locID": "ChIJ-yTPwKLqKWsRjWNHNDWHIB0",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090404"
    }
@@ -149547,7 +149530,7 @@
    "properties": {
     "name": "71 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJI_jBD6PqKWsRSLiwMDVI6I4",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090540"
    }
@@ -149564,7 +149547,7 @@
    "properties": {
     "name": "65 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJ4fXaHqPqKWsR9Fhd8utnuPU",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090687"
    }
@@ -149581,7 +149564,7 @@
    "properties": {
     "name": "61 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJe_p3IKPqKWsR_qdcBrCdN4Q",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091051"
    }
@@ -149598,7 +149581,7 @@
    "properties": {
     "name": "16 COMPASS STREET DROUIN 3818",
     "locID": "ChIJRaENpqLqKWsRuGBtNxP-Fag",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091400"
    }
@@ -149615,7 +149598,7 @@
    "properties": {
     "name": "32 BOANYOO ROAD DROUIN 3818",
     "locID": "LOC000180388641",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721091654"
    }
@@ -149632,7 +149615,7 @@
    "properties": {
     "name": "58 BARREL ROAD DROUIN 3818",
     "locID": "ChIJU1LS3KLqKWsR_9XaW38bTOk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091807"
    }
@@ -149649,7 +149632,7 @@
    "properties": {
     "name": "5 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJ2-nac5jqKWsRrjC5ha3CHCI",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092284"
    }
@@ -149666,7 +149649,7 @@
    "properties": {
     "name": "60 BARREL ROAD DROUIN 3818",
     "locID": "ChIJ9weC3aLqKWsROCPlxPaZDcM",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092489"
    }
@@ -149683,7 +149666,7 @@
    "properties": {
     "name": "47 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJFadHy6LqKWsR64KzSF8Gee0",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092501"
    }
@@ -149700,7 +149683,7 @@
    "properties": {
     "name": "64 BARREL ROAD DROUIN 3818",
     "locID": "ChIJMY184aLqKWsRr4tEyiLfY4I",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092776"
    }
@@ -149717,7 +149700,7 @@
    "properties": {
     "name": "13 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJvSyqDZjqKWsRBSMhPJI-uq8",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092785"
    }
@@ -149734,7 +149717,7 @@
    "properties": {
     "name": "67 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJL1ncG6PqKWsR6htbZysWMvk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092997"
    }
@@ -149751,7 +149734,7 @@
    "properties": {
     "name": "53 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJpfAk0KLqKWsRn-CLc3KB77c",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721093089"
    }
@@ -149768,7 +149751,7 @@
    "properties": {
     "name": "7 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJxf2oc5jqKWsRYnPr1dO-VQo",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721093816"
    }
@@ -149785,7 +149768,7 @@
    "properties": {
     "name": "66 BARREL ROAD DROUIN 3818",
     "locID": "ChIJq59m4qLqKWsRAJciyk7hPwM",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721093824"
    }
@@ -149802,7 +149785,7 @@
    "properties": {
     "name": "70 BARREL ROAD DROUIN 3818",
     "locID": "ChIJiTFJAqPqKWsRvLzn_R5KiJ8",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094031"
    }
@@ -149819,7 +149802,7 @@
    "properties": {
     "name": "13 COMPASS STREET DROUIN 3818",
     "locID": "ChIJXfWsAJjqKWsRdqLYhf1hkcs",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094095"
    }
@@ -149836,7 +149819,7 @@
    "properties": {
     "name": "3 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJ84KT_6LqKWsRNbM3frT3j-g",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094129"
    }
@@ -149870,7 +149853,7 @@
    "properties": {
     "name": "56 BARREL ROAD DROUIN 3818",
     "locID": "ChIJBaOFxKLqKWsRRZ5fw2I5m4M",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094556"
    }
@@ -149904,7 +149887,7 @@
    "properties": {
     "name": "33 BARREL ROAD DROUIN 3818",
     "locID": "ChIJV1UlwqLqKWsRidpHEPyp3Nc",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094767"
    }
@@ -149938,7 +149921,7 @@
    "properties": {
     "name": "49 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJIe5lzKLqKWsRHq-1zMEOcvc",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721095760"
    }
@@ -149955,7 +149938,7 @@
    "properties": {
     "name": "62 BARREL ROAD DROUIN 3818",
     "locID": "ChIJC6Mr56LqKWsRp1AbeDiMirQ",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096014"
    }
@@ -149972,7 +149955,7 @@
    "properties": {
     "name": "23 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJESMkBZjqKWsRfnsXpt2xfYQ",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096445"
    }
@@ -150023,7 +150006,7 @@
    "properties": {
     "name": "1 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJZ3vncJjqKWsRf2ZkRfeY2dY",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721097474"
    }
@@ -150074,7 +150057,7 @@
    "properties": {
     "name": "3 COMPASS STREET DROUIN 3818",
     "locID": "ChIJZ67usKLqKWsRWeNNy6hcsSs",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721099065"
    }
@@ -150091,7 +150074,7 @@
    "properties": {
     "name": "55 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJtQV72qLqKWsRa-wLXwCb1Do",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721099115"
    }
@@ -150108,7 +150091,7 @@
    "properties": {
     "name": "54 BARREL ROAD DROUIN 3818",
     "locID": "ChIJUaTPxaLqKWsRiSh6sY_Krqs",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721099664"
    }
@@ -150125,7 +150108,7 @@
    "properties": {
     "name": "72 BARREL ROAD DROUIN 3818",
     "locID": "ChIJs4scBKPqKWsR8AOmafrdGns",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721100229"
    }
@@ -150159,7 +150142,7 @@
    "properties": {
     "name": "69 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJ21GNGqPqKWsRD7nC1oV1sVI",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721100724"
    }
@@ -150176,7 +150159,7 @@
    "properties": {
     "name": "1 CORSAIR BOULEVARD DROUIN 3818",
     "locID": "ChIJ3XleAKPqKWsRZWO_F7J6zlo",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721100891"
    }
@@ -150193,7 +150176,7 @@
    "properties": {
     "name": "10 COMPASS STREET DROUIN 3818",
     "locID": "ChIJJwKlu6LqKWsRSh-5vvEga2Y",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721101282"
    }
@@ -150227,7 +150210,7 @@
    "properties": {
     "name": "48 BARREL ROAD DROUIN 3818",
     "locID": "ChIJh7nltaLqKWsR5_xFQ7SL4os",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721101510"
    }
@@ -150261,7 +150244,7 @@
    "properties": {
     "name": "20 COMPASS STREET DROUIN 3818",
     "locID": "ChIJcYo-BpjqKWsRYoTxKHDxxXs",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721102016"
    }
@@ -150278,7 +150261,7 @@
    "properties": {
     "name": "21 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJSbv0D5jqKWsR_2SeMwKcKgY",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721102130"
    }
@@ -150295,7 +150278,7 @@
    "properties": {
     "name": "68 BARREL ROAD DROUIN 3818",
     "locID": "ChIJGdlJHaPqKWsRivjNQ98o5as",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721102140"
    }
@@ -150312,7 +150295,7 @@
    "properties": {
     "name": "12 COMPASS STREET DROUIN 3818",
     "locID": "ChIJ6Zoqu6LqKWsRDQ67byq0DOk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721102264"
    }
@@ -150329,7 +150312,7 @@
    "properties": {
     "name": "57 PLANTATION ROAD DROUIN 3818",
     "locID": "ChIJrbh72aLqKWsRMfj5LXaVLlw",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721102593"
    }
@@ -150363,7 +150346,7 @@
    "properties": {
     "name": "18 COMPASS STREET DROUIN 3818",
     "locID": "ChIJtY7jB5jqKWsR7-iSNnh4Q_k",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721102961"
    }
@@ -150380,7 +150363,7 @@
    "properties": {
     "name": "5 COMPASS STREET DROUIN 3818",
     "locID": "ChIJcXoysKLqKWsR_7SrlWFExGk",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103100"
    }
@@ -150397,7 +150380,7 @@
    "properties": {
     "name": "8 COMPASS STREET DROUIN 3818",
     "locID": "ChIJPe1DuaLqKWsR1ROcpAD2VQI",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721104349"
    }
@@ -150414,7 +150397,7 @@
    "properties": {
     "name": "9 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJmcgmc5jqKWsRKaXxhm922e0",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721104566"
    }
@@ -150431,7 +150414,7 @@
    "properties": {
     "name": "15 HILLCREST ROAD DROUIN 3818",
     "locID": "ChIJjT3QDZjqKWsRiPH6uO8dgYg",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721104957"
    }
