@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-04T18:34:46.922482",
+ "generated": "2023-08-02T04:46:33.344330",
  "suburb": "ENMORE",
  "features": [
   {
@@ -7274,8 +7274,8 @@
    "properties": {
     "name": "135 SIMMONS STREET ENMORE 2042",
     "locID": "LOC000055114389",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW713183360"
    }
   },
@@ -20765,6 +20765,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.17034707,
+     -33.89999613
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 225 ENMORE ROAD ENMORE 2042",
+    "locID": "LOC000074610329",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW716224536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.17011218,
      -33.90041525
     ]
@@ -25671,6 +25688,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716395344"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.17045655,
+     -33.90067072
+    ]
+   },
+   "properties": {
+    "name": "240 ENMORE ROAD ENMORE 2042",
+    "locID": "ChIJO8JpREewEmsRPNr8Mrl7bjs",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716395345"
    }
   },
   {
@@ -33047,7 +33081,7 @@
     "name": "47 JERRETTS ROAD ENMORE 2350",
     "locID": "LOC000088455150",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW717082229"
    }
   },
@@ -33848,6 +33882,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717118055"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.81975456,
+     -30.73302099
+    ]
+   },
+   "properties": {
+    "name": "187 MELROSE ROAD ENMORE 2350",
+    "locID": "ChIJI8kPDhW7n2sRk22eDrTu7SI",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW717118057"
    }
   },
   {
@@ -38802,6 +38853,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.75148693,
+     -30.74983694
+    ]
+   },
+   "properties": {
+    "name": "49 JERRETTS ROAD ENMORE 2350",
+    "locID": "ChIJ41LFS0y8n2sRZf3WBgiIqbU",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW719153396"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.17282429,
      -33.89789339
     ]
@@ -38982,6 +39050,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719158540"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.17240824,
+     -33.89835524
+    ]
+   },
+   "properties": {
+    "name": "34 BELMORE STREET ENMORE 2042",
+    "locID": "ChIJ7VnlVziwEmsR6UgBLRW0qD8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW719158541"
    }
   },
   {
