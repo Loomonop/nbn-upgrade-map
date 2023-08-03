@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T03:45:39.530944",
+ "generated": "2023-08-03T12:38:58.703470",
  "suburb": "YARRA JUNCTION",
  "features": [
   {
@@ -5288,23 +5288,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414550922"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.59877269,
-     -37.77675705
-    ]
-   },
-   "properties": {
-    "name": "45 BARAK DRIVE YARRA JUNCTION 3797",
-    "locID": "Ei80NSBCYXJhayBEciwgWWFycmEgSnVuY3Rpb24gVklDIDM3OTcsIEF1c3RyYWxpYSIwEi4KFAoSCetu551z0ylrETrkXQlR4BWOEC0qFAoSCctNZVVx0ylrEdRqM0zb0HVv",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC414550961"
    }
   },
   {
@@ -15485,7 +15468,7 @@
    "properties": {
     "name": "LOT 4 VICTORIA STREET YARRA JUNCTION 3797",
     "locID": "LOC000192378804",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423411127"
    }
@@ -15860,7 +15843,7 @@
     "name": "1-3 PARK ROAD YARRA JUNCTION 3797",
     "locID": "LOC100082032356",
     "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423480272"
    }
   },
@@ -21826,8 +21809,8 @@
    "properties": {
     "name": "7 VIEW ROAD YARRA JUNCTION 3797",
     "locID": "LOC000125506068",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424919216"
    }
   },
@@ -25209,7 +25192,7 @@
    "properties": {
     "name": "39 YARRA STREET YARRA JUNCTION 3797",
     "locID": "LOC000192378773",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719919734"
    }
@@ -25450,6 +25433,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720138633"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.6212846,
+     -37.79038019
+    ]
+   },
+   "properties": {
+    "name": "1-6 PAULS CLOSE YARRA JUNCTION 3797",
+    "locID": "LOC000177680986",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720138753"
    }
   },
   {
@@ -26348,7 +26348,7 @@
    "properties": {
     "name": "3 STATION STREET YARRA JUNCTION 3797",
     "locID": "LOC000192378804",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720829424"
    }
@@ -26433,7 +26433,7 @@
    "properties": {
     "name": "3A STATION STREET YARRA JUNCTION 3797",
     "locID": "LOC000192378794",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720837434"
    }
@@ -26450,7 +26450,7 @@
    "properties": {
     "name": "41 YARRA STREET YARRA JUNCTION 3797",
     "locID": "LOC000192378787",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720838512"
    }
