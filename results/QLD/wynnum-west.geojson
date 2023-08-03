@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T20:44:03.523833",
+ "generated": "2023-08-03T21:21:34.432565",
  "suburb": "WYNNUM WEST",
  "features": [
   {
@@ -9501,8 +9501,8 @@
    "properties": {
     "name": "7 MACADAMIA STREET WYNNUM WEST 4178",
     "locID": "LOC000049798441",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156004226"
    }
   },
@@ -12408,8 +12408,8 @@
    "properties": {
     "name": "399 KIANAWAH ROAD WYNNUM WEST 4178",
     "locID": "LOC000005335574",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156004708"
    }
   },
@@ -19735,8 +19735,8 @@
    "properties": {
     "name": "34 POINCIANA STREET WYNNUM WEST 4178",
     "locID": "LOC000105408853",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156009142"
    }
   },
@@ -26535,8 +26535,8 @@
    "properties": {
     "name": "146 KIANAWAH ROAD WYNNUM WEST 4178",
     "locID": "LOC000011682792",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156013639"
    }
   },
@@ -27437,7 +27437,7 @@
     "name": "237 KIANAWAH ROAD WYNNUM WEST 4178",
     "locID": "LOC000033582711",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156013723"
    }
   },
@@ -56557,8 +56557,8 @@
    "properties": {
     "name": "10 MELALEUCA PLACE WYNNUM WEST 4178",
     "locID": "LOC000024951447",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157365923"
    }
   },
@@ -56881,7 +56881,7 @@
     "name": "231 KIANAWAH ROAD WYNNUM WEST 4178",
     "locID": "LOC000065686298",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157365971"
    }
   },
@@ -56898,7 +56898,7 @@
     "name": "233 KIANAWAH ROAD WYNNUM WEST 4178",
     "locID": "LOC000055391575",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157365972"
    }
   },
@@ -83359,23 +83359,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.15440775,
-     -27.4552608
-    ]
-   },
-   "properties": {
-    "name": "1929 WYNNUM ROAD WYNNUM WEST 4178",
-    "locID": "Ei8xOTI5IFd5bm51bSBSZCwgV3lubnVtIFdlc3QgUUxEIDQxNzgsIEF1c3RyYWxpYSIxEi8KFAoSCTGvYSX3XpFrEc50kQHlMMDjEIkPKhQKEglR6ZgSNVmRaxGYCpWXb39jsg",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161802388"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.15339424,
      -27.45754877
     ]
@@ -86511,8 +86494,8 @@
    "properties": {
     "name": "91 SCHOOL ROAD WYNNUM WEST 4178",
     "locID": "LOC000101228431",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162977222"
    }
   },
@@ -88551,8 +88534,8 @@
    "properties": {
     "name": "1 YERING PLACE WYNNUM WEST 4178",
     "locID": "LOC000126962941",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424946697"
    }
   },
@@ -89180,8 +89163,8 @@
    "properties": {
     "name": "36 HIGGS CIRCUIT WYNNUM WEST 4178",
     "locID": "LOC000167506915",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425122972"
    }
   },

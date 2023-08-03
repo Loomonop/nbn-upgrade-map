@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T19:29:23.636282",
+ "generated": "2023-08-03T20:49:45.400276",
  "suburb": "BUCCAN",
  "features": [
   {
@@ -560,7 +560,7 @@
     "name": "19-25 LYNETTE COURT BUCCAN 4207",
     "locID": "LOC000064168634",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155080942"
    }
   },
@@ -916,8 +916,8 @@
    "properties": {
     "name": "116-122 BUCCAN ROAD BUCCAN 4207",
     "locID": "LOC000070953088",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155081922"
    }
   },
@@ -3398,8 +3398,8 @@
    "properties": {
     "name": "216-222 WILSON ROAD BUCCAN 4207",
     "locID": "LOC000005835050",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156330100"
    }
   },
@@ -6612,7 +6612,7 @@
     "name": "17 KAY COURT BUCCAN 4207",
     "locID": "LOC000016674413",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156338796"
    }
   },
@@ -6628,8 +6628,8 @@
    "properties": {
     "name": "19 KAY COURT BUCCAN 4207",
     "locID": "LOC000035413127",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156338797"
    }
   },
@@ -8737,7 +8737,7 @@
     "name": "257-265 LATIMER ROAD BUCCAN 4207",
     "locID": "LOC000025727089",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161759517"
    }
   },
@@ -8754,7 +8754,7 @@
     "name": "267-273 LATIMER ROAD BUCCAN 4207",
     "locID": "LOC000051198234",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161759518"
    }
   },
@@ -10599,23 +10599,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.13293857,
-     -27.75131381
-    ]
-   },
-   "properties": {
-    "name": "18-22 OOAH CIRCUIT BUCCAN 4207",
-    "locID": "EicxOCBPb2FoIENjdCwgQnVjY2FuIFFMRCA0MjA3LCBBdXN0cmFsaWEiMBIuChQKEgnBvWK-YD-RaxEQ1JLVmQZmEBASKhQKEgkbfoyRYD-RaxGWIkXnyEgHvQ",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD425386269"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.13461358,
      -27.75060862
     ]
@@ -10677,23 +10660,6 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425386275"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.13273109,
-     -27.75006615
-    ]
-   },
-   "properties": {
-    "name": "37-41 OOAH CIRCUIT BUCCAN 4207",
-    "locID": "EiczNyBPb2FoIENjdCwgQnVjY2FuIFFMRCA0MjA3LCBBdXN0cmFsaWEiMBIuChQKEgnBvWK-YD-RaxER1JLVmQZmEBAlKhQKEgkbfoyRYD-RaxGWIkXnyEgHvQ",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD425386276"
    }
   },
   {
@@ -11517,23 +11483,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.13293857,
-     -27.75131381
-    ]
-   },
-   "properties": {
-    "name": "18 OOAH CIRCUIT BUCCAN 4207",
-    "locID": "EicxOCBPb2FoIENjdCwgQnVjY2FuIFFMRCA0MjA3LCBBdXN0cmFsaWEiMBIuChQKEgnBvWK-YD-RaxEQ1JLVmQZmEBASKhQKEgkbfoyRYD-RaxGWIkXnyEgHvQ",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD425646375"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.13334406,
      -27.7504026
     ]
@@ -11629,23 +11578,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425646381"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.13241007,
-     -27.75126779
-    ]
-   },
-   "properties": {
-    "name": "24 OOAH CIRCUIT BUCCAN 4207",
-    "locID": "EicyNCBPb2FoIENjdCwgQnVjY2FuIFFMRCA0MjA3LCBBdXN0cmFsaWEiMBIuChQKEgnBvWK-YD-RaxEQ1JLVmQZmEBAYKhQKEgkbfoyRYD-RaxGWIkXnyEgHvQ",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD425646382"
    }
   },
   {
@@ -11867,23 +11799,6 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425646395"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.13273109,
-     -27.75006615
-    ]
-   },
-   "properties": {
-    "name": "37 OOAH CIRCUIT BUCCAN 4207",
-    "locID": "EiczNyBPb2FoIENjdCwgQnVjY2FuIFFMRCA0MjA3LCBBdXN0cmFsaWEiMBIuChQKEgnBvWK-YD-RaxER1JLVmQZmEBAlKhQKEgkbfoyRYD-RaxGWIkXnyEgHvQ",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD425646396"
    }
   },
   {
