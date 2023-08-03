@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T10:22:54.114498",
+ "generated": "2023-08-03T15:34:38.705070",
  "suburb": "BURNSIDE",
  "features": [
   {
@@ -3143,8 +3143,8 @@
    "properties": {
     "name": "4 LANDY COURT BURNSIDE 3023",
     "locID": "LOC000084926486",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419870746"
    }
   },
@@ -3891,8 +3891,8 @@
    "properties": {
     "name": "41 ILLAWONG TERRACE BURNSIDE 3023",
     "locID": "LOC000039598027",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420003620"
    }
   },
@@ -4095,8 +4095,8 @@
    "properties": {
     "name": "6 KELLY AVENUE BURNSIDE 3023",
     "locID": "LOC000028428499",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420014490"
    }
   },
@@ -7342,8 +7342,8 @@
    "properties": {
     "name": "27 COROWA CRESCENT BURNSIDE 3023",
     "locID": "LOC000008511838",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420330186"
    }
   },
@@ -8413,8 +8413,8 @@
    "properties": {
     "name": "26 PILBARA AVENUE BURNSIDE 3023",
     "locID": "LOC000076808336",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420355646"
    }
   },
@@ -9416,8 +9416,8 @@
    "properties": {
     "name": "27 PARINGA WAY BURNSIDE 3023",
     "locID": "LOC000037421770",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420606885"
    }
   },
@@ -9756,8 +9756,8 @@
    "properties": {
     "name": "6 PARINGA WAY BURNSIDE 3023",
     "locID": "LOC000080952351",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420617363"
    }
   },
@@ -11745,7 +11745,7 @@
    "properties": {
     "name": "31 ROBINSONS ROAD BURNSIDE 3023",
     "locID": "LOC000192734487",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420787947"
    }
@@ -14890,8 +14890,8 @@
    "properties": {
     "name": "7 EARLINGTON BOULEVARD BURNSIDE 3023",
     "locID": "LOC000048989194",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421232684"
    }
   },
@@ -15707,7 +15707,7 @@
     "name": "39 STRICKLAND CRESCENT BURNSIDE 3023",
     "locID": "LOC000092792930",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421251036"
    }
   },
@@ -18036,7 +18036,7 @@
     "name": "9 PARINGA WAY BURNSIDE 3023",
     "locID": "LOC000049185056",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421520211"
    }
   },
@@ -20415,8 +20415,8 @@
    "properties": {
     "name": "5 MCQUILLAN WAY BURNSIDE 3023",
     "locID": "LOC000087095399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421817729"
    }
   },
@@ -21588,8 +21588,8 @@
    "properties": {
     "name": "11 FAIRWEATHER DRIVE BURNSIDE 3023",
     "locID": "LOC000005307254",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421864160"
    }
   },
@@ -29469,23 +29469,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.75595681,
-     -37.75524254
-    ]
-   },
-   "properties": {
-    "name": "8-64 TOROWATTA PLACE BURNSIDE 3023",
-    "locID": "Eiw4IFRvcm93YXR0YSBQbCwgQnVybnNpZGUgVklDIDMwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXPkwm8x9dZqEQD07DTnY-xREAgqFAoSCR3TUXsx9dZqEeiuTRT_pawX",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC425529572"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.75460732,
      -37.76083259
     ]
@@ -29493,7 +29476,7 @@
    "properties": {
     "name": "1 WESTWOOD DRIVE BURNSIDE 3023",
     "locID": "LOC000159841477",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425530320"
    }
@@ -39373,23 +39356,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720955186"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.75738742,
-     -37.74098743
-    ]
-   },
-   "properties": {
-    "name": "68 MONTMARTE BOULEVARD BURNSIDE 3023",
-    "locID": "Ei82OCBNb250bWFydGUgQmx2ZCwgQnVybnNpZGUgVklDIDMwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCWEl0nAW9dZqEeWGCQwjyyiJEEQqFAoSCT362Mk89dZqEWo9njeCVArR",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC720956099"
    }
   },
   {

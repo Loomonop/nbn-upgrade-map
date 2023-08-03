@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T10:38:29.922228",
+ "generated": "2023-08-03T15:39:52.818314",
  "suburb": "NEWCOMB",
  "features": [
   {
@@ -118,7 +118,7 @@
     "name": "UNIT 1, 110 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000087761134",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411972881"
    }
   },
@@ -7904,7 +7904,7 @@
     "name": "72 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000147182216",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419937583"
    }
   },
@@ -12170,7 +12170,7 @@
    "properties": {
     "name": "10 HINCHCLIFF CRESCENT NEWCOMB 3219",
     "locID": "LOC000192889857",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420246170"
    }
@@ -22455,8 +22455,8 @@
    "properties": {
     "name": "6 JANINE COURT NEWCOMB 3219",
     "locID": "LOC000074656799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420864070"
    }
   },
@@ -29561,8 +29561,8 @@
    "properties": {
     "name": "3 NELSON AVENUE NEWCOMB 3219",
     "locID": "LOC000016526254",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421471989"
    }
   },
@@ -31652,7 +31652,7 @@
    "properties": {
     "name": "9 FRANCIS AVENUE NEWCOMB 3219",
     "locID": "LOC000192899456",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421718780"
    }
@@ -32349,7 +32349,7 @@
    "properties": {
     "name": "105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436156",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421729659"
    }
@@ -34407,7 +34407,7 @@
     "name": "110 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000087761134",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421849602"
    }
   },
@@ -39235,7 +39235,7 @@
     "name": "UNIT 2, 110 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000087761134",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424350503"
    }
   },
@@ -42499,7 +42499,7 @@
     "name": "UNIT 1, 86 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000147176646",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425155515"
    }
   },
@@ -42516,7 +42516,7 @@
     "name": "UNIT 2, 86 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000147176651",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425155516"
    }
   },
@@ -45304,7 +45304,7 @@
     "name": "UNIT 1, 72 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000005381127",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425609651"
    }
   },
@@ -45338,7 +45338,7 @@
     "name": "UNIT 2, 72 BELLARINE HIGHWAY NEWCOMB 3219",
     "locID": "LOC000147182216",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425609653"
    }
   },
@@ -48125,7 +48125,7 @@
    "properties": {
     "name": "UNIT 6, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436194",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720441945"
    }
@@ -48142,7 +48142,7 @@
    "properties": {
     "name": "UNIT 4, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436173",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720442750"
    }
@@ -48159,7 +48159,7 @@
    "properties": {
     "name": "UNIT 5, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436187",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720445120"
    }
@@ -48176,7 +48176,7 @@
    "properties": {
     "name": "UNIT 3, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436156",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720445350"
    }
@@ -48193,7 +48193,7 @@
    "properties": {
     "name": "UNIT 1, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436156",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720446663"
    }
@@ -48210,7 +48210,7 @@
    "properties": {
     "name": "UNIT 2, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436156",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720447502"
    }
@@ -48244,7 +48244,7 @@
    "properties": {
     "name": "UNIT 7, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436207",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720454693"
    }
@@ -48278,7 +48278,7 @@
    "properties": {
     "name": "UNIT 8, 105 HELMS STREET NEWCOMB 3219",
     "locID": "LOC000191436211",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720458592"
    }
@@ -48924,7 +48924,7 @@
    "properties": {
     "name": "UNIT 2, 42 PITMAN STREET NEWCOMB 3219",
     "locID": "LOC000193085225",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721163379"
    }
