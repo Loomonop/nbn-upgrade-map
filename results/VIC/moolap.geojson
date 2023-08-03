@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T03:33:45.454093",
+ "generated": "2023-08-03T12:28:28.130037",
  "suburb": "MOOLAP",
  "features": [
   {
@@ -3194,8 +3194,8 @@
    "properties": {
     "name": "4 WIGGS ROAD MOOLAP 3224",
     "locID": "LOC000038276661",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419943664"
    }
   },
@@ -12306,8 +12306,8 @@
    "properties": {
     "name": "65 NOBILITY STREET MOOLAP 3224",
     "locID": "LOC000033590384",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422177438"
    }
   },
@@ -24056,6 +24056,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425849846"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42445314,
+     -38.18483368
+    ]
+   },
+   "properties": {
+    "name": "12 GOLF CART STREET MOOLAP 3224",
+    "locID": "ChIJB5HcufIV1GoRaPC9Mos56yg",
+    "tech": "FTTB",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425850560"
    }
   },
   {
