@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-06T11:14:42.552764",
+ "generated": "2023-08-03T03:13:50.720757",
  "suburb": "WONTHAGGI",
  "features": [
   {
@@ -6373,8 +6373,8 @@
    "properties": {
     "name": "50 WENTWORTH ROAD WONTHAGGI 3995",
     "locID": "LOC000033065327",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419740837"
    }
   },
@@ -17186,7 +17186,7 @@
     "name": "22-40 MURRAY STREET WONTHAGGI 3995",
     "locID": "LOC000097077767",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420571434"
    }
   },
@@ -22047,7 +22047,7 @@
    "properties": {
     "name": "57 HAGELTHORN STREET WONTHAGGI 3995",
     "locID": "LOC000193003253",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420880898"
    }
@@ -30989,8 +30989,8 @@
    "properties": {
     "name": "7 ROYAL COURT WONTHAGGI 3995",
     "locID": "LOC000096529207",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421503196"
    }
   },
@@ -35835,7 +35835,7 @@
     "name": "49-53 MCBRIDE AVENUE WONTHAGGI 3995",
     "locID": "LOC000036167741",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421815086"
    }
   },
@@ -40016,7 +40016,7 @@
    "properties": {
     "name": "8 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015840",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422088212"
    }
@@ -46435,23 +46435,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.56651,
-     -38.61626545
-    ]
-   },
-   "properties": {
-    "name": "74 CHISHOLM ROAD WONTHAGGI 3995",
-    "locID": "ChIJlaPQfkMLKmsR0Tdcfw1cYuY",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC424079433"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.56631533,
      -38.61738948
     ]
@@ -47870,7 +47853,7 @@
    "properties": {
     "name": "161 REED CRESCENT WONTHAGGI 3995",
     "locID": "LOC000192016054",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424475154"
    }
@@ -54211,8 +54194,8 @@
    "properties": {
     "name": "3 DOCTOR SLEEMAN DRIVE WONTHAGGI 3995",
     "locID": "LOC000151571433",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425095711"
    }
   },
@@ -57357,7 +57340,7 @@
     "name": "SHOP 2, 2 BIGGS DRIVE WONTHAGGI 3995",
     "locID": "LOC000151569530",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425577289"
    }
   },
@@ -57374,7 +57357,7 @@
     "name": "SHOP 3, 2 BIGGS DRIVE WONTHAGGI 3995",
     "locID": "LOC000151569530",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425577290"
    }
   },
@@ -59858,23 +59841,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719749054"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.58464167,
-     -38.60533205
-    ]
-   },
-   "properties": {
-    "name": "70 MURRAY STREET WONTHAGGI 3995",
-    "locID": "Eis3MCBNdXJyYXkgU3QsIFdvbnRoYWdnaSBWSUMgMzk5NSwgQXVzdHJhbGlhIjASLgoUChIJ47tKi4MMKmsRBpCXJkcLxF8QRioUChIJFbyPeoYMKmsRwdDrCOJVsqM",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC719749631"
    }
   },
   {
@@ -63860,6 +63826,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.59987692,
+     -38.60659296
+    ]
+   },
+   "properties": {
+    "name": "14 CICONTE CLOSE WONTHAGGI 3995",
+    "locID": "ChIJYXKR_ooMKmsRllugh_EJfhs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720475024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.61059349,
      -38.60205242
     ]
@@ -64455,23 +64438,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.63000645,
-     -38.63921599
-    ]
-   },
-   "properties": {
-    "name": "292 BOUNDARY ROAD WONTHAGGI 3995",
-    "locID": "Ei4yOTIgQm91bmRhcnkgUmQsIFdvbnRoYWdnaSBWSUMgMzk5NSwgQXVzdHJhbGlhIjESLwoUChIJDaGp3RgNKmsRrXu_2A-RD2oQpAIqFAoSCZdR_kISDSprERJJeIEjZUDR",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC720661026"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.61252283,
      -38.59576867
     ]
@@ -64564,7 +64530,7 @@
    "properties": {
     "name": "57B HAGELTHORN STREET WONTHAGGI 3995",
     "locID": "ChIJaVZ6GpwMKmsRBrEvJjLfVD4",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720742821"
    }
@@ -64700,7 +64666,7 @@
    "properties": {
     "name": "57A HAGELTHORN STREET WONTHAGGI 3995",
     "locID": "ChIJlWN1EJwMKmsRksl0dZ4a37w",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720755260"
    }
@@ -66009,7 +65975,7 @@
    "properties": {
     "name": "1 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192016049",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721020118"
    }
@@ -66094,7 +66060,7 @@
    "properties": {
     "name": "7 WAGTAIL CRESCENT WONTHAGGI 3995",
     "locID": "LOC000192015990",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721022410"
    }
@@ -66111,7 +66077,7 @@
    "properties": {
     "name": "6 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192015935",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721022734"
    }
@@ -66131,23 +66097,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721022955"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.58810207,
-     -38.61543671
-    ]
-   },
-   "properties": {
-    "name": "87B BROOME CRESCENT WONTHAGGI 3995",
-    "locID": "ChIJqSOOc5kMKmsRx9-3GDVFNew",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721023350"
    }
   },
   {
@@ -66196,7 +66145,7 @@
    "properties": {
     "name": "12 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192015961",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721025669"
    }
@@ -66213,7 +66162,7 @@
    "properties": {
     "name": "2 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192015919",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721027926"
    }
@@ -66298,7 +66247,7 @@
    "properties": {
     "name": "7 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192016012",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721031912"
    }
@@ -66315,7 +66264,7 @@
    "properties": {
     "name": "3 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192016031",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721032022"
    }
@@ -66332,7 +66281,7 @@
    "properties": {
     "name": "14 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192015974",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721032614"
    }
@@ -66383,7 +66332,7 @@
    "properties": {
     "name": "5 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192016020",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721034008"
    }
@@ -66485,7 +66434,7 @@
    "properties": {
     "name": "8 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192015942",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721035375"
    }
@@ -66502,7 +66451,7 @@
    "properties": {
     "name": "10 WAGTAIL CRESCENT WONTHAGGI 3995",
     "locID": "LOC000192016008",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721036038"
    }
@@ -66519,7 +66468,7 @@
    "properties": {
     "name": "12 WAGTAIL CRESCENT WONTHAGGI 3995",
     "locID": "LOC000192015988",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721036954"
    }
@@ -66587,7 +66536,7 @@
    "properties": {
     "name": "10 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192015957",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039524"
    }
@@ -66604,7 +66553,7 @@
    "properties": {
     "name": "4 ROBIN WAY WONTHAGGI 3995",
     "locID": "LOC000192015926",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721040456"
    }
@@ -66876,7 +66825,7 @@
    "properties": {
     "name": "94A BROOME CRESCENT WONTHAGGI 3995",
     "locID": "ChIJw4rx6Z4MKmsRPNIjBXzSunU",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721095427"
    }
@@ -67107,6 +67056,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.61832783,
+     -38.59856652
+    ]
+   },
+   "properties": {
+    "name": "24 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJQYl-hU4MKmsRwWz1kWCgbj0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721153077"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.61792707,
      -38.59862046
     ]
@@ -67192,6 +67158,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.61648724,
+     -38.59896559
+    ]
+   },
+   "properties": {
+    "name": "16 PITMAN DRIVE WONTHAGGI 3995",
+    "locID": "ChIJ15x0Uk4MKmsRIHF4LJ-5cMc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721154710"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61786084,
+     -38.59921091
+    ]
+   },
+   "properties": {
+    "name": "13 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJ3WHBZk4MKmsR0ltiKJDENCQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721154765"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.61417424,
      -38.5951821
     ]
@@ -67199,7 +67199,7 @@
    "properties": {
     "name": "49 BOTANIC DRIVE WONTHAGGI 3995",
     "locID": "Eiw0OSBCb3RhbmljIERyLCBXb250aGFnZ2kgVklDIDM5OTUsIEF1c3RyYWxpYSIwEi4KFAoSCfcN4PRFDCprERLkhrlLbBFFEDEqFAoSCQf-xCxbDCprEZ2l5kHGXX4S",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721155032"
    }
@@ -67233,7 +67233,7 @@
    "properties": {
     "name": "19 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015893",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721155343"
    }
@@ -67250,7 +67250,7 @@
    "properties": {
     "name": "3 PIPIT WAY WONTHAGGI 3995",
     "locID": "LOC000192015817",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721155565"
    }
@@ -67352,7 +67352,7 @@
    "properties": {
     "name": "15 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015872",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721156210"
    }
@@ -67386,9 +67386,43 @@
    "properties": {
     "name": "1 PIPIT WAY WONTHAGGI 3995",
     "locID": "LOC000192015801",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721157031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61825671,
+     -38.59903894
+    ]
+   },
+   "properties": {
+    "name": "20 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJTaC7Yk4MKmsRB0lGdK0sP08",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721157225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61611967,
+     -38.59894965
+    ]
+   },
+   "properties": {
+    "name": "13 PITMAN DRIVE WONTHAGGI 3995",
+    "locID": "ChIJayTssk8MKmsRmvTWw1mSLt0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721157286"
    }
   },
   {
@@ -67457,6 +67491,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721157476"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61208802,
+     -38.59465653
+    ]
+   },
+   "properties": {
+    "name": "16 TREASURY ROAD WONTHAGGI 3995",
+    "locID": "ChIJfe8I4EUMKmsR6CBnMV5FKk4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721157652"
    }
   },
   {
@@ -67590,9 +67641,26 @@
    "properties": {
     "name": "5 PIPIT WAY WONTHAGGI 3995",
     "locID": "LOC000192015829",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721158293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61230687,
+     -38.59475003
+    ]
+   },
+   "properties": {
+    "name": "14 TREASURY ROAD WONTHAGGI 3995",
+    "locID": "ChIJCSDH4UUMKmsRfQw81obxNNk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721158689"
    }
   },
   {
@@ -67641,7 +67709,7 @@
    "properties": {
     "name": "45 BOTANIC DRIVE WONTHAGGI 3995",
     "locID": "Eiw0NSBCb3RhbmljIERyLCBXb250aGFnZ2kgVklDIDM5OTUsIEF1c3RyYWxpYSIwEi4KFAoSCfcN4PRFDCprERLkhrlLbBFFEC0qFAoSCQf-xCxbDCprEZ2l5kHGXX4S",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159585"
    }
@@ -67675,7 +67743,7 @@
    "properties": {
     "name": "51 BOTANIC DRIVE WONTHAGGI 3995",
     "locID": "Eiw1MSBCb3RhbmljIERyLCBXb250aGFnZ2kgVklDIDM5OTUsIEF1c3RyYWxpYSIwEi4KFAoSCfcN4PRFDCprERLkhrlLbBFFEDMqFAoSCQf-xCxbDCprEZ2l5kHGXX4S",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159715"
    }
@@ -67692,7 +67760,7 @@
    "properties": {
     "name": "4 PIPIT WAY WONTHAGGI 3995",
     "locID": "LOC000192015789",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721159805"
    }
@@ -67709,9 +67777,26 @@
    "properties": {
     "name": "53 BOTANIC DRIVE WONTHAGGI 3995",
     "locID": "Eiw1MyBCb3RhbmljIERyLCBXb250aGFnZ2kgVklDIDM5OTUsIEF1c3RyYWxpYSIwEi4KFAoSCfcN4PRFDCprERLkhrlLbBFFEDUqFAoSCQf-xCxbDCprEZ2l5kHGXX4S",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61823246,
+     -38.5992
+    ]
+   },
+   "properties": {
+    "name": "18 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJt-8_Y04MKmsROklwAluNKuc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721160005"
    }
   },
   {
@@ -67726,7 +67811,7 @@
    "properties": {
     "name": "41 BOTANIC DRIVE WONTHAGGI 3995",
     "locID": "Eiw0MSBCb3RhbmljIERyLCBXb250aGFnZ2kgVklDIDM5OTUsIEF1c3RyYWxpYSIwEi4KFAoSCfcN4PRFDCprERLkhrlLbBFFECkqFAoSCQf-xCxbDCprEZ2l5kHGXX4S",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721160142"
    }
@@ -67746,6 +67831,57 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721160350"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61306436,
+     -38.59485949
+    ]
+   },
+   "properties": {
+    "name": "8 TREASURY ROAD WONTHAGGI 3995",
+    "locID": "ChIJ40g4B0YMKmsRq5JqeqWwy78",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721160419"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61828102,
+     -38.59887747
+    ]
+   },
+   "properties": {
+    "name": "22 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJk3F7iE4MKmsRAPNKPV9XMhs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721160667"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61651268,
+     -38.59879668
+    ]
+   },
+   "properties": {
+    "name": "18 PITMAN DRIVE WONTHAGGI 3995",
+    "locID": "ChIJ95XGU04MKmsR9VykPNUTLIU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721160702"
    }
   },
   {
@@ -67811,9 +67947,43 @@
    "properties": {
     "name": "17 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015886",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721161091"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61790513,
+     -38.59891672
+    ]
+   },
+   "properties": {
+    "name": "17 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJ7TXvYU4MKmsRbRoj4DS1mzM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721161684"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61788239,
+     -38.59906774
+    ]
+   },
+   "properties": {
+    "name": "15 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJq6oUYU4MKmsRH2QOxc7snNE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721161827"
    }
   },
   {
@@ -67828,9 +67998,26 @@
    "properties": {
     "name": "43 BOTANIC DRIVE WONTHAGGI 3995",
     "locID": "Eiw0MyBCb3RhbmljIERyLCBXb250aGFnZ2kgVklDIDM5OTUsIEF1c3RyYWxpYSIwEi4KFAoSCfcN4PRFDCprERLkhrlLbBFFECsqFAoSCQf-xCxbDCprEZ2l5kHGXX4S",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721161962"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61646434,
+     -38.59911771
+    ]
+   },
+   "properties": {
+    "name": "14 PITMAN DRIVE WONTHAGGI 3995",
+    "locID": "ChIJyyWzTU4MKmsRlltRh0T84X4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721162035"
    }
   },
   {
@@ -67897,8 +68084,25 @@
     "name": "17 CENTENNIAL DRIVE WONTHAGGI 3995",
     "locID": "LOC000014041120",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721162269"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61835337,
+     -38.59839686
+    ]
+   },
+   "properties": {
+    "name": "26 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJTeikmk4MKmsRAyQYzwbY1Xo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721162346"
    }
   },
   {
@@ -67913,7 +68117,7 @@
    "properties": {
     "name": "13 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015855",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721162666"
    }
@@ -67947,7 +68151,7 @@
    "properties": {
     "name": "21 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015903",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721162759"
    }
@@ -68144,6 +68348,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.6120132,
+     -38.59495285
+    ]
+   },
+   "properties": {
+    "name": "7 TREASURY ROAD WONTHAGGI 3995",
+    "locID": "ChIJBUmT3UUMKmsR17G_OX7hJGc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721164680"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.59014632,
      -38.60951763
     ]
@@ -68154,6 +68375,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721164827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61255648,
+     -38.59481259
+    ]
+   },
+   "properties": {
+    "name": "12 TREASURY ROAD WONTHAGGI 3995",
+    "locID": "ChIJ8xJl4kUMKmsRADhZJXJ6Qd0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721165420"
    }
   },
   {
@@ -68185,7 +68423,7 @@
    "properties": {
     "name": "47 BOTANIC DRIVE WONTHAGGI 3995",
     "locID": "Eiw0NyBCb3RhbmljIERyLCBXb250aGFnZ2kgVklDIDM5OTUsIEF1c3RyYWxpYSIwEi4KFAoSCfcN4PRFDCprERLkhrlLbBFFEC8qFAoSCQf-xCxbDCprEZ2l5kHGXX4S",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721165874"
    }
@@ -68202,7 +68440,7 @@
    "properties": {
     "name": "11 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015864",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721166087"
    }
@@ -68236,7 +68474,7 @@
    "properties": {
     "name": "9 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "Eio5IERvd3NvbiBEciwgV29udGhhZ2dpIFZJQyAzOTk1LCBBdXN0cmFsaWEiMBIuChQKEglrhe4voAwqaxGBYHMOpHkFExAJKhQKEglrhe4voAwqaxF-74VGczD0dQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721166337"
    }
@@ -68280,6 +68518,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.61185453,
+     -38.59455678
+    ]
+   },
+   "properties": {
+    "name": "18 TREASURY ROAD WONTHAGGI 3995",
+    "locID": "ChIJk7Bk30UMKmsRYYxMmodmSZI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721167105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.61778729,
      -38.59831716
     ]
@@ -68297,6 +68552,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.61614443,
+     -38.59878521
+    ]
+   },
+   "properties": {
+    "name": "15 PITMAN DRIVE WONTHAGGI 3995",
+    "locID": "ChIJJ5oVrU8MKmsRFi4wQ23a-KE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721167324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.6159173,
      -38.59814375
     ]
@@ -68307,6 +68579,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167391"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61837762,
+     -38.5982358
+    ]
+   },
+   "properties": {
+    "name": "28 UNDERCUT DRIVE WONTHAGGI 3995",
+    "locID": "ChIJ5bJsmk4MKmsRaF0k3F9TFEA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721167488"
    }
   },
   {
@@ -68365,6 +68654,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.6128135,
+     -38.59483633
+    ]
+   },
+   "properties": {
+    "name": "10 TREASURY ROAD WONTHAGGI 3995",
+    "locID": "ChIJA7LwB0YMKmsRReTeH-mL-9k",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721167737"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.61685105,
      -38.59808517
     ]
@@ -68389,7 +68695,7 @@
    "properties": {
     "name": "2 PIPIT WAY WONTHAGGI 3995",
     "locID": "LOC000192015791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721167857"
    }
@@ -68426,6 +68732,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721168047"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61609407,
+     -38.59911967
+    ]
+   },
+   "properties": {
+    "name": "11 PITMAN DRIVE WONTHAGGI 3995",
+    "locID": "ChIJ6Z97s08MKmsRtALjH5fkjh8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721168064"
    }
   },
   {
@@ -68474,7 +68797,7 @@
    "properties": {
     "name": "10 DOWSON DRIVE WONTHAGGI 3995",
     "locID": "LOC000192015838",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721168841"
    }
@@ -68542,7 +68865,7 @@
    "properties": {
     "name": "6 PIPIT WAY WONTHAGGI 3995",
     "locID": "LOC000192015770",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721169408"
    }
@@ -68559,7 +68882,7 @@
    "properties": {
     "name": "8 PIPIT WAY WONTHAGGI 3995",
     "locID": "LOC000192015762",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721169510"
    }

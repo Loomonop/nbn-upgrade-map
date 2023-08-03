@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-06T11:51:29.697281",
+ "generated": "2023-08-03T03:27:57.439211",
  "suburb": "HAWLEY BEACH",
  "features": [
   {
@@ -49,8 +49,8 @@
    "properties": {
     "name": "7 ARTHUR PLACE HAWLEY BEACH 7307",
     "locID": "LOC000103312423",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702189453"
    }
   },
@@ -1137,8 +1137,8 @@
    "properties": {
     "name": "49 HAWLEY ESPLANADE HAWLEY BEACH 7307",
     "locID": "LOC000066976050",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702254907"
    }
   },
@@ -1766,8 +1766,8 @@
    "properties": {
     "name": "27 HAWLEY ESPLANADE HAWLEY BEACH 7307",
     "locID": "LOC000040758512",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702258450"
    }
   },
@@ -2277,7 +2277,7 @@
     "name": "93 JOYCE STREET HAWLEY BEACH 7307",
     "locID": "LOC000091040570",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702267669"
    }
   },
@@ -3262,7 +3262,7 @@
    "properties": {
     "name": "3 SANKEY STREET HAWLEY BEACH 7307",
     "locID": "ChIJo3FtEmIueqoRJ9OKNvbCLhE",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702331364"
    }
@@ -4350,8 +4350,8 @@
    "properties": {
     "name": "10 TAROONA STREET HAWLEY BEACH 7307",
     "locID": "LOC000157494924",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702454278"
    }
   },
@@ -5200,8 +5200,8 @@
    "properties": {
     "name": "21 PARADISE PLACE HAWLEY BEACH 7307",
     "locID": "LOC000102506894",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716241416"
    }
   },
@@ -5234,8 +5234,8 @@
    "properties": {
     "name": "23 PARADISE PLACE HAWLEY BEACH 7307",
     "locID": "LOC000038187807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716241418"
    }
   },
@@ -5303,7 +5303,7 @@
     "name": "27 PARADISE PLACE HAWLEY BEACH 7307",
     "locID": "LOC000052928433",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716241422"
    }
   },
@@ -5405,7 +5405,7 @@
     "name": "32 PARADISE PLACE HAWLEY BEACH 7307",
     "locID": "LOC000018679936",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716241428"
    }
   },
@@ -6543,7 +6543,7 @@
    "properties": {
     "name": "22 HAWLEY ESPLANADE HAWLEY BEACH 7307",
     "locID": "ChIJUQcklWEueqoRYAWu2YkIJNE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716720094"
    }
@@ -7886,7 +7886,7 @@
    "properties": {
     "name": "2 SHEOAK LANE HAWLEY BEACH 7307",
     "locID": "ChIJkekSmmMueqoRZGpChsmDm6Y",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS719381899"
    }
@@ -10796,6 +10796,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721083502"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.53687073,
+     -41.14508504
+    ]
+   },
+   "properties": {
+    "name": "54 BUSHLAND AVENUE HAWLEY BEACH 7307",
+    "locID": "ChIJY9maQ30ueqoRhEZNrmvg5f0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721083503"
    }
   },
   {

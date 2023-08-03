@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-06T11:32:24.566466",
+ "generated": "2023-08-03T03:20:07.490669",
  "suburb": "MANIFOLD HEIGHTS",
  "features": [
   {
@@ -186,7 +186,7 @@
     "name": "316 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000029252551",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411751023"
    }
   },
@@ -203,7 +203,7 @@
     "name": "UNIT 2, 318 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000087072986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411751753"
    }
   },
@@ -747,7 +747,7 @@
     "name": "UNIT 1, 57 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000011836232",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411758092"
    }
   },
@@ -1308,7 +1308,7 @@
     "name": "UNIT 2, 57 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000012139303",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411762633"
    }
   },
@@ -1495,7 +1495,7 @@
     "name": "UNIT 1, 318 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000089958109",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411777568"
    }
   },
@@ -2821,7 +2821,7 @@
     "name": "UNIT 2, 356A ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000045698280",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411784129"
    }
   },
@@ -3331,7 +3331,7 @@
     "name": "UNIT 2, 320 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000055398587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411792882"
    }
   },
@@ -3824,7 +3824,7 @@
     "name": "UNIT 1, 320 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000057527458",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411811123"
    }
   },
@@ -6289,7 +6289,7 @@
     "name": "UNIT 1, 316 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000029252551",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419886092"
    }
   },
@@ -7343,7 +7343,7 @@
     "name": "5 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000063728394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419955702"
    }
   },
@@ -8227,7 +8227,7 @@
     "name": "312 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000101115634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419964180"
    }
   },
@@ -9434,7 +9434,7 @@
     "name": "1 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000113261807",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420247869"
    }
   },
@@ -9468,7 +9468,7 @@
     "name": "247 SHANNON AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000024218648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420249762"
    }
   },
@@ -9944,7 +9944,7 @@
     "name": "320 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000055398587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420263476"
    }
   },
@@ -9978,7 +9978,7 @@
     "name": "15 SYDENHAM AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000073996082",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420264046"
    }
   },
@@ -10232,8 +10232,8 @@
    "properties": {
     "name": "9 MALVERN GROVE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000095221654",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420537829"
    }
   },
@@ -10674,8 +10674,8 @@
    "properties": {
     "name": "55 SHANNON AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000019416468",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420543867"
    }
   },
@@ -12035,7 +12035,7 @@
     "name": "2 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000071203505",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420565150"
    }
   },
@@ -12256,7 +12256,7 @@
     "name": "7 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000147151147",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420571805"
    }
   },
@@ -12290,7 +12290,7 @@
     "name": "308 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000036774466",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420574639"
    }
   },
@@ -12307,7 +12307,7 @@
     "name": "1 MERTON GROVE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000028453325",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420574640"
    }
   },
@@ -14415,7 +14415,7 @@
     "name": "318 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000089958109",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420871398"
    }
   },
@@ -16183,7 +16183,7 @@
     "name": "165 CHURCH STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000174910576",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421183597"
    }
   },
@@ -16318,8 +16318,8 @@
    "properties": {
     "name": "14 MALVERN GROVE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000006844830",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421187187"
    }
   },
@@ -16438,7 +16438,7 @@
     "name": "UNIT 2, 316 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000029208493",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421379409"
    }
   },
@@ -16676,7 +16676,7 @@
     "name": "16 LASCELLES AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000028008824",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421429219"
    }
   },
@@ -16914,7 +16914,7 @@
     "name": "3 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000080616055",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421439714"
    }
   },
@@ -17424,7 +17424,7 @@
     "name": "346 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000115755298",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421447581"
    }
   },
@@ -17951,7 +17951,7 @@
     "name": "57 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000011836232",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421476983"
    }
   },
@@ -19345,7 +19345,7 @@
     "name": "14 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000115751552",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421754859"
    }
   },
@@ -20025,7 +20025,7 @@
     "name": "UNIT 2, 168 MINERVA ROAD MANIFOLD HEIGHTS 3218",
     "locID": "LOC000079714047",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421990149"
    }
   },
@@ -20059,7 +20059,7 @@
     "name": "UNIT 1, 312 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000101115634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421999621"
    }
   },
@@ -20212,7 +20212,7 @@
     "name": "UNIT 1, 308 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000036774466",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422273261"
    }
   },
@@ -20229,7 +20229,7 @@
     "name": "UNIT 2, 308 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000036864194",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422273262"
    }
   },
@@ -20433,7 +20433,7 @@
     "name": "UNIT 1, 168 MINERVA ROAD MANIFOLD HEIGHTS 3218",
     "locID": "LOC000079714047",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423082373"
    }
   },
@@ -20484,7 +20484,7 @@
     "name": "174 MINERVA ROAD MANIFOLD HEIGHTS 3218",
     "locID": "LOC100064535337",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423282769"
    }
   },
@@ -20807,7 +20807,7 @@
     "name": "UNIT 1, 3 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000080953337",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423727422"
    }
   },
@@ -20824,7 +20824,7 @@
     "name": "UNIT 1, 5 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000063667096",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423727423"
    }
   },
@@ -20841,7 +20841,7 @@
     "name": "UNIT 2, 3 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000080616055",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423727424"
    }
   },
@@ -20858,7 +20858,7 @@
     "name": "UNIT 2, 5 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000063767573",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423727425"
    }
   },
@@ -20875,7 +20875,7 @@
     "name": "UNIT 3, 5 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000063728394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423727426"
    }
   },
@@ -21317,7 +21317,7 @@
     "name": "UNIT 1, 15 SYDENHAM AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000073996082",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424253015"
    }
   },
@@ -21334,7 +21334,7 @@
     "name": "UNIT 2, 15 SYDENHAM AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000073996082",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424253016"
    }
   },
@@ -21385,7 +21385,7 @@
     "name": "UNIT 1, 247 SHANNON AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000024218648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424284026"
    }
   },
@@ -21402,7 +21402,7 @@
     "name": "UNIT 2, 247 SHANNON AVENUE MANIFOLD HEIGHTS 3218",
     "locID": "LOC000024218648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424284027"
    }
   },
@@ -21691,7 +21691,7 @@
     "name": "168 MINERVA ROAD MANIFOLD HEIGHTS 3218",
     "locID": "LOC000079714047",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424362022"
    }
   },
@@ -21929,7 +21929,7 @@
     "name": "UNIT 1, 2 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000071296316",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424487019"
    }
   },
@@ -21946,7 +21946,7 @@
     "name": "UNIT 2, 2 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000071203505",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424487020"
    }
   },
@@ -22286,7 +22286,7 @@
     "name": "UNIT 1, 1 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000113261807",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424668540"
    }
   },
@@ -22303,7 +22303,7 @@
     "name": "UNIT 2, 1 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000105402670",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424668541"
    }
   },
@@ -22456,7 +22456,7 @@
     "name": "UNIT 2, 346 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000115755298",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424896770"
    }
   },
@@ -22473,7 +22473,7 @@
     "name": "UNIT 1, 14 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000115751547",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424897145"
    }
   },
@@ -22490,7 +22490,7 @@
     "name": "UNIT 2, 14 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000115751552",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424897146"
    }
   },
@@ -22541,7 +22541,7 @@
     "name": "UNIT 1, 346 ABERDEEN STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000124283677",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424962319"
    }
   },
@@ -22575,7 +22575,7 @@
     "name": "UNIT 1, 165 CHURCH STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000174910576",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425099500"
    }
   },
@@ -22592,7 +22592,7 @@
     "name": "UNIT 2, 165 CHURCH STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000174910569",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425099501"
    }
   },
@@ -22609,7 +22609,7 @@
     "name": "UNIT 3, 165 CHURCH STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000174910576",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425099502"
    }
   },
@@ -22643,7 +22643,7 @@
     "name": "UNIT 2, 47 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000147166113",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425223476"
    }
   },
@@ -22711,7 +22711,7 @@
     "name": "UNIT 1, 7 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000147151147",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425309103"
    }
   },
@@ -22728,7 +22728,7 @@
     "name": "UNIT 2, 7 CALDER STREET MANIFOLD HEIGHTS 3218",
     "locID": "LOC000147151152",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425309104"
    }
   },
