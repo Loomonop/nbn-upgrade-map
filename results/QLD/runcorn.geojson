@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T21:27:56.918045",
+ "generated": "2023-08-03T21:47:08.576358",
  "suburb": "RUNCORN",
  "features": [
   {
@@ -3483,8 +3483,8 @@
    "properties": {
     "name": "12 COACHWOOD CLOSE RUNCORN 4113",
     "locID": "LOC000062874434",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155768559"
    }
   },
@@ -14465,7 +14465,7 @@
    "properties": {
     "name": "913 BEENLEIGH ROAD RUNCORN 4113",
     "locID": "LOC000193046561",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155777661"
    }
@@ -15859,8 +15859,8 @@
    "properties": {
     "name": "27 VISTA CIRCUIT RUNCORN 4113",
     "locID": "LOC000017878457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155778587"
    }
   },
@@ -16029,8 +16029,8 @@
    "properties": {
     "name": "63 VISTA CIRCUIT RUNCORN 4113",
     "locID": "LOC000030754763",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155778604"
    }
   },
@@ -34355,8 +34355,8 @@
    "properties": {
     "name": "1 COACHWOOD CLOSE RUNCORN 4113",
     "locID": "LOC000062874434",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157044007"
    }
   },
@@ -46612,7 +46612,7 @@
    "properties": {
     "name": "24 BRANDON ROAD RUNCORN 4113",
     "locID": "LOC000184352544",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157069146"
    }
@@ -49060,8 +49060,8 @@
    "properties": {
     "name": "1 DAVINA COURT RUNCORN 4113",
     "locID": "LOC000057348472",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157072806"
    }
   },
@@ -52596,8 +52596,8 @@
    "properties": {
     "name": "6 ROSEWOOD PLACE RUNCORN 4113",
     "locID": "LOC000073352673",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157076300"
    }
   },
@@ -58750,7 +58750,7 @@
    "properties": {
     "name": "7 PINE STREET RUNCORN 4113",
     "locID": "LOC000193028446",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157086539"
    }
@@ -60960,8 +60960,8 @@
    "properties": {
     "name": "20 BRUNA STREET RUNCORN 4113",
     "locID": "LOC000106566890",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157090182"
    }
   },
@@ -78021,23 +78021,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.08248522,
-     -27.6021087
-    ]
-   },
-   "properties": {
-    "name": "35 VICTOR STREET RUNCORN 4113",
-    "locID": "EikzNSBWaWN0b3IgU3QsIFJ1bmNvcm4gUUxEIDQxMTMsIEF1c3RyYWxpYSIwEi4KFAoSCa1CtGX0RJFrEbHYGs1aowITECMqFAoSCfmQJmj0RJFrEURHPxIuUIXP",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD158607473"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.07776611,
      -27.59964076
     ]
@@ -90626,7 +90609,7 @@
     "name": "435 COMPTON ROAD RUNCORN 4113",
     "locID": "LOC000126549867",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163260544"
    }
   },
@@ -99363,7 +99346,7 @@
    "properties": {
     "name": "510 GOWAN ROAD RUNCORN 4113",
     "locID": "EiVHb3dhbiBSZCwgUnVuY29ybiBRTEQgNDExMywgQXVzdHJhbGlhIi4qLAoUChIJbRS1J7NFkWsRq8eaJ_YnsMwSFAoSCZFMogPjRJFrEWCX3vNaowIF",
-    "tech": "HFC",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720881617"
    }

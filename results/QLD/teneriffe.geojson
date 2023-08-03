@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T21:13:10.609789",
+ "generated": "2023-08-03T21:38:10.650632",
  "suburb": "TENERIFFE",
  "features": [
   {
@@ -6595,7 +6595,7 @@
     "name": "32 BEESTON STREET TENERIFFE 4005",
     "locID": "LOC000021668646",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163098844"
    }
   },
@@ -6714,7 +6714,7 @@
     "name": "42 BEESTON STREET TENERIFFE 4005",
     "locID": "LOC000168079405",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163098852"
    }
   },
@@ -8093,23 +8093,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163101264"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04667339,
-     -27.45478447
-    ]
-   },
-   "properties": {
-    "name": "13 CHERMSIDE STREET TENERIFFE 4005",
-    "locID": "LOC000049953922",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD163101266"
    }
   },
   {
@@ -19192,7 +19175,7 @@
     "name": "18 HASTINGS STREET TENERIFFE 4005",
     "locID": "LOC000181179608",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163106205"
    }
   },
@@ -46017,8 +46000,8 @@
    "properties": {
     "name": "12 WALKER AVENUE TENERIFFE 4005",
     "locID": "LOC000027675139",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163118950"
    }
   },
@@ -48313,7 +48296,7 @@
     "name": "UNIT 1, 32 BEESTON STREET TENERIFFE 4005",
     "locID": "LOC000021829814",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163120832"
    }
   },
@@ -49588,7 +49571,7 @@
     "name": "UNIT 2, 32 BEESTON STREET TENERIFFE 4005",
     "locID": "LOC000021668646",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163120907"
    }
   },
@@ -52240,7 +52223,7 @@
     "name": "UNIT 1, 18 HASTINGS STREET TENERIFFE 4005",
     "locID": "LOC000181179608",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163124179"
    }
   },
@@ -52257,7 +52240,7 @@
     "name": "UNIT 2, 18 HASTINGS STREET TENERIFFE 4005",
     "locID": "LOC000181179608",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163124180"
    }
   },
@@ -52274,7 +52257,7 @@
     "name": "UNIT 3, 18 HASTINGS STREET TENERIFFE 4005",
     "locID": "LOC000181179608",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163124181"
    }
   },
@@ -52291,7 +52274,7 @@
     "name": "UNIT 4, 18 HASTINGS STREET TENERIFFE 4005",
     "locID": "LOC000181179608",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163124182"
    }
   },
@@ -52783,7 +52766,7 @@
    "properties": {
     "name": "105 LITTLE CHESTER STREET TENERIFFE 4005",
     "locID": "ChIJQQSCSY5ZkWsR9S8m4bxnucE",
-    "tech": "FTTC",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163125028"
    }
@@ -61589,7 +61572,7 @@
    "properties": {
     "name": "69A MACQUARIE STREET TENERIFFE 4005",
     "locID": "ChIJ6zCAXoVZkWsRUOJ68s_Sd5I",
-    "tech": "FTTN",
+    "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425239839"
    }
@@ -74764,7 +74747,7 @@
    "properties": {
     "name": "308A KENT STREET TENERIFFE 4005",
     "locID": "ChIJXSIfqZFZkWsRA81AMYEJyJQ",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721067950"
    }
