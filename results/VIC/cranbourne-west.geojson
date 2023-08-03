@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-06T08:56:29.078898",
+ "generated": "2023-08-03T02:03:53.642019",
  "suburb": "CRANBOURNE WEST",
  "features": [
   {
@@ -58495,8 +58495,8 @@
    "properties": {
     "name": "17 JOHN RUSSELL ROAD CRANBOURNE WEST 3977",
     "locID": "LOC000125890693",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424753844"
    }
   },
@@ -58784,8 +58784,8 @@
    "properties": {
     "name": "33 JOHN RUSSELL ROAD CRANBOURNE WEST 3977",
     "locID": "LOC000125907772",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424753861"
    }
   },
@@ -58937,8 +58937,8 @@
    "properties": {
     "name": "42 JOHN RUSSELL ROAD CRANBOURNE WEST 3977",
     "locID": "LOC000125935927",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424753870"
    }
   },
@@ -59158,8 +59158,8 @@
    "properties": {
     "name": "57 JOHN RUSSELL ROAD CRANBOURNE WEST 3977",
     "locID": "LOC000125896168",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424753883"
    }
   },
@@ -59277,8 +59277,8 @@
    "properties": {
     "name": "69 JOHN RUSSELL ROAD CRANBOURNE WEST 3977",
     "locID": "LOC000125892815",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424753890"
    }
   },
@@ -59447,8 +59447,8 @@
    "properties": {
     "name": "85 JOHN RUSSELL ROAD CRANBOURNE WEST 3977",
     "locID": "LOC000125904934",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424753900"
    }
   },
@@ -73081,7 +73081,7 @@
    "properties": {
     "name": "2I ELMSFORD CRESCENT CRANBOURNE WEST 3977",
     "locID": "ChIJv8UC60AO1moRrkXZpXFz3e4",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425082703"
    }
@@ -75648,7 +75648,7 @@
    "properties": {
     "name": "15I STANFORD STREET CRANBOURNE WEST 3977",
     "locID": "ChIJzWnwRD8O1moRlnVfbYthvy8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425169705"
    }
@@ -76280,23 +76280,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425221656"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.23680429,
-     -38.11097134
-    ]
-   },
-   "properties": {
-    "name": "29-33W ATLAS DRIVE CRANBOURNE WEST 3977",
-    "locID": "ChIJEZcB_YcO1moRAlydxT2ZoE0",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC425222024"
    }
   },
   {
@@ -115336,23 +115319,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.2436271,
-     -38.11424051
-    ]
-   },
-   "properties": {
-    "name": "3 MODENA PLACE CRANBOURNE WEST 3977",
-    "locID": "ChIJn7_GPooO1moR3RJgiadHV18",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC719525891"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.25142354,
      -38.10300523
     ]
@@ -121242,7 +121208,7 @@
    "properties": {
     "name": "39C WHITFIELD BOULEVARD CRANBOURNE WEST 3977",
     "locID": "ChIJcdS7UxcO1moRK4cpaldclY8",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719792498"
    }
@@ -121310,7 +121276,7 @@
    "properties": {
     "name": "39A WHITFIELD BOULEVARD CRANBOURNE WEST 3977",
     "locID": "ChIJUa9J_BkO1moRnvIaMdoWYyU",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719793033"
    }
@@ -123506,23 +123472,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719983242"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.24953778,
-     -38.10749783
-    ]
-   },
-   "properties": {
-    "name": "80W FLICKA BOULEVARD CRANBOURNE WEST 3977",
-    "locID": "EjM4MCBGbGlja2EgQmx2ZCwgQ3JhbmJvdXJuZSBXZXN0IFZJQyAzOTc3LCBBdXN0cmFsaWEiMBIuChQKEgkjkHczXQ7WahE1dbL7oxZ-ahBQKhQKEgk1Xg2VQg7WahF8flrHOUPW0A",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC719983302"
    }
   },
   {
@@ -126478,7 +126427,7 @@
    "properties": {
     "name": "4 HAMPDEN ROAD CRANBOURNE WEST 3977",
     "locID": "LOC000184193487",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720127079"
    }
@@ -134274,6 +134223,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.25120833,
+     -38.11087736
+    ]
+   },
+   "properties": {
+    "name": "12 YAMUNA WAY CRANBOURNE WEST 3977",
+    "locID": "ChIJs_LJg14O1moRkUnHICVSgmw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720651421"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24982008,
      -38.10775667
     ]
@@ -136406,7 +136372,7 @@
    "properties": {
     "name": "15 PANAMA ROAD CRANBOURNE WEST 3977",
     "locID": "EjExNSBQYW5hbWEgUmQsIENyYW5ib3VybmUgV2VzdCBWSUMgMzk3NywgQXVzdHJhbGlhIjASLgoUChIJISCuSV4O1moR3v2LsGFMopoQDyoUChIJ7TtAKF4O1moRGIZkcb2uNmM",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720761023"
    }
@@ -136423,7 +136389,7 @@
    "properties": {
     "name": "25 PANAMA ROAD CRANBOURNE WEST 3977",
     "locID": "EjEyNSBQYW5hbWEgUmQsIENyYW5ib3VybmUgV2VzdCBWSUMgMzk3NywgQXVzdHJhbGlhIjASLgoUChIJISCuSV4O1moR3v2LsGFMopoQGSoUChIJ7TtAKF4O1moRGIZkcb2uNmM",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720761533"
    }
@@ -136661,7 +136627,7 @@
    "properties": {
     "name": "37 PANAMA ROAD CRANBOURNE WEST 3977",
     "locID": "EjEzNyBQYW5hbWEgUmQsIENyYW5ib3VybmUgV2VzdCBWSUMgMzk3NywgQXVzdHJhbGlhIjASLgoUChIJISCuSV4O1moR3v2LsGFMopoQJSoUChIJ7TtAKF4O1moRGIZkcb2uNmM",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720763920"
    }
@@ -137538,6 +137504,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.24709274,
+     -38.09304537
+    ]
+   },
+   "properties": {
+    "name": "7 MAIDENHAIR WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJJVw7dhUO1moRrvfvvdUds58",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720824911"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24747542,
      -38.09223206
     ]
@@ -137803,6 +137786,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720826522"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24953103,
+     -38.09278984
+    ]
+   },
+   "properties": {
+    "name": "104 FUSION CIRCUIT CRANBOURNE WEST 3977",
+    "locID": "ChIJHVdXQD4O1moRs3BiNQkPa1g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720826605"
    }
   },
   {
@@ -138500,6 +138500,40 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720830049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24702323,
+     -38.09338141
+    ]
+   },
+   "properties": {
+    "name": "1 MAIDENHAIR WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJz01lcRUO1moRNtQNngPqVTE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720830182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.2471378,
+     -38.09282751
+    ]
+   },
+   "properties": {
+    "name": "11 MAIDENHAIR WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJH3FZnBUO1moRqWFL_F5mPUA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720830385"
    }
   },
   {
@@ -139289,6 +139323,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.24710378,
+     -38.09299202
+    ]
+   },
+   "properties": {
+    "name": "8 MAIDENHAIR WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJFdGInRUO1moRXYm77HlyCN0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720834559"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24903596,
      -38.09272589
     ]
@@ -139731,6 +139782,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.24825346,
+     -38.0931862
+    ]
+   },
+   "properties": {
+    "name": "18 MYRTLE WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJWdi4Kz4O1moRXTH0KmBeC74",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720837225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24963056,
+     -38.09303543
+    ]
+   },
+   "properties": {
+    "name": "53 CULTURA WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJjULERj4O1moR4nRr34z7mPA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720837334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24887558,
      -38.09358522
     ]
@@ -139979,6 +140064,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720838879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24909847,
+     -38.09244181
+    ]
+   },
+   "properties": {
+    "name": "79 FUSION CIRCUIT CRANBOURNE WEST 3977",
+    "locID": "ChIJTVXdFT4O1moRXeJsOP78E9Q",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720838893"
    }
   },
   {
@@ -140428,6 +140530,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.24934044,
+     -38.11155223
+    ]
+   },
+   "properties": {
+    "name": "1 THURRA CIRCUIT CRANBOURNE WEST 3977",
+    "locID": "ChIJ8ZSzOF4O1moR7Ckrcxhgp3c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720908221"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.25028332,
      -38.11149728
     ]
@@ -140438,6 +140557,57 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720909041"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24973118,
+     -38.11138669
+    ]
+   },
+   "properties": {
+    "name": "7 EBRO WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJgVz-QV4O1moR5OIToZuUod8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720910116"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24986598,
+     -38.11140532
+    ]
+   },
+   "properties": {
+    "name": "9 EBRO WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJ-SvaaV4O1moR7xeJQ_-re44",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720910449"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.25008133,
+     -38.11143505
+    ]
+   },
+   "properties": {
+    "name": "3 THURRA CIRCUIT CRANBOURNE WEST 3977",
+    "locID": "ChIJpVMKaF4O1moReJap8JozZ6k",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720910990"
    }
   },
   {
@@ -140479,6 +140649,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.25000079,
+     -38.11142392
+    ]
+   },
+   "properties": {
+    "name": "11 EBRO WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJiZ49aF4O1moRurZXDmhj_R0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720912116"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.2491487,
      -38.11133305
     ]
@@ -140486,7 +140673,7 @@
    "properties": {
     "name": "10 OTTAWA WALK CRANBOURNE WEST 3977",
     "locID": "EjMxMCBPdHRhd2EgV2FsaywgQ3JhbmJvdXJuZSBXZXN0IFZJQyAzOTc3LCBBdXN0cmFsaWEiMBIuChQKEgnzCf0VXg7WahHHbWCdAz6dyRAKKhQKEglP_kE6Xg7WahFpspgyMWXmFA",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720913556"
    }
@@ -140503,7 +140690,7 @@
    "properties": {
     "name": "41 PANAMA ROAD CRANBOURNE WEST 3977",
     "locID": "EjE0MSBQYW5hbWEgUmQsIENyYW5ib3VybmUgV2VzdCBWSUMgMzk3NywgQXVzdHJhbGlhIjASLgoUChIJISCuSV4O1moR3v2LsGFMopoQKSoUChIJ7TtAKF4O1moRGIZkcb2uNmM",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720913859"
    }
@@ -140537,7 +140724,7 @@
    "properties": {
     "name": "8 OTTAWA WALK CRANBOURNE WEST 3977",
     "locID": "EjI4IE90dGF3YSBXYWxrLCBDcmFuYm91cm5lIFdlc3QgVklDIDM5NzcsIEF1c3RyYWxpYSIwEi4KFAoSCfMJ_RVeDtZqEcdtYJ0DPp3JEAgqFAoSCU_-QTpeDtZqEWmymDIxZeYU",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720916655"
    }
@@ -140581,6 +140768,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.24993338,
+     -38.11141462
+    ]
+   },
+   "properties": {
+    "name": "10 EBRO WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJvZYtaF4O1moRAjTD6j0zWks",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720921368"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24979858,
+     -38.11139601
+    ]
+   },
+   "properties": {
+    "name": "8 EBRO WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJSfHiaV4O1moRixfUeQfDpbM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720921442"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24739681,
      -38.09291575
     ]
@@ -140615,6 +140836,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.24938081,
+     -38.11133831
+    ]
+   },
+   "properties": {
+    "name": "2 THURRA CIRCUIT CRANBOURNE WEST 3977",
+    "locID": "ChIJv12LP14O1moRYyD5ga-oy6o",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720925754"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24946158,
+     -38.11134946
+    ]
+   },
+   "properties": {
+    "name": "3 EBRO WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJ0ZATQF4O1moRTx6FZt6DyaI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720926153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24712677,
      -38.09288087
     ]
@@ -140639,7 +140894,7 @@
    "properties": {
     "name": "12 OTTAWA WALK CRANBOURNE WEST 3977",
     "locID": "EjMxMiBPdHRhd2EgV2FsaywgQ3JhbmJvdXJuZSBXZXN0IFZJQyAzOTc3LCBBdXN0cmFsaWEiMBIuChQKEgnzCf0VXg7WahHHbWCdAz6dyRAMKhQKEglP_kE6Xg7WahFpspgyMWXmFA",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720926374"
    }
@@ -141193,6 +141448,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.2416212,
+     -38.08201088
+    ]
+   },
+   "properties": {
+    "name": "54 ALTO PLACE CRANBOURNE WEST 3977",
+    "locID": "ChIJOQmtMxoO1moRg0Op8dQx4pY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720964826"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24309145,
      -38.08076414
     ]
@@ -141390,6 +141662,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720970194"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24064316,
+     -38.08154716
+    ]
+   },
+   "properties": {
+    "name": "59 ALTO PLACE CRANBOURNE WEST 3977",
+    "locID": "ChIJcz7FTBoO1moRksRfbkYJnGw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720970505"
    }
   },
   {
@@ -141975,6 +142264,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23402081,
+     -38.11838773
+    ]
+   },
+   "properties": {
+    "name": "13 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJD_B014QO1moR5AufPfRIEBw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721210153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.2345406,
+     -38.11783371
+    ]
+   },
+   "properties": {
+    "name": "11 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJY6k1H4UO1moRIYLsktFNDag",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721210482"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.23429709,
      -38.11886153
     ]
@@ -141992,6 +142315,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23392989,
+     -38.11885072
+    ]
+   },
+   "properties": {
+    "name": "5 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJp8e21IQO1moRsgMFbMQJnwU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721210909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.25569878,
      -38.08006822
     ]
@@ -142002,6 +142342,74 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721210935"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23408382,
+     -38.11806949
+    ]
+   },
+   "properties": {
+    "name": "10 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJ497N2IQO1moRU4Zqo2fLCcw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721210986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23480912,
+     -38.11922982
+    ]
+   },
+   "properties": {
+    "name": "26 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJW5jA0poO1moRotD71CtHNJw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721211289"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23441318,
+     -38.11918129
+    ]
+   },
+   "properties": {
+    "name": "34 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJGXz41JoO1moRVLOCoDAZzJk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721211403"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23442228,
+     -38.11781921
+    ]
+   },
+   "properties": {
+    "name": "9 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJ4wByH4UO1moRHL9PfdPqM1c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721211897"
    }
   },
   {
@@ -142043,6 +142451,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23334272,
+     -38.11905008
+    ]
+   },
+   "properties": {
+    "name": "48 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJl34KMZsO1moRQsaZmCQPyTA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721213706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.24338941,
      -38.0877064
     ]
@@ -142077,6 +142502,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.24958942,
+     -38.11139956
+    ]
+   },
+   "properties": {
+    "name": "5 EBRO WALK CRANBOURNE WEST 3977",
+    "locID": "ChIJDUDKQV4O1moRY0uZZQ-zHSk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721214053"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.23341561,
      -38.11875349
     ]
@@ -142094,6 +142536,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23470057,
+     -38.11921651
+    ]
+   },
+   "properties": {
+    "name": "28 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJGSYZ05oO1moRPlYkPQQ2aD0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721214807"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23355704,
+     -38.11800492
+    ]
+   },
+   "properties": {
+    "name": "2 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJs6Qo24QO1moRccivnhCRERI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721215113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23428423,
+     -38.11780229
+    ]
+   },
+   "properties": {
+    "name": "7 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJPwTzH4UO1moRWCdJqvFP300",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721215475"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.23352229,
      -38.11822405
     ]
@@ -142104,6 +142597,125 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721215538"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23512411,
+     -38.11926843
+    ]
+   },
+   "properties": {
+    "name": "24 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJA_4yM4UO1moRoq389vlONfs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721215694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23460478,
+     -38.11920477
+    ]
+   },
+   "properties": {
+    "name": "30 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJQ7Fv05oO1moRse8hTIeVKEA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721216147"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23404179,
+     -38.11828089
+    ]
+   },
+   "properties": {
+    "name": "15 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJ8xAz2IQO1moRWK1E8pDtldk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721216244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23397316,
+     -38.11863035
+    ]
+   },
+   "properties": {
+    "name": "9 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJm7sk1IQO1moRGriDkcEVexY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721216807"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23442839,
+     -38.11811173
+    ]
+   },
+   "properties": {
+    "name": "12 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJhZg8IYUO1moRAiSB1a3tm7k",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721216871"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23431739,
+     -38.11916955
+    ]
+   },
+   "properties": {
+    "name": "36 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJoQSk1ZoO1moR0BzVYRlKDJY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721217072"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23394999,
+     -38.11874833
+    ]
+   },
+   "properties": {
+    "name": "7 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJucn01IQO1moRi6MfqzzMUig",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721217591"
    }
   },
   {
@@ -142162,6 +142774,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23391153,
+     -38.1189442
+    ]
+   },
+   "properties": {
+    "name": "3 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJtz5oK5sO1moRwTNwakac1Mk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721218091"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.23364914,
      -38.11756928
     ]
@@ -142196,6 +142825,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23414323,
+     -38.11763897
+    ]
+   },
+   "properties": {
+    "name": "5 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJW14z4IQO1moRj2m-xwdP5YI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721218731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23437752,
+     -38.11845197
+    ]
+   },
+   "properties": {
+    "name": "12 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJry1-KIUO1moRa8ues_v1A1M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721219124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.23381566,
      -38.11803662
     ]
@@ -142206,6 +142869,57 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721219626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.234402,
+     -38.11832732
+    ]
+   },
+   "properties": {
+    "name": "14 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJMV5RJoUO1moRfKtQxv1Eklw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721219767"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23399764,
+     -38.1185057
+    ]
+   },
+   "properties": {
+    "name": "11 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJ87Tx1oQO1moRiz_92PkBVuA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721220004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23375106,
+     -38.11910013
+    ]
+   },
+   "properties": {
+    "name": "42 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJGTgnLJsO1moR9uRKSZrIQYw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721220276"
    }
   },
   {
@@ -142230,6 +142944,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23457357,
+     -38.11812952
+    ]
+   },
+   "properties": {
+    "name": "14 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJwaDeI4UO1moRGtLW-wSOonI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721221013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.2334694,
      -38.11848655
     ]
@@ -142247,6 +142978,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23345178,
+     -38.11768657
+    ]
+   },
+   "properties": {
+    "name": "1 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJtTLfwoQO1moR3fWOAKn4ARw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721223119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23432331,
+     -38.11872798
+    ]
+   },
+   "properties": {
+    "name": "8 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJF_ImKoUO1moRVsSfvffSuVU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721223220"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.2418866,
      -38.08692948
     ]
@@ -142257,6 +143022,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721223223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23389483,
+     -38.11911775
+    ]
+   },
+   "properties": {
+    "name": "40 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJHYH6K5sO1moRIt19LwqafBo",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721223517"
    }
   },
   {
@@ -142298,6 +143080,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23420841,
+     -38.11915619
+    ]
+   },
+   "properties": {
+    "name": "38 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJKySI1ZoO1moRXrjH_7WxcfU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721223855"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.25234484,
      -38.0922017
     ]
@@ -142308,6 +143107,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721223867"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23435129,
+     -38.11858552
+    ]
+   },
+   "properties": {
+    "name": "10 VANGUARD AVENUE CRANBOURNE WEST 3977",
+    "locID": "ChIJDe6sKYUO1moRTf6AcN1Ijak",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721224371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23468993,
+     -38.11785201
+    ]
+   },
+   "properties": {
+    "name": "13 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJ-Y36GIUO1moRExfSSpJUS-o",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721225210"
    }
   },
   {
@@ -142332,16 +143165,50 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.24166214,
-     -38.08812912
+     145.23450898,
+     -38.11919303
     ]
    },
    "properties": {
-    "name": "76 WHITFIELD BOULEVARD CRANBOURNE WEST 3977",
-    "locID": "LOC000192905268",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721225684"
+    "name": "32 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJT1-P1JoO1moR65ELICZv54U",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721226053"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23362146,
+     -38.11908425
+    ]
+   },
+   "properties": {
+    "name": "44 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJv8JzLpsO1moRLsf-vjDJrs4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721226058"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.233934,
+     -38.11805113
+    ]
+   },
+   "properties": {
+    "name": "8 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJN-hG2YQO1moRUDxijo16NJA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721226501"
    }
   },
   {
@@ -142359,6 +143226,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721226619"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23362153,
+     -38.11770738
+    ]
+   },
+   "properties": {
+    "name": "3 AURORA DRIVE CRANBOURNE WEST 3977",
+    "locID": "ChIJozoX3YQO1moR0PB-1-NC854",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721226652"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.23349168,
+     -38.11906834
+    ]
+   },
+   "properties": {
+    "name": "46 SANCTUM PARADE CRANBOURNE WEST 3977",
+    "locID": "ChIJTxLkMZsO1moRgXVS4deaOrU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721227044"
    }
   },
   {
