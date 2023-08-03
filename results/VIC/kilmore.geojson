@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T01:13:04.999096",
+ "generated": "2023-08-03T11:29:36.375439",
  "suburb": "KILMORE",
  "features": [
   {
@@ -253,7 +253,7 @@
    "properties": {
     "name": "9 UNION STREET KILMORE 3764",
     "locID": "LOC000189533738",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411670141"
    }
@@ -9450,8 +9450,8 @@
    "properties": {
     "name": "31 KULIN DRIVE KILMORE 3764",
     "locID": "LOC000047238340",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420059379"
    }
   },
@@ -14652,8 +14652,8 @@
    "properties": {
     "name": "15 CHURCH STREET KILMORE 3764",
     "locID": "LOC000072044980",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420596984"
    }
   },
@@ -15367,7 +15367,7 @@
     "name": "16 SYDNEY STREET KILMORE 3764",
     "locID": "LOC000103972237",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420616232"
    }
   },
@@ -17134,7 +17134,7 @@
    "properties": {
     "name": "25-31 ALLAN STREET KILMORE 3764",
     "locID": "ChIJDdHZwEuj12oRBDPVwS5VtZc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420872297"
    }
@@ -24903,8 +24903,8 @@
    "properties": {
     "name": "1-3 SYDNEY STREET KILMORE 3764",
     "locID": "LOC000125141125",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421472910"
    }
   },
@@ -28592,8 +28592,8 @@
    "properties": {
     "name": "25 SYDNEY STREET KILMORE 3764",
     "locID": "LOC000062109658",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421737791"
    }
   },
@@ -32094,8 +32094,8 @@
    "properties": {
     "name": "20 SYDNEY STREET KILMORE 3764",
     "locID": "LOC000002950120",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421951884"
    }
   },
@@ -43545,6 +43545,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.95449968,
+     -37.29391998
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 29 ALBERT STREET KILMORE 3764",
+    "locID": "LOC000082440226",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424077149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.95419471,
      -37.29401953
     ]
@@ -47173,7 +47190,7 @@
    "properties": {
     "name": "200 WIRRANILLA ROAD KILMORE 3764",
     "locID": "ChIJqTjwwgq812oRLom_akQYGS8",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424509596"
    }
@@ -52886,7 +52903,7 @@
     "name": "5 RUBY CLOSE KILMORE 3764",
     "locID": "LOC000125158509",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424721442"
    }
   },
@@ -53940,7 +53957,7 @@
     "name": "18 FRANCIS COURT KILMORE 3764",
     "locID": "LOC000125166249",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424782369"
    }
   },
@@ -54041,8 +54058,8 @@
    "properties": {
     "name": "24 FRANCIS COURT KILMORE 3764",
     "locID": "LOC000125114773",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424782375"
    }
   },
@@ -54177,8 +54194,8 @@
    "properties": {
     "name": "39 FRANCIS COURT KILMORE 3764",
     "locID": "LOC000125141627",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424782383"
    }
   },
@@ -74288,7 +74305,7 @@
    "properties": {
     "name": "39 ALLAN STREET KILMORE 3764",
     "locID": "LOC000189533520",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719794662"
    }
@@ -75002,7 +75019,7 @@
    "properties": {
     "name": "27 ALLAN STREET KILMORE 3764",
     "locID": "LOC000189533679",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719977737"
    }
@@ -75138,7 +75155,7 @@
    "properties": {
     "name": "29 ALLAN STREET KILMORE 3764",
     "locID": "LOC000189533667",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719981960"
    }
@@ -80520,23 +80537,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9346856,
-     -37.28788658
-    ]
-   },
-   "properties": {
-    "name": "17 GREENFIELDS AVENUE KILMORE 3764",
-    "locID": "Ei8xNyBHcmVlbmZpZWxkcyBBdmUsIEtpbG1vcmUgVklDIDM3NjQsIEF1c3RyYWxpYSIwEi4KFAoSCfMGpeJlo9dqEd17KrpiaPM0EBEqFAoSCT99vOJlo9dqEd1x-wB7WcHz",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC720442200"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.93466539,
      -37.29041473
     ]
@@ -83213,7 +83213,7 @@
    "properties": {
     "name": "96 UNION STREET KILMORE 3764",
     "locID": "LOC000189533680",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720566885"
    }
@@ -83315,7 +83315,7 @@
    "properties": {
     "name": "33 ALLAN STREET KILMORE 3764",
     "locID": "ChIJk7ZHuEuj12oR-TfUHWLZZSQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720567845"
    }
@@ -83434,7 +83434,7 @@
    "properties": {
     "name": "88 UNION STREET KILMORE 3764",
     "locID": "LOC000189533826",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720568691"
    }
@@ -83536,7 +83536,7 @@
    "properties": {
     "name": "37 ALLAN STREET KILMORE 3764",
     "locID": "LOC000189533512",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720570544"
    }
@@ -83842,7 +83842,7 @@
    "properties": {
     "name": "86 UNION STREET KILMORE 3764",
     "locID": "LOC000189533861",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720577129"
    }
@@ -83893,7 +83893,7 @@
    "properties": {
     "name": "92 UNION STREET KILMORE 3764",
     "locID": "LOC000189533738",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720577490"
    }
@@ -84012,7 +84012,7 @@
    "properties": {
     "name": "90 UNION STREET KILMORE 3764",
     "locID": "LOC000189533786",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720579140"
    }
@@ -84131,7 +84131,7 @@
    "properties": {
     "name": "94 UNION STREET KILMORE 3764",
     "locID": "LOC000189533701",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720579929"
    }
@@ -84199,7 +84199,7 @@
    "properties": {
     "name": "31 ALLAN STREET KILMORE 3764",
     "locID": "LOC000189533651",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720581410"
    }
@@ -84488,7 +84488,7 @@
    "properties": {
     "name": "52 HAMILTON STREET KILMORE 3764",
     "locID": "ChIJkbXFAFij12oRmL98m9YlKEg",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720653134"
    }
