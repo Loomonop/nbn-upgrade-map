@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-06T23:45:24.369812",
+ "generated": "2023-08-03T10:45:42.513777",
  "suburb": "HEALESVILLE",
  "features": [
   {
@@ -1206,7 +1206,7 @@
     "name": "6 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000016108238",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411534031"
    }
   },
@@ -1257,7 +1257,7 @@
     "name": "30 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000084958229",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411534749"
    }
   },
@@ -1308,7 +1308,7 @@
     "name": "1 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000087807795",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411534752"
    }
   },
@@ -1733,7 +1733,7 @@
     "name": "12 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000106803651",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411536926"
    }
   },
@@ -1783,8 +1783,8 @@
    "properties": {
     "name": "17A MT RIDDELL ROAD HEALESVILLE 3777",
     "locID": "LOC000088374039",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC411537265"
    }
   },
@@ -2838,7 +2838,7 @@
     "name": "19 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000054292239",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411547023"
    }
   },
@@ -3671,7 +3671,7 @@
     "name": "16 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000011925046",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411551460"
    }
   },
@@ -3722,7 +3722,7 @@
     "name": "22 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000002701340",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411551478"
    }
   },
@@ -4079,7 +4079,7 @@
     "name": "49 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000018772316",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411552053"
    }
   },
@@ -4096,7 +4096,7 @@
     "name": "14 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000086358233",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411552054"
    }
   },
@@ -4129,7 +4129,7 @@
    "properties": {
     "name": "311 HEALESVILLE-KOO WEE RUP ROAD HEALESVILLE 3777",
     "locID": "LOC000106649910",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411552056"
    }
@@ -4334,7 +4334,7 @@
     "name": "21 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000003553863",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411552071"
    }
   },
@@ -5082,7 +5082,7 @@
     "name": "8 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000097001102",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411552436"
    }
   },
@@ -5133,7 +5133,7 @@
     "name": "53 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000087718870",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411552442"
    }
   },
@@ -7122,7 +7122,7 @@
     "name": "16 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000012931098",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411556744"
    }
   },
@@ -7139,7 +7139,7 @@
     "name": "18 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000105838636",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411556746"
    }
   },
@@ -7444,8 +7444,8 @@
    "properties": {
     "name": "UNIT 2, 10 ELAMO ROAD HEALESVILLE 3777",
     "locID": "LOC000015956699",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC411557443"
    }
   },
@@ -8498,8 +8498,8 @@
    "properties": {
     "name": "52 AUBURN ROAD HEALESVILLE 3777",
     "locID": "LOC000084968003",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC411561248"
    }
   },
@@ -8872,8 +8872,8 @@
    "properties": {
     "name": "64 AUBURN ROAD HEALESVILLE 3777",
     "locID": "LOC000069510137",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC411562020"
    }
   },
@@ -9060,7 +9060,7 @@
     "name": "10 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000067916546",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411562058"
    }
   },
@@ -9349,7 +9349,7 @@
     "name": "26 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000080403178",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411562895"
    }
   },
@@ -9553,7 +9553,7 @@
     "name": "23 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000071632208",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411565313"
    }
   },
@@ -11355,7 +11355,7 @@
     "name": "6 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000044943425",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411574310"
    }
   },
@@ -11389,7 +11389,7 @@
     "name": "14 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000031063150",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411574316"
    }
   },
@@ -11661,7 +11661,7 @@
     "name": "18 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000061510572",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411577083"
    }
   },
@@ -11695,7 +11695,7 @@
     "name": "28 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000024704982",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411577087"
    }
   },
@@ -11831,7 +11831,7 @@
     "name": "22 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000077010799",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411591590"
    }
   },
@@ -11848,7 +11848,7 @@
     "name": "20 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000105767596",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411591592"
    }
   },
@@ -12477,7 +12477,7 @@
     "name": "9 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000080063314",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC414543065"
    }
   },
@@ -12494,7 +12494,7 @@
     "name": "17 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000056606696",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC414543066"
    }
   },
@@ -14041,7 +14041,7 @@
     "name": "2 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000094660386",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC414575022"
    }
   },
@@ -14075,7 +14075,7 @@
     "name": "12 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000094152505",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC414575032"
    }
   },
@@ -14262,7 +14262,7 @@
     "name": "61 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000071833229",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC414578451"
    }
   },
@@ -16284,8 +16284,8 @@
    "properties": {
     "name": "16 THOMAS ROAD HEALESVILLE 3777",
     "locID": "LOC000067759970",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419552767"
    }
   },
@@ -18052,8 +18052,8 @@
    "properties": {
     "name": "8 BENTON ROAD HEALESVILLE 3777",
     "locID": "LOC000045738236",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419555612"
    }
   },
@@ -19022,7 +19022,7 @@
     "name": "70 LALORS ROAD HEALESVILLE 3777",
     "locID": "LOC000038768156",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419557024"
    }
   },
@@ -19923,7 +19923,7 @@
     "name": "57 LALORS ROAD HEALESVILLE 3777",
     "locID": "LOC000083675411",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419757162"
    }
   },
@@ -21044,8 +21044,8 @@
    "properties": {
     "name": "15 HARKER STREET HEALESVILLE 3777",
     "locID": "LOC000081741203",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419851992"
    }
   },
@@ -24003,7 +24003,7 @@
     "name": "38 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000075953564",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420042668"
    }
   },
@@ -25685,8 +25685,8 @@
    "properties": {
     "name": "14 AYRES ROAD HEALESVILLE 3777",
     "locID": "LOC000045774722",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420153411"
    }
   },
@@ -28066,7 +28066,7 @@
     "name": "3 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000109960182",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420299019"
    }
   },
@@ -28253,7 +28253,7 @@
     "name": "330 MT RIDDELL ROAD HEALESVILLE 3777",
     "locID": "LOC000096224262",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420437312"
    }
   },
@@ -28983,8 +28983,8 @@
    "properties": {
     "name": "14 OLD FERNSHAW ROAD HEALESVILLE 3777",
     "locID": "LOC000049097172",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420456887"
    }
   },
@@ -29052,7 +29052,7 @@
     "name": "21 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000086510229",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420457151"
    }
   },
@@ -32145,8 +32145,8 @@
    "properties": {
     "name": "8 AYRES ROAD HEALESVILLE 3777",
     "locID": "LOC000043675225",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420708471"
    }
   },
@@ -37280,7 +37280,7 @@
     "name": "7 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000081374523",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421059312"
    }
   },
@@ -37415,8 +37415,8 @@
    "properties": {
     "name": "51 LALORS ROAD HEALESVILLE 3777",
     "locID": "LOC000008555306",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421059331"
    }
   },
@@ -38673,8 +38673,8 @@
    "properties": {
     "name": "4 RUTTER AVENUE HEALESVILLE 3777",
     "locID": "LOC000081192994",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421066993"
    }
   },
@@ -40152,8 +40152,8 @@
    "properties": {
     "name": "89 FARNHAM ROAD HEALESVILLE 3777",
     "locID": "LOC000044410123",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421085111"
    }
   },
@@ -41054,7 +41054,7 @@
     "name": "58 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000087230754",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421252903"
    }
   },
@@ -41223,8 +41223,8 @@
    "properties": {
     "name": "15 OLD FERNSHAW ROAD HEALESVILLE 3777",
     "locID": "LOC000024385694",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421337586"
    }
   },
@@ -43519,7 +43519,7 @@
     "name": "5 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000095260786",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421366525"
    }
   },
@@ -46171,7 +46171,7 @@
     "name": "35 THOMAS ROAD HEALESVILLE 3777",
     "locID": "LOC000105792114",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421659119"
    }
   },
@@ -46782,8 +46782,8 @@
    "properties": {
     "name": "2 EVELYN GROVE HEALESVILLE 3777",
     "locID": "LOC000024371201",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421673516"
    }
   },
@@ -48109,7 +48109,7 @@
     "name": "13 NEWGROVE ROAD HEALESVILLE 3777",
     "locID": "LOC000080596008",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421691617"
    }
   },
@@ -49741,7 +49741,7 @@
     "name": "48 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000019565952",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421834472"
    }
   },
@@ -51100,8 +51100,8 @@
    "properties": {
     "name": "10 ARGOON ROAD HEALESVILLE 3777",
     "locID": "LOC000125175091",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC422123963"
    }
   },
@@ -52648,7 +52648,7 @@
     "name": "24 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000089878707",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423100601"
    }
   },
@@ -52886,7 +52886,7 @@
     "name": "4 ROMEO ROAD HEALESVILLE 3777",
     "locID": "LOC000087320006",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423107710"
    }
   },
@@ -53124,7 +53124,7 @@
     "name": "20 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000020169608",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423379593"
    }
   },
@@ -53889,7 +53889,7 @@
     "name": "15 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000097144155",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423436594"
    }
   },
@@ -53906,7 +53906,7 @@
     "name": "25 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000188251845",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423436595"
    }
   },
@@ -53923,7 +53923,7 @@
     "name": "26 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000125504944",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423436596"
    }
   },
@@ -54364,8 +54364,8 @@
    "properties": {
     "name": "2 BONA AVENUE HEALESVILLE 3777",
     "locID": "LOC000076113274",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423440413"
    }
   },
@@ -60298,7 +60298,7 @@
     "name": "10 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000125175089",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424020351"
    }
   },
@@ -61250,7 +61250,7 @@
     "name": "8 ANDERSON ROAD HEALESVILLE 3777",
     "locID": "LOC000125487981",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424077270"
    }
   },
@@ -65499,8 +65499,8 @@
    "properties": {
     "name": "19A MARNA STREET HEALESVILLE 3777",
     "locID": "LOC000046300307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424623557"
    }
   },
@@ -67403,8 +67403,8 @@
    "properties": {
     "name": "UNIT 5, 6 GRANDVIEW CRESCENT HEALESVILLE 3777",
     "locID": "LOC000114952092",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424797503"
    }
   },
@@ -70718,8 +70718,8 @@
    "properties": {
     "name": "7 KARINYA CLOSE HEALESVILLE 3777",
     "locID": "LOC000145234524",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425495413"
    }
   },
@@ -71432,8 +71432,8 @@
    "properties": {
     "name": "6 MILLER STREET HEALESVILLE 3777",
     "locID": "LOC000145234860",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425619724"
    }
   },
@@ -72588,8 +72588,8 @@
    "properties": {
     "name": "104 AYRES ROAD HEALESVILLE 3777",
     "locID": "LOC000169340381",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719002473"
    }
   },
@@ -76773,23 +76773,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721156127"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.52807486,
-     -37.65145893
-    ]
-   },
-   "properties": {
-    "name": "34 ELAMO ROAD HEALESVILLE 3777",
-    "locID": "EiwzNCBFbGFtbyBSZCwgSGVhbGVzdmlsbGUgVklDIDM3NzcsIEF1c3RyYWxpYSIwEi4KFAoSCdHHqtAuKihrERW3dQdWWxHkECIqFAoSCTsjUyYvKihrEQYIR-7HpXdR",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721162980"
    }
   },
   {

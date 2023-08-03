@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-07T00:19:06.312477",
+ "generated": "2023-08-03T10:59:17.888580",
  "suburb": "HERNE HILL",
  "features": [
   {
@@ -3212,7 +3212,7 @@
     "name": "UNIT 2, 3 MATLOCK STREET HERNE HILL 3218",
     "locID": "LOC000056219867",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411580001"
    }
   },
@@ -4487,7 +4487,7 @@
     "name": "UNIT 4, 1 MCCURDY ROAD HERNE HILL 3218",
     "locID": "LOC000083090597",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411589549"
    }
   },
@@ -4946,7 +4946,7 @@
     "name": "UNIT 2, 1 MCCURDY ROAD HERNE HILL 3218",
     "locID": "LOC000083228882",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411590695"
    }
   },
@@ -6221,7 +6221,7 @@
     "name": "UNIT 2, 50 MAURICE STREET HERNE HILL 3218",
     "locID": "LOC000005133398",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411605614"
    }
   },
@@ -6408,7 +6408,7 @@
     "name": "UNIT 1, 50 MAURICE STREET HERNE HILL 3218",
     "locID": "LOC000005219735",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411606573"
    }
   },
@@ -7053,8 +7053,8 @@
    "properties": {
     "name": "7 ITKESTON STREET HERNE HILL 3218",
     "locID": "LOC000065940056",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419637013"
    }
   },
@@ -7427,8 +7427,8 @@
    "properties": {
     "name": "27 GRAYLEA AVENUE HERNE HILL 3218",
     "locID": "LOC000031932566",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419639462"
    }
   },
@@ -13514,7 +13514,7 @@
     "name": "267 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000114782224",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420242599"
    }
   },
@@ -15384,7 +15384,7 @@
     "name": "22 MAURICE STREET HERNE HILL 3218",
     "locID": "LOC000105831052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420479502"
    }
   },
@@ -17168,8 +17168,8 @@
    "properties": {
     "name": "18 HILLTOP STREET HERNE HILL 3218",
     "locID": "LOC000053849518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420561233"
    }
   },
@@ -19209,7 +19209,7 @@
     "name": "327 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000030255668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420856245"
    }
   },
@@ -23561,7 +23561,7 @@
     "name": "50 MAURICE STREET HERNE HILL 3218",
     "locID": "LOC000005219735",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421189181"
    }
   },
@@ -25601,7 +25601,7 @@
     "name": "1 MCCURDY ROAD HERNE HILL 3218",
     "locID": "LOC000083090597",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421469572"
    }
   },
@@ -25618,7 +25618,7 @@
     "name": "3 MATLOCK STREET HERNE HILL 3218",
     "locID": "LOC000056219867",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421469576"
    }
   },
@@ -26113,23 +26113,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421476095"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.32854784,
-     -38.1387279
-    ]
-   },
-   "properties": {
-    "name": "12 FINCHAVEN STREET HERNE HILL 3218",
-    "locID": "LOC000095527677",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421476097"
    }
   },
   {
@@ -26892,8 +26875,8 @@
    "properties": {
     "name": "12 DUNDAS STREET HERNE HILL 3218",
     "locID": "LOC000092089703",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421733822"
    }
   },
@@ -29171,7 +29154,7 @@
     "name": "UNIT 1, 1 MCCURDY ROAD HERNE HILL 3218",
     "locID": "LOC000083090597",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421992753"
    }
   },
@@ -29222,7 +29205,7 @@
     "name": "UNIT 2, 22 MAURICE STREET HERNE HILL 3218",
     "locID": "LOC000105831052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422032345"
    }
   },
@@ -29307,7 +29290,7 @@
     "name": "UNIT 1, 22 MAURICE STREET HERNE HILL 3218",
     "locID": "LOC000105831052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422169150"
    }
   },
@@ -29528,7 +29511,7 @@
     "name": "UNIT 1, 329 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000022016658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422386398"
    }
   },
@@ -29562,7 +29545,7 @@
     "name": "UNIT 2, 329 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000022148559",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422386400"
    }
   },
@@ -30429,7 +30412,7 @@
     "name": "4 RIX STREET HERNE HILL 3218",
     "locID": "LOC000059237923",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423335416"
    }
   },
@@ -30565,7 +30548,7 @@
     "name": "329 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000022016658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423747714"
    }
   },
@@ -31788,7 +31771,7 @@
    "properties": {
     "name": "136 MCCURDY ROAD HERNE HILL 3218",
     "locID": "ChIJh_AEdNsT1GoRJY6Ysqb_Xoo",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424361533"
    }
@@ -31942,7 +31925,7 @@
     "name": "UNIT 1, 327 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000030255668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424512699"
    }
   },
@@ -31959,7 +31942,7 @@
     "name": "UNIT 2, 327 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000030192754",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424512700"
    }
   },
@@ -32061,7 +32044,7 @@
     "name": "UNIT 3, 327 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000030255668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424613722"
    }
   },
@@ -32129,7 +32112,7 @@
     "name": "UNIT 1, 267 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000114782224",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424669070"
    }
   },
@@ -32146,7 +32129,7 @@
     "name": "UNIT 2, 267 CHURCH STREET HERNE HILL 3218",
     "locID": "LOC000112851069",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424669071"
    }
   },
@@ -33930,7 +33913,7 @@
    "properties": {
     "name": "25 HUNT ROAD HERNE HILL 3218",
     "locID": "ChIJrZcthGgT1GoRbQE9p3sZiyU",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425781418"
    }
@@ -34933,7 +34916,7 @@
    "properties": {
     "name": "23 HUNT ROAD HERNE HILL 3218",
     "locID": "ChIJ7fjCdtsT1GoR_7hPCy9BK58",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719750986"
    }
@@ -35715,7 +35698,7 @@
    "properties": {
     "name": "UNIT 1, 136 MCCURDY ROAD HERNE HILL 3218",
     "locID": "ChIJh_AEdNsT1GoRJY6Ysqb_Xoo",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721210726"
    }
@@ -35749,7 +35732,7 @@
    "properties": {
     "name": "UNIT 2, 136 MCCURDY ROAD HERNE HILL 3218",
     "locID": "ChIJh_AEdNsT1GoRJY6Ysqb_Xoo",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721219813"
    }
