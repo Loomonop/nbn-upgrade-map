@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-08T10:39:03.949730",
+ "generated": "2023-08-04T03:53:45.431272",
  "suburb": "CANNON VALLEY",
  "features": [
   {
@@ -440,7 +440,7 @@
    "properties": {
     "name": "150 RIORDANVALE ROAD CANNON VALLEY 4800",
     "locID": "LOC000049133172",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157702050"
    }
@@ -5574,8 +5574,8 @@
    "properties": {
     "name": "14-18 BEAMES CRESCENT CANNON VALLEY 4800",
     "locID": "LOC000152176583",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425405639"
    }
   },
@@ -7301,23 +7301,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     148.6705797,
-     -20.30137687
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 1664 SHUTE HARBOUR ROAD CANNON VALLEY 4800",
-    "locID": "LOC100081660053",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425646965"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      148.66397047,
      -20.30687381
     ]
@@ -8855,7 +8838,7 @@
    "properties": {
     "name": "10 MAHOGANY PLACE CANNON VALLEY 4800",
     "locID": "ChIJd9rXwnLL2WsRxPcWj2WbxQM",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720371228"
    }
