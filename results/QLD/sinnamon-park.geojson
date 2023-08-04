@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T01:42:18.698815",
+ "generated": "2023-08-04T21:24:11.869853",
  "suburb": "SINNAMON PARK",
  "features": [
   {
@@ -17134,8 +17134,8 @@
    "properties": {
     "name": "15 AYSIDE CLOSE SINNAMON PARK 4073",
     "locID": "LOC000011609849",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161007451"
    }
   },
@@ -17372,8 +17372,8 @@
    "properties": {
     "name": "16 BENJAMIN PLACE SINNAMON PARK 4073",
     "locID": "LOC000091317762",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161008107"
    }
   },
@@ -18477,8 +18477,8 @@
    "properties": {
     "name": "16 COLTHOUSE PLACE SINNAMON PARK 4073",
     "locID": "LOC000007690564",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161010816"
    }
   },
@@ -19548,8 +19548,8 @@
    "properties": {
     "name": "16 FOLEY PLACE SINNAMON PARK 4073",
     "locID": "LOC000004934946",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161013605"
    }
   },
@@ -24614,8 +24614,8 @@
    "properties": {
     "name": "36 SAMUEL PLACE SINNAMON PARK 4073",
     "locID": "LOC000050321142",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161023183"
    }
   },
@@ -28643,8 +28643,8 @@
    "properties": {
     "name": "16 BOWNESS CLOSE SINNAMON PARK 4073",
     "locID": "LOC000105622755",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161075414"
    }
   },
@@ -33641,8 +33641,8 @@
    "properties": {
     "name": "82 SINNAMON ROAD SINNAMON PARK 4073",
     "locID": "LOC000088410879",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161309327"
    }
   },
@@ -34270,8 +34270,8 @@
    "properties": {
     "name": "93 WINDERMERE AVENUE SINNAMON PARK 4073",
     "locID": "LOC000072832367",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161356086"
    }
   },
@@ -36497,8 +36497,8 @@
    "properties": {
     "name": "5 STAVELEY CLOSE SINNAMON PARK 4073",
     "locID": "LOC000039459082",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162095141"
    }
   },
@@ -37160,8 +37160,8 @@
    "properties": {
     "name": "116 BURDEKIN DRIVE SINNAMON PARK 4073",
     "locID": "LOC000078172019",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162381471"
    }
   },
@@ -38214,8 +38214,8 @@
    "properties": {
     "name": "15 PALMER PLACE SINNAMON PARK 4073",
     "locID": "LOC000049891849",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162736677"
    }
   },
@@ -38265,8 +38265,8 @@
    "properties": {
     "name": "20 PALMER PLACE SINNAMON PARK 4073",
     "locID": "LOC000014934427",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162736680"
    }
   },
@@ -38700,6 +38700,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.95136176,
+     -27.53844159
+    ]
+   },
+   "properties": {
+    "name": "622 SEVENTEEN MILE ROCKS ROAD SINNAMON PARK 4073",
+    "locID": "ChIJZ9cw3SZOkWsReJlHVcSsgD8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162750320"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.95465108,
      -27.53999987
     ]
@@ -39031,7 +39048,7 @@
     "name": "23 STAVELEY CLOSE SINNAMON PARK 4073",
     "locID": "LOC000148623808",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425217862"
    }
   },
