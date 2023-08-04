@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-08T13:28:06.743912",
+ "generated": "2023-08-04T05:03:36.349649",
  "suburb": "PARADISE POINT",
  "features": [
   {
@@ -8073,7 +8073,7 @@
    "properties": {
     "name": "52 MILTON AVENUE PARADISE POINT 4216",
     "locID": "LOC000192973545",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155701982"
    }
@@ -8192,7 +8192,7 @@
    "properties": {
     "name": "12 MUSCOVEY AVENUE PARADISE POINT 4216",
     "locID": "LOC000192952870",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155702007"
    }
@@ -9297,7 +9297,7 @@
    "properties": {
     "name": "24 MILTON AVENUE PARADISE POINT 4216",
     "locID": "LOC000192973545",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155702988"
    }
@@ -11830,8 +11830,8 @@
    "properties": {
     "name": "22 KING JAMES COURT PARADISE POINT 4216",
     "locID": "LOC000062362436",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155827133"
    }
   },
@@ -12527,8 +12527,8 @@
    "properties": {
     "name": "41 PARKLANE TERRACE PARADISE POINT 4216",
     "locID": "LOC000097499019",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155828924"
    }
   },
@@ -13309,8 +13309,8 @@
    "properties": {
     "name": "1 KENSINGTON MEWS PARADISE POINT 4216",
     "locID": "LOC000020822172",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155830877"
    }
   },
@@ -13361,7 +13361,7 @@
     "name": "12 KENSINGTON MEWS PARADISE POINT 4216",
     "locID": "LOC000074970310",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155830880"
    }
   },
@@ -19925,23 +19925,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156993426"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39631652,
-     -27.8752861
-    ]
-   },
-   "properties": {
-    "name": "36 KILLOWILL AVENUE PARADISE POINT 4216",
-    "locID": "LOC000052655017",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156993429"
    }
   },
   {
@@ -52682,7 +52665,7 @@
     "name": "55 ROYAL ALBERT CRESCENT PARADISE POINT 4216",
     "locID": "LOC000063970577",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161297027"
    }
   },
@@ -53617,7 +53600,7 @@
     "name": "72 THE SOVEREIGN MILE PARADISE POINT 4216",
     "locID": "LOC000157558172",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161328848"
    }
   },
@@ -56745,7 +56728,7 @@
     "name": "47 KNIGHTSBRIDGE PARADE EAST PARADISE POINT 4216",
     "locID": "LOC000097406042",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162041974"
    }
   },
@@ -56812,7 +56795,7 @@
    "properties": {
     "name": "51 KNIGHTSBRIDGE PARADE EAST PARADISE POINT 4216",
     "locID": "ChIJ62GFV-sNkWsRaWOMpSHVXXI",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162041978"
    }
@@ -58386,6 +58369,771 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6102, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6103, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6201, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216723"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6202, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216724"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6203, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216725"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6301, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216726"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6302, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216727"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6303, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216728"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6401, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216729"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6402, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216730"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6403, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6501, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216732"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6502, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216733"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6503, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216734"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7101, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216736"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7102, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216737"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7103, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216738"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7104, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216739"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7105, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216740"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7106, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7201, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216742"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7202, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216743"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7203, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216744"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7204, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216745"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7205, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216746"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7206, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7301, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7302, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216749"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7303, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7305, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216752"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7306, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216753"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7402, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216755"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7403, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7404, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216757"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7405, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216758"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7406, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216759"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7501, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216760"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7503, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7504, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216763"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7505, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216764"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7506, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216765"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7601, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7602, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216767"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7603, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7604, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162216769"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39558499,
      -27.88230781
     ]
@@ -58430,6 +59178,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162221044"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "22 PROMONTORY PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRfrD_F3qooS8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162221053"
    }
   },
   {
@@ -64489,40 +65254,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39631652,
-     -27.8752861
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 36 KILLOWILL AVENUE PARADISE POINT 4216",
-    "locID": "LOC000052206745",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163188639"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39631652,
-     -27.8752861
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 36 KILLOWILL AVENUE PARADISE POINT 4216",
-    "locID": "LOC000052655017",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163188640"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.39596521,
      -27.8763812
     ]
@@ -67260,6 +67991,295 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28102, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28103, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28104, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28201, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28202, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28203, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28301, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350012"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28302, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28303, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350014"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28306, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350015"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28401, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350016"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28402, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28403, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350018"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28502, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350019"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28506, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350020"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28604, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28605, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350022"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.40319452,
      -27.88617948
     ]
@@ -67270,6 +68290,40 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163350023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28801, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28901, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163350025"
    }
   },
   {
@@ -67736,6 +68790,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28406, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163372702"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39766324,
      -27.87421692
     ]
@@ -67746,6 +68817,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424846498"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28305, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD424853711"
    }
   },
   {
@@ -67831,6 +68919,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD424989055"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28701, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD424998829"
    }
   },
   {
@@ -71561,6 +72666,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28106, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425046498"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28205, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425046499"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28501, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425046500"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39494962,
      -27.87808066
     ]
@@ -71605,6 +72761,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425059667"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28204, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425142474"
    }
   },
   {
@@ -71833,6 +73006,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28504, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425178423"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39569648,
      -27.87829723
     ]
@@ -71935,6 +73125,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28206, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425249513"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28405, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425249514"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28603, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425249515"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.40883524,
      -27.87413213
     ]
@@ -71979,6 +73220,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425265609"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28304, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425268739"
    }
   },
   {
@@ -72479,6 +73737,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28105, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425342431"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28702, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425342432"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39416592,
      -27.88494711
     ]
@@ -72659,6 +73951,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425408352"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28101, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425414994"
    }
   },
   {
@@ -73084,6 +74393,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425798370"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28601, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425803441"
    }
   },
   {
@@ -77409,6 +78735,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28503, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719171777"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39716112,
      -27.8740701
     ]
@@ -78004,6 +79347,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6101, 6 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRkxHg1CLKlzo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719173040"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39716112,
      -27.8740701
     ]
@@ -78201,6 +79561,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719290860"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28602, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719291011"
    }
   },
   {
@@ -79347,6 +80724,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7304, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719634430"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39293914,
      -27.88238876
     ]
@@ -79374,6 +80768,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719637546"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7502, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719820603"
    }
   },
   {
@@ -80486,6 +81897,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7401, 7 INLET PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsRl170x1xMGq8",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720037861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39556365,
      -27.8782475
     ]
@@ -80972,6 +82400,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720595094"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39731754,
+     -27.87966688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28505, 28 BROADWATER PRECINCT PARADISE POINT 4216",
+    "locID": "ChIJbzMjhPkNkWsR6ff9YAfzprE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720618870"
    }
   },
   {
@@ -81734,7 +83179,7 @@
    "properties": {
     "name": "149 THE ESPLANADE PARADISE POINT 4216",
     "locID": "ChIJ08usw_ANkWsR0pPYXMAbvyI",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720980408"
    }
@@ -82074,7 +83519,7 @@
    "properties": {
     "name": "17 ESPLANADE WEST PARADISE POINT 4216",
     "locID": "ChIJe60RO_cNkWsRR386PwLdsC4",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721067869"
    }
