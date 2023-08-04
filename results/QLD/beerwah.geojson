@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T06:57:04.608885",
+ "generated": "2023-08-04T23:36:19.367568",
  "suburb": "BEERWAH",
  "features": [
   {
@@ -355,7 +355,7 @@
    "properties": {
     "name": "19 GREBER ROAD BEERWAH 4519",
     "locID": "LOC000192911980",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155005310"
    }
@@ -645,7 +645,7 @@
     "name": "37 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC100059639547",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155006162"
    }
   },
@@ -713,7 +713,7 @@
     "name": "53 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC000097909564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155006168"
    }
   },
@@ -5965,7 +5965,7 @@
    "properties": {
     "name": "235 MAWSONS ROAD BEERWAH 4519",
     "locID": "LOC000052330103",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155010890"
    }
@@ -6747,8 +6747,8 @@
    "properties": {
     "name": "11 BLACKBUTT STREET BEERWAH 4519",
     "locID": "LOC000081887006",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155014334"
    }
   },
@@ -7241,7 +7241,7 @@
     "name": "2788 OLD GYMPIE ROAD BEERWAH 4519",
     "locID": "LOC000099761234",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155015253"
    }
   },
@@ -14075,7 +14075,7 @@
     "name": "1 GREBER ROAD BEERWAH 4519",
     "locID": "LOC000020867551",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156262881"
    }
   },
@@ -14211,7 +14211,7 @@
     "name": "13 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC000036694096",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156263629"
    }
   },
@@ -14228,7 +14228,7 @@
     "name": "17 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC000068737857",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156263631"
    }
   },
@@ -14602,7 +14602,7 @@
     "name": "23A BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC000091518365",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156263715"
    }
   },
@@ -14788,8 +14788,8 @@
    "properties": {
     "name": "3 MELLUMVIEW DRIVE BEERWAH 4519",
     "locID": "LOC000084863511",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156263798"
    }
   },
@@ -16743,8 +16743,8 @@
    "properties": {
     "name": "6 NOTTINGHAM COURT BEERWAH 4519",
     "locID": "LOC000077846023",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156266357"
    }
   },
@@ -17237,7 +17237,7 @@
     "name": "24 TURNER STREET BEERWAH 4519",
     "locID": "LOC000047009321",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156266423"
    }
   },
@@ -18783,8 +18783,8 @@
    "properties": {
     "name": "77 PEACHESTER ROAD BEERWAH 4519",
     "locID": "LOC000068665324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156270517"
    }
   },
@@ -19208,8 +19208,8 @@
    "properties": {
     "name": "75 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC000056791805",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156271331"
    }
   },
@@ -19957,7 +19957,7 @@
     "name": "62 SIMPSON STREET BEERWAH 4519",
     "locID": "LOC000178574483",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156271640"
    }
   },
@@ -20671,7 +20671,7 @@
     "name": "4 LITCHIE STREET BEERWAH 4519",
     "locID": "LOC000041816113",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156272448"
    }
   },
@@ -21044,8 +21044,8 @@
    "properties": {
     "name": "3 CHANTILLY CRESCENT BEERWAH 4519",
     "locID": "LOC000069039168",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156273152"
    }
   },
@@ -22030,8 +22030,8 @@
    "properties": {
     "name": "111 PINE CAMP ROAD BEERWAH 4519",
     "locID": "LOC000064568978",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157512487"
    }
   },
@@ -24088,7 +24088,7 @@
     "name": "UNIT 2, 24 TURNER STREET BEERWAH 4519",
     "locID": "LOC000046830617",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157528643"
    }
   },
@@ -24479,7 +24479,7 @@
     "name": "UNIT 1, 1 GREBER ROAD BEERWAH 4519",
     "locID": "LOC000020867551",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157531880"
    }
   },
@@ -24513,7 +24513,7 @@
     "name": "UNIT 1, 24 TURNER STREET BEERWAH 4519",
     "locID": "LOC000047009321",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157532541"
    }
   },
@@ -24530,7 +24530,7 @@
     "name": "UNIT 1, 20 TURNER STREET BEERWAH 4519",
     "locID": "LOC000047240914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157532543"
    }
   },
@@ -24835,8 +24835,8 @@
    "properties": {
     "name": "9 OLD LANDSBOROUGH ROAD BEERWAH 4519",
     "locID": "LOC000106942632",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157534482"
    }
   },
@@ -24870,7 +24870,7 @@
     "name": "UNIT 2, 1 GREBER ROAD BEERWAH 4519",
     "locID": "LOC000020976866",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157534591"
    }
   },
@@ -26094,7 +26094,7 @@
     "name": "27 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC000098965178",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160052436"
    }
   },
@@ -26910,7 +26910,7 @@
     "name": "20 TURNER STREET BEERWAH 4519",
     "locID": "LOC000047240914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160768323"
    }
   },
@@ -27947,7 +27947,7 @@
     "name": "LOT 114 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC000097909564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161063528"
    }
   },
@@ -29003,23 +29003,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161278532"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.95234089,
-     -26.82894079
-    ]
-   },
-   "properties": {
-    "name": "LOT 48 PINELANDS DRIVE BEERWAH 4519",
-    "locID": "Eiw0OCBQaW5lbGFuZHMgRHIsIEJlZXJ3YWggUUxEIDQ1MTksIEF1c3RyYWxpYSIwEi4KFAoSCQU4NuyPhZNrEeE3us1aowITEDAqFAoSCV3AMcGPhZNrET9PiW0fm0jw",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161278541"
    }
   },
   {
@@ -31516,8 +31499,8 @@
    "properties": {
     "name": "8 INVERLEIGH COURT BEERWAH 4519",
     "locID": "LOC000041941995",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161786495"
    }
   },
@@ -34491,8 +34474,8 @@
    "properties": {
     "name": "79 LINDEMAN ROAD BEERWAH 4519",
     "locID": "LOC000058536457",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162304330"
    }
   },
@@ -34542,7 +34525,7 @@
    "properties": {
     "name": "1 ROXTON COURT BEERWAH 4519",
     "locID": "LOC000180861866",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162309493"
    }
@@ -34559,7 +34542,7 @@
    "properties": {
     "name": "5 ROXTON COURT BEERWAH 4519",
     "locID": "LOC000180861924",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162309494"
    }
@@ -34576,7 +34559,7 @@
    "properties": {
     "name": "9 ROXTON COURT BEERWAH 4519",
     "locID": "LOC000180862165",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162309495"
    }
@@ -35393,7 +35376,7 @@
     "name": "24 BIONDI CRESCENT BEERWAH 4519",
     "locID": "LOC000068867077",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162314190"
    }
   },
@@ -35410,7 +35393,7 @@
     "name": "2 BIONDI CRESCENT BEERWAH 4519",
     "locID": "LOC000165961433",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162314191"
    }
   },
@@ -35817,8 +35800,8 @@
    "properties": {
     "name": "33 GREENVIEW AVENUE BEERWAH 4519",
     "locID": "LOC000005797300",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162350880"
    }
   },
@@ -36005,7 +35988,7 @@
     "name": "4 MATTHEW STREET BEERWAH 4519",
     "locID": "LOC000019239474",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162357098"
    }
   },
@@ -36923,7 +36906,7 @@
     "name": "15 TURNER STREET BEERWAH 4519",
     "locID": "LOC000098917804",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162525357"
    }
   },
@@ -37620,7 +37603,7 @@
     "name": "12 HEIGHTS ROAD BEERWAH 4519",
     "locID": "LOC000016779202",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162674103"
    }
   },
@@ -37738,8 +37721,8 @@
    "properties": {
     "name": "21 HEIGHTS ROAD BEERWAH 4519",
     "locID": "LOC000037533712",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162674110"
    }
   },
@@ -37755,8 +37738,8 @@
    "properties": {
     "name": "30 HEIGHTS ROAD BEERWAH 4519",
     "locID": "LOC000073727809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162674111"
    }
   },
@@ -38161,45 +38144,11 @@
     ]
    },
    "properties": {
-    "name": "229 OLD LANDSBOROUGH ROAD BEERWAH 4519",
-    "locID": "EjQyMjkgT2xkIExhbmRzYm9yb3VnaCBSZCwgQmVlcndhaCBRTEQgNDUxOSwgQXVzdHJhbGlhIjESLwoUChIJQ61BaYaFk2sRStJND3DSwDMQ5QEqFAoSCZtrTFybhZNrEWQ_jEzqQGfO",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162677035"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.95759987,
-     -26.83974829
-    ]
-   },
-   "properties": {
     "name": "231A OLD LANDSBOROUGH ROAD BEERWAH 4519",
     "locID": "ChIJrXTNvoeFk2sRu7H-6wdbzBE",
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162677036"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.95759987,
-     -26.83974829
-    ]
-   },
-   "properties": {
-    "name": "231B OLD LANDSBOROUGH ROAD BEERWAH 4519",
-    "locID": "EjQyMzEgT2xkIExhbmRzYm9yb3VnaCBSZCwgQmVlcndhaCBRTEQgNDUxOSwgQXVzdHJhbGlhIjESLwoUChIJQ61BaYaFk2sRStJND3DSwDMQ5wEqFAoSCZtrTFybhZNrEWQ_jEzqQGfO",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162677037"
    }
   },
   {
@@ -39370,8 +39319,8 @@
    "properties": {
     "name": "5 PARKSIDE DRIVE BEERWAH 4519",
     "locID": "LOC000032814701",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162736710"
    }
   },
@@ -39676,8 +39625,8 @@
    "properties": {
     "name": "14 BOLWARRA COURT BEERWAH 4519",
     "locID": "LOC000093876837",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162823818"
    }
   },
@@ -42906,8 +42855,8 @@
    "properties": {
     "name": "7 FAIRY WREN COURT BEERWAH 4519",
     "locID": "LOC000094580808",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163032728"
    }
   },
@@ -43076,8 +43025,8 @@
    "properties": {
     "name": "17 MAIDENHAIR DRIVE BEERWAH 4519",
     "locID": "LOC000083823706",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163036414"
    }
   },
@@ -43093,8 +43042,8 @@
    "properties": {
     "name": "18 MAIDENHAIR DRIVE BEERWAH 4519",
     "locID": "LOC000012676387",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163036415"
    }
   },
@@ -43161,8 +43110,8 @@
    "properties": {
     "name": "32 MONARCH PLACE BEERWAH 4519",
     "locID": "LOC000060994407",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163038124"
    }
   },
@@ -43706,7 +43655,7 @@
     "name": "14 RED ASH COURT BEERWAH 4519",
     "locID": "LOC000014448412",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163115284"
    }
   },
@@ -43960,8 +43909,8 @@
    "properties": {
     "name": "8 RED ASH COURT BEERWAH 4519",
     "locID": "LOC000082102440",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163115299"
    }
   },
@@ -44429,23 +44378,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0082323,
-     -26.87043007
-    ]
-   },
-   "properties": {
-    "name": "LOT 47 MAWSONS ROAD BEERWAH 4519",
-    "locID": "Eio0NyBNYXdzb25zIFJkLCBCZWVyd2FoIFFMRCA0NTE5LCBBdXN0cmFsaWEiMBIuChQKEgkhtCCGmI-TaxEMf9HqFA-J3BAvKhQKEgmxl0sHv4-TaxG-9EdZdY0a_g",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD163219464"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.96095408,
      -26.86444154
     ]
@@ -44589,8 +44521,8 @@
    "properties": {
     "name": "17 WHISTLER PLACE BEERWAH 4519",
     "locID": "LOC000017778863",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163229929"
    }
   },
@@ -44793,8 +44725,8 @@
    "properties": {
     "name": "5 WHISTLER PLACE BEERWAH 4519",
     "locID": "LOC000002717868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163229941"
    }
   },
@@ -45898,8 +45830,8 @@
    "properties": {
     "name": "13 KATE COURT BEERWAH 4519",
     "locID": "LOC000113917118",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163296264"
    }
   },
@@ -46290,7 +46222,7 @@
     "name": "31 LAPWING CIRCUIT BEERWAH 4519",
     "locID": "LOC000111920247",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163296634"
    }
   },
@@ -50658,8 +50590,8 @@
    "properties": {
     "name": "9 PINE CAMP ROAD BEERWAH 4519",
     "locID": "LOC000064568978",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424993360"
    }
   },
@@ -50761,7 +50693,7 @@
     "name": "SHED 1, 28 BIONDI CRESCENT BEERWAH 4519",
     "locID": "LOC000165961422",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425001287"
    }
   },
@@ -50778,7 +50710,7 @@
     "name": "SHED 2, 28 BIONDI CRESCENT BEERWAH 4519",
     "locID": "LOC000165961433",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425001288"
    }
   },
@@ -51373,7 +51305,7 @@
     "name": "UNIT 1, 37 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC100059639547",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425424226"
    }
   },
@@ -51390,7 +51322,7 @@
     "name": "UNIT 2, 37 BEERWAH PARADE BEERWAH 4519",
     "locID": "LOC100059639547",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425424227"
    }
   },
@@ -52018,7 +51950,7 @@
    "properties": {
     "name": "11 LLOYD STREET BEERWAH 4519",
     "locID": "LOC000180862183",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425641122"
    }
@@ -52239,7 +52171,7 @@
    "properties": {
     "name": "2 ROXTON COURT BEERWAH 4519",
     "locID": "LOC000180861897",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425642358"
    }
@@ -52478,7 +52410,7 @@
     "name": "1 CULGOA COURT BEERWAH 4519",
     "locID": "LOC000165963695",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425747972"
    }
   },
@@ -52648,7 +52580,7 @@
     "name": "13 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963291",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425753001"
    }
   },
@@ -52665,7 +52597,7 @@
     "name": "15 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963317",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425753002"
    }
   },
@@ -52818,7 +52750,7 @@
     "name": "2 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963355",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425753012"
    }
   },
@@ -54892,7 +54824,7 @@
     "name": "UNIT 2, 13 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963301",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425860783"
    }
   },
@@ -55164,7 +55096,7 @@
     "name": "UNIT 1, 15 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963317",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719084264"
    }
   },
@@ -55249,7 +55181,7 @@
     "name": "UNIT 1, 13 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963291",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719086407"
    }
   },
@@ -55283,7 +55215,7 @@
     "name": "UNIT 2, 2 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963355",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719087415"
    }
   },
@@ -56320,7 +56252,7 @@
     "name": "UNIT 1, 2 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963340",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719171248"
    }
   },
@@ -56966,7 +56898,7 @@
     "name": "UNIT 4, 36 SHAWS ROAD BEERWAH 4519",
     "locID": "LOC000165639381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719276443"
    }
   },
@@ -57255,7 +57187,7 @@
     "name": "UNIT 2, 15 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000173740432",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719289251"
    }
   },
@@ -57374,7 +57306,7 @@
     "name": "UNIT 2, 8 PALMERSTON CRESCENT BEERWAH 4519",
     "locID": "LOC000165963598",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719292804"
    }
   },
@@ -57391,7 +57323,7 @@
     "name": "UNIT 1, 1 CULGOA COURT BEERWAH 4519",
     "locID": "LOC100059101536",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719294505"
    }
   },
@@ -57493,7 +57425,7 @@
     "name": "36 SHAWS ROAD BEERWAH 4519",
     "locID": "LOC000165639381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719297868"
    }
   },
@@ -58547,7 +58479,7 @@
     "name": "UNIT 1, 12 CULGOA COURT BEERWAH 4519",
     "locID": "LOC100059101656",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719367063"
    }
   },
@@ -59975,7 +59907,7 @@
     "name": "20 CRUMPTON PLACE BEERWAH 4519",
     "locID": "LOC000182517581",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719566120"
    }
   },
@@ -60077,7 +60009,7 @@
     "name": "46 MILLBROOK CIRCUIT BEERWAH 4519",
     "locID": "LOC100071027556",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719635913"
    }
   },
@@ -60094,7 +60026,7 @@
     "name": "48 MILLBROOK CIRCUIT BEERWAH 4519",
     "locID": "LOC100071027560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719636576"
    }
   },
@@ -60162,7 +60094,7 @@
     "name": "44 MILLBROOK CIRCUIT BEERWAH 4519",
     "locID": "LOC100071027600",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719637353"
    }
   },
@@ -61198,7 +61130,7 @@
    "properties": {
     "name": "UNIT 1, 19 GREBER ROAD BEERWAH 4519",
     "locID": "LOC000192911980",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719832928"
    }
@@ -61351,8 +61283,8 @@
    "properties": {
     "name": "4 NORTH STREET BEERWAH 4519",
     "locID": "LOC000179366846",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719953263"
    }
   },
@@ -61402,8 +61334,8 @@
    "properties": {
     "name": "77A PEACHESTER ROAD BEERWAH 4519",
     "locID": "LOC000068665324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719955472"
    }
   },
@@ -64650,7 +64582,7 @@
     "name": "49 MILLBROOK CIRCUIT BEERWAH 4519",
     "locID": "LOC000182517599",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD721151022"
    }
   },
