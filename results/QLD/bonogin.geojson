@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-09T12:22:45.102729",
+ "generated": "2023-08-04T15:14:48.151036",
  "suburb": "BONOGIN",
  "features": [
   {
@@ -2517,23 +2517,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155037601"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37451196,
-     -28.12107897
-    ]
-   },
-   "properties": {
-    "name": "3 CARRINGTON ROAD BONOGIN 4213",
-    "locID": "LOC000056281774",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155037603"
    }
   },
   {
@@ -8158,8 +8141,8 @@
    "properties": {
     "name": "26-28 PEBBLE CREEK ROAD BONOGIN 4213",
     "locID": "LOC000106795311",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155045900"
    }
   },
@@ -14016,23 +13999,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37451196,
-     -28.12107897
-    ]
-   },
-   "properties": {
-    "name": "5 CARRINGTON ROAD BONOGIN 4213",
-    "locID": "LOC000068647161",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156295156"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.3704776,
      -28.11295944
     ]
@@ -14210,8 +14176,8 @@
    "properties": {
     "name": "77 CHESTERFIELD DRIVE BONOGIN 4213",
     "locID": "LOC000054789260",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156295192"
    }
   },
@@ -21207,23 +21173,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.3742373,
-     -28.11788813
-    ]
-   },
-   "properties": {
-    "name": "57A LYDFORD CLOSE BONOGIN 4213",
-    "locID": "LOC000127287352",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161789924"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.33477399,
      -28.12541489
     ]
@@ -24403,23 +24352,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37451196,
-     -28.12107897
-    ]
-   },
-   "properties": {
-    "name": "7B CARRINGTON ROAD BONOGIN 4213",
-    "locID": "LOC000091301525",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162614225"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37602399,
      -28.10526984
     ]
@@ -24566,23 +24498,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162659994"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37451196,
-     -28.12107897
-    ]
-   },
-   "properties": {
-    "name": "7A CARRINGTON ROAD BONOGIN 4213",
-    "locID": "LOC000091370721",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162664200"
    }
   },
   {
@@ -25124,8 +25039,8 @@
    "properties": {
     "name": "30-32 FOREST RIDGE DRIVE BONOGIN 4213",
     "locID": "LOC000127297067",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162954688"
    }
   },
@@ -26332,7 +26247,7 @@
     "name": "121 TOLGA ROAD BONOGIN 4213",
     "locID": "LOC000127261212",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424945960"
    }
   },
@@ -26671,8 +26586,8 @@
    "properties": {
     "name": "18 RIDGEVIEW CRESCENT BONOGIN 4213",
     "locID": "LOC000127280954",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD425051811"
    }
   },
@@ -28456,8 +28371,8 @@
    "properties": {
     "name": "1-7 CHESTERFIELD DRIVE BONOGIN 4213",
     "locID": "LOC000054789260",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719136973"
    }
   },
@@ -29204,8 +29119,8 @@
    "properties": {
     "name": "76 HERSDEN COURT BONOGIN 4213",
     "locID": "LOC000182425829",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD720663723"
    }
   },
