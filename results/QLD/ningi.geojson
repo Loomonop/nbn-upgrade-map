@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-09T03:09:45.395970",
+ "generated": "2023-08-04T11:01:38.063236",
  "suburb": "NINGI",
  "features": [
   {
@@ -8685,8 +8685,8 @@
    "properties": {
     "name": "69-71 AYLWARD ROAD NINGI 4511",
     "locID": "LOC000099575182",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160048643"
    }
   },
@@ -8940,8 +8940,8 @@
    "properties": {
     "name": "55-57 AYLWARD ROAD NINGI 4511",
     "locID": "LOC000043185032",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160084543"
    }
   },
@@ -10045,8 +10045,8 @@
    "properties": {
     "name": "42-44 BERNBOROUGH WAY NINGI 4511",
     "locID": "LOC000012480153",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161426571"
    }
   },
@@ -12510,8 +12510,8 @@
    "properties": {
     "name": "1-5 TRITON COURT NINGI 4511",
     "locID": "LOC000093575071",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161461935"
    }
   },
@@ -39329,6 +39329,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.10258635,
+     -27.06995137
+    ]
+   },
+   "properties": {
+    "name": "27-35 TREEFROG STREET NINGI 4511",
+    "locID": "ChIJ3709KZnsk2sRQ6UDE3_qvAM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720671350"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.11436763,
      -27.07309364
     ]
@@ -39863,7 +39880,7 @@
    "properties": {
     "name": "97 BROWNS ROAD NINGI 4511",
     "locID": "LOC000193031391",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721114522"
    }

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-09T02:08:17.100161",
+ "generated": "2023-08-04T10:40:15.704951",
  "suburb": "BUNYA",
  "features": [
   {
@@ -152,7 +152,7 @@
     "name": "7 BUNYA LAKE COURT BUNYA 4055",
     "locID": "LOC000054672122",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155093419"
    }
   },
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "4 BERGIN CREEK ROAD BUNYA 4055",
     "locID": "LOC000106599364",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155097953"
    }
   },
@@ -2905,8 +2905,8 @@
    "properties": {
     "name": "9 CARSON DRIVE BUNYA 4055",
     "locID": "LOC000097254511",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155100831"
    }
   },
@@ -5540,8 +5540,8 @@
    "properties": {
     "name": "21 RETREAT COURT BUNYA 4055",
     "locID": "LOC000003413885",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156361094"
    }
   },
@@ -6764,8 +6764,8 @@
    "properties": {
     "name": "9 WILLOW GLEN COURT BUNYA 4055",
     "locID": "LOC000037476442",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157639284"
    }
   },
@@ -7291,8 +7291,8 @@
    "properties": {
     "name": "28 RETREAT COURT BUNYA 4055",
     "locID": "LOC000074375375",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157645775"
    }
   },
@@ -8583,8 +8583,8 @@
    "properties": {
     "name": "LOT 901 WILLOW GLEN COURT BUNYA 4055",
     "locID": "LOC000037476442",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161355336"
    }
   },
@@ -8892,23 +8892,6 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162089674"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.93944041,
-     -27.35625691
-    ]
-   },
-   "properties": {
-    "name": "31 ALLEN ROAD BUNYA 4055",
-    "locID": "EiYzMSBBbGxlbiBSZCwgQnVueWEgUUxEIDQwNTUsIEF1c3RyYWxpYSIwEi4KFAoSCaUrqGD0_ZNrEYHeHs1aowITEB8qFAoSCY_bHA_2_ZNrEeqfaAmlisbI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162116319"
    }
   },
   {
@@ -11595,23 +11578,6 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720676098"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.91903809,
-     -27.36755016
-    ]
-   },
-   "properties": {
-    "name": "75 MAILMANS TRACK BUNYA 4055",
-    "locID": "Eiw3NSBNYWlsbWFucyBUcmFjaywgQnVueWEgUUxEIDQwNTUsIEF1c3RyYWxpYSIwEi4KFAoSCTmrYdziVZFrEcQ5FF80vMIvEEsqFAoSCf3JmTrhVZFrESEdKPF1qwVS",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD721232327"
    }
   }
  ]
