@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-08T03:24:51.424734",
+ "generated": "2023-08-04T00:31:14.071331",
  "suburb": "MALENY",
  "features": [
   {
@@ -236,8 +236,8 @@
    "properties": {
     "name": "9 CHERRY STREET MALENY 4552",
     "locID": "LOC000046533507",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155503489"
    }
   },
@@ -389,8 +389,8 @@
    "properties": {
     "name": "7 MYRTLE STREET MALENY 4552",
     "locID": "LOC000102804379",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155505078"
    }
   },
@@ -1903,7 +1903,7 @@
     "name": "12 BUNYA STREET MALENY 4552",
     "locID": "LOC000073875998",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155509222"
    }
   },
@@ -1920,7 +1920,7 @@
     "name": "16 BUNYA STREET MALENY 4552",
     "locID": "LOC000076434373",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155509225"
    }
   },
@@ -1971,7 +1971,7 @@
     "name": "2 BUNYA STREET MALENY 4552",
     "locID": "LOC000064774562",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155509228"
    }
   },
@@ -2481,7 +2481,7 @@
     "name": "89 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC000037469972",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155511630"
    }
   },
@@ -2582,8 +2582,8 @@
    "properties": {
     "name": "33 BUNYA STREET MALENY 4552",
     "locID": "LOC000049991399",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155512032"
    }
   },
@@ -2702,7 +2702,7 @@
     "name": "50 BUNYA STREET MALENY 4552",
     "locID": "LOC000079816206",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155512044"
    }
   },
@@ -2736,7 +2736,7 @@
     "name": "6 BUNYA STREET MALENY 4552",
     "locID": "LOC000064774562",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155512046"
    }
   },
@@ -2804,7 +2804,7 @@
     "name": "16 MAPLE STREET MALENY 4552",
     "locID": "LOC000032491577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155512058"
    }
   },
@@ -2957,7 +2957,7 @@
     "name": "37 MAPLE STREET MALENY 4552",
     "locID": "LOC000011644643",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155512069"
    }
   },
@@ -3093,7 +3093,7 @@
     "name": "49 MAPLE STREET MALENY 4552",
     "locID": "LOC000036889449",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155512086"
    }
   },
@@ -3926,7 +3926,7 @@
     "name": "13 CENTENARY DRIVE MALENY 4552",
     "locID": "LOC000088161662",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155514768"
    }
   },
@@ -4044,8 +4044,8 @@
    "properties": {
     "name": "28 CENTENARY DRIVE MALENY 4552",
     "locID": "LOC000088132017",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155514780"
    }
   },
@@ -4132,23 +4132,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155515293"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.851084,
-     -26.758575
-    ]
-   },
-   "properties": {
-    "name": "57 MAPLE STREET MALENY 4552",
-    "locID": "Eic1NyBNYXBsZSBTdCwgTWFsZW55IFFMRCA0NTUyLCBBdXN0cmFsaWEiMBIuChQKEgk1_ftGa4eTaxEB42XMWqMCExA5KhQKEgmDYU22FIeTaxF0h4e9s9DAtg",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD155515612"
    }
   },
   {
@@ -4487,7 +4470,7 @@
     "name": "37 CENTENARY DRIVE MALENY 4552",
     "locID": "LOC000181804333",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155515830"
    }
   },
@@ -4996,8 +4979,8 @@
    "properties": {
     "name": "16 MIVA STREET MALENY 4552",
     "locID": "LOC000053810070",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155517082"
    }
   },
@@ -6527,7 +6510,7 @@
     "name": "5 HONEYEATER LANE MALENY 4552",
     "locID": "LOC000067084783",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156763878"
    }
   },
@@ -7462,7 +7445,7 @@
     "name": "1 BUNYA STREET MALENY 4552",
     "locID": "LOC000004073402",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156770297"
    }
   },
@@ -8941,7 +8924,7 @@
     "name": "63 BUNYA STREET MALENY 4552",
     "locID": "LOC000016747555",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156781061"
    }
   },
@@ -9297,8 +9280,8 @@
    "properties": {
     "name": "45 TALLOWWOOD STREET MALENY 4552",
     "locID": "LOC000055377086",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156781875"
    }
   },
@@ -9382,8 +9365,8 @@
    "properties": {
     "name": "59 TALLOWWOOD STREET MALENY 4552",
     "locID": "LOC000128332656",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156781880"
    }
   },
@@ -9570,7 +9553,7 @@
     "name": "50 MAPLE STREET MALENY 4552",
     "locID": "LOC000190306537",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156784409"
    }
   },
@@ -9774,7 +9757,7 @@
     "name": "20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013395064",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156785005"
    }
   },
@@ -9978,7 +9961,7 @@
     "name": "12 WITHAM ROAD MALENY 4552",
     "locID": "LOC000165741031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156788091"
    }
   },
@@ -10981,7 +10964,7 @@
     "name": "1 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC100063990982",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156795372"
    }
   },
@@ -10998,7 +10981,7 @@
     "name": "101 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC000038409634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156795374"
    }
   },
@@ -11015,7 +10998,7 @@
     "name": "13 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC000027358347",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156795375"
    }
   },
@@ -11592,8 +11575,8 @@
    "properties": {
     "name": "42 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC000070072834",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156802434"
    }
   },
@@ -11933,7 +11916,7 @@
     "name": "93 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC000045091046",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156802462"
    }
   },
@@ -11967,7 +11950,7 @@
     "name": "97 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC000065015197",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156802464"
    }
   },
@@ -12000,8 +11983,8 @@
    "properties": {
     "name": "13 TULIP STREET MALENY 4552",
     "locID": "LOC000056253868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156802469"
    }
   },
@@ -12272,8 +12255,8 @@
    "properties": {
     "name": "24 CENTENARY DRIVE MALENY 4552",
     "locID": "LOC000033552836",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156802625"
    }
   },
@@ -13259,7 +13242,7 @@
     "name": "50A MAPLE STREET MALENY 4552",
     "locID": "LOC000034528549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158192153"
    }
   },
@@ -18800,8 +18783,8 @@
    "properties": {
     "name": "153 MALENY-STANLEY RIVER ROAD MALENY 4552",
     "locID": "LOC000028599291",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158234926"
    }
   },
@@ -19752,8 +19735,8 @@
    "properties": {
     "name": "25 HAKEA AVENUE MALENY 4552",
     "locID": "LOC000028267157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160083029"
    }
   },
@@ -22319,8 +22302,8 @@
    "properties": {
     "name": "43 MACADAMIA DRIVE MALENY 4552",
     "locID": "LOC000015686979",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160694589"
    }
   },
@@ -24632,7 +24615,7 @@
     "name": "UNIT 1, 16 MAPLE STREET MALENY 4552",
     "locID": "LOC000032802368",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160740599"
    }
   },
@@ -24649,7 +24632,7 @@
     "name": "UNIT 2, 16 MAPLE STREET MALENY 4552",
     "locID": "LOC000032491577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160740600"
    }
   },
@@ -25567,7 +25550,7 @@
     "name": "483 MOUNTAIN VIEW ROAD MALENY 4552",
     "locID": "LOC000062880732",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160956348"
    }
   },
@@ -25583,7 +25566,7 @@
    "properties": {
     "name": "498 MOUNTAIN VIEW ROAD MALENY 4552",
     "locID": "LOC000024014518",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160956349"
    }
@@ -25737,7 +25720,7 @@
     "name": "LOT 1 BUNYA STREET MALENY 4552",
     "locID": "LOC000004073402",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161086932"
    }
   },
@@ -25754,7 +25737,7 @@
     "name": "LOT 22 BUNYA STREET MALENY 4552",
     "locID": "LOC000064774562",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161086933"
    }
   },
@@ -26314,8 +26297,8 @@
    "properties": {
     "name": "LOT 13 MOUNTAIN VIEW ROAD MALENY 4552",
     "locID": "LOC000165738004",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161247124"
    }
   },
@@ -26756,8 +26739,8 @@
    "properties": {
     "name": "8 LANSDOWNE RISE MALENY 4552",
     "locID": "LOC000082689130",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD161368857"
    }
   },
@@ -26893,7 +26876,7 @@
     "name": "8 SUNNYSIDE COURT MALENY 4552",
     "locID": "LOC000027631004",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161380902"
    }
   },
@@ -28304,7 +28287,7 @@
     "name": "9 CURLEW COURT MALENY 4552",
     "locID": "LOC000083942777",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161974619"
    }
   },
@@ -28388,8 +28371,8 @@
    "properties": {
     "name": "35 HAKEA AVENUE MALENY 4552",
     "locID": "LOC000012727774",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161977123"
    }
   },
@@ -30020,8 +30003,8 @@
    "properties": {
     "name": "10 WATER GUM CRESCENT MALENY 4552",
     "locID": "LOC000094427908",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162108111"
    }
   },
@@ -30496,8 +30479,8 @@
    "properties": {
     "name": "53 WATER GUM CRESCENT MALENY 4552",
     "locID": "LOC000098911145",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162108139"
    }
   },
@@ -30667,7 +30650,7 @@
     "name": "UNIT 1, 20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013302826",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162211192"
    }
   },
@@ -30684,7 +30667,7 @@
     "name": "UNIT 2, 20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013395064",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162211193"
    }
   },
@@ -30701,7 +30684,7 @@
     "name": "UNIT 3, 20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013395064",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162211194"
    }
   },
@@ -30718,7 +30701,7 @@
     "name": "UNIT 4, 20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013388681",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162211195"
    }
   },
@@ -30735,7 +30718,7 @@
     "name": "UNIT 5, 20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013361380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162211196"
    }
   },
@@ -30752,7 +30735,7 @@
     "name": "UNIT 6, 20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013357372",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162211197"
    }
   },
@@ -33013,7 +32996,7 @@
     "name": "UNIT 7, 20 AVOCADO LANE MALENY 4552",
     "locID": "LOC000013573283",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162613202"
    }
   },
@@ -33131,8 +33114,8 @@
    "properties": {
     "name": "39A TAMARIND STREET MALENY 4552",
     "locID": "LOC000031859061",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162634820"
    }
   },
@@ -33182,8 +33165,8 @@
    "properties": {
     "name": "1 PEPPER BERRY DRIVE MALENY 4552",
     "locID": "LOC000085513776",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162677618"
    }
   },
@@ -33217,7 +33200,7 @@
     "name": "5 PEPPER BERRY DRIVE MALENY 4552",
     "locID": "LOC000165740928",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162677620"
    }
   },
@@ -33336,7 +33319,7 @@
     "name": "14 SNOWWOOD AVENUE MALENY 4552",
     "locID": "LOC000027701156",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162678922"
    }
   },
@@ -34015,8 +33998,8 @@
    "properties": {
     "name": "9 RIBBONWOOD AVENUE MALENY 4552",
     "locID": "LOC000011605936",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162714374"
    }
   },
@@ -34389,8 +34372,8 @@
    "properties": {
     "name": "LOT 902 CLOUDWALK DRIVE MALENY 4552",
     "locID": "LOC000082741031",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162824962"
    }
   },
@@ -34729,8 +34712,8 @@
    "properties": {
     "name": "17 CLOUDWALK DRIVE MALENY 4552",
     "locID": "LOC000082741031",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162935601"
    }
   },
@@ -34848,8 +34831,8 @@
    "properties": {
     "name": "9 CLOUDWALK DRIVE MALENY 4552",
     "locID": "LOC000082741031",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162935608"
    }
   },
@@ -34985,7 +34968,7 @@
     "name": "2 GREENHILLS ESPLANADE MALENY 4552",
     "locID": "LOC000165740874",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162939108"
    }
   },
@@ -35392,8 +35375,8 @@
    "properties": {
     "name": "93 MALENY-STANLEY RIVER ROAD MALENY 4552",
     "locID": "LOC000067175158",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163069660"
    }
   },
@@ -35461,7 +35444,7 @@
     "name": "UNIT 1, 12 WITHAM ROAD MALENY 4552",
     "locID": "LOC000165741031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163119449"
    }
   },
@@ -35478,7 +35461,7 @@
     "name": "UNIT 2, 12 WITHAM ROAD MALENY 4552",
     "locID": "LOC000165741049",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163119450"
    }
   },
@@ -35495,7 +35478,7 @@
     "name": "UNIT 3, 12 WITHAM ROAD MALENY 4552",
     "locID": "LOC000165741054",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163119451"
    }
   },
@@ -35512,7 +35495,7 @@
     "name": "UNIT 4, 12 WITHAM ROAD MALENY 4552",
     "locID": "LOC000165741065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163119452"
    }
   },
@@ -35529,7 +35512,7 @@
     "name": "UNIT 5, 12 WITHAM ROAD MALENY 4552",
     "locID": "LOC000165741335",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163119453"
    }
   },
@@ -41649,7 +41632,7 @@
     "name": "UNIT 1, 2 GREENHILLS ESPLANADE MALENY 4552",
     "locID": "LOC000165740874",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425491408"
    }
   },
@@ -41717,7 +41700,7 @@
     "name": "UNIT 1, 5 PEPPER BERRY DRIVE MALENY 4552",
     "locID": "LOC000165740916",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425642124"
    }
   },
@@ -41734,7 +41717,7 @@
     "name": "UNIT 2, 5 PEPPER BERRY DRIVE MALENY 4552",
     "locID": "LOC000165740928",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425642125"
    }
   },
@@ -41750,8 +41733,8 @@
    "properties": {
     "name": "1 CLOUDWALK DRIVE MALENY 4552",
     "locID": "LOC000082741031",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425644749"
    }
   },
@@ -41869,8 +41852,8 @@
    "properties": {
     "name": "557 MOUNTAIN VIEW ROAD MALENY 4552",
     "locID": "LOC000165738004",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425658374"
    }
   },
@@ -42924,7 +42907,7 @@
     "name": "14A SNOWWOOD AVENUE MALENY 4552",
     "locID": "LOC100074891551",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719565044"
    }
   },
@@ -42940,8 +42923,8 @@
    "properties": {
     "name": "142 TALLOWWOOD STREET MALENY 4552",
     "locID": "LOC000175008723",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719566444"
    }
   },
@@ -42991,8 +42974,8 @@
    "properties": {
     "name": "18 MAHOGANY PLACE MALENY 4552",
     "locID": "LOC000175008429",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719568293"
    }
   },
@@ -43212,7 +43195,7 @@
    "properties": {
     "name": "465 MOUNTAIN VIEW ROAD MALENY 4552",
     "locID": "EjA0NjUgTW91bnRhaW4gVmlldyBSZCwgTWFsZW55IFFMRCA0NTUyLCBBdXN0cmFsaWEiMRIvChQKEgmRGe8OooeTaxEnrHJ5r0NrvxDRAyoUChIJu9SpL6iHk2sRb8bnNeHfF_k",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719849980"
    }
