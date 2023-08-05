@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T18:36:11.435561",
+ "generated": "2023-08-05T04:09:57.406967",
  "suburb": "HEATHWOOD",
  "features": [
   {
@@ -882,8 +882,8 @@
    "properties": {
     "name": "3 BIRCH CLOSE HEATHWOOD 4110",
     "locID": "LOC000085282782",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161972464"
    }
   },
@@ -1375,8 +1375,8 @@
    "properties": {
     "name": "8 CYPRESS STREET HEATHWOOD 4110",
     "locID": "LOC000033370452",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161974676"
    }
   },
@@ -9943,8 +9943,8 @@
    "properties": {
     "name": "61 CASUARINA CIRCUIT HEATHWOOD 4110",
     "locID": "LOC000056496498",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163178396"
    }
   },
@@ -11184,7 +11184,7 @@
    "properties": {
     "name": "80 WADEVILLE STREET HEATHWOOD 4110",
     "locID": "ChIJQ2h9xcxIkWsRSOY4AAgfDUk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163224674"
    }
@@ -12833,8 +12833,8 @@
    "properties": {
     "name": "25 WIREWOOD PLACE HEATHWOOD 4110",
     "locID": "LOC000113334043",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163334542"
    }
   },
@@ -13480,7 +13480,7 @@
     "name": "60 FALKLAND STREET WEST HEATHWOOD 4110",
     "locID": "LOC000146168437",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425329590"
    }
   },
@@ -13717,7 +13717,7 @@
    "properties": {
     "name": "131 SANCTUARY DRIVE HEATHWOOD 4110",
     "locID": "ChIJdU5Fwc1IkWsRU14_R2EHSeY",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425410678"
    }
@@ -30166,6 +30166,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98363143,
+     -27.62870622
+    ]
+   },
+   "properties": {
+    "name": "21 ULLAPOOL STREET HEATHWOOD 4110",
+    "locID": "ChIJU0AGy8xIkWsRDS9cA3sZ5H4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721229382"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.98337936,
      -27.6286767
     ]
@@ -30193,6 +30210,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721229977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98371896,
+     -27.62829494
+    ]
+   },
+   "properties": {
+    "name": "17 ULLAPOOL STREET HEATHWOOD 4110",
+    "locID": "ChIJu_3FNTNPkWsRYGsBReLKiTs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721229989"
    }
   },
   {
@@ -30336,6 +30370,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98340613,
+     -27.62925309
+    ]
+   },
+   "properties": {
+    "name": "25 ULLAPOOL STREET HEATHWOOD 4110",
+    "locID": "LOC000192585681",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721235019"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.98320251,
      -27.62823956
     ]
@@ -30397,6 +30448,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721264026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98398846,
+     -27.62771499
+    ]
+   },
+   "properties": {
+    "name": "15 ULLAPOOL STREET HEATHWOOD 4110",
+    "locID": "ChIJMUkXRzNPkWsRxj9pv2gPgz8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721265783"
    }
   }
  ]
