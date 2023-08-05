@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-12T01:33:02.875781",
+ "generated": "2023-08-05T22:49:47.640608",
  "suburb": "SUBIACO",
  "features": [
   {
@@ -15264,8 +15264,8 @@
    "properties": {
     "name": "358 BARKER ROAD SUBIACO 6008",
     "locID": "LOC000035203840",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146655537"
    }
   },
@@ -15350,7 +15350,7 @@
     "name": "61 FORREST STREET SUBIACO 6008",
     "locID": "LOC000094539764",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146655576"
    }
   },
@@ -16556,8 +16556,8 @@
    "properties": {
     "name": "94 HENSMAN ROAD SUBIACO 6008",
     "locID": "LOC000077232754",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146656623"
    }
   },
@@ -20110,7 +20110,7 @@
     "name": "150 ROKEBY ROAD SUBIACO 6008",
     "locID": "LOC000108967587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146659412"
    }
   },
@@ -22847,7 +22847,7 @@
     "name": "132 ROKEBY ROAD SUBIACO 6008",
     "locID": "LOC000131839174",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146661683"
    }
   },
@@ -33845,8 +33845,8 @@
    "properties": {
     "name": "50 MERE VIEW WAY SUBIACO 6008",
     "locID": "LOC000069402594",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147166482"
    }
   },
@@ -34406,8 +34406,8 @@
    "properties": {
     "name": "83 SALVADO ROAD SUBIACO 6008",
     "locID": "LOC000004566138",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147171272"
    }
   },
@@ -35461,7 +35461,7 @@
     "name": "117 SALVADO ROAD SUBIACO 6008",
     "locID": "LOC000107975120",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147177304"
    }
   },
@@ -50692,8 +50692,8 @@
    "properties": {
     "name": "304 BAGOT ROAD SUBIACO 6008",
     "locID": "LOC000055426599",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148134185"
    }
   },
@@ -63476,7 +63476,7 @@
    "properties": {
     "name": "9 MCCOURT STREET SUBIACO 6008",
     "locID": "LOC000190834869",
-    "tech": "FTTB",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148155798"
    }
@@ -82397,7 +82397,7 @@
    "properties": {
     "name": "1-19 MCCOURT STREET SUBIACO 6008",
     "locID": "ChIJhQo-PxWlMioRJUtJ0FiMh_g",
-    "tech": "FTTB",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148339397"
    }
@@ -83349,7 +83349,7 @@
    "properties": {
     "name": "110 HAY STREET SUBIACO 6008",
     "locID": "LOC000180705234",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148340084"
    }
@@ -113320,7 +113320,7 @@
    "properties": {
     "name": "93A THOMAS STREET SUBIACO 6008",
     "locID": "ChIJEZ_BuTylMioRr3_VZcm96BA",
-    "tech": "FTTB",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163087798"
    }
@@ -114817,7 +114817,7 @@
     "name": "136A ROKEBY ROAD SUBIACO 6008",
     "locID": "LOC000003023991",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163207887"
    }
   },
@@ -129998,7 +129998,7 @@
     "name": "142 ROKEBY ROAD SUBIACO 6008",
     "locID": "LOC000151983592",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718915184"
    }
   },
@@ -130235,7 +130235,7 @@
    "properties": {
     "name": "18 CARTER LANE SUBIACO 6008",
     "locID": "ChIJ-7JL_R2lMioRbjY7CWT5uF8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718945731"
    }
@@ -140047,23 +140047,6 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720410364"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.83668397,
-     -31.94591539
-    ]
-   },
-   "properties": {
-    "name": "75 ROBERTS ROAD SUBIACO 6008",
-    "locID": "Eik3NSBSb2JlcnRzIFJkLCBTdWJpYWNvIFdBIDYwMDgsIEF1c3RyYWxpYSIwEi4KFAoSCfvtdcU7pTIqEdDaSfxAqj3nEEsqFAoSCYduNOA9pTIqEVxHxZQfUgMG",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720412816"
    }
   },
   {
