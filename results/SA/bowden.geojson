@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T02:59:37.819528",
+ "generated": "2023-08-05T08:01:37.116459",
  "suburb": "BOWDEN",
  "features": [
   {
@@ -441,7 +441,7 @@
     "name": "UNIT 1, 26 PARK TERRACE BOWDEN 5007",
     "locID": "LOC000037478281",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415053671"
    }
   },
@@ -458,7 +458,7 @@
     "name": "UNIT 2, 26 PARK TERRACE BOWDEN 5007",
     "locID": "LOC000037273634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415053672"
    }
   },
@@ -543,7 +543,7 @@
     "name": "29A PARK TERRACE BOWDEN 5007",
     "locID": "LOC000165832650",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415064286"
    }
   },
@@ -730,7 +730,7 @@
     "name": "73 GIBSON STREET BOWDEN 5007",
     "locID": "LOC000165832479",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415104549"
    }
   },
@@ -1086,8 +1086,8 @@
    "properties": {
     "name": "144 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000055008102",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415208820"
    }
   },
@@ -2158,7 +2158,7 @@
     "name": "140 GIBSON STREET BOWDEN 5007",
     "locID": "LOC000053141980",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415414060"
    }
   },
@@ -3296,8 +3296,8 @@
    "properties": {
     "name": "35 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000026707147",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415461878"
    }
   },
@@ -7410,7 +7410,7 @@
    "properties": {
     "name": "27 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842997",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416470314"
    }
@@ -7632,7 +7632,7 @@
     "name": "2 PARK TERRACE BOWDEN 5007",
     "locID": "LOC000037273634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416472870"
    }
   },
@@ -7971,8 +7971,8 @@
    "properties": {
     "name": "10 QUIN STREET BOWDEN 5007",
     "locID": "LOC000001871191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_421970896"
    }
   },
@@ -7989,7 +7989,7 @@
     "name": "26 PARK TERRACE BOWDEN 5007",
     "locID": "LOC000037478281",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422042954"
    }
   },
@@ -8278,7 +8278,7 @@
     "name": "2 GIBSON STREET BOWDEN 5007",
     "locID": "LOC000165832479",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423428577"
    }
   },
@@ -26722,7 +26722,7 @@
    "properties": {
     "name": "LOT 34 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843067",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721109931"
    }
@@ -26739,7 +26739,7 @@
    "properties": {
     "name": "LOT 20 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842921",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110031"
    }
@@ -26756,7 +26756,7 @@
    "properties": {
     "name": "LOT 31 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843033",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110126"
    }
@@ -26773,7 +26773,7 @@
    "properties": {
     "name": "LOT 27 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842997",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110175"
    }
@@ -26807,7 +26807,7 @@
    "properties": {
     "name": "LOT 25 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842978",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110351"
    }
@@ -26841,7 +26841,7 @@
    "properties": {
     "name": "LOT 15 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842875",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110422"
    }
@@ -26858,7 +26858,7 @@
    "properties": {
     "name": "LOT 36 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843080",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110427"
    }
@@ -26875,7 +26875,7 @@
    "properties": {
     "name": "LOT 37 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843098",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110468"
    }
@@ -26892,7 +26892,7 @@
    "properties": {
     "name": "LOT 29 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843014",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110526"
    }
@@ -26909,7 +26909,7 @@
    "properties": {
     "name": "LOT 38 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843108",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110676"
    }
@@ -26943,7 +26943,7 @@
    "properties": {
     "name": "LOT 19 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842913",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721110780"
    }
@@ -26960,7 +26960,7 @@
    "properties": {
     "name": "LOT 28 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843005",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111078"
    }
@@ -26977,7 +26977,7 @@
    "properties": {
     "name": "LOT 41 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190843131",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111110"
    }
@@ -26994,7 +26994,7 @@
    "properties": {
     "name": "LOT 40 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190843120",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111216"
    }
@@ -27011,7 +27011,7 @@
    "properties": {
     "name": "LOT 30 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843022",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111285"
    }
@@ -27028,7 +27028,7 @@
    "properties": {
     "name": "LOT 39 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843112",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111292"
    }
@@ -27062,7 +27062,7 @@
    "properties": {
     "name": "LOT 32 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843046",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111442"
    }
@@ -27096,7 +27096,7 @@
    "properties": {
     "name": "LOT 35 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843079",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111499"
    }
@@ -27113,7 +27113,7 @@
    "properties": {
     "name": "LOT 33 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843051",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111583"
    }
@@ -27130,7 +27130,7 @@
    "properties": {
     "name": "LOT 8 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842806",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111585"
    }
@@ -27147,7 +27147,7 @@
    "properties": {
     "name": "LOT 18 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842852",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721111813"
    }
@@ -27181,7 +27181,7 @@
    "properties": {
     "name": "LOT 22 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842945",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112044"
    }
@@ -27198,7 +27198,7 @@
    "properties": {
     "name": "LOT 21 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842932",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112047"
    }
@@ -27215,7 +27215,7 @@
    "properties": {
     "name": "LOT 2 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842749",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112055"
    }
@@ -27266,7 +27266,7 @@
    "properties": {
     "name": "LOT 4 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842765",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112202"
    }
@@ -27283,7 +27283,7 @@
    "properties": {
     "name": "LOT 23 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842950",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112237"
    }
@@ -27300,7 +27300,7 @@
    "properties": {
     "name": "LOT 6 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842783",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112317"
    }
@@ -27317,7 +27317,7 @@
    "properties": {
     "name": "LOT 14 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842875",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112333"
    }
@@ -27334,7 +27334,7 @@
    "properties": {
     "name": "LOT 12 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842847",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112626"
    }
@@ -27351,7 +27351,7 @@
    "properties": {
     "name": "LOT 17 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842899",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112663"
    }
@@ -27368,7 +27368,7 @@
    "properties": {
     "name": "LOT 26 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842984",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112678"
    }
@@ -27385,7 +27385,7 @@
    "properties": {
     "name": "LOT 13 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842852",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112696"
    }
@@ -27419,7 +27419,7 @@
    "properties": {
     "name": "LOT 10 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842899",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112804"
    }
@@ -27436,7 +27436,7 @@
    "properties": {
     "name": "LOT 24 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842966",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112872"
    }
@@ -27470,7 +27470,7 @@
    "properties": {
     "name": "LOT 16 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842868",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721112888"
    }
@@ -27487,7 +27487,7 @@
    "properties": {
     "name": "17 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842966",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113054"
    }
@@ -27504,7 +27504,7 @@
    "properties": {
     "name": "17 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843112",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113055"
    }
@@ -27521,7 +27521,7 @@
    "properties": {
     "name": "11 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842932",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113083"
    }
@@ -27538,7 +27538,7 @@
    "properties": {
     "name": "18 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842852",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113084"
    }
@@ -27555,7 +27555,7 @@
    "properties": {
     "name": "18 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843005",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113098"
    }
@@ -27572,7 +27572,7 @@
    "properties": {
     "name": "7 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843067",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113112"
    }
@@ -27589,7 +27589,7 @@
    "properties": {
     "name": "8 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843051",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113113"
    }
@@ -27606,7 +27606,7 @@
    "properties": {
     "name": "11 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843080",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113119"
    }
@@ -27623,7 +27623,7 @@
    "properties": {
     "name": "63 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842834",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113122"
    }
@@ -27640,7 +27640,7 @@
    "properties": {
     "name": "51 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842777",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113127"
    }
@@ -27657,7 +27657,7 @@
    "properties": {
     "name": "9 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843079",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113128"
    }
@@ -27674,7 +27674,7 @@
    "properties": {
     "name": "16 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843014",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113129"
    }
@@ -27691,7 +27691,7 @@
    "properties": {
     "name": "61 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842823",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113131"
    }
@@ -27708,7 +27708,7 @@
    "properties": {
     "name": "12 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843033",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113171"
    }
@@ -27725,7 +27725,7 @@
    "properties": {
     "name": "48 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842984",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113173"
    }
@@ -27742,7 +27742,7 @@
    "properties": {
     "name": "53 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842783",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113174"
    }
@@ -27759,7 +27759,7 @@
    "properties": {
     "name": "10 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843046",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113176"
    }
@@ -27776,7 +27776,7 @@
    "properties": {
     "name": "13 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843098",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113199"
    }
@@ -27793,7 +27793,7 @@
    "properties": {
     "name": "49 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842765",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113215"
    }
@@ -27810,7 +27810,7 @@
    "properties": {
     "name": "50 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842847",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113216"
    }
@@ -27827,7 +27827,7 @@
    "properties": {
     "name": "55 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842796",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113218"
    }
@@ -27844,7 +27844,7 @@
    "properties": {
     "name": "16 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842868",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113219"
    }
@@ -27861,7 +27861,7 @@
    "properties": {
     "name": "15 TAILOR LANE BOWDEN 5007",
     "locID": "LOC000190843108",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113220"
    }
@@ -27878,7 +27878,7 @@
    "properties": {
     "name": "9 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842921",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113221"
    }
@@ -27895,7 +27895,7 @@
    "properties": {
     "name": "14 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190843022",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113222"
    }
@@ -27912,7 +27912,7 @@
    "properties": {
     "name": "8 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842909",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113247"
    }
@@ -27929,7 +27929,7 @@
    "properties": {
     "name": "42 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190843131",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113253"
    }
@@ -27946,7 +27946,7 @@
    "properties": {
     "name": "47 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842754",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113265"
    }
@@ -27997,7 +27997,7 @@
    "properties": {
     "name": "59 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842810",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113297"
    }
@@ -28014,7 +28014,7 @@
    "properties": {
     "name": "44 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842997",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113298"
    }
@@ -28031,7 +28031,7 @@
    "properties": {
     "name": "57 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842806",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113312"
    }
@@ -28048,7 +28048,7 @@
    "properties": {
     "name": "15 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842950",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113315"
    }
@@ -28065,7 +28065,7 @@
    "properties": {
     "name": "40 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190843120",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113316"
    }
@@ -28082,7 +28082,7 @@
    "properties": {
     "name": "10 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842899",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113317"
    }
@@ -28099,7 +28099,7 @@
    "properties": {
     "name": "7 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842913",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113318"
    }
@@ -28116,7 +28116,7 @@
    "properties": {
     "name": "46 EIGHTH STREET BOWDEN 5007",
     "locID": "LOC000190842978",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113367"
    }
@@ -28133,7 +28133,7 @@
    "properties": {
     "name": "13 FOUNDRY LANE BOWDEN 5007",
     "locID": "LOC000190842945",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113368"
    }
@@ -28150,7 +28150,7 @@
    "properties": {
     "name": "14 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842875",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113390"
    }
@@ -28167,7 +28167,7 @@
    "properties": {
     "name": "12 RED BRICK LANE BOWDEN 5007",
     "locID": "LOC000190842881",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113401"
    }
@@ -28184,7 +28184,7 @@
    "properties": {
     "name": "43 DRAYTON STREET BOWDEN 5007",
     "locID": "LOC000190842731",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721113402"
    }
