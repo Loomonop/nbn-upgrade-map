@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T19:52:02.416824",
+ "generated": "2023-08-05T20:29:13.065365",
  "suburb": "ST CLAIR",
  "features": [
   {
@@ -5795,8 +5795,8 @@
    "properties": {
     "name": "551 TORRENS ROAD ST CLAIR 5011",
     "locID": "LOC000166910098",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425194230"
    }
   },
@@ -17569,6 +17569,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.54254029,
+     -34.87205952
+    ]
+   },
+   "properties": {
+    "name": "535-537B TORRENS ROAD ST CLAIR 5011",
+    "locID": "LOC000166081968",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_719249986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.53224954,
      -34.86983047
     ]
@@ -22115,7 +22132,7 @@
    "properties": {
     "name": "37 FILLY STREET ST CLAIR 5011",
     "locID": "LOC000185770828",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720303635"
    }
