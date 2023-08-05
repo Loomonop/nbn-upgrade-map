@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T01:47:35.794907",
+ "generated": "2023-08-05T07:29:05.941511",
  "suburb": "GRANGE",
  "features": [
   {
@@ -525,8 +525,8 @@
    "properties": {
     "name": "37 NASH STREET GRANGE 5022",
     "locID": "LOC000090948515",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_414904824"
    }
   },
@@ -2991,7 +2991,7 @@
     "name": "16 STEPHEN TERRACE GRANGE 5022",
     "locID": "LOC000012570763",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415001392"
    }
   },
@@ -6425,7 +6425,7 @@
     "name": "31 GEORGIA AVENUE GRANGE 5022",
     "locID": "LOC000104314382",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415209323"
    }
   },
@@ -9732,23 +9732,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.50499536,
-     -34.90227073
-    ]
-   },
-   "properties": {
-    "name": "202 FREDERICK ROAD GRANGE 5022",
-    "locID": "LOC000097773355",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415289105"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.50051326,
      -34.9022338
     ]
@@ -11898,8 +11881,8 @@
    "properties": {
     "name": "5 LISA PLACE GRANGE 5022",
     "locID": "LOC000033279759",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415353785"
    }
   },
@@ -13208,7 +13191,7 @@
     "name": "12 GURNER TERRACE GRANGE 5022",
     "locID": "LOC000004543777",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415363128"
    }
   },
@@ -13496,8 +13479,8 @@
    "properties": {
     "name": "6 MONACO CRESCENT GRANGE 5022",
     "locID": "LOC000093357311",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415365047"
    }
   },
@@ -17984,8 +17967,8 @@
    "properties": {
     "name": "30 TERMINUS STREET GRANGE 5022",
     "locID": "LOC000035230503",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415488937"
    }
   },
@@ -24852,8 +24835,8 @@
    "properties": {
     "name": "1 FISHER STREET GRANGE 5022",
     "locID": "LOC000003451052",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415565036"
    }
   },
@@ -32689,8 +32672,8 @@
    "properties": {
     "name": "10 LORRAINE LEE COURT GRANGE 5022",
     "locID": "LOC000077502926",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416021489"
    }
   },
@@ -41105,7 +41088,7 @@
     "name": "10 ALBANY STREET GRANGE 5022",
     "locID": "LOC000102814890",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423015647"
    }
   },
@@ -48567,8 +48550,8 @@
    "properties": {
     "name": "4 GREEN VIEW DRIVE GRANGE 5022",
     "locID": "LOC000106718027",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424601601"
    }
   },
@@ -49622,7 +49605,7 @@
     "name": "21 PINE LODGE CRESCENT GRANGE 5022",
     "locID": "LOC000018725344",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424603418"
    }
   },
@@ -50063,8 +50046,8 @@
    "properties": {
     "name": "6 PINE LODGE CRESCENT GRANGE 5022",
     "locID": "LOC000033336958",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424603444"
    }
   },
@@ -51015,8 +50998,8 @@
    "properties": {
     "name": "8A FLAVEL PLACE GRANGE 5022",
     "locID": "LOC000099551452",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424658012"
    }
   },
@@ -52681,8 +52664,8 @@
    "properties": {
     "name": "30A TERMINUS STREET GRANGE 5022",
     "locID": "LOC000151468492",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425808708"
    }
   },
@@ -53191,8 +53174,8 @@
    "properties": {
     "name": "47A PINE LODGE CRESCENT GRANGE 5022",
     "locID": "LOC000173568045",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_719253232"
    }
   },
@@ -54824,7 +54807,7 @@
     "name": "56 LINES STREET GRANGE 5022",
     "locID": "LOC000190732801",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_720704276"
    }
   },
@@ -56472,7 +56455,7 @@
    "properties": {
     "name": "42 GRADY WAY GRANGE 5022",
     "locID": "ChIJg3A_TkDEsGoRmd9rH3l-DEU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721110129"
    }
@@ -56489,7 +56472,7 @@
    "properties": {
     "name": "74 GRADY WAY GRANGE 5022",
     "locID": "ChIJI9NNcEDEsGoRgP_x96hTCAk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721110157"
    }
@@ -56557,7 +56540,7 @@
    "properties": {
     "name": "56 GRADY WAY GRANGE 5022",
     "locID": "ChIJ55rwQkDEsGoRzbb1CMdcVYg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721110372"
    }
@@ -56608,7 +56591,7 @@
    "properties": {
     "name": "46 GRADY WAY GRANGE 5022",
     "locID": "ChIJP9qLT0DEsGoR5VahoNQBSvE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721110583"
    }
@@ -56625,7 +56608,7 @@
    "properties": {
     "name": "72 GRADY WAY GRANGE 5022",
     "locID": "ChIJC-TUb0DEsGoRj-bhKzGwFtE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721110591"
    }
@@ -56642,7 +56625,7 @@
    "properties": {
     "name": "40 GRADY WAY GRANGE 5022",
     "locID": "ChIJX_IoTUDEsGoRV4M_vejczwc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721110689"
    }
@@ -56659,7 +56642,7 @@
    "properties": {
     "name": "68 GRADY WAY GRANGE 5022",
     "locID": "ChIJA74Db0DEsGoRcNSagWY_zuo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721110693"
    }
@@ -56710,7 +56693,7 @@
    "properties": {
     "name": "48 GRADY WAY GRANGE 5022",
     "locID": "ChIJ1WERRUDEsGoR-X-dxw49_UM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721111195"
    }
@@ -56727,7 +56710,7 @@
    "properties": {
     "name": "60 GRADY WAY GRANGE 5022",
     "locID": "ChIJ94w1aEDEsGoRo_eqJhtgdEk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721111202"
    }
@@ -56744,7 +56727,7 @@
    "properties": {
     "name": "70 GRADY WAY GRANGE 5022",
     "locID": "ChIJ_X2zb0DEsGoRhTyx01BIxPo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721111421"
    }
@@ -56795,7 +56778,7 @@
    "properties": {
     "name": "62 GRADY WAY GRANGE 5022",
     "locID": "ChIJqQSvaUDEsGoRkwXgTYgnACU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721111652"
    }
@@ -56812,7 +56795,7 @@
    "properties": {
     "name": "66 GRADY WAY GRANGE 5022",
     "locID": "ChIJgdclb0DEsGoR3uLXU1OZSas",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721111872"
    }
@@ -56829,7 +56812,7 @@
    "properties": {
     "name": "58 GRADY WAY GRANGE 5022",
     "locID": "ChIJDeYNQkDEsGoRPrg3TEJUsEY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721112469"
    }
@@ -56863,7 +56846,7 @@
    "properties": {
     "name": "54 GRADY WAY GRANGE 5022",
     "locID": "ChIJs94NQ0DEsGoRWNRobUm752A",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721112662"
    }
@@ -56880,7 +56863,7 @@
    "properties": {
     "name": "76 GRADY WAY GRANGE 5022",
     "locID": "ChIJQwAbcUDEsGoRzFQ5_tD5Zd8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721112686"
    }
@@ -56914,7 +56897,7 @@
    "properties": {
     "name": "64 GRADY WAY GRANGE 5022",
     "locID": "ChIJz53QaEDEsGoR0lY-sn1Olz0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721112752"
    }

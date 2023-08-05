@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T01:09:44.017118",
+ "generated": "2023-08-05T07:17:10.079174",
  "suburb": "EVANDALE",
  "features": [
   {
@@ -1460,8 +1460,8 @@
    "properties": {
     "name": "8 BAKEWELL ROAD EVANDALE 5069",
     "locID": "LOC000082540612",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414969100"
    }
   },
@@ -1988,7 +1988,7 @@
     "name": "6A LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000083025944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414998935"
    }
   },
@@ -3177,8 +3177,8 @@
    "properties": {
     "name": "34 MORRIS STREET EVANDALE 5069",
     "locID": "LOC000019229682",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415390667"
    }
   },
@@ -3194,8 +3194,8 @@
    "properties": {
     "name": "41 MORRIS STREET EVANDALE 5069",
     "locID": "LOC000025834680",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415392898"
    }
   },
@@ -4027,7 +4027,7 @@
    "properties": {
     "name": "33 LLANDOWER AVENUE EVANDALE 5069",
     "locID": "ChIJXd79g33JsGoRC2hmwWjvTmE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415423806"
    }
@@ -7156,7 +7156,7 @@
     "name": "UNIT 1, 16 LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000098773168",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415611199"
    }
   },
@@ -7173,7 +7173,7 @@
     "name": "UNIT 2, 18 LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000073973510",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415611200"
    }
   },
@@ -9264,7 +9264,7 @@
     "name": "UNIT 1, 1 MORRIS STREET EVANDALE 5069",
     "locID": "LOC000043216632",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415685052"
    }
   },
@@ -9281,7 +9281,7 @@
     "name": "UNIT 2, 1 MORRIS STREET EVANDALE 5069",
     "locID": "LOC000043067782",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415685053"
    }
   },
@@ -9502,7 +9502,7 @@
     "name": "16 LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000098773168",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415969805"
    }
   },
@@ -9519,7 +9519,7 @@
     "name": "18 LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000073973510",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415969806"
    }
   },
@@ -10522,7 +10522,7 @@
     "name": "UNIT 1, 6A LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000083025944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415979323"
    }
   },
@@ -10539,7 +10539,7 @@
     "name": "UNIT 2, 6A LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000083193448",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415979324"
    }
   },
@@ -10555,8 +10555,8 @@
    "properties": {
     "name": "8 LLANDOWER AVENUE EVANDALE 5069",
     "locID": "LOC000047768922",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415979326"
    }
   },
@@ -12256,7 +12256,7 @@
     "name": "1 MORRIS STREET EVANDALE 5069",
     "locID": "LOC000043216632",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423868374"
    }
   },
@@ -13159,6 +13159,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720090286"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.63937356,
+     -34.90467483
+    ]
+   },
+   "properties": {
+    "name": "95-99 PORTRUSH ROAD EVANDALE 5069",
+    "locID": "LOC000077674417",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_720886526"
    }
   }
  ]
