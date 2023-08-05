@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T16:36:50.310931",
+ "generated": "2023-08-05T03:19:48.047656",
  "suburb": "SCARNESS",
  "features": [
   {
@@ -8685,8 +8685,8 @@
    "properties": {
     "name": "181 TORQUAY ROAD SCARNESS 4655",
     "locID": "LOC000129026076",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155804057"
    }
   },
@@ -8702,8 +8702,8 @@
    "properties": {
     "name": "183 TORQUAY ROAD SCARNESS 4655",
     "locID": "LOC000129026076",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155804058"
    }
   },
@@ -10028,8 +10028,8 @@
    "properties": {
     "name": "1 NULLOR STREET SCARNESS 4655",
     "locID": "LOC000049374915",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155805976"
    }
   },
@@ -13343,8 +13343,8 @@
    "properties": {
     "name": "32 OLEANDER AVENUE SCARNESS 4655",
     "locID": "LOC000024128610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157095217"
    }
   },
@@ -14907,8 +14907,8 @@
    "properties": {
     "name": "194 TORQUAY ROAD SCARNESS 4655",
     "locID": "LOC000093648347",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157105505"
    }
   },
@@ -18154,7 +18154,7 @@
    "properties": {
     "name": "33 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157126657"
    }
@@ -18171,7 +18171,7 @@
    "properties": {
     "name": "35 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157126659"
    }
@@ -27113,8 +27113,8 @@
    "properties": {
     "name": "20 MARINEVIEW AVENUE SCARNESS 4655",
     "locID": "LOC000102862527",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160264348"
    }
   },
@@ -28898,8 +28898,8 @@
    "properties": {
     "name": "34 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000088536583",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161881350"
    }
   },
@@ -29052,7 +29052,7 @@
     "name": "43 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000046791605",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161881359"
    }
   },
@@ -29153,8 +29153,8 @@
    "properties": {
     "name": "51 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000109786258",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161881365"
    }
   },
@@ -32774,8 +32774,8 @@
    "properties": {
     "name": "181-183 TORQUAY ROAD SCARNESS 4655",
     "locID": "LOC000129026076",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163175697"
    }
   },
@@ -35684,6 +35684,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719170783"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.8575722,
+     -25.28533682
+    ]
+   },
+   "properties": {
+    "name": "22 FRESHWATER STREET SCARNESS 4655",
+    "locID": "ChIJuftcOE-A7GsRIlLZxSINpAA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719170987"
    }
   },
   {
@@ -42559,23 +42576,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.86045159,
-     -25.29026543
-    ]
-   },
-   "properties": {
-    "name": "20 DENMANS CAMP ROAD SCARNESS 4655",
-    "locID": "EjAyMCBEZW5tYW5zIENhbXAgUmQsIFNjYXJuZXNzIFFMRCA0NjU1LCBBdXN0cmFsaWEiMBIuChQKEgn_atjkT4DsaxF7cokrYSMNTxAUKhQKEgm1w_rNsoHsaxExOTTNaCyPMg",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720989078"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.86079286,
      -25.28878877
     ]
@@ -42600,7 +42600,7 @@
    "properties": {
     "name": "UNIT 1, 35 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070789",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721113465"
    }
@@ -42617,7 +42617,7 @@
    "properties": {
     "name": "UNIT 2, 35 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721118509"
    }
@@ -42719,7 +42719,7 @@
    "properties": {
     "name": "UNIT B, 35 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721182391"
    }
@@ -42736,7 +42736,7 @@
    "properties": {
     "name": "UNIT A, 35 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721183138"
    }
@@ -42753,7 +42753,7 @@
    "properties": {
     "name": "35B FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721227257"
    }
@@ -42770,7 +42770,7 @@
    "properties": {
     "name": "35A FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000191070791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721229000"
    }
