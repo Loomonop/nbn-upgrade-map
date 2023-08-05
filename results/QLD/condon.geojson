@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T20:18:48.548129",
+ "generated": "2023-08-05T04:48:43.117043",
  "suburb": "CONDON",
  "features": [
   {
@@ -4894,8 +4894,8 @@
    "properties": {
     "name": "57 CURRAWONG STREET CONDON 4815",
     "locID": "LOC000089584270",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155189043"
    }
   },
@@ -8838,8 +8838,8 @@
    "properties": {
     "name": "63 CHELSEA DRIVE CONDON 4815",
     "locID": "LOC000054919939",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155198205"
    }
   },
@@ -11099,8 +11099,8 @@
    "properties": {
     "name": "8 NIGHTINGALE COURT CONDON 4815",
     "locID": "LOC000010832112",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155201852"
    }
   },
@@ -11966,8 +11966,8 @@
    "properties": {
     "name": "2 FLORENTOR COURT CONDON 4815",
     "locID": "LOC000058757359",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156084405"
    }
   },
@@ -12120,7 +12120,7 @@
     "name": "8 RIESLING COURT CONDON 4815",
     "locID": "LOC000022532509",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156085362"
    }
   },
@@ -14364,7 +14364,7 @@
     "name": "9 TEAL STREET CONDON 4815",
     "locID": "LOC000103906646",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156456062"
    }
   },
@@ -15163,7 +15163,7 @@
     "name": "9 TOUCAN CRESCENT CONDON 4815",
     "locID": "LOC000097329652",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156457845"
    }
   },
@@ -20925,8 +20925,8 @@
    "properties": {
     "name": "35 CURRAWONG STREET CONDON 4815",
     "locID": "LOC000023955568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156464850"
    }
   },
@@ -21061,8 +21061,8 @@
    "properties": {
     "name": "11 ROBERT TOWNS CRESCENT CONDON 4815",
     "locID": "LOC000103692158",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156464871"
    }
   },
@@ -21537,8 +21537,8 @@
    "properties": {
     "name": "6 SHIRLEEN CRESCENT CONDON 4815",
     "locID": "LOC000094761807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156465079"
    }
   },
@@ -24053,8 +24053,8 @@
    "properties": {
     "name": "5 NIGHTINGALE COURT CONDON 4815",
     "locID": "LOC000089905208",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161475846"
    }
   },
@@ -27640,8 +27640,8 @@
    "properties": {
     "name": "38 NORTH BECK DRIVE CONDON 4815",
     "locID": "LOC000018253304",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162054162"
    }
   },
@@ -28490,8 +28490,8 @@
    "properties": {
     "name": "1 SHRIKE COURT CONDON 4815",
     "locID": "LOC000062715448",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162065732"
    }
   },
@@ -35283,6 +35283,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.7122988,
+     -19.33474049
+    ]
+   },
+   "properties": {
+    "name": "1-9 SHIRAZ AVENUE CONDON 4815",
+    "locID": "LOC000049853849",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD162222067"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.71315075,
      -19.33018201
     ]
@@ -39558,7 +39575,7 @@
     "name": "11 SHOVELER COURT CONDON 4815",
     "locID": "LOC000018379813",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162620597"
    }
   },
@@ -42635,7 +42652,7 @@
     "name": "38 EIDER COURT CONDON 4815",
     "locID": "LOC000054808484",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163067495"
    }
   },
