@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T08:12:48.836926",
+ "generated": "2023-08-05T10:12:31.280671",
  "suburb": "SALISBURY",
  "features": [
   {
@@ -1701,23 +1701,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414902613"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.62885332,
-     -34.76700719
-    ]
-   },
-   "properties": {
-    "name": "19 ALMOND DRIVE SALISBURY 5108",
-    "locID": "LOC000023427590",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_414902614"
    }
   },
   {
@@ -34951,7 +34934,7 @@
     "name": "19 MARY STREET SALISBURY 5108",
     "locID": "LOC000025917984",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415521716"
    }
   },
@@ -34968,7 +34951,7 @@
     "name": "21 MARY STREET SALISBURY 5108",
     "locID": "LOC000054206322",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415521717"
    }
   },
@@ -56150,7 +56133,7 @@
     "name": "UNIT 16, 19 MARY STREET SALISBURY 5108",
     "locID": "LOC000025917984",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416826461"
    }
   },
@@ -56184,7 +56167,7 @@
     "name": "UNIT 15, 21 MARY STREET SALISBURY 5108",
     "locID": "LOC000054206322",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416826469"
    }
   },
@@ -56914,8 +56897,8 @@
    "properties": {
     "name": "39 JOHN STREET SALISBURY 5108",
     "locID": "LOC000002656663",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_416828771"
    }
   },
@@ -82839,7 +82822,7 @@
    "properties": {
     "name": "LOT 101 HUNT STREET SALISBURY 5108",
     "locID": "EikxMDEgSHVudCBTdCwgU2FsaXNidXJ5IFNBIDUxMDgsIEF1c3RyYWxpYSIwEi4KFAoSCUkuwpzOs7BqEVa5lZcGLy8REGUqFAoSCadlcIvOs7BqEf7cBXbKL205",
-    "tech": "FTTC",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720303176"
    }
@@ -84267,7 +84250,7 @@
    "properties": {
     "name": "4B BANKS STREET SALISBURY 5108",
     "locID": "LOC000193105858",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720726719"
    }
@@ -84634,6 +84617,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.64538548,
+     -34.76920077
+    ]
+   },
+   "properties": {
+    "name": "19A WILFRID COURT SALISBURY 5108",
+    "locID": "LOC000103478706",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720885855"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.64587941,
      -34.76931929
     ]
@@ -84865,6 +84865,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720887262"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.64538548,
+     -34.76920077
+    ]
+   },
+   "properties": {
+    "name": "19 WILFRID COURT SALISBURY 5108",
+    "locID": "LOC000103478706",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720892771"
    }
   },
   {
