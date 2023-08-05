@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T10:40:20.557557",
+ "generated": "2023-08-05T16:28:35.392787",
  "suburb": "QUEENSTOWN",
  "features": [
   {
@@ -2038,8 +2038,8 @@
    "properties": {
     "name": "6 PORTLAND ROAD QUEENSTOWN 5014",
     "locID": "LOC000064274281",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415101971"
    }
   },
@@ -2565,8 +2565,8 @@
    "properties": {
     "name": "12 KENT STREET QUEENSTOWN 5014",
     "locID": "LOC000098712925",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415339329"
    }
   },
@@ -2922,8 +2922,8 @@
    "properties": {
     "name": "29 PORTLAND ROAD QUEENSTOWN 5014",
     "locID": "LOC000098913066",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415359903"
    }
   },
@@ -4115,23 +4115,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415427344"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.51538384,
-     -34.86471242
-    ]
-   },
-   "properties": {
-    "name": "LOT 92 PORT ROAD QUEENSTOWN 5014",
-    "locID": "Eik5MiBQb3J0IFJkLCBRdWVlbnN0b3duIFNBIDUwMTQsIEF1c3RyYWxpYSIwEi4KFAoSCR9-eJj0xrBqESgxy_i3ZTByEFwqFAoSCTMGrFcFxrBqEdL5saT2SZnH",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_415427345"
    }
   },
   {
@@ -5591,8 +5574,8 @@
    "properties": {
     "name": "43 VICTORIA STREET QUEENSTOWN 5014",
     "locID": "LOC000031896216",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415446719"
    }
   },
@@ -7342,8 +7325,8 @@
    "properties": {
     "name": "81 OLD PORT ROAD QUEENSTOWN 5014",
     "locID": "LOC000026634382",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415458266"
    }
   },
@@ -7411,7 +7394,7 @@
     "name": "2A PORTLAND ROAD QUEENSTOWN 5014",
     "locID": "LOC000038632074",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415458358"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T10:34:10.570780",
+ "generated": "2023-08-05T16:27:10.410256",
  "suburb": "TENNYSON",
  "features": [
   {
@@ -118,7 +118,7 @@
     "name": "10 TENNYSON HEIGHTS COURT TENNYSON 5022",
     "locID": "LOC000099336635",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414991476"
    }
   },
@@ -831,8 +831,8 @@
    "properties": {
     "name": "103 SEAVIEW ROAD TENNYSON 5022",
     "locID": "LOC000069711519",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415045190"
    }
   },
@@ -1800,8 +1800,8 @@
    "properties": {
     "name": "93A MILITARY ROAD TENNYSON 5022",
     "locID": "LOC000007578772",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415157825"
    }
   },
@@ -2582,8 +2582,8 @@
    "properties": {
     "name": "8 HILLVIEW AVENUE TENNYSON 5022",
     "locID": "LOC000104428179",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415251502"
    }
   },
@@ -2718,8 +2718,8 @@
    "properties": {
     "name": "17 SUNLAKE PLACE TENNYSON 5022",
     "locID": "LOC000082767809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415375495"
    }
   },
@@ -2735,8 +2735,8 @@
    "properties": {
     "name": "18 SUNLAKE PLACE TENNYSON 5022",
     "locID": "LOC000091310928",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415375496"
    }
   },
@@ -3449,8 +3449,8 @@
    "properties": {
     "name": "3 SUNLAKE PLACE TENNYSON 5022",
     "locID": "LOC000100812906",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415384581"
    }
   },
@@ -10150,6 +10150,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424192130"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.48644097,
+     -34.88459542
+    ]
+   },
+   "properties": {
+    "name": "LOT 40 MILITARY ROAD TENNYSON 5022",
+    "locID": "Eis0MCBNaWxpdGFyeSBSZCwgVGVubnlzb24gU0EgNTAyMiwgQXVzdHJhbGlhIjASLgoUChIJD0ErlXLEsGoRXdYRj_IROYUQKCoUChIJvVkJzx7EsGoRqTjkW7qSnrg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424192131"
    }
   },
   {

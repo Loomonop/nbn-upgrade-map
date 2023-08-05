@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T10:59:57.006950",
+ "generated": "2023-08-05T16:34:28.284432",
  "suburb": "FINDON",
  "features": [
   {
@@ -33,7 +33,7 @@
     "name": "UNIT 1, 25 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000076189658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414893177"
    }
   },
@@ -50,7 +50,7 @@
     "name": "UNIT 2, 25 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000076189662",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414893178"
    }
   },
@@ -67,7 +67,7 @@
     "name": "UNIT 3, 25 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000076321668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414893179"
    }
   },
@@ -203,7 +203,7 @@
     "name": "10 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000082972982",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414895167"
    }
   },
@@ -2005,7 +2005,7 @@
     "name": "21 HOBBS STREET FINDON 5023",
     "locID": "LOC000001864082",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415042015"
    }
   },
@@ -5312,23 +5312,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52692038,
-     -34.9045085
-    ]
-   },
-   "properties": {
-    "name": "5 RAY STREET FINDON 5023",
-    "locID": "LOC000038371408",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415083505"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.54469846,
      -34.90224789
     ]
@@ -5438,8 +5421,8 @@
    "properties": {
     "name": "4 HOLLAND STREET FINDON 5023",
     "locID": "LOC000081412849",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415083701"
    }
   },
@@ -5948,8 +5931,8 @@
    "properties": {
     "name": "27 BIRCH STREET FINDON 5023",
     "locID": "LOC000080218565",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415088637"
    }
   },
@@ -9229,8 +9212,8 @@
    "properties": {
     "name": "15 ROYAL CLOSE FINDON 5023",
     "locID": "LOC000090950939",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415124602"
    }
   },
@@ -10300,8 +10283,8 @@
    "properties": {
     "name": "17 BALCOMBE AVENUE FINDON 5023",
     "locID": "LOC000097217544",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415142692"
    }
   },
@@ -10555,8 +10538,8 @@
    "properties": {
     "name": "28 ANGLEY AVENUE FINDON 5023",
     "locID": "LOC000065883078",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415148387"
    }
   },
@@ -15597,23 +15580,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52674373,
-     -34.89370654
-    ]
-   },
-   "properties": {
-    "name": "1 LUCERNE GROVE FINDON 5023",
-    "locID": "LOC000051126178",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415195204"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.524571,
      -34.89379752
     ]
@@ -16226,23 +16192,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52346085,
-     -34.89206129
-    ]
-   },
-   "properties": {
-    "name": "5 AROOMA STREET FINDON 5023",
-    "locID": "LOC000099169885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415204209"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.53661225,
      -34.8979711
     ]
@@ -16471,8 +16420,8 @@
    "properties": {
     "name": "26 THE CIRCUIT FINDON 5023",
     "locID": "LOC000071418177",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415204272"
    }
   },
@@ -22268,8 +22217,8 @@
    "properties": {
     "name": "8 LASSCOCK AVENUE FINDON 5023",
     "locID": "LOC000075420555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415273600"
    }
   },
@@ -23237,8 +23186,8 @@
    "properties": {
     "name": "11 ADAMSON AVENUE FINDON 5023",
     "locID": "LOC000056759059",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415284675"
    }
   },
@@ -23832,8 +23781,8 @@
    "properties": {
     "name": "12 ADAMSON AVENUE FINDON 5023",
     "locID": "LOC000092203061",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415287029"
    }
   },
@@ -24037,7 +23986,7 @@
     "name": "19 BRIDGMAN ROAD FINDON 5023",
     "locID": "LOC000130072841",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415289078"
    }
   },
@@ -24887,7 +24836,7 @@
     "name": "8 AMANDA AVENUE FINDON 5023",
     "locID": "LOC000109135989",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415297438"
    }
   },
@@ -26280,8 +26229,8 @@
    "properties": {
     "name": "17 BRIDGMAN ROAD FINDON 5023",
     "locID": "LOC000085860093",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415312773"
    }
   },
@@ -28048,8 +27997,8 @@
    "properties": {
     "name": "2 HARDY STREET FINDON 5023",
     "locID": "LOC000016231515",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415358583"
    }
   },
@@ -28473,8 +28422,8 @@
    "properties": {
     "name": "40 DRUMMOND AVENUE FINDON 5023",
     "locID": "LOC000070961451",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415405157"
    }
   },
@@ -32128,8 +32077,8 @@
    "properties": {
     "name": "4 STARR STREET FINDON 5023",
     "locID": "LOC000091903959",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415441383"
    }
   },
@@ -33693,7 +33642,7 @@
     "name": "UNIT 1, 171 FINDON ROAD FINDON 5023",
     "locID": "LOC000096308943",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415617693"
    }
   },
@@ -33710,7 +33659,7 @@
     "name": "UNIT 2, 171 FINDON ROAD FINDON 5023",
     "locID": "LOC000096680241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415617694"
    }
   },
@@ -34118,7 +34067,7 @@
     "name": "UNIT 2, 2 RUDOLPH AVENUE FINDON 5023",
     "locID": "LOC000042031323",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415623296"
    }
   },
@@ -39116,7 +39065,7 @@
     "name": "UNIT 2, 10 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000083338678",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415983716"
    }
   },
@@ -40323,7 +40272,7 @@
     "name": "UNIT 1, 10 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000082972982",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415988648"
    }
   },
@@ -41309,7 +41258,7 @@
     "name": "25 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000076189658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415995092"
    }
   },
@@ -44012,7 +43961,7 @@
     "name": "UNIT 3, 10 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000083375850",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422040833"
    }
   },
@@ -46817,7 +46766,7 @@
     "name": "UNIT 1, 1B MATHESON AVENUE FINDON 5023",
     "locID": "LOC000012556904",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423781172"
    }
   },
@@ -46834,7 +46783,7 @@
     "name": "UNIT 2, 1B MATHESON AVENUE FINDON 5023",
     "locID": "LOC000012556904",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423781173"
    }
   },
@@ -46851,7 +46800,7 @@
     "name": "UNIT 3, 1B MATHESON AVENUE FINDON 5023",
     "locID": "LOC000012591063",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423781174"
    }
   },
@@ -46868,7 +46817,7 @@
     "name": "UNIT 4, 1B MATHESON AVENUE FINDON 5023",
     "locID": "LOC000012594374",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423781175"
    }
   },
@@ -47429,7 +47378,7 @@
     "name": "2 RUDOLPH AVENUE FINDON 5023",
     "locID": "LOC000042031323",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423870042"
    }
   },
@@ -48142,8 +48091,8 @@
    "properties": {
     "name": "64A BALCOMBE AVENUE FINDON 5023",
     "locID": "LOC000031093899",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424099538"
    }
   },
@@ -49265,7 +49214,7 @@
     "name": "1B MATHESON AVENUE FINDON 5023",
     "locID": "LOC000012556904",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424346971"
    }
   },
@@ -50472,7 +50421,7 @@
     "name": "UNIT 1, 2 MATHESON AVENUE FINDON 5023",
     "locID": "LOC000005872308",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424642794"
    }
   },
@@ -50777,8 +50726,8 @@
    "properties": {
     "name": "34A CENTENARY AVENUE FINDON 5023",
     "locID": "LOC000111111531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424690226"
    }
   },
@@ -51032,8 +50981,8 @@
    "properties": {
     "name": "13 BIRCH STREET FINDON 5023",
     "locID": "LOC000112687057",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424732535"
    }
   },
@@ -52358,7 +52307,7 @@
    "properties": {
     "name": "17 WARNER AVENUE FINDON 5023",
     "locID": "ChIJO0Fig8jFsGoR0OZsxZkqqzE",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424839385"
    }
@@ -53668,7 +53617,7 @@
     "name": "171 FINDON ROAD FINDON 5023",
     "locID": "LOC000096680241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424931831"
    }
   },
@@ -55996,8 +55945,8 @@
    "properties": {
     "name": "38 BRIDGMAN ROAD FINDON 5023",
     "locID": "LOC000166916223",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425506279"
    }
   },
@@ -56693,8 +56642,8 @@
    "properties": {
     "name": "6 KENNETH STREET FINDON 5023",
     "locID": "LOC000166040359",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425506837"
    }
   },
@@ -57220,8 +57169,8 @@
    "properties": {
     "name": "LOT 200 KENNETH STREET FINDON 5023",
     "locID": "LOC000166040359",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425582428"
    }
   },
@@ -59855,8 +59804,8 @@
    "properties": {
     "name": "37 CENTENARY AVENUE FINDON 5023",
     "locID": "LOC000171146898",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_719253067"
    }
   },
@@ -59923,8 +59872,8 @@
    "properties": {
     "name": "3A ROBINS AVENUE FINDON 5023",
     "locID": "LOC000166041391",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_719253642"
    }
   },
@@ -60059,8 +60008,8 @@
    "properties": {
     "name": "2A HOBBS STREET FINDON 5023",
     "locID": "LOC000179764591",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_719453804"
    }
   },
@@ -62034,6 +61983,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720074245"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53472921,
+     -34.89505855
+    ]
+   },
+   "properties": {
+    "name": "19A AMANDA AVENUE FINDON 5023",
+    "locID": "LOC000088840509",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_720074258"
    }
   },
   {
@@ -64853,8 +64819,8 @@
    "properties": {
     "name": "14A BALCOMBE AVENUE FINDON 5023",
     "locID": "LOC100076119024",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720303944"
    }
   },
@@ -65006,7 +64972,7 @@
    "properties": {
     "name": "14 RICHARD STREET FINDON 5023",
     "locID": "LOC000192950209",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720367211"
    }
@@ -72071,23 +72037,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 103, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259260"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -72115,23 +72064,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259263"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 208, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259264"
    }
   },
   {
@@ -72309,23 +72241,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 303, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259331"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -72377,23 +72292,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT G1, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259351"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -72421,23 +72319,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259353"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 310, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259354"
    }
   },
   {
@@ -72547,23 +72428,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 102, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259377"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -72574,23 +72438,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259378"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 206, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259379"
    }
   },
   {
@@ -72700,23 +72547,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT G2, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259441"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -72819,23 +72649,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 205, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259461"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -72926,23 +72739,6 @@
     ]
    },
    "properties": {
-    "name": "UNIT G6, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259467"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
     "name": "UNIT 107, 20 TIMMS STREET FINDON 5023",
     "locID": "LOC000191917657",
     "tech": "FTTP",
@@ -72982,23 +72778,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259482"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 204, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259483"
    }
   },
   {
@@ -73096,23 +72875,6 @@
     ]
    },
    "properties": {
-    "name": "UNIT G4, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259534"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
     "name": "UNIT 109, 20 TIMMS STREET FINDON 5023",
     "locID": "LOC000191917657",
     "tech": "FTTP",
@@ -73135,23 +72897,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259536"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT G8, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259537"
    }
   },
   {
@@ -73193,23 +72938,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 309, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259540"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -73220,40 +72948,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259541"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 203, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259542"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 105, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259543"
    }
   },
   {
@@ -73312,23 +73006,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 104, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259600"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -73380,40 +73057,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 305, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259604"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 110, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259605"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -73424,23 +73067,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259606"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 109, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259607"
    }
   },
   {
@@ -73584,23 +73210,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 202, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259642"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -73628,23 +73237,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259664"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 301, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259667"
    }
   },
   {
@@ -73754,40 +73346,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 308, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259702"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 209, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259703"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -73805,23 +73363,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 201, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259705"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -73832,23 +73373,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259706"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 101, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259707"
    }
   },
   {
@@ -73907,23 +73431,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 108, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259743"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -73951,74 +73458,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259750"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 302, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259760"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT G5, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259761"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 307, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259767"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT G7, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259782"
    }
   },
   {
@@ -74121,23 +73560,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259788"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT G9, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259789"
    }
   },
   {
@@ -74269,45 +73691,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT G3, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259812"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
     "name": "UNIT G1, 20 TIMMS STREET FINDON 5023",
     "locID": "LOC000191917657",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259817"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 304, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259850"
    }
   },
   {
@@ -74366,23 +73754,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 210, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259873"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -74393,23 +73764,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259874"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 306, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259875"
    }
   },
   {
@@ -74485,40 +73839,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 107, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259880"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 207, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259881"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -74529,23 +73849,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721259882"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 106, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721259883"
    }
   },
   {
@@ -74614,40 +73917,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259920"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 9, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267086"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267087"
    }
   },
   {
@@ -74757,23 +74026,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267242"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -74784,23 +74036,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721267243"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267287"
    }
   },
   {
@@ -74893,23 +74128,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267349"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -74995,23 +74213,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267406"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -75056,23 +74257,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721267452"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 8, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267453"
    }
   },
   {
@@ -75216,23 +74400,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267524"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.52920432,
      -34.90380097
     ]
@@ -75260,40 +74427,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721267591"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267593"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.52915297,
-     -34.90306863
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 22 TIMMS STREET FINDON 5023",
-    "locID": "EiYyMiBUaW1tcyBTdCwgRmluZG9uIFNBIDUwMjMsIEF1c3RyYWxpYSIwEi4KFAoSCXmHeCLGxbBqEarf5HpJnLRDEBYqFAoSCQXujJvIxbBqEVtos8JlaqkK",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721267598"
    }
   }
  ]
