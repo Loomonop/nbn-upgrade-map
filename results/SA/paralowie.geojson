@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T17:32:53.994957",
+ "generated": "2023-08-05T19:27:01.204793",
  "suburb": "PARALOWIE",
  "features": [
   {
@@ -8110,23 +8110,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414905348"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.62138131,
-     -34.75812039
-    ]
-   },
-   "properties": {
-    "name": "10 YALUMBA DRIVE PARALOWIE 5108",
-    "locID": "LOC000103845948",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_414905349"
    }
   },
   {
@@ -33591,7 +33574,7 @@
     "name": "318 BURTON ROAD PARALOWIE 5108",
     "locID": "LOC000029279080",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414990050"
    }
   },
@@ -38649,6 +38632,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.60512885,
+     -34.76282289
+    ]
+   },
+   "properties": {
+    "name": "LOT 99 BYRON BAY DRIVE PARALOWIE 5108",
+    "locID": "Ei05OSBCeXJvbiBCYXkgRHIsIFBhcmFsb3dpZSBTQSA1MTA4LCBBdXN0cmFsaWEiMBIuChQKEgl97YNDJbGwahEIhz_R87sNwBBjKhQKEgm5Kzi2JbGwahG9Guw8ZUTuhg",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_415001863"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.60263942,
      -34.75634986
     ]
@@ -39421,8 +39421,8 @@
    "properties": {
     "name": "44 MAGDALENA CRESCENT PARALOWIE 5108",
     "locID": "LOC000075537890",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415004367"
    }
   },
@@ -61232,8 +61232,8 @@
    "properties": {
     "name": "25 TARQUI DRIVE PARALOWIE 5108",
     "locID": "LOC100056837534",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415104555"
    }
   },
@@ -69137,8 +69137,8 @@
    "properties": {
     "name": "4 COLUMBIA STREET PARALOWIE 5108",
     "locID": "LOC000006254704",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415174781"
    }
   },
@@ -70175,7 +70175,7 @@
     "name": "12 MOSEL GROVE PARALOWIE 5108",
     "locID": "LOC000085826785",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415180349"
    }
   },
@@ -79542,7 +79542,7 @@
     "name": "UNIT 1, 9 BOYACA COURT PARALOWIE 5108",
     "locID": "LOC000013434206",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415608549"
    }
   },
@@ -79559,7 +79559,7 @@
     "name": "UNIT 2, 9 BOYACA COURT PARALOWIE 5108",
     "locID": "LOC000013516875",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415608550"
    }
   },
@@ -79576,7 +79576,7 @@
     "name": "UNIT 3, 9 BOYACA COURT PARALOWIE 5108",
     "locID": "LOC000013392897",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415608551"
    }
   },
@@ -79593,7 +79593,7 @@
     "name": "UNIT 4, 9 BOYACA COURT PARALOWIE 5108",
     "locID": "LOC000013452366",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415608552"
    }
   },
@@ -79610,7 +79610,7 @@
     "name": "UNIT 5, 9 BOYACA COURT PARALOWIE 5108",
     "locID": "LOC000013516875",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415608553"
    }
   },
@@ -80035,7 +80035,7 @@
     "name": "UNIT 1, 7 CASANOR CRESCENT PARALOWIE 5108",
     "locID": "LOC000071072034",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415619153"
    }
   },
@@ -80154,7 +80154,7 @@
     "name": "UNIT 1, 5 CASANOR CRESCENT PARALOWIE 5108",
     "locID": "LOC000043090614",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415629291"
    }
   },
@@ -80171,7 +80171,7 @@
     "name": "UNIT 2, 5 CASANOR CRESCENT PARALOWIE 5108",
     "locID": "LOC000043160834",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415629292"
    }
   },
@@ -80188,7 +80188,7 @@
     "name": "UNIT 2, 7 CASANOR CRESCENT PARALOWIE 5108",
     "locID": "LOC000070956757",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415630186"
    }
   },
@@ -81989,8 +81989,8 @@
    "properties": {
     "name": "90 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000052821119",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416231812"
    }
   },
@@ -84216,8 +84216,8 @@
    "properties": {
     "name": "10 CHERRY LANE PARALOWIE 5108",
     "locID": "LOC000004494944",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416822188"
    }
   },
@@ -85322,7 +85322,7 @@
     "name": "91 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000035272135",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416838391"
    }
   },
@@ -85339,7 +85339,7 @@
     "name": "94 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000090151790",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416838392"
    }
   },
@@ -85390,7 +85390,7 @@
     "name": "83 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000039567905",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421961662"
    }
   },
@@ -85611,7 +85611,7 @@
     "name": "9 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000099706703",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421965409"
    }
   },
@@ -85628,7 +85628,7 @@
     "name": "12 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000083257883",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421965502"
    }
   },
@@ -85644,8 +85644,8 @@
    "properties": {
     "name": "21 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000062797208",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_421965503"
    }
   },
@@ -85662,7 +85662,7 @@
     "name": "8 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000075019539",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421965504"
    }
   },
@@ -85679,7 +85679,7 @@
     "name": "7 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000080283742",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421966063"
    }
   },
@@ -85696,7 +85696,7 @@
     "name": "14 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000043562663",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421966064"
    }
   },
@@ -85815,7 +85815,7 @@
     "name": "85 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000007567824",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421968404"
    }
   },
@@ -85832,7 +85832,7 @@
     "name": "81 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000015155927",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421968405"
    }
   },
@@ -85849,7 +85849,7 @@
     "name": "98 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000040606936",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421970799"
    }
   },
@@ -85985,7 +85985,7 @@
     "name": "92 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000088938979",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421973787"
    }
   },
@@ -86002,7 +86002,7 @@
     "name": "96 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000014280891",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421973788"
    }
   },
@@ -86614,7 +86614,7 @@
     "name": "12 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000075042175",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259495"
    }
   },
@@ -86631,7 +86631,7 @@
     "name": "2 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000062875407",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259496"
    }
   },
@@ -86648,7 +86648,7 @@
     "name": "3 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000077442978",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259497"
    }
   },
@@ -86665,7 +86665,7 @@
     "name": "4 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000034303627",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259498"
    }
   },
@@ -86682,7 +86682,7 @@
     "name": "5 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000064977947",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259499"
    }
   },
@@ -86699,7 +86699,7 @@
     "name": "6 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000070121338",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259500"
    }
   },
@@ -86716,7 +86716,7 @@
     "name": "8 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000047086020",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259501"
    }
   },
@@ -86732,8 +86732,8 @@
    "properties": {
     "name": "11 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000021673930",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_422259671"
    }
   },
@@ -86750,7 +86750,7 @@
     "name": "12 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000095303081",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259672"
    }
   },
@@ -86767,7 +86767,7 @@
     "name": "15 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000047327989",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259673"
    }
   },
@@ -86784,7 +86784,7 @@
     "name": "16 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000020833055",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259674"
    }
   },
@@ -86801,7 +86801,7 @@
     "name": "17 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000032053283",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259675"
    }
   },
@@ -86818,7 +86818,7 @@
     "name": "18 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000082651635",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259676"
    }
   },
@@ -86835,7 +86835,7 @@
     "name": "19 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000064895897",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259677"
    }
   },
@@ -86852,7 +86852,7 @@
     "name": "1 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000097217494",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259678"
    }
   },
@@ -86869,7 +86869,7 @@
     "name": "21 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000001823170",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259679"
    }
   },
@@ -86886,7 +86886,7 @@
     "name": "2 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000005380306",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259680"
    }
   },
@@ -86903,7 +86903,7 @@
     "name": "4 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000029170808",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259681"
    }
   },
@@ -86920,7 +86920,7 @@
     "name": "5 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000021250913",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259682"
    }
   },
@@ -86937,7 +86937,7 @@
     "name": "7 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000097159203",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259683"
    }
   },
@@ -86954,7 +86954,7 @@
     "name": "8 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000017679647",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259684"
    }
   },
@@ -86971,7 +86971,7 @@
     "name": "9 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000060732746",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422259685"
    }
   },
@@ -87362,7 +87362,7 @@
     "name": "84 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000089058873",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260402"
    }
   },
@@ -87379,7 +87379,7 @@
     "name": "86 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000087529329",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260403"
    }
   },
@@ -87396,7 +87396,7 @@
     "name": "87 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000096651984",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260404"
    }
   },
@@ -87413,7 +87413,7 @@
     "name": "88 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000069635587",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260405"
    }
   },
@@ -87430,7 +87430,7 @@
     "name": "89 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000081214321",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260406"
    }
   },
@@ -87447,7 +87447,7 @@
     "name": "93 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000090084927",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260407"
    }
   },
@@ -87464,7 +87464,7 @@
     "name": "95 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000083193407",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260408"
    }
   },
@@ -87617,7 +87617,7 @@
     "name": "2 CORELLA COURT PARALOWIE 5108",
     "locID": "LOC000023365773",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260971"
    }
   },
@@ -87634,7 +87634,7 @@
     "name": "3 CORELLA COURT PARALOWIE 5108",
     "locID": "LOC000051146443",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260972"
    }
   },
@@ -87651,7 +87651,7 @@
     "name": "5 CORELLA COURT PARALOWIE 5108",
     "locID": "LOC000092099573",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422260973"
    }
   },
@@ -87770,7 +87770,7 @@
     "name": "4 EMU COURT PARALOWIE 5108",
     "locID": "LOC000060585926",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422262216"
    }
   },
@@ -87787,7 +87787,7 @@
     "name": "5 EMU COURT PARALOWIE 5108",
     "locID": "LOC000072253002",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422262217"
    }
   },
@@ -87821,7 +87821,7 @@
     "name": "10 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000107065131",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265587"
    }
   },
@@ -87838,7 +87838,7 @@
     "name": "11 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000034709101",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265588"
    }
   },
@@ -87855,7 +87855,7 @@
     "name": "13 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000040638752",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265589"
    }
   },
@@ -87872,7 +87872,7 @@
     "name": "15 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000043694043",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265590"
    }
   },
@@ -87889,7 +87889,7 @@
     "name": "16 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000002717269",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265591"
    }
   },
@@ -87906,7 +87906,7 @@
     "name": "1 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000025816606",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265592"
    }
   },
@@ -87923,7 +87923,7 @@
     "name": "25 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000014239298",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265593"
    }
   },
@@ -87940,7 +87940,7 @@
     "name": "27 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000105234669",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265594"
    }
   },
@@ -87957,7 +87957,7 @@
     "name": "29 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000081307516",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265595"
    }
   },
@@ -87974,7 +87974,7 @@
     "name": "31 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000036174037",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265596"
    }
   },
@@ -87991,7 +87991,7 @@
     "name": "3 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000066557660",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265597"
    }
   },
@@ -88008,7 +88008,7 @@
     "name": "4 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000069729048",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265598"
    }
   },
@@ -88025,7 +88025,7 @@
     "name": "5 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000079237001",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265599"
    }
   },
@@ -88042,7 +88042,7 @@
     "name": "6 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000052419380",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422265600"
    }
   },
@@ -88382,7 +88382,7 @@
     "name": "1 LORIKEET CLOSE PARALOWIE 5108",
     "locID": "LOC000008416777",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266034"
    }
   },
@@ -88399,7 +88399,7 @@
     "name": "2 LORIKEET CLOSE PARALOWIE 5108",
     "locID": "LOC000005384014",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266035"
    }
   },
@@ -88416,7 +88416,7 @@
     "name": "3 LORIKEET CLOSE PARALOWIE 5108",
     "locID": "LOC000060264134",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266036"
    }
   },
@@ -88433,7 +88433,7 @@
     "name": "4 LORIKEET CLOSE PARALOWIE 5108",
     "locID": "LOC000049691332",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266037"
    }
   },
@@ -88450,7 +88450,7 @@
     "name": "5 LORIKEET CLOSE PARALOWIE 5108",
     "locID": "LOC000066026242",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266038"
    }
   },
@@ -88467,7 +88467,7 @@
     "name": "6 LORIKEET CLOSE PARALOWIE 5108",
     "locID": "LOC000044501672",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266039"
    }
   },
@@ -88501,7 +88501,7 @@
     "name": "10 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000025789805",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266247"
    }
   },
@@ -88518,7 +88518,7 @@
     "name": "11 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000074088599",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266248"
    }
   },
@@ -88534,8 +88534,8 @@
    "properties": {
     "name": "12 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000097237540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_422266249"
    }
   },
@@ -88552,7 +88552,7 @@
     "name": "13 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000017832553",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266250"
    }
   },
@@ -88569,7 +88569,7 @@
     "name": "18 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000070594780",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266251"
    }
   },
@@ -88586,7 +88586,7 @@
     "name": "19 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000097357026",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266252"
    }
   },
@@ -88603,7 +88603,7 @@
     "name": "1 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000013456283",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266253"
    }
   },
@@ -88620,7 +88620,7 @@
     "name": "20 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000072748653",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266254"
    }
   },
@@ -88637,7 +88637,7 @@
     "name": "21 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000055551986",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266255"
    }
   },
@@ -88654,7 +88654,7 @@
     "name": "22 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000036899502",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266256"
    }
   },
@@ -88671,7 +88671,7 @@
     "name": "2 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000060068233",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266257"
    }
   },
@@ -88688,7 +88688,7 @@
     "name": "5 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000043517932",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266258"
    }
   },
@@ -88705,7 +88705,7 @@
     "name": "7 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000013446984",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266259"
    }
   },
@@ -88722,7 +88722,7 @@
     "name": "8 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000083513854",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266260"
    }
   },
@@ -88739,7 +88739,7 @@
     "name": "9 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000019217849",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422266261"
    }
   },
@@ -88960,7 +88960,7 @@
     "name": "10 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000060669432",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273037"
    }
   },
@@ -88977,7 +88977,7 @@
     "name": "12 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000082483642",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273038"
    }
   },
@@ -88994,7 +88994,7 @@
     "name": "14 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000044693710",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273039"
    }
   },
@@ -89010,8 +89010,8 @@
    "properties": {
     "name": "2 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000067260127",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_422273040"
    }
   },
@@ -89028,7 +89028,7 @@
     "name": "3 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000085718178",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273041"
    }
   },
@@ -89045,7 +89045,7 @@
     "name": "5 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000097448051",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273042"
    }
   },
@@ -89062,7 +89062,7 @@
     "name": "6 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000018762683",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273043"
    }
   },
@@ -89079,7 +89079,7 @@
     "name": "7 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000011221816",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273044"
    }
   },
@@ -89096,7 +89096,7 @@
     "name": "8 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000031718768",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422273045"
    }
   },
@@ -89147,7 +89147,7 @@
     "name": "10 BELLBIRD AVENUE PARALOWIE 5108",
     "locID": "LOC000091046406",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422336677"
    }
   },
@@ -89181,7 +89181,7 @@
     "name": "13 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000008398685",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422336987"
    }
   },
@@ -89198,7 +89198,7 @@
     "name": "3 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000024445889",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422336988"
    }
   },
@@ -89419,7 +89419,7 @@
     "name": "14 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000051358259",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422364951"
    }
   },
@@ -89640,7 +89640,7 @@
     "name": "16 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000033399661",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423120223"
    }
   },
@@ -89657,7 +89657,7 @@
     "name": "6 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000102763501",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423120224"
    }
   },
@@ -90065,7 +90065,7 @@
     "name": "14 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000087105452",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423421322"
    }
   },
@@ -90133,7 +90133,7 @@
     "name": "100 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000157147538",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423421549"
    }
   },
@@ -90320,7 +90320,7 @@
     "name": "17 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000103479145",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423430122"
    }
   },
@@ -90337,7 +90337,7 @@
     "name": "19 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000037628048",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423430123"
    }
   },
@@ -90354,7 +90354,7 @@
     "name": "23 KOALA CRESCENT PARALOWIE 5108",
     "locID": "LOC000087028506",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423430124"
    }
   },
@@ -90490,7 +90490,7 @@
     "name": "10 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000012627951",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423597446"
    }
   },
@@ -90507,7 +90507,7 @@
     "name": "6 BLUEGUM DRIVE PARALOWIE 5108",
     "locID": "LOC000001822872",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423597447"
    }
   },
@@ -90592,7 +90592,7 @@
     "name": "102 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000015071607",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423598111"
    }
   },
@@ -90609,7 +90609,7 @@
     "name": "97 CAULFIELD CRESCENT PARALOWIE 5108",
     "locID": "LOC000087611467",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423598112"
    }
   },
@@ -91000,7 +91000,7 @@
     "name": "4 CORELLA COURT PARALOWIE 5108",
     "locID": "LOC000086263029",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423598640"
    }
   },
@@ -91153,7 +91153,7 @@
     "name": "17 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000043112222",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423603027"
    }
   },
@@ -91238,7 +91238,7 @@
     "name": "1 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000088996456",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423609198"
    }
   },
@@ -91255,7 +91255,7 @@
     "name": "4 WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000111125550",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423609199"
    }
   },
@@ -91391,7 +91391,7 @@
     "name": "1 WREN CRESCENT PARALOWIE 5108",
     "locID": "LOC000043098535",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423742083"
    }
   },
@@ -91612,7 +91612,7 @@
     "name": "2 EMU COURT PARALOWIE 5108",
     "locID": "LOC000041639213",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423742412"
    }
   },
@@ -91629,7 +91629,7 @@
     "name": "3 EMU COURT PARALOWIE 5108",
     "locID": "LOC000016619356",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423742413"
    }
   },
@@ -91815,8 +91815,8 @@
    "properties": {
     "name": "24 QUEEN STREET PARALOWIE 5108",
     "locID": "LOC000077375218",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423743178"
    }
   },
@@ -92088,7 +92088,7 @@
     "name": "3 WREN CRESCENT PARALOWIE 5108",
     "locID": "LOC000095619241",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423743628"
    }
   },
@@ -92785,7 +92785,7 @@
     "name": "9 BOYACA COURT PARALOWIE 5108",
     "locID": "LOC000013516875",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423863388"
    }
   },
@@ -92819,7 +92819,7 @@
     "name": "5 CASANOR CRESCENT PARALOWIE 5108",
     "locID": "LOC000043160834",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423863823"
    }
   },
@@ -92836,7 +92836,7 @@
     "name": "7 CASANOR CRESCENT PARALOWIE 5108",
     "locID": "LOC000071072034",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423863824"
    }
   },
@@ -97545,7 +97545,7 @@
     "name": "LOT 101 BOLIVAR ROAD PARALOWIE 5108",
     "locID": "LOC000107029636",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424157653"
    }
   },
@@ -97579,7 +97579,7 @@
     "name": "LOT 105 BOLIVAR ROAD PARALOWIE 5108",
     "locID": "LOC000010291152",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424157655"
    }
   },
@@ -97647,7 +97647,7 @@
     "name": "LOT 861 BOLIVAR ROAD PARALOWIE 5108",
     "locID": "LOC000157147102",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424157659"
    }
   },
@@ -97664,7 +97664,7 @@
     "name": "LOT 98 BOLIVAR ROAD PARALOWIE 5108",
     "locID": "LOC100026351932",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424157660"
    }
   },
@@ -97681,7 +97681,7 @@
     "name": "LOT 99 BOLIVAR ROAD PARALOWIE 5108",
     "locID": "LOC000106861335",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424157661"
    }
   },
@@ -98938,8 +98938,8 @@
    "properties": {
     "name": "2 MELVINA ROAD PARALOWIE 5108",
     "locID": "LOC000047485953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424395670"
    }
   },
@@ -101165,8 +101165,8 @@
    "properties": {
     "name": "55 THORNE STREET PARALOWIE 5108",
     "locID": "LOC000095305164",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424644291"
    }
   },
@@ -103341,8 +103341,8 @@
    "properties": {
     "name": "33 THORNE STREET PARALOWIE 5108",
     "locID": "LOC000110325080",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424740674"
    }
   },
@@ -103648,7 +103648,7 @@
     "name": "4A WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000112052164",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424815659"
    }
   },
@@ -103665,7 +103665,7 @@
     "name": "4B WOODLAND WAY PARALOWIE 5108",
     "locID": "LOC000111125550",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424815660"
    }
   },
