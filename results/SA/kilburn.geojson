@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T22:03:25.976793",
+ "generated": "2023-08-05T21:22:12.088714",
  "suburb": "KILBURN",
  "features": [
   {
@@ -4758,8 +4758,8 @@
    "properties": {
     "name": "33 GLADSTONE AVENUE KILBURN 5084",
     "locID": "LOC000092962441",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414971571"
    }
   },
@@ -5846,7 +5846,7 @@
    "properties": {
     "name": "421 CHURCHILL ROAD KILBURN 5084",
     "locID": "LOC000179950390",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414973733"
    }
@@ -10249,8 +10249,8 @@
    "properties": {
     "name": "29 CARROLL AVENUE KILBURN 5084",
     "locID": "LOC000002640844",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415060322"
    }
   },
@@ -46955,6 +46955,57 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425533322"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.58342383,
+     -34.87030733
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 358-408 CHURCHILL ROAD KILBURN 5084",
+    "locID": "ChIJ8_iSil7IsGoRcyncpnvyFqQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_425581432"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.58134505,
+     -34.86893424
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 358-408 CHURCHILL ROAD KILBURN 5084",
+    "locID": "ChIJ8_iSil7IsGoRcyncpnvyFqQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_425581433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5818934,
+     -34.86599369
+    ]
+   },
+   "properties": {
+    "name": "358-408 CHURCHILL ROAD KILBURN 5084",
+    "locID": "ChIJ8_iSil7IsGoRcyncpnvyFqQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_425581434"
    }
   },
   {
