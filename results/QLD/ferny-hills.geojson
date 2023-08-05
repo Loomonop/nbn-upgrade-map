@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T00:13:19.759737",
+ "generated": "2023-08-05T06:52:21.761566",
  "suburb": "FERNY HILLS",
  "features": [
   {
@@ -24597,8 +24597,8 @@
    "properties": {
     "name": "3 LINKWOOD DRIVE FERNY HILLS 4055",
     "locID": "LOC000039859457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156087193"
    }
   },
@@ -26230,7 +26230,7 @@
     "name": "9 SILVERWOOD COURT FERNY HILLS 4055",
     "locID": "LOC000033331440",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156565582"
    }
   },
@@ -28626,8 +28626,8 @@
    "properties": {
     "name": "2 DELLWOOD COURT FERNY HILLS 4055",
     "locID": "LOC000083769651",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156568083"
    }
   },
@@ -38028,7 +38028,7 @@
     "name": "7 LARWOOD PLACE FERNY HILLS 4055",
     "locID": "LOC000043368656",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156574185"
    }
   },
@@ -41156,7 +41156,7 @@
     "name": "1 VERWOOD COURT FERNY HILLS 4055",
     "locID": "LOC000005702080",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156585504"
    }
   },
@@ -46153,8 +46153,8 @@
    "properties": {
     "name": "11 BLUEWOOD COURT FERNY HILLS 4055",
     "locID": "LOC000107104680",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157933818"
    }
   },
@@ -49979,7 +49979,7 @@
     "name": "40 WOODTOP COURT FERNY HILLS 4055",
     "locID": "LOC000052050122",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159159159"
    }
   },
@@ -51492,7 +51492,7 @@
     "name": "8 TORWOOD COURT FERNY HILLS 4055",
     "locID": "LOC000021630432",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161372196"
    }
   },
@@ -56414,6 +56414,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.94511575,
+     -27.38207831
+    ]
+   },
+   "properties": {
+    "name": "LOT 208 BUNYA ROAD FERNY HILLS 4055",
+    "locID": "LOC000104801717",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163013395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.94363373,
      -27.38225712
     ]
@@ -56448,6 +56465,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.94286292,
+     -27.38266851
+    ]
+   },
+   "properties": {
+    "name": "LOT 210 BUNYA ROAD FERNY HILLS 4055",
+    "locID": "LOC000104801717",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163013398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.94012552,
      -27.38339756
     ]
@@ -56458,6 +56492,40 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163013399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.94207479,
+     -27.38297576
+    ]
+   },
+   "properties": {
+    "name": "LOT 501 BUNYA ROAD FERNY HILLS 4055",
+    "locID": "LOC000104801717",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163013400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.93892786,
+     -27.38317364
+    ]
+   },
+   "properties": {
+    "name": "LOT 696 BUNYA ROAD FERNY HILLS 4055",
+    "locID": "LOC000104801717",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163013401"
    }
   },
   {
