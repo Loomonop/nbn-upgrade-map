@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T04:50:47.820057",
+ "generated": "2023-08-05T08:50:46.812627",
  "suburb": "SEATON",
  "features": [
   {
@@ -372,8 +372,8 @@
    "properties": {
     "name": "UNIT 3, 23 RUSS AVENUE SEATON 5023",
     "locID": "LOC000095134705",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_414894417"
    }
   },
@@ -1852,7 +1852,7 @@
     "name": "8 MCNEILLY CRESCENT SEATON 5023",
     "locID": "LOC000079321803",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414932488"
    }
   },
@@ -2327,8 +2327,8 @@
    "properties": {
     "name": "8 LEVISTONE STREET SEATON 5023",
     "locID": "LOC000030266878",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414936348"
    }
   },
@@ -2633,8 +2633,8 @@
    "properties": {
     "name": "50 LEVISTONE STREET SEATON 5023",
     "locID": "LOC000083666684",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414936366"
    }
   },
@@ -8005,8 +8005,8 @@
    "properties": {
     "name": "38 GREEN AVENUE SEATON 5023",
     "locID": "LOC000085983867",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415044308"
    }
   },
@@ -9042,8 +9042,8 @@
    "properties": {
     "name": "3 RUSS AVENUE SEATON 5023",
     "locID": "LOC000040729075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415047455"
    }
   },
@@ -10014,23 +10014,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415055669"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.51632862,
-     -34.88378118
-    ]
-   },
-   "properties": {
-    "name": "10 FOURTH AVENUE SEATON 5023",
-    "locID": "LOC000061758237",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415055670"
    }
   },
   {
@@ -11184,8 +11167,8 @@
    "properties": {
     "name": "131 TRIMMER PARADE SEATON 5023",
     "locID": "LOC000059409523",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415063729"
    }
   },
@@ -13921,8 +13904,8 @@
    "properties": {
     "name": "20 RAYMOND AVENUE SEATON 5023",
     "locID": "LOC000064670910",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415070031"
    }
   },
@@ -13939,7 +13922,7 @@
     "name": "22 RAYMOND AVENUE SEATON 5023",
     "locID": "LOC000026624837",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415070032"
    }
   },
@@ -16610,23 +16593,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415130331"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.51997301,
-     -34.9047471
-    ]
-   },
-   "properties": {
-    "name": "15 AIRDRIE AVENUE SEATON 5023",
-    "locID": "LOC000021633260",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415131640"
    }
   },
   {
@@ -26467,8 +26433,8 @@
    "properties": {
     "name": "2 HAMISH COURT SEATON 5023",
     "locID": "LOC000011710135",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415178468"
    }
   },
@@ -38248,7 +38214,7 @@
    "properties": {
     "name": "50 RUSS AVENUE SEATON 5023",
     "locID": "LOC000193060810",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415349444"
    }
@@ -44878,7 +44844,7 @@
    "properties": {
     "name": "15 SEATON TERRACE SEATON 5023",
     "locID": "LOC000191600153",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415418791"
    }
@@ -45408,23 +45374,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415419656"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.51524851,
-     -34.895221
-    ]
-   },
-   "properties": {
-    "name": "9 JANET STREET SEATON 5023",
-    "locID": "LOC000047697552",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415419657"
    }
   },
   {
@@ -76430,8 +76379,8 @@
    "properties": {
     "name": "UNIT 2, 55 GREEN AVENUE SEATON 5023",
     "locID": "LOC000070210871",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_422371941"
    }
   },
@@ -77620,8 +77569,8 @@
    "properties": {
     "name": "UNIT 2, 1 SEATON TERRACE SEATON 5023",
     "locID": "LOC000091414101",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423594491"
    }
   },
@@ -82074,8 +82023,8 @@
    "properties": {
     "name": "21 MITCHELL STREET EAST SEATON 5023",
     "locID": "LOC000047868372",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424427870"
    }
   },
@@ -93746,6 +93695,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.52318034,
+     -34.90567776
+    ]
+   },
+   "properties": {
+    "name": "405-405B GRANGE ROAD SEATON 5023",
+    "locID": "LOC000098662533",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_719250035"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.5141167,
      -34.90268162
     ]
@@ -97969,7 +97935,7 @@
    "properties": {
     "name": "9A FINDON AVENUE SEATON 5023",
     "locID": "ChIJaVlMUjLEsGoRsKqg093kRfs",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720416316"
    }
@@ -99006,7 +98972,7 @@
    "properties": {
     "name": "50A RUSS AVENUE SEATON 5023",
     "locID": "LOC000193060823",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720721344"
    }
@@ -101027,11 +100993,79 @@
     ]
    },
    "properties": {
+    "name": "UNIT 8, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267141"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
     "name": "5 SERVICE ROAD SEATON 5023",
     "locID": "EidTZXJ2aWNlIFJkLCBDYXNjYWRlIE5TVyAyNDUzLCBBdXN0cmFsaWEiLiosChQKEgkrOHJxnAKcaxEYnNjLyoMu6RIUChIJA693ScapnmsRQJRDkLQJBgQ",
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721267154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267170"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267171"
    }
   },
   {
@@ -101078,11 +101112,45 @@
     ]
    },
    "properties": {
+    "name": "UNIT 9, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267216"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
     "name": "3 SERVICE ROAD SEATON 5023",
     "locID": "EidTZXJ2aWNlIFJkLCBDYXNjYWRlIE5TVyAyNDUzLCBBdXN0cmFsaWEiLiosChQKEgkrOHJxnAKcaxEYnNjLyoMu6RIUChIJA693ScapnmsRQJRDkLQJBgQ",
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721267218"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267244"
    }
   },
   {
@@ -101100,6 +101168,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_721267253"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267290"
    }
   },
   {
@@ -101231,11 +101316,62 @@
     ]
    },
    "properties": {
+    "name": "UNIT 3, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267455"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
     "name": "7 SERVICE ROAD SEATON 5023",
     "locID": "EidTZXJ2aWNlIFJkLCBDYXNjYWRlIE5TVyAyNDUzLCBBdXN0cmFsaWEiLiosChQKEgkrOHJxnAKcaxEYnNjLyoMu6RIUChIJA693ScapnmsRQJRDkLQJBgQ",
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721267467"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267474"
    }
   },
   {
@@ -101311,6 +101447,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267526"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.51550802,
      -34.89064381
     ]
@@ -101372,6 +101525,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_721267586"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51295186,
+     -34.89336302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 3 SERVICE ROAD SEATON 5023",
+    "locID": "ChIJg65NcDHEsGoRUPLoBz_4ggY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721267592"
    }
   },
   {
