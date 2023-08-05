@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T16:01:25.530043",
+ "generated": "2023-08-05T03:02:19.489074",
  "suburb": "SHAILER PARK",
  "features": [
   {
@@ -2021,8 +2021,8 @@
    "properties": {
     "name": "19 WINDJANA COURT SHAILER PARK 4128",
     "locID": "LOC000033407370",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155798143"
    }
   },
@@ -4214,8 +4214,8 @@
    "properties": {
     "name": "28 WINDJANA COURT SHAILER PARK 4128",
     "locID": "LOC000041397888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155799200"
    }
   },
@@ -5779,7 +5779,7 @@
     "name": "18 KUNUNURRA CRESCENT SHAILER PARK 4128",
     "locID": "LOC000109083032",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155799972"
    }
   },
@@ -16234,7 +16234,7 @@
     "name": "76 KUNUNURRA CRESCENT SHAILER PARK 4128",
     "locID": "LOC000105493415",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155803529"
    }
   },
@@ -23731,7 +23731,7 @@
     "name": "6 BURNIER COURT SHAILER PARK 4128",
     "locID": "LOC000059075942",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155807293"
    }
   },
@@ -25277,8 +25277,8 @@
    "properties": {
     "name": "61-63 MINGAH CRESCENT SHAILER PARK 4128",
     "locID": "LOC000016606181",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155808216"
    }
   },
@@ -27606,8 +27606,8 @@
    "properties": {
     "name": "44-48 LEO LINDO DRIVE SHAILER PARK 4128",
     "locID": "LOC000061993033",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155810076"
    }
   },
@@ -44199,7 +44199,7 @@
     "name": "5 YANREY STREET SHAILER PARK 4128",
     "locID": "LOC000010714823",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157123278"
    }
   },
@@ -44232,8 +44232,8 @@
    "properties": {
     "name": "7 YANREY STREET SHAILER PARK 4128",
     "locID": "LOC000039370399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157123280"
    }
   },
@@ -66791,7 +66791,7 @@
    "properties": {
     "name": "9-11 NORTON DRIVE SHAILER PARK 4128",
     "locID": "ChIJ-_KEajpCkWsR8F41bbXpBK4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160732968"
    }
@@ -68271,7 +68271,7 @@
     "name": "146-170 BRYANTS ROAD SHAILER PARK 4128",
     "locID": "LOC000010863577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161084402"
    }
   },
@@ -81445,8 +81445,8 @@
    "properties": {
     "name": "69 KIMBERLEY DRIVE SHAILER PARK 4128",
     "locID": "LOC000157451887",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425239562"
    }
   },
@@ -81479,8 +81479,8 @@
    "properties": {
     "name": "73 KIMBERLEY DRIVE SHAILER PARK 4128",
     "locID": "LOC000161308127",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425239564"
    }
   },
@@ -83505,23 +83505,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425770816"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.17160344,
-     -27.64652637
-    ]
-   },
-   "properties": {
-    "name": "25D RONALD STREET SHAILER PARK 4128",
-    "locID": "LOC100074898435",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425770817"
    }
   },
   {
@@ -87242,7 +87225,7 @@
    "properties": {
     "name": "44 MAYDA STREET SHAILER PARK 4128",
     "locID": "LOC000193143728",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720628357"
    }
