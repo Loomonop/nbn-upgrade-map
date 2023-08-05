@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T23:01:29.035101",
+ "generated": "2023-08-05T06:14:23.375799",
  "suburb": "GORDONVALE",
  "features": [
   {
@@ -8074,7 +8074,7 @@
     "name": "26 HAWKINS STREET GORDONVALE 4865",
     "locID": "LOC000103757664",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156594291"
    }
   },
@@ -12341,7 +12341,7 @@
     "name": "148 RIVERSTONE ROAD GORDONVALE 4865",
     "locID": "LOC000111694349",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156610693"
    }
   },
@@ -13123,7 +13123,7 @@
     "name": "84 SHEPPARDS STREET GORDONVALE 4865",
     "locID": "LOC000055231510",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156611333"
    }
   },
@@ -16727,7 +16727,7 @@
     "name": "6 SLATCHER CLOSE GORDONVALE 4865",
     "locID": "LOC000049239423",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156614900"
    }
   },
@@ -19940,7 +19940,7 @@
     "name": "8 MIGHELL CLOSE GORDONVALE 4865",
     "locID": "LOC000014402382",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156618035"
    }
   },
@@ -25499,7 +25499,7 @@
     "name": "UNIT 2, 26 HAWKINS STREET GORDONVALE 4865",
     "locID": "LOC000103757664",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157987481"
    }
   },
@@ -28629,23 +28629,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161081785"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.77550219,
-     -17.07601888
-    ]
-   },
-   "properties": {
-    "name": "LOT 66 BRUCE HIGHWAY GORDONVALE 4865",
-    "locID": "Eiw2NiBCcnVjZSBId3ksIEdvcmRvbnZhbGUgUUxEIDQ4NjUsIEF1c3RyYWxpYSIwEi4KFAoSCQOajU07inhpEdJXcdqMHfdZEEIqFAoSCa0amS0fh5NrETz9t7i22LhA",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161081791"
    }
   },
   {
@@ -35963,6 +35946,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.77415203,
+     -17.10178044
+    ]
+   },
+   "properties": {
+    "name": "LOT 65 LEONIS ACCESS GORDONVALE 4865",
+    "locID": "ChIJY76rhu6LeGkRDoL0Th40rgk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162512294"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.77442067,
+     -17.10077473
+    ]
+   },
+   "properties": {
+    "name": "LOT 66 LEONIS ACCESS GORDONVALE 4865",
+    "locID": "ChIJn3FAoO6LeGkRD9ohSQmsCAU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162512295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.77440605,
+     -17.10031258
+    ]
+   },
+   "properties": {
+    "name": "LOT 67 LEONIS ACCESS GORDONVALE 4865",
+    "locID": "ChIJS6u-p-6LeGkRlx5FeOYS9qo",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162512296"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7743898,
+     -17.09982128
+    ]
+   },
+   "properties": {
+    "name": "LOT 68 LEONIS ACCESS GORDONVALE 4865",
+    "locID": "ChIJ-7U5qu6LeGkR6S0UsWmA8Bs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162512297"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.77926254,
      -17.08676281
     ]
@@ -39609,7 +39660,7 @@
     "name": "18-20 GREY STREET GORDONVALE 4865",
     "locID": "LOC000052296943",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162846466"
    }
   },
@@ -39643,7 +39694,7 @@
     "name": "21-23 GREY STREET GORDONVALE 4865",
     "locID": "LOC000054788644",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162846468"
    }
   },
@@ -40051,7 +40102,7 @@
     "name": "73-77 GREY STREET GORDONVALE 4865",
     "locID": "LOC000060050188",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162846492"
    }
   },
@@ -44905,6 +44956,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.77509136,
+     -17.06900361
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 LAVELL ROAD GORDONVALE 4865",
+    "locID": "ChIJ1_UXCTSKeGkRKcqj8mkBeR0",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162957813"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.77545875,
      -17.09970819
     ]
@@ -46649,6 +46717,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163027914"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.79615444,
+     -17.08336272
+    ]
+   },
+   "properties": {
+    "name": "168 HICKLING ACCESS GORDONVALE 4865",
+    "locID": "ChIJTVVcqK6LeGkRFUiHYyefLBg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163034816"
    }
   },
   {
@@ -48587,6 +48672,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163359841"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.75689369,
+     -17.07538617
+    ]
+   },
+   "properties": {
+    "name": "LOT 7 HICKLING ACCESS GORDONVALE 4865",
+    "locID": "ChIJ363JDn6JeGkRD_doE-U6yWc",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163359963"
    }
   },
   {
@@ -57153,7 +57255,7 @@
     "name": "2-4 GREY STREET GORDONVALE 4865",
     "locID": "LOC000054788644",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720730633"
    }
   },
@@ -59644,23 +59746,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.76600399,
-     -17.06487882
-    ]
-   },
-   "properties": {
-    "name": "LOT 85 MAITLAND ROAD GORDONVALE 4865",
-    "locID": "Ei44NSBNYWl0bGFuZCBSZCwgR29yZG9udmFsZSBRTEQgNDg2NSwgQXVzdHJhbGlhIjASLgoUChIJk02k9iWKeGkR_nc-MmWIZOgQVSoUChIJ7XXL0IaJeGkR76QYp_nbV4c",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720982611"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.8377441,
      -17.06541216
     ]
@@ -59841,6 +59926,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721181967"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.77130651,
+     -17.12130694
+    ]
+   },
+   "properties": {
+    "name": "27 BENEDETTI ROAD GORDONVALE 4865",
+    "locID": "ChIJgeBqGw-MeGkRGbON-vLEvfk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721230266"
    }
   }
  ]
