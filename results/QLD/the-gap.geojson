@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T21:21:53.496910",
+ "generated": "2023-08-05T05:21:57.935750",
  "suburb": "THE GAP",
  "features": [
   {
@@ -18,23 +18,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154966516"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     139.49957088,
-     -20.72232778
-    ]
-   },
-   "properties": {
-    "name": "LOT 36 GEORGE STREET THE GAP 4825",
-    "locID": "EikzNiBHZW9yZ2UgU3QsIFRoZSBHYXAgUUxEIDQ4MjUsIEF1c3RyYWxpYSIwEi4KFAoSCa8npwDsUhZqEZlA9b9d85nWECQqFAoSCa2cfpLrUhZqEYx_JTsFDiGP",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD155578274"
    }
   },
   {
@@ -28065,8 +28048,8 @@
    "properties": {
     "name": "1 CEDAR PLACE THE GAP 4061",
     "locID": "LOC000067242877",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155889391"
    }
   },
@@ -28457,7 +28440,7 @@
     "name": "19 DILLON ROAD THE GAP 4061",
     "locID": "LOC000007665437",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155889424"
    }
   },
@@ -28473,8 +28456,8 @@
    "properties": {
     "name": "192 DILLON ROAD THE GAP 4061",
     "locID": "LOC000106126490",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155889425"
    }
   },
@@ -44624,7 +44607,7 @@
     "name": "57 YARRABEE ROAD THE GAP 4061",
     "locID": "LOC000003397336",
     "tech": "FTTC",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155893585"
    }
   },
@@ -50692,8 +50675,8 @@
    "properties": {
     "name": "81 CLARE PLACE THE GAP 4061",
     "locID": "LOC000053404737",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155897626"
    }
   },
@@ -53004,8 +52987,8 @@
    "properties": {
     "name": "48 CLARE PLACE THE GAP 4061",
     "locID": "LOC000085660101",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155898652"
    }
   },
@@ -55156,6 +55139,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.49705041,
+     -20.72328153
+    ]
+   },
+   "properties": {
+    "name": "LOT 29 MARY STREET THE GAP 4825",
+    "locID": "LOC000060972471",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156077291"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96511368,
      -27.44689297
     ]
@@ -55418,8 +55418,8 @@
    "properties": {
     "name": "10 JILLINDA PLACE THE GAP 4061",
     "locID": "LOC000060978878",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156082080"
    }
   },
@@ -78776,8 +78776,8 @@
    "properties": {
     "name": "20 ALLAMANDA STREET THE GAP 4061",
     "locID": "LOC000028136293",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157192323"
    }
   },
@@ -106724,8 +106724,8 @@
    "properties": {
     "name": "38 DILLON ROAD THE GAP 4061",
     "locID": "LOC000009905596",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158787866"
    }
   },
@@ -108730,8 +108730,8 @@
    "properties": {
     "name": "131 DILLON ROAD THE GAP 4061",
     "locID": "LOC000024892299",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161127287"
    }
   },
@@ -109039,6 +109039,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161226244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.49704019,
+     -20.72276314
+    ]
+   },
+   "properties": {
+    "name": "LOT 23 MARY STREET THE GAP 4825",
+    "locID": "LOC000060972471",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161228249"
    }
   },
   {
@@ -112114,7 +112131,7 @@
     "name": "UNIT 18, 599 PAYNE ROAD THE GAP 4061",
     "locID": "LOC000050320461",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161963325"
    }
   },
@@ -112301,7 +112318,7 @@
     "name": "UNIT 7, 599 PAYNE ROAD THE GAP 4061",
     "locID": "LOC000050217668",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161963336"
    }
   },
@@ -114799,8 +114816,8 @@
    "properties": {
     "name": "85 KAYS ROAD THE GAP 4061",
     "locID": "LOC000026574883",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162303442"
    }
   },
@@ -115156,8 +115173,8 @@
    "properties": {
     "name": "20 PATRICIA DRIVE THE GAP 4061",
     "locID": "LOC000087644221",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162377328"
    }
   },
@@ -117043,8 +117060,8 @@
    "properties": {
     "name": "5 GEORGIA PLACE THE GAP 4061",
     "locID": "LOC000097172567",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162626264"
    }
   },
@@ -129762,23 +129779,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720986827"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.92402037,
-     -27.42096911
-    ]
-   },
-   "properties": {
-    "name": "55 WAGTAIL STREET THE GAP 4061",
-    "locID": "Eio1NSBXYWd0YWlsIFN0LCBUaGUgR2FwIFFMRCA0MDYxLCBBdXN0cmFsaWEiMBIuChQKEgl1mwzaoVaRaxGhxLXonqwxdxA3KhQKEgl387kAoFaRaxHLEeJ0wUq4-A",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720989891"
    }
   },
   {
