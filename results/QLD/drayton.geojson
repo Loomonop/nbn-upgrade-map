@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-10T14:58:50.969131",
+ "generated": "2023-08-05T02:28:56.682951",
  "suburb": "DRAYTON",
  "features": [
   {
@@ -3415,8 +3415,8 @@
    "properties": {
     "name": "8 GIPPS STREET DRAYTON 4350",
     "locID": "LOC000095097958",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156518143"
    }
   },
@@ -3943,7 +3943,7 @@
     "name": "20 LADNER STREET DRAYTON 4350",
     "locID": "LOC000106034928",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156522489"
    }
   },
@@ -5268,8 +5268,8 @@
    "properties": {
     "name": "3 SOWDEN STREET DRAYTON 4350",
     "locID": "LOC000023675721",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156528368"
    }
   },
@@ -6084,8 +6084,8 @@
    "properties": {
     "name": "41 LUCK STREET DRAYTON 4350",
     "locID": "LOC000094266862",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157208462"
    }
   },
@@ -7496,7 +7496,7 @@
     "name": "12 MCPHERSON STREET DRAYTON 4350",
     "locID": "LOC000021626389",
     "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_NA",
     "gnaf_pid": "GAQLD157860569"
    }
   },
@@ -8821,8 +8821,8 @@
    "properties": {
     "name": "UNIT 1, 53 LADNER STREET DRAYTON 4350",
     "locID": "LOC000044310596",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157867909"
    }
   },
@@ -11899,7 +11899,7 @@
     "name": "10-16 MCPHERSON STREET DRAYTON 4350",
     "locID": "LOC000021626389",
     "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_NA",
     "gnaf_pid": "GAQLD162090319"
    }
   },
@@ -16625,7 +16625,7 @@
     "name": "1-9 YOUNG STREET DRAYTON 4350",
     "locID": "LOC000127830966",
     "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_NA",
     "gnaf_pid": "GAQLD162210006"
    }
   },
@@ -16965,7 +16965,7 @@
     "name": "2-8 MCPHERSON STREET DRAYTON 4350",
     "locID": "LOC000039278482",
     "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_NA",
     "gnaf_pid": "GAQLD162514498"
    }
   },
@@ -20816,23 +20816,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.89021072,
-     -27.59738582
-    ]
-   },
-   "properties": {
-    "name": "LOT 849 BOUNDARY STREET SOUTH DRAYTON 4350",
-    "locID": "EjA4NDkgQm91bmRhcnkgU3QgUywgV2VzdGJyb29rIFFMRCA0MzUwLCBBdXN0cmFsaWEiMRIvChQKEgnj0fvCzESWaxF5dTNkHvPwERDRBioUChIJJS0xVstElmsRJeZWpU0VARw",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719337423"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.92316058,
      -27.5930374
     ]
@@ -23648,23 +23631,6 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720989775"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.89022802,
-     -27.59338116
-    ]
-   },
-   "properties": {
-    "name": "1086 BOUNDARY STREET SOUTH DRAYTON 4350",
-    "locID": "EjExMDg2IEJvdW5kYXJ5IFN0IFMsIFdlc3Ricm9vayBRTEQgNDM1MCwgQXVzdHJhbGlhIjESLwoUChIJ49H7wsxElmsReHUzZB7z8BEQvggqFAoSCSUtMVbLRJZrESXmVqVNFQEc",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720990051"
    }
   },
   {
