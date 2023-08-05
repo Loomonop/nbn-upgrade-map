@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-11T12:38:55.750813",
+ "generated": "2023-08-05T17:10:13.085616",
  "suburb": "WOODVILLE PARK",
  "features": [
   {
@@ -2242,8 +2242,8 @@
    "properties": {
     "name": "9 MARLBOROUGH AVENUE WOODVILLE PARK 5011",
     "locID": "LOC000094160114",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414980248"
    }
   },
@@ -3245,8 +3245,8 @@
    "properties": {
     "name": "121 OSBORNE AVENUE WOODVILLE PARK 5011",
     "locID": "LOC000009210749",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_414987124"
    }
   },
@@ -4045,7 +4045,7 @@
     "name": "51 RADSTOCK STREET WOODVILLE PARK 5011",
     "locID": "LOC000034269637",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414998277"
    }
   },
@@ -4299,8 +4299,8 @@
    "properties": {
     "name": "5 GARTH STREET WOODVILLE PARK 5011",
     "locID": "LOC000039404199",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415154189"
    }
   },
@@ -4572,7 +4572,7 @@
     "name": "435 TORRENS ROAD WOODVILLE PARK 5011",
     "locID": "LOC000166107619",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415381913"
    }
   },
@@ -6781,8 +6781,8 @@
    "properties": {
     "name": "23 GARTH STREET WOODVILLE PARK 5011",
     "locID": "LOC000074253732",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415427987"
    }
   },
@@ -8066,23 +8066,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.54863939,
-     -34.88113322
-    ]
-   },
-   "properties": {
-    "name": "7 ROFE COURT WOODVILLE PARK 5011",
-    "locID": "LOC000094966526",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415438803"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.54873613,
      -34.881207
     ]
@@ -8192,8 +8175,8 @@
    "properties": {
     "name": "4 JEANETTE STREET WOODVILLE PARK 5011",
     "locID": "LOC000067028322",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415443885"
    }
   },
@@ -9009,7 +8992,7 @@
     "name": "UNIT 1, 56 BELMORE TERRACE WOODVILLE PARK 5011",
     "locID": "LOC000009217136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415628699"
    }
   },
@@ -9026,7 +9009,7 @@
     "name": "UNIT 2, 56 BELMORE TERRACE WOODVILLE PARK 5011",
     "locID": "LOC000009251401",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415628700"
    }
   },
@@ -9043,7 +9026,7 @@
     "name": "UNIT 3, 56 BELMORE TERRACE WOODVILLE PARK 5011",
     "locID": "LOC000009244341",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415628701"
    }
   },
@@ -9060,7 +9043,7 @@
     "name": "UNIT 4, 56 BELMORE TERRACE WOODVILLE PARK 5011",
     "locID": "LOC000009243745",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415628702"
    }
   },
@@ -9281,7 +9264,7 @@
     "name": "UNIT 3, 48 BEAUFORT STREET WOODVILLE PARK 5011",
     "locID": "LOC000004520508",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415681141"
    }
   },
@@ -9298,7 +9281,7 @@
     "name": "UNIT 4, 48 BEAUFORT STREET WOODVILLE PARK 5011",
     "locID": "LOC000004450660",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415681142"
    }
   },
@@ -9315,7 +9298,7 @@
     "name": "UNIT 1, 48 BEAUFORT STREET WOODVILLE PARK 5011",
     "locID": "LOC000004446955",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415683581"
    }
   },
@@ -9332,7 +9315,7 @@
     "name": "UNIT 2, 48 BEAUFORT STREET WOODVILLE PARK 5011",
     "locID": "LOC000004472560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415683582"
    }
   },
@@ -9382,8 +9365,8 @@
    "properties": {
     "name": "UNIT 2, 31 BELMORE TERRACE WOODVILLE PARK 5011",
     "locID": "LOC000086837063",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416398892"
    }
   },
@@ -9502,7 +9485,7 @@
     "name": "FLAT 1, 51 RADSTOCK STREET WOODVILLE PARK 5011",
     "locID": "LOC000034269637",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416409747"
    }
   },
@@ -9536,7 +9519,7 @@
     "name": "FLAT 2, 51 RADSTOCK STREET WOODVILLE PARK 5011",
     "locID": "LOC000034269637",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416409749"
    }
   },
@@ -10267,7 +10250,7 @@
     "name": "UNIT 2, 53 DAVID TERRACE WOODVILLE PARK 5011",
     "locID": "LOC000018388497",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416437132"
    }
   },
@@ -10369,7 +10352,7 @@
     "name": "56 BELMORE TERRACE WOODVILLE PARK 5011",
     "locID": "LOC000009243745",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416484029"
    }
   },
@@ -10844,8 +10827,8 @@
    "properties": {
     "name": "69 HARVEY STREET EAST WOODVILLE PARK 5011",
     "locID": "LOC000095495067",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_416488393"
    }
   },
@@ -12817,7 +12800,7 @@
     "name": "48 BEAUFORT STREET WOODVILLE PARK 5011",
     "locID": "LOC000004472560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422038997"
    }
   },
@@ -13105,8 +13088,8 @@
    "properties": {
     "name": "54A RANELAGH STREET WOODVILLE PARK 5011",
     "locID": "LOC000039445085",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_423819248"
    }
   },
@@ -16012,7 +15995,7 @@
    "properties": {
     "name": "7A ROFE COURT WOODVILLE PARK 5011",
     "locID": "ChIJqf1-YRfGsGoR-aQxpnxZzOk",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720719726"
    }
