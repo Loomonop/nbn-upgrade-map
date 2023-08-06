@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-13T01:48:15.323749",
+ "generated": "2023-08-06T10:47:02.972684",
  "suburb": "CITY BEACH",
  "features": [
   {
@@ -1664,8 +1664,8 @@
    "properties": {
     "name": "22 YARINGA WAY CITY BEACH 6015",
     "locID": "LOC000059431642",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146606252"
    }
   },
@@ -2701,8 +2701,8 @@
    "properties": {
     "name": "15 BENDIGO WAY CITY BEACH 6015",
     "locID": "LOC000068589780",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146608586"
    }
   },
@@ -3144,7 +3144,7 @@
     "name": "220 OCEANIC DRIVE CITY BEACH 6015",
     "locID": "LOC000056050786",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146609956"
    }
   },
@@ -3161,7 +3161,7 @@
     "name": "218 OCEANIC DRIVE CITY BEACH 6015",
     "locID": "LOC000006188337",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146609957"
    }
   },
@@ -3178,7 +3178,7 @@
     "name": "216 OCEANIC DRIVE CITY BEACH 6015",
     "locID": "LOC000019443223",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146609958"
    }
   },
@@ -4758,8 +4758,8 @@
    "properties": {
     "name": "8 MARAPANA ROAD CITY BEACH 6015",
     "locID": "LOC000054535475",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146611564"
    }
   },
@@ -5353,8 +5353,8 @@
    "properties": {
     "name": "27 TALGARTH WAY CITY BEACH 6015",
     "locID": "LOC000029503433",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146612910"
    }
   },
@@ -6254,7 +6254,7 @@
    "properties": {
     "name": "7 WEST COAST HIGHWAY CITY BEACH 6015",
     "locID": "LOC000176210775",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146615115"
    }
@@ -6662,8 +6662,8 @@
    "properties": {
     "name": "29 KALINDA DRIVE CITY BEACH 6015",
     "locID": "LOC000043271667",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146615231"
    }
   },
@@ -6832,8 +6832,8 @@
    "properties": {
     "name": "11 FALMOUTH AVENUE CITY BEACH 6015",
     "locID": "LOC000017137379",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146615608"
    }
   },
@@ -7614,8 +7614,8 @@
    "properties": {
     "name": "6 BOSCOMBE AVENUE CITY BEACH 6015",
     "locID": "LOC000061332022",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146616590"
    }
   },
@@ -8702,8 +8702,8 @@
    "properties": {
     "name": "5 HOVEA CRESCENT CITY BEACH 6015",
     "locID": "LOC000060118771",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146617295"
    }
   },
@@ -10507,6 +10507,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146618460"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76271413,
+     -31.92186928
+    ]
+   },
+   "properties": {
+    "name": "10 DORKING ROAD CITY BEACH 6015",
+    "locID": "LOC000037718075",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAWA_146618461"
    }
   },
   {
@@ -17212,23 +17229,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.76275314,
-     -31.93681011
-    ]
-   },
-   "properties": {
-    "name": "30 WINDARRA DRIVE CITY BEACH 6015",
-    "locID": "LOC000034476335",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_146621985"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.76271097,
      -31.93745979
     ]
@@ -20076,7 +20076,7 @@
     "name": "38 BRANKSOME GARDENS CITY BEACH 6015",
     "locID": "LOC000004766232",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146623090"
    }
   },
@@ -21809,8 +21809,8 @@
    "properties": {
     "name": "2 TAWORRI WAY CITY BEACH 6015",
     "locID": "LOC000066217658",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146624867"
    }
   },
@@ -22200,8 +22200,8 @@
    "properties": {
     "name": "21 CALLINGTON AVENUE CITY BEACH 6015",
     "locID": "LOC000058022898",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146625269"
    }
   },
@@ -23407,8 +23407,8 @@
    "properties": {
     "name": "62 BRANKSOME GARDENS CITY BEACH 6015",
     "locID": "LOC000089281441",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146625974"
    }
   },
@@ -23492,8 +23492,8 @@
    "properties": {
     "name": "46 BRANKSOME GARDENS CITY BEACH 6015",
     "locID": "LOC000019968021",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146626048"
    }
   },
@@ -25107,8 +25107,8 @@
    "properties": {
     "name": "16 BORONIA CRESCENT CITY BEACH 6015",
     "locID": "LOC000045836954",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146627764"
    }
   },
@@ -25549,8 +25549,8 @@
    "properties": {
     "name": "20 KINGSLAND AVENUE CITY BEACH 6015",
     "locID": "LOC000050064116",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146628094"
    }
   },
@@ -26314,8 +26314,8 @@
    "properties": {
     "name": "2 NORBURY CRESCENT CITY BEACH 6015",
     "locID": "LOC000044296882",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146629272"
    }
   },
@@ -27980,8 +27980,8 @@
    "properties": {
     "name": "15 BARAMBA ROAD CITY BEACH 6015",
     "locID": "LOC000063525303",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146630217"
    }
   },
@@ -31941,8 +31941,8 @@
    "properties": {
     "name": "12 DUPONT AVENUE CITY BEACH 6015",
     "locID": "LOC000087424527",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146634472"
    }
   },
@@ -32825,8 +32825,8 @@
    "properties": {
     "name": "26 GAYTON ROAD CITY BEACH 6015",
     "locID": "LOC000063396369",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146635855"
    }
   },
@@ -35358,8 +35358,8 @@
    "properties": {
     "name": "17 BORONIA CRESCENT CITY BEACH 6015",
     "locID": "LOC000050737938",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146638337"
    }
   },
@@ -37585,8 +37585,8 @@
    "properties": {
     "name": "14 WINDARRA DRIVE CITY BEACH 6015",
     "locID": "LOC000069414241",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147388680"
    }
   },
@@ -44572,8 +44572,8 @@
    "properties": {
     "name": "10B LENTARA CRESCENT CITY BEACH 6015",
     "locID": "LOC000131830330",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_162574173"
    }
   },
@@ -44929,8 +44929,8 @@
    "properties": {
     "name": "8 ALKOOMIE TERRACE CITY BEACH 6015",
     "locID": "LOC000086800204",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162636657"
    }
   },
@@ -47020,8 +47020,8 @@
    "properties": {
     "name": "1 BANOOL CRESCENT CITY BEACH 6015",
     "locID": "LOC000167286204",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_718712665"
    }
   },
