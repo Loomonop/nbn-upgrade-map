@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-13T17:43:17.759418",
+ "generated": "2023-08-06T17:31:13.715971",
  "suburb": "TAPPING",
  "features": [
   {
@@ -3755,8 +3755,8 @@
    "properties": {
     "name": "3 CLARAFIELD MEANDER TAPPING 6065",
     "locID": "LOC000050671287",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147241786"
    }
   },
@@ -17458,7 +17458,7 @@
     "name": "72 CONTI ROAD TAPPING 6065",
     "locID": "LOC000090670722",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161420843"
    }
   },
@@ -34814,8 +34814,8 @@
    "properties": {
     "name": "27 VAN GOGH ROAD TAPPING 6065",
     "locID": "LOC000095826533",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162250970"
    }
   },
@@ -36089,8 +36089,8 @@
    "properties": {
     "name": "148 ASHLEY ROAD TAPPING 6065",
     "locID": "LOC000002933152",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162258800"
    }
   },
@@ -42515,8 +42515,8 @@
    "properties": {
     "name": "2 GINSBURG TURN TAPPING 6065",
     "locID": "LOC000046210763",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162486699"
    }
   },
@@ -42668,8 +42668,8 @@
    "properties": {
     "name": "22 GOSHAWK STREET TAPPING 6065",
     "locID": "LOC000072734546",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_162486817"
    }
   },
@@ -45983,8 +45983,8 @@
    "properties": {
     "name": "4 FARNSWORTH APPROACH TAPPING 6065",
     "locID": "LOC000073682350",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162564892"
    }
   },
@@ -46663,8 +46663,8 @@
    "properties": {
     "name": "6 NOBEL VIEW TAPPING 6065",
     "locID": "LOC000034612289",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162579222"
    }
   },
@@ -47156,8 +47156,8 @@
    "properties": {
     "name": "135 WALDBURG DRIVE TAPPING 6065",
     "locID": "LOC000045665012",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162590622"
    }
   },
@@ -48159,8 +48159,8 @@
    "properties": {
     "name": "8 REDROBIN LINK TAPPING 6065",
     "locID": "LOC000046670611",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162644763"
    }
   },
@@ -49553,8 +49553,8 @@
    "properties": {
     "name": "4 BAIRD WAY TAPPING 6065",
     "locID": "LOC000046609684",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162718202"
    }
   },
@@ -54874,8 +54874,8 @@
    "properties": {
     "name": "112B ASHLEY ROAD TAPPING 6065",
     "locID": "LOC000063912475",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163073537"
    }
   },
@@ -55248,8 +55248,8 @@
    "properties": {
     "name": "68 GALILEO AVENUE TAPPING 6065",
     "locID": "LOC000083215217",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163198417"
    }
   },
@@ -59185,6 +59185,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.78758716,
+     -31.71954792
+    ]
+   },
+   "properties": {
+    "name": "23 EUGENES LOOP TAPPING 6065",
+    "locID": "ChIJY1ahewlTzSsRUpVJ0G87b4M",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_720560240"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.78749491,
      -31.71903376
     ]
@@ -59280,6 +59297,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720560663"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78794668,
+     -31.71993954
+    ]
+   },
+   "properties": {
+    "name": "10 EUGENES LOOP TAPPING 6065",
+    "locID": "ChIJQU04bwlTzSsRQwVeENypo10",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_720560668"
    }
   },
   {
@@ -59416,6 +59450,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720561691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78795128,
+     -31.71939844
+    ]
+   },
+   "properties": {
+    "name": "2 PATAGONA LANE TAPPING 6065",
+    "locID": "ChIJpaTBcAlTzSsRTz9anNEYu-E",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_720561692"
    }
   },
   {
@@ -59637,6 +59688,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720562848"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78795037,
+     -31.71950666
+    ]
+   },
+   "properties": {
+    "name": "18 EUGENES LOOP TAPPING 6065",
+    "locID": "ChIJkZFecAlTzSsRzFnFOCsYE0k",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_720562869"
    }
   },
   {
