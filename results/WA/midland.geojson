@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-12T04:39:07.963592",
+ "generated": "2023-08-06T01:42:36.157663",
  "suburb": "MIDLAND",
  "features": [
   {
@@ -66,8 +66,8 @@
    "properties": {
     "name": "26 MARGARET STREET MIDLAND 6056",
     "locID": "LOC000003004541",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146674598"
    }
   },
@@ -4146,8 +4146,8 @@
    "properties": {
     "name": "10 FREDERIC STREET MIDLAND 6056",
     "locID": "LOC000035354124",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146689229"
    }
   },
@@ -4843,8 +4843,8 @@
    "properties": {
     "name": "35 DUDLEY STREET MIDLAND 6056",
     "locID": "LOC000132164661",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146689514"
    }
   },
@@ -6560,8 +6560,8 @@
    "properties": {
     "name": "11 GARTRELL STREET MIDLAND 6056",
     "locID": "LOC000076739331",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146690990"
    }
   },
@@ -7003,7 +7003,7 @@
     "name": "11 MURIEL STREET MIDLAND 6056",
     "locID": "LOC000132223223",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146691906"
    }
   },
@@ -8654,6 +8654,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146693303"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.00852774,
+     -31.88866228
+    ]
+   },
+   "properties": {
+    "name": "33 THE CRESCENT MIDLAND 6056",
+    "locID": "EiszMyBUaGUgQ3Jlc2NlbnQsIE1pZGxhbmQgV0EgNjA1NiwgQXVzdHJhbGlhIjASLgoUChIJVaTRdS-4MioRMwY4U44WjzwQISoUChIJ9_rjAyW4MioRdnmHpqHBI5s",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_146693304"
    }
   },
   {
@@ -16217,7 +16234,7 @@
     "name": "110 EWART STREET MIDLAND 6056",
     "locID": "LOC000178141914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146702166"
    }
   },
@@ -18767,7 +18784,7 @@
     "name": "55 WROXTON STREET MIDLAND 6056",
     "locID": "LOC000006202376",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146706310"
    }
   },
@@ -21368,7 +21385,7 @@
     "name": "40 ELVIRE STREET MIDLAND 6056",
     "locID": "LOC000022868936",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146708548"
    }
   },
@@ -31210,8 +31227,8 @@
    "properties": {
     "name": "20B CHARLES STREET MIDLAND 6056",
     "locID": "LOC000080317310",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147304564"
    }
   },
@@ -39574,8 +39591,8 @@
    "properties": {
     "name": "8B NEW BOND STREET MIDLAND 6056",
     "locID": "LOC000048534522",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147923723"
    }
   },
@@ -52477,8 +52494,8 @@
    "properties": {
     "name": "UNIT 3, 38 CHARLES STREET MIDLAND 6056",
     "locID": "LOC000098502745",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162493964"
    }
   },
@@ -54603,7 +54620,7 @@
     "name": "11A MURIEL STREET MIDLAND 6056",
     "locID": "LOC000132223223",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162578363"
    }
   },
@@ -57135,8 +57152,8 @@
    "properties": {
     "name": "15 COLE STREET MIDLAND 6056",
     "locID": "LOC000094524054",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162719889"
    }
   },
@@ -58733,8 +58750,8 @@
    "properties": {
     "name": "UNIT 1, 26 MARGARET STREET MIDLAND 6056",
     "locID": "LOC000003004541",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162767387"
    }
   },
@@ -58767,8 +58784,8 @@
    "properties": {
     "name": "UNIT 3, 26 MARGARET STREET MIDLAND 6056",
     "locID": "LOC000002942017",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162767389"
    }
   },
@@ -71942,8 +71959,8 @@
    "properties": {
     "name": "UNIT 2, 4 GEORGE STREET MIDLAND 6056",
     "locID": "LOC000132049590",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718339541"
    }
   },
@@ -91357,7 +91374,7 @@
     "name": "108 EWART STREET MIDLAND 6056",
     "locID": "LOC000178141922",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719969329"
    }
   },
