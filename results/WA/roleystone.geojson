@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-13T07:46:09.896826",
+ "generated": "2023-08-06T13:28:41.697203",
  "suburb": "ROLEYSTONE",
  "features": [
   {
@@ -3671,7 +3671,7 @@
     "name": "5 SIMONS DRIVE ROLEYSTONE 6111",
     "locID": "LOC000076967251",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAWA_146710659"
    }
   },
@@ -20993,7 +20993,7 @@
    "properties": {
     "name": "84 ROBINSON ROAD ROLEYSTONE 6111",
     "locID": "LOC000017219302",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146834815"
    }
@@ -34492,7 +34492,7 @@
     "name": "154 HEATH ROAD ROLEYSTONE 6111",
     "locID": "LOC000045245339",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAWA_147257129"
    }
   },
@@ -34560,7 +34560,7 @@
     "name": "24 HEATH ROAD ROLEYSTONE 6111",
     "locID": "LOC000016255569",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAWA_147257134"
    }
   },
@@ -34984,7 +34984,7 @@
    "properties": {
     "name": "84 HEATH ROAD ROLEYSTONE 6111",
     "locID": "LOC000018080827",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147262765"
    }
@@ -45984,7 +45984,7 @@
     "name": "LOT 473B HEATH ROAD ROLEYSTONE 6111",
     "locID": "LOC000016255569",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAWA_162818796"
    }
   },
@@ -48890,7 +48890,7 @@
    "properties": {
     "name": "5 TENHAVE PLACE ROLEYSTONE 6111",
     "locID": "ChIJiZOZqnXrMioRWroVFNBIu88",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718790688"
    }
@@ -50311,6 +50311,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.07148885,
+     -32.10903063
+    ]
+   },
+   "properties": {
+    "name": "13 CATSPAW CHASE ROLEYSTONE 6111",
+    "locID": "ChIJaWDNSW_rMioRLr1xTQ_n5y8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721085100"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.07152929,
      -32.10933273
     ]
@@ -50328,6 +50345,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.07079157,
+     -32.10875029
+    ]
+   },
+   "properties": {
+    "name": "1 TASSEL CIRCUIT ROLEYSTONE 6111",
+    "locID": "ChIJd3-OzGjrMioRKHgrV9gIh4A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721085157"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.07135853,
      -32.10903068
     ]
@@ -50338,6 +50372,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721085202"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.07139685,
+     -32.10933277
+    ]
+   },
+   "properties": {
+    "name": "14 CATSPAW CHASE ROLEYSTONE 6111",
+    "locID": "ChIJNZNKSW_rMioRrWVFQVZLa0E",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721085212"
    }
   }
  ]
