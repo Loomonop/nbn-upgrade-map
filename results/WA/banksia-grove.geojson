@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-12T15:31:52.746981",
+ "generated": "2023-08-06T07:28:14.956512",
  "suburb": "BANKSIA GROVE",
  "features": [
   {
@@ -4061,8 +4061,8 @@
    "properties": {
     "name": "10 MIST PLACE BANKSIA GROVE 6031",
     "locID": "LOC000060310152",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147171524"
    }
   },
@@ -4639,8 +4639,8 @@
    "properties": {
     "name": "30 TURQUOISE LOOP BANKSIA GROVE 6031",
     "locID": "LOC000092867338",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147195309"
    }
   },
@@ -6594,8 +6594,8 @@
    "properties": {
     "name": "44 MINT CIRCUIT BANKSIA GROVE 6031",
     "locID": "LOC000044651223",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147260980"
    }
   },
@@ -6934,7 +6934,7 @@
    "properties": {
     "name": "93 VIRIDIAN DRIVE BANKSIA GROVE 6031",
     "locID": "LOC000132160856",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147261006"
    }
@@ -15315,8 +15315,8 @@
    "properties": {
     "name": "6 SUNDOWNER MEANDER BANKSIA GROVE 6031",
     "locID": "LOC000030528127",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162270207"
    }
   },
@@ -16267,8 +16267,8 @@
    "properties": {
     "name": "36 ABBEY GREEN ROAD BANKSIA GROVE 6031",
     "locID": "LOC000012717457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162484760"
    }
   },
@@ -21163,8 +21163,8 @@
    "properties": {
     "name": "12 LYNELLA CIRCUIT BANKSIA GROVE 6031",
     "locID": "LOC000055304620",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162983030"
    }
   },
@@ -31618,8 +31618,8 @@
    "properties": {
     "name": "89 ABBEY GREEN ROAD BANKSIA GROVE 6031",
     "locID": "LOC000110410531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163334766"
    }
   },
@@ -32281,8 +32281,8 @@
    "properties": {
     "name": "8 CARBINE LOOP BANKSIA GROVE 6031",
     "locID": "LOC000113801356",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163336145"
    }
   },
@@ -81642,6 +81642,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.81567048,
+     -31.69122841
+    ]
+   },
+   "properties": {
+    "name": "11 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJ7e-1ZUhSzSsRhyQSxnlNO8Y",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721194180"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81618468,
      -31.69151703
     ]
@@ -81761,6 +81778,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.79960093,
+     -31.70327899
+    ]
+   },
+   "properties": {
+    "name": "6 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJJ2o--K1TzSsRUAL7xHDhtQE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721194977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81567048,
+     -31.69136369
+    ]
+   },
+   "properties": {
+    "name": "7 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJkzptZEhSzSsRdwXflcqtfT0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721194997"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81654352,
      -31.69249853
     ]
@@ -81771,6 +81822,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721195071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81650655,
+     -31.69122926
+    ]
+   },
+   "properties": {
+    "name": "4 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJsTDVeEhSzSsRaECzpxt0q3I",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721195086"
    }
   },
   {
@@ -81829,6 +81897,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.79995412,
+     -31.70330786
+    ]
+   },
+   "properties": {
+    "name": "1 ELEGY LANE BANKSIA GROVE 6031",
+    "locID": "ChIJD9KM9q1TzSsRpDQvYdq5nx0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721195608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7996592,
+     -31.70323325
+    ]
+   },
+   "properties": {
+    "name": "8 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJHUEc-K1TzSsRkNr7dage0eg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721195620"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.8164695,
      -31.69272665
     ]
@@ -81846,6 +81948,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.81567048,
+     -31.69129605
+    ]
+   },
+   "properties": {
+    "name": "9 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJwZpHZEhSzSsRcppyOejHnjM",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721195745"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81717185,
      -31.6905844
     ]
@@ -81856,6 +81975,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721195752"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79946945,
+     -31.70340275
+    ]
+   },
+   "properties": {
+    "name": "2 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJ4VAB-a1TzSsRGbS0DQTnIHc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721195980"
    }
   },
   {
@@ -81914,6 +82050,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.80007439,
+     -31.70321092
+    ]
+   },
+   "properties": {
+    "name": "5 ELEGY LANE BANKSIA GROVE 6031",
+    "locID": "ChIJ0XTa9a1TzSsRsKvzPyigdQ4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79983404,
+     -31.70309603
+    ]
+   },
+   "properties": {
+    "name": "14 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJl-QxCLJTzSsRgOHY5RxyBRM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196321"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81567048,
+     -31.69149897
+    ]
+   },
+   "properties": {
+    "name": "3 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJOe6_Y0hSzSsRsYw6UUpytrs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196454"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81639375,
      -31.69298384
     ]
@@ -81924,6 +82111,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721196527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.799899,
+     -31.70304758
+    ]
+   },
+   "properties": {
+    "name": "16 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJFUfICbJTzSsRpnfyFaVdbVs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196631"
    }
   },
   {
@@ -81948,6 +82152,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.79965107,
+     -31.70354571
+    ]
+   },
+   "properties": {
+    "name": "3 ARMONICA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJVdkF-q1TzSsRFSEq4Yeo57Q",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196690"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.8156688,
+     -31.69159184
+    ]
+   },
+   "properties": {
+    "name": "1 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJB3pKYkhSzSsRrHCfHy3DZUY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80001241,
+     -31.70326212
+    ]
+   },
+   "properties": {
+    "name": "3 ELEGY LANE BANKSIA GROVE 6031",
+    "locID": "ChIJI5l99q1TzSsRiheeKirJsU8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81659339,
      -31.69151703
     ]
@@ -81965,6 +82220,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.8156641,
+     -31.69113724
+    ]
+   },
+   "properties": {
+    "name": "13 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJ7cXsZUhSzSsRhJCwz39aaJU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721196815"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81650475,
      -31.69261802
     ]
@@ -81975,6 +82247,40 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721196939"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79957046,
+     -31.70361714
+    ]
+   },
+   "properties": {
+    "name": "1 ARMONICA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJZ_RA-q1TzSsRRaD1N6-P1hY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721197155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81567048,
+     -31.69143133
+    ]
+   },
+   "properties": {
+    "name": "5 WOYLIE WAY BANKSIA GROVE 6031",
+    "locID": "ChIJYVqLY0hSzSsRLDrezPWpbm8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721197384"
    }
   },
   {
@@ -82016,6 +82322,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.79983756,
+     -31.70339934
+    ]
+   },
+   "properties": {
+    "name": "9 ARMONICA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJ8X0h961TzSsRgK62DZt5XKk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721197614"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81676494,
      -31.69183886
     ]
@@ -82050,6 +82373,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.79977576,
+     -31.70314177
+    ]
+   },
+   "properties": {
+    "name": "12 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJ70wgCLJTzSsRpeqtA4pXuN8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721197847"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79954265,
+     -31.70332473
+    ]
+   },
+   "properties": {
+    "name": "4 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJgV1F-K1TzSsR7fVaZ1Yuns0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721197923"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79989584,
+     -31.7033536
+    ]
+   },
+   "properties": {
+    "name": "11 ARMONICA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJCdXl9q1TzSsRASUlur__TzE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721197937"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.8166845,
      -31.69206401
     ]
@@ -82060,6 +82434,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721198026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79971748,
+     -31.70318751
+    ]
+   },
+   "properties": {
+    "name": "10 KALIMBA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJqVz7961TzSsROtSWwxYJH4o",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721198142"
    }
   },
   {
@@ -82084,6 +82475,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.79972101,
+     -31.70349083
+    ]
+   },
+   "properties": {
+    "name": "5 ARMONICA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJtaFS961TzSsRukfNAMmzgG0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721198535"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81545953,
      -31.69150799
     ]
@@ -82094,6 +82502,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721198548"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79977928,
+     -31.70344508
+    ]
+   },
+   "properties": {
+    "name": "7 ARMONICA ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJlZ03961TzSsR5gPt9h3VG5w",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721198575"
    }
   },
   {
