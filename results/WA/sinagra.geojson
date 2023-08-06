@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-13T20:00:08.745680",
+ "generated": "2023-08-06T18:26:57.952568",
  "suburb": "SINAGRA",
  "features": [
   {
@@ -253,8 +253,8 @@
    "properties": {
     "name": "71 VINCENT ROAD SINAGRA 6065",
     "locID": "LOC000007140156",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146650606"
    }
   },
@@ -1018,8 +1018,8 @@
    "properties": {
     "name": "40 BIBBULMUN ENTRANCE SINAGRA 6065",
     "locID": "LOC000037854713",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147172184"
    }
   },
@@ -2650,8 +2650,8 @@
    "properties": {
     "name": "12 CASTROREALE BOULEVARD SINAGRA 6065",
     "locID": "LOC000099080512",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160913754"
    }
   },
@@ -3671,7 +3671,7 @@
     "name": "11 MESSINA DRIVE SINAGRA 6065",
     "locID": "LOC000088552791",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160917743"
    }
   },
@@ -3755,8 +3755,8 @@
    "properties": {
     "name": "23 MESSINA DRIVE SINAGRA 6065",
     "locID": "LOC000090806740",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160917749"
    }
   },
@@ -6662,7 +6662,7 @@
    "properties": {
     "name": "15 GIGLIA DRIVE SINAGRA 6065",
     "locID": "ChIJByBBOSBTzSsRWTsPd0tfHUg",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162000810"
    }
@@ -7070,8 +7070,8 @@
    "properties": {
     "name": "38 GIGLIA DRIVE SINAGRA 6065",
     "locID": "LOC000080207045",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162244658"
    }
   },
@@ -13921,8 +13921,8 @@
    "properties": {
     "name": "6 MESSINA DRIVE SINAGRA 6065",
     "locID": "LOC000184870612",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163381981"
    }
   },
@@ -14278,8 +14278,8 @@
    "properties": {
     "name": "105 VINCENT ROAD SINAGRA 6065",
     "locID": "LOC000116415792",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163385736"
    }
   },
@@ -21843,7 +21843,7 @@
    "properties": {
     "name": "10 SANTA ROSALIA VISTA SINAGRA 6065",
     "locID": "EjIxMCBTYW50YSBSb3NhbGlhIFZpc3RhLCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCXt2jwIkU80rESezqAHA9gClEAoqFAoSCS9SVFIhU80rEVCPzES2opgk",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721194571"
    }
@@ -23009,23 +23009,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80427132,
-     -31.7408935
-    ]
-   },
-   "properties": {
-    "name": "18 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwxOCBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEBIqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721204504"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.80459609,
      -31.74216449
     ]
@@ -23060,23 +23043,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80453488,
-     -31.74090549
-    ]
-   },
-   "properties": {
-    "name": "22 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwyMiBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEBYqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721204642"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.8038855,
      -31.74192188
     ]
@@ -23087,57 +23053,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721204800"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80440531,
-     -31.74090575
-    ]
-   },
-   "properties": {
-    "name": "20 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwyMCBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEBQqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721204861"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80493086,
-     -31.74089214
-    ]
-   },
-   "properties": {
-    "name": "28 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwyOCBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEBwqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721204892"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80326208,
-     -31.74119499
-    ]
-   },
-   "properties": {
-    "name": "8 TORRENOVA WAY SINAGRA 6065",
-    "locID": "Eis4IFRvcnJlbm92YSBXYXksIFNpbmFncmEgV0EgNjA2NSwgQXVzdHJhbGlhIjASLgoUChIJ-ZbEFSdTzSsRrG5_uqLnQEkQCCoUChIJp3w8PydTzSsREK-3xGb5bzY",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721204966"
    }
   },
   {
@@ -23468,23 +23383,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80466445,
-     -31.74090522
-    ]
-   },
-   "properties": {
-    "name": "24 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwyNCBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEBgqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721205994"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.80434726,
      -31.74276525
     ]
@@ -23519,23 +23417,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80337883,
-     -31.74111065
-    ]
-   },
-   "properties": {
-    "name": "10 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwxMCBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEAoqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721206042"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.80470317,
      -31.74112159
     ]
@@ -23546,23 +23427,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721206120"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80372393,
-     -31.74093213
-    ]
-   },
-   "properties": {
-    "name": "12 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwxMiBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEAwqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721206134"
    }
   },
   {
@@ -23679,7 +23543,7 @@
    "properties": {
     "name": "13 GIGLIA DRIVE SINAGRA 6065",
     "locID": "EigxMyBHaWdsaWEgRHIsIFNpbmFncmEgV0EgNjA2NSwgQXVzdHJhbGlhIjASLgoUChIJNayhFCBTzSsR0Dl6JrXwBBMQDSoUChIJkbpRit9SzSsRsvMXEvwKk2g",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721206762"
    }
@@ -23699,23 +23563,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721206813"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80412774,
-     -31.74089381
-    ]
-   },
-   "properties": {
-    "name": "16 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwxNiBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEBAqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721206882"
    }
   },
   {
@@ -23767,23 +23614,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721207159"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80394935,
-     -31.74089111
-    ]
-   },
-   "properties": {
-    "name": "14 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwxNCBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEA4qFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721207242"
    }
   },
   {
@@ -23920,23 +23750,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721207591"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80479401,
-     -31.74090495
-    ]
-   },
-   "properties": {
-    "name": "26 TORRENOVA WAY SINAGRA 6065",
-    "locID": "EiwyNiBUb3JyZW5vdmEgV2F5LCBTaW5hZ3JhIFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCfmWxBUnU80rEaxuf7qi50BJEBoqFAoSCad8PD8nU80rERCvt8Rm-W82",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_721207782"
    }
   }
  ]
