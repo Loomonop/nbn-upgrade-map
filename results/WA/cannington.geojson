@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-13T13:22:52.345561",
+ "generated": "2023-08-06T15:45:25.471857",
  "suburb": "CANNINGTON",
  "features": [
   {
@@ -324,23 +324,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146732922"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.93596,
-     -32.01278
-    ]
-   },
-   "properties": {
-    "name": "144 WHARF STREET CANNINGTON 6107",
-    "locID": "LOC000042694405",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_146732923"
    }
   },
   {
@@ -3177,8 +3160,8 @@
    "properties": {
     "name": "4 BRINKLEY STREET CANNINGTON 6107",
     "locID": "LOC000036643404",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146736614"
    }
   },
@@ -10946,8 +10929,8 @@
    "properties": {
     "name": "28 GREY STREET CANNINGTON 6107",
     "locID": "LOC000071616015",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146749565"
    }
   },
@@ -11014,8 +10997,8 @@
    "properties": {
     "name": "19 BRADFORD STREET CANNINGTON 6107",
     "locID": "LOC000055604635",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146749673"
    }
   },
@@ -12136,7 +12119,7 @@
    "properties": {
     "name": "19 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJ6YUiOC68MioRyIS0vfUMKso",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146949914"
    }
@@ -12289,7 +12272,7 @@
    "properties": {
     "name": "17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146955389"
    }
@@ -21231,8 +21214,8 @@
    "properties": {
     "name": "13 CIVIC GARDENS CANNINGTON 6107",
     "locID": "LOC000003701102",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147315368"
    }
   },
@@ -21894,8 +21877,8 @@
    "properties": {
     "name": "62 STATION STREET CANNINGTON 6107",
     "locID": "LOC000012808032",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147389292"
    }
   },
@@ -43637,8 +43620,8 @@
    "properties": {
     "name": "UNIT 1, 13 CIVIC GARDENS CANNINGTON 6107",
     "locID": "LOC000003701102",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161926915"
    }
   },
@@ -52137,8 +52120,8 @@
    "properties": {
     "name": "UNIT 4, 72 STATION STREET CANNINGTON 6107",
     "locID": "LOC000024457470",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162730087"
    }
   },
@@ -69426,8 +69409,8 @@
    "properties": {
     "name": "19A BRADFORD STREET CANNINGTON 6107",
     "locID": "LOC000055604635",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719035829"
    }
   },
@@ -77093,7 +77076,7 @@
    "properties": {
     "name": "12 BAUER STREET CANNINGTON 6107",
     "locID": "LOC000193126226",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719673692"
    }
@@ -78351,8 +78334,8 @@
    "properties": {
     "name": "3A CRAWFORD STREET CANNINGTON 6107",
     "locID": "LOC000185975959",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_720246557"
    }
   },
@@ -79116,8 +79099,8 @@
    "properties": {
     "name": "108A WHARF STREET CANNINGTON 6107",
     "locID": "LOC000176836472",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_720396808"
    }
   },
@@ -79898,7 +79881,7 @@
    "properties": {
     "name": "UNIT 409, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720714963"
    }
@@ -79915,7 +79898,7 @@
    "properties": {
     "name": "UNIT 715, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720714997"
    }
@@ -79932,7 +79915,7 @@
    "properties": {
     "name": "UNIT 105, FLOOR 1, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715003"
    }
@@ -79949,7 +79932,7 @@
    "properties": {
     "name": "UNIT 407, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715031"
    }
@@ -79966,7 +79949,7 @@
    "properties": {
     "name": "UNIT 613, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715046"
    }
@@ -79983,7 +79966,7 @@
    "properties": {
     "name": "UNIT 404, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715116"
    }
@@ -80000,7 +79983,7 @@
    "properties": {
     "name": "UNIT 511, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715133"
    }
@@ -80017,7 +80000,7 @@
    "properties": {
     "name": "UNIT 518, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715142"
    }
@@ -80034,7 +80017,7 @@
    "properties": {
     "name": "UNIT 301, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715148"
    }
@@ -80051,7 +80034,7 @@
    "properties": {
     "name": "UNIT 508, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715150"
    }
@@ -80068,7 +80051,7 @@
    "properties": {
     "name": "UNIT 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715171"
    }
@@ -80085,7 +80068,7 @@
    "properties": {
     "name": "UNIT 308, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715201"
    }
@@ -80102,7 +80085,7 @@
    "properties": {
     "name": "UNIT 714, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715210"
    }
@@ -80119,7 +80102,7 @@
    "properties": {
     "name": "UNIT 203, FLOOR 2, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715242"
    }
@@ -80136,7 +80119,7 @@
    "properties": {
     "name": "UNIT 818, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715303"
    }
@@ -80153,7 +80136,7 @@
    "properties": {
     "name": "UNIT 1, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715405"
    }
@@ -80170,7 +80153,7 @@
    "properties": {
     "name": "UNIT 610, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715408"
    }
@@ -80187,7 +80170,7 @@
    "properties": {
     "name": "UNIT 815, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715504"
    }
@@ -80204,7 +80187,7 @@
    "properties": {
     "name": "UNIT 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715554"
    }
@@ -80221,7 +80204,7 @@
    "properties": {
     "name": "UNIT 716, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715577"
    }
@@ -80238,7 +80221,7 @@
    "properties": {
     "name": "UNIT 507, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715581"
    }
@@ -80255,7 +80238,7 @@
    "properties": {
     "name": "UNIT 506, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715649"
    }
@@ -80272,7 +80255,7 @@
    "properties": {
     "name": "UNIT 401, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715660"
    }
@@ -80289,7 +80272,7 @@
    "properties": {
     "name": "UNIT 611, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715686"
    }
@@ -80306,7 +80289,7 @@
    "properties": {
     "name": "UNIT 718, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715697"
    }
@@ -80340,7 +80323,7 @@
    "properties": {
     "name": "UNIT 106, FLOOR 1, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715740"
    }
@@ -80357,7 +80340,7 @@
    "properties": {
     "name": "UNIT 204, FLOOR 2, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715775"
    }
@@ -80374,7 +80357,7 @@
    "properties": {
     "name": "UNIT 405, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715957"
    }
@@ -80391,7 +80374,7 @@
    "properties": {
     "name": "UNIT 801, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716014"
    }
@@ -80408,7 +80391,7 @@
    "properties": {
     "name": "UNIT 702, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716105"
    }
@@ -80425,7 +80408,7 @@
    "properties": {
     "name": "UNIT 306, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716133"
    }
@@ -80442,7 +80425,7 @@
    "properties": {
     "name": "UNIT 807, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716146"
    }
@@ -80459,7 +80442,7 @@
    "properties": {
     "name": "UNIT 206, FLOOR 2, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716156"
    }
@@ -80476,7 +80459,7 @@
    "properties": {
     "name": "UNIT 205, FLOOR 2, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716183"
    }
@@ -80493,7 +80476,7 @@
    "properties": {
     "name": "UNIT 617, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716220"
    }
@@ -80510,7 +80493,7 @@
    "properties": {
     "name": "UNIT 502, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716224"
    }
@@ -80527,7 +80510,7 @@
    "properties": {
     "name": "UNIT 806, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716256"
    }
@@ -80544,7 +80527,7 @@
    "properties": {
     "name": "UNIT 816, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716259"
    }
@@ -80561,7 +80544,7 @@
    "properties": {
     "name": "UNIT 609, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716288"
    }
@@ -80578,7 +80561,7 @@
    "properties": {
     "name": "UNIT 201, FLOOR 2, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716326"
    }
@@ -80595,7 +80578,7 @@
    "properties": {
     "name": "UNIT 813, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716327"
    }
@@ -80612,7 +80595,7 @@
    "properties": {
     "name": "UNIT 612, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716341"
    }
@@ -80629,7 +80612,7 @@
    "properties": {
     "name": "UNIT 706, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716400"
    }
@@ -80646,7 +80629,7 @@
    "properties": {
     "name": "UNIT 517, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716461"
    }
@@ -80663,7 +80646,7 @@
    "properties": {
     "name": "UNIT 605, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716471"
    }
@@ -80680,7 +80663,7 @@
    "properties": {
     "name": "UNIT 316, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716491"
    }
@@ -80697,7 +80680,7 @@
    "properties": {
     "name": "UNIT 608, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716504"
    }
@@ -80714,7 +80697,7 @@
    "properties": {
     "name": "UNIT 707, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716532"
    }
@@ -80748,7 +80731,7 @@
    "properties": {
     "name": "UNIT 712, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716549"
    }
@@ -80765,7 +80748,7 @@
    "properties": {
     "name": "UNIT 510, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716554"
    }
@@ -80782,7 +80765,7 @@
    "properties": {
     "name": "UNIT 318, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716616"
    }
@@ -80799,7 +80782,7 @@
    "properties": {
     "name": "UNIT 503, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716689"
    }
@@ -80816,7 +80799,7 @@
    "properties": {
     "name": "UNIT 606, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716727"
    }
@@ -80833,7 +80816,7 @@
    "properties": {
     "name": "UNIT 703, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716728"
    }
@@ -80850,7 +80833,7 @@
    "properties": {
     "name": "UNIT 803, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716794"
    }
@@ -80867,7 +80850,7 @@
    "properties": {
     "name": "UNIT 607, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716833"
    }
@@ -80884,7 +80867,7 @@
    "properties": {
     "name": "UNIT 717, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716914"
    }
@@ -80901,7 +80884,7 @@
    "properties": {
     "name": "UNIT 402, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716963"
    }
@@ -80918,7 +80901,7 @@
    "properties": {
     "name": "UNIT 317, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716968"
    }
@@ -80935,7 +80918,7 @@
    "properties": {
     "name": "UNIT 408, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717043"
    }
@@ -80952,7 +80935,7 @@
    "properties": {
     "name": "UNIT 307, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717062"
    }
@@ -80969,7 +80952,7 @@
    "properties": {
     "name": "UNIT 309, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717097"
    }
@@ -80986,7 +80969,7 @@
    "properties": {
     "name": "UNIT 418, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717189"
    }
@@ -81003,7 +80986,7 @@
    "properties": {
     "name": "UNIT 501, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717224"
    }
@@ -81020,7 +81003,7 @@
    "properties": {
     "name": "UNIT 313, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717341"
    }
@@ -81037,7 +81020,7 @@
    "properties": {
     "name": "UNIT 804, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717344"
    }
@@ -81054,7 +81037,7 @@
    "properties": {
     "name": "UNIT 314, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717430"
    }
@@ -81071,7 +81054,7 @@
    "properties": {
     "name": "UNIT 512, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717488"
    }
@@ -81088,7 +81071,7 @@
    "properties": {
     "name": "UNIT 514, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717492"
    }
@@ -81105,7 +81088,7 @@
    "properties": {
     "name": "UNIT 403, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717529"
    }
@@ -81122,7 +81105,7 @@
    "properties": {
     "name": "UNIT 406, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717546"
    }
@@ -81139,7 +81122,7 @@
    "properties": {
     "name": "UNIT 802, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717549"
    }
@@ -81156,7 +81139,7 @@
    "properties": {
     "name": "UNIT 305, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717609"
    }
@@ -81173,7 +81156,7 @@
    "properties": {
     "name": "UNIT 604, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717648"
    }
@@ -81190,7 +81173,7 @@
    "properties": {
     "name": "UNIT 809, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717659"
    }
@@ -81207,7 +81190,7 @@
    "properties": {
     "name": "UNIT 509, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717693"
    }
@@ -81224,7 +81207,7 @@
    "properties": {
     "name": "UNIT 713, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717716"
    }
@@ -81241,7 +81224,7 @@
    "properties": {
     "name": "UNIT 711, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717725"
    }
@@ -81258,7 +81241,7 @@
    "properties": {
     "name": "UNIT 708, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717792"
    }
@@ -81275,7 +81258,7 @@
    "properties": {
     "name": "UNIT 705, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717876"
    }
@@ -81292,7 +81275,7 @@
    "properties": {
     "name": "UNIT 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717882"
    }
@@ -81309,7 +81292,7 @@
    "properties": {
     "name": "UNIT 602, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717959"
    }
@@ -81326,7 +81309,7 @@
    "properties": {
     "name": "UNIT 102, FLOOR 1, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718021"
    }
@@ -81343,7 +81326,7 @@
    "properties": {
     "name": "UNIT 312, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718077"
    }
@@ -81360,7 +81343,7 @@
    "properties": {
     "name": "UNIT 811, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718089"
    }
@@ -81394,7 +81377,7 @@
    "properties": {
     "name": "UNIT 411, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718159"
    }
@@ -81411,7 +81394,7 @@
    "properties": {
     "name": "UNIT 302, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718201"
    }
@@ -81445,7 +81428,7 @@
    "properties": {
     "name": "UNIT 808, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718277"
    }
@@ -81462,7 +81445,7 @@
    "properties": {
     "name": "UNIT 311, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718361"
    }
@@ -81479,7 +81462,7 @@
    "properties": {
     "name": "UNIT 417, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718371"
    }
@@ -81496,7 +81479,7 @@
    "properties": {
     "name": "UNIT 310, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718374"
    }
@@ -81513,7 +81496,7 @@
    "properties": {
     "name": "UNIT 812, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718446"
    }
@@ -81530,7 +81513,7 @@
    "properties": {
     "name": "UNIT 101, FLOOR 1, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718475"
    }
@@ -81547,7 +81530,7 @@
    "properties": {
     "name": "UNIT 810, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718485"
    }
@@ -81581,7 +81564,7 @@
    "properties": {
     "name": "UNIT 410, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718527"
    }
@@ -81598,7 +81581,7 @@
    "properties": {
     "name": "UNIT 505, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718597"
    }
@@ -81632,7 +81615,7 @@
    "properties": {
     "name": "UNIT 704, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718610"
    }
@@ -81649,7 +81632,7 @@
    "properties": {
     "name": "UNIT 614, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718642"
    }
@@ -81666,7 +81649,7 @@
    "properties": {
     "name": "UNIT 817, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718650"
    }
@@ -81683,7 +81666,7 @@
    "properties": {
     "name": "UNIT 513, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718690"
    }
@@ -81700,7 +81683,7 @@
    "properties": {
     "name": "UNIT 416, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718706"
    }
@@ -81717,7 +81700,7 @@
    "properties": {
     "name": "UNIT 202, FLOOR 2, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718729"
    }
@@ -81734,7 +81717,7 @@
    "properties": {
     "name": "UNIT 413, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718758"
    }
@@ -81751,7 +81734,7 @@
    "properties": {
     "name": "UNIT 615, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718759"
    }
@@ -81768,7 +81751,7 @@
    "properties": {
     "name": "UNIT 701, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718780"
    }
@@ -81785,7 +81768,7 @@
    "properties": {
     "name": "UNIT 103, FLOOR 1, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718808"
    }
@@ -81802,7 +81785,7 @@
    "properties": {
     "name": "UNIT 412, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718909"
    }
@@ -81819,7 +81802,7 @@
    "properties": {
     "name": "UNIT 603, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718917"
    }
@@ -81836,7 +81819,7 @@
    "properties": {
     "name": "UNIT 710, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720718998"
    }
@@ -81853,7 +81836,7 @@
    "properties": {
     "name": "UNIT 814, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719136"
    }
@@ -81870,7 +81853,7 @@
    "properties": {
     "name": "UNIT 616, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719210"
    }
@@ -81887,7 +81870,7 @@
    "properties": {
     "name": "UNIT 601, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719300"
    }
@@ -81904,7 +81887,7 @@
    "properties": {
     "name": "UNIT 104, FLOOR 1, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719307"
    }
@@ -81921,7 +81904,7 @@
    "properties": {
     "name": "UNIT 805, FLOOR 8, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719336"
    }
@@ -81938,7 +81921,7 @@
    "properties": {
     "name": "UNIT 504, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719362"
    }
@@ -81955,7 +81938,7 @@
    "properties": {
     "name": "UNIT 315, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719391"
    }
@@ -81972,7 +81955,7 @@
    "properties": {
     "name": "UNIT 709, FLOOR 7, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719402"
    }
@@ -81989,7 +81972,7 @@
    "properties": {
     "name": "UNIT 304, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719465"
    }
@@ -82006,7 +81989,7 @@
    "properties": {
     "name": "UNIT 618, FLOOR 6, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719482"
    }
@@ -82023,7 +82006,7 @@
    "properties": {
     "name": "UNIT 303, FLOOR 3, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719488"
    }
@@ -82040,7 +82023,7 @@
    "properties": {
     "name": "UNIT 415, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719521"
    }
@@ -82057,7 +82040,7 @@
    "properties": {
     "name": "UNIT 516, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719523"
    }
@@ -82074,7 +82057,7 @@
    "properties": {
     "name": "UNIT 2, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719528"
    }
@@ -82091,7 +82074,7 @@
    "properties": {
     "name": "UNIT 414, FLOOR 4, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719597"
    }
@@ -82108,7 +82091,7 @@
    "properties": {
     "name": "UNIT 515, FLOOR 5, 17 PATTIE STREET CANNINGTON 6107",
     "locID": "ChIJY_QfNy68MioRJsGAZQIw9V8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720719603"
    }
