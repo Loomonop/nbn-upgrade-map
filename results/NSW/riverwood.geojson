@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-14T19:03:39.185893",
+ "generated": "2023-08-07T00:04:25.765713",
  "suburb": "RIVERWOOD",
  "features": [
   {
@@ -424,7 +424,7 @@
     "name": "13 HANNANS ROAD RIVERWOOD 2210",
     "locID": "LOC000100389240",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705753381"
    }
   },
@@ -2293,8 +2293,8 @@
    "properties": {
     "name": "17 SHORT ROAD RIVERWOOD 2210",
     "locID": "LOC000067724524",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705753846"
    }
   },
@@ -2566,7 +2566,7 @@
     "name": "19A SHORT ROAD RIVERWOOD 2210",
     "locID": "LOC000010399873",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705753863"
    }
   },
@@ -2583,7 +2583,7 @@
     "name": "19 SHORT ROAD RIVERWOOD 2210",
     "locID": "LOC000176386135",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705753864"
    }
   },
@@ -2753,7 +2753,7 @@
     "name": "UNIT 2, 4-6 WIGGS ROAD RIVERWOOD 2210",
     "locID": "LOC000037073249",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705756662"
    }
   },
@@ -2770,7 +2770,7 @@
     "name": "UNIT 3, 4-6 WIGGS ROAD RIVERWOOD 2210",
     "locID": "LOC000037073249",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705756663"
    }
   },
@@ -2787,7 +2787,7 @@
     "name": "UNIT 4, 4-6 WIGGS ROAD RIVERWOOD 2210",
     "locID": "LOC000037073249",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705756664"
    }
   },
@@ -3484,7 +3484,7 @@
     "name": "63 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000176385808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705756990"
    }
   },
@@ -3501,7 +3501,7 @@
     "name": "UNIT 1, 25 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000055583920",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705757006"
    }
   },
@@ -3518,7 +3518,7 @@
     "name": "UNIT 2, 25 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000055583920",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705757007"
    }
   },
@@ -3535,7 +3535,7 @@
     "name": "UNIT 3, 25 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000055583920",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705757008"
    }
   },
@@ -3552,7 +3552,7 @@
     "name": "25 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000055583920",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705757009"
    }
   },
@@ -3960,7 +3960,7 @@
     "name": "16 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000160367464",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705757038"
    }
   },
@@ -4198,7 +4198,7 @@
     "name": "309 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000056180250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705759901"
    }
   },
@@ -4266,7 +4266,7 @@
     "name": "319 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000115347244",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705759905"
    }
   },
@@ -4283,7 +4283,7 @@
     "name": "343 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000111412198",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705759912"
    }
   },
@@ -4785,23 +4785,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.05790035,
-     -33.94742374
-    ]
-   },
-   "properties": {
-    "name": "30 BONAPARTE STREET RIVERWOOD 2210",
-    "locID": "LOC000003908038",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705759994"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.0574216,
      -33.94715405
     ]
@@ -4929,7 +4912,7 @@
     "name": "33 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000120497928",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705760007"
    }
   },
@@ -5557,8 +5540,8 @@
    "properties": {
     "name": "62 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000039654789",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705760047"
    }
   },
@@ -6000,7 +5983,7 @@
     "name": "100 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000183261791",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705760316"
    }
   },
@@ -8941,7 +8924,7 @@
     "name": "69 HANNANS ROAD RIVERWOOD 2210",
     "locID": "LOC000001432826",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705766906"
    }
   },
@@ -9892,8 +9875,8 @@
    "properties": {
     "name": "42 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000075614990",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705766965"
    }
   },
@@ -10352,7 +10335,7 @@
     "name": "19 IRIS AVENUE RIVERWOOD 2210",
     "locID": "LOC000002362299",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705766992"
    }
   },
@@ -10403,7 +10386,7 @@
     "name": "21 IRIS AVENUE RIVERWOOD 2210",
     "locID": "LOC000077266097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705766995"
    }
   },
@@ -11083,7 +11066,7 @@
     "name": "UNIT 1, 28 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000053753696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770530"
    }
   },
@@ -11100,7 +11083,7 @@
     "name": "UNIT 2, 28 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000054168114",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770531"
    }
   },
@@ -11117,7 +11100,7 @@
     "name": "UNIT 3, 28 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000053415747",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770532"
    }
   },
@@ -11134,7 +11117,7 @@
     "name": "28 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000053415747",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770533"
    }
   },
@@ -11202,7 +11185,7 @@
     "name": "5 CHARLES STREET RIVERWOOD 2210",
     "locID": "LOC000054116063",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770537"
    }
   },
@@ -11491,7 +11474,7 @@
     "name": "UNIT 2, 4 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000024080625",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770586"
    }
   },
@@ -11508,7 +11491,7 @@
     "name": "UNIT 3, 4 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000101748269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770587"
    }
   },
@@ -11950,7 +11933,7 @@
     "name": "23 EARLS AVENUE RIVERWOOD 2210",
     "locID": "LOC000021326730",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770684"
    }
   },
@@ -12528,7 +12511,7 @@
     "name": "UNIT 5, 4-6 WIGGS ROAD RIVERWOOD 2210",
     "locID": "LOC000037073249",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705770843"
    }
   },
@@ -12885,7 +12868,7 @@
     "name": "UNIT 1, 66 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000078657415",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705773524"
    }
   },
@@ -12902,7 +12885,7 @@
     "name": "UNIT 2, 66 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000183641480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705773525"
    }
   },
@@ -12919,7 +12902,7 @@
     "name": "UNIT 3, 66 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000183641480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705773526"
    }
   },
@@ -12936,7 +12919,7 @@
     "name": "VILLA 4, 66 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000183641480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705773527"
    }
   },
@@ -12953,7 +12936,7 @@
     "name": "UNIT 5, 66 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000078550370",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705773528"
    }
   },
@@ -12970,7 +12953,7 @@
     "name": "66 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000183641480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705773529"
    }
   },
@@ -13446,7 +13429,7 @@
     "name": "237 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000058721102",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705773558"
    }
   },
@@ -15078,7 +15061,7 @@
     "name": "202 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000021378905",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705774327"
    }
   },
@@ -15112,7 +15095,7 @@
     "name": "204 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000048061895",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705774329"
    }
   },
@@ -16268,7 +16251,7 @@
     "name": "UNIT 1, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086844944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777213"
    }
   },
@@ -16285,7 +16268,7 @@
     "name": "UNIT 2, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086844944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777214"
    }
   },
@@ -16302,7 +16285,7 @@
     "name": "UNIT 3, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086927622",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777215"
    }
   },
@@ -16319,7 +16302,7 @@
     "name": "UNIT 5, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086665945",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777216"
    }
   },
@@ -16336,7 +16319,7 @@
     "name": "UNIT 6, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086732489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777217"
    }
   },
@@ -16353,7 +16336,7 @@
     "name": "UNIT 7, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086889794",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777218"
    }
   },
@@ -16370,7 +16353,7 @@
     "name": "UNIT 8, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086909068",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777219"
    }
   },
@@ -16387,7 +16370,7 @@
     "name": "UNIT 9, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000087065565",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705777220"
    }
   },
@@ -16489,7 +16472,7 @@
     "name": "2 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000004741628",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705777226"
    }
   },
@@ -17032,8 +17015,8 @@
    "properties": {
     "name": "8 NAPOLEON STREET RIVERWOOD 2210",
     "locID": "LOC000070398042",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705777259"
    }
   },
@@ -18189,7 +18172,7 @@
     "name": "11 UNION STREET RIVERWOOD 2210",
     "locID": "LOC000008812177",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705780259"
    }
   },
@@ -18563,7 +18546,7 @@
     "name": "28 ROMILLY STREET RIVERWOOD 2210",
     "locID": "LOC000049706179",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705780522"
    }
   },
@@ -20127,7 +20110,7 @@
     "name": "20 ROMILLY STREET RIVERWOOD 2210",
     "locID": "LOC000079932854",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705783897"
    }
   },
@@ -20518,7 +20501,7 @@
     "name": "UNIT 9, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000160374609",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784176"
    }
   },
@@ -21130,7 +21113,7 @@
     "name": "208 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000064616846",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784344"
    }
   },
@@ -21181,7 +21164,7 @@
     "name": "212 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000089695256",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784347"
    }
   },
@@ -21215,7 +21198,7 @@
     "name": "216 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000017529674",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784349"
    }
   },
@@ -21402,7 +21385,7 @@
     "name": "59 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000076128328",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784360"
    }
   },
@@ -21674,7 +21657,7 @@
     "name": "98 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000059576968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784381"
    }
   },
@@ -22677,7 +22660,7 @@
     "name": "21 KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000042153296",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784447"
    }
   },
@@ -22847,7 +22830,7 @@
     "name": "UNIT 1, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010942386",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784457"
    }
   },
@@ -22864,7 +22847,7 @@
     "name": "UNIT 2, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010527500",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784458"
    }
   },
@@ -22881,7 +22864,7 @@
     "name": "UNIT 3, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010958032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784459"
    }
   },
@@ -22898,7 +22881,7 @@
     "name": "UNIT 4, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010999884",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784460"
    }
   },
@@ -22915,7 +22898,7 @@
     "name": "UNIT 5, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010573158",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784461"
    }
   },
@@ -22932,7 +22915,7 @@
     "name": "UNIT 6, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010578956",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784462"
    }
   },
@@ -23034,7 +23017,7 @@
     "name": "18 LILLIAN ROAD RIVERWOOD 2210",
     "locID": "LOC000176338123",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784468"
    }
   },
@@ -23051,7 +23034,7 @@
     "name": "UNIT 6, 4-6 WIGGS ROAD RIVERWOOD 2210",
     "locID": "LOC000037073249",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784516"
    }
   },
@@ -23068,7 +23051,7 @@
     "name": "4-6 WIGGS ROAD RIVERWOOD 2210",
     "locID": "LOC000037073249",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705784517"
    }
   },
@@ -23374,7 +23357,7 @@
     "name": "UNIT 1, 71 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000051928393",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705787117"
    }
   },
@@ -23391,7 +23374,7 @@
     "name": "UNIT 2, 71 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000052340924",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705787118"
    }
   },
@@ -23408,7 +23391,7 @@
     "name": "UNIT 3, 71 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000052168576",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705787119"
    }
   },
@@ -23425,7 +23408,7 @@
     "name": "71 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000052340924",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705787120"
    }
   },
@@ -24054,7 +24037,7 @@
     "name": "UNIT 4, 10 HARDWICKE STREET RIVERWOOD 2210",
     "locID": "LOC000086585109",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705787500"
    }
   },
@@ -24309,7 +24292,7 @@
     "name": "16 BASIL STREET RIVERWOOD 2210",
     "locID": "LOC000086992553",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705787516"
    }
   },
@@ -25057,7 +25040,7 @@
     "name": "UNIT 4, 71 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000081212555",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705790745"
    }
   },
@@ -25074,7 +25057,7 @@
     "name": "UNIT 5, 71 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000081835649",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705790746"
    }
   },
@@ -25091,7 +25074,7 @@
     "name": "71 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000081020961",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705790747"
    }
   },
@@ -25363,7 +25346,7 @@
     "name": "33 HARDY AVENUE RIVERWOOD 2210",
     "locID": "LOC000059575673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705790763"
    }
   },
@@ -25975,7 +25958,7 @@
     "name": "39 SKINNER AVENUE RIVERWOOD 2210",
     "locID": "LOC000160372696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705790800"
    }
   },
@@ -26468,7 +26451,7 @@
     "name": "292 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000087801057",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705793755"
    }
   },
@@ -26553,7 +26536,7 @@
     "name": "299 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000115347179",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705793760"
    }
   },
@@ -26723,7 +26706,7 @@
     "name": "26 TALBOT STREET RIVERWOOD 2210",
     "locID": "LOC000035502233",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705793773"
    }
   },
@@ -30446,7 +30429,7 @@
     "name": "321 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000019858723",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705800740"
    }
   },
@@ -30463,7 +30446,7 @@
     "name": "323 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000029551139",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705800741"
    }
   },
@@ -30497,7 +30480,7 @@
     "name": "329 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000014126792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705800743"
    }
   },
@@ -31262,7 +31245,7 @@
     "name": "VILLA 1, 67-69 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801022"
    }
   },
@@ -31279,7 +31262,7 @@
     "name": "VILLA 2, 67-69 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801023"
    }
   },
@@ -31296,7 +31279,7 @@
     "name": "VILLA 3, 67-69 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801024"
    }
   },
@@ -31313,7 +31296,7 @@
     "name": "VILLA 4, 67-69 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801025"
    }
   },
@@ -31330,7 +31313,7 @@
     "name": "VILLA 5, 67-69 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801026"
    }
   },
@@ -31347,7 +31330,7 @@
     "name": "VILLA 6, 67-69 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801027"
    }
   },
@@ -31381,7 +31364,7 @@
     "name": "UNIT 1, 71 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000081020961",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801030"
    }
   },
@@ -31398,7 +31381,7 @@
     "name": "UNIT 2, 71 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000081548780",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801031"
    }
   },
@@ -31415,7 +31398,7 @@
     "name": "UNIT 3, 71 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000081600179",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801032"
    }
   },
@@ -31466,7 +31449,7 @@
     "name": "UNIT 1, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000023723981",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801035"
    }
   },
@@ -31483,7 +31466,7 @@
     "name": "UNIT 2, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000023747066",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801036"
    }
   },
@@ -31500,7 +31483,7 @@
     "name": "UNIT 3, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000023890071",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801037"
    }
   },
@@ -31517,7 +31500,7 @@
     "name": "UNIT 4, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000024080625",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801038"
    }
   },
@@ -31534,7 +31517,7 @@
     "name": "UNIT 5, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000024232524",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801039"
    }
   },
@@ -31551,7 +31534,7 @@
     "name": "UNIT 6, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000023928710",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801040"
    }
   },
@@ -31568,7 +31551,7 @@
     "name": "UNIT 7, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000024134417",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801041"
    }
   },
@@ -31585,7 +31568,7 @@
     "name": "UNIT 8, 20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000024160640",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705801042"
    }
   },
@@ -33336,7 +33319,7 @@
     "name": "335 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000019337689",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705803941"
    }
   },
@@ -33353,7 +33336,7 @@
     "name": "337 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000088143130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705803942"
    }
   },
@@ -33370,7 +33353,7 @@
     "name": "339 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000111963914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705803943"
    }
   },
@@ -33387,7 +33370,7 @@
     "name": "341 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000111821193",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705803944"
    }
   },
@@ -34169,7 +34152,7 @@
     "name": "301 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000078979152",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804038"
    }
   },
@@ -34186,7 +34169,7 @@
     "name": "303 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000041965173",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804039"
    }
   },
@@ -34458,7 +34441,7 @@
     "name": "56 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000033883127",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804059"
    }
   },
@@ -34610,8 +34593,8 @@
    "properties": {
     "name": "62A ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000039843950",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705804068"
    }
   },
@@ -34662,7 +34645,7 @@
     "name": "1 LUPIN AVENUE RIVERWOOD 2210",
     "locID": "LOC000020478131",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804072"
    }
   },
@@ -34730,7 +34713,7 @@
     "name": "14 LUPIN AVENUE RIVERWOOD 2210",
     "locID": "LOC000020648549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804076"
    }
   },
@@ -34747,7 +34730,7 @@
     "name": "16 LUPIN AVENUE RIVERWOOD 2210",
     "locID": "LOC000003812168",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804077"
    }
   },
@@ -35121,7 +35104,7 @@
     "name": "27 NAPOLEON STREET RIVERWOOD 2210",
     "locID": "LOC100066224104",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804101"
    }
   },
@@ -35240,7 +35223,7 @@
     "name": "47 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000066417734",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804116"
    }
   },
@@ -35818,7 +35801,7 @@
     "name": "UNIT 7, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010494519",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804925"
    }
   },
@@ -35835,7 +35818,7 @@
     "name": "UNIT 8, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010533319",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804926"
    }
   },
@@ -35852,7 +35835,7 @@
     "name": "UNIT 9, 30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010958032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705804927"
    }
   },
@@ -36379,7 +36362,7 @@
     "name": "241 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000064742079",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705808486"
    }
   },
@@ -36413,7 +36396,7 @@
     "name": "256 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000022296149",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705808489"
    }
   },
@@ -36532,7 +36515,7 @@
     "name": "266 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000075698009",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705808496"
    }
   },
@@ -36583,7 +36566,7 @@
     "name": "270 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000033285539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705808499"
    }
   },
@@ -36719,7 +36702,7 @@
     "name": "282 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000010073394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705808508"
    }
   },
@@ -36753,7 +36736,7 @@
     "name": "284 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000070004488",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705808510"
    }
   },
@@ -36787,7 +36770,7 @@
     "name": "11 COORABIN PLACE RIVERWOOD 2210",
     "locID": "LOC000072278057",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705808512"
    }
   },
@@ -37738,8 +37721,8 @@
    "properties": {
     "name": "57A SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000066648074",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705808654"
    }
   },
@@ -38113,7 +38096,7 @@
     "name": "15 RUSSELL STREET RIVERWOOD 2210",
     "locID": "LOC000052512114",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705811870"
    }
   },
@@ -39116,7 +39099,7 @@
     "name": "242-252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000160371997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705818760"
    }
   },
@@ -39149,8 +39132,8 @@
    "properties": {
     "name": "244 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000053552211",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705818763"
    }
   },
@@ -39745,7 +39728,7 @@
     "name": "UNIT 1, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000108537594",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822745"
    }
   },
@@ -39762,7 +39745,7 @@
     "name": "UNIT 2, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000107835126",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822746"
    }
   },
@@ -39779,7 +39762,7 @@
     "name": "UNIT 3, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000108349587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822747"
    }
   },
@@ -39796,7 +39779,7 @@
     "name": "UNIT 4, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000108413279",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822748"
    }
   },
@@ -39813,7 +39796,7 @@
     "name": "UNIT 5, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000109083679",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822749"
    }
   },
@@ -39830,7 +39813,7 @@
     "name": "UNIT 6, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000108431952",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822750"
    }
   },
@@ -39847,7 +39830,7 @@
     "name": "UNIT 7, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000108402876",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822751"
    }
   },
@@ -39864,7 +39847,7 @@
     "name": "UNIT 8, 13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000108591673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822752"
    }
   },
@@ -40017,7 +40000,7 @@
     "name": "54 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC000017175419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705829261"
    }
   },
@@ -40237,8 +40220,8 @@
    "properties": {
     "name": "40 KILLARA AVENUE RIVERWOOD 2210",
     "locID": "LOC000026429828",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705832456"
    }
   },
@@ -40289,7 +40272,7 @@
     "name": "43 KILLARA AVENUE RIVERWOOD 2210",
     "locID": "LOC000014134714",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705832459"
    }
   },
@@ -40390,8 +40373,8 @@
    "properties": {
     "name": "49 KILLARA AVENUE RIVERWOOD 2210",
     "locID": "LOC000102780404",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705832465"
    }
   },
@@ -40629,7 +40612,7 @@
     "name": "6 LEEDHAM PLACE RIVERWOOD 2210",
     "locID": "LOC000066491220",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705833036"
    }
   },
@@ -41700,7 +41683,7 @@
     "name": "3 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000065303058",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842817"
    }
   },
@@ -41768,7 +41751,7 @@
     "name": "33 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000024519879",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842821"
    }
   },
@@ -41802,7 +41785,7 @@
     "name": "35 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000064681822",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842823"
    }
   },
@@ -42006,7 +41989,7 @@
     "name": "UNIT 1, 41 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000055842728",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842836"
    }
   },
@@ -42023,7 +42006,7 @@
     "name": "UNIT 2, 41 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000056150552",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842837"
    }
   },
@@ -42040,7 +42023,7 @@
     "name": "UNIT 3, 41 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000056083250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842838"
    }
   },
@@ -42057,7 +42040,7 @@
     "name": "41 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000056083250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842839"
    }
   },
@@ -42125,7 +42108,7 @@
     "name": "14 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000091546436",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705842843"
    }
   },
@@ -42635,7 +42618,7 @@
     "name": "2 JINDALEE PLACE RIVERWOOD 2210",
     "locID": "LOC000094872349",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705853072"
    }
   },
@@ -42652,7 +42635,7 @@
     "name": "3 JINDALEE PLACE RIVERWOOD 2210",
     "locID": "LOC000099673031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705853073"
    }
   },
@@ -43638,7 +43621,7 @@
     "name": "289 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000007206240",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706458146"
    }
   },
@@ -44334,8 +44317,8 @@
    "properties": {
     "name": "27 MUNMURRA ROAD RIVERWOOD 2210",
     "locID": "LOC000084228013",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706488613"
    }
   },
@@ -44641,7 +44624,7 @@
     "name": "13 LARKIN STREET RIVERWOOD 2210",
     "locID": "LOC000164201076",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707637140"
    }
   },
@@ -44845,7 +44828,7 @@
     "name": "UNIT 1, 289 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000007307574",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708348805"
    }
   },
@@ -45185,7 +45168,7 @@
     "name": "UNIT 1, 337 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000088406601",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708353205"
    }
   },
@@ -45253,7 +45236,7 @@
     "name": "UNIT 1, 18 LILLIAN ROAD RIVERWOOD 2210",
     "locID": "LOC000176338123",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708355109"
    }
   },
@@ -45338,7 +45321,7 @@
     "name": "UNIT 1, 323 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000029551139",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708355858"
    }
   },
@@ -45355,7 +45338,7 @@
     "name": "SHOP 1, 309 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000056180250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708356008"
    }
   },
@@ -45372,7 +45355,7 @@
     "name": "UNIT 1, 335 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000019301938",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708356932"
    }
   },
@@ -45457,7 +45440,7 @@
     "name": "UNIT 1, 301 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000078979152",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708357630"
    }
   },
@@ -45542,7 +45525,7 @@
     "name": "UNIT 1, 319 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000031233610",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708359135"
    }
   },
@@ -45729,7 +45712,7 @@
     "name": "2 ARILLA AVENUE RIVERWOOD 2210",
     "locID": "LOC000004588592",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710024365"
    }
   },
@@ -46086,7 +46069,7 @@
     "name": "329A BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000013809940",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710061166"
    }
   },
@@ -53549,7 +53532,7 @@
     "name": "UNIT 1, 16 BASIL STREET RIVERWOOD 2210",
     "locID": "LOC000086992553",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711466433"
    }
   },
@@ -53583,7 +53566,7 @@
     "name": "UNIT 4, 16 BASIL STREET RIVERWOOD 2210",
     "locID": "LOC000086805600",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711466440"
    }
   },
@@ -53600,7 +53583,7 @@
     "name": "UNIT 5, 16 BASIL STREET RIVERWOOD 2210",
     "locID": "LOC000086677363",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711466442"
    }
   },
@@ -54229,7 +54212,7 @@
     "name": "UNIT 1, 21 KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000042153296",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711471305"
    }
   },
@@ -54246,7 +54229,7 @@
     "name": "UNIT 2, 21 KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000042153296",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711471306"
    }
   },
@@ -54518,7 +54501,7 @@
     "name": "UNIT 1, 11 COORABIN PLACE RIVERWOOD 2210",
     "locID": "LOC000072407497",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711475067"
    }
   },
@@ -54535,7 +54518,7 @@
     "name": "UNIT 4, 6 LEEDHAM PLACE RIVERWOOD 2210",
     "locID": "LOC000066548512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711475083"
    }
   },
@@ -58207,7 +58190,7 @@
     "name": "UNIT 3, 16 BASIL STREET RIVERWOOD 2210",
     "locID": "LOC000086875125",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711479118"
    }
   },
@@ -58224,7 +58207,7 @@
     "name": "UNIT 6, 16 BASIL STREET RIVERWOOD 2210",
     "locID": "LOC000086992771",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711479119"
    }
   },
@@ -58241,7 +58224,7 @@
     "name": "UNIT 2, 16 BASIL STREET RIVERWOOD 2210",
     "locID": "LOC000086992553",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711479120"
    }
   },
@@ -58309,7 +58292,7 @@
     "name": "UNIT 2, 29 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000079903662",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711479153"
    }
   },
@@ -58428,7 +58411,7 @@
     "name": "UNIT 3, 6 LEEDHAM PLACE RIVERWOOD 2210",
     "locID": "LOC000066491220",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711479418"
    }
   },
@@ -61505,7 +61488,7 @@
     "name": "UNIT 3, 19 SHORT ROAD RIVERWOOD 2210",
     "locID": "LOC000176386135",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711480403"
    }
   },
@@ -62389,7 +62372,7 @@
     "name": "UNIT 1, 98 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000059419876",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711483486"
    }
   },
@@ -64242,7 +64225,7 @@
     "name": "17 ERSKINE STREET RIVERWOOD 2210",
     "locID": "LOC000088725749",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711484389"
    }
   },
@@ -64718,7 +64701,7 @@
     "name": "26 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC000016566640",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711484800"
    }
   },
@@ -64990,7 +64973,7 @@
     "name": "UNIT 5, 6 LEEDHAM PLACE RIVERWOOD 2210",
     "locID": "LOC000066223986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711485228"
    }
   },
@@ -65007,7 +64990,7 @@
     "name": "UNIT 1, 6 LEEDHAM PLACE RIVERWOOD 2210",
     "locID": "LOC000066491220",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711485229"
    }
   },
@@ -65024,7 +65007,7 @@
     "name": "UNIT 2, 6 LEEDHAM PLACE RIVERWOOD 2210",
     "locID": "LOC000066491220",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711485230"
    }
   },
@@ -65109,7 +65092,7 @@
     "name": "UNIT 1, 50-52 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC000120506389",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711485463"
    }
   },
@@ -65126,7 +65109,7 @@
     "name": "UNIT 3, 50-52 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC000120506389",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711485464"
    }
   },
@@ -65143,7 +65126,7 @@
     "name": "UNIT 1, 54 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC000017036478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711485465"
    }
   },
@@ -65160,7 +65143,7 @@
     "name": "UNIT 2, 54 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC000017556428",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711485466"
    }
   },
@@ -65177,7 +65160,7 @@
     "name": "UNIT 1, 59 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000077783306",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711486122"
    }
   },
@@ -65194,7 +65177,7 @@
     "name": "UNIT 2, 59 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000076128328",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711486123"
    }
   },
@@ -65296,7 +65279,7 @@
     "name": "UNIT 2, 98 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000059576968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711486129"
    }
   },
@@ -65857,7 +65840,7 @@
     "name": "UNIT 1, 2 JINDALEE PLACE RIVERWOOD 2210",
     "locID": "LOC000095474731",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711492491"
    }
   },
@@ -66146,7 +66129,7 @@
     "name": "UNIT 1, 20 ROMILLY STREET RIVERWOOD 2210",
     "locID": "LOC000079932854",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711493942"
    }
   },
@@ -66163,7 +66146,7 @@
     "name": "UNIT 1, 28 ROMILLY STREET RIVERWOOD 2210",
     "locID": "LOC000049706179",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711493949"
    }
   },
@@ -66248,7 +66231,7 @@
     "name": "UNIT 3, 3 JINDALEE PLACE RIVERWOOD 2210",
     "locID": "LOC000099673031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711496805"
    }
   },
@@ -66265,7 +66248,7 @@
     "name": "UNIT 2, 2 JINDALEE PLACE RIVERWOOD 2210",
     "locID": "LOC000094872349",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711496813"
    }
   },
@@ -66282,7 +66265,7 @@
     "name": "UNIT 1, 3 JINDALEE PLACE RIVERWOOD 2210",
     "locID": "LOC000099673031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711496814"
    }
   },
@@ -66299,7 +66282,7 @@
     "name": "UNIT 2, 3 JINDALEE PLACE RIVERWOOD 2210",
     "locID": "LOC000099673031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711496815"
    }
   },
@@ -66401,7 +66384,7 @@
     "name": "UNIT 2, 20 ROMILLY STREET RIVERWOOD 2210",
     "locID": "LOC000079932854",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711498952"
    }
   },
@@ -69121,7 +69104,7 @@
     "name": "2A ARILLA AVENUE RIVERWOOD 2210",
     "locID": "LOC000005111808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713129873"
    }
   },
@@ -69291,7 +69274,7 @@
     "name": "UNIT 2, 50-52 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC100066638813",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713142533"
    }
   },
@@ -69597,7 +69580,7 @@
     "name": "UNIT 1, 33 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000024826926",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713170854"
    }
   },
@@ -70413,7 +70396,7 @@
     "name": "1 COLERIDGE STREET RIVERWOOD 2210",
     "locID": "LOC000183261791",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715601072"
    }
   },
@@ -70430,7 +70413,7 @@
     "name": "UNIT 1, 33 HARDY AVENUE RIVERWOOD 2210",
     "locID": "LOC000059575673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715616900"
    }
   },
@@ -70447,7 +70430,7 @@
     "name": "UNIT 2, 33 HARDY AVENUE RIVERWOOD 2210",
     "locID": "LOC000059575673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715616901"
    }
   },
@@ -70464,7 +70447,7 @@
     "name": "UNIT 3, 33 HARDY AVENUE RIVERWOOD 2210",
     "locID": "LOC000059575673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715616902"
    }
   },
@@ -70481,7 +70464,7 @@
     "name": "UNIT 4, 33 HARDY AVENUE RIVERWOOD 2210",
     "locID": "LOC000059575673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715616903"
    }
   },
@@ -70753,7 +70736,7 @@
     "name": "VILLA 4, 4 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000101748269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716433243"
    }
   },
@@ -71008,7 +70991,7 @@
     "name": "UNIT 1, 26 TALBOT STREET RIVERWOOD 2210",
     "locID": "LOC000034961652",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716451183"
    }
   },
@@ -71025,7 +71008,7 @@
     "name": "UNIT 2, 26 TALBOT STREET RIVERWOOD 2210",
     "locID": "LOC000035502233",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716451185"
    }
   },
@@ -71042,7 +71025,7 @@
     "name": "UNIT 3, 26 TALBOT STREET RIVERWOOD 2210",
     "locID": "LOC000035417220",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716451187"
    }
   },
@@ -71059,7 +71042,7 @@
     "name": "VILLA 1, 19 IRIS AVENUE RIVERWOOD 2210",
     "locID": "LOC000002284526",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716480756"
    }
   },
@@ -71076,7 +71059,7 @@
     "name": "VILLA 2, 21 IRIS AVENUE RIVERWOOD 2210",
     "locID": "LOC000077266097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716480757"
    }
   },
@@ -71093,7 +71076,7 @@
     "name": "VILLA 1, 16 LUPIN AVENUE RIVERWOOD 2210",
     "locID": "LOC000003812168",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716482442"
    }
   },
@@ -71110,7 +71093,7 @@
     "name": "VILLA 2, 14 LUPIN AVENUE RIVERWOOD 2210",
     "locID": "LOC000020648549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716482443"
    }
   },
@@ -71722,7 +71705,7 @@
     "name": "VILLA 2, 19 IRIS AVENUE RIVERWOOD 2210",
     "locID": "LOC000002362299",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716633149"
    }
   },
@@ -71739,7 +71722,7 @@
     "name": "VILLA 1, 14 LUPIN AVENUE RIVERWOOD 2210",
     "locID": "LOC000020478131",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716635398"
    }
   },
@@ -71756,7 +71739,7 @@
     "name": "VILLA 2, 16 LUPIN AVENUE RIVERWOOD 2210",
     "locID": "LOC000003812168",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716635399"
    }
   },
@@ -71807,7 +71790,7 @@
     "name": "VILLA 1, 21 IRIS AVENUE RIVERWOOD 2210",
     "locID": "LOC000077266097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716667080"
    }
   },
@@ -73048,7 +73031,7 @@
     "name": "50 THURLOW STREET RIVERWOOD 2210",
     "locID": "LOC000120506389",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716835480"
    }
   },
@@ -75309,7 +75292,7 @@
     "name": "UNIT 1, 154 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC100066207480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281166"
    }
   },
@@ -75326,7 +75309,7 @@
     "name": "UNIT 1, 174 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000060355135",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281167"
    }
   },
@@ -75343,7 +75326,7 @@
     "name": "UNIT 1, 202 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000021432385",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281168"
    }
   },
@@ -75360,7 +75343,7 @@
     "name": "UNIT 1, 204 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000047673641",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281169"
    }
   },
@@ -75377,7 +75360,7 @@
     "name": "UNIT 1, 210 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000086141661",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281170"
    }
   },
@@ -75513,7 +75496,7 @@
     "name": "UNIT 1, 241 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000062737320",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281179"
    }
   },
@@ -75581,7 +75564,7 @@
     "name": "UNIT 1, 266 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000072625817",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281183"
    }
   },
@@ -75598,7 +75581,7 @@
     "name": "UNIT 1, 270 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000033048346",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281184"
    }
   },
@@ -75615,7 +75598,7 @@
     "name": "UNIT 1, 282 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000010073394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281186"
    }
   },
@@ -75632,7 +75615,7 @@
     "name": "UNIT 1, 286 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000031813720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281187"
    }
   },
@@ -75649,7 +75632,7 @@
     "name": "UNIT 1, 292 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000089634219",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281188"
    }
   },
@@ -75683,7 +75666,7 @@
     "name": "UNIT 2, 284 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000070004488",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281192"
    }
   },
@@ -75700,7 +75683,7 @@
     "name": "UNIT 2, 286 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000031813720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281193"
    }
   },
@@ -75802,7 +75785,7 @@
     "name": "168 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000071323124",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281201"
    }
   },
@@ -76057,7 +76040,7 @@
     "name": "256B BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000022196247",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281219"
    }
   },
@@ -76142,7 +76125,7 @@
     "name": "278 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000176338110",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717281225"
    }
   },
@@ -76363,7 +76346,7 @@
     "name": "UNIT 1, 160 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000079735771",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293302"
    }
   },
@@ -76397,7 +76380,7 @@
     "name": "UNIT 1, 208 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000062881094",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293304"
    }
   },
@@ -76499,7 +76482,7 @@
     "name": "UNIT 1, 278-280 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000176338110",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293311"
    }
   },
@@ -76533,7 +76516,7 @@
     "name": "VILLA 1, 299 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000115347179",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293313"
    }
   },
@@ -76550,7 +76533,7 @@
     "name": "SHOP 1, 303 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000041965173",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293314"
    }
   },
@@ -76618,7 +76601,7 @@
     "name": "UNIT 1, 329 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000014126792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293318"
    }
   },
@@ -76635,7 +76618,7 @@
     "name": "UNIT 1, 339 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000020920918",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293319"
    }
   },
@@ -76652,7 +76635,7 @@
     "name": "UNIT 1, 343 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000087880494",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293320"
    }
   },
@@ -76669,7 +76652,7 @@
     "name": "UNIT 1, 345 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000063835181",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293321"
    }
   },
@@ -76975,7 +76958,7 @@
     "name": "UNIT 2, 278-280 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000017827095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293348"
    }
   },
@@ -77213,7 +77196,7 @@
     "name": "UNIT 3, 278-280 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000017827095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293367"
    }
   },
@@ -77451,7 +77434,7 @@
     "name": "UNIT 4, 278-280 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000176338110",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293381"
    }
   },
@@ -77621,7 +77604,7 @@
     "name": "174A BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000061299968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293401"
    }
   },
@@ -77689,7 +77672,7 @@
     "name": "246 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000070633627",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293408"
    }
   },
@@ -77706,7 +77689,7 @@
     "name": "248 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000038101159",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293410"
    }
   },
@@ -77723,7 +77706,7 @@
     "name": "250 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000021490314",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293412"
    }
   },
@@ -77740,7 +77723,7 @@
     "name": "252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000048430460",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293414"
    }
   },
@@ -77808,7 +77791,7 @@
     "name": "286 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000031594118",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293425"
    }
   },
@@ -77859,7 +77842,7 @@
     "name": "345 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000063835181",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717293430"
    }
   },
@@ -79066,7 +79049,7 @@
     "name": "SHOP 1, 240 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000039729064",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717590970"
    }
   },
@@ -79746,7 +79729,7 @@
     "name": "UNIT 1, 284 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000070004488",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717666631"
    }
   },
@@ -79763,7 +79746,7 @@
     "name": "SHOP 2, 282 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000010073394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717666633"
    }
   },
@@ -80426,7 +80409,7 @@
     "name": "UNIT 1, 16 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000160367464",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691101"
    }
   },
@@ -80443,7 +80426,7 @@
     "name": "UNIT 2, 16 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000160367455",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691102"
    }
   },
@@ -80460,7 +80443,7 @@
     "name": "UNIT 3, 16 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000160367464",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691103"
    }
   },
@@ -80494,7 +80477,7 @@
     "name": "UNIT 1, 242-252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000160371997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691233"
    }
   },
@@ -80528,7 +80511,7 @@
     "name": "UNIT 2, 242-252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000160371997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691235"
    }
   },
@@ -80562,7 +80545,7 @@
     "name": "UNIT 3, 242-252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000160371997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691237"
    }
   },
@@ -80596,7 +80579,7 @@
     "name": "UNIT 4, 242-252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000160371997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691239"
    }
   },
@@ -80630,7 +80613,7 @@
     "name": "UNIT 5, 242-252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000160371997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691241"
    }
   },
@@ -80664,7 +80647,7 @@
     "name": "UNIT 6, 242-252 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000160371997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691243"
    }
   },
@@ -81463,7 +81446,7 @@
     "name": "30A KEATS AVENUE RIVERWOOD 2210",
     "locID": "LOC000010958032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717705376"
    }
   },
@@ -81480,7 +81463,7 @@
     "name": "UNIT 3, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505962",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717709078"
    }
   },
@@ -81769,7 +81752,7 @@
     "name": "20-22 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000023747066",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717740409"
    }
   },
@@ -81888,7 +81871,7 @@
     "name": "11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505915",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717747161"
    }
   },
@@ -84574,7 +84557,7 @@
     "name": "1 BERNADOTTE STREET RIVERWOOD 2210",
     "locID": "LOC000061275395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717886829"
    }
   },
@@ -84675,8 +84658,8 @@
    "properties": {
     "name": "8 BERNADOTTE STREET RIVERWOOD 2210",
     "locID": "LOC000004744327",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717886835"
    }
   },
@@ -85152,7 +85135,7 @@
     "name": "UNIT 10, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505904",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958816"
    }
   },
@@ -85169,7 +85152,7 @@
     "name": "UNIT 11, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505915",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958817"
    }
   },
@@ -85186,7 +85169,7 @@
     "name": "UNIT 12, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505927",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958818"
    }
   },
@@ -85203,7 +85186,7 @@
     "name": "UNIT 13, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505936",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958819"
    }
   },
@@ -85220,7 +85203,7 @@
     "name": "UNIT 14, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505943",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958820"
    }
   },
@@ -85237,7 +85220,7 @@
     "name": "UNIT 1, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505915",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958821"
    }
   },
@@ -85254,7 +85237,7 @@
     "name": "UNIT 2, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505915",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958822"
    }
   },
@@ -85271,7 +85254,7 @@
     "name": "UNIT 4, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958823"
    }
   },
@@ -85288,7 +85271,7 @@
     "name": "UNIT 5, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958824"
    }
   },
@@ -85305,7 +85288,7 @@
     "name": "UNIT 6, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120505991",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958825"
    }
   },
@@ -85322,7 +85305,7 @@
     "name": "UNIT 7, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120506009",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958826"
    }
   },
@@ -85339,7 +85322,7 @@
     "name": "UNIT 8, 11 MARY STREET RIVERWOOD 2210",
     "locID": "LOC000120506013",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958827"
    }
   },
@@ -85713,7 +85696,7 @@
     "name": "UNIT 14, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041719"
    }
   },
@@ -85730,7 +85713,7 @@
     "name": "UNIT 15, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041720"
    }
   },
@@ -85747,7 +85730,7 @@
     "name": "UNIT 16, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041721"
    }
   },
@@ -85764,7 +85747,7 @@
     "name": "UNIT 17, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041722"
    }
   },
@@ -85781,7 +85764,7 @@
     "name": "UNIT 18, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041723"
    }
   },
@@ -85798,7 +85781,7 @@
     "name": "UNIT 19, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041724"
    }
   },
@@ -85815,7 +85798,7 @@
     "name": "UNIT 20, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041725"
    }
   },
@@ -85832,7 +85815,7 @@
     "name": "UNIT 21, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041726"
    }
   },
@@ -85849,7 +85832,7 @@
     "name": "UNIT 22, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041727"
    }
   },
@@ -85866,7 +85849,7 @@
     "name": "UNIT 23, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041728"
    }
   },
@@ -85883,7 +85866,7 @@
     "name": "UNIT 24, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041729"
    }
   },
@@ -85900,7 +85883,7 @@
     "name": "UNIT 25, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718041730"
    }
   },
@@ -85934,7 +85917,7 @@
     "name": "UNIT 13, 104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718049317"
    }
   },
@@ -85951,7 +85934,7 @@
     "name": "104 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000175542380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718049318"
    }
   },
@@ -85985,7 +85968,7 @@
     "name": "2-2A ARILLA AVENUE RIVERWOOD 2210",
     "locID": "LOC000005111808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718064115"
    }
   },
@@ -86155,7 +86138,7 @@
     "name": "128-130 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000164198588",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718065192"
    }
   },
@@ -86563,7 +86546,7 @@
     "name": "14-18 SKINNER AVENUE RIVERWOOD 2210",
     "locID": "LOC000164202071",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718076399"
    }
   },
@@ -87209,7 +87192,7 @@
     "name": "UNIT 1, 216 BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000111027776",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718084840"
    }
   },
@@ -88178,7 +88161,7 @@
     "name": "25 MONA ROAD RIVERWOOD 2210",
     "locID": "LOC000110895614",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718103431"
    }
   },
@@ -88297,7 +88280,7 @@
     "name": "9 MONA ROAD RIVERWOOD 2210",
     "locID": "LOC000113678087",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718103438"
    }
   },
@@ -90184,7 +90167,7 @@
     "name": "69 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718139422"
    }
   },
@@ -90473,7 +90456,7 @@
     "name": "UNIT 3A, 66 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000183641480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718176821"
    }
   },
@@ -90541,7 +90524,7 @@
     "name": "UNIT 1, 128-130 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000164198588",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718186973"
    }
   },
@@ -90558,7 +90541,7 @@
     "name": "UNIT 2, 128-130 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000164198588",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718186974"
    }
   },
@@ -90575,7 +90558,7 @@
     "name": "UNIT 3, 128-130 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000164198588",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718186975"
    }
   },
@@ -90592,7 +90575,7 @@
     "name": "UNIT 4, 128-130 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000164198588",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718186976"
    }
   },
@@ -90711,7 +90694,7 @@
     "name": "UNIT 1, 138 BROADARROW ROAD RIVERWOOD 2210",
     "locID": "LOC000120493479",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718187693"
    }
   },
@@ -90796,7 +90779,7 @@
     "name": "UNIT 2, 138 BROADARROW ROAD RIVERWOOD 2210",
     "locID": "LOC000120493498",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718187699"
    }
   },
@@ -90881,7 +90864,7 @@
     "name": "UNIT 3, 138 BROADARROW ROAD RIVERWOOD 2210",
     "locID": "LOC000120493498",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718187705"
    }
   },
@@ -91374,7 +91357,7 @@
     "name": "138 BROADARROW ROAD RIVERWOOD 2210",
     "locID": "LOC000120493498",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718187738"
    }
   },
@@ -91968,8 +91951,8 @@
    "properties": {
     "name": "200 BROADARROW ROAD RIVERWOOD 2210",
     "locID": "LOC000115342539",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718187780"
    }
   },
@@ -92292,7 +92275,7 @@
     "name": "UNIT 1, 19A SHORT ROAD RIVERWOOD 2210",
     "locID": "LOC000010399873",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718205746"
    }
   },
@@ -93821,8 +93804,8 @@
    "properties": {
     "name": "7 PENNSYLVANIA ROAD RIVERWOOD 2210",
     "locID": "LOC000120511648",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718268160"
    }
   },
@@ -93992,7 +93975,7 @@
     "name": "37 SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000035679369",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718423524"
    }
   },
@@ -94179,7 +94162,7 @@
     "name": "UNIT 5, 24 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000037386799",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718512951"
    }
   },
@@ -94196,7 +94179,7 @@
     "name": "UNIT 1, 329A BELMORE ROAD RIVERWOOD 2210",
     "locID": "LOC000013809940",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718512956"
    }
   },
@@ -94740,7 +94723,7 @@
     "name": "67 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000033595549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718642435"
    }
   },
@@ -94893,7 +94876,7 @@
     "name": "53B SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000160377525",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718649300"
    }
   },
@@ -95029,7 +95012,7 @@
     "name": "UNIT 1, 39 SKINNER AVENUE RIVERWOOD 2210",
     "locID": "LOC000160372696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718668015"
    }
   },
@@ -95046,7 +95029,7 @@
     "name": "UNIT 2, 39 SKINNER AVENUE RIVERWOOD 2210",
     "locID": "LOC000160372696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718668016"
    }
   },
@@ -97528,7 +97511,7 @@
     "name": "VILLA 1, 53B SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000160377525",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718773414"
    }
   },
@@ -97545,7 +97528,7 @@
     "name": "UNIT 2, 53B SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000160377539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718782761"
    }
   },
@@ -97562,7 +97545,7 @@
     "name": "UNIT 3, 53B SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000160377541",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718782762"
    }
   },
@@ -97630,7 +97613,7 @@
     "name": "UNIT 6, 24 BELGIUM STREET RIVERWOOD 2210",
     "locID": "LOC000160373561",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718798171"
    }
   },
@@ -106419,7 +106402,7 @@
     "name": "UNIT 5, 63 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000176385812",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719235242"
    }
   },
@@ -106436,7 +106419,7 @@
     "name": "UNIT 3, 63 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000176385798",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719235243"
    }
   },
@@ -106487,7 +106470,7 @@
     "name": "UNIT 2, 63 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000176385808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719237814"
    }
   },
@@ -106589,7 +106572,7 @@
     "name": "UNIT 1, 63 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000176385779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719240296"
    }
   },
@@ -106606,7 +106589,7 @@
     "name": "UNIT 4, 63 CAIRNS STREET RIVERWOOD 2210",
     "locID": "LOC000176385808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719240297"
    }
   },
@@ -106844,7 +106827,7 @@
     "name": "69A HANNANS ROAD RIVERWOOD 2210",
     "locID": "LOC000181916760",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719591411"
    }
   },
@@ -110056,8 +110039,8 @@
    "properties": {
     "name": "28A WEEMALA AVENUE RIVERWOOD 2210",
     "locID": "LOC000176385999",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719693798"
    }
   },
@@ -112471,7 +112454,7 @@
     "name": "13A HANNANS ROAD RIVERWOOD 2210",
     "locID": "LOC000182088544",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719738440"
    }
   },
@@ -112981,7 +112964,7 @@
     "name": "35A SHENSTONE ROAD RIVERWOOD 2210",
     "locID": "LOC000176385952",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719840335"
    }
   },
@@ -114426,7 +114409,7 @@
     "name": "UNIT 1, 33 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000120497928",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719887713"
    }
   },
@@ -115139,7 +115122,7 @@
    "properties": {
     "name": "40A LILLIAN ROAD RIVERWOOD 2210",
     "locID": "LOC000193135440",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720147139"
    }
@@ -118438,7 +118421,7 @@
     "name": "UNIT 3, 51 ELDON STREET RIVERWOOD 2210",
     "locID": "LOC000184991850",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW721055855"
    }
   },
