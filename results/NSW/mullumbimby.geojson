@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-29T16:26:19.284639",
+ "generated": "2023-08-07T13:34:57.302282",
  "suburb": "MULLUMBIMBY",
  "features": [
   {
@@ -1886,7 +1886,7 @@
     "name": "132 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000169134125",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705454644"
    }
   },
@@ -2107,7 +2107,7 @@
     "name": "44 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000101607892",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705456263"
    }
   },
@@ -2668,7 +2668,7 @@
     "name": "68 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000105218943",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705457213"
    }
   },
@@ -3246,7 +3246,7 @@
     "name": "152 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000101072969",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705457262"
    }
   },
@@ -4130,7 +4130,7 @@
     "name": "60 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000107276428",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705457350"
    }
   },
@@ -4317,7 +4317,7 @@
     "name": "69 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000063518436",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705458873"
    }
   },
@@ -6645,8 +6645,8 @@
    "properties": {
     "name": "7 TINCOGAN STREET MULLUMBIMBY 2482",
     "locID": "LOC000049999309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705460629"
    }
   },
@@ -6799,7 +6799,7 @@
     "name": "UNIT 2, 5 TRAIN STREET MULLUMBIMBY 2482",
     "locID": "LOC000084416061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705460638"
    }
   },
@@ -6816,7 +6816,7 @@
     "name": "UNIT 3, 5 TRAIN STREET MULLUMBIMBY 2482",
     "locID": "LOC000084416061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705460639"
    }
   },
@@ -6833,7 +6833,7 @@
     "name": "UNIT 4, 5 TRAIN STREET MULLUMBIMBY 2482",
     "locID": "LOC000084416061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705460640"
    }
   },
@@ -6850,7 +6850,7 @@
     "name": "UNIT 5, 5 TRAIN STREET MULLUMBIMBY 2482",
     "locID": "LOC000084416061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705460641"
    }
   },
@@ -6867,7 +6867,7 @@
     "name": "UNIT 6, 5 TRAIN STREET MULLUMBIMBY 2482",
     "locID": "LOC000084416061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705460642"
    }
   },
@@ -6884,7 +6884,7 @@
     "name": "5 TRAIN STREET MULLUMBIMBY 2482",
     "locID": "LOC000084416061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705460643"
    }
   },
@@ -7105,7 +7105,7 @@
     "name": "22 ANN STREET MULLUMBIMBY 2482",
     "locID": "LOC000097141271",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705461070"
    }
   },
@@ -7496,7 +7496,7 @@
     "name": "32 NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000185061092",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705461093"
    }
   },
@@ -7938,7 +7938,7 @@
     "name": "33 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000047910454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705462115"
    }
   },
@@ -8729,23 +8729,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.51579914,
-     -28.5537925
-    ]
-   },
-   "properties": {
-    "name": "9 SMITH STREET MULLUMBIMBY 2482",
-    "locID": "LOC000185043944",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705462175"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.50321921,
      -28.54829791
     ]
@@ -9145,7 +9128,7 @@
     "name": "10 GORDON STREET MULLUMBIMBY 2482",
     "locID": "LOC000101201807",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705463181"
    }
   },
@@ -10556,7 +10539,7 @@
     "name": "UNIT 1, 48 ANN STREET MULLUMBIMBY 2482",
     "locID": "LOC000064552236",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705463698"
    }
   },
@@ -10573,7 +10556,7 @@
     "name": "UNIT 2, 48 ANN STREET MULLUMBIMBY 2482",
     "locID": "LOC000064552236",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705463699"
    }
   },
@@ -10590,7 +10573,7 @@
     "name": "48 ANN STREET MULLUMBIMBY 2482",
     "locID": "LOC000064552236",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705463700"
    }
   },
@@ -11219,7 +11202,7 @@
     "name": "UNIT 1, 38 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000068468842",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705464766"
    }
   },
@@ -11236,7 +11219,7 @@
     "name": "UNIT 2, 38 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000068676953",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705464767"
    }
   },
@@ -13412,7 +13395,7 @@
     "name": "56 ANN STREET MULLUMBIMBY 2482",
     "locID": "LOC000033992314",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705466305"
    }
   },
@@ -13650,7 +13633,7 @@
     "name": "40 NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000185042954",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705466320"
    }
   },
@@ -13820,7 +13803,7 @@
     "name": "5 NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000023155925",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705466330"
    }
   },
@@ -14194,7 +14177,7 @@
     "name": "18 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000074520421",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705467355"
    }
   },
@@ -14415,7 +14398,7 @@
     "name": "33 STATION STREET MULLUMBIMBY 2482",
     "locID": "LOC000013034121",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705467369"
    }
   },
@@ -14449,7 +14432,7 @@
     "name": "38 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000068676953",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705467377"
    }
   },
@@ -14551,7 +14534,7 @@
     "name": "59 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000121145377",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705467384"
    }
   },
@@ -15673,7 +15656,7 @@
     "name": "49 PRINCE STREET MULLUMBIMBY 2482",
     "locID": "LOC000045486527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705470128"
    }
   },
@@ -17152,7 +17135,7 @@
     "name": "UNIT 3, 18 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000169136734",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708219670"
    }
   },
@@ -17186,7 +17169,7 @@
     "name": "UNIT 3, 60 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000107304981",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708236019"
    }
   },
@@ -17203,7 +17186,7 @@
     "name": "UNIT 1, 18 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000169136734",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708237772"
    }
   },
@@ -17390,7 +17373,7 @@
     "name": "61 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000062114404",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW709753637"
    }
   },
@@ -18138,7 +18121,7 @@
     "name": "31 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000100990151",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW709764677"
    }
   },
@@ -20110,7 +20093,7 @@
     "name": "SHOP 1, 63 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000043855416",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712256045"
    }
   },
@@ -20127,7 +20110,7 @@
     "name": "SHOP 2, 63 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000043610631",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712256046"
    }
   },
@@ -20144,7 +20127,7 @@
     "name": "SHOP 1, 64 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000100198157",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712256047"
    }
   },
@@ -20161,7 +20144,7 @@
     "name": "SHOP 2, 64 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000099846804",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712256048"
    }
   },
@@ -22796,7 +22779,7 @@
     "name": "61 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000121145377",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712329598"
    }
   },
@@ -23816,7 +23799,7 @@
     "name": "UNIT 2, 5 POINCIANA STREET MULLUMBIMBY 2482",
     "locID": "LOC000013252934",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712339115"
    }
   },
@@ -23833,7 +23816,7 @@
     "name": "UNIT 1, 5 POINCIANA STREET MULLUMBIMBY 2482",
     "locID": "LOC000013188171",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712339116"
    }
   },
@@ -24802,7 +24785,7 @@
     "name": "71-77 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000169134950",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712355705"
    }
   },
@@ -24819,7 +24802,7 @@
     "name": "SHOP 1, 44 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000101607892",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712355707"
    }
   },
@@ -25958,7 +25941,7 @@
     "name": "UNIT 1, 49 PRINCE STREET MULLUMBIMBY 2482",
     "locID": "LOC000044915134",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712359422"
    }
   },
@@ -27572,8 +27555,8 @@
    "properties": {
     "name": "14 SMITH STREET MULLUMBIMBY 2482",
     "locID": "LOC000147307364",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTC",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GANSW716094436"
    }
   },
@@ -27692,7 +27675,7 @@
     "name": "13 TOWERS DRIVE MULLUMBIMBY 2482",
     "locID": "LOC000167314946",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716130260"
    }
   },
@@ -27743,7 +27726,7 @@
     "name": "19 TOWERS DRIVE MULLUMBIMBY 2482",
     "locID": "LOC100075705684",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716130263"
    }
   },
@@ -29035,7 +29018,7 @@
     "name": "26 MANNS ROAD MULLUMBIMBY 2482",
     "locID": "LOC000185042782",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717166482"
    }
   },
@@ -29052,7 +29035,7 @@
     "name": "UNIT 2, 32 NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000185061092",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717168256"
    }
   },
@@ -29358,7 +29341,7 @@
     "name": "UNIT 1, 3 JUBILEE AVENUE MULLUMBIMBY 2482",
     "locID": "LOC000069583432",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717465240"
    }
   },
@@ -29375,7 +29358,7 @@
     "name": "UNIT 2, 3 JUBILEE AVENUE MULLUMBIMBY 2482",
     "locID": "LOC000069479406",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717465241"
    }
   },
@@ -30191,7 +30174,7 @@
     "name": "5-21 MORRISON AVENUE MULLUMBIMBY 2482",
     "locID": "LOC000028927986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717466917"
    }
   },
@@ -30293,7 +30276,7 @@
     "name": "UNIT 1, 32 NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000185061092",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717520724"
    }
   },
@@ -30344,7 +30327,7 @@
     "name": "70 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000121147611",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717693812"
    }
   },
@@ -31245,7 +31228,7 @@
     "name": "UNIT 1, 13 TOWERS DRIVE MULLUMBIMBY 2482",
     "locID": "LOC000167314946",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718004328"
    }
   },
@@ -31262,7 +31245,7 @@
     "name": "UNIT 1, 12 BRUNSWICK TERRACE MULLUMBIMBY 2482",
     "locID": "LOC000015026061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718005960"
    }
   },
@@ -31279,7 +31262,7 @@
     "name": "UNIT 2, 12 BRUNSWICK TERRACE MULLUMBIMBY 2482",
     "locID": "LOC000015026061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718005961"
    }
   },
@@ -31704,7 +31687,7 @@
     "name": "56A ANN STREET MULLUMBIMBY 2482",
     "locID": "LOC000111798145",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718165475"
    }
   },
@@ -31942,7 +31925,7 @@
     "name": "UNIT 1, 19 CROWN STREET MULLUMBIMBY 2482",
     "locID": "LOC000121124513",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718167193"
    }
   },
@@ -32095,7 +32078,7 @@
     "name": "65B ARGYLE STREET MULLUMBIMBY 2482",
     "locID": "LOC000063733132",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718185154"
    }
   },
@@ -32452,7 +32435,7 @@
     "name": "59-61 DALLEY STREET MULLUMBIMBY 2482",
     "locID": "LOC000121145377",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718309821"
    }
   },
@@ -32996,7 +32979,7 @@
     "name": "UNIT 2, 19 CROWN STREET MULLUMBIMBY 2482",
     "locID": "LOC000121124513",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718329117"
    }
   },
@@ -33030,7 +33013,7 @@
     "name": "SHOP 1, 71-77 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000169134950",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718375648"
    }
   },
@@ -34135,7 +34118,7 @@
     "name": "10 MANNS ROAD MULLUMBIMBY 2482",
     "locID": "LOC100075769305",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718770631"
    }
   },
@@ -34152,7 +34135,7 @@
     "name": "12 MANNS ROAD MULLUMBIMBY 2482",
     "locID": "LOC000185042619",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718770632"
    }
   },
@@ -34475,7 +34458,7 @@
     "name": "54 ARGYLE STREET MULLUMBIMBY 2482",
     "locID": "LOC100056398719",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718796792"
    }
   },
@@ -35240,7 +35223,7 @@
     "name": "UNIT 1, 132 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000169134125",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718966533"
    }
   },
@@ -35257,7 +35240,7 @@
     "name": "UNIT 2, 132 STUART STREET MULLUMBIMBY 2482",
     "locID": "LOC000169134125",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718966534"
    }
   },
@@ -36259,8 +36242,8 @@
    "properties": {
     "name": "UNIT 4, 14 SMITH STREET MULLUMBIMBY 2482",
     "locID": "LOC000147307364",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTC",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GANSW719080139"
    }
   },
@@ -36276,8 +36259,8 @@
    "properties": {
     "name": "UNIT 1, 14 SMITH STREET MULLUMBIMBY 2482",
     "locID": "LOC000147307364",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTC",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GANSW719080140"
    }
   },
@@ -36345,7 +36328,7 @@
     "name": "UNIT 2, 13 TOWERS DRIVE MULLUMBIMBY 2482",
     "locID": "LOC000167314946",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719081812"
    }
   },
@@ -37416,7 +37399,7 @@
     "name": "UNIT 1, 10 GORDON STREET MULLUMBIMBY 2482",
     "locID": "LOC000101201807",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719683649"
    }
   },
@@ -37433,7 +37416,7 @@
     "name": "UNIT 2, 10 GORDON STREET MULLUMBIMBY 2482",
     "locID": "LOC000185093970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719688562"
    }
   },
@@ -37603,7 +37586,7 @@
     "name": "UNIT 3, 70 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000180404043",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719715424"
    }
   },
@@ -38027,8 +38010,8 @@
    "properties": {
     "name": "UNIT 1, 54 ARGYLE STREET MULLUMBIMBY 2482",
     "locID": "LOC000028836183",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTC",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GANSW720015986"
    }
   },
@@ -38045,7 +38028,7 @@
     "name": "UNIT 2, 54 ARGYLE STREET MULLUMBIMBY 2482",
     "locID": "LOC100056398719",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720016943"
    }
   },
@@ -38810,7 +38793,7 @@
     "name": "UNIT 2, 40 NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000185042954",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720148638"
    }
   },
@@ -38878,7 +38861,7 @@
     "name": "UNIT 1, 40 NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000064864702",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720150818"
    }
   },
@@ -39269,7 +39252,7 @@
     "name": "UNIT 2, 14 MANNS ROAD MULLUMBIMBY 2482",
     "locID": "LOC100075705678",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720318734"
    }
   },
@@ -39320,7 +39303,7 @@
     "name": "UNIT 1, 14 MANNS ROAD MULLUMBIMBY 2482",
     "locID": "LOC100075705678",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720320793"
    }
   },
@@ -39609,7 +39592,7 @@
     "name": "5A NEW CITY ROAD MULLUMBIMBY 2482",
     "locID": "LOC000183741834",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720389869"
    }
   },
@@ -42066,23 +42049,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.50216095,
-     -28.55218346
-    ]
-   },
-   "properties": {
-    "name": "49 MCGOUGHANS LANE MULLUMBIMBY 2482",
-    "locID": "EjE0OSBNY2dvdWdoYW5zIExuLCBNdWxsdW1iaW1ieSBOU1cgMjQ4MiwgQXVzdHJhbGlhIjASLgoUChIJ0dN2D3GLkGsRkOqhcrQJBhMQMSoUChIJ0Y2cu3GLkGsRUSxRYgAg70Y",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721176608"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.50118708,
      -28.54926106
     ]
@@ -43400,7 +43366,7 @@
     "name": "UNIT 2, 71-77 BURRINGBAR STREET MULLUMBIMBY 2482",
     "locID": "LOC000041693592",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW721262045"
    }
   },
