@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-17T23:21:24.687525",
+ "generated": "2023-08-07T07:42:23.991975",
  "suburb": "SOUTH MURWILLUMBAH",
  "features": [
   {
@@ -1035,8 +1035,8 @@
    "properties": {
     "name": "10 STAFFORD STREET SOUTH MURWILLUMBAH 2484",
     "locID": "LOC000015967006",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705927264"
    }
   },
@@ -4113,7 +4113,7 @@
     "name": "UNIT 2, 6 GREVILLE STREET SOUTH MURWILLUMBAH 2484",
     "locID": "LOC000035328876",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706510074"
    }
   },
@@ -4130,7 +4130,7 @@
     "name": "UNIT 1, 6 GREVILLE STREET SOUTH MURWILLUMBAH 2484",
     "locID": "LOC000035450882",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706510075"
    }
   },
@@ -6087,23 +6087,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW710136264"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.41455305,
-     -28.32459118
-    ]
-   },
-   "properties": {
-    "name": "440 TWEED VALLEY WAY SOUTH MURWILLUMBAH 2484",
-    "locID": "Ejw0NDAgVHdlZWQgVmFsbGV5IFdheSwgU291dGggTXVyd2lsbHVtYmFoIE5TVyAyNDg0LCBBdXN0cmFsaWEiMRIvChQKEgl5CYR3GfCQaxErspslSFtmwhC4AyoUChIJUT2_zd3wkGsRr7JAgqRd0uU",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW710136265"
    }
   },
   {
@@ -9791,7 +9774,7 @@
     "name": "6 GREVILLE STREET SOUTH MURWILLUMBAH 2484",
     "locID": "LOC000035450882",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715237886"
    }
   },
@@ -14482,7 +14465,7 @@
    "properties": {
     "name": "191-193 LUNDBERG DRIVE SOUTH MURWILLUMBAH 2484",
     "locID": "ChIJ-Yc18GvwkGsRgO2P2gXc1dE",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717733629"
    }
