@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-06T09:11:37.190543",
+ "generated": "2023-08-07T18:27:53.543961",
  "suburb": "VINEYARD",
  "features": [
   {
@@ -1308,7 +1308,7 @@
     "name": "5 ST JAMES ROAD VINEYARD 2765",
     "locID": "LOC000054059727",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW706146927"
    }
   },
@@ -6645,7 +6645,7 @@
    "properties": {
     "name": "353 WINDSOR ROAD VINEYARD 2765",
     "locID": "LOC000174170869",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706202841"
    }
@@ -12644,6 +12644,23 @@
     ]
    },
    "properties": {
+    "name": "3 LATONA AVENUE VINEYARD 2765",
+    "locID": "ChIJJdqG-vmdEmsRaqAwNA0EfEA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW717599307"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.85000126,
+     -33.63828417
+    ]
+   },
+   "properties": {
     "name": "405 LATONA AVENUE VINEYARD 2765",
     "locID": "ChIJJdqG-vmdEmsRfB1pv7svIRk",
     "tech": "FTTN",
@@ -17987,6 +18004,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721239620"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87041452,
+     -33.64464192
+    ]
+   },
+   "properties": {
+    "name": "90 MAGIC STREET VINEYARD 2765",
+    "locID": "ChIJtaKpmgSeEmsR5wnfOU7eiw8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721239841"
    }
   },
   {
