@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-14T23:47:12.704473",
+ "generated": "2023-08-07T01:28:26.912662",
  "suburb": "MOUNT KURING-GAI",
  "features": [
   {
@@ -33,7 +33,7 @@
     "name": "2 FLANDERS AVENUE MOUNT KURING-GAI 2080",
     "locID": "LOC000083471650",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705430576"
    }
   },
@@ -220,7 +220,7 @@
     "name": "5-9 KING STREET MOUNT KURING-GAI 2080",
     "locID": "LOC000063306520",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705453773"
    }
   },
@@ -1104,7 +1104,7 @@
     "name": "UNIT 1, 2 FLANDERS AVENUE MOUNT KURING-GAI 2080",
     "locID": "LOC000082875444",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706466051"
    }
   },
@@ -2549,7 +2549,7 @@
     "name": "UNIT 2, 4 FLANDERS AVENUE MOUNT KURING-GAI 2080",
     "locID": "LOC000069457070",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706487234"
    }
   },
@@ -5422,7 +5422,7 @@
     "name": "14 CRAWFORD ROAD MOUNT KURING-GAI 2080",
     "locID": "LOC000018972135",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706510058"
    }
   },
@@ -5948,8 +5948,8 @@
    "properties": {
     "name": "1A CHURCH STREET MOUNT KURING-GAI 2080",
     "locID": "LOC000032237423",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706510112"
    }
   },
@@ -9722,7 +9722,7 @@
    "properties": {
     "name": "14 YATALA ROAD MOUNT KURING-GAI 2080",
     "locID": "LOC000192935420",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707573734"
    }
@@ -10522,7 +10522,7 @@
     "name": "UNIT 1, 4 FLANDERS AVENUE MOUNT KURING-GAI 2080",
     "locID": "LOC000069379744",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707580739"
    }
   },
@@ -10760,7 +10760,7 @@
     "name": "UNIT 2, 2 FLANDERS AVENUE MOUNT KURING-GAI 2080",
     "locID": "LOC000083471650",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707580885"
    }
   },
@@ -12049,45 +12049,11 @@
     ]
    },
    "properties": {
-    "name": "737 PACIFIC HIGHWAY MOUNT KURING-GAI 2080",
-    "locID": "EjU3MzcgUGFjaWZpYyBId3ksIE1vdW50IEt1cmluZy1nYWkgTlNXIDIwODAsIEF1c3RyYWxpYSIxEi8KFAoSCRukU87eWQ1rEaHB6TgWdobjEOEFKhQKEgmJ7dCql5CeaxG7p6oda0_5ig",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW709766569"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.13634262,
-     -33.65061859
-    ]
-   },
-   "properties": {
     "name": "739 PACIFIC HIGHWAY MOUNT KURING-GAI 2080",
     "locID": "ChIJHX1cM9lZDWsRSWI1bhc8YyY",
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW709766570"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.13634262,
-     -33.65061859
-    ]
-   },
-   "properties": {
-    "name": "741 PACIFIC HIGHWAY MOUNT KURING-GAI 2080",
-    "locID": "EjU3NDEgUGFjaWZpYyBId3ksIE1vdW50IEt1cmluZy1nYWkgTlNXIDIwODAsIEF1c3RyYWxpYSIxEi8KFAoSCRukU87eWQ1rEaHB6TgWdobjEOUFKhQKEgmJ7dCql5CeaxG7p6oda0_5ig",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW709766571"
    }
   },
   {
@@ -15383,7 +15349,7 @@
    "properties": {
     "name": "2 YATALA ROAD MOUNT KURING-GAI 2080",
     "locID": "LOC000192935431",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718569028"
    }
@@ -16063,7 +16029,7 @@
    "properties": {
     "name": "1 YATALA ROAD MOUNT KURING-GAI 2080",
     "locID": "LOC000192935420",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718669474"
    }
@@ -16420,8 +16386,8 @@
    "properties": {
     "name": "UNIT 1, 1A CHURCH STREET MOUNT KURING-GAI 2080",
     "locID": "LOC000032237423",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719390209"
    }
   },
