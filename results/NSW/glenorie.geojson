@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-15T16:14:37.308886",
+ "generated": "2023-08-07T23:11:31.151270",
  "suburb": "GLENORIE",
  "features": [
   {
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "26 HARRISONS LANE GLENORIE 2157",
     "locID": "LOC000020576522",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704811804"
    }
   },
@@ -5336,7 +5336,7 @@
    "properties": {
     "name": "1539 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000077687835",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704819710"
    }
@@ -8073,8 +8073,8 @@
    "properties": {
     "name": "34 MOORES ROAD GLENORIE 2157",
     "locID": "LOC000074849695",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704830242"
    }
   },
@@ -8226,7 +8226,7 @@
    "properties": {
     "name": "45 MOORES ROAD GLENORIE 2157",
     "locID": "LOC000032967825",
-    "tech": "SATELLITE",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704830251"
    }
@@ -8549,7 +8549,7 @@
    "properties": {
     "name": "930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000181269540",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704830292"
    }
@@ -8889,8 +8889,8 @@
    "properties": {
     "name": "3-5 MUNROS LANE GLENORIE 2157",
     "locID": "LOC000092153160",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704832863"
    }
   },
@@ -10267,7 +10267,7 @@
     "name": "6 WHITES ROAD GLENORIE 2157",
     "locID": "LOC000042413888",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704843987"
    }
   },
@@ -13564,8 +13564,8 @@
    "properties": {
     "name": "26 TECOMA DRIVE GLENORIE 2157",
     "locID": "LOC000057299654",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704849227"
    }
   },
@@ -14417,23 +14417,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709243178"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.01163253,
-     -33.56273956
-    ]
-   },
-   "properties": {
-    "name": "1851 OLD NORTHERN ROAD GLENORIE 2157",
-    "locID": "EjIxODUxIE9sZCBOb3J0aGVybiBSZCwgR2xlbm9yaWUgTlNXIDIxNTcsIEF1c3RyYWxpYSIxEi8KFAoSCQP6vNSDXg1rEW_jS_jD3vocELsOKhQKEgmrvLBpNVwNaxFeX9NSCoA9xQ",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW711165371"
    }
   },
   {
@@ -18120,7 +18103,7 @@
    "properties": {
     "name": "96 KEMP PLACE GLENORIE 2157",
     "locID": "LOC000052071812",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716481386"
    }
@@ -20143,7 +20126,7 @@
    "properties": {
     "name": "SHOP 10, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057598137",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307011"
    }
@@ -20160,7 +20143,7 @@
    "properties": {
     "name": "SHOP 11, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057775582",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307012"
    }
@@ -20177,7 +20160,7 @@
    "properties": {
     "name": "SHOP 12, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057619172",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307013"
    }
@@ -20211,7 +20194,7 @@
    "properties": {
     "name": "SHOP 1, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000120133088",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307015"
    }
@@ -20262,7 +20245,7 @@
    "properties": {
     "name": "SHOP 2, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307018"
    }
@@ -20313,7 +20296,7 @@
    "properties": {
     "name": "SHOP 3, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307021"
    }
@@ -20415,7 +20398,7 @@
    "properties": {
     "name": "SHOP 5, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000058003582",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307027"
    }
@@ -20449,7 +20432,7 @@
    "properties": {
     "name": "SHOP 7, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307029"
    }
@@ -20466,7 +20449,7 @@
    "properties": {
     "name": "SHOP 8, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057968600",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307030"
    }
@@ -20483,7 +20466,7 @@
    "properties": {
     "name": "SHOP 9, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057554116",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717307031"
    }
@@ -20637,7 +20620,7 @@
     "name": "2 WHITES ROAD GLENORIE 2157",
     "locID": "LOC000042413888",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717312617"
    }
   },
@@ -20976,7 +20959,7 @@
    "properties": {
     "name": "SHOP 13, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000058071679",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717640786"
    }
@@ -20993,7 +20976,7 @@
    "properties": {
     "name": "SHOP 14, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057761001",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717640787"
    }
@@ -21010,7 +20993,7 @@
    "properties": {
     "name": "SHOP 15, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000181269490",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717640788"
    }
@@ -21027,7 +21010,7 @@
    "properties": {
     "name": "SHOP 16, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000181269490",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717640789"
    }
@@ -21044,7 +21027,7 @@
    "properties": {
     "name": "SHOP 1A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717640790"
    }
@@ -21147,7 +21130,7 @@
     "name": "1 HARRISONS LANE GLENORIE 2157",
     "locID": "LOC000041711360",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717671952"
    }
   },
@@ -21776,7 +21759,7 @@
     "name": "6A WHITES ROAD GLENORIE 2157",
     "locID": "LOC000042044197",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717881081"
    }
   },
@@ -22166,7 +22149,7 @@
    "properties": {
     "name": "SHOP 5A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000058003582",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718056745"
    }
@@ -22336,8 +22319,8 @@
    "properties": {
     "name": "12 HARRISONS LANE GLENORIE 2157",
     "locID": "LOC000020576522",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718132243"
    }
   },
@@ -22523,7 +22506,7 @@
    "properties": {
     "name": "SHOP 17, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000181269501",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718286075"
    }
@@ -22540,7 +22523,7 @@
    "properties": {
     "name": "SHOP 18, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000181269501",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718286076"
    }
@@ -22557,7 +22540,7 @@
    "properties": {
     "name": "SHOP 19, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000120133088",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718331871"
    }
@@ -26229,7 +26212,7 @@
    "properties": {
     "name": "UNIT 106, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720791485"
    }
@@ -26246,7 +26229,7 @@
    "properties": {
     "name": "UNIT 107, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720793823"
    }
@@ -26620,7 +26603,7 @@
    "properties": {
     "name": "SHOP 26, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268080"
    }
@@ -26637,7 +26620,7 @@
    "properties": {
     "name": "SHOP 30A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268081"
    }
@@ -26654,7 +26637,7 @@
    "properties": {
     "name": "SHOP 21A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268082"
    }
@@ -26671,7 +26654,7 @@
    "properties": {
     "name": "SHOP 22, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268380"
    }
@@ -26688,7 +26671,7 @@
    "properties": {
     "name": "SHOP 21, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000181269593",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268447"
    }
@@ -26705,7 +26688,7 @@
    "properties": {
     "name": "SHOP 27, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268460"
    }
@@ -26722,7 +26705,7 @@
    "properties": {
     "name": "SHOP 24A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268605"
    }
@@ -26739,7 +26722,7 @@
    "properties": {
     "name": "SHOP 34, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268782"
    }
@@ -26756,7 +26739,7 @@
    "properties": {
     "name": "SHOP 31, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269152"
    }
@@ -26773,7 +26756,7 @@
    "properties": {
     "name": "SHOP 28, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269153"
    }
@@ -26790,7 +26773,7 @@
    "properties": {
     "name": "SHOP 24, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269223"
    }
@@ -26807,7 +26790,7 @@
    "properties": {
     "name": "SHOP 22A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269225"
    }
@@ -26824,7 +26807,7 @@
    "properties": {
     "name": "SHOP 30, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269498"
    }
@@ -26841,7 +26824,7 @@
    "properties": {
     "name": "SHOP 25A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269586"
    }
@@ -26858,7 +26841,7 @@
    "properties": {
     "name": "SHOP 25, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270290"
    }
@@ -26875,7 +26858,7 @@
    "properties": {
     "name": "SHOP 32, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270353"
    }
@@ -26892,7 +26875,7 @@
    "properties": {
     "name": "SHOP 20, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000181269586",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270604"
    }
@@ -26909,7 +26892,7 @@
    "properties": {
     "name": "SHOP 33, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270724"
    }
@@ -26926,7 +26909,7 @@
    "properties": {
     "name": "SHOP 29, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270725"
    }
@@ -26943,7 +26926,7 @@
    "properties": {
     "name": "SHOP 23, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270726"
    }
@@ -26960,7 +26943,7 @@
    "properties": {
     "name": "SHOP 20A, 930 OLD NORTHERN ROAD GLENORIE 2157",
     "locID": "LOC000057989634",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270727"
    }
