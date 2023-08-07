@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-01T10:39:54.624401",
+ "generated": "2023-08-07T14:09:54.594352",
  "suburb": "WESTON",
  "features": [
   {
@@ -1735,23 +1735,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706256413"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.45610592,
-     -32.81515256
-    ]
-   },
-   "properties": {
-    "name": "39 SCOTT STREET WESTON 2326",
-    "locID": "LOC000080129269",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706256414"
    }
   },
   {
@@ -6425,7 +6408,7 @@
     "name": "29 SECOND STREET WESTON 2326",
     "locID": "LOC000004023831",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706273530"
    }
   },
@@ -11337,8 +11320,8 @@
    "properties": {
     "name": "8 SWANSON STREET WESTON 2326",
     "locID": "LOC000094762123",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW706293782"
    }
   },
@@ -14380,8 +14363,8 @@
    "properties": {
     "name": "59 CESSNOCK ROAD WESTON 2326",
     "locID": "LOC000044137160",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706303529"
    }
   },
@@ -16030,7 +16013,7 @@
     "name": "2 LOGAN STREET WESTON 2326",
     "locID": "LOC000065291048",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706304036"
    }
   },
@@ -16132,7 +16115,7 @@
     "name": "8 LOGAN STREET WESTON 2326",
     "locID": "LOC000110127132",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706304042"
    }
   },
@@ -22303,7 +22286,7 @@
     "name": "UNIT 1, 8 LOGAN STREET WESTON 2326",
     "locID": "LOC000110127132",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712001439"
    }
   },
@@ -22320,7 +22303,7 @@
     "name": "UNIT 1, 2 LOGAN STREET WESTON 2326",
     "locID": "LOC000065441359",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712001440"
    }
   },
@@ -22337,7 +22320,7 @@
     "name": "UNIT 2, 2 LOGAN STREET WESTON 2326",
     "locID": "LOC000065291048",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712001441"
    }
   },
@@ -23578,7 +23561,7 @@
     "name": "UNIT 2, 8 LOGAN STREET WESTON 2326",
     "locID": "LOC000109990910",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713152485"
    }
   },
@@ -26043,7 +26026,7 @@
     "name": "UNIT 2, 29 SECOND STREET WESTON 2326",
     "locID": "LOC000004023831",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717290003"
    }
   },
@@ -26281,7 +26264,7 @@
     "name": "UNIT 1, 29 SECOND STREET WESTON 2326",
     "locID": "LOC000004023831",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717545817"
    }
   },
@@ -27420,7 +27403,7 @@
     "name": "1 GOVERNMENT ROAD WESTON 2326",
     "locID": "LOC000113647470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718099487"
    }
   },
@@ -28916,7 +28899,7 @@
     "name": "19 WOODLANDS DRIVE WESTON 2326",
     "locID": "LOC000174708797",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718735040"
    }
   },
@@ -29137,7 +29120,7 @@
     "name": "25 WOODLANDS DRIVE WESTON 2326",
     "locID": "LOC100075569137",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718895975"
    }
   },
@@ -31245,7 +31228,7 @@
     "name": "UNIT 1, 25 WOODLANDS DRIVE WESTON 2326",
     "locID": "LOC100075569137",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720009958"
    }
   },
@@ -31262,7 +31245,7 @@
     "name": "UNIT 2, 25 WOODLANDS DRIVE WESTON 2326",
     "locID": "LOC100075569137",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720018291"
    }
   },
