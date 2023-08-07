@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-25T20:45:37.339002",
+ "generated": "2023-08-07T11:54:09.677345",
  "suburb": "MOLONG",
  "features": [
   {
@@ -2667,7 +2667,7 @@
    "properties": {
     "name": "94 BANK STREET MOLONG 2866",
     "locID": "LOC000192530973",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705390749"
    }
@@ -7937,7 +7937,7 @@
    "properties": {
     "name": "96-98 BANK STREET MOLONG 2866",
     "locID": "ChIJNbGZHY_YD2sRc0IQ0P-TpKg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW713051310"
    }
@@ -12613,7 +12613,7 @@
     "name": "1186 BANJO PATERSON WAY MOLONG 2866",
     "locID": "LOC000105371675",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW716626218"
    }
   },
@@ -13106,7 +13106,7 @@
     "name": "326 GARRA ROAD MOLONG 2866",
     "locID": "LOC000086922472",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW716631130"
    }
   },
@@ -13514,7 +13514,7 @@
     "name": "4415 MITCHELL HIGHWAY MOLONG 2866",
     "locID": "LOC000078379126",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW716636596"
    }
   },
@@ -16183,7 +16183,7 @@
     "name": "39 SILVER STREET MOLONG 2866",
     "locID": "LOC000104978750",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW716687993"
    }
   },
@@ -21062,7 +21062,7 @@
     "name": "337 GARRA ROAD MOLONG 2866",
     "locID": "LOC000115646595",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW718226306"
    }
   },
@@ -23070,6 +23070,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718810598"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.91595539,
+     -33.18999037
+    ]
+   },
+   "properties": {
+    "name": "COTTAGE 2, 255 PRATTEN ROAD MOLONG 2866",
+    "locID": "ChIJWZbZRQMmEGsRHpRhMDdfpvM",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718811551"
    }
   },
   {
@@ -25722,23 +25739,6 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721127289"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.8907071,
-     -33.1018498
-    ]
-   },
-   "properties": {
-    "name": "17 DEIGHT STREET MOLONG 2866",
-    "locID": "EigxNyBEZWlnaHQgU3QsIE1vbG9uZyBOU1cgMjg2NiwgQXVzdHJhbGlhIjASLgoUChIJbRzQb27YD2sRQP_ktLSqEfUQESoUChIJvZ8sznDYD2sRxsz80MbQdWY",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721131591"
    }
   },
   {
