@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-18T03:18:52.056061",
+ "generated": "2023-08-08T12:36:38.818519",
  "suburb": "HAZELBROOK",
  "features": [
   {
@@ -4282,8 +4282,8 @@
    "properties": {
     "name": "8 BIRDWOOD PARADE HAZELBROOK 2779",
     "locID": "LOC000047635018",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704949486"
    }
   },
@@ -4929,7 +4929,7 @@
     "name": "24 CLIFF AVENUE HAZELBROOK 2779",
     "locID": "LOC000052031356",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704950229"
    }
   },
@@ -7717,7 +7717,7 @@
     "name": "60 WINBOURNE ROAD HAZELBROOK 2779",
     "locID": "LOC000057128661",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704950975"
    }
   },
@@ -10776,8 +10776,8 @@
    "properties": {
     "name": "89 WINBOURNE ROAD HAZELBROOK 2779",
     "locID": "LOC000031964455",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704953594"
    }
   },
@@ -13259,7 +13259,7 @@
     "name": "53 TERRACE FALLS ROAD HAZELBROOK 2779",
     "locID": "LOC000037247777",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704958767"
    }
   },
@@ -15468,8 +15468,8 @@
    "properties": {
     "name": "75 RED GUM AVENUE HAZELBROOK 2779",
     "locID": "LOC000025459840",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704960368"
    }
   },
@@ -18681,8 +18681,8 @@
    "properties": {
     "name": "71 OAKLANDS ROAD HAZELBROOK 2779",
     "locID": "LOC000089261852",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704962609"
    }
   },
@@ -21792,8 +21792,8 @@
    "properties": {
     "name": "72A VALLEY ROAD HAZELBROOK 2779",
     "locID": "LOC000076776085",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704964054"
    }
   },
@@ -23033,8 +23033,8 @@
    "properties": {
     "name": "5 PINE STREET HAZELBROOK 2779",
     "locID": "LOC000012358149",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704965209"
    }
   },
@@ -24971,8 +24971,8 @@
    "properties": {
     "name": "42 TALBOT ROAD HAZELBROOK 2779",
     "locID": "LOC000007411612",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704966288"
    }
   },
@@ -25243,8 +25243,8 @@
    "properties": {
     "name": "56 LIGGINS ROAD HAZELBROOK 2779",
     "locID": "LOC000035101849",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704966622"
    }
   },
@@ -27402,8 +27402,8 @@
    "properties": {
     "name": "49 RAILWAY PARADE HAZELBROOK 2779",
     "locID": "LOC000044520627",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704967816"
    }
   },
@@ -27556,7 +27556,7 @@
     "name": "58 RAILWAY PARADE HAZELBROOK 2779",
     "locID": "LOC000014998875",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704967825"
    }
   },
@@ -29578,8 +29578,8 @@
    "properties": {
     "name": "10 OAKLANDS ROAD HAZELBROOK 2779",
     "locID": "LOC000041660217",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704969996"
    }
   },
@@ -31502,23 +31502,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712966932"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.45034049,
-     -33.70825955
-    ]
-   },
-   "properties": {
-    "name": "61 HALL PARADE HAZELBROOK 2779",
-    "locID": "Ei42MSBIYWxsIFBhcmFkZSwgSGF6ZWxicm9vayBOU1cgMjc3OSwgQXVzdHJhbGlhIjASLgoUChIJrdLVOtxkEmsRkRFy5md9ARMQPSoUChIJRzuhe9tkEmsRu79RhMpeljw",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW712966933"
    }
   },
   {
@@ -38095,8 +38078,8 @@
    "properties": {
     "name": "24-26 HERON PLACE HAZELBROOK 2779",
     "locID": "LOC000122009139",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718153987"
    }
   },
@@ -39133,7 +39116,7 @@
     "name": "49 CLEAR VIEW PARADE HAZELBROOK 2779",
     "locID": "LOC000121998441",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718260476"
    }
   },
@@ -40458,8 +40441,8 @@
    "properties": {
     "name": "182 VALLEY ROAD HAZELBROOK 2779",
     "locID": "LOC000167274199",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718466572"
    }
   },
@@ -40561,7 +40544,7 @@
     "name": "200-202 GREAT WESTERN HIGHWAY HAZELBROOK 2779",
     "locID": "LOC000167264328",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718560616"
    }
   },
