@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-18T21:02:59.134807",
+ "generated": "2023-08-08T16:58:47.516678",
  "suburb": "DOUGLAS PARK",
  "features": [
   {
@@ -645,7 +645,7 @@
     "name": "111 CAMDEN ROAD DOUGLAS PARK 2569",
     "locID": "LOC000088724135",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704586651"
    }
   },
@@ -917,7 +917,7 @@
     "name": "45 CAMDEN ROAD DOUGLAS PARK 2569",
     "locID": "LOC000182714542",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704586698"
    }
   },
@@ -3772,8 +3772,8 @@
    "properties": {
     "name": "110 STATION STREET DOUGLAS PARK 2569",
     "locID": "LOC000007396805",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704595716"
    }
   },
@@ -5472,8 +5472,8 @@
    "properties": {
     "name": "23 MITCHELL PLACE DOUGLAS PARK 2569",
     "locID": "LOC000093920313",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704600630"
    }
   },
@@ -8875,23 +8875,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718430836"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.729466,
-     -34.17730954
-    ]
-   },
-   "properties": {
-    "name": "405 MORETON PARK ROAD DOUGLAS PARK 2569",
-    "locID": "EjU0MDUgTW9yZXRvbiBQYXJrIFJkLCBEb3VnbGFzIFBhcmsgTlNXIDI1NjksIEF1c3RyYWxpYSIxEi8KFAoSCTUE1Lxo-xJrEZ67f9XTYO3aEJUDKhQKEglDAmbMc_sSaxFk-J426ZiIOg",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW718471631"
    }
   },
   {
