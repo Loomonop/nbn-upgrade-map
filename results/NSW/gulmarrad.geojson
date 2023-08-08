@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-19T04:22:41.257749",
+ "generated": "2023-08-08T18:38:16.327683",
  "suburb": "GULMARRAD",
  "features": [
   {
@@ -3501,7 +3501,7 @@
     "name": "458 BROOMS HEAD ROAD GULMARRAD 2463",
     "locID": "LOC000081529709",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712243477"
    }
   },
@@ -3518,7 +3518,7 @@
     "name": "466 BROOMS HEAD ROAD GULMARRAD 2463",
     "locID": "LOC000002463328",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712243478"
    }
   },
@@ -3755,8 +3755,8 @@
    "properties": {
     "name": "241 SHEEHANS LANE GULMARRAD 2463",
     "locID": "LOC000032911063",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712254372"
    }
   },
@@ -5081,8 +5081,8 @@
    "properties": {
     "name": "43 KING PARROT PARADE GULMARRAD 2463",
     "locID": "LOC000004270329",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715930970"
    }
   },
@@ -5421,8 +5421,8 @@
    "properties": {
     "name": "4 PEACEFUL DRIVE GULMARRAD 2463",
     "locID": "LOC000064782214",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW716416912"
    }
   },
@@ -5642,8 +5642,8 @@
    "properties": {
     "name": "5 MAJOR MITCHELL DRIVE GULMARRAD 2463",
     "locID": "LOC000032303062",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW716470241"
    }
   },
@@ -6339,8 +6339,8 @@
    "properties": {
     "name": "5 HERITAGE DRIVE GULMARRAD 2463",
     "locID": "LOC000070108004",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW716754761"
    }
   },
@@ -7275,7 +7275,7 @@
     "name": "46 COLONIAL DRIVE GULMARRAD 2463",
     "locID": "LOC000090475381",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717096275"
    }
   },
@@ -9433,8 +9433,8 @@
    "properties": {
     "name": "2 COCKATIEL CRESCENT GULMARRAD 2463",
     "locID": "LOC000121036778",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717845428"
    }
   },
@@ -9961,7 +9961,7 @@
     "name": "9 PENDA PLACE GULMARRAD 2463",
     "locID": "LOC000025535117",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717962814"
    }
   },
@@ -10011,8 +10011,8 @@
    "properties": {
     "name": "1 GOANNA CLOSE GULMARRAD 2463",
     "locID": "LOC000115491892",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717981385"
    }
   },
@@ -10878,8 +10878,8 @@
    "properties": {
     "name": "12 GOANNA CLOSE GULMARRAD 2463",
     "locID": "LOC000115491892",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718194584"
    }
   },
@@ -10913,7 +10913,7 @@
     "name": "129 MAHOGANY DRIVE GULMARRAD 2463",
     "locID": "LOC000115491902",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718199438"
    }
   },
@@ -15495,6 +15495,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.23455259,
+     -29.49817725
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 37 LITTLE TERN COURT GULMARRAD 2463",
+    "locID": "ChIJ--EopzO1m2sRwDdnES_97Zs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721171891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.2357504,
      -29.49926091
     ]
@@ -15505,6 +15522,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721172108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.23455259,
+     -29.49817725
+    ]
+   },
+   "properties": {
+    "name": "37 LITTLE TERN COURT GULMARRAD 2463",
+    "locID": "ChIJ--EopzO1m2sRwDdnES_97Zs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721172861"
    }
   },
   {
@@ -15743,6 +15777,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721239993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.23608057,
+     -29.49797576
+    ]
+   },
+   "properties": {
+    "name": "44 LITTLE TERN COURT GULMARRAD 2463",
+    "locID": "LOC000186665983",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721240229"
    }
   },
   {
