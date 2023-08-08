@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-19T21:39:54.263167",
+ "generated": "2023-08-08T22:28:04.114396",
  "suburb": "HORSLEY PARK",
  "features": [
   {
@@ -1800,8 +1800,8 @@
    "properties": {
     "name": "21-31 REDMAYNE ROAD HORSLEY PARK 2175",
     "locID": "LOC000153065253",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704982750"
    }
   },
@@ -2633,8 +2633,8 @@
    "properties": {
     "name": "166-170 DELAWARE ROAD HORSLEY PARK 2175",
     "locID": "LOC000017216966",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704988121"
    }
   },
@@ -4282,8 +4282,8 @@
    "properties": {
     "name": "65-79 GARFIELD ROAD HORSLEY PARK 2175",
     "locID": "LOC000014570974",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704991460"
    }
   },
@@ -4402,7 +4402,7 @@
     "name": "38-40 GREENWAY PLACE HORSLEY PARK 2175",
     "locID": "LOC000103971586",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704991469"
    }
   },
@@ -4928,8 +4928,8 @@
    "properties": {
     "name": "121-135 CHANDOS ROAD HORSLEY PARK 2175",
     "locID": "LOC000153066164",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704995588"
    }
   },
@@ -5302,8 +5302,8 @@
    "properties": {
     "name": "100-104 ARUNDEL ROAD HORSLEY PARK 2175",
     "locID": "LOC000051699621",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW709350295"
    }
   },
@@ -6288,8 +6288,8 @@
    "properties": {
     "name": "102-106 GARFIELD ROAD HORSLEY PARK 2175",
     "locID": "LOC000002332702",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW709368518"
    }
   },
@@ -6883,8 +6883,8 @@
    "properties": {
     "name": "277-279 DELAWARE ROAD HORSLEY PARK 2175",
     "locID": "LOC000090384643",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW709374945"
    }
   },
@@ -8984,23 +8984,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86637457,
-     -33.83361299
-    ]
-   },
-   "properties": {
-    "name": "114 CHANDOS ROAD HORSLEY PARK 2175",
-    "locID": "EjAxMTQgQ2hhbmRvcyBSZCwgSG9yc2xleSBQYXJrIE5TVyAyMTc1LCBBdXN0cmFsaWEiMBIuChQKEgmZEW43LpcSaxFSoTkZC8gMEhByKhQKEgnHJ_ISLpcSaxEp4fYpotB_Gw",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW711242357"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.85693043,
      -33.8387037
     ]
@@ -9076,8 +9059,8 @@
    "properties": {
     "name": "54 CHANDOS ROAD HORSLEY PARK 2175",
     "locID": "LOC000153066164",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711242371"
    }
   },
@@ -10140,40 +10123,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.85905468,
-     -33.85716811
-    ]
-   },
-   "properties": {
-    "name": "LOT 43 BORDER ROAD HORSLEY PARK 2175",
-    "locID": "Ei40MyBCb3JkZXIgUmQsIEhvcnNsZXkgUGFyayBOU1cgMjE3NSwgQXVzdHJhbGlhIjASLgoUChIJedutHzaREmsRYVmAT69Amj8QKyoUChIJ06oVYjSREmsRx-xFsQuSMsI",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW716648619"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.85905468,
-     -33.85716811
-    ]
-   },
-   "properties": {
-    "name": "LOT 56 BORDER ROAD HORSLEY PARK 2175",
-    "locID": "Ei41NiBCb3JkZXIgUmQsIEhvcnNsZXkgUGFyayBOU1cgMjE3NSwgQXVzdHJhbGlhIjASLgoUChIJedutHzaREmsRYVmAT69Amj8QOCoUChIJ06oVYjSREmsRx-xFsQuSMsI",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW716648620"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.83869887,
      -33.82947271
     ]
@@ -10453,8 +10402,8 @@
    "properties": {
     "name": "LOT 45 GARFIELD ROAD HORSLEY PARK 2175",
     "locID": "LOC000014570974",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW716661129"
    }
   },
@@ -12850,8 +12799,8 @@
    "properties": {
     "name": "1838 THE HORSLEY DRIVE HORSLEY PARK 2175",
     "locID": "LOC000039941297",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW716941477"
    }
   },
@@ -15265,7 +15214,7 @@
     "name": "38-52 JAMIESON CLOSE HORSLEY PARK 2175",
     "locID": "LOC000051732944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717922942"
    }
   },
@@ -15775,7 +15724,7 @@
     "name": "780 WALLGROVE ROAD HORSLEY PARK 2175",
     "locID": "LOC000174448511",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718271288"
    }
   },
@@ -18579,8 +18528,8 @@
    "properties": {
     "name": "232-234 LINCOLN ROAD HORSLEY PARK 2175",
     "locID": "LOC000034521026",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720781761"
    }
   },
