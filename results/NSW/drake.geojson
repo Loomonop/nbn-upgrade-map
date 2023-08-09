@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-24T09:49:33.698848",
+ "generated": "2023-08-09T01:09:01.078188",
  "suburb": "DRAKE",
  "features": [
   {
@@ -951,7 +951,7 @@
     "name": "LOT 24 BELLBIRD ROAD DRAKE 2469",
     "locID": "LOC000005315781",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717460384"
    }
   },
@@ -3221,6 +3221,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.4538925,
+     -28.93506008
+    ]
+   },
+   "properties": {
+    "name": "LOT 201 BELLBIRD ROAD DRAKE 2469",
+    "locID": "ChIJCwaynyfAmWsROlcnSosDMFo",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718856686"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.42374743,
      -28.90421164
     ]
@@ -3493,23 +3510,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.36501707,
-     -28.9291473
-    ]
-   },
-   "properties": {
-    "name": "7841 BRUXNER HIGHWAY DRAKE 2469",
-    "locID": "Eio3ODQxIEJydXhuZXIgV3ksIERyYWtlIE5TVyAyNDY5LCBBdXN0cmFsaWEiMRIvChQKEglrnmC6_MCZaxFQSHdAJ3uSIhChPSoUChIJoSo4P5vrmWsRXYMwczf0-OU",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW720154911"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.41725342,
      -28.92515713
     ]
@@ -3554,23 +3554,6 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720166068"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.38566708,
-     -28.93187117
-    ]
-   },
-   "properties": {
-    "name": "LOT 9 HAYDEN STREET DRAKE 2469",
-    "locID": "Ei45IEhheWRlbiBTdCwgRHJha2UgVmlsbGFnZSBOU1cgMjQ2OSwgQXVzdHJhbGlhIjASLgoUChIJP_fgd-bAmWsRIJnHcrQJBhMQCSoUChIJ9Whsd-bAmWsR6Lj2pQRYEZ4",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW720166764"
    }
   },
   {
@@ -3928,23 +3911,6 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721170655"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.41438774,
-     -28.91066732
-    ]
-   },
-   "properties": {
-    "name": "7903 BRUXNER HIGHWAY DRAKE 2469",
-    "locID": "Eio3OTAzIEJydXhuZXIgV3ksIERyYWtlIE5TVyAyNDY5LCBBdXN0cmFsaWEiMRIvChQKEglrnmC6_MCZaxFQSHdAJ3uSIhDfPSoUChIJoSo4P5vrmWsRXYMwczf0-OU",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721186198"
    }
   },
   {
