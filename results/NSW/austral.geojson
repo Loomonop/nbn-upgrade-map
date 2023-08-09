@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-30T23:28:27.592148",
+ "generated": "2023-08-09T23:34:00.712964",
  "suburb": "AUSTRAL",
  "features": [
   {
@@ -151,7 +151,7 @@
    "properties": {
     "name": "335 FIFTEENTH AVENUE AUSTRAL 2179",
     "locID": "ChIJUR1OiQOTEmsRlK1o4uaV3Lc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703964750"
    }
@@ -1103,8 +1103,8 @@
    "properties": {
     "name": "235 SIXTH AVENUE AUSTRAL 2179",
     "locID": "LOC000071063660",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703965046"
    }
   },
@@ -2004,7 +2004,7 @@
    "properties": {
     "name": "230 THIRTEENTH AVENUE AUSTRAL 2179",
     "locID": "LOC000192334086",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703965829"
    }
@@ -3109,7 +3109,7 @@
    "properties": {
     "name": "210 SEVENTH AVENUE AUSTRAL 2179",
     "locID": "LOC000193097550",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703968174"
    }
@@ -5778,7 +5778,7 @@
    "properties": {
     "name": "284 THIRTEENTH AVENUE AUSTRAL 2179",
     "locID": "LOC000192334323",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703970663"
    }
@@ -8073,7 +8073,7 @@
    "properties": {
     "name": "310 THIRTEENTH AVENUE AUSTRAL 2179",
     "locID": "ChIJVWjsFOmSEmsRd-a6SjF-gy0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703972498"
    }
@@ -8770,7 +8770,7 @@
    "properties": {
     "name": "75 FOURTEENTH AVENUE AUSTRAL 2179",
     "locID": "ChIJ69CFrQSTEmsRTwgKYahfj_A",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703973224"
    }
@@ -9229,7 +9229,7 @@
    "properties": {
     "name": "305 TWELFTH AVENUE AUSTRAL 2179",
     "locID": "ChIJx2cnfOiSEmsRlE4_Y6eMbSI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703973322"
    }
@@ -12493,7 +12493,7 @@
    "properties": {
     "name": "67 SEVENTEENTH AVENUE AUSTRAL 2179",
     "locID": "ChIJXwpZegeTEmsRISDxsgHF8ko",
-    "tech": "NULL",
+    "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW708491343"
    }
@@ -17797,7 +17797,7 @@
    "properties": {
     "name": "288 THIRTEENTH AVENUE AUSTRAL 2179",
     "locID": "ChIJGey7AumSEmsRDgQzbhDC8AE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711309559"
    }
@@ -17831,7 +17831,7 @@
    "properties": {
     "name": "304 THIRTEENTH AVENUE AUSTRAL 2179",
     "locID": "ChIJuyYkE-mSEmsRTQCDGfSIpQY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711309573"
    }
@@ -19463,7 +19463,7 @@
    "properties": {
     "name": "331 FIFTEENTH AVENUE AUSTRAL 2179",
     "locID": "ChIJjWb_iQOTEmsRGfdf4rugP7c",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711335003"
    }
@@ -21877,8 +21877,8 @@
    "properties": {
     "name": "95 BOYD STREET AUSTRAL 2179",
     "locID": "LOC000111835136",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW718085069"
    }
   },
@@ -48159,7 +48159,7 @@
    "properties": {
     "name": "7 TAMMARIN ROCK AVENUE AUSTRAL 2179",
     "locID": "LOC000192013253",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720425027"
    }
@@ -73482,23 +73482,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.80870173,
-     -33.94735828
-    ]
-   },
-   "properties": {
-    "name": "LOT 307 FIFTH AVENUE AUSTRAL 2179",
-    "locID": "EiozMDcgRmlmdGggQXZlLCBBdXN0cmFsIE5TVyAyMTc5LCBBdXN0cmFsaWEiMRIvChQKEgkVwibnzJISaxG75luich5kMhCzAioUChIJWcyDfdSSEmsRoPRuULMS50g",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW720945997"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.80879925,
      -33.93777745
     ]
@@ -74985,7 +74968,7 @@
    "properties": {
     "name": "4 BELLAROI STREET AUSTRAL 2179",
     "locID": "LOC000192471930",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720993431"
    }
@@ -76787,7 +76770,7 @@
    "properties": {
     "name": "7 BELLAROI STREET AUSTRAL 2179",
     "locID": "LOC000192471897",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720997770"
    }
@@ -76838,7 +76821,7 @@
    "properties": {
     "name": "6 BELLAROI STREET AUSTRAL 2179",
     "locID": "LOC000192471907",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720998062"
    }
@@ -79935,23 +79918,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721045209"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.80022873,
-     -33.94584034
-    ]
-   },
-   "properties": {
-    "name": "309-311 FIFTH AVENUE AUSTRAL 2179",
-    "locID": "EiozMDkgRmlmdGggQXZlLCBBdXN0cmFsIE5TVyAyMTc5LCBBdXN0cmFsaWEiMRIvChQKEgkVwibnzJISaxG75luich5kMhC1AioUChIJWcyDfdSSEmsRoPRuULMS50g",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721045234"
    }
   },
   {
@@ -86239,7 +86205,7 @@
    "properties": {
     "name": "2 CARNAMAH ROAD AUSTRAL 2179",
     "locID": "LOC000192013314",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721126404"
    }
@@ -87055,7 +87021,7 @@
    "properties": {
     "name": "6 CARNAMAH ROAD AUSTRAL 2179",
     "locID": "LOC000192013276",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721127810"
    }
@@ -91220,7 +91186,7 @@
    "properties": {
     "name": "11 TWENTY EIGHTH AVENUE AUSTRAL 2179",
     "locID": "LOC000192471850",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721173686"
    }
@@ -93491,6 +93457,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79498713,
+     -33.93141254
+    ]
+   },
+   "properties": {
+    "name": "80 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJJxCKzsaSEmsRM3mRIL1Sct0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721179447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79394434,
      -33.93301987
     ]
@@ -93627,6 +93610,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "99 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR_ez6fiXbpCE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183274"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.81385738,
      -33.94435944
     ]
@@ -93717,11 +93717,79 @@
     ]
    },
    "properties": {
+    "name": "45 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRAwmMBNGevX8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183502"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "108 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRVN1RF2WO1Fo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
     "name": "66 HOROLOGIUM ROAD AUSTRAL 2179",
     "locID": "LOC000192202105",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721183505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "110 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRZFTtOWezbfE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183506"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "139 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsReHbs_cUpzrY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183507"
    }
   },
   {
@@ -93739,6 +93807,74 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721183508"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "169 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRRviZLD4A8Oo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183509"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "123 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR6oFYo1TNreQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183510"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "143 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR2b2xcClQZVw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "184 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRMZD8nGDwi2c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183553"
    }
   },
   {
@@ -93780,6 +93916,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "122 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRF3CPKPKSF0M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183603"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "114 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRO1wkHtARyUY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183648"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79472322,
      -33.94067546
     ]
@@ -93790,6 +93960,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721183670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "104 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRu1ts6WiygQw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183686"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "54 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRlfUTXOQG73U",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183699"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "185 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRj7IcSA1md98",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183707"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "127 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRzaobVtVNgTs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183708"
    }
   },
   {
@@ -93831,6 +94069,108 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "43 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR6xpqXS0K-pE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "46 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRZxSsN3OS4PI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183952"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "78 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRCrPGZWc7uLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183953"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "88 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRv6X5rnyvMXw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183954"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "155 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRPPPmkrk0Ppk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183955"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "168 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRb7au71yqhCE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183956"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -93841,6 +94181,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721183957"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "174 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRkADDWLao34A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721183958"
    }
   },
   {
@@ -93887,11 +94244,79 @@
     ]
    },
    "properties": {
+    "name": "68 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRQfxkR8sfvLA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "135 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR9ddutNh503o",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "204 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRDtUC31a6bjg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184050"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
     "name": "123 GALGALYUNG ROAD AUSTRAL 2179",
     "locID": "LOC000188394545",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721184051"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "64 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRsakfxWOzbhY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184052"
    }
   },
   {
@@ -93926,6 +94351,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721184079"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "70 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRUNnUK_NTTjg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "41 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRz8ePAKkj514",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184142"
    }
   },
   {
@@ -93972,6 +94431,91 @@
     ]
    },
    "properties": {
+    "name": "67 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRxuxdo3MGOgU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184429"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "159 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRoExMk9hR9ck",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184430"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "118 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRIA6yYZ_hon4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184431"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "116 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR_0UzAnxgVNk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184432"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "186 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRIKgcC25GqNo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
     "name": "164 GALGALYUNG ROAD AUSTRAL 2179",
     "locID": "LOC000192203526",
     "tech": "FTTP",
@@ -94001,6 +94545,108 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "202 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRj96XU68376s",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "113 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRKA1j3Rxe01k",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184495"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "96 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRbDumsIZzEds",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184496"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "74 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRA3JRzhjYUJk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184515"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "165 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRATZqAVIXfZk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184516"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "66 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRxFzBdmW6vUw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184545"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7935554,
      -33.93114609
     ]
@@ -94018,6 +94664,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "49 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR-qeXC58A1g0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184576"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "119 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRmCmAQIU43bs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "179 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRbpTMz6KAeZY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184601"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "53 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRUWzMXv5NzOo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7935554,
      -33.93114609
     ]
@@ -94028,6 +94742,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721184612"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "196 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRYywswvF9tAY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184619"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "84 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRLBDv7QYLUys",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184620"
    }
   },
   {
@@ -94086,6 +94834,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "56 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRTkvTPQmIaX4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184867"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7935554,
      -33.93114609
     ]
@@ -94113,6 +94878,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721184870"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "170 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRSycRjap8VGA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184871"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "100 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR1p5YHvE2UlE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184890"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "112 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR630m_fv5lQY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "166 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRTcpY8fqfTvo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184892"
    }
   },
   {
@@ -94154,6 +94987,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "157 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRiUWCN3s_AH0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184895"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94188,6 +95038,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "60 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRj1AYxT3A20Q",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184929"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "86 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRwJMBopcGMzc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184948"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "125 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRT9qlW5G4NFE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184949"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94205,6 +95106,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "50 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRZ7KK26AVVTU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184982"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "48 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsREUEgMh2ijUM",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "69 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRZkSLImUKPiM",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184997"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "74 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRyNeN5gcKtfc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721184998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79382439,
      -33.93874081
     ]
@@ -94215,6 +95184,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721185011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "65 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR5NrYBiO2Zpw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185025"
    }
   },
   {
@@ -94256,6 +95242,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "72 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRQy-UeY02klE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94266,6 +95269,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721185050"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "178 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR0iMtdBFWIEk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185106"
    }
   },
   {
@@ -94324,6 +95344,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "72 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRCkS1hIbxOy8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7935554,
      -33.93114609
     ]
@@ -94334,6 +95371,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721185337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "153 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRyr5i1LKaj0Y",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185338"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "111 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRhYAQNOCeDvU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185339"
    }
   },
   {
@@ -94358,6 +95429,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "192 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRG74jvZuCd94",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185353"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79196806,
      -33.93459869
     ]
@@ -94368,6 +95456,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721185354"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "111 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsREzAJVLHvRvc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185356"
    }
   },
   {
@@ -94409,6 +95514,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "98 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRA2TB1hnRL1w",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185380"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94419,6 +95541,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721185419"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "109 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRuQvLlwUTGpo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185420"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "80 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRCl-T53TQkng",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185421"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "187 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRu39xjwWBFvo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185422"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "137 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRJOlw5TbLa6s",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185423"
    }
   },
   {
@@ -94460,6 +95650,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "190 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRcArgQLQXrmQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185511"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "173 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRoeYpAWrh3QQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185540"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79382439,
      -33.93874081
     ]
@@ -94494,6 +95718,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "63 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR8TVrNSaEcME",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185786"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79196806,
      -33.93459869
     ]
@@ -94504,6 +95745,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721185787"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "62 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRx9JIClX5qvM",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185788"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "44 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRXkhN6IplxfU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185789"
    }
   },
   {
@@ -94562,6 +95837,244 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "55 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRMkm22DooI28",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "76 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRA_uB7FyN89M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185794"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "172 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR6fIeWV4qOGo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "194 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRkSOTjEK5uKs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185796"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "161 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRcqUV7-hajZw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185797"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "171 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRu7Um5lk3WNg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185798"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "181 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRUhxgbI_uwt0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185811"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "200 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRLE29un0c7KE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185812"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "120 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRDpIxPyAACj8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185813"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "105 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRJ6aXVrSFl0E",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185814"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "145 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRzl8Xf_2D-A8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185830"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "182 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRKODAmomKKHE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185850"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "183 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRa_MN2b4C9JQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185851"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "198 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR-wzb1oqLLCc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185875"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94572,6 +96085,125 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721185876"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "188 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR06a-Sf5fB1w",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185877"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "167 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRb-zCB2jFYK4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185878"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "121 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRB2bknuoam5Y",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "180 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRBZfb34MPMPA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "73 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRm5qy0HxIR_I",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185904"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "94 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR6qs3hYjXWpw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185916"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "62 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR3F4ud2wdugg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185927"
    }
   },
   {
@@ -94630,6 +96262,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "133 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR5uv7tUmxnP4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "115 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRLgN5NKttjSo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185997"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "176 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRDjLRvDstspU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721185998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.82524557,
      -33.91396955
     ]
@@ -94681,6 +96364,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "64 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRWFKMENaBeo8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7935554,
      -33.93114609
     ]
@@ -94703,11 +96403,96 @@
     ]
    },
    "properties": {
+    "name": "101 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRzB7OPfG60CA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186248"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "151 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRBCpDOrAau9A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "147 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRMMKWTj3eYVI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186250"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "90 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR4beb8AVEtr0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186251"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
     "name": "128 GALGALYUNG ROAD AUSTRAL 2179",
     "locID": "LOC000192206165",
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721186252"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "149 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRL4MJnLvFm2A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186271"
    }
   },
   {
@@ -94749,6 +96534,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "177 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRS4qflDQloOk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94759,6 +96561,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721186303"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "76 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR8iIw_tQ7QMY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186305"
    }
   },
   {
@@ -94783,6 +96602,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "117 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR5diQO1BGAPo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186332"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94793,6 +96629,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721186333"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "175 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRXw8S0WP4TSU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "102 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR-ZuqrjL8XEA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186335"
    }
   },
   {
@@ -94827,6 +96697,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721186337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "78 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRlDZ3QHwHkvA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186378"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "42 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRPbOxrwgqIe4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186391"
    }
   },
   {
@@ -94902,6 +96806,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "47 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRv5MWpuuf0_g",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "129 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRTRkKzoU3fcY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "141 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR8saTca4ws8E",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186699"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -94912,6 +96867,57 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721186700"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "92 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRYKzYZ0Id0IA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "103 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRjCg3DT74OaU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186718"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "106 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsR1LmDB9nUmw8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186719"
    }
   },
   {
@@ -94958,6 +96964,23 @@
     ]
    },
    "properties": {
+    "name": "97 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRvTi1uu3n240",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
     "name": "160 GALGALYUNG ROAD AUSTRAL 2179",
     "locID": "LOC000192203542",
     "tech": "FTTP",
@@ -94987,6 +97010,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "131 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRl0201VJe0hc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7938814,
      -33.93486509
     ]
@@ -95009,11 +97049,62 @@
     ]
    },
    "properties": {
+    "name": "71 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsRByZMxghgeg8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186837"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
     "name": "133 GALGALYUNG ROAD AUSTRAL 2179",
     "locID": "LOC000192205583",
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721186851"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7938814,
+     -33.93486509
+    ]
+   },
+   "properties": {
+    "name": "59 GALGALYUNG ROAD AUSTRAL 2179",
+    "locID": "ChIJZc6Dy8eSEmsR06R5tmZTHUs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186868"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79196806,
+     -33.93459869
+    ]
+   },
+   "properties": {
+    "name": "163 HOROLOGIUM ROAD AUSTRAL 2179",
+    "locID": "ChIJB2_G78eSEmsRdy1CVBURYp0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721186880"
    }
   },
   {
@@ -95191,6 +97282,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81899377,
+     -33.91853651
+    ]
+   },
+   "properties": {
+    "name": "44 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJW2LxlgOTEmsRoBBhkyyCWJw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721235979"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.81139356,
      -33.9413452
     ]
@@ -95337,6 +97445,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721236391"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81940466,
+     -33.91816729
+    ]
+   },
+   "properties": {
+    "name": "33 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJ1yU57QOTEmsRofyxwSgDDbU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721236449"
    }
   },
   {
@@ -95524,6 +97649,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721237008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81859032,
+     -33.94364953
+    ]
+   },
+   "properties": {
+    "name": "114 LIPPIZAN ROAD AUSTRAL 2179",
+    "locID": "ChIJQTEC6yiTEmsRRATlhLVXb6A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721237024"
    }
   },
   {
@@ -96330,6 +98472,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81879295,
+     -33.91808369
+    ]
+   },
+   "properties": {
+    "name": "43 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJzdJVlQOTEmsRBEISG2H_G-0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721238799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.82746857,
      -33.91813909
     ]
@@ -96408,6 +98567,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721239136"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81928049,
+     -33.91815585
+    ]
+   },
+   "properties": {
+    "name": "35 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJe-HP7AOTEmsR16B3CFb_BF8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721239148"
    }
   },
   {
@@ -96959,6 +99135,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81905087,
+     -33.91812393
+    ]
+   },
+   "properties": {
+    "name": "39 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJxXA16wOTEmsRsQpA4O8wfOQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721240444"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.81593353,
      -33.93274505
     ]
@@ -97214,6 +99407,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81856789,
+     -33.94376157
+    ]
+   },
+   "properties": {
+    "name": "113 LIPPIZAN ROAD AUSTRAL 2179",
+    "locID": "ChIJkRjJ6yiTEmsRtZTGTJ0qPg0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721241327"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81931417,
+     -33.91858105
+    ]
+   },
+   "properties": {
+    "name": "38 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJzS10kQOTEmsRaXnfgU6-XZc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721241383"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7979558,
      -33.94604471
     ]
@@ -97258,6 +99485,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721241582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81910058,
+     -33.91855136
+    ]
+   },
+   "properties": {
+    "name": "42 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJ2XnIlgOTEmsRiOyC3mHCC2c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721241641"
    }
   },
   {
@@ -97479,6 +99723,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721242217"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81920738,
+     -33.91856621
+    ]
+   },
+   "properties": {
+    "name": "40 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJXRVHkQOTEmsRP79F-4-UPW4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721242229"
    }
   },
   {
@@ -98098,6 +100359,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81857002,
+     -33.94408412
+    ]
+   },
+   "properties": {
+    "name": "111 LIPPIZAN ROAD AUSTRAL 2179",
+    "locID": "ChIJfSSM6CiTEmsRtILM4dJiTXY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244046"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.80141529,
      -33.94398287
     ]
@@ -98217,6 +100495,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81854546,
+     -33.94387362
+    ]
+   },
+   "properties": {
+    "name": "112 LIPPIZAN ROAD AUSTRAL 2179",
+    "locID": "ChIJA1tu6SiTEmsRLeCNMQ_W5-8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244423"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.80145256,
      -33.94379703
     ]
@@ -98278,6 +100573,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721244671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81916568,
+     -33.91813988
+    ]
+   },
+   "properties": {
+    "name": "37 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJ1VGp7AOTEmsRjutRYienyMA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244690"
    }
   },
   {
@@ -98363,23 +100675,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721244962"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.81876826,
-     -33.91856185
-    ]
-   },
-   "properties": {
-    "name": "9 CRAIK AVENUE AUSTRAL 2179",
-    "locID": "Eig5IENyYWlrIEF2ZSwgQXVzdHJhbCBOU1cgMjE3OSwgQXVzdHJhbGlhIjASLgoUChIJzeeswQOTEmsRgKqL5Wd9ARMQCSoUChIJS1ogaAGTEmsRtiqEIobArAU",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721244996"
    }
   },
   {
@@ -98812,6 +101107,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81942263,
+     -33.91859613
+    ]
+   },
+   "properties": {
+    "name": "36 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJVbkcjgOTEmsR8L_rYj5-GZI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721246568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79375749,
      -33.9318818
     ]
@@ -98941,6 +101253,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721247262"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81647657,
+     -33.93764478
+    ]
+   },
+   "properties": {
+    "name": "3 SPARKES CRESCENT AUSTRAL 2179",
+    "locID": "ChIJt8ztPCeTEmsRAQsoeXCrkjU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721247265"
    }
   },
   {
@@ -99094,6 +101423,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721247631"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81861273,
+     -33.94353747
+    ]
+   },
+   "properties": {
+    "name": "115 LIPPIZAN ROAD AUSTRAL 2179",
+    "locID": "ChIJ1S3U6iiTEmsRkdbdl2fPWRU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721247694"
    }
   },
   {
@@ -99356,6 +101702,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81840615,
+     -33.94406526
+    ]
+   },
+   "properties": {
+    "name": "110 LIPPIZAN ROAD AUSTRAL 2179",
+    "locID": "ChIJUXxS7yiTEmsRZMtDJajXqcw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721248529"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.81149638,
      -33.94135543
     ]
@@ -99536,6 +101899,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721249081"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.81893606,
+     -33.91810796
+    ]
+   },
+   "properties": {
+    "name": "41 CARNAMAH ROAD AUSTRAL 2179",
+    "locID": "ChIJ85UslQOTEmsR6yt9UGk_nHU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721249153"
    }
   },
   {
@@ -100043,7 +102423,7 @@
    "properties": {
     "name": "26 NINTH AVENUE AUSTRAL 2179",
     "locID": "EikyNiBOaW50aCBBdmUsIEF1c3RyYWwgTlNXIDIxNzksIEF1c3RyYWxpYSIwEi4KFAoSCV2piEonkxJrEQEJJ6GAh5EaEBoqFAoSCZ2lMOrbkhJrEQGaRrA7KlC7",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721261386"
    }
@@ -100823,6 +103203,23 @@
     ]
    },
    "properties": {
+    "name": "1 SITELLA AVENUE AUSTRAL 2179",
+    "locID": "LOC000191358247",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721269195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80831087,
+     -33.92683509
+    ]
+   },
+   "properties": {
     "name": "5 THREKALD STREET AUSTRAL 2179",
     "locID": "LOC000182843473",
     "tech": "FTTP",
@@ -101311,6 +103708,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.80831087,
+     -33.92683509
+    ]
+   },
+   "properties": {
+    "name": "19 SITELLA AVENUE AUSTRAL 2179",
+    "locID": "ChIJ0fIJKueSEmsRPPptj8F2HnY",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721270112"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.81789851,
      -33.94412708
     ]
@@ -101576,6 +103990,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721270488"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80831087,
+     -33.92683509
+    ]
+   },
+   "properties": {
+    "name": "3 SITELLA AVENUE AUSTRAL 2179",
+    "locID": "ChIJ0fIJKueSEmsRAp0DH3Z5Jvo",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721270492"
    }
   },
   {
