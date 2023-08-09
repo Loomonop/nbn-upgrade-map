@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-06-29T06:49:36.910478",
+ "generated": "2023-08-09T16:51:35.257941",
  "suburb": "CONCORD",
  "features": [
   {
@@ -7767,7 +7767,7 @@
    "properties": {
     "name": "80 CABARITA ROAD CONCORD 2137",
     "locID": "LOC000193175431",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704436704"
    }
@@ -8821,8 +8821,8 @@
    "properties": {
     "name": "11 DAVID STREET CONCORD 2137",
     "locID": "LOC000084242830",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704436785"
    }
   },
@@ -15621,8 +15621,8 @@
    "properties": {
     "name": "11 BURTON STREET CONCORD 2137",
     "locID": "LOC000083931583",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704439321"
    }
   },
@@ -21428,23 +21428,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09325859,
-     -33.85844267
-    ]
-   },
-   "properties": {
-    "name": "132 WELLBANK STREET CONCORD 2137",
-    "locID": "LOC000024608053",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704440286"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.09294049,
      -33.85851123
     ]
@@ -26368,23 +26351,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704442713"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.09892338,
-     -33.86540795
-    ]
-   },
-   "properties": {
-    "name": "21 COLES STREET CONCORD 2137",
-    "locID": "LOC000024135492",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704442714"
    }
   },
   {
@@ -45508,7 +45474,7 @@
     "name": "12 TRIPOD STREET CONCORD 2137",
     "locID": "LOC000075787603",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704446853"
    }
   },
@@ -47581,8 +47547,8 @@
    "properties": {
     "name": "32 BURWOOD ROAD CONCORD 2137",
     "locID": "LOC000003126311",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704447529"
    }
   },
@@ -55810,7 +55776,7 @@
     "name": "21 MARCEAU DRIVE CONCORD 2137",
     "locID": "LOC000064339018",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704451883"
    }
   },
@@ -62371,8 +62337,8 @@
    "properties": {
     "name": "1 MARCEAU DRIVE CONCORD 2137",
     "locID": "LOC000071090864",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704454490"
    }
   },
@@ -66808,8 +66774,8 @@
    "properties": {
     "name": "25 ARCHER STREET CONCORD 2137",
     "locID": "LOC000003006140",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704456981"
    }
   },
@@ -105603,7 +105569,7 @@
     "name": "23A GALE STREET CONCORD 2137",
     "locID": "LOC000173001099",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719841428"
    }
   },
