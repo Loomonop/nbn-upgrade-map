@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-02T21:57:23.416631",
+ "generated": "2023-08-10T17:00:32.223433",
  "suburb": "SEFTON",
  "features": [
   {
@@ -1800,8 +1800,8 @@
    "properties": {
     "name": "23 ROSE STREET SEFTON 2162",
     "locID": "LOC000094827960",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705863692"
    }
   },
@@ -4809,8 +4809,8 @@
    "properties": {
     "name": "32 PROCTOR PARADE SEFTON 2162",
     "locID": "LOC000065304495",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705870974"
    }
   },
@@ -6985,8 +6985,8 @@
    "properties": {
     "name": "84 ROSE STREET SEFTON 2162",
     "locID": "LOC000081062564",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705877298"
    }
   },
@@ -12884,8 +12884,8 @@
    "properties": {
     "name": "33 BATT STREET SEFTON 2162",
     "locID": "LOC000031408755",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705888684"
    }
   },
@@ -17253,8 +17253,8 @@
    "properties": {
     "name": "121 HECTOR STREET SEFTON 2162",
     "locID": "LOC000073540892",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705894776"
    }
   },
@@ -18885,8 +18885,8 @@
    "properties": {
     "name": "20 ALLAWAH AVENUE SEFTON 2162",
     "locID": "LOC000070712268",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705897838"
    }
   },
@@ -21877,8 +21877,8 @@
    "properties": {
     "name": "28 VIRGIL AVENUE SEFTON 2162",
     "locID": "LOC000037939020",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705902252"
    }
   },
@@ -28126,6 +28126,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.01297388,
+     -33.89650435
+    ]
+   },
+   "properties": {
+    "name": "76-86 FERRIER ROAD SEFTON 2162",
+    "locID": "LOC000156740265",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW710109838"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.00992052,
      -33.87737682
     ]
@@ -30462,7 +30479,7 @@
    "properties": {
     "name": "149B WELLINGTON ROAD SEFTON 2162",
     "locID": "ChIJGbiElVC8EmsR4U44oLnHCeg",
-    "tech": "FTTC",
+    "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711218004"
    }
@@ -41784,8 +41801,8 @@
    "properties": {
     "name": "UNIT 1, 84 ROSE STREET SEFTON 2162",
     "locID": "LOC000081062564",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721121590"
    }
   },
