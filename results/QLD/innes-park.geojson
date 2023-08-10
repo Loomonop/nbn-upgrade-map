@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-11T17:24:52.478467",
+ "generated": "2023-08-10T17:48:44.505132",
  "suburb": "INNES PARK",
  "features": [
   {
@@ -3959,8 +3959,8 @@
    "properties": {
     "name": "13 GREVILLEA AVENUE INNES PARK 4670",
     "locID": "LOC000058835095",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156678138"
    }
   },
@@ -6476,7 +6476,7 @@
     "name": "10 MAGNOLIA COURT INNES PARK 4670",
     "locID": "LOC000014262265",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156682622"
    }
   },
@@ -6510,7 +6510,7 @@
     "name": "12 MAGNOLIA COURT INNES PARK 4670",
     "locID": "LOC000075991777",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156682624"
    }
   },
@@ -9841,8 +9841,8 @@
    "properties": {
     "name": "14 AMRONEL CLOSE INNES PARK 4670",
     "locID": "LOC000019055908",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156693730"
    }
   },
@@ -10997,8 +10997,8 @@
    "properties": {
     "name": "29 RIFLE RANGE ROAD INNES PARK 4670",
     "locID": "LOC000009529478",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157303758"
    }
   },
@@ -12068,8 +12068,8 @@
    "properties": {
     "name": "20 SELMAR PLACE INNES PARK 4670",
     "locID": "LOC000068477535",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160311298"
    }
   },
@@ -13074,40 +13074,6 @@
     "tech": "SATELLITE",
     "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD161055918"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.46321476,
-     -24.8504749
-    ]
-   },
-   "properties": {
-    "name": "LOT 43 BACK WINDERMERE ROAD INNES PARK 4670",
-    "locID": "EjU0MyBCYWNrIFdpbmRlcm1lcmUgUmQsIElubmVzIFBhcmsgUUxEIDQ2NzAsIEF1c3RyYWxpYSIwEi4KFAoSCeXRD5hvletrEbwjNaNoIXPiECsqFAoSCecF4YebletrEUFDpXPMpMZB",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161055919"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.46305842,
-     -24.84920628
-    ]
-   },
-   "properties": {
-    "name": "LOT 44 BACK WINDERMERE ROAD INNES PARK 4670",
-    "locID": "EjU0NCBCYWNrIFdpbmRlcm1lcmUgUmQsIElubmVzIFBhcmsgUUxEIDQ2NzAsIEF1c3RyYWxpYSIwEi4KFAoSCeXRD5hvletrEbwjNaNoIXPiECwqFAoSCecF4YebletrEUFDpXPMpMZB",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161055920"
    }
   },
   {
@@ -17220,7 +17186,7 @@
     "name": "7-9 RIFLE RANGE ROAD INNES PARK 4670",
     "locID": "LOC000128828783",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163115455"
    }
   },
@@ -20449,7 +20415,7 @@
    "properties": {
     "name": "3 HEADLANDS ESPLANADE INNES PARK 4670",
     "locID": "LOC000184758930",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720373756"
    }
