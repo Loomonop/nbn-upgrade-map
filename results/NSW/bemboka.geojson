@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-04T14:21:09.708539",
+ "generated": "2023-08-11T03:05:14.376819",
  "suburb": "BEMBOKA",
  "features": [
   {
@@ -985,7 +985,7 @@
     "name": "211 ALCOCK COLLINS LANE BEMBOKA 2550",
     "locID": "LOC000121500048",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW704075989"
    }
   },
@@ -2107,7 +2107,7 @@
     "name": "2367 SNOWY MOUNTAINS HIGHWAY BEMBOKA 2550",
     "locID": "LOC000005620550",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW704088033"
    }
   },
@@ -2923,7 +2923,7 @@
     "name": "267 BUCKLEYS ROAD BEMBOKA 2550",
     "locID": "LOC000104048478",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW708582840"
    }
   },
@@ -4045,7 +4045,7 @@
     "name": "674 POLACKS FLAT ROAD BEMBOKA 2550",
     "locID": "LOC000064847180",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GANSW717002329"
    }
   },
@@ -7634,6 +7634,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719062583"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.50010897,
+     -36.61829431
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 BUCKLEYS RIDGE ROAD BEMBOKA 2550",
+    "locID": "ChIJAQmfuPM3PGsReGb-vOKuBIk",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW719063667"
    }
   },
   {
