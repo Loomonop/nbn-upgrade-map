@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-04T23:36:56.371149",
+ "generated": "2023-08-11T05:52:42.987036",
  "suburb": "LEPPINGTON",
  "features": [
   {
@@ -66,8 +66,8 @@
    "properties": {
     "name": "42 ALMA ROAD LEPPINGTON 2179",
     "locID": "LOC000024961798",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705186287"
    }
   },
@@ -1511,8 +1511,8 @@
    "properties": {
     "name": "348 EASTWOOD ROAD LEPPINGTON 2179",
     "locID": "LOC000091815389",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705188158"
    }
   },
@@ -2361,8 +2361,8 @@
    "properties": {
     "name": "228 GEORGE ROAD LEPPINGTON 2179",
     "locID": "LOC000054535596",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705190293"
    }
   },
@@ -9637,7 +9637,7 @@
    "properties": {
     "name": "UNIT 1, 1481 CAMDEN VALLEY WAY LEPPINGTON 2179",
     "locID": "LOC000192266904",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708133004"
    }
@@ -10045,7 +10045,7 @@
    "properties": {
     "name": "UNIT 14, 1481 CAMDEN VALLEY WAY LEPPINGTON 2179",
     "locID": "LOC000192266904",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708149660"
    }
@@ -10759,7 +10759,7 @@
    "properties": {
     "name": "UNIT 2, 1481 CAMDEN VALLEY WAY LEPPINGTON 2179",
     "locID": "LOC000192266904",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708153882"
    }
@@ -10980,7 +10980,7 @@
    "properties": {
     "name": "UNIT 3, 1481 CAMDEN VALLEY WAY LEPPINGTON 2179",
     "locID": "LOC000192266915",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708156913"
    }
@@ -11099,7 +11099,7 @@
    "properties": {
     "name": "UNIT 4, 1481 CAMDEN VALLEY WAY LEPPINGTON 2179",
     "locID": "LOC000192266927",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708157395"
    }
@@ -11218,7 +11218,7 @@
    "properties": {
     "name": "UNIT 21, 1481 CAMDEN VALLEY WAY LEPPINGTON 2179",
     "locID": "LOC000192266904",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708161096"
    }
@@ -11558,8 +11558,8 @@
    "properties": {
     "name": "89A HEATH ROAD LEPPINGTON 2179",
     "locID": "LOC000061038348",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW709538067"
    }
   },
@@ -15706,7 +15706,7 @@
    "properties": {
     "name": "116B INGLEBURN ROAD LEPPINGTON 2179",
     "locID": "ChIJAUDsoCXtEmsRT2bgaf0P1Pw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717375679"
    }
@@ -57543,7 +57543,7 @@
    "properties": {
     "name": "1471 CAMDEN VALLEY WAY LEPPINGTON 2179",
     "locID": "ChIJofwPONjsEmsRGtbRc6rq57g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720160206"
    }
@@ -76073,7 +76073,7 @@
    "properties": {
     "name": "UNIT 4, 34 BYRON ROAD LEPPINGTON 2179",
     "locID": "LOC000193250485",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720783258"
    }
@@ -78538,7 +78538,7 @@
    "properties": {
     "name": "5 PENNYWORT AVENUE LEPPINGTON 2179",
     "locID": "ChIJB7S-shjtEmsRqFW6jeyEBSM",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720787908"
    }
@@ -80612,7 +80612,7 @@
    "properties": {
     "name": "34 BYRON ROAD LEPPINGTON 2179",
     "locID": "LOC000193250485",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720800065"
    }
@@ -94443,6 +94443,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.79636561,
+     -33.96623693
+    ]
+   },
+   "properties": {
+    "name": "9 TEGEL LANE LEPPINGTON 2179",
+    "locID": "ChIJBRFGDj7tEmsRq2ZtHUl4wK4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721236327"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79405735,
      -33.96405613
     ]
@@ -94460,16 +94477,16 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.79650455,
-     -33.96575229
+     150.79657522,
+     -33.96603006
     ]
    },
    "properties": {
-    "name": "3 HOLLY STREET LEPPINGTON 2179",
-    "locID": "EiozIEhvbGx5IFN0LCBMZXBwaW5ndG9uIE5TVyAyMTc5LCBBdXN0cmFsaWEiMBIuChQKEglnH7hwPu0SaxFiLjPqGrI-LBADKhQKEgmp6v5tPu0SaxF_Xw98hY7Trg",
+    "name": "5 TEGEL LANE LEPPINGTON 2179",
+    "locID": "ChIJg8l8DD7tEmsR49I5Qrx_X-U",
     "tech": "NULL",
     "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721238400"
+    "gnaf_pid": "GANSW721236584"
    }
   },
   {
@@ -94477,16 +94494,50 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.79633357,
-     -33.96552604
+     150.79668042,
+     -33.96592711
     ]
    },
    "properties": {
-    "name": "11 HOLLY STREET LEPPINGTON 2179",
-    "locID": "EisxMSBIb2xseSBTdCwgTGVwcGluZ3RvbiBOU1cgMjE3OSwgQXVzdHJhbGlhIjASLgoUChIJZx-4cD7tEmsRYi4z6hqyPiwQCyoUChIJqer-bT7tEmsRf18PfIWO064",
+    "name": "3 TEGEL LANE LEPPINGTON 2179",
+    "locID": "ChIJ9ZNFCz7tEmsRePf5gsQT1jg",
     "tech": "NULL",
     "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721238490"
+    "gnaf_pid": "GANSW721236642"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.79622998,
+     -33.96637258
+    ]
+   },
+   "properties": {
+    "name": "11 TEGEL LANE LEPPINGTON 2179",
+    "locID": "ChIJbY8EED7tEmsRrtX07RORcRU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721237740"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7964704,
+     -33.96613347
+    ]
+   },
+   "properties": {
+    "name": "7 TEGEL LANE LEPPINGTON 2179",
+    "locID": "ChIJHx8pDD7tEmsRLI2xisu3jo0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721239388"
    }
   },
   {
@@ -94545,23 +94596,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.79654664,
-     -33.96554123
-    ]
-   },
-   "properties": {
-    "name": "9 HOLLY STREET LEPPINGTON 2179",
-    "locID": "Eio5IEhvbGx5IFN0LCBMZXBwaW5ndG9uIE5TVyAyMTc5LCBBdXN0cmFsaWEiMBIuChQKEglnH7hwPu0SaxFiLjPqGrI-LBAJKhQKEgmp6v5tPu0SaxF_Xw98hY7Trg",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721242513"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.7967736,
      -33.96607235
     ]
@@ -94572,23 +94606,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721242583"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.79632926,
-     -33.96527204
-    ]
-   },
-   "properties": {
-    "name": "17 HOLLY STREET LEPPINGTON 2179",
-    "locID": "EisxNyBIb2xseSBTdCwgTGVwcGluZ3RvbiBOU1cgMjE3OSwgQXVzdHJhbGlhIjASLgoUChIJZx-4cD7tEmsRYi4z6hqyPiwQESoUChIJqer-bT7tEmsRf18PfIWO064",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721242997"
    }
   },
   {
@@ -94630,40 +94647,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.79663415,
-     -33.96565513
-    ]
-   },
-   "properties": {
-    "name": "5 HOLLY STREET LEPPINGTON 2179",
-    "locID": "Eio1IEhvbGx5IFN0LCBMZXBwaW5ndG9uIE5TVyAyMTc5LCBBdXN0cmFsaWEiMBIuChQKEglnH7hwPu0SaxFiLjPqGrI-LBAFKhQKEgmp6v5tPu0SaxF_Xw98hY7Trg",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721246794"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.79645915,
-     -33.96542734
-    ]
-   },
-   "properties": {
-    "name": "13 HOLLY STREET LEPPINGTON 2179",
-    "locID": "EisxMyBIb2xseSBTdCwgTGVwcGluZ3RvbiBOU1cgMjE3OSwgQXVzdHJhbGlhIjASLgoUChIJZx-4cD7tEmsRYi4z6hqyPiwQDSoUChIJqer-bT7tEmsRf18PfIWO064",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721247939"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.80400117,
      -33.96788678
     ]
@@ -94674,23 +94657,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721248801"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.79641705,
-     -33.9656384
-    ]
-   },
-   "properties": {
-    "name": "7 HOLLY STREET LEPPINGTON 2179",
-    "locID": "Eio3IEhvbGx5IFN0LCBMZXBwaW5ndG9uIE5TVyAyMTc5LCBBdXN0cmFsaWEiMBIuChQKEglnH7hwPu0SaxFiLjPqGrI-LBAHKhQKEgmp6v5tPu0SaxF_Xw98hY7Trg",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW721249196"
    }
   },
   {
