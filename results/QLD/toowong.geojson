@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-12T09:20:35.227864",
+ "generated": "2023-08-11T09:49:36.033258",
  "suburb": "TOOWONG",
  "features": [
   {
@@ -6543,7 +6543,7 @@
    "properties": {
     "name": "130 SYLVAN ROAD TOOWONG 4066",
     "locID": "LOC000193258717",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155904974"
    }
@@ -9552,8 +9552,8 @@
    "properties": {
     "name": "9 PIONEER STREET TOOWONG 4066",
     "locID": "LOC000021676496",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155907332"
    }
   },
@@ -13601,23 +13601,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155910706"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.98645283,
-     -27.47509206
-    ]
-   },
-   "properties": {
-    "name": "15 VICTORIA CRESCENT TOOWONG 4066",
-    "locID": "LOC000093621640",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155910707"
    }
   },
   {
@@ -33931,7 +33914,7 @@
     "name": "37 HOLMES STREET TOOWONG 4066",
     "locID": "LOC000014847836",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157232771"
    }
   },
@@ -39693,8 +39676,8 @@
    "properties": {
     "name": "53 QUINN STREET TOOWONG 4066",
     "locID": "LOC000060420382",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157246738"
    }
   },
@@ -43603,8 +43586,8 @@
    "properties": {
     "name": "35 JEPHSON STREET TOOWONG 4066",
     "locID": "LOC000054680691",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157253527"
    }
   },
@@ -51576,7 +51559,7 @@
    "properties": {
     "name": "UNIT 2, 130 SYLVAN ROAD TOOWONG 4066",
     "locID": "LOC000193258717",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158745250"
    }
@@ -55707,7 +55690,7 @@
    "properties": {
     "name": "UNIT 1, 130 SYLVAN ROAD TOOWONG 4066",
     "locID": "LOC000193258717",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158755657"
    }
@@ -116380,7 +116363,7 @@
    "properties": {
     "name": "UNIT 3, 130 SYLVAN ROAD TOOWONG 4066",
     "locID": "LOC000193258717",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425180422"
    }

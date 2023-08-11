@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-12T08:56:59.703498",
+ "generated": "2023-08-11T09:36:56.099205",
  "suburb": "TOOGOOM",
  "features": [
   {
@@ -9212,8 +9212,8 @@
    "properties": {
     "name": "144 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC000083040431",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157250205"
    }
   },
@@ -14397,8 +14397,8 @@
    "properties": {
     "name": "5 AQUA COURT TOOGOOM 4655",
     "locID": "LOC000022715680",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162097637"
    }
   },
@@ -16743,8 +16743,8 @@
    "properties": {
     "name": "69 SHELLCOT STREET TOOGOOM 4655",
     "locID": "LOC000027697233",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162106915"
    }
   },
@@ -22744,7 +22744,7 @@
    "properties": {
     "name": "50 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395389",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719134176"
    }
@@ -22761,7 +22761,7 @@
    "properties": {
     "name": "46 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395362",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719134177"
    }
@@ -22778,7 +22778,7 @@
    "properties": {
     "name": "54 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395423",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719134659"
    }
@@ -22795,7 +22795,7 @@
    "properties": {
     "name": "48 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395370",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719138499"
    }
@@ -22812,7 +22812,7 @@
    "properties": {
     "name": "52 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395406",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719141803"
    }
@@ -23390,7 +23390,7 @@
    "properties": {
     "name": "191 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395508",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719562183"
    }
@@ -23424,7 +23424,7 @@
    "properties": {
     "name": "195 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395481",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719563676"
    }
@@ -23441,7 +23441,7 @@
    "properties": {
     "name": "197 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395475",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719564787"
    }
@@ -23475,7 +23475,7 @@
    "properties": {
     "name": "193 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395499",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719566981"
    }
@@ -23492,7 +23492,7 @@
    "properties": {
     "name": "201 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395434",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719569075"
    }
@@ -23509,7 +23509,7 @@
    "properties": {
     "name": "199 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395452",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719569996"
    }
@@ -24879,23 +24879,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.70362759,
-     -25.26540337
-    ]
-   },
-   "properties": {
-    "name": "LOT 102 CARKEET ROAD TOOGOOM 4655",
-    "locID": "EisxMDIgQ2Fya2VldCBSZCwgVG9vZ29vbSBRTEQgNDY1NSwgQXVzdHJhbGlhIjASLgoUChIJuaFgSRx562sRXRGwcK48nQYQZioUChIJqWfJQxx562sRP4wndWj_rsk",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720673552"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.68640222,
      -25.25281238
     ]
@@ -25382,23 +25365,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721082957"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.70316152,
-     -25.26905331
-    ]
-   },
-   "properties": {
-    "name": "LOT 94 CARKEET ROAD TOOGOOM 4655",
-    "locID": "Eio5NCBDYXJrZWV0IFJkLCBUb29nb29tIFFMRCA0NjU1LCBBdXN0cmFsaWEiMBIuChQKEgm5oWBJHHnraxFdEbBwrjydBhBeKhQKEgmpZ8lDHHnraxE_jCd1aP-uyQ",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD721119750"
    }
   }
  ]
