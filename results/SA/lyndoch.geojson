@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-17T07:01:30.743251",
+ "generated": "2023-08-12T13:59:43.015691",
  "suburb": "LYNDOCH",
  "features": [
   {
@@ -5507,7 +5507,7 @@
     "name": "UNIT 1, 14 KAUFFMANN AVENUE LYNDOCH 5351",
     "locID": "LOC000019313604",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415617917"
    }
   },
@@ -5524,7 +5524,7 @@
     "name": "UNIT 2, 14 KAUFFMANN AVENUE LYNDOCH 5351",
     "locID": "LOC000019261051",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415617918"
    }
   },
@@ -5541,7 +5541,7 @@
     "name": "UNIT 3, 14 KAUFFMANN AVENUE LYNDOCH 5351",
     "locID": "LOC000019313604",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415617919"
    }
   },
@@ -5558,7 +5558,7 @@
     "name": "UNIT 4, 14 KAUFFMANN AVENUE LYNDOCH 5351",
     "locID": "LOC000019317036",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415617920"
    }
   },
@@ -10437,7 +10437,7 @@
     "name": "14 KAUFFMANN AVENUE LYNDOCH 5351",
     "locID": "LOC000019313604",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423699205"
    }
   },
@@ -10864,23 +10864,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424110541"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.89364252,
-     -34.62105644
-    ]
-   },
-   "properties": {
-    "name": "LOT 127 LYNDOCH VALLEY ROAD LYNDOCH 5351",
-    "locID": "EjExMjcgTHluZG9jaCBWYWxsZXkgUmQsIEx5bmRvY2ggU0EgNTM1MSwgQXVzdHJhbGlhIjASLgoUChIJu2Sd-EbjuWoR9GdJ6QaooVYQfyoUChIJi6wQ5SfjuWoR7paIm-073m4",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_424112782"
    }
   },
   {
@@ -11449,6 +11432,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.87044867,
+     -34.55803857
+    ]
+   },
+   "properties": {
+    "name": "LOT 17 HARVEY ROAD LYNDOCH 5351",
+    "locID": "LOC000114492534",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424225426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.86540505,
      -34.61390173
     ]
@@ -11510,23 +11510,6 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424230084"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.90416694,
-     -34.59407909
-    ]
-   },
-   "properties": {
-    "name": "LOT 1 ALTONA ROAD LYNDOCH 5351",
-    "locID": "EicxIEFsdG9uYSBSZCwgTHluZG9jaCBTQSA1MzUxLCBBdXN0cmFsaWEiMBIuChQKEglx5zCIn-S5ahHgOVADWDYDExABKhQKEgnBuXXKk-S5ahHHxM4wWND8fg",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_424230085"
    }
   },
   {
@@ -11624,11 +11607,11 @@
     ]
    },
    "properties": {
-    "name": "LOT 5 ALTONA ROAD LYNDOCH 5351",
-    "locID": "LOC000078139090",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_424230092"
+    "name": "LOT 51 ALTONA ROAD LYNDOCH 5351",
+    "locID": "Eig1MSBBbHRvbmEgUmQsIEx5bmRvY2ggU0EgNTM1MSwgQXVzdHJhbGlhIjASLgoUChIJxzKFC5nkuWoRgJzAd6Y0SJgQMyoUChIJwbl1ypPkuWoRx8TOMFjQ_H4",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424230091"
    }
   },
   {
@@ -11641,11 +11624,11 @@
     ]
    },
    "properties": {
-    "name": "LOT 8 ALTONA ROAD LYNDOCH 5351",
-    "locID": "Eic4IEFsdG9uYSBSZCwgTHluZG9jaCBTQSA1MzUxLCBBdXN0cmFsaWEiMBIuChQKEglx5zCIn-S5ahHgOVADWDYDExAIKhQKEgnBuXXKk-S5ahHHxM4wWND8fg",
+    "name": "LOT 5 ALTONA ROAD LYNDOCH 5351",
+    "locID": "LOC000078139090",
     "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_424230093"
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_424230092"
    }
   },
   {
@@ -12003,6 +11986,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424388608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.87207612,
+     -34.55846079
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 HARVEY ROAD LYNDOCH 5351",
+    "locID": "LOC000114492534",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424390074"
    }
   },
   {
@@ -12615,23 +12615,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424605970"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.89364252,
-     -34.62105644
-    ]
-   },
-   "properties": {
-    "name": "LOT 93 LYNDOCH VALLEY ROAD LYNDOCH 5351",
-    "locID": "EjA5MyBMeW5kb2NoIFZhbGxleSBSZCwgTHluZG9jaCBTQSA1MzUxLCBBdXN0cmFsaWEiMBIuChQKEgm7ZJ34RuO5ahH0Z0npBqihVhBdKhQKEgmLrBDlJ-O5ahHuloib7Tvebg",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_424607191"
    }
   },
   {
