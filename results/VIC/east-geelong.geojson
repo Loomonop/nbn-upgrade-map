@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-21T15:49:47.252580",
+ "generated": "2023-08-12T22:34:33.477405",
  "suburb": "EAST GEELONG",
  "features": [
   {
@@ -6289,7 +6289,7 @@
     "name": "UNIT 1, 32 NORMANBY STREET EAST GEELONG 3219",
     "locID": "LOC000056371857",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419724720"
    }
   },
@@ -11422,8 +11422,8 @@
    "properties": {
     "name": "36 LOMOND TERRACE EAST GEELONG 3219",
     "locID": "LOC000073043253",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420249814"
    }
   },
@@ -12868,7 +12868,7 @@
     "name": "32 NORMANBY STREET EAST GEELONG 3219",
     "locID": "LOC000056578416",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420328321"
    }
   },
@@ -23663,7 +23663,7 @@
     "name": "UNIT 2, 32 NORMANBY STREET EAST GEELONG 3219",
     "locID": "LOC000056330809",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421236496"
    }
   },
@@ -32554,7 +32554,7 @@
     "name": "13-13A ORMOND ROAD EAST GEELONG 3219",
     "locID": "LOC000040636730",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424363556"
    }
   },
@@ -34305,7 +34305,7 @@
     "name": "13 ORMOND ROAD EAST GEELONG 3219",
     "locID": "LOC000147159938",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425579564"
    }
   },
@@ -34375,6 +34375,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425780144"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.38760524,
+     -38.14844207
+    ]
+   },
+   "properties": {
+    "name": "101-161 HEARNE PARADE EAST GEELONG 3219",
+    "locID": "ChIJ33jq34YW1GoRTML5hgTFbNw",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425781000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37986496,
+     -38.14483301
+    ]
+   },
+   "properties": {
+    "name": "33-99 HEARNE PARADE EAST GEELONG 3219",
+    "locID": "ChIJ6XFX0YQW1GoRPYE_ZTzWugc",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425781001"
    }
   },
   {
