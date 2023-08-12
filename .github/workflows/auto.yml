@@ -8,6 +8,10 @@ jobs:
   auto-suburb:
     runs-on: ubuntu-latest
     steps:
+      - name: Sleep for 10 seconds
+        run: sleep 10s
+        shell: bash
+
       - name: Checkout
         uses: actions/checkout@v3
 
@@ -28,7 +32,7 @@ jobs:
 
       - name: Run program
         run: |
-          python code/main.py -i -t 30
+          python code/main.py -i -t 60
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
@@ -38,6 +42,7 @@ jobs:
           pull: '--rebase --autostash'
 
       - name: Start new workflow
+        if: success() || failure()
         uses: peter-evans/repository-dispatch@v2
         with:
           event-type: auto-suburb
