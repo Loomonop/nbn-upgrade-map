@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-21T09:08:53.585307",
+ "generated": "2023-08-12T19:08:16.835298",
  "suburb": "BEECHWORTH",
  "features": [
   {
@@ -6679,8 +6679,8 @@
    "properties": {
     "name": "8 KERFERD ROAD BEECHWORTH 3747",
     "locID": "LOC000007674847",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419958428"
    }
   },
@@ -7342,8 +7342,8 @@
    "properties": {
     "name": "43 FINCH STREET BEECHWORTH 3747",
     "locID": "LOC000044645622",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419971496"
    }
   },
@@ -19293,7 +19293,7 @@
    "properties": {
     "name": "23 MASONS ROAD BEECHWORTH 3747",
     "locID": "LOC000019592728",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421197391"
    }
@@ -38147,7 +38147,7 @@
     "name": "15A HIGH STREET BEECHWORTH 3747",
     "locID": "LOC000174036268",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719097850"
    }
   },
@@ -38778,6 +38778,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719460076"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.68808761,
+     -36.35841064
+    ]
+   },
+   "properties": {
+    "name": "111-113 FORD STREET BEECHWORTH 3747",
+    "locID": "EisxMTEgRm9yZCBTdCwgQmVlY2h3b3J0aCBWSUMgMzc0NywgQXVzdHJhbGlhIjASLgoUChIJF7ogI3GxJmsRj6IB81GjuDcQbyoUChIJDUX-RXKxJmsRO1GvMcZVrLQ",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719505502"
    }
   },
   {
@@ -42994,6 +43011,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721214703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.67799695,
+     -36.37011447
+    ]
+   },
+   "properties": {
+    "name": "41A BRIDGE ROAD BEECHWORTH 3747",
+    "locID": "LOC000051180383",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721215325"
    }
   },
   {

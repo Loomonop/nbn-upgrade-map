@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-21T08:42:09.058832",
+ "generated": "2023-08-12T18:54:04.306762",
  "suburb": "BALNARRING",
  "features": [
   {
@@ -5982,8 +5982,8 @@
    "properties": {
     "name": "58 BALNARRING BEACH ROAD BALNARRING 3926",
     "locID": "LOC000045082994",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420155625"
    }
   },
@@ -6237,8 +6237,8 @@
    "properties": {
     "name": "89 BALNARRING ROAD BALNARRING 3926",
     "locID": "LOC000021063064",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420160526"
    }
   },
@@ -6833,7 +6833,7 @@
     "name": "99 STUMPY GULLY ROAD BALNARRING 3926",
     "locID": "LOC000017664185",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420178143"
    }
   },
@@ -11473,8 +11473,8 @@
    "properties": {
     "name": "5 HALSEY STREET BALNARRING 3926",
     "locID": "LOC000059203610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421044670"
    }
   },
@@ -11592,8 +11592,8 @@
    "properties": {
     "name": "2980 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
     "locID": "LOC000106490414",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421047082"
    }
   },
@@ -14857,7 +14857,7 @@
     "name": "11 CAPITOL AVENUE BALNARRING 3926",
     "locID": "LOC000059620635",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421399581"
    }
   },
@@ -15128,8 +15128,8 @@
    "properties": {
     "name": "17 WESTPORT ROAD BALNARRING 3926",
     "locID": "LOC000014503787",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421413028"
    }
   },
@@ -15553,8 +15553,8 @@
    "properties": {
     "name": "4 WATTLE COURT BALNARRING 3926",
     "locID": "LOC000034775099",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421509050"
    }
   },
@@ -17739,6 +17739,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.12817037,
+     -38.37311647
+    ]
+   },
+   "properties": {
+    "name": "2881 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
+    "locID": "ChIJ_S0YF33C1WoRiAjYMLp7KRM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421814023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.125961,
      -38.373615
     ]
@@ -18070,7 +18087,7 @@
     "name": "99 BALNARRING ROAD BALNARRING 3926",
     "locID": "LOC000017664185",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422378327"
    }
   },
@@ -18339,6 +18356,74 @@
     ]
    },
    "properties": {
+    "name": "2822-2908 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
+    "locID": "ChIJ_S0YF33C1WoRCxusX3cTd34",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC422394778"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.12817037,
+     -38.37311647
+    ]
+   },
+   "properties": {
+    "name": "2857-2879 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
+    "locID": "ChIJ_S0YF33C1WoRViS4pBBKCrQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC422394779"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.12817037,
+     -38.37311647
+    ]
+   },
+   "properties": {
+    "name": "2883-2897 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
+    "locID": "ChIJ_S0YF33C1WoRV462LVGKI5Y",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC422394780"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.12817037,
+     -38.37311647
+    ]
+   },
+   "properties": {
+    "name": "2901-2923 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
+    "locID": "ChIJ_S0YF33C1WoRMZTuAzgroA8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC422394781"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.12817037,
+     -38.37311647
+    ]
+   },
+   "properties": {
     "name": "2927-2933 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
     "locID": "ChIJ_S0YF33C1WoR0m1D98509Dw",
     "tech": "FTTN",
@@ -18412,6 +18497,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422394790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.12817037,
+     -38.37311647
+    ]
+   },
+   "properties": {
+    "name": "3217-3243 FRANKSTON-FLINDERS ROAD BALNARRING 3926",
+    "locID": "ChIJ_S0YF33C1WoRu74niWE_OJE",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC422394791"
    }
   },
   {

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-21T04:01:50.562600",
+ "generated": "2023-08-12T18:46:45.672615",
  "suburb": "ASCOT",
  "features": [
   {
@@ -7938,7 +7938,7 @@
     "name": "UNIT 1, 62 HOWARD STREET ASCOT 3551",
     "locID": "LOC000041157910",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423829188"
    }
   },
@@ -9841,7 +9841,7 @@
    "properties": {
     "name": "28 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380206",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424473358"
    }
@@ -18385,6 +18385,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.3312441,
+     -36.71542428
+    ]
+   },
+   "properties": {
+    "name": "62-64 GOLF COURSE ROAD ASCOT 3551",
+    "locID": "ChIJRTcZOadY12oRqmmCQVxC8u4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719802433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.32946705,
      -36.68986863
     ]
@@ -19140,7 +19157,7 @@
    "properties": {
     "name": "UNIT 5, 28 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380223",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720909821"
    }
@@ -19157,7 +19174,7 @@
    "properties": {
     "name": "UNIT 1, 28 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380193",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720911757"
    }
@@ -19191,7 +19208,7 @@
    "properties": {
     "name": "UNIT 2, 28 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380206",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720913605"
    }
@@ -19242,7 +19259,7 @@
    "properties": {
     "name": "30 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380164",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720916578"
    }
@@ -19259,7 +19276,7 @@
    "properties": {
     "name": "UNIT 6, 28 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380210",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720920669"
    }
@@ -19293,7 +19310,7 @@
    "properties": {
     "name": "UNIT 4, 28 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380234",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720924443"
    }
@@ -19327,7 +19344,7 @@
    "properties": {
     "name": "32 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380172",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720924806"
    }
@@ -19344,7 +19361,7 @@
    "properties": {
     "name": "UNIT 3, 28 MYRTLE ROAD ASCOT 3551",
     "locID": "LOC000192380210",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720925052"
    }
