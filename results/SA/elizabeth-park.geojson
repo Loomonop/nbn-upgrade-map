@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-17T04:41:15.227239",
+ "generated": "2023-08-12T11:49:24.076258",
  "suburb": "ELIZABETH PARK",
  "features": [
   {
@@ -4581,6 +4581,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.68231023,
+     -34.70613515
+    ]
+   },
+   "properties": {
+    "name": "16 DANIEL STREET ELIZABETH PARK 5113",
+    "locID": "LOC000077125777",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415273334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.68215052,
      -34.70652726
     ]
@@ -7376,8 +7393,8 @@
    "properties": {
     "name": "155 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000018750678",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415282717"
    }
   },
@@ -8168,23 +8185,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.68745007,
-     -34.71120845
-    ]
-   },
-   "properties": {
-    "name": "30 INNES STREET ELIZABETH PARK 5113",
-    "locID": "LOC000064015967",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415285768"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.68720938,
      -34.7112277
     ]
@@ -8957,8 +8957,8 @@
    "properties": {
     "name": "19 SULLIVAN ROAD ELIZABETH PARK 5113",
     "locID": "LOC000055552100",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415290818"
    }
   },
@@ -11694,7 +11694,7 @@
    "properties": {
     "name": "5 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000193300956",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415298725"
    }
@@ -26042,7 +26042,7 @@
    "properties": {
     "name": "LOT 268 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000193300956",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424117655"
    }
@@ -34321,7 +34321,7 @@
    "properties": {
     "name": "5B PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000193300956",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720885499"
    }
