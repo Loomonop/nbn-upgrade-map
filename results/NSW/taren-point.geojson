@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-07T03:27:23.142871",
+ "generated": "2023-08-12T00:07:01.408438",
  "suburb": "TAREN POINT",
  "features": [
   {
@@ -151,8 +151,8 @@
    "properties": {
     "name": "1 ALEXANDER AVENUE TAREN POINT 2229",
     "locID": "LOC000015467948",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706024721"
    }
   },
@@ -203,7 +203,7 @@
     "name": "15 ALEXANDER AVENUE TAREN POINT 2229",
     "locID": "LOC000081469832",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706024724"
    }
   },
@@ -1579,8 +1579,8 @@
    "properties": {
     "name": "1 SMITH STREET TAREN POINT 2229",
     "locID": "LOC000054995709",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706031380"
    }
   },
@@ -1971,7 +1971,7 @@
     "name": "59 ALEXANDER AVENUE TAREN POINT 2229",
     "locID": "LOC000172845000",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706035041"
    }
   },
@@ -2855,7 +2855,7 @@
     "name": "61-63 ALEXANDER AVENUE TAREN POINT 2229",
     "locID": "LOC000044152237",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706038239"
    }
   },
@@ -5524,7 +5524,7 @@
     "name": "10 BAY ROAD TAREN POINT 2229",
     "locID": "LOC000187981156",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706048555"
    }
   },
@@ -5541,7 +5541,7 @@
     "name": "31 BAY ROAD TAREN POINT 2229",
     "locID": "LOC000187215697",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706048557"
    }
   },
@@ -5694,7 +5694,7 @@
     "name": "44 BAY ROAD TAREN POINT 2229",
     "locID": "LOC000107487065",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706048567"
    }
   },
@@ -5864,7 +5864,7 @@
     "name": "UNIT 2, 6 BAY ROAD TAREN POINT 2229",
     "locID": "LOC000055000599",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706048579"
    }
   },
@@ -7394,7 +7394,7 @@
     "name": "UNIT 1, 6 WOODLANDS ROAD TAREN POINT 2229",
     "locID": "LOC000001469568",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706055231"
    }
   },
@@ -7411,7 +7411,7 @@
     "name": "UNIT 2, 6 WOODLANDS ROAD TAREN POINT 2229",
     "locID": "LOC000001469568",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706055232"
    }
   },
@@ -11661,7 +11661,7 @@
     "name": "UNIT 1, 59 ALEXANDER AVENUE TAREN POINT 2229",
     "locID": "LOC000172845000",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711611892"
    }
   },
@@ -21164,7 +21164,7 @@
     "name": "138-142 TAREN POINT ROAD TAREN POINT 2229",
     "locID": "LOC000120632704",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718207444"
    }
   },
@@ -21385,7 +21385,7 @@
     "name": "93 WOODLANDS ROAD TAREN POINT 2229",
     "locID": "LOC000160746310",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718429352"
    }
   },
@@ -22900,6 +22900,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720078613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.12748114,
+     -34.02119489
+    ]
+   },
+   "properties": {
+    "name": "UNIT 501, 25A BAY ROAD TAREN POINT 2229",
+    "locID": "LOC000192486370",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720078614"
    }
   },
   {
