@@ -164,20 +164,25 @@ def get_technology_breakdown() -> dict:
 def get_last_updated_breakdown() -> dict:
     """Calculate a state-by-state breakdown of last updated date."""
     progress = {"listed": {}, "all": {}}
+    current_date = datetime.now()
     for state, suburb_list in read_all_suburbs().items():
         oldest_all = min((suburb.processed_date for suburb in suburb_list if suburb.processed_date is not None), default=None)
         oldest_listed = min((suburb.processed_date for suburb in suburb_list if suburb.processed_date is not None and suburb.announced), default=None)
         progress["listed"][state] = {
-            "oldest": oldest_listed.strftime("%Y-%m-%d") if oldest_listed else None,
+            "date": oldest_listed.strftime("%Y-%m-%d") if oldest_listed else None,
+            "days": (current_date - oldest_listed).days if oldest_listed else None,
         }
         progress["all"][state] = {
-            "oldest": oldest_all.strftime("%Y-%m-%d") if oldest_all else None,
+            "date": oldest_all.strftime("%Y-%m-%d") if oldest_all else None,
+            "days": (current_date - oldest_all).days if oldest_all else None,
         }
     progress["listed"]["TOTAL"] = {
-        "oldest": min((progress["listed"][state]["oldest"] for state in progress["listed"] if progress["listed"][state]["oldest"] is not None), default=None),
+        "date": min((progress["listed"][state]["date"] for state in progress["listed"] if progress["listed"][state]["date"] is not None), default=None),
+        "days": max((progress["listed"][state]["days"] for state in progress["listed"] if progress["listed"][state]["days"] is not None), default=None),
     }
     progress["all"]["TOTAL"] = {
-        "oldest": min((progress["all"][state]["oldest"] for state in progress["all"] if progress["all"][state]["oldest"] is not None), default=None),
+        "date": min((progress["all"][state]["date"] for state in progress["all"] if progress["all"][state]["date"] is not None), default=None),
+        "days": max((progress["all"][state]["days"] for state in progress["all"] if progress["all"][state]["days"] is not None), default=None),
     }
     return progress
 
@@ -187,7 +192,8 @@ def update_progress():
     results = {
         "suburbs": get_suburb_progress(),
         "addresses": get_address_progress(),
+        "last_updated": get_last_updated_breakdown(),
     }
     logging.info("Updating progress.json")
-    utils.write_json_file("results/progress.json", results)  # indent=1 is to minimise size increase
+    utils.write_json_file("results/progress.json", results)
     return results["suburbs"]
