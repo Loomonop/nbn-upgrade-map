@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-12T16:16:08.684103",
+ "generated": "2023-08-13T19:57:58.077431",
  "suburb": "BIRKDALE",
  "features": [
   {
@@ -1035,8 +1035,8 @@
    "properties": {
     "name": "8 MALLAN TERRACE BIRKDALE 4159",
     "locID": "LOC000056511471",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155019213"
    }
   },
@@ -17356,7 +17356,7 @@
     "name": "8 MANLY STREET BIRKDALE 4159",
     "locID": "LOC000046884210",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155027646"
    }
   },
@@ -20824,7 +20824,7 @@
     "name": "10 HOOPER STREET BIRKDALE 4159",
     "locID": "LOC000015728319",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155030032"
    }
   },
@@ -35767,7 +35767,7 @@
     "name": "9 FUCHSIA CLOSE BIRKDALE 4159",
     "locID": "LOC000049830090",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156149787"
    }
   },
@@ -37959,8 +37959,8 @@
    "properties": {
     "name": "2 SUNRAY PLACE BIRKDALE 4159",
     "locID": "LOC000068621242",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156169476"
    }
   },
@@ -82985,40 +82985,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.21126653,
-     -27.49326432
-    ]
-   },
-   "properties": {
-    "name": "LOT 101 QUARRY ROAD BIRKDALE 4159",
-    "locID": "EisxMDEgUXVhcnJ5IFJkLCBCaXJrZGFsZSBRTEQgNDE1OSwgQXVzdHJhbGlhIjASLgoUChIJQYfyFwNekWsRZF0dO9QFKaAQZSoUChIJKy7ZtgJekWsR0eqmGKJz52c",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161282947"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.21179947,
-     -27.49367819
-    ]
-   },
-   "properties": {
-    "name": "LOT 102 QUARRY ROAD BIRKDALE 4159",
-    "locID": "EisxMDIgUXVhcnJ5IFJkLCBCaXJrZGFsZSBRTEQgNDE1OSwgQXVzdHJhbGlhIjASLgoUChIJQYfyFwNekWsRZF0dO9QFKaAQZioUChIJKy7ZtgJekWsR0eqmGKJz52c",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161282948"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.20549394,
      -27.49240288
     ]
@@ -83046,40 +83012,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161282951"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.2091293,
-     -27.49295242
-    ]
-   },
-   "properties": {
-    "name": "LOT 95 QUARRY ROAD BIRKDALE 4159",
-    "locID": "Eio5NSBRdWFycnkgUmQsIEJpcmtkYWxlIFFMRCA0MTU5LCBBdXN0cmFsaWEiMBIuChQKEglBh_IXA16RaxFkXR071AUpoBBfKhQKEgkrLtm2Al6RaxHR6qYYonPnZw",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161282952"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.21007081,
-     -27.49308598
-    ]
-   },
-   "properties": {
-    "name": "LOT 97 QUARRY ROAD BIRKDALE 4159",
-    "locID": "Eio5NyBRdWFycnkgUmQsIEJpcmtkYWxlIFFMRCA0MTU5LCBBdXN0cmFsaWEiMBIuChQKEglBh_IXA16RaxFkXR071AUpoBBhKhQKEgkrLtm2Al6RaxHR6qYYonPnZw",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161282953"
    }
   },
   {
@@ -84991,23 +84923,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.20947614,
-     -27.49300253
-    ]
-   },
-   "properties": {
-    "name": "LOT 96 QUARRY ROAD BIRKDALE 4159",
-    "locID": "Eio5NiBRdWFycnkgUmQsIEJpcmtkYWxlIFFMRCA0MTU5LCBBdXN0cmFsaWEiMBIuChQKEglBh_IXA16RaxFkXR071AUpoBBgKhQKEgkrLtm2Al6RaxHR6qYYonPnZw",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161454316"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.221307,
      -27.50672518
     ]
@@ -86698,8 +86613,8 @@
    "properties": {
     "name": "11 SAINT ANDREWS AVENUE BIRKDALE 4159",
     "locID": "LOC000172857963",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161919327"
    }
   },
@@ -107771,23 +107686,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.22263857,
-     -27.51070831
-    ]
-   },
-   "properties": {
-    "name": "539-553A OLD CLEVELAND ROAD EAST BIRKDALE 4159",
-    "locID": "EjQ1MzkgT2xkIENsZXZlbGFuZCBSZCBFLCBCaXJrZGFsZSBRTEQgNDE1OSwgQXVzdHJhbGlhIjESLwoUChIJl9EeC0tnkWsRo-mzhA2oeBMQmwQqFAoSCXPf3fpIZ5FrEZ1Ixl_uJTcm",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720464298"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.21080442,
      -27.49205013
     ]
@@ -107798,23 +107696,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720465213"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.22263857,
-     -27.51070831
-    ]
-   },
-   "properties": {
-    "name": "539-553C OLD CLEVELAND ROAD EAST BIRKDALE 4159",
-    "locID": "EjQ1MzkgT2xkIENsZXZlbGFuZCBSZCBFLCBCaXJrZGFsZSBRTEQgNDE1OSwgQXVzdHJhbGlhIjESLwoUChIJl9EeC0tnkWsRo-mzhA2oeBMQmwQqFAoSCXPf3fpIZ5FrEZ1Ixl_uJTcm",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720467343"
    }
   },
   {
@@ -108002,23 +107883,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720590309"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.22263857,
-     -27.51070831
-    ]
-   },
-   "properties": {
-    "name": "539-553B OLD CLEVELAND ROAD EAST BIRKDALE 4159",
-    "locID": "EjQ1MzkgT2xkIENsZXZlbGFuZCBSZCBFLCBCaXJrZGFsZSBRTEQgNDE1OSwgQXVzdHJhbGlhIjESLwoUChIJl9EeC0tnkWsRo-mzhA2oeBMQmwQqFAoSCXPf3fpIZ5FrEZ1Ixl_uJTcm",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720591353"
    }
   },
   {
