@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-22T06:54:31.655223",
+ "generated": "2023-08-13T05:44:07.078863",
  "suburb": "STRATFORD",
  "features": [
   {
@@ -67,7 +67,7 @@
     "name": "2 SCOTT STREET STRATFORD 3862",
     "locID": "LOC000044665330",
     "tech": "FTTN",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412392223"
    }
   },
@@ -20833,6 +20833,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.07880165,
+     -37.95756722
+    ]
+   },
+   "properties": {
+    "name": "36-44 MERRICK STREET STRATFORD 3862",
+    "locID": "LOC000112836144",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425565452"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.09193594,
      -37.96103705
     ]
@@ -28949,7 +28966,7 @@
    "properties": {
     "name": "21 FITZROY STREET STRATFORD 3862",
     "locID": "LOC000193358695",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720964338"
    }

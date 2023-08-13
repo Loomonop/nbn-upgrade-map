@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-22T06:47:09.365360",
+ "generated": "2023-08-13T05:42:11.126771",
  "suburb": "STAWELL",
  "features": [
   {
@@ -10759,8 +10759,8 @@
    "properties": {
     "name": "24 SHIRREFF STREET STAWELL 3380",
     "locID": "LOC000002063330",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419655746"
    }
   },
@@ -10837,6 +10837,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     142.77197226,
+     -37.0620684
+    ]
+   },
+   "properties": {
+    "name": "32 BROWN STREET STAWELL 3380",
+    "locID": "LOC000022583108",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419655751"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      142.77599899,
      -37.06161264
     ]
@@ -10896,7 +10913,7 @@
     "name": "16 WAKEHAM STREET STAWELL 3380",
     "locID": "LOC000075863423",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419655757"
    }
   },
@@ -27300,8 +27317,8 @@
    "properties": {
     "name": "22 MAHNKE STREET STAWELL 3380",
     "locID": "LOC000088868554",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420601960"
    }
   },
