@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-21T21:37:42.397863",
+ "generated": "2023-08-13T01:45:43.743689",
  "suburb": "MAIDEN GULLY",
  "features": [
   {
@@ -1257,7 +1257,7 @@
     "name": "10 CAROLYN WAY MAIDEN GULLY 3551",
     "locID": "LOC000073968017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419656750"
    }
   },
@@ -2514,8 +2514,8 @@
    "properties": {
     "name": "12 BEDARRA COURT MAIDEN GULLY 3551",
     "locID": "LOC000081107682",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419752768"
    }
   },
@@ -8788,7 +8788,7 @@
     "name": "2 COLLETT COURT MAIDEN GULLY 3551",
     "locID": "LOC000078103078",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420623007"
    }
   },
@@ -13242,7 +13242,7 @@
     "name": "12 DAWSON DRIVE MAIDEN GULLY 3551",
     "locID": "LOC000061699669",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421222845"
    }
   },
@@ -15605,7 +15605,7 @@
     "name": "27 MONSANTS ROAD MAIDEN GULLY 3551",
     "locID": "LOC000020983079",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421604369"
    }
   },
@@ -16880,7 +16880,7 @@
     "name": "12 GLENELG DRIVE MAIDEN GULLY 3551",
     "locID": "LOC000070461618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421824442"
    }
   },
@@ -17288,7 +17288,7 @@
     "name": "18 KATHLEEN TERRACE MAIDEN GULLY 3551",
     "locID": "LOC000100577794",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421854232"
    }
   },
@@ -23509,8 +23509,8 @@
    "properties": {
     "name": "104 CAROLYN WAY MAIDEN GULLY 3551",
     "locID": "LOC000088783605",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423965494"
    }
   },
@@ -31823,7 +31823,7 @@
     "name": "12A DAWSON DRIVE MAIDEN GULLY 3551",
     "locID": "LOC100064585347",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719008968"
    }
   },
@@ -31857,7 +31857,7 @@
     "name": "19A RATHBONES LANE MAIDEN GULLY 3551",
     "locID": "LOC100064585381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719017312"
    }
   },
@@ -32070,6 +32070,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.2272446,
+     -36.77899949
+    ]
+   },
+   "properties": {
+    "name": "211-225 OLYMPIC PARADE MAIDEN GULLY 3551",
+    "locID": "ChIJR1cJne9Q12oRXRxNme2L0IY",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719309747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.21242099,
      -36.74580577
     ]
@@ -32078,7 +32095,7 @@
     "name": "12A GLENELG DRIVE MAIDEN GULLY 3551",
     "locID": "LOC100064585323",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719317514"
    }
   },
@@ -37911,6 +37928,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721086425"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.20257439,
+     -36.74757497
+    ]
+   },
+   "properties": {
+    "name": "8 PRATTYS WAY MAIDEN GULLY 3551",
+    "locID": "LOC000037080795",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721087404"
    }
   },
   {
