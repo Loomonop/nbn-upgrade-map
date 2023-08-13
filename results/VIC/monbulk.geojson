@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-22T02:29:11.630981",
+ "generated": "2023-08-13T02:56:15.724533",
  "suburb": "MONBULK",
  "features": [
   {
@@ -5659,7 +5659,7 @@
    "properties": {
     "name": "1 MAIN ROAD MONBULK 3793",
     "locID": "LOC000192972102",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414616316"
    }
@@ -17678,7 +17678,7 @@
    "properties": {
     "name": "142 MAIN ROAD MONBULK 3793",
     "locID": "LOC000193120657",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420817405"
    }
@@ -27633,6 +27633,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.42960864,
+     -37.88637024
+    ]
+   },
+   "properties": {
+    "name": "145A DAVID HILL ROAD MONBULK 3793",
+    "locID": "LOC000081566886",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424024174"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.42842418,
      -37.89390664
     ]
@@ -29697,7 +29714,7 @@
    "properties": {
     "name": "UNIT 1, 142 MAIN ROAD MONBULK 3793",
     "locID": "LOC000192972102",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720213539"
    }
@@ -29714,7 +29731,7 @@
    "properties": {
     "name": "UNIT 3, 142 MAIN ROAD MONBULK 3793",
     "locID": "LOC000193120657",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720221724"
    }
@@ -29731,7 +29748,7 @@
    "properties": {
     "name": "UNIT 2, 142 MAIN ROAD MONBULK 3793",
     "locID": "LOC000193120657",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720228811"
    }

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-22T02:14:55.110989",
+ "generated": "2023-08-13T02:51:13.308453",
  "suburb": "MIRBOO NORTH",
  "features": [
   {
@@ -7036,8 +7036,8 @@
    "properties": {
     "name": "49 WELLS ROAD MIRBOO NORTH 3871",
     "locID": "LOC000021829299",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420364418"
    }
   },
@@ -7070,8 +7070,8 @@
    "properties": {
     "name": "15 WELLS ROAD MIRBOO NORTH 3871",
     "locID": "LOC000034440696",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420364421"
    }
   },
@@ -7937,8 +7937,8 @@
    "properties": {
     "name": "51 WELLS ROAD MIRBOO NORTH 3871",
     "locID": "LOC000016973089",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420677532"
    }
   },
@@ -15247,8 +15247,8 @@
    "properties": {
     "name": "4 WELLS ROAD MIRBOO NORTH 3871",
     "locID": "LOC000021829299",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423933257"
    }
   },
@@ -18810,6 +18810,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.16289274,
+     -38.39938669
+    ]
+   },
+   "properties": {
+    "name": "1A THORPDALE ROAD MIRBOO NORTH 3871",
+    "locID": "LOC000080549604",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC424722906"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.13490786,
      -38.39330761
     ]
@@ -20892,7 +20909,7 @@
     "name": "15 JOSEPHINE CRESCENT MIRBOO NORTH 3871",
     "locID": "LOC000184996293",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425162984"
    }
   },
@@ -21846,6 +21863,57 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425617194"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.16229977,
+     -38.40234302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 7 GRAND RIDGE EAST MIRBOO NORTH 3871",
+    "locID": "LOC000035233997",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC425627033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.16229977,
+     -38.40234302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 7 GRAND RIDGE EAST MIRBOO NORTH 3871",
+    "locID": "LOC000035233997",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC425627034"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.16229977,
+     -38.40234302
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 7 GRAND RIDGE EAST MIRBOO NORTH 3871",
+    "locID": "LOC000035233997",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC425627035"
    }
   },
   {
@@ -23614,6 +23682,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721165629"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.16358398,
+     -38.3984097
+    ]
+   },
+   "properties": {
+    "name": "2-4 THORPDALE ROAD MIRBOO NORTH 3871",
+    "locID": "LOC000048329609",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721166955"
    }
   },
   {
