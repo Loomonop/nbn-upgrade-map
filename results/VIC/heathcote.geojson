@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-21T18:35:50.645608",
+ "generated": "2023-08-13T00:04:05.573368",
  "suburb": "HEATHCOTE",
  "features": [
   {
@@ -1188,7 +1188,7 @@
    "properties": {
     "name": "31 MITCHELL STREET HEATHCOTE 3523",
     "locID": "ChIJe5aRe_5712oRAFzn-ROSzNI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC411574295"
    }
@@ -3110,7 +3110,7 @@
     "name": "39-55 HOSPITAL STREET HEATHCOTE 3523",
     "locID": "LOC000063818565",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC414399851"
    }
   },
@@ -15129,7 +15129,7 @@
     "name": "99 HIGH STREET HEATHCOTE 3523",
     "locID": "LOC000067434615",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420917667"
    }
   },
@@ -34909,6 +34909,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.73111321,
+     -36.94584699
+    ]
+   },
+   "properties": {
+    "name": "18C NORTHERN HIGHWAY HEATHCOTE 3523",
+    "locID": "Ei4xOCBOb3J0aGVybiBId3ksIEhlYXRoY290ZSBWSUMgMzUyMywgQXVzdHJhbGlhIjASLgoUChIJ5cocQU9512oRRe-CxcnTeH4QEioUChIJ2THcMcmx12oR9Efi7b1SLqk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425575567"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.7156756,
      -36.92981178
     ]
@@ -36600,7 +36617,7 @@
     "name": "UNIT 1, 39-55 HOSPITAL STREET HEATHCOTE 3523",
     "locID": "LOC000063818565",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719925493"
    }
   },
@@ -37977,7 +37994,7 @@
     "name": "UNIT 2, 39-55 HOSPITAL STREET HEATHCOTE 3523",
     "locID": "LOC000063818565",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC720754513"
    }
   },
@@ -38351,7 +38368,7 @@
     "name": "135 CALDWELL STREET HEATHCOTE 3523",
     "locID": "LOC000193397897",
     "tech": "NULL",
-    "upgrade": "UNKNOWN",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720912850"
    }
   },

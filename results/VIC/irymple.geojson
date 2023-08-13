@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-21T19:15:01.917989",
+ "generated": "2023-08-13T00:22:28.398807",
  "suburb": "IRYMPLE",
  "features": [
   {
@@ -118,7 +118,7 @@
     "name": "28 STOCKMANS DRIVE IRYMPLE 3498",
     "locID": "LOC000015925588",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411598797"
    }
   },
@@ -254,7 +254,7 @@
     "name": "49 STOCKMANS DRIVE IRYMPLE 3498",
     "locID": "LOC000087045018",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411598825"
    }
   },
@@ -3000,6 +3000,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     142.18177661,
+     -34.24270162
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 MORPUNG AVENUE IRYMPLE 3498",
+    "locID": "LOC000180468493",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC412670223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      142.19220068,
      -34.26443005
     ]
@@ -3833,6 +3850,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     142.17745645,
+     -34.24108594
+    ]
+   },
+   "properties": {
+    "name": "2009 FIFTEENTH STREET IRYMPLE 3498",
+    "locID": "Ei4yMDA5IEZpZnRlZW50aCBTdCwgSXJ5bXBsZSBWSUMgMzQ5OCwgQXVzdHJhbGlhIjESLwoUChIJdT3NJPIEw2oRxgaODWc-MUIQ2Q8qFAoSCfVXxxbuBMNqEfVyqWizf5kR",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC414348314"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      142.17261318,
      -34.23732149
     ]
@@ -4591,6 +4625,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC414363313"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.18177661,
+     -34.24270162
+    ]
+   },
+   "properties": {
+    "name": "41F MORPUNG AVENUE IRYMPLE 3498",
+    "locID": "LOC000096608460",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC414363315"
    }
   },
   {
@@ -26502,7 +26553,7 @@
     "name": "778 KARADOC AVENUE IRYMPLE 3498",
     "locID": "LOC000067747260",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424091887"
    }
   },
@@ -40910,6 +40961,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     142.16444521,
+     -34.23260617
+    ]
+   },
+   "properties": {
+    "name": "1049 KARADOC AVENUE IRYMPLE 3498",
+    "locID": "Ei0xMDQ5IEthcmFkb2MgQXZlLCBJcnltcGxlIFZJQyAzNDk4LCBBdXN0cmFsaWEiMRIvChQKEgkFtvCM5ATDahH1gR-HOo1RVxCZCCoUChIJU7t0kbAEw2oRb3nqyhOBCQ4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC424592288"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      142.1926905,
      -34.25354028
     ]
@@ -44471,7 +44539,7 @@
     "name": "613 KOORLONG AVENUE IRYMPLE 3498",
     "locID": "LOC100056335243",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425679178"
    }
   },
@@ -54024,7 +54092,7 @@
    "properties": {
     "name": "6 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799811",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720566884"
    }
@@ -54041,7 +54109,7 @@
    "properties": {
     "name": "12 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799784",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720567931"
    }
@@ -54058,7 +54126,7 @@
    "properties": {
     "name": "4 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799659",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720568678"
    }
@@ -54075,7 +54143,7 @@
    "properties": {
     "name": "8 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799692",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720570949"
    }
@@ -54092,7 +54160,7 @@
    "properties": {
     "name": "5 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799587",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720571190"
    }
@@ -54109,7 +54177,7 @@
    "properties": {
     "name": "8 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799807",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720571343"
    }
@@ -54126,7 +54194,7 @@
    "properties": {
     "name": "9 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799709",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720571720"
    }
@@ -54143,7 +54211,7 @@
    "properties": {
     "name": "7 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799685",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720572402"
    }
@@ -54160,7 +54228,7 @@
    "properties": {
     "name": "3 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799573",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720575132"
    }
@@ -54177,7 +54245,7 @@
    "properties": {
     "name": "1 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799560",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720575341"
    }
@@ -54194,7 +54262,7 @@
    "properties": {
     "name": "6 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799671",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720575574"
    }
@@ -54211,7 +54279,7 @@
    "properties": {
     "name": "10 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799797",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720576750"
    }
@@ -54228,7 +54296,7 @@
    "properties": {
     "name": "16 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799766",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720577499"
    }
@@ -54245,7 +54313,7 @@
    "properties": {
     "name": "3 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799644",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720577501"
    }
@@ -54262,7 +54330,7 @@
    "properties": {
     "name": "14 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799778",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720579017"
    }
@@ -54279,7 +54347,7 @@
    "properties": {
     "name": "7 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799594",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720579141"
    }
@@ -54296,7 +54364,7 @@
    "properties": {
     "name": "5 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799663",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720580124"
    }
@@ -54313,7 +54381,7 @@
    "properties": {
     "name": "2 GERSTENMEYER COURT IRYMPLE 3498",
     "locID": "LOC000190799637",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720581431"
    }
@@ -54330,7 +54398,7 @@
    "properties": {
     "name": "9 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799600",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720581746"
    }
@@ -54347,7 +54415,7 @@
    "properties": {
     "name": "4 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799824",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720581863"
    }
@@ -54534,7 +54602,7 @@
    "properties": {
     "name": "34 TILLEY WAY IRYMPLE 3498",
     "locID": "LOC000190799750",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720650327"
    }
@@ -54653,7 +54721,7 @@
    "properties": {
     "name": "32 TILLEY WAY IRYMPLE 3498",
     "locID": "LOC000190799616",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720651975"
    }
@@ -54823,7 +54891,7 @@
    "properties": {
     "name": "1 MAYNE BOULEVARD IRYMPLE 3498",
     "locID": "LOC000190799518",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720653548"
    }
@@ -54908,7 +54976,7 @@
    "properties": {
     "name": "37 TILLEY WAY IRYMPLE 3498",
     "locID": "LOC000190799732",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720654896"
    }
@@ -55010,7 +55078,7 @@
    "properties": {
     "name": "33 TILLEY WAY IRYMPLE 3498",
     "locID": "LOC000190799713",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720655610"
    }
@@ -55112,7 +55180,7 @@
    "properties": {
     "name": "35 TILLEY WAY IRYMPLE 3498",
     "locID": "LOC000190799721",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720656860"
    }
@@ -55129,7 +55197,7 @@
    "properties": {
     "name": "2 MINTER DRIVE IRYMPLE 3498",
     "locID": "LOC000190799830",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720657133"
    }
@@ -55248,7 +55316,7 @@
    "properties": {
     "name": "30 TILLEY WAY IRYMPLE 3498",
     "locID": "LOC000190799628",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720657979"
    }
@@ -55299,7 +55367,7 @@
    "properties": {
     "name": "4 MAYNE BOULEVARD IRYMPLE 3498",
     "locID": "LOC000190799848",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720658113"
    }
@@ -55401,7 +55469,7 @@
    "properties": {
     "name": "5 MAYNE BOULEVARD IRYMPLE 3498",
     "locID": "LOC000190799539",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720658990"
    }
@@ -55537,7 +55605,7 @@
    "properties": {
     "name": "39 TILLEY WAY IRYMPLE 3498",
     "locID": "LOC000190799745",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720660261"
    }
@@ -55554,7 +55622,7 @@
    "properties": {
     "name": "2 MAYNE BOULEVARD IRYMPLE 3498",
     "locID": "LOC000190799853",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720660476"
    }
@@ -55724,7 +55792,7 @@
    "properties": {
     "name": "6 MAYNE BOULEVARD IRYMPLE 3498",
     "locID": "LOC000190799556",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720661475"
    }
@@ -55775,7 +55843,7 @@
    "properties": {
     "name": "8 MAYNE BOULEVARD IRYMPLE 3498",
     "locID": "LOC000190799541",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720662106"
    }
@@ -55826,7 +55894,7 @@
    "properties": {
     "name": "3 MAYNE BOULEVARD IRYMPLE 3498",
     "locID": "LOC000190799525",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720662516"
    }
