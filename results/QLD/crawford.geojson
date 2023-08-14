@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-13T11:29:42.521804",
+ "generated": "2023-08-14T05:10:44.230469",
  "suburb": "CRAWFORD",
  "features": [
   {
@@ -304,8 +304,8 @@
    "properties": {
     "name": "226 SIEFERT STREET CRAWFORD 4610",
     "locID": "LOC000072959218",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156485113"
    }
   },
@@ -900,7 +900,7 @@
     "name": "215-227 SIEFERT STREET CRAWFORD 4610",
     "locID": "LOC000105708910",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160689139"
    }
   },
@@ -1121,7 +1121,7 @@
     "name": "LOT 12 LIESEGANGS ROAD CRAWFORD 4610",
     "locID": "LOC000095402629",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161213383"
    }
   },
@@ -2158,7 +2158,7 @@
     "name": "12 LIESEGANGS ROAD CRAWFORD 4610",
     "locID": "LOC000095402629",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161368952"
    }
   },
@@ -2466,40 +2466,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161464211"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.7823375,
-     -26.48242226
-    ]
-   },
-   "properties": {
-    "name": "LOT 8 FINDOWIE ROAD CRAWFORD 4610",
-    "locID": "Ei44IEZpbmRvd2llIFJkLCBHb3Jkb25icm9vayBRTEQgNDYxMCwgQXVzdHJhbGlhIjASLgoUChIJM8jvHTihlWsRolWcBjvp3h0QCCoUChIJGwpVKjqhlWsRBmN8o9VULUM",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161510886"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.78205716,
-     -26.47894445
-    ]
-   },
-   "properties": {
-    "name": "LOT 7 FINDOWIE ROAD CRAWFORD 4610",
-    "locID": "Ei43IEZpbmRvd2llIFJkLCBHb3Jkb25icm9vayBRTEQgNDYxMCwgQXVzdHJhbGlhIjASLgoUChIJM8jvHTihlWsRolWcBjvp3h0QByoUChIJGwpVKjqhlWsRBmN8o9VULUM",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161510887"
    }
   },
   {
