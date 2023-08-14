@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-31T22:33:53.052211",
+ "generated": "2023-08-14T23:58:50.438319",
  "suburb": "HELENSBURGH",
  "features": [
   {
@@ -13208,7 +13208,7 @@
     "name": "8 JUNCTION STREET HELENSBURGH 2508",
     "locID": "LOC000027397225",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704948704"
    }
   },
@@ -15036,6 +15036,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.9929106,
+     -34.18343904
+    ]
+   },
+   "properties": {
+    "name": "22 OLD STATION ROAD HELENSBURGH 2508",
+    "locID": "LOC000193376321",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704949738"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.9935853,
      -34.18308551
     ]
@@ -15554,7 +15571,7 @@
     "name": "1 LAURINA AVENUE HELENSBURGH 2508",
     "locID": "LOC000011339544",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704950424"
    }
   },
@@ -30548,7 +30565,7 @@
     "name": "2D OTFORD ROAD HELENSBURGH 2508",
     "locID": "LOC000028076518",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712403638"
    }
   },
@@ -39115,8 +39132,8 @@
    "properties": {
     "name": "28 OLD FARM ROAD HELENSBURGH 2508",
     "locID": "LOC000121324823",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717961658"
    }
   },

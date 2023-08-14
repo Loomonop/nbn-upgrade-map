@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-31T22:24:21.306467",
+ "generated": "2023-08-14T23:49:04.450961",
  "suburb": "BOSSLEY PARK",
  "features": [
   {
@@ -6740,6 +6740,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.87270747,
+     -33.86205506
+    ]
+   },
+   "properties": {
+    "name": "4 RESTWELL ROAD BOSSLEY PARK 2176",
+    "locID": "LOC000052590768",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704195586"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.89554355,
      -33.86742252
     ]
@@ -10300,8 +10317,8 @@
    "properties": {
     "name": "242 PRAIRIE VALE ROAD BOSSLEY PARK 2176",
     "locID": "LOC000002314411",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704196163"
    }
   },
@@ -20160,8 +20177,8 @@
    "properties": {
     "name": "7 ABERDEEN STREET BOSSLEY PARK 2176",
     "locID": "LOC000038072134",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704199201"
    }
   },
@@ -63272,8 +63289,8 @@
    "properties": {
     "name": "240 PRAIRIE VALE ROAD BOSSLEY PARK 2176",
     "locID": "LOC000098847408",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW711331565"
    }
   },
@@ -77604,7 +77621,7 @@
     "name": "226A PRAIRIE VALE ROAD BOSSLEY PARK 2176",
     "locID": "LOC000113404335",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718081598"
    }
   },
