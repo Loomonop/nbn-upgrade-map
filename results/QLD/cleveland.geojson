@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-13T06:49:00.954217",
+ "generated": "2023-08-14T02:47:46.482955",
  "suburb": "CLEVELAND",
  "features": [
   {
@@ -2412,8 +2412,8 @@
    "properties": {
     "name": "75 ANCHORAGE DRIVE CLEVELAND 4163",
     "locID": "LOC000029426019",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155166933"
    }
   },
@@ -7733,8 +7733,8 @@
    "properties": {
     "name": "10 CARAVEL COURT CLEVELAND 4163",
     "locID": "LOC000021595319",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155181100"
    }
   },
@@ -12544,7 +12544,7 @@
    "properties": {
     "name": "2-14 WEIPPIN STREET CLEVELAND 4163",
     "locID": "LOC000191938550",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155183293"
    }
@@ -12918,8 +12918,8 @@
    "properties": {
     "name": "6 PAXTON STREET CLEVELAND 4163",
     "locID": "LOC000067247012",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155183774"
    }
   },
@@ -37840,8 +37840,8 @@
    "properties": {
     "name": "22 OMEGA AVENUE CLEVELAND 4163",
     "locID": "LOC000001755147",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156043752"
    }
   },
@@ -38608,23 +38608,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156065654"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.2681773,
-     -27.52871576
-    ]
-   },
-   "properties": {
-    "name": "5 MICHELLE COURT CLEVELAND 4163",
-    "locID": "LOC000057681215",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD156065655"
    }
   },
   {
@@ -44497,23 +44480,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.25939785,
-     -27.53042733
-    ]
-   },
-   "properties": {
-    "name": "25 SMITH STREET CLEVELAND 4163",
-    "locID": "LOC000033634281",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156439959"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.25938571,
      -27.5306103
     ]
@@ -47564,8 +47530,8 @@
    "properties": {
     "name": "39 RUSSELL STREET CLEVELAND 4163",
     "locID": "LOC000027603255",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156441736"
    }
   },
@@ -51848,8 +51814,8 @@
    "properties": {
     "name": "6 RABY BAY BOULEVARD CLEVELAND 4163",
     "locID": "LOC000035081135",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156444947"
    }
   },
@@ -57271,7 +57237,7 @@
    "properties": {
     "name": "74 COBURG STREET EAST CLEVELAND 4163",
     "locID": "LOC000193226571",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156448151"
    }
@@ -81310,7 +81276,7 @@
     "name": "27 SENTINEL COURT CLEVELAND 4163",
     "locID": "LOC000056770665",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157760543"
    }
   },
@@ -94314,8 +94280,8 @@
    "properties": {
     "name": "57 SOUTH STREET CLEVELAND 4163",
     "locID": "LOC000038164565",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157779298"
    }
   },
@@ -116594,23 +116560,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.2572815,
-     -27.5257116
-    ]
-   },
-   "properties": {
-    "name": "LOT 100 SHORE STREET WEST CLEVELAND 4163",
-    "locID": "Ei0xMDAgU2hvcmUgU3QgVywgQ2xldmVsYW5kIFFMRCA0MTYzLCBBdXN0cmFsaWEiMBIuChQKEgknkcFRxWaRaxE6Rt59j2etqhBkKhQKEgnbS36AxWaRaxFcIP9wuSQmuA",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161457746"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.26632298,
      -27.52508017
     ]
@@ -123299,8 +123248,8 @@
    "properties": {
     "name": "14 JABIRU PLACE CLEVELAND 4163",
     "locID": "LOC000094442784",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162657230"
    }
   },
@@ -152760,8 +152709,8 @@
    "properties": {
     "name": "55-57 ENTERPRISE STREET CLEVELAND 4163",
     "locID": "LOC000160518093",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719628533"
    }
   },
