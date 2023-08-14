@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-31T20:02:38.882394",
+ "generated": "2023-08-14T21:24:11.400193",
  "suburb": "QUAKERS HILL",
  "features": [
   {
@@ -1205,8 +1205,8 @@
    "properties": {
     "name": "14 CITRUS STREET QUAKERS HILL 2763",
     "locID": "LOC000066486714",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705697936"
    }
   },
@@ -6186,8 +6186,8 @@
    "properties": {
     "name": "18 BRENDAN PLACE QUAKERS HILL 2763",
     "locID": "LOC000038369648",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705701039"
    }
   },
@@ -21317,7 +21317,7 @@
     "name": "16 LYNDEL CLOSE QUAKERS HILL 2763",
     "locID": "LOC000074086109",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705709413"
    }
   },
@@ -62150,8 +62150,8 @@
    "properties": {
     "name": "30 GREENDALE TERRACE QUAKERS HILL 2763",
     "locID": "LOC000077503428",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705729349"
    }
   },
@@ -62286,8 +62286,8 @@
    "properties": {
     "name": "39 GREENDALE TERRACE QUAKERS HILL 2763",
     "locID": "LOC000096161839",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705729357"
    }
   },
@@ -66148,6 +66148,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705732806"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.89223714,
+     -33.71981612
+    ]
+   },
+   "properties": {
+    "name": "54 HAMBLEDON ROAD QUAKERS HILL 2763",
+    "locID": "EjE1NCBIYW1ibGVkb24gUmQsIFF1YWtlcnMgSGlsbCBOU1cgMjc2MywgQXVzdHJhbGlhIjASLgoUChIJF6UqAcWeEmsR5KF0ZRuAHA8QNioUChIJd7lYDcSeEmsR20MhLrhccM0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW705732808"
    }
   },
   {
@@ -70497,8 +70514,8 @@
    "properties": {
     "name": "10 AQUAMARINE STREET QUAKERS HILL 2763",
     "locID": "LOC000098811392",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705735051"
    }
   },
@@ -85882,8 +85899,8 @@
    "properties": {
     "name": "61 GREENDALE TERRACE QUAKERS HILL 2763",
     "locID": "LOC000101827067",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705742834"
    }
   },
@@ -86205,8 +86222,8 @@
    "properties": {
     "name": "95 GREENDALE TERRACE QUAKERS HILL 2763",
     "locID": "LOC000057745673",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705742853"
    }
   },
@@ -99398,7 +99415,7 @@
     "name": "23 AQUAMARINE STREET QUAKERS HILL 2763",
     "locID": "LOC000042657402",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705748559"
    }
   },
@@ -125944,6 +125961,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.89223714,
+     -33.71981612
+    ]
+   },
+   "properties": {
+    "name": "58 HAMBLEDON ROAD QUAKERS HILL 2763",
+    "locID": "EjE1OCBIYW1ibGVkb24gUmQsIFF1YWtlcnMgSGlsbCBOU1cgMjc2MywgQXVzdHJhbGlhIjASLgoUChIJF6UqAcWeEmsRItE-DIx9mw4QOioUChIJd7lYDcSeEmsR20MhLrhccM0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW707649950"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.89138013,
      -33.73130125
     ]
@@ -141693,8 +141727,8 @@
    "properties": {
     "name": "4 JEWEL STREET QUAKERS HILL 2763",
     "locID": "LOC000084306631",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712930054"
    }
   },
@@ -142441,8 +142475,8 @@
    "properties": {
     "name": "6 HAMLIN STREET QUAKERS HILL 2763",
     "locID": "LOC000058374552",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712940440"
    }
   },
@@ -148120,7 +148154,7 @@
     "name": "8 VERNA PLACE QUAKERS HILL 2763",
     "locID": "LOC000062276280",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716153945"
    }
   },
