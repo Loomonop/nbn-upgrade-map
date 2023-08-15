@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T10:52:14.854493",
+ "generated": "2023-08-15T13:04:01.628725",
  "suburb": "LENNOX HEAD",
  "features": [
   {
@@ -7070,8 +7070,8 @@
    "properties": {
     "name": "58 SANDSTONE CRESCENT LENNOX HEAD 2478",
     "locID": "LOC000022246520",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705188796"
    }
   },
@@ -8124,8 +8124,8 @@
    "properties": {
     "name": "UNIT 1, 28 BARRETT DRIVE LENNOX HEAD 2478",
     "locID": "LOC000055952197",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705189563"
    }
   },
@@ -9553,7 +9553,7 @@
     "name": "39 ALISON AVENUE LENNOX HEAD 2478",
     "locID": "LOC000074783097",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705189878"
    }
   },
@@ -50673,6 +50673,40 @@
     ]
    },
    "properties": {
+    "name": "LOT 305 NORTH CREEK ROAD LENNOX HEAD 2478",
+    "locID": "Ei8zMDUgTiBDcmVlayBSZCwgTGVubm94IEhlYWQgTlNXIDI0NzgsIEF1c3RyYWxpYSIxEi8KFAoSCZMfneslfpBrESd6eoDo7ZdtELECKhQKEgkv3meEhICQaxG8SqcHL9-aaA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716678096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.5917055,
+     -28.81221965
+    ]
+   },
+   "properties": {
+    "name": "LOT 383 NORTH CREEK ROAD LENNOX HEAD 2478",
+    "locID": "Ei8zODMgTiBDcmVlayBSZCwgTGVubm94IEhlYWQgTlNXIDI0NzgsIEF1c3RyYWxpYSIxEi8KFAoSCZMfneslfpBrESd6eoDo7ZdtEP8CKhQKEgkv3meEhICQaxG8SqcHL9-aaA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716678097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.5917055,
+     -28.81221965
+    ]
+   },
+   "properties": {
     "name": "LOT 5 NORTH CREEK ROAD LENNOX HEAD 2478",
     "locID": "LOC000100762305",
     "tech": "FTTC",
@@ -67600,6 +67634,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.5921451,
+     -28.79377781
+    ]
+   },
+   "properties": {
+    "name": "14 MACKNEY LANE LENNOX HEAD 2478",
+    "locID": "ChIJpx51NP19kGsRRPWdTLRNpXI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW719361601"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.59338829,
      -28.80097144
     ]
@@ -69749,7 +69800,7 @@
    "properties": {
     "name": "52 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931389",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719870099"
    }
@@ -69766,7 +69817,7 @@
    "properties": {
     "name": "61 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC000182699734",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719870493"
    }
@@ -69800,7 +69851,7 @@
    "properties": {
     "name": "54 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931410",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719870804"
    }
@@ -69902,7 +69953,7 @@
    "properties": {
     "name": "73 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931531",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719874220"
    }
@@ -69970,7 +70021,7 @@
    "properties": {
     "name": "71 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931499",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719876477"
    }
@@ -69987,7 +70038,7 @@
    "properties": {
     "name": "64 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931481",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719876612"
    }
@@ -70004,7 +70055,7 @@
    "properties": {
     "name": "56 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931423",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719876662"
    }
@@ -70038,7 +70089,7 @@
    "properties": {
     "name": "66 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931508",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719877545"
    }
@@ -70055,7 +70106,7 @@
    "properties": {
     "name": "70 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931520",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719878262"
    }
@@ -70123,7 +70174,7 @@
    "properties": {
     "name": "60 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931452",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719879535"
    }
@@ -70140,7 +70191,7 @@
    "properties": {
     "name": "63 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931406",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719880209"
    }
@@ -70157,7 +70208,7 @@
    "properties": {
     "name": "72 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC000182878528",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719880252"
    }
@@ -70259,7 +70310,7 @@
    "properties": {
     "name": "65 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931434",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719883142"
    }
@@ -70310,7 +70361,7 @@
    "properties": {
     "name": "50 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931370",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719887115"
    }
@@ -70344,7 +70395,7 @@
    "properties": {
     "name": "68 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931512",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719887718"
    }
@@ -70446,7 +70497,7 @@
    "properties": {
     "name": "62 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931468",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719894907"
    }
@@ -70514,7 +70565,7 @@
    "properties": {
     "name": "69 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931475",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719943986"
    }
@@ -70548,7 +70599,7 @@
    "properties": {
     "name": "67 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "ChIJFdLIyxZ-kGsRqEUfiV-LDyw",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719947205"
    }
@@ -74339,7 +74390,7 @@
    "properties": {
     "name": "UNIT 1, 68 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931512",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720253828"
    }
@@ -74628,7 +74679,7 @@
    "properties": {
     "name": "UNIT 2, 68 AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931512",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720264592"
    }
@@ -79813,7 +79864,7 @@
    "properties": {
     "name": "68A AMBER DRIVE LENNOX HEAD 2478",
     "locID": "ChIJQXfO3RZ-kGsRsdxh-daAzQY",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720624051"
    }
@@ -80068,7 +80119,7 @@
    "properties": {
     "name": "64A AMBER DRIVE LENNOX HEAD 2478",
     "locID": "ChIJ5yFT2hZ-kGsRNTA-Oag7gIo",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720709330"
    }
@@ -80136,7 +80187,7 @@
    "properties": {
     "name": "64B AMBER DRIVE LENNOX HEAD 2478",
     "locID": "LOC100071931481",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720709813"
    }
@@ -81972,7 +82023,7 @@
    "properties": {
     "name": "54A AMBER DRIVE LENNOX HEAD 2478",
     "locID": "ChIJ83BP0xZ-kGsRBcYLmRw3s1A",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721006327"
    }
@@ -81989,7 +82040,7 @@
    "properties": {
     "name": "54B AMBER DRIVE LENNOX HEAD 2478",
     "locID": "ChIJ83BP0xZ-kGsRBBh-Vrfi0gk",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721006328"
    }
