@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T09:35:59.236981",
+ "generated": "2023-08-15T11:54:40.394604",
  "suburb": "BATEHAVEN",
  "features": [
   {
@@ -10385,8 +10385,8 @@
    "properties": {
     "name": "8 JOSEPH STREET BATEHAVEN 2536",
     "locID": "LOC000023724927",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704040485"
    }
   },
@@ -16328,6 +16328,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.20700259,
+     -35.73670449
+    ]
+   },
+   "properties": {
+    "name": "17 JOHN STREET BATEHAVEN 2536",
+    "locID": "EikxNyBKb2huIFN0LCBCYXRlaGF2ZW4gTlNXIDI1MzYsIEF1c3RyYWxpYSIwEi4KFAoSCTfvJGqy6hVrESpVeNKK3ONYEBEqFAoSCSU6Umqy6hVrEVCzVM7CXSi-",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW708529927"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.20511524,
      -35.73907115
     ]
@@ -22091,6 +22108,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.20700259,
+     -35.73670449
+    ]
+   },
+   "properties": {
+    "name": "19 JOHN STREET BATEHAVEN 2536",
+    "locID": "EikxOSBKb2huIFN0LCBCYXRlaGF2ZW4gTlNXIDI1MzYsIEF1c3RyYWxpYSIwEi4KFAoSCTfvJGqy6hVrESpVeNKK3ONYEBMqFAoSCSU6Umqy6hVrEVCzVM7CXSi-",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW717301590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.20298144,
      -35.73928123
     ]
@@ -24682,8 +24716,8 @@
    "properties": {
     "name": "12 DOMINIC DRIVE BATEHAVEN 2536",
     "locID": "LOC000048186802",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717889779"
    }
   },
@@ -25243,8 +25277,8 @@
    "properties": {
     "name": "45 DOMINIC DRIVE BATEHAVEN 2536",
     "locID": "LOC000088257555",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717889812"
    }
   },

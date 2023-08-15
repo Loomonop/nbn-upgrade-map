@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T09:34:04.464143",
+ "generated": "2023-08-15T11:52:45.788156",
  "suburb": "BEVERLY HILLS",
  "features": [
   {
@@ -20041,8 +20041,8 @@
    "properties": {
     "name": "241 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000081831799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704104456"
    }
   },
@@ -20432,8 +20432,8 @@
    "properties": {
     "name": "46 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000078351919",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704104486"
    }
   },
@@ -21435,8 +21435,8 @@
    "properties": {
     "name": "14 FREDERICK AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000094715458",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704104979"
    }
   },
@@ -22932,7 +22932,7 @@
     "name": "5 NICHOLS AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000048401790",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704105369"
    }
   },
@@ -25209,8 +25209,8 @@
    "properties": {
     "name": "33 JORDAN AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000019949081",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704106605"
    }
   },
@@ -32213,8 +32213,8 @@
    "properties": {
     "name": "21 EDGBASTON ROAD BEVERLY HILLS 2209",
     "locID": "LOC000057066528",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704108404"
    }
   },
@@ -41777,6 +41777,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.07916472,
+     -33.95417449
+    ]
+   },
+   "properties": {
+    "name": "2 RYAN AVENUE BEVERLY HILLS 2209",
+    "locID": "LOC000113969363",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704110160"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.08037093,
      -33.9534609
     ]
@@ -44352,7 +44369,7 @@
     "name": "19 SHAW STREET BEVERLY HILLS 2209",
     "locID": "LOC000028929678",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704110957"
    }
   },
@@ -46170,8 +46187,8 @@
    "properties": {
     "name": "12 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000088673692",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704111174"
    }
   },
@@ -51866,7 +51883,7 @@
     "name": "2 PARKFIELDS PLACE BEVERLY HILLS 2209",
     "locID": "LOC000068492208",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW708596303"
    }
   },
@@ -52086,8 +52103,8 @@
    "properties": {
     "name": "143 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000081831799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW708619378"
    }
   },
@@ -67590,8 +67607,8 @@
    "properties": {
     "name": "13 MOUNTVIEW AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000089646583",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW717996980"
    }
   },
@@ -78062,8 +78079,8 @@
    "properties": {
     "name": "UNIT 3, 143 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000081831799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720553396"
    }
   },
@@ -78079,8 +78096,8 @@
    "properties": {
     "name": "UNIT 101, 143 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000081831799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720554366"
    }
   },
@@ -78096,8 +78113,8 @@
    "properties": {
     "name": "UNIT 2, 143 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000081831799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720554367"
    }
   },
@@ -78113,8 +78130,8 @@
    "properties": {
     "name": "UNIT 102, 143 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000081831799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720554955"
    }
   },
@@ -78130,8 +78147,8 @@
    "properties": {
     "name": "UNIT 1, 143 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000081831799",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720555446"
    }
   },
