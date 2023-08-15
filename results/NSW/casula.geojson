@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T08:48:29.269859",
+ "generated": "2023-08-15T10:00:42.640975",
  "suburb": "CASULA",
  "features": [
   {
@@ -22234,8 +22234,8 @@
    "properties": {
     "name": "5 WHITELEY CLOSE CASULA 2170",
     "locID": "LOC000052642640",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704365570"
    }
   },
@@ -50794,7 +50794,7 @@
    "properties": {
     "name": "13 HOLLAND CRESCENT CASULA 2170",
     "locID": "LOC000191858180",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704378020"
    }
@@ -83189,6 +83189,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.89745484,
+     -33.95869596
+    ]
+   },
+   "properties": {
+    "name": "1 NOLAN STREET CASULA 2170",
+    "locID": "ChIJ4_jgatuUEmsR_db-i8GqurY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716677962"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.88117393,
      -33.95644254
     ]
@@ -101658,8 +101675,8 @@
    "properties": {
     "name": "8 FIR CLOSE CASULA 2170",
     "locID": "LOC000182298782",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718842912"
    }
   },
@@ -104192,7 +104209,7 @@
     "name": "UNIT 19, 20 OLD GLENFIELD ROAD CASULA 2170",
     "locID": "LOC000177341024",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719593145"
    }
   },
