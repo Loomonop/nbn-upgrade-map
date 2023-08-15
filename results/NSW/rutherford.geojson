@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T18:40:50.848818",
+ "generated": "2023-08-15T20:28:08.776475",
  "suburb": "RUTHERFORD",
  "features": [
   {
@@ -7258,7 +7258,7 @@
     "name": "10 LISA PLACE RUTHERFORD 2320",
     "locID": "LOC000014777962",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705811093"
    }
   },
@@ -11408,23 +11408,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814132"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.50548123,
-     -32.70784304
-    ]
-   },
-   "properties": {
-    "name": "445 NEW ENGLAND HIGHWAY RUTHERFORD 2320",
-    "locID": "LOC000021250037",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705814133"
    }
   },
   {
@@ -48278,8 +48261,8 @@
    "properties": {
     "name": "6 ROBERT CLOSE RUTHERFORD 2320",
     "locID": "LOC000084362082",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705855136"
    }
   },
@@ -50440,40 +50423,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705858164"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.50527941,
-     -32.7078228
-    ]
-   },
-   "properties": {
-    "name": "447 NEW ENGLAND HIGHWAY RUTHERFORD 2320",
-    "locID": "LOC000093461890",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705858183"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.50508484,
-     -32.70780264
-    ]
-   },
-   "properties": {
-    "name": "449 NEW ENGLAND HIGHWAY RUTHERFORD 2320",
-    "locID": "LOC000038125761",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705858184"
    }
   },
   {
@@ -59037,23 +58986,6 @@
     ]
    },
    "properties": {
-    "name": "49 KYLE STREET RUTHERFORD 2320",
-    "locID": "Eio0OSBLeWxlIFN0LCBSdXRoZXJmb3JkIE5TVyAyMzIwLCBBdXN0cmFsaWEiMBIuChQKEglldJGHQ09zaxF9w91fXLtoIBAxKhQKEglhgeNuQ09zaxHXj6SG1HnPvg",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW712009679"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.49748855,
-     -32.70945657
-    ]
-   },
-   "properties": {
     "name": "50 KYLE STREET RUTHERFORD 2320",
     "locID": "ChIJ75NH7UNPc2sR1ZbfEb9bkf0",
     "tech": "FTTN",
@@ -61028,8 +60960,8 @@
    "properties": {
     "name": "4 JOSEPH CLOSE RUTHERFORD 2320",
     "locID": "LOC000032170611",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715681669"
    }
   },
@@ -83893,8 +83825,8 @@
    "properties": {
     "name": "16 MILEHAM CIRCUIT RUTHERFORD 2320",
     "locID": "LOC000111548534",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718103234"
    }
   },
@@ -90625,8 +90557,8 @@
    "properties": {
     "name": "2 ANDREW COURT RUTHERFORD 2320",
     "locID": "LOC000114199678",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718473055"
    }
   },
@@ -111018,6 +110950,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.5403809,
+     -32.71451326
+    ]
+   },
+   "properties": {
+    "name": "7 CITRINE STREET RUTHERFORD 2320",
+    "locID": "LOC000193209597",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720681655"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.54020239,
      -32.72066758
     ]
@@ -113517,6 +113466,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.53817679,
+     -32.71514587
+    ]
+   },
+   "properties": {
+    "name": "3 BERYL DRIVE RUTHERFORD 2320",
+    "locID": "LOC000192994168",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721171178"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.537963,
      -32.71527762
     ]
@@ -113612,6 +113578,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721172134"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.5377318,
+     -32.71519504
+    ]
+   },
+   "properties": {
+    "name": "55 ABERGLASSLYN ROAD RUTHERFORD 2320",
+    "locID": "LOC000193338986",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721172882"
    }
   },
   {

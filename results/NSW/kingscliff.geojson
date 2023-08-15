@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T18:34:20.759381",
+ "generated": "2023-08-15T20:21:13.133989",
  "suburb": "KINGSCLIFF",
  "features": [
   {
@@ -1664,8 +1664,8 @@
    "properties": {
     "name": "UNIT 2, 5 KINGSCLIFF STREET KINGSCLIFF 2487",
     "locID": "LOC000078490120",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705092515"
    }
   },
@@ -7563,8 +7563,8 @@
    "properties": {
     "name": "60 LORIEN WAY KINGSCLIFF 2487",
     "locID": "LOC000018410514",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705095856"
    }
   },
@@ -15451,8 +15451,8 @@
    "properties": {
     "name": "16 MCPHAIL AVENUE KINGSCLIFF 2487",
     "locID": "LOC000093398793",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705100695"
    }
   },
@@ -38690,8 +38690,8 @@
    "properties": {
     "name": "9 CORMORANT PLACE KINGSCLIFF 2487",
     "locID": "LOC000055136318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705122436"
    }
   },
@@ -55588,8 +55588,8 @@
    "properties": {
     "name": "11 CATHEDRAL COURT KINGSCLIFF 2487",
     "locID": "LOC000046322698",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716652312"
    }
   },
@@ -56676,8 +56676,8 @@
    "properties": {
     "name": "17 NORTH POINT AVENUE KINGSCLIFF 2487",
     "locID": "LOC000008956890",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716678133"
    }
   },
@@ -56710,8 +56710,8 @@
    "properties": {
     "name": "19 NORTH POINT AVENUE KINGSCLIFF 2487",
     "locID": "LOC000007379305",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716678135"
    }
   },
@@ -76481,8 +76481,8 @@
    "properties": {
     "name": "UNIT 3, 1 PACIFIC STREET KINGSCLIFF 2487",
     "locID": "LOC000078647672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718010844"
    }
   },
@@ -87956,8 +87956,8 @@
    "properties": {
     "name": "19 BRONTE PLACE KINGSCLIFF 2487",
     "locID": "LOC000166096312",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718720995"
    }
   },
@@ -101702,6 +101702,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.56559128,
+     -28.2501273
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721235906"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56560499,
+     -28.25033523
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721236162"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56559612,
+     -28.25022965
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721236395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56557194,
+     -28.2507543
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721236789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.57047822,
      -28.24925766
     ]
@@ -101712,6 +101780,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721237331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56587108,
+     -28.25044603
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721237963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56587197,
+     -28.2503275
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721238175"
    }
   },
   {
@@ -101736,6 +101838,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.56580691,
+     -28.24957713
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721238713"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56577665,
+     -28.25065921
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721239533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.57585805,
      -28.28662561
     ]
@@ -101746,6 +101882,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721239717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56570411,
+     -28.24957605
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721239881"
    }
   },
   {
@@ -101787,6 +101940,142 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.56577503,
+     -28.25054477
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721240660"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56580067,
+     -28.2496716
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721240717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56555099,
+     -28.24982589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721241559"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.5657839,
+     -28.25043919
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721241585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56514064,
+     -28.25026917
+    ]
+   },
+   "properties": {
+    "name": "95 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJuUHYWkL_kGsRLwS_h8Clkqs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721241610"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56563374,
+     -28.25161172
+    ]
+   },
+   "properties": {
+    "name": "85 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJ5-t8qUP_kGsRIQ0b3ponOgc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721241863"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56586216,
+     -28.25066705
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721242164"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56559934,
+     -28.25044322
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721242645"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.56481845,
      -28.24415264
     ]
@@ -101821,6 +102110,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.56582563,
+     -28.24978121
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721243601"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.57047822,
      -28.24925766
     ]
@@ -101831,6 +102137,125 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721243747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56552359,
+     -28.24957525
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721243801"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.5658693,
+     -28.2502277
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244601"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56577987,
+     -28.25022079
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244733"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56574038,
+     -28.24989922
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56575811,
+     -28.25000641
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244865"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56576536,
+     -28.25011199
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721244994"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56566967,
+     -28.24936236
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721245269"
    }
   },
   {
@@ -101906,6 +102331,108 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.56572668,
+     -28.24979526
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721246004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56583276,
+     -28.24989172
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721246400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56570975,
+     -28.24968808
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721246544"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56586128,
+     -28.25011005
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721246610"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56567188,
+     -28.25078493
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721246652"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56571528,
+     -28.24997067
+    ]
+   },
+   "properties": {
+    "name": "99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721246976"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.57047822,
      -28.24925766
     ]
@@ -101923,6 +102450,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.56557436,
+     -28.24998788
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721247824"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56587019,
+     -28.2505503
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721247894"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.57047822,
      -28.24925766
     ]
@@ -101933,6 +102494,91 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721248075"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56560095,
+     -28.25054477
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721248599"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56504667,
+     -28.25216501
+    ]
+   },
+   "properties": {
+    "name": "83 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJISShvEP_kGsRIV-Ty3xH7R0",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721248854"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56559128,
+     -28.25065115
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2A, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721248896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56584791,
+     -28.24999956
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8C, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721249221"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56577745,
+     -28.25032798
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5B, 99 ELROND DRIVE KINGSCLIFF 2487",
+    "locID": "ChIJT5rPX0L_kGsRzNwDY_Bh3VM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721249251"
    }
   },
   {
