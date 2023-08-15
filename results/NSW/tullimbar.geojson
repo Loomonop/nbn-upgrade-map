@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T02:58:44.683762",
+ "generated": "2023-08-15T04:05:48.867392",
  "suburb": "TULLIMBAR",
  "features": [
   {
@@ -389,8 +389,8 @@
    "properties": {
     "name": "12 BROUGHTON AVENUE TULLIMBAR 2527",
     "locID": "LOC000010497900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717367516"
    }
   },
@@ -1154,8 +1154,8 @@
    "properties": {
     "name": "4 PAMBULA STREET TULLIMBAR 2527",
     "locID": "LOC000115487882",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717714355"
    }
   },
@@ -2140,8 +2140,8 @@
    "properties": {
     "name": "2 MITTAGONG STREET TULLIMBAR 2527",
     "locID": "LOC000145005482",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718498091"
    }
   },
@@ -2718,8 +2718,8 @@
    "properties": {
     "name": "15 CURRAMORE TERRACE TULLIMBAR 2527",
     "locID": "LOC000145006301",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718558515"
    }
   },
@@ -8107,7 +8107,7 @@
    "properties": {
     "name": "23 PAUL CIRCUIT TULLIMBAR 2527",
     "locID": "LOC000174369468",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719669706"
    }
@@ -14516,7 +14516,7 @@
    "properties": {
     "name": "25A PAUL CIRCUIT TULLIMBAR 2527",
     "locID": "ChIJl7OkOkwNE2sRjUc1FcYQe8M",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720461632"
    }
@@ -17324,6 +17324,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720636785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.75687652,
+     -34.57657637
+    ]
+   },
+   "properties": {
+    "name": "69 BALMORAL PARADE TULLIMBAR 2527",
+    "locID": "EjE2OSBCYWxtb3JhbCBQYXJhZGUsIFR1bGxpbWJhciBOU1cgMjUyNywgQXVzdHJhbGlhIjASLgoUChIJfWeNGlANE2sR-rh1qm04QioQRSoUChIJR65r00QNE2sRD8KHqpOgFDU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720636789"
    }
   },
   {
@@ -21863,6 +21880,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720938597"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.75427146,
+     -34.58015908
+    ]
+   },
+   "properties": {
+    "name": "19 CANDELO PLACE TULLIMBAR 2527",
+    "locID": "ChIJ5cMEb04NE2sRhFShvbxMswI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720938923"
    }
   },
   {

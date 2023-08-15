@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T02:55:09.990847",
+ "generated": "2023-08-15T04:01:27.847495",
  "suburb": "HUNTERVIEW",
  "features": [
   {
@@ -1018,8 +1018,8 @@
    "properties": {
     "name": "37 CASEY DRIVE HUNTERVIEW 2330",
     "locID": "LOC000026261497",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704975154"
    }
   },
@@ -2191,8 +2191,8 @@
    "properties": {
     "name": "2 GOSTWYCK PLACE HUNTERVIEW 2330",
     "locID": "LOC000105310074",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704994165"
    }
   },
@@ -6748,7 +6748,7 @@
     "name": "3 THE GROVE HUNTERVIEW 2330",
     "locID": "LOC000054005021",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705006737"
    }
   },
@@ -7869,8 +7869,8 @@
    "properties": {
     "name": "20 ASQUITH AVENUE HUNTERVIEW 2330",
     "locID": "LOC000090552449",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705010475"
    }
   },
@@ -17152,7 +17152,7 @@
     "name": "48 WATTLE PONDS ROAD HUNTERVIEW 2330",
     "locID": "LOC000082263396",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717565470"
    }
   },
@@ -18104,7 +18104,7 @@
     "name": "UNIT 1, 48 WATTLE PONDS ROAD HUNTERVIEW 2330",
     "locID": "LOC000082263396",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717931938"
    }
   },
@@ -18308,7 +18308,7 @@
     "name": "13 BROOKER CLOSE HUNTERVIEW 2330",
     "locID": "LOC000013835150",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718024692"
    }
   },
@@ -25076,6 +25076,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721238584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.18990073,
+     -32.54745652
+    ]
+   },
+   "properties": {
+    "name": "162 PIONEER ROAD HUNTERVIEW 2330",
+    "locID": "Ei4xNjIgUGlvbmVlciBSZCwgSHVudGVydmlldyBOU1cgMjMzMCwgQXVzdHJhbGlhIjESLwoUChIJmXRNCEuuDGsRjYIInlfzmgEQogEqFAoSCaXmVwJMrgxrEQ_V6w3uBvfA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721240494"
    }
   },
   {

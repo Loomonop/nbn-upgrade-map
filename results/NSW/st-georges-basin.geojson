@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T02:53:08.701438",
+ "generated": "2023-08-15T03:59:14.329740",
  "suburb": "ST GEORGES BASIN",
  "features": [
   {
@@ -2855,7 +2855,7 @@
     "name": "120 ISLAND POINT ROAD ST GEORGES BASIN 2540",
     "locID": "LOC000109686812",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705929965"
    }
   },
@@ -6832,8 +6832,8 @@
    "properties": {
     "name": "81 ISLAND POINT ROAD ST GEORGES BASIN 2540",
     "locID": "LOC000059007866",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705943767"
    }
   },
@@ -10283,8 +10283,8 @@
    "properties": {
     "name": "163 ISLAND POINT ROAD ST GEORGES BASIN 2540",
     "locID": "LOC000106224633",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705964001"
    }
   },
@@ -11619,6 +11619,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.5776662,
+     -35.08314221
+    ]
+   },
+   "properties": {
+    "name": "26 PELICAN ROAD ST GEORGES BASIN 2540",
+    "locID": "ChIJhQhGlXRiFGsRXe0tod5R6qQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW705971472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.59634108,
      -35.09531473
     ]
@@ -12698,7 +12715,7 @@
     "name": "10 ST GEORGES ROAD ST GEORGES BASIN 2540",
     "locID": "LOC000072264321",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705978838"
    }
   },
@@ -13854,7 +13871,7 @@
     "name": "44 ST GEORGES ROAD ST GEORGES BASIN 2540",
     "locID": "LOC000030571113",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705989177"
    }
   },
@@ -17118,7 +17135,7 @@
     "name": "13 CLAYLANDS DRIVE ST GEORGES BASIN 2540",
     "locID": "LOC000056306501",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706023061"
    }
   },
@@ -24716,8 +24733,8 @@
    "properties": {
     "name": "10 MORONEY AVENUE ST GEORGES BASIN 2540",
     "locID": "LOC000027794899",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717270254"
    }
   },
