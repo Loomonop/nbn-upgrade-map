@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T11:39:01.398691",
+ "generated": "2023-08-15T13:50:31.363267",
  "suburb": "SWANSEA",
  "features": [
   {
@@ -7716,8 +7716,8 @@
    "properties": {
     "name": "5 MILRAY STREET SWANSEA 2281",
     "locID": "LOC000033908804",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705988152"
    }
   },
@@ -9518,8 +9518,8 @@
    "properties": {
     "name": "54 CATHERINE STREET SWANSEA 2281",
     "locID": "LOC000023982642",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705994555"
    }
   },
@@ -13037,8 +13037,8 @@
    "properties": {
     "name": "40 FORBES STREET SWANSEA 2281",
     "locID": "LOC000091897322",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706004500"
    }
   },
@@ -19939,8 +19939,8 @@
    "properties": {
     "name": "149 PARBURY ROAD SWANSEA 2281",
     "locID": "LOC000017251621",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706025985"
    }
   },
@@ -20058,8 +20058,8 @@
    "properties": {
     "name": "163 PARBURY ROAD SWANSEA 2281",
     "locID": "LOC000064233724",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706025993"
    }
   },
@@ -20160,8 +20160,8 @@
    "properties": {
     "name": "175 PARBURY ROAD SWANSEA 2281",
     "locID": "LOC000071016253",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706026000"
    }
   },
@@ -25176,7 +25176,7 @@
     "name": "12 KAHIBAH STREET SWANSEA 2281",
     "locID": "LOC000058307062",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706043181"
    }
   },
@@ -28252,8 +28252,8 @@
    "properties": {
     "name": "13 WILLS STREET SWANSEA 2281",
     "locID": "LOC000065473920",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706060353"
    }
   },
@@ -28677,8 +28677,8 @@
    "properties": {
     "name": "5 OXLEY STREET SWANSEA 2281",
     "locID": "LOC000044212354",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706063198"
    }
   },
@@ -39167,7 +39167,7 @@
     "name": "175A BOWMAN STREET SWANSEA 2281",
     "locID": "LOC000026407534",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711823312"
    }
   },
@@ -43069,6 +43069,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.63436959,
+     -33.0850282
+    ]
+   },
+   "properties": {
+    "name": "1A BELMONT STREET SWANSEA 2281",
+    "locID": "ChIJDXU4O9wjc2sRD7PLiyB74BI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716727733"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.63673499,
      -33.08535375
     ]
@@ -45867,6 +45884,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718034710"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.64922,
+     -33.0988839
+    ]
+   },
+   "properties": {
+    "name": "90B NORTHCOTE AVENUE SWANSEA 2281",
+    "locID": "ChIJxTK0uX4hc2sRr3s7ICMAVmg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718034711"
    }
   },
   {

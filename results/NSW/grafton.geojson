@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T11:51:53.470072",
+ "generated": "2023-08-15T14:03:14.563059",
  "suburb": "GRAFTON",
  "features": [
   {
@@ -12867,8 +12867,8 @@
    "properties": {
     "name": "14 POUND STREET GRAFTON 2460",
     "locID": "LOC000034770055",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704851542"
    }
   },
@@ -24376,8 +24376,8 @@
    "properties": {
     "name": "3 LOXTON AVENUE GRAFTON 2460",
     "locID": "LOC000107393397",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704854128"
    }
   },
@@ -108696,8 +108696,8 @@
    "properties": {
     "name": "16A CHAPMAN STREET GRAFTON 2460",
     "locID": "LOC000151382732",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW718597501"
    }
   },
@@ -118610,6 +118610,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721128349"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9211602,
+     -29.66719659
+    ]
+   },
+   "properties": {
+    "name": "11 OAK AVENUE GRAFTON 2460",
+    "locID": "ChIJG1Wp5-Hbm2sRKCe07lWd7_Q",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721128388"
    }
   },
   {
