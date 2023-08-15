@@ -18,6 +18,19 @@ def test_read_geojson(monkeypatch):
     assert stuff["type"] == "FeatureCollection"
     assert stuff["suburb"] == "ACTON"
 
+    addresses = geojson.read_geojson_file_addresses("MyTown", "ABC")
+    assert addresses is not None
+    assert len(addresses) == 3
+    assert addresses[0] == Address(
+        name="21 MCCOY CIRCUIT ACTON 2601",
+        gnaf_pid="GAACT714876373",
+        longitude=149.12072415,
+        latitude=-35.28414781,
+        loc_id="ChIJBXWXMEdNFmsRoN6pR5X8gC4",
+        tech="FTTP",
+        upgrade="UNKNOWN",
+    )
+
 
 def test_write_geojson(monkeypatch):
     SAVED_JSON = {}
@@ -33,11 +46,13 @@ def test_write_geojson(monkeypatch):
         Address(name="3 Fake St", gnaf_pid="GNAF789", longitude=123.456, latitude=-12.345, upgrade="ABC"),
         Address(name="4 Fake St", gnaf_pid="GNAF007", longitude=123.456, latitude=-12.345, tech="ABC"),
     ]
-    geojson.write_geojson_file("MyTown", "ABC", addresses)
+    generated = datetime.datetime.now() - datetime.timedelta(days=1)
+    geojson.write_geojson_file("MyTown", "ABC", addresses, generated)
 
     info = SAVED_JSON["results/ABC/mytown.geojson"]
     assert info["type"] == "FeatureCollection"
     assert info["suburb"] == "MyTown"
+    assert info["generated"] == generated.isoformat()
     assert len(info["features"]) == 2, "addresses with no tech or upgrade should not be included"
     assert info["features"][0]["type"] == "Feature"
     assert info["features"][0]["properties"]["upgrade"] == "XYZ"
