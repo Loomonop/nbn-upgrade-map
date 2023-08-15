@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T17:25:33.111837",
+ "generated": "2023-08-15T19:20:19.509330",
  "suburb": "WOONONA",
  "features": [
   {
@@ -36990,8 +36990,8 @@
    "properties": {
     "name": "45 RED ASH DRIVE WOONONA 2517",
     "locID": "LOC000087169038",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706382042"
    }
   },
@@ -42005,8 +42005,8 @@
    "properties": {
     "name": "4 LAUREL CLOSE WOONONA 2517",
     "locID": "LOC000075723812",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706383167"
    }
   },
@@ -49818,6 +49818,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.91455862,
+     -34.35387798
+    ]
+   },
+   "properties": {
+    "name": "39 DORRIGO AVENUE WOONONA 2517",
+    "locID": "LOC000193360511",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706393074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.91788628,
      -34.35383895
     ]
@@ -52922,6 +52939,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706396164"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91306926,
+     -34.34406299
+    ]
+   },
+   "properties": {
+    "name": "55 THOMPSON STREET WOONONA 2517",
+    "locID": "LOC000193296183",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706396165"
    }
   },
   {
