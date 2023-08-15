@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T19:58:43.458914",
+ "generated": "2023-08-15T21:40:36.847260",
  "suburb": "GLENHAVEN",
  "features": [
   {
@@ -7495,8 +7495,8 @@
    "properties": {
     "name": "422 OLD NORTHERN ROAD GLENHAVEN 2156",
     "locID": "LOC000040074645",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704826219"
    }
   },
@@ -33879,8 +33879,8 @@
    "properties": {
     "name": "39 GLENSHEE PLACE GLENHAVEN 2156",
     "locID": "LOC000105489409",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717554313"
    }
   },
@@ -33981,8 +33981,8 @@
    "properties": {
     "name": "50 GLENSHEE PLACE GLENHAVEN 2156",
     "locID": "LOC000077961925",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717554323"
    }
   },
@@ -36602,6 +36602,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718087167"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.99875918,
+     -33.69601772
+    ]
+   },
+   "properties": {
+    "name": "2-4 FINLEY PLACE GLENHAVEN 2156",
+    "locID": "LOC000193391751",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718098841"
    }
   },
   {

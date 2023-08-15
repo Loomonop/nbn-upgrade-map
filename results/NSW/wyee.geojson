@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T19:38:30.919520",
+ "generated": "2023-08-15T21:17:13.522153",
  "suburb": "WYEE",
  "features": [
   {
@@ -440,8 +440,8 @@
    "properties": {
     "name": "13 KOIYOG ROAD WYEE 2259",
     "locID": "LOC000012330463",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706352702"
    }
   },
@@ -525,8 +525,8 @@
    "properties": {
     "name": "18 KOIYOG ROAD WYEE 2259",
     "locID": "LOC000091869068",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706352707"
    }
   },
@@ -1885,8 +1885,8 @@
    "properties": {
     "name": "16 DARLINGUP ROAD WYEE 2259",
     "locID": "LOC000033139792",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706359268"
    }
   },
@@ -5898,7 +5898,7 @@
     "name": "26 WARRAWOLONG STREET WYEE 2259",
     "locID": "LOC000055078688",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706380258"
    }
   },
@@ -6935,7 +6935,7 @@
     "name": "199 WYEE ROAD WYEE 2259",
     "locID": "LOC000078599802",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706389692"
    }
   },
@@ -9212,8 +9212,8 @@
    "properties": {
     "name": "21 BUNGAREE STREET WYEE 2259",
     "locID": "LOC000073547888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706400062"
    }
   },
@@ -31978,6 +31978,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721248406"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.47680426,
+     -33.18694541
+    ]
+   },
+   "properties": {
+    "name": "20 ACKLAND WAY WYEE 2259",
+    "locID": "ChIJO_6yxhrXcmsRpnQ3gA_cPV0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721248412"
    }
   },
   {
