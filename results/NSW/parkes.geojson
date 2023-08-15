@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T01:25:22.592506",
+ "generated": "2023-08-15T02:35:06.963272",
  "suburb": "PARKES",
  "features": [
   {
@@ -7020,7 +7020,7 @@
     "name": "270 CLARINDA STREET PARKES 2870",
     "locID": "LOC000020656263",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705638450"
    }
   },
@@ -36497,8 +36497,8 @@
    "properties": {
     "name": "3 BEST STREET PARKES 2870",
     "locID": "LOC000003851320",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705675618"
    }
   },
@@ -68766,6 +68766,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW713096042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.18165635,
+     -33.1230576
+    ]
+   },
+   "properties": {
+    "name": "61 WEBB STREET PARKES 2870",
+    "locID": "ChIJmZR0WS67GmsRMggBk2E3wu8",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW713096361"
    }
   },
   {
@@ -112684,6 +112701,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     148.15536758,
+     -33.14319324
+    ]
+   },
+   "properties": {
+    "name": "15B ROSEWOOD AVENUE PARKES 2870",
+    "locID": "LOC000193192428",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718957356"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      148.15550806,
      -33.14301039
     ]
@@ -113374,6 +113408,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718975388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.15524877,
+     -33.14337995
+    ]
+   },
+   "properties": {
+    "name": "15 ROSEWOOD AVENUE PARKES 2870",
+    "locID": "LOC000193192428",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718975842"
    }
   },
   {
@@ -116689,6 +116740,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719739719"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.18199743,
+     -33.16714944
+    ]
+   },
+   "properties": {
+    "name": "317 NASH STREET PARKES 2870",
+    "locID": "EiczMTcgTmFzaCBTdCwgUGFya2VzIE5TVyAyODcwLCBBdXN0cmFsaWEiMRIvChQKEgl77RG4sbwaaxHx7uG0R8FZUBC9AioUChIJg42palW7GmsRRORpufoLsUI",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW719740234"
    }
   },
   {
@@ -120579,7 +120647,7 @@
    "properties": {
     "name": "29 PHILLIPS STREET PARKES 2870",
     "locID": "ChIJwYat2UjPsGoRr_hgCRgf2ZE",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720998570"
    }
