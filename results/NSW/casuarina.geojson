@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T07:09:02.753353",
+ "generated": "2023-08-15T08:26:11.508539",
  "suburb": "CASUARINA",
  "features": [
   {
@@ -1426,8 +1426,8 @@
    "properties": {
     "name": "5 COOGERA LANE CASUARINA 2487",
     "locID": "LOC000093804887",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716560041"
    }
   },
@@ -7784,8 +7784,8 @@
    "properties": {
     "name": "8 AEOLUS LANE CASUARINA 2487",
     "locID": "LOC000026465556",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717279934"
    }
   },
@@ -16277,6 +16277,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.57241975,
+     -28.29562634
+    ]
+   },
+   "properties": {
+    "name": "UNIT 69, 9-13 DIANELLA DRIVE CASUARINA 2487",
+    "locID": "LOC000017312427",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717872803"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.57202954,
      -28.29564549
     ]
@@ -21809,8 +21826,8 @@
    "properties": {
     "name": "445 CASUARINA WAY CASUARINA 2487",
     "locID": "LOC000166070490",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718491916"
    }
   },
