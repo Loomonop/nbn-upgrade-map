@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T00:35:16.009810",
+ "generated": "2023-08-15T01:54:34.055017",
  "suburb": "WICKHAM",
  "features": [
   {
@@ -1274,7 +1274,7 @@
     "name": "14 DICKSON STREET WICKHAM 2293",
     "locID": "LOC000005566423",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706294240"
    }
   },
@@ -4146,8 +4146,8 @@
    "properties": {
     "name": "32 THROSBY STREET WICKHAM 2293",
     "locID": "LOC000091849249",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706325199"
    }
   },
@@ -6053,6 +6053,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707669799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.75817081,
+     -32.91775054
+    ]
+   },
+   "properties": {
+    "name": "122A HANNELL STREET WICKHAM 2293",
+    "locID": "LOC000193168371",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW711889957"
    }
   },
   {
@@ -13837,7 +13854,7 @@
     "name": "UNIT 3, 101 HANNELL STREET WICKHAM 2293",
     "locID": "LOC000086419292",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717921816"
    }
   },
