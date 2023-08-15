@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T14:13:52.158457",
+ "generated": "2023-08-15T16:24:14.735534",
  "suburb": "LAKE HEIGHTS",
  "features": [
   {
@@ -321,8 +321,8 @@
    "properties": {
     "name": "3 NORTHCLIFFE DRIVE LAKE HEIGHTS 2502",
     "locID": "LOC000053682823",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705132919"
    }
   },
@@ -848,8 +848,8 @@
    "properties": {
     "name": "53 GRAND VIEW PARADE LAKE HEIGHTS 2502",
     "locID": "LOC000057968946",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705133946"
    }
   },
@@ -1256,8 +1256,8 @@
    "properties": {
     "name": "101 WERINGA AVENUE LAKE HEIGHTS 2502",
     "locID": "LOC000057324829",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705133970"
    }
   },
@@ -4741,8 +4741,8 @@
    "properties": {
     "name": "103 WERINGA AVENUE LAKE HEIGHTS 2502",
     "locID": "LOC000035551984",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705142192"
    }
   },
@@ -7530,7 +7530,7 @@
     "name": "30 BARINA AVENUE LAKE HEIGHTS 2502",
     "locID": "LOC000035381066",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705145879"
    }
   },
@@ -7869,8 +7869,8 @@
    "properties": {
     "name": "20 BUENA VISTA AVENUE LAKE HEIGHTS 2502",
     "locID": "LOC000013945271",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705145930"
    }
   },
@@ -8515,8 +8515,8 @@
    "properties": {
     "name": "7 GILGANDRA STREET LAKE HEIGHTS 2502",
     "locID": "LOC000086895607",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705147821"
    }
   },
@@ -10538,8 +10538,8 @@
    "properties": {
     "name": "72 HASSAN STREET LAKE HEIGHTS 2502",
     "locID": "LOC000029640303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705149799"
    }
   },
@@ -12374,8 +12374,8 @@
    "properties": {
     "name": "63 HASSAN STREET LAKE HEIGHTS 2502",
     "locID": "LOC000035109712",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705153029"
    }
   },
@@ -12783,7 +12783,7 @@
     "name": "52 WERINGA AVENUE LAKE HEIGHTS 2502",
     "locID": "LOC000053349302",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705153069"
    }
   },
@@ -14601,8 +14601,8 @@
    "properties": {
     "name": "79 MIRRABOOKA ROAD LAKE HEIGHTS 2502",
     "locID": "LOC000066405380",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705154141"
    }
   },
@@ -15180,7 +15180,7 @@
     "name": "86 HASSAN STREET LAKE HEIGHTS 2502",
     "locID": "LOC000090159904",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705155640"
    }
   },
@@ -16998,8 +16998,8 @@
    "properties": {
     "name": "24 MIRRABOOKA ROAD LAKE HEIGHTS 2502",
     "locID": "LOC000005529948",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705156732"
    }
   },
@@ -19957,7 +19957,7 @@
     "name": "216 FLAGSTAFF ROAD LAKE HEIGHTS 2502",
     "locID": "LOC000056119521",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706410058"
    }
   },
@@ -21826,8 +21826,8 @@
    "properties": {
     "name": "21 KARRABAH CRESCENT LAKE HEIGHTS 2502",
     "locID": "LOC000052721483",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706433860"
    }
   },
@@ -22662,6 +22662,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707530858"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86339502,
+     -34.48518986
+    ]
+   },
+   "properties": {
+    "name": "37 KINGSLEY DRIVE LAKE HEIGHTS 2502",
+    "locID": "LOC000068834512",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW707548115"
    }
   },
   {
@@ -30564,7 +30581,7 @@
    "properties": {
     "name": "14 BACKHOUSE ROAD LAKE HEIGHTS 2502",
     "locID": "ChIJx4kI3DMXE2sRyqNsiwO9hDI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718094705"
    }

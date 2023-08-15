@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T14:36:26.582386",
+ "generated": "2023-08-15T16:41:37.369719",
  "suburb": "INVERELL",
  "features": [
   {
@@ -1290,8 +1290,8 @@
    "properties": {
     "name": "101 LAWRENCE STREET INVERELL 2360",
     "locID": "LOC000099111173",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705011832"
    }
   },
@@ -12136,8 +12136,8 @@
    "properties": {
     "name": "80 HENDERSON STREET INVERELL 2360",
     "locID": "LOC000008288944",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705014960"
    }
   },
@@ -30547,8 +30547,8 @@
    "properties": {
     "name": "6 BERTHA STREET INVERELL 2360",
     "locID": "LOC000075074876",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705020016"
    }
   },
@@ -43858,8 +43858,8 @@
    "properties": {
     "name": "34 GREAVES STREET INVERELL 2360",
     "locID": "LOC000096624464",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705023749"
    }
   },
@@ -73422,7 +73422,7 @@
     "name": "5 AUBURN VALE ROAD INVERELL 2360",
     "locID": "LOC000072575436",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715725973"
    }
   },
@@ -93858,6 +93858,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717380350"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.11381734,
+     -29.7761103
+    ]
+   },
+   "properties": {
+    "name": "138 OTHO STREET INVERELL 2360",
+    "locID": "EikxMzggT3RobyBTdCwgSW52ZXJlbGwgTlNXIDIzNjAsIEF1c3RyYWxpYSIxEi8KFAoSCQ05-YI296FrESZwFd9nHZ1hEIoBKhQKEgkvvU-DNvehaxGy9UrOUj3bcw",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW717380351"
    }
   },
   {
