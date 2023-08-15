@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T05:21:52.799196",
+ "generated": "2023-08-15T06:25:09.202736",
  "suburb": "ALBURY",
  "features": [
   {
@@ -560,7 +560,7 @@
     "name": "428 DEAN STREET ALBURY 2640",
     "locID": "LOC000028803452",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703891717"
    }
   },
@@ -967,8 +967,8 @@
    "properties": {
     "name": "758 MACAULEY STREET ALBURY 2640",
     "locID": "LOC000089075947",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703891955"
    }
   },
@@ -10079,8 +10079,8 @@
    "properties": {
     "name": "26 GOLF VIEW DRIVE ALBURY 2640",
     "locID": "LOC000098485977",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703895257"
    }
   },
@@ -18579,8 +18579,8 @@
    "properties": {
     "name": "431 NORTH STREET ALBURY 2640",
     "locID": "LOC000059659666",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703897337"
    }
   },
@@ -19429,8 +19429,8 @@
    "properties": {
     "name": "481 CRISP STREET ALBURY 2640",
     "locID": "LOC000005548544",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703897552"
    }
   },
@@ -32537,7 +32537,7 @@
     "name": "635 SACKVILLE STREET ALBURY 2640",
     "locID": "LOC000074174393",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703907116"
    }
   },
@@ -66095,7 +66095,7 @@
     "name": "432 DEAN STREET ALBURY 2640",
     "locID": "LOC000028803452",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717669891"
    }
   },
@@ -68526,7 +68526,7 @@
     "name": "470 KIEWA STREET ALBURY 2640",
     "locID": "LOC000101675526",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717892924"
    }
   },
@@ -69752,6 +69752,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718086440"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.93246596,
+     -36.06963921
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 EAMES STREET ALBURY 2640",
+    "locID": "EiwxIEVhbWVzIFN0LCBOb3J0aCBBbGJ1cnkgTlNXIDI2NDAsIEF1c3RyYWxpYSIwEi4KFAoSCYECf3Qy4CNrEZIP59TatfwLEAEqFAoSCWG_pgwy4CNrEc06qAFhRCrP",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718086780"
    }
   },
   {
