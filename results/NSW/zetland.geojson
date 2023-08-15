@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T03:37:33.772520",
+ "generated": "2023-08-15T04:45:05.672334",
  "suburb": "ZETLAND",
  "features": [
   {
@@ -2378,8 +2378,8 @@
    "properties": {
     "name": "22 EPSOM ROAD ZETLAND 2017",
     "locID": "LOC000018370234",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706374305"
    }
   },
@@ -4520,8 +4520,8 @@
    "properties": {
     "name": "61 HANSARD STREET ZETLAND 2017",
     "locID": "LOC000033399619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706400875"
    }
   },
@@ -4622,8 +4622,8 @@
    "properties": {
     "name": "18 PORTMAN STREET ZETLAND 2017",
     "locID": "LOC000085064078",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706401201"
    }
   },
@@ -16047,7 +16047,7 @@
     "name": "942A ELIZABETH STREET ZETLAND 2017",
     "locID": "LOC000067541771",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716395146"
    }
   },
@@ -33743,8 +33743,8 @@
    "properties": {
     "name": "1D VICTORIA PARK PARADE ZETLAND 2017",
     "locID": "LOC000119324330",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717721203"
    }
   },
@@ -119800,6 +119800,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719806296"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.20402121,
+     -33.90509575
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2107, 6 EBSWORTH STREET ZETLAND 2017",
+    "locID": "LOC000177851977",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719806297"
    }
   },
   {

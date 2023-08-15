@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-14T02:35:33.175303",
+ "generated": "2023-08-15T05:37:20.177284",
  "suburb": "GRANTHAM",
  "features": [
   {
@@ -1206,7 +1206,7 @@
     "name": "3 ROBERT STREET GRANTHAM 4347",
     "locID": "LOC000056622049",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156619829"
    }
   },
@@ -1614,7 +1614,7 @@
     "name": "10 CHRISTOPHER STREET GRANTHAM 4347",
     "locID": "LOC000104828015",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156624848"
    }
   },
@@ -8722,6 +8722,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720035069"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.16545252,
+     -27.51840141
+    ]
+   },
+   "properties": {
+    "name": "LOT 1018 SEVENTEEN MILE ROAD GRANTHAM 4347",
+    "locID": "LOC000045704832",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720592142"
    }
   },
   {
