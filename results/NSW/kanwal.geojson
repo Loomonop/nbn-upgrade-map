@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T06:08:02.544481",
+ "generated": "2023-08-15T07:13:48.112603",
  "suburb": "KANWAL",
  "features": [
   {
@@ -2361,8 +2361,8 @@
    "properties": {
     "name": "10 BADEN CLOSE KANWAL 2259",
     "locID": "LOC000076680640",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705040397"
    }
   },
@@ -13003,8 +13003,8 @@
    "properties": {
     "name": "65 WALKER AVENUE KANWAL 2259",
     "locID": "LOC000010989737",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705052690"
    }
   },
@@ -19378,8 +19378,8 @@
    "properties": {
     "name": "1 GIBSON CLOSE KANWAL 2259",
     "locID": "LOC000015023790",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705062823"
    }
   },
@@ -27684,6 +27684,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.48382242,
+     -33.26462466
+    ]
+   },
+   "properties": {
+    "name": "14B KINGSTON ROAD KANWAL 2259",
+    "locID": "ChIJlTX4UFnQcmsR3C9fHV6k7rs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716634082"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.49317369,
      -33.25286446
     ]
@@ -31077,6 +31094,74 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718002371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.49646525,
+     -33.2524605
+    ]
+   },
+   "properties": {
+    "name": "12 LAKE HAVEN DRIVE KANWAL 2259",
+    "locID": "EiwxMiBMYWtlIEhhdmVuIERyLCBLYW53YWwgTlNXIDIyNTksIEF1c3RyYWxpYSIwEi4KFAoSCcu4zv2R0HJrEYHTwkz31iDVEAwqFAoSCXPaox2X0HJrEWPyVyW2Bjz3",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718002372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.49646525,
+     -33.2524605
+    ]
+   },
+   "properties": {
+    "name": "14 LAKE HAVEN DRIVE KANWAL 2259",
+    "locID": "EiwxNCBMYWtlIEhhdmVuIERyLCBLYW53YWwgTlNXIDIyNTksIEF1c3RyYWxpYSIwEi4KFAoSCcu4zv2R0HJrEYHTwkz31iDVEA4qFAoSCXPaox2X0HJrEWPyVyW2Bjz3",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718002373"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.49646525,
+     -33.2524605
+    ]
+   },
+   "properties": {
+    "name": "16 LAKE HAVEN DRIVE KANWAL 2259",
+    "locID": "EiwxNiBMYWtlIEhhdmVuIERyLCBLYW53YWwgTlNXIDIyNTksIEF1c3RyYWxpYSIwEi4KFAoSCcu4zv2R0HJrEYHTwkz31iDVEBAqFAoSCXPaox2X0HJrEWPyVyW2Bjz3",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718002374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.49646525,
+     -33.2524605
+    ]
+   },
+   "properties": {
+    "name": "18 LAKE HAVEN DRIVE KANWAL 2259",
+    "locID": "EiwxOCBMYWtlIEhhdmVuIERyLCBLYW53YWwgTlNXIDIyNTksIEF1c3RyYWxpYSIwEi4KFAoSCcu4zv2R0HJrEYHTwkz31iDVEBIqFAoSCXPaox2X0HJrEWPyVyW2Bjz3",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718002375"
    }
   },
   {
