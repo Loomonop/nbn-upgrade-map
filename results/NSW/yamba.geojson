@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T20:28:33.375804",
+ "generated": "2023-08-15T22:09:05.997955",
  "suburb": "YAMBA",
  "features": [
   {
@@ -10113,8 +10113,8 @@
    "properties": {
     "name": "13 HAKEA AVENUE YAMBA 2464",
     "locID": "LOC000045520718",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706363363"
    }
   },
@@ -23781,8 +23781,8 @@
    "properties": {
     "name": "5 BORONIA CRESCENT YAMBA 2464",
     "locID": "LOC000099181610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706390785"
    }
   },
@@ -23918,7 +23918,7 @@
     "name": "48 MELALEUCA DRIVE YAMBA 2464",
     "locID": "LOC000098508542",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706390824"
    }
   },
@@ -27946,8 +27946,8 @@
    "properties": {
     "name": "4 THE LINK YAMBA 2464",
     "locID": "LOC000012349088",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706396804"
    }
   },
@@ -41513,7 +41513,7 @@
     "name": "3 WATTLE DRIVE YAMBA 2464",
     "locID": "LOC000087020488",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712260565"
    }
   },
@@ -42685,7 +42685,7 @@
    "properties": {
     "name": "UNIT 5, 13 YAMBA STREET YAMBA 2464",
     "locID": "LOC000191458515",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712270895"
    }
@@ -43790,8 +43790,8 @@
    "properties": {
     "name": "7 ELIZA COURT YAMBA 2464",
     "locID": "LOC000033960462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712273756"
    }
   },
@@ -45082,8 +45082,8 @@
    "properties": {
     "name": "95 WITONGA DRIVE YAMBA 2464",
     "locID": "LOC000091730885",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712277773"
    }
   },
@@ -48755,7 +48755,7 @@
     "name": "UNIT 1, 6 MARINERS WAY YAMBA 2464",
     "locID": "LOC000035608819",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712298098"
    }
   },
@@ -73778,7 +73778,7 @@
    "properties": {
     "name": "52-54 MILES STREET YAMBA 2464",
     "locID": "LOC000191458396",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717959562"
    }
@@ -80214,6 +80214,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000177191563",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718644724"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.36234187,
      -29.43983245
     ]
@@ -80877,6 +80894,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34154045,
+     -29.43995609
+    ]
+   },
+   "properties": {
+    "name": "UNIT 18, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843665"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.34170859,
      -29.43997071
     ]
@@ -80904,6 +80938,57 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718843667"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34150391,
+     -29.44017686
+    ]
+   },
+   "properties": {
+    "name": "UNIT 20, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843668"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34166181,
+     -29.44020464
+    ]
+   },
+   "properties": {
+    "name": "UNIT 21, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843669"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34147466,
+     -29.44031868
+    ]
+   },
+   "properties": {
+    "name": "SITE 22, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843670"
    }
   },
   {
@@ -80945,6 +81030,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34162964,
+     -29.44048243
+    ]
+   },
+   "properties": {
+    "name": "SITE 25, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843673"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.34138484,
      -29.44067917
     ]
@@ -80979,6 +81081,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.3416323,
+     -29.44071724
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843676"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.34131345,
      -29.43967505
     ]
@@ -80989,6 +81108,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718843677"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34288577,
+     -29.43980281
+    ]
+   },
+   "properties": {
+    "name": "UNIT 30, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843678"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34286572,
+     -29.4399194
+    ]
+   },
+   "properties": {
+    "name": "UNIT 31, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843679"
    }
   },
   {
@@ -81023,6 +81176,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718843681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34279468,
+     -29.44023635
+    ]
+   },
+   "properties": {
+    "name": "UNIT 34, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34278558,
+     -29.44034018
+    ]
+   },
+   "properties": {
+    "name": "UNIT 35, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843683"
    }
   },
   {
@@ -81166,6 +81353,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34247044,
+     -29.44134207
+    ]
+   },
+   "properties": {
+    "name": "UNIT 43, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34242307,
+     -29.44147141
+    ]
+   },
+   "properties": {
+    "name": "SITE 44, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843693"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34239211,
+     -29.44155884
+    ]
+   },
+   "properties": {
+    "name": "SITE 45, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.34239211,
      -29.44167907
     ]
@@ -81200,6 +81438,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34235021,
+     -29.44192317
+    ]
+   },
+   "properties": {
+    "name": "SITE 48, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.34232106,
      -29.44205797
     ]
@@ -81227,6 +81482,91 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718843699"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34299082,
+     -29.43949419
+    ]
+   },
+   "properties": {
+    "name": "UNIT 500, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843700"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34307382,
+     -29.43950242
+    ]
+   },
+   "properties": {
+    "name": "UNIT 501, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34315534,
+     -29.43951439
+    ]
+   },
+   "properties": {
+    "name": "UNIT 502, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843702"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34323983,
+     -29.43952635
+    ]
+   },
+   "properties": {
+    "name": "UNIT 503, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.3433221,
+     -29.43953532
+    ]
+   },
+   "properties": {
+    "name": "UNIT 504, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843704"
    }
   },
   {
@@ -81295,6 +81635,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718843708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34131107,
+     -29.44127642
+    ]
+   },
+   "properties": {
+    "name": "UNIT 55, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718843709"
    }
   },
   {
@@ -83767,6 +84124,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 29, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719280648"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "SITE 51, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719288410"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.3615578,
      -29.44392507
     ]
@@ -84634,6 +85025,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 18A, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719587655"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.36257731,
      -29.43535251
     ]
@@ -85438,11 +85846,62 @@
     ]
    },
    "properties": {
+    "name": "UNIT 87, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719665020"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
     "name": "UNIT 102, 36 GOLDING STREET YAMBA 2464",
     "locID": "LOC000186360777",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719665506"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 109, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719714079"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 38A, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719714732"
    }
   },
   {
@@ -85528,6 +85987,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719812694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 111, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719833526"
    }
   },
   {
@@ -85778,6 +86254,23 @@
     ]
    },
    "properties": {
+    "name": "UNIT 64, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720093707"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
     "name": "UNIT 84, 36 GOLDING STREET YAMBA 2464",
     "locID": "LOC000186360593",
     "tech": "FTTN",
@@ -85846,6 +86339,23 @@
     ]
    },
    "properties": {
+    "name": "UNIT 62, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720096905"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
     "name": "UNIT 115, 36 GOLDING STREET YAMBA 2464",
     "locID": "LOC000186360913",
     "tech": "FTTN",
@@ -85885,6 +86395,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720097550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 114, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720097747"
    }
   },
   {
@@ -86208,6 +86735,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720333681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 82, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720334795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 97, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720335187"
    }
   },
   {
@@ -86980,6 +87541,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 61, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720394801"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.35984628,
      -29.43640049
     ]
@@ -87483,6 +88061,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720545996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 59, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720547682"
    }
   },
   {
@@ -88646,6 +89241,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 67, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720845145"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.31795146,
      -29.42766247
     ]
@@ -89115,6 +89727,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720937533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 122, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720938254"
    }
   },
   {
@@ -90300,6 +90929,74 @@
     ]
    },
    "properties": {
+    "name": "UNIT 88, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721005050"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 135, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721005171"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 138, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721005576"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 65, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721005789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
     "name": "UNIT 139, 36 GOLDING STREET YAMBA 2464",
     "locID": "LOC000188520816",
     "tech": "FTTP",
@@ -90322,6 +91019,74 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721005961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 151, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721006188"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 136, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721006735"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 137, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721006736"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 130, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721007103"
    }
   },
   {
@@ -90589,11 +91354,96 @@
     ]
    },
    "properties": {
+    "name": "UNIT 127, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721054848"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 144, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721054933"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 131, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721055259"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 142, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721055584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
     "name": "UNIT 146, 36 GOLDING STREET YAMBA 2464",
     "locID": "LOC000188520669",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721055799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 143, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721055894"
    }
   },
   {
@@ -90737,6 +91587,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 128, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721132904"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.34316698,
      -29.44166206
     ]
@@ -90832,6 +91699,40 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721177057"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 155, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721183501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.34165889,
+     -29.43930589
+    ]
+   },
+   "properties": {
+    "name": "UNIT 145, 36 GOLDING STREET YAMBA 2464",
+    "locID": "LOC000186086625",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721184729"
    }
   },
   {

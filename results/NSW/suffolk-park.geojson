@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T21:05:20.879894",
+ "generated": "2023-08-15T22:40:27.237349",
  "suburb": "SUFFOLK PARK",
  "features": [
   {
@@ -1121,7 +1121,7 @@
     "name": "UNIT 1, 1 HAZELWOOD CLOSE SUFFOLK PARK 2481",
     "locID": "LOC000051366349",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705972238"
    }
   },
@@ -1138,7 +1138,7 @@
     "name": "UNIT 2, 1 HAZELWOOD CLOSE SUFFOLK PARK 2481",
     "locID": "LOC000051366349",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705972239"
    }
   },
@@ -1155,7 +1155,7 @@
     "name": "1 HAZELWOOD CLOSE SUFFOLK PARK 2481",
     "locID": "LOC000051366349",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705972240"
    }
   },
@@ -1291,7 +1291,7 @@
     "name": "7 HOOP PINE LANE SUFFOLK PARK 2481",
     "locID": "LOC000056056536",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705972280"
    }
   },
@@ -3415,8 +3415,8 @@
    "properties": {
     "name": "18 RED BEAN CLOSE SUFFOLK PARK 2481",
     "locID": "LOC000021226056",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705975860"
    }
   },
@@ -7512,8 +7512,8 @@
    "properties": {
     "name": "2 KORAU PLACE SUFFOLK PARK 2481",
     "locID": "LOC000051546607",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705992854"
    }
   },
@@ -8532,8 +8532,8 @@
    "properties": {
     "name": "12 BRANDON STREET SUFFOLK PARK 2481",
     "locID": "LOC000045360631",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705999766"
    }
   },
@@ -8975,7 +8975,7 @@
     "name": "63 BRANDON STREET SUFFOLK PARK 2481",
     "locID": "LOC000100115746",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705999994"
    }
   },
@@ -10147,8 +10147,8 @@
    "properties": {
     "name": "9 MARATTIA PLACE SUFFOLK PARK 2481",
     "locID": "LOC000078095993",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706006355"
    }
   },
@@ -11950,7 +11950,7 @@
     "name": "1 ALCORN STREET SUFFOLK PARK 2481",
     "locID": "LOC000027345158",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706013090"
    }
   },
@@ -12156,6 +12156,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706013102"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.61349373,
+     -28.68662472
+    ]
+   },
+   "properties": {
+    "name": "114 ALCORN STREET SUFFOLK PARK 2481",
+    "locID": "LOC000193378821",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706013104"
    }
   },
   {
@@ -16362,6 +16379,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.61349373,
+     -28.68662472
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 114 ALCORN STREET SUFFOLK PARK 2481",
+    "locID": "LOC000193378821",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708395375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.61292304,
      -28.69112447
     ]
@@ -16981,8 +17015,8 @@
    "properties": {
     "name": "UNIT 2, 1 AZOLLA PLACE SUFFOLK PARK 2481",
     "locID": "LOC000021374345",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW708401462"
    }
   },
@@ -18987,8 +19021,8 @@
    "properties": {
     "name": "45 BOTTLEBRUSH CRESCENT SUFFOLK PARK 2481",
     "locID": "LOC000084223426",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW710225087"
    }
   },
@@ -23655,6 +23689,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.60784223,
+     -28.68796322
+    ]
+   },
+   "properties": {
+    "name": "114 BROKEN HEAD ROAD SUFFOLK PARK 2481",
+    "locID": "ChIJU-69UupikGsRy8GxTf9gjGI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW712318235"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.60982339,
      -28.69004849
     ]
@@ -24206,8 +24257,8 @@
    "properties": {
     "name": "UNIT 1, 45 BOTTLEBRUSH CRESCENT SUFFOLK PARK 2481",
     "locID": "LOC000084223426",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712318889"
    }
   },
@@ -24532,6 +24583,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW712322896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.61349373,
+     -28.68662472
+    ]
+   },
+   "properties": {
+    "name": "114A ALCORN STREET SUFFOLK PARK 2481",
+    "locID": "ChIJL73t0-hikGsRP3_pbpUsFTA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW712322900"
    }
   },
   {
@@ -25872,8 +25940,8 @@
    "properties": {
     "name": "UNIT 1, 13 AZOLLA PLACE SUFFOLK PARK 2481",
     "locID": "LOC000021374345",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712338769"
    }
   },
@@ -26416,8 +26484,8 @@
    "properties": {
     "name": "UNIT 3, 45 BOTTLEBRUSH CRESCENT SUFFOLK PARK 2481",
     "locID": "LOC000084223426",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712339039"
    }
   },
@@ -26433,8 +26501,8 @@
    "properties": {
     "name": "UNIT 4, 45 BOTTLEBRUSH CRESCENT SUFFOLK PARK 2481",
     "locID": "LOC000084223426",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712339040"
    }
   },
@@ -26960,8 +27028,8 @@
    "properties": {
     "name": "1 AZOLLA PLACE SUFFOLK PARK 2481",
     "locID": "LOC000021374345",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712343270"
    }
   },
@@ -35630,8 +35698,8 @@
    "properties": {
     "name": "167 BROKEN HEAD ROAD SUFFOLK PARK 2481",
     "locID": "LOC000189715712",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719079525"
    }
   },
@@ -36191,8 +36259,8 @@
    "properties": {
     "name": "UNIT 2, 40 CORKWOOD CRESCENT SUFFOLK PARK 2481",
     "locID": "LOC000184505145",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719875520"
    }
   },
@@ -36310,8 +36378,8 @@
    "properties": {
     "name": "UNIT 1, 40 CORKWOOD CRESCENT SUFFOLK PARK 2481",
     "locID": "LOC000184505145",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719878945"
    }
   },
@@ -37092,8 +37160,8 @@
    "properties": {
     "name": "UNIT 1, 1 AZOLLA PLACE SUFFOLK PARK 2481",
     "locID": "LOC000021374345",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW721131393"
    }
   },
@@ -37146,6 +37214,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721188251"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.61349373,
+     -28.68662472
+    ]
+   },
+   "properties": {
+    "name": "114B ALCORN STREET SUFFOLK PARK 2481",
+    "locID": "LOC000193378821",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721270672"
    }
   }
  ]
