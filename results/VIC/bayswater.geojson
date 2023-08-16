@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T16:51:41.294614",
+ "generated": "2023-08-16T18:06:09.983992",
  "suburb": "BAYSWATER",
  "features": [
   {
@@ -19447,7 +19447,7 @@
     "name": "UNIT 2, 1 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000175219049",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413629585"
    }
   },
@@ -39932,7 +39932,7 @@
     "name": "31 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000102064527",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419568430"
    }
   },
@@ -47922,7 +47922,7 @@
     "name": "27 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000083743396",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419868748"
    }
   },
@@ -47939,7 +47939,7 @@
     "name": "39 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000004490156",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419868750"
    }
   },
@@ -52053,7 +52053,7 @@
     "name": "37 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000051716902",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420005800"
    }
   },
@@ -52070,7 +52070,7 @@
     "name": "41 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000022989305",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420005801"
    }
   },
@@ -56626,7 +56626,7 @@
     "name": "51 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000056832429",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420172060"
    }
   },
@@ -67591,7 +67591,7 @@
     "name": "29 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000083743396",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420579810"
    }
   },
@@ -71535,7 +71535,7 @@
     "name": "43 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000022065901",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420767726"
    }
   },
@@ -75768,7 +75768,7 @@
     "name": "25 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000088386908",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420884178"
    }
   },
@@ -75785,7 +75785,7 @@
     "name": "45 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000042362509",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420884180"
    }
   },
@@ -76907,7 +76907,7 @@
     "name": "47 MALVERN STREET BAYSWATER 3153",
     "locID": "LOC000056991991",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421053720"
    }
   },
@@ -89785,23 +89785,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.264679,
-     -37.854898
-    ]
-   },
-   "properties": {
-    "name": "42 ELIZABETH STREET BAYSWATER 3153",
-    "locID": "LOC000066789005",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421402752"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.26481,
      -37.854143
     ]
@@ -93603,6 +93586,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421663876"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.258604,
+     -37.838217
+    ]
+   },
+   "properties": {
+    "name": "7 LAWRENCE COURT BAYSWATER 3153",
+    "locID": "LOC000193308544",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421663877"
    }
   },
   {
@@ -118199,8 +118199,8 @@
    "properties": {
     "name": "UNIT 4, 1 COORIE AVENUE BAYSWATER 3153",
     "locID": "LOC000105999844",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423823950"
    }
   },
