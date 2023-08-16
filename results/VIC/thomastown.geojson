@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T18:48:04.946514",
+ "generated": "2023-08-16T19:57:13.908971",
  "suburb": "THOMASTOWN",
  "features": [
   {
@@ -10283,8 +10283,8 @@
    "properties": {
     "name": "99 VICTORIA DRIVE THOMASTOWN 3074",
     "locID": "LOC000017007421",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC419623520"
    }
   },
@@ -12272,8 +12272,8 @@
    "properties": {
     "name": "10 BLAIR COURT THOMASTOWN 3074",
     "locID": "LOC000071574194",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419625249"
    }
   },
@@ -28219,7 +28219,7 @@
     "name": "54 WARATAH STREET THOMASTOWN 3074",
     "locID": "LOC000038022682",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419921812"
    }
   },
@@ -34984,8 +34984,8 @@
    "properties": {
     "name": "6 MILFORD STREET THOMASTOWN 3074",
     "locID": "LOC000071499220",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419930985"
    }
   },
@@ -102389,8 +102389,8 @@
    "properties": {
     "name": "268 WOLSELEY PLACE THOMASTOWN 3074",
     "locID": "LOC000063465363",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421089292"
    }
   },
@@ -111178,8 +111178,8 @@
    "properties": {
     "name": "66 WARATAH STREET THOMASTOWN 3074",
     "locID": "LOC000079852615",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421144539"
    }
   },
@@ -112029,7 +112029,7 @@
     "name": "50 BARRY ROAD THOMASTOWN 3074",
     "locID": "LOC000016130169",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421146160"
    }
   },
@@ -115649,8 +115649,8 @@
    "properties": {
     "name": "16 ALVARADO AVENUE THOMASTOWN 3074",
     "locID": "LOC000050829010",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421159914"
    }
   },
@@ -118319,7 +118319,7 @@
     "name": "24 STRONG AVENUE THOMASTOWN 3074",
     "locID": "LOC000020508742",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421212161"
    }
   },
@@ -123164,7 +123164,7 @@
     "name": "51 ALVARADO AVENUE THOMASTOWN 3074",
     "locID": "LOC000105985216",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421435134"
    }
   },
@@ -135403,8 +135403,8 @@
    "properties": {
     "name": "228 MAHONEYS ROAD THOMASTOWN 3074",
     "locID": "LOC000034312832",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421474994"
    }
   },
@@ -146786,6 +146786,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.027991,
+     -37.678032
+    ]
+   },
+   "properties": {
+    "name": "8 WATTLE STREET THOMASTOWN 3074",
+    "locID": "LOC000193305119",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421735838"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.028499,
      -37.678095
     ]
@@ -154392,8 +154409,8 @@
    "properties": {
     "name": "12 RICHARDSON STREET THOMASTOWN 3074",
     "locID": "LOC000050722514",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421761468"
    }
   },
@@ -159917,8 +159934,8 @@
    "properties": {
     "name": "5 CREEK VIEW THOMASTOWN 3074",
     "locID": "LOC000004701760",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421945024"
    }
   },
@@ -203056,6 +203073,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.02794218,
+     -37.67802494
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 8 WATTLE STREET THOMASTOWN 3074",
+    "locID": "LOC000193305040",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721096233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.0204857,
      -37.67951141
     ]
@@ -203253,6 +203287,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721101671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.02802833,
+     -37.67770389
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 8 WATTLE STREET THOMASTOWN 3074",
+    "locID": "LOC000193305119",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721102087"
    }
   },
   {
@@ -203474,6 +203525,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721104046"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.02796739,
+     -37.67784458
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 8 WATTLE STREET THOMASTOWN 3074",
+    "locID": "LOC000193305103",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721104754"
    }
   },
   {
@@ -204117,8 +204185,8 @@
    "properties": {
     "name": "10 NOTTINGHAM CRESCENT THOMASTOWN 3074",
     "locID": "LOC000015617191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC721215134"
    }
   },
