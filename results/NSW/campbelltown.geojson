@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T05:55:38.752145",
+ "generated": "2023-08-16T07:26:45.290355",
  "suburb": "CAMPBELLTOWN",
  "features": [
   {
@@ -321,8 +321,8 @@
    "properties": {
     "name": "12 BARWON PLACE CAMPBELLTOWN 2560",
     "locID": "LOC000053400062",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704274724"
    }
   },
@@ -2939,8 +2939,8 @@
    "properties": {
     "name": "16 CARCOOLA STREET CAMPBELLTOWN 2560",
     "locID": "LOC000008129816",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704284731"
    }
   },
@@ -17559,8 +17559,8 @@
    "properties": {
     "name": "2 MEGALONG CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000065079521",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704293272"
    }
   },
@@ -23374,7 +23374,7 @@
     "name": "34 LODDON CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000064671884",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704295677"
    }
   },
@@ -32604,8 +32604,8 @@
    "properties": {
     "name": "19 VALLEY ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000074715242",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704300813"
    }
   },
@@ -36922,8 +36922,8 @@
    "properties": {
     "name": "112 WAMINDA AVENUE CAMPBELLTOWN 2560",
     "locID": "LOC000028813967",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704303457"
    }
   },
@@ -40985,8 +40985,8 @@
    "properties": {
     "name": "110 WAMINDA AVENUE CAMPBELLTOWN 2560",
     "locID": "LOC000049423223",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704306076"
    }
   },
@@ -41308,8 +41308,8 @@
    "properties": {
     "name": "136 WAMINDA AVENUE CAMPBELLTOWN 2560",
     "locID": "LOC000015455269",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704306095"
    }
   },
@@ -47394,8 +47394,8 @@
    "properties": {
     "name": "47 MEGALONG CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000093185293",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704309979"
    }
   },
@@ -83503,7 +83503,7 @@
     "name": "7 FAIRCHILD ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000020412331",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716753027"
    }
   },
@@ -83638,8 +83638,8 @@
    "properties": {
     "name": "20 HIDCOTE ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000045205953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716754780"
    }
   },
@@ -93618,7 +93618,7 @@
     "name": "28 HIDCOTE ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000009624241",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717374935"
    }
   },
@@ -93668,8 +93668,8 @@
    "properties": {
     "name": "34 HIDCOTE ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000013324520",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717374938"
    }
   },
@@ -96303,8 +96303,8 @@
    "properties": {
     "name": "10 RIZAL STREET CAMPBELLTOWN 2560",
     "locID": "LOC000040001027",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717382880"
    }
   },
@@ -106793,7 +106793,7 @@
     "name": "25 SANTANA ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000018126494",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717928997"
    }
   },
@@ -145664,23 +145664,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 105, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152468724",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719151821"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.80498993,
      -34.07557185
     ]
@@ -146004,23 +145987,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 204, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152464245",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719154141"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.80081529,
      -34.0753568
     ]
@@ -146140,6 +146106,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 103, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152468268",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719156467"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.80081529,
      -34.0753568
     ]
@@ -146201,23 +146184,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719156471"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 106, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152464245",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719158699"
    }
   },
   {
@@ -146354,6 +146320,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719158707"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 102, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152468281",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719158710"
    }
   },
   {
@@ -146701,23 +146684,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 107, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152468879",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719163372"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.79287779,
      -34.074612
     ]
@@ -146854,23 +146820,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 302, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152464245",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719163383"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.79287779,
      -34.074612
     ]
@@ -146949,6 +146898,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719165665"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 304, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152464245",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719165666"
    }
   },
   {
@@ -147143,6 +147109,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 301, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152464245",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719167925"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.79287779,
      -34.074612
     ]
@@ -147170,6 +147153,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719167927"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 303, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152468851",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719167928"
    }
   },
   {
@@ -183989,7 +183989,7 @@
    "properties": {
     "name": "34 FIELDHOUSE CIRCUIT CAMPBELLTOWN 2560",
     "locID": "LOC000185327740",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720710324"
    }
@@ -185245,11 +185245,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 304, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "name": "UNIT 204, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000152464245",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720794536"
+    "gnaf_pid": "GANSW720794423"
    }
   },
   {
@@ -185262,45 +185262,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 102, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152468281",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720794799"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 303, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152468851",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720795805"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 301, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "name": "UNIT 106, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000152464245",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720796049"
+    "gnaf_pid": "GANSW720794814"
    }
   },
   {
@@ -185318,23 +185284,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720796124"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.80204566,
-     -34.07555521
-    ]
-   },
-   "properties": {
-    "name": "UNIT 103, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
-    "locID": "LOC000152468268",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720796125"
    }
   },
   {
@@ -185369,6 +185318,57 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720796624"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 105, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152468724",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720796625"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 107, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152468879",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720796988"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.80204566,
+     -34.07555521
+    ]
+   },
+   "properties": {
+    "name": "UNIT 302, 26 PARKSIDE CRESCENT CAMPBELLTOWN 2560",
+    "locID": "LOC000152464245",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720797039"
    }
   },
   {

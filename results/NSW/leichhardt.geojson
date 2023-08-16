@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T05:39:53.611972",
+ "generated": "2023-08-16T07:16:46.001331",
  "suburb": "LEICHHARDT",
  "features": [
   {
@@ -12630,7 +12630,7 @@
     "name": "54 ANNESLEY STREET LEICHHARDT 2040",
     "locID": "LOC000047941114",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705188217"
    }
   },
@@ -24937,8 +24937,8 @@
    "properties": {
     "name": "72 ANNESLEY STREET LEICHHARDT 2040",
     "locID": "LOC000034746063",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705190832"
    }
   },
@@ -71901,6 +71901,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.15517401,
+     -33.88413742
+    ]
+   },
+   "properties": {
+    "name": "24 MARION STREET LEICHHARDT 2040",
+    "locID": "LOC000100012998",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705198349"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.14552148,
      -33.88347798
     ]
@@ -117707,7 +117724,7 @@
     "name": "UNIT 2, 23 COLERIDGE STREET LEICHHARDT 2040",
     "locID": "LOC000080635853",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW710532216"
    }
   },
