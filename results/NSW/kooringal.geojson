@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T08:20:02.453914",
+ "generated": "2023-08-16T09:42:10.486966",
  "suburb": "KOORINGAL",
  "features": [
   {
@@ -11218,8 +11218,8 @@
    "properties": {
     "name": "45 CUTLER AVENUE KOORINGAL 2650",
     "locID": "LOC000087934746",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705126780"
    }
   },
@@ -12578,8 +12578,8 @@
    "properties": {
     "name": "45 KENNEDY AVENUE KOORINGAL 2650",
     "locID": "LOC000076633634",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705128620"
    }
   },
@@ -29443,7 +29443,7 @@
     "name": "4 ENDEAVOUR STREET KOORINGAL 2650",
     "locID": "LOC000080905338",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705139851"
    }
   },
@@ -41838,6 +41838,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706444086"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.37492777,
+     -35.14311043
+    ]
+   },
+   "properties": {
+    "name": "309 LAKE ALBERT ROAD KOORINGAL 2650",
+    "locID": "LOC000193472365",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706444136"
    }
   },
   {
@@ -57323,7 +57340,7 @@
     "name": "70 TICHBORNE CRESCENT KOORINGAL 2650",
     "locID": "LOC000020656649",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717787578"
    }
   },
@@ -59396,8 +59413,8 @@
    "properties": {
     "name": "16 ZIEGLER AVENUE KOORINGAL 2650",
     "locID": "LOC000015781379",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717790562"
    }
   },
