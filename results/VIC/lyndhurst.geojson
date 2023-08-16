@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T13:55:35.556935",
+ "generated": "2023-08-16T15:18:22.733765",
  "suburb": "LYNDHURST",
  "features": [
   {
@@ -1222,8 +1222,8 @@
    "properties": {
     "name": "17 MORETON BAY BOULEVARD LYNDHURST 3975",
     "locID": "LOC000050483984",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420368400"
    }
   },
@@ -2786,8 +2786,8 @@
    "properties": {
     "name": "5 CARABEEN WAY LYNDHURST 3975",
     "locID": "LOC000103249470",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421283463"
    }
   },
@@ -4197,8 +4197,8 @@
    "properties": {
     "name": "3 CASTAWELLAN STREET LYNDHURST 3975",
     "locID": "LOC000008603718",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423135624"
    }
   },
@@ -14483,7 +14483,7 @@
     "name": "29 LOCKY GROVE LYNDHURST 3975",
     "locID": "LOC000058104585",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424030182"
    }
   },
@@ -14839,8 +14839,8 @@
    "properties": {
     "name": "27 LYNDHURST BOULEVARD LYNDHURST 3975",
     "locID": "LOC000063630435",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424030325"
    }
   },
@@ -15485,8 +15485,8 @@
    "properties": {
     "name": "7 PATRICK CLOSE LYNDHURST 3975",
     "locID": "LOC000102778409",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424033422"
    }
   },
@@ -16386,8 +16386,8 @@
    "properties": {
     "name": "18 WESTBURY WAY LYNDHURST 3975",
     "locID": "LOC000003573040",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424037797"
    }
   },
@@ -18579,8 +18579,8 @@
    "properties": {
     "name": "65 LYNDHURST BOULEVARD LYNDHURST 3975",
     "locID": "LOC000108012875",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424084667"
    }
   },
@@ -20262,8 +20262,8 @@
    "properties": {
     "name": "46 BROOKWATER PARADE LYNDHURST 3975",
     "locID": "LOC000082987286",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424235178"
    }
   },
@@ -20738,8 +20738,8 @@
    "properties": {
     "name": "1 GRAEGWEN PLACE LYNDHURST 3975",
     "locID": "LOC000004857355",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424239102"
    }
   },
@@ -22863,8 +22863,8 @@
    "properties": {
     "name": "17 MERMAID GROVE LYNDHURST 3975",
     "locID": "LOC000017743987",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424242864"
    }
   },
@@ -24972,7 +24972,7 @@
     "name": "79 TOBIN WAY LYNDHURST 3975",
     "locID": "LOC000013889422",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424247748"
    }
   },
@@ -26451,7 +26451,7 @@
     "name": "7 BANFIELD PLACE LYNDHURST 3975",
     "locID": "LOC000034508424",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424260070"
    }
   },
@@ -34593,8 +34593,8 @@
    "properties": {
     "name": "17 LYNDHURST BOULEVARD LYNDHURST 3975",
     "locID": "LOC000050483984",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425022005"
    }
   },
@@ -46207,6 +46207,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719437869"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.25453554,
+     -38.0707971
+    ]
+   },
+   "properties": {
+    "name": "21 STORM AVENUE LYNDHURST 3975",
+    "locID": "ChIJY33oQ9sR1moRNi3fWFyW-x0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719437873"
    }
   },
   {

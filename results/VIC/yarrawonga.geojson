@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T14:17:20.296941",
+ "generated": "2023-08-16T15:32:03.460312",
  "suburb": "YARRAWONGA",
  "features": [
   {
@@ -12459,8 +12459,8 @@
    "properties": {
     "name": "86 STEVENSON COURT YARRAWONGA 3730",
     "locID": "LOC000001840669",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419769686"
    }
   },
@@ -27861,7 +27861,7 @@
    "properties": {
     "name": "16 DUFFIELD STREET YARRAWONGA 3730",
     "locID": "LOC000192653768",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420870601"
    }
@@ -29986,8 +29986,8 @@
    "properties": {
     "name": "61 ROSEMARY COURT YARRAWONGA 3730",
     "locID": "LOC000040543884",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420973725"
    }
   },
@@ -38064,6 +38064,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421566244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.00094315,
+     -36.01018958
+    ]
+   },
+   "properties": {
+    "name": "7 IRVINE PARADE YARRAWONGA 3730",
+    "locID": "LOC000115773604",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC421566250"
    }
   },
   {
@@ -47853,8 +47870,8 @@
    "properties": {
     "name": "2 MITCHEL DRIVE YARRAWONGA 3730",
     "locID": "LOC000105905469",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422172043"
    }
   },
@@ -49196,8 +49213,8 @@
    "properties": {
     "name": "13 CAMPBELLFIELD DRIVE YARRAWONGA 3730",
     "locID": "LOC000005158889",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422281642"
    }
   },
@@ -60195,8 +60212,8 @@
    "properties": {
     "name": "26 LEAH DRIVE YARRAWONGA 3730",
     "locID": "LOC000057182847",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423638019"
    }
   },
@@ -63561,8 +63578,8 @@
    "properties": {
     "name": "14 JANE ROAD YARRAWONGA 3730",
     "locID": "LOC000074303358",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC423793766"
    }
   },
@@ -70549,7 +70566,7 @@
     "name": "4 LAKEVIEWS CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000046431511",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424084191"
    }
   },
@@ -71041,8 +71058,8 @@
    "properties": {
     "name": "15 COCO CRESCENT YARRAWONGA 3730",
     "locID": "LOC000125012271",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424236290"
    }
   },
@@ -76261,7 +76278,7 @@
     "name": "9 MELROSE CRESCENT YARRAWONGA 3730",
     "locID": "LOC000125021645",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424499222"
    }
   },
@@ -76566,8 +76583,8 @@
    "properties": {
     "name": "2 ROBINSON WAY YARRAWONGA 3730",
     "locID": "LOC000125033953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424503204"
    }
   },
@@ -103783,7 +103800,7 @@
    "properties": {
     "name": "5 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678898",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721019666"
    }
@@ -103800,7 +103817,7 @@
    "properties": {
     "name": "12 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678805",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721019711"
    }
@@ -103817,7 +103834,7 @@
    "properties": {
     "name": "66 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678707",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721020675"
    }
@@ -103834,7 +103851,7 @@
    "properties": {
     "name": "9 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678879",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721021018"
    }
@@ -103851,7 +103868,7 @@
    "properties": {
     "name": "24 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678867",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721022469"
    }
@@ -103868,7 +103885,7 @@
    "properties": {
     "name": "62 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678730",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721022804"
    }
@@ -103885,7 +103902,7 @@
    "properties": {
     "name": "6 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678776",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721022913"
    }
@@ -103902,7 +103919,7 @@
    "properties": {
     "name": "60 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678724",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721023250"
    }
@@ -103936,7 +103953,7 @@
    "properties": {
     "name": "32 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678592",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721026145"
    }
@@ -103953,7 +103970,7 @@
    "properties": {
     "name": "14 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678814",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721028929"
    }
@@ -103970,7 +103987,7 @@
    "properties": {
     "name": "40 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678635",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721029125"
    }
@@ -103987,7 +104004,7 @@
    "properties": {
     "name": "64 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678748",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721029230"
    }
@@ -104004,7 +104021,7 @@
    "properties": {
     "name": "26 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678563",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721030132"
    }
@@ -104021,7 +104038,7 @@
    "properties": {
     "name": "16 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678822",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721030369"
    }
@@ -104055,7 +104072,7 @@
    "properties": {
     "name": "34 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678603",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721031384"
    }
@@ -104072,7 +104089,7 @@
    "properties": {
     "name": "7 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678880",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721031556"
    }
@@ -104089,7 +104106,7 @@
    "properties": {
     "name": "58 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "ChIJKagNh3zNIGsRVoa1PpHObFk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721031622"
    }
@@ -104106,7 +104123,7 @@
    "properties": {
     "name": "8 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678782",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721031812"
    }
@@ -104123,7 +104140,7 @@
    "properties": {
     "name": "48 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678674",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721031850"
    }
@@ -104157,7 +104174,7 @@
    "properties": {
     "name": "10 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678795",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721033570"
    }
@@ -104174,7 +104191,7 @@
    "properties": {
     "name": "36 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678619",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721033893"
    }
@@ -104191,7 +104208,7 @@
    "properties": {
     "name": "22 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678851",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721034274"
    }
@@ -104208,7 +104225,7 @@
    "properties": {
     "name": "54 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "ChIJc0fyfHvNIGsRPxvHeufYGfA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721034536"
    }
@@ -104225,7 +104242,7 @@
    "properties": {
     "name": "28 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678571",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721035298"
    }
@@ -104242,7 +104259,7 @@
    "properties": {
     "name": "38 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678626",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721036641"
    }
@@ -104259,7 +104276,7 @@
    "properties": {
     "name": "20 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678846",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721037899"
    }
@@ -104276,7 +104293,7 @@
    "properties": {
     "name": "44 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678657",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721038223"
    }
@@ -104293,7 +104310,7 @@
    "properties": {
     "name": "50 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678688",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721038692"
    }
@@ -104310,7 +104327,7 @@
    "properties": {
     "name": "30 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678585",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721038732"
    }
@@ -104327,7 +104344,7 @@
    "properties": {
     "name": "46 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678661",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721038812"
    }
@@ -104344,7 +104361,7 @@
    "properties": {
     "name": "24 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678559",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039030"
    }
@@ -104361,7 +104378,7 @@
    "properties": {
     "name": "3 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678908",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039159"
    }
@@ -104378,7 +104395,7 @@
    "properties": {
     "name": "52 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678690",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039183"
    }
@@ -104395,7 +104412,7 @@
    "properties": {
     "name": "18 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678833",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039765"
    }
@@ -104412,7 +104429,7 @@
    "properties": {
     "name": "56 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678711",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039887"
    }
@@ -104446,7 +104463,7 @@
    "properties": {
     "name": "4 BULOKE CIRCUIT YARRAWONGA 3730",
     "locID": "LOC000192678769",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721040043"
    }
@@ -104463,7 +104480,7 @@
    "properties": {
     "name": "42 GORMAN DRIVE YARRAWONGA 3730",
     "locID": "LOC000192678642",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721040436"
    }
@@ -105466,7 +105483,7 @@
    "properties": {
     "name": "4 DIANELLA PLACE YARRAWONGA 3730",
     "locID": "LOC000192653809",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721152620"
    }
@@ -105976,7 +105993,7 @@
    "properties": {
     "name": "6 DIANELLA PLACE YARRAWONGA 3730",
     "locID": "LOC000192653799",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721155775"
    }
@@ -106248,7 +106265,7 @@
    "properties": {
     "name": "5 DIANELLA PLACE YARRAWONGA 3730",
     "locID": "LOC000192653781",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721156985"
    }
@@ -108016,7 +108033,7 @@
    "properties": {
     "name": "18 DUFFIELD STREET YARRAWONGA 3730",
     "locID": "LOC000192653813",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721166722"
    }
@@ -108288,7 +108305,7 @@
    "properties": {
     "name": "3 DIANELLA PLACE YARRAWONGA 3730",
     "locID": "LOC000192653775",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721167711"
    }
@@ -108495,6 +108512,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721168639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.03140338,
+     -36.0044349
+    ]
+   },
+   "properties": {
+    "name": "27 BOTTS ROAD YARRAWONGA 3730",
+    "locID": "ChIJd6ci7XPSIGsRdpbWYAdlmew",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721168709"
    }
   },
   {
@@ -109012,6 +109046,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.0038373,
+     -36.00828614
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 2 IRVINE PARADE YARRAWONGA 3730",
+    "locID": "LOC000014343560",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721214494"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.01769122,
      -36.02086234
     ]
@@ -109022,6 +109073,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721214547"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.00406115,
+     -36.0081756
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 2 IRVINE PARADE YARRAWONGA 3730",
+    "locID": "LOC000189391817",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721214574"
    }
   },
   {
@@ -109736,6 +109804,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721226434"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.00396862,
+     -36.00822129
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 2 IRVINE PARADE YARRAWONGA 3730",
+    "locID": "LOC000189391817",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721226578"
    }
   },
   {
