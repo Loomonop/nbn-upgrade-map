@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T01:08:47.546431",
+ "generated": "2023-08-16T02:27:20.124826",
  "suburb": "CASTLEMAINE",
  "features": [
   {
@@ -66706,7 +66706,7 @@
    "properties": {
     "name": "59 DUKE STREET CASTLEMAINE 3450",
     "locID": "LOC000192449433",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424490041"
    }
@@ -75614,7 +75614,7 @@
    "properties": {
     "name": "UNIT 1, 10 YEATS STREET CASTLEMAINE 3450",
     "locID": "ChIJyYqlHuIw12oRFkQrxTcyz-0",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425626298"
    }
@@ -75631,7 +75631,7 @@
    "properties": {
     "name": "UNIT 2, 10 YEATS STREET CASTLEMAINE 3450",
     "locID": "ChIJyYqlHuIw12oRFkQrxTcyz-0",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425626299"
    }
@@ -75665,7 +75665,7 @@
    "properties": {
     "name": "10 YEATS STREET CASTLEMAINE 3450",
     "locID": "ChIJyYqlHuIw12oRFkQrxTcyz-0",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425637928"
    }
@@ -84389,6 +84389,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721225404"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.20672088,
+     -37.04231489
+    ]
+   },
+   "properties": {
+    "name": "116 RICHARDS ROAD CASTLEMAINE 3450",
+    "locID": "ChIJXT9pj9E212oRTUPOcLFJNL4",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721226597"
    }
   }
  ]

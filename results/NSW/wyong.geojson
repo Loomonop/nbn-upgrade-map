@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T00:08:09.942764",
+ "generated": "2023-08-16T01:26:08.086174",
  "suburb": "WYONG",
  "features": [
   {
@@ -1903,7 +1903,7 @@
     "name": "191 POLLOCK AVENUE WYONG 2259",
     "locID": "LOC000065531916",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706351952"
    }
   },
@@ -2990,8 +2990,8 @@
    "properties": {
     "name": "9 JENNINGS ROAD WYONG 2259",
     "locID": "LOC000048247564",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706355786"
    }
   },
@@ -5252,7 +5252,7 @@
     "name": "76 ALISON ROAD WYONG 2259",
     "locID": "LOC000007938145",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706362134"
    }
   },
@@ -6408,7 +6408,7 @@
     "name": "17 RIVERVIEW DRIVE WYONG 2259",
     "locID": "LOC000090680042",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706363512"
    }
   },
@@ -6849,8 +6849,8 @@
    "properties": {
     "name": "13 GEORGE STREET WYONG 2259",
     "locID": "LOC000005533112",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706365631"
    }
   },
@@ -8549,8 +8549,8 @@
    "properties": {
     "name": "188 POLLOCK AVENUE WYONG 2259",
     "locID": "LOC000020485021",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706369759"
    }
   },
@@ -9994,8 +9994,8 @@
    "properties": {
     "name": "2 HARVEY STREET WYONG 2259",
     "locID": "LOC000106221188",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706375900"
    }
   },
@@ -12799,8 +12799,8 @@
    "properties": {
     "name": "24-26 HELY STREET WYONG 2259",
     "locID": "LOC000054046402",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706386184"
    }
   },
@@ -16029,8 +16029,8 @@
    "properties": {
     "name": "74 PANONIA ROAD WYONG 2259",
     "locID": "LOC000072320391",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706393255"
    }
   },
@@ -21727,6 +21727,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707684707"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.44258386,
+     -33.28047357
+    ]
+   },
+   "properties": {
+    "name": "179 POLLOCK AVENUE WYONG 2259",
+    "locID": "EioxNzkgUG9sbG9jayBBdmUsIFd5b25nIE5TVyAyMjU5LCBBdXN0cmFsaWEiMRIvChQKEgnZV1Xjw9FyaxEk41jczqeTdxCzASoUChIJQ5bmFejRcmsRoZGkV3XWd58",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW707685197"
    }
   },
   {
@@ -36932,6 +36949,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.44258386,
+     -33.28047357
+    ]
+   },
+   "properties": {
+    "name": "179A POLLOCK AVENUE WYONG 2259",
+    "locID": "EioxNzkgUG9sbG9jayBBdmUsIFd5b25nIE5TVyAyMjU5LCBBdXN0cmFsaWEiMRIvChQKEgnZV1Xjw9FyaxEk41jczqeTdxCzASoUChIJQ5bmFejRcmsRoZGkV3XWd58",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716900037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.43798736,
      -33.28790376
     ]
@@ -37382,7 +37416,7 @@
     "name": "17 CHAMPIONSHIP DRIVE WYONG 2259",
     "locID": "LOC000077159038",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717062901"
    }
   },
@@ -37755,8 +37789,8 @@
    "properties": {
     "name": "38 CHAMPIONSHIP DRIVE WYONG 2259",
     "locID": "LOC000005589436",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717062923"
    }
   },
@@ -38095,8 +38129,8 @@
    "properties": {
     "name": "18 EMERALD WATERS AVENUE WYONG 2259",
     "locID": "LOC000042130999",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717064332"
    }
   },
@@ -38877,8 +38911,8 @@
    "properties": {
     "name": "2 PARRY PARADE WYONG 2259",
     "locID": "LOC000038255273",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717069739"
    }
   },
@@ -38946,7 +38980,7 @@
     "name": "45 PARRY PARADE WYONG 2259",
     "locID": "LOC000107247847",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717069743"
    }
   },
@@ -46748,8 +46782,8 @@
    "properties": {
     "name": "25C LEPPINGTON STREET WYONG 2259",
     "locID": "LOC000068225918",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717599544"
    }
   },
@@ -48618,8 +48652,8 @@
    "properties": {
     "name": "71 MCDONAGH ROAD WYONG 2259",
     "locID": "LOC000052164482",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717795658"
    }
   },
@@ -51696,7 +51730,7 @@
     "name": "10 IRONS ROAD WYONG 2259",
     "locID": "LOC000190883975",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718459896"
    }
   },
@@ -53515,7 +53549,7 @@
     "name": "48 WINDSORGREEN DRIVE WYONG 2259",
     "locID": "LOC000185781793",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718856269"
    }
   },
