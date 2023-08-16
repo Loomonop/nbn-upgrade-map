@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T10:56:25.322485",
+ "generated": "2023-08-16T12:03:00.722396",
  "suburb": "LARA",
  "features": [
   {
@@ -6638,23 +6638,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.4020011,
-     -38.0110628
-    ]
-   },
-   "properties": {
-    "name": "20 OSTERLUND COURT LARA 3212",
-    "locID": "LOC000050280071",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC411736116"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.40042779,
      -38.02649783
     ]
@@ -13088,8 +13071,8 @@
    "properties": {
     "name": "8 CYPRESS COURT LARA 3212",
     "locID": "LOC000029332259",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC414043505"
    }
   },
@@ -15335,6 +15318,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419636776"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.41310683,
+     -38.01858911
+    ]
+   },
+   "properties": {
+    "name": "18 ALKARA AVENUE LARA 3212",
+    "locID": "LOC000193192444",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419636777"
    }
   },
   {
@@ -21453,7 +21453,7 @@
     "name": "11 FLORENCE STREET LARA 3212",
     "locID": "LOC000092000497",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419649535"
    }
   },
@@ -36259,8 +36259,8 @@
    "properties": {
     "name": "9 RELIANCE AVENUE LARA 3212",
     "locID": "LOC000051457377",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420263862"
    }
   },
@@ -36701,8 +36701,8 @@
    "properties": {
     "name": "55 COUNTRY GARDENS DRIVE LARA 3212",
     "locID": "LOC000005187630",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420360454"
    }
   },
@@ -39761,8 +39761,8 @@
    "properties": {
     "name": "3 DUNCAN DRIVE LARA 3212",
     "locID": "LOC000087952324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420551438"
    }
   },
@@ -45321,7 +45321,7 @@
     "name": "11 BETTY COURT LARA 3212",
     "locID": "LOC000067963958",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420795961"
    }
   },
@@ -47887,8 +47887,8 @@
    "properties": {
     "name": "4 PECK COURT LARA 3212",
     "locID": "LOC000080945330",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420848698"
    }
   },
@@ -50913,8 +50913,8 @@
    "properties": {
     "name": "83 FOREST ROAD SOUTH LARA 3212",
     "locID": "LOC000003602656",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420861750"
    }
   },
@@ -55860,8 +55860,8 @@
    "properties": {
     "name": "35 SMEATON CLOSE LARA 3212",
     "locID": "LOC000025146215",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421152818"
    }
   },
@@ -60195,8 +60195,8 @@
    "properties": {
     "name": "7 GREENLEAF DRIVE LARA 3212",
     "locID": "LOC000056543245",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421254443"
    }
   },
@@ -61045,8 +61045,8 @@
    "properties": {
     "name": "13 DUNCAN DRIVE LARA 3212",
     "locID": "LOC000012711247",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421428633"
    }
   },
@@ -62881,8 +62881,8 @@
    "properties": {
     "name": "62 MCCLELLAND AVENUE LARA 3212",
     "locID": "LOC000027065705",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421440177"
    }
   },
@@ -65839,8 +65839,8 @@
    "properties": {
     "name": "9 BOYDELL COURT LARA 3212",
     "locID": "LOC000018541738",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421460954"
    }
   },
@@ -67981,8 +67981,8 @@
    "properties": {
     "name": "5 REDLEAF CLOSE LARA 3212",
     "locID": "LOC000011043872",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421575838"
    }
   },
@@ -70514,8 +70514,8 @@
    "properties": {
     "name": "9 SWAN STREET LARA 3212",
     "locID": "LOC000092648740",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421740109"
    }
   },
@@ -77416,8 +77416,8 @@
    "properties": {
     "name": "14-15 HOFFMAN COURT LARA 3212",
     "locID": "LOC000124378231",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422156574"
    }
   },
@@ -78317,8 +78317,8 @@
    "properties": {
     "name": "1 SCUTI COURT LARA 3212",
     "locID": "LOC000170887414",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422321917"
    }
   },
@@ -78505,7 +78505,7 @@
     "name": "1 BARBARA DRIVE LARA 3212",
     "locID": "LOC000102163994",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422378506"
    }
   },
@@ -90660,7 +90660,7 @@
     "name": "18-20 MOORHEN DRIVE LARA 3212",
     "locID": "LOC000055067758",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424499706"
    }
   },
@@ -96881,8 +96881,8 @@
    "properties": {
     "name": "10 SPRINGWATER DRIVE LARA 3212",
     "locID": "LOC000114567581",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424722305"
    }
   },
@@ -96932,8 +96932,8 @@
    "properties": {
     "name": "10 BARNONG WAY LARA 3212",
     "locID": "LOC000086341771",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424742063"
    }
   },
@@ -99737,8 +99737,8 @@
    "properties": {
     "name": "66 OHALLORANS ROAD LARA 3212",
     "locID": "LOC000114936641",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424760469"
    }
   },
@@ -102084,7 +102084,7 @@
     "name": "48 OHALLORANS ROAD LARA 3212",
     "locID": "LOC000115743680",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424886148"
    }
   },
@@ -102729,8 +102729,8 @@
    "properties": {
     "name": "19 WEERANA WAY LARA 3212",
     "locID": "LOC000115737649",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424892618"
    }
   },
@@ -103443,8 +103443,8 @@
    "properties": {
     "name": "12 CRAKE COURT LARA 3212",
     "locID": "LOC000124366529",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424909394"
    }
   },
@@ -109733,8 +109733,8 @@
    "properties": {
     "name": "3 SPRINGWATER DRIVE LARA 3212",
     "locID": "LOC000114567581",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425320552"
    }
   },
@@ -143284,6 +143284,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.37486532,
+     -38.01350684
+    ]
+   },
+   "properties": {
+    "name": "46 HOMESTEAD DRIVE LARA 3212",
+    "locID": "ChIJ92elzzsZ1GoRcszrMTYRzW8",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720507268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.37932849,
      -38.00935878
     ]
@@ -146412,6 +146429,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.3748239,
+     -38.01395737
+    ]
+   },
+   "properties": {
+    "name": "49 HOMESTEAD DRIVE LARA 3212",
+    "locID": "ChIJ1cNqwzsZ1GoRalIs7n-ZUU8",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720521891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.35763403,
      -38.01648473
     ]
@@ -146932,6 +146966,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720525088"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.375004,
+     -38.01397897
+    ]
+   },
+   "properties": {
+    "name": "45 HOMESTEAD DRIVE LARA 3212",
+    "locID": "ChIJn0rywzsZ1GoR-sEpVA-7jq0",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720525130"
    }
   },
   {
@@ -147840,6 +147891,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.35537204,
+     -38.01451452
+    ]
+   },
+   "properties": {
+    "name": "750A BACCHUS MARSH ROAD LARA 3212",
+    "locID": "ChIJZWzsLWEZ1GoRRiMyJ52GWFM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720574930"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.41889463,
      -38.02493698
     ]
@@ -148173,6 +148241,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720649449"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37222834,
+     -38.01585064
+    ]
+   },
+   "properties": {
+    "name": "33 COPPICE STREET LARA 3212",
+    "locID": "ChIJ2bww6T4Z1GoR5vBLTLQwCYA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720649469"
    }
   },
   {
@@ -149006,6 +149091,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720653506"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37340067,
+     -38.01568152
+    ]
+   },
+   "properties": {
+    "name": "20 COPPICE STREET LARA 3212",
+    "locID": "ChIJP7mvpD4Z1GoRrSnGAcnPbKk",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720653569"
    }
   },
   {
@@ -150417,6 +150519,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720660339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37282098,
+     -38.01561199
+    ]
+   },
+   "properties": {
+    "name": "28 COPPICE STREET LARA 3212",
+    "locID": "ChIJSwIbvz4Z1GoR1ohkwl0EW0U",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720660470"
    }
   },
   {
@@ -153766,6 +153885,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720759209"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37147687,
+     -38.01602632
+    ]
+   },
+   "properties": {
+    "name": "42 FLUME STREET LARA 3212",
+    "locID": "ChIJn-cC_T4Z1GoRBtPozhTZdJg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720759276"
    }
   },
   {
@@ -160029,6 +160165,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.36897739,
+     -38.01280051
+    ]
+   },
+   "properties": {
+    "name": "108 HOMESTEAD DRIVE LARA 3212",
+    "locID": "ChIJK4k4rzgZ1GoRmBsMmbY4AE4",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720917758"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.36956803,
      -38.01418732
     ]
@@ -160379,6 +160532,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720919428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.44882047,
+     -38.01701602
+    ]
+   },
+   "properties": {
+    "name": "178 OLD MELBOURNE ROAD LARA 3212",
+    "locID": "ChIJYafDO-4h1GoRdfRSG_sAfZo",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720919457"
    }
   },
   {
@@ -161501,6 +161671,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720925162"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.36914444,
+     -38.01327605
+    ]
+   },
+   "properties": {
+    "name": "115 HOMESTEAD DRIVE LARA 3212",
+    "locID": "ChIJRyMXrTgZ1GoR2sp6uwEU5PU",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720925231"
    }
   },
   {
@@ -172446,8 +172633,8 @@
    "properties": {
     "name": "38 STRINGYBARK DRIVE LARA 3212",
     "locID": "LOC000014422486",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC721153494"
    }
   },
@@ -174054,6 +174241,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.37981318,
+     -38.02055666
+    ]
+   },
+   "properties": {
+    "name": "147A PATULLOS ROAD LARA 3212",
+    "locID": "EikxNDcgUGF0dWxsb3MgUmQsIExhcmEgVklDIDMyMTIsIEF1c3RyYWxpYSIxEi8KFAoSCelppYwiGdRqEQup1uAvjLbPEJMBKhQKEgkxpnYIFhnUahGCm-KN6QTigw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721160312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3680023,
      -38.01394317
     ]
@@ -175286,7 +175490,7 @@
     "name": "16 BRUSHTAIL STREET LARA 3212",
     "locID": "LOC000063087553",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721164493"
    }
   },
@@ -176257,6 +176461,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721168244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37972412,
+     -38.02054668
+    ]
+   },
+   "properties": {
+    "name": "147B PATULLOS ROAD LARA 3212",
+    "locID": "EikxNDcgUGF0dWxsb3MgUmQsIExhcmEgVklDIDMyMTIsIEF1c3RyYWxpYSIxEi8KFAoSCelppYwiGdRqEQup1uAvjLbPEJMBKhQKEgkxpnYIFhnUahGCm-KN6QTigw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721168282"
    }
   },
   {
@@ -178032,6 +178253,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.37876809,
+     -38.01453398
+    ]
+   },
+   "properties": {
+    "name": "120B HOMESTEAD DRIVE LARA 3212",
+    "locID": "EioxMjAgSG9tZXN0ZWFkIERyLCBMYXJhIFZJQyAzMjEyLCBBdXN0cmFsaWEiMBIuChQKEgkTRB1kORnUahEd_WjaQ1zFlxB4KhQKEgmniy3aOxnUahHrrkEg-1PPWg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721214794"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.35318726,
      -38.01204169
     ]
@@ -178498,8 +178736,8 @@
    "properties": {
     "name": "5 SKIPPER STREET LARA 3212",
     "locID": "LOC000115535162",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721216700"
    }
   },

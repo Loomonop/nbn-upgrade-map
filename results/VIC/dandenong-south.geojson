@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T11:17:55.941026",
+ "generated": "2023-08-16T12:24:02.717698",
  "suburb": "DANDENONG SOUTH",
  "features": [
   {
@@ -21759,7 +21759,7 @@
     "name": "44 STEPHEN ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000017744932",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419782178"
    }
   },
@@ -28015,7 +28015,7 @@
     "name": "5 ABBOTTS ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000012791907",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420667287"
    }
   },
@@ -28643,8 +28643,8 @@
    "properties": {
     "name": "17 UNION ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000058932273",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420686055"
    }
   },
@@ -34525,8 +34525,8 @@
    "properties": {
     "name": "49 STEPHEN ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000045763364",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421542729"
    }
   },
@@ -34559,8 +34559,8 @@
    "properties": {
     "name": "4 NICHOLAS DRIVE DANDENONG SOUTH 3175",
     "locID": "LOC000084690462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421543950"
    }
   },
@@ -42328,8 +42328,8 @@
    "properties": {
     "name": "128-130 SOUTH PARK DRIVE DANDENONG SOUTH 3175",
     "locID": "LOC000104589309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC423114888"
    }
   },
@@ -46714,8 +46714,8 @@
    "properties": {
     "name": "296 SOUTH GIPPSLAND HIGHWAY DANDENONG SOUTH 3175",
     "locID": "LOC000100027254",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423578312"
    }
   },
@@ -57747,8 +57747,8 @@
    "properties": {
     "name": "296-298 SOUTH GIPPSLAND HIGHWAY DANDENONG SOUTH 3175",
     "locID": "LOC000100027254",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424630500"
    }
   },
@@ -59977,6 +59977,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425016661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.21967275,
+     -38.00502382
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 55-67 FRANKSTON-DANDENONG ROAD DANDENONG SOUTH 3175",
+    "locID": "LOC000124155156",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425016662"
    }
   },
   {
@@ -80102,7 +80119,7 @@
    "properties": {
     "name": "137 DISCOVERY ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000192809197",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721086476"
    }
@@ -80119,7 +80136,7 @@
    "properties": {
     "name": "149 DISCOVERY ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000192809166",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721088736"
    }
@@ -80272,7 +80289,7 @@
    "properties": {
     "name": "145 DISCOVERY ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000192809178",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721099007"
    }
@@ -80289,7 +80306,7 @@
    "properties": {
     "name": "141 DISCOVERY ROAD DANDENONG SOUTH 3175",
     "locID": "LOC000192809184",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721100778"
    }
