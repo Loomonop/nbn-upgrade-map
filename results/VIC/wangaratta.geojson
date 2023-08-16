@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T02:50:02.700425",
+ "generated": "2023-08-16T04:38:10.860232",
  "suburb": "WANGARATTA",
  "features": [
   {
@@ -66240,6 +66240,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.29009403,
+     -36.34671285
+    ]
+   },
+   "properties": {
+    "name": "14A BARKOO AVENUE WANGARATTA 3677",
+    "locID": "ChIJnZlPUWLZJmsRNdvU7MNt9Sk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC420594183"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.29091518,
      -36.34602339
     ]
@@ -101219,23 +101236,6 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421221183"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     146.29387445,
-     -36.3501969
-    ]
-   },
-   "properties": {
-    "name": "2 WALTER STREET WANGARATTA 3677",
-    "locID": "LOC000103630106",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421221184"
    }
   },
   {
@@ -175642,7 +175642,7 @@
    "properties": {
     "name": "24 PAULINE TERRACE WANGARATTA 3677",
     "locID": "ChIJt0AagtbbJmsRmp2dcHaC4dw",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425089410"
    }
@@ -187382,6 +187382,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.29128435,
+     -36.36197682
+    ]
+   },
+   "properties": {
+    "name": "78 SANDFORD ROAD WANGARATTA 3677",
+    "locID": "ChIJQd0fP1jZJmsR1QrpPXBvEx8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719529237"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.28952828,
      -36.33666145
     ]
@@ -198422,8 +198439,8 @@
    "properties": {
     "name": "12-14 THOMAS STREET WANGARATTA 3677",
     "locID": "LOC000048108082",
-    "tech": "WIRELESS",
-    "upgrade": "FTTN_NA",
+    "tech": "FTTN",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GAVIC721152660"
    }
   },
