@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T23:13:52.612012",
+ "generated": "2023-08-16T00:43:48.151368",
  "suburb": "GLADESVILLE",
  "features": [
   {
@@ -219,8 +219,8 @@
    "properties": {
     "name": "24 SUNNYSIDE STREET GLADESVILLE 2111",
     "locID": "LOC000053283136",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704783340"
    }
   },
@@ -1273,8 +1273,8 @@
    "properties": {
     "name": "34 WARNER STREET GLADESVILLE 2111",
     "locID": "LOC000053637537",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704783414"
    }
   },
@@ -1308,7 +1308,7 @@
     "name": "38 WARNER STREET GLADESVILLE 2111",
     "locID": "LOC000055002690",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704783417"
    }
   },
@@ -8243,8 +8243,8 @@
    "properties": {
     "name": "10 TOWNS STREET GLADESVILLE 2111",
     "locID": "LOC000040887267",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704791376"
    }
   },
@@ -18052,8 +18052,8 @@
    "properties": {
     "name": "46 WESTMINSTER ROAD GLADESVILLE 2111",
     "locID": "LOC000064675237",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704798321"
    }
   },
@@ -20078,6 +20078,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704799448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.1247197,
+     -33.82078642
+    ]
+   },
+   "properties": {
+    "name": "17 ORIENT STREET GLADESVILLE 2111",
+    "locID": "LOC000193504491",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704799449"
    }
   },
   {
@@ -23816,7 +23833,7 @@
     "name": "24 BUFFALO ROAD GLADESVILLE 2111",
     "locID": "LOC000080208730",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704800174"
    }
   },
@@ -33421,7 +33438,7 @@
     "name": "23 PRINCE EDWARD STREET GLADESVILLE 2111",
     "locID": "LOC000004126077",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704804367"
    }
   },
@@ -33437,8 +33454,8 @@
    "properties": {
     "name": "24 PRINCE EDWARD STREET GLADESVILLE 2111",
     "locID": "LOC000005870726",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704804368"
    }
   },
@@ -33489,7 +33506,7 @@
     "name": "27 PRINCE EDWARD STREET GLADESVILLE 2111",
     "locID": "LOC000065379188",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704804371"
    }
   },
@@ -37858,7 +37875,7 @@
     "name": "17 ISLER STREET GLADESVILLE 2111",
     "locID": "LOC000058857847",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704805650"
    }
   },
@@ -44538,8 +44555,8 @@
    "properties": {
     "name": "12 HEPBURN AVENUE GLADESVILLE 2111",
     "locID": "LOC000074795959",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704808001"
    }
   },
@@ -49896,6 +49913,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704809121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.1366744,
+     -33.81706869
+    ]
+   },
+   "properties": {
+    "name": "18 IMPERIAL AVENUE GLADESVILLE 2111",
+    "locID": "LOC000193324570",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704809122"
    }
   },
   {
@@ -62660,8 +62694,8 @@
    "properties": {
     "name": "23 KENNEDY STREET GLADESVILLE 2111",
     "locID": "LOC000044138597",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704817780"
    }
   },
@@ -63510,8 +63544,8 @@
    "properties": {
     "name": "18 ELTHAM STREET GLADESVILLE 2111",
     "locID": "LOC000105319104",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704820140"
    }
   },
@@ -65907,8 +65941,8 @@
    "properties": {
     "name": "31 PITTWATER ROAD GLADESVILLE 2111",
     "locID": "LOC000034598470",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704821700"
    }
   },
@@ -67386,8 +67420,8 @@
    "properties": {
     "name": "31 FARM STREET GLADESVILLE 2111",
     "locID": "LOC000008963370",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704822998"
    }
   },
@@ -97102,8 +97136,8 @@
    "properties": {
     "name": "1 HIGGINBOTHAM ROAD GLADESVILLE 2111",
     "locID": "LOC000040979282",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716515809"
    }
   },
@@ -97170,8 +97204,8 @@
    "properties": {
     "name": "201 RYDE ROAD GLADESVILLE 2111",
     "locID": "LOC000061949112",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW716546654"
    }
   },

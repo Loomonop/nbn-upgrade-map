@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T23:44:23.889331",
+ "generated": "2023-08-16T01:04:52.463124",
  "suburb": "NORTH KELLYVILLE",
  "features": [
   {
@@ -8889,8 +8889,8 @@
    "properties": {
     "name": "4 HERMITAGE AVENUE NORTH KELLYVILLE 2155",
     "locID": "LOC000044060774",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719870015"
    }
   },
@@ -16948,7 +16948,7 @@
     "name": "1 MUNGO ROAD NORTH KELLYVILLE 2155",
     "locID": "LOC000153269907",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719872878"
    }
   },
@@ -18766,8 +18766,8 @@
    "properties": {
     "name": "18 ARMBRUSTER AVENUE NORTH KELLYVILLE 2155",
     "locID": "LOC000162035102",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719873607"
    }
   },
@@ -22557,8 +22557,8 @@
    "properties": {
     "name": "39 BENTLEY AVENUE NORTH KELLYVILLE 2155",
     "locID": "LOC000028892964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719875033"
    }
   },
@@ -31805,8 +31805,8 @@
    "properties": {
     "name": "8 MAYFAIR AVENUE NORTH KELLYVILLE 2155",
     "locID": "LOC000005561101",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719878346"
    }
   },
@@ -33692,8 +33692,8 @@
    "properties": {
     "name": "33 WHITE GUM PLACE NORTH KELLYVILLE 2155",
     "locID": "LOC000157979702",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719879059"
    }
   },
@@ -55096,7 +55096,7 @@
     "name": "9 SERENE PLACE NORTH KELLYVILLE 2155",
     "locID": "LOC000153264293",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719886591"
    }
   },
@@ -55401,8 +55401,8 @@
    "properties": {
     "name": "30 KAKADU STREET NORTH KELLYVILLE 2155",
     "locID": "LOC000157557729",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719886712"
    }
   },
@@ -63188,7 +63188,7 @@
     "name": "39 MONACO AVENUE NORTH KELLYVILLE 2155",
     "locID": "LOC000028187788",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719889495"
    }
   },
@@ -111380,6 +111380,23 @@
     ]
    },
    "properties": {
+    "name": "UNIT 1, 34 FARNSWORTH ROAD NORTH KELLYVILLE 2155",
+    "locID": "ChIJXfH0ZCqgEmsRn00I2SUnFhg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720459200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.95490106,
+     -33.69854617
+    ]
+   },
+   "properties": {
     "name": "UNIT 2, 24 FARNSWORTH ROAD NORTH KELLYVILLE 2155",
     "locID": "ChIJVWP2ZCqgEmsRwx6MKgymsuo",
     "tech": "FTTP",
@@ -111494,6 +111511,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.95490106,
+     -33.69854617
+    ]
+   },
+   "properties": {
+    "name": "34 FARNSWORTH ROAD NORTH KELLYVILLE 2155",
+    "locID": "ChIJXfH0ZCqgEmsRn00I2SUnFhg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720460630"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.95450003,
      -33.69891405
     ]
@@ -111538,6 +111572,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720461035"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.95490106,
+     -33.69854617
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 34 FARNSWORTH ROAD NORTH KELLYVILLE 2155",
+    "locID": "ChIJXfH0ZCqgEmsRn00I2SUnFhg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720461371"
    }
   },
   {
