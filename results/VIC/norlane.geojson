@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T22:12:52.413890",
+ "generated": "2023-08-16T23:15:52.025219",
  "suburb": "NORLANE",
  "features": [
   {
@@ -9043,7 +9043,7 @@
     "name": "66 DONNELLY AVENUE NORLANE 3214",
     "locID": "LOC000019287699",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419640262"
    }
   },
@@ -20911,6 +20911,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419962423"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34544096,
+     -38.08627041
+    ]
+   },
+   "properties": {
+    "name": "26 DONNYBROOK ROAD NORLANE 3214",
+    "locID": "LOC000193391831",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419962425"
    }
   },
   {
@@ -35895,6 +35912,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.35477835,
+     -38.09602569
+    ]
+   },
+   "properties": {
+    "name": "1 DENVER STREET NORLANE 3214",
+    "locID": "LOC000066228628",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC420563122"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3548744,
      -38.09417195
     ]
@@ -38911,8 +38945,8 @@
    "properties": {
     "name": "15 DOVE STREET NORLANE 3214",
     "locID": "LOC000096354516",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420841914"
    }
   },
@@ -41114,6 +41148,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.3611279,
+     -38.0937274
+    ]
+   },
+   "properties": {
+    "name": "33 DONNELLY AVENUE NORLANE 3214",
+    "locID": "LOC000174910728",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC420851329"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.36148824,
      -38.08698696
     ]
@@ -42127,6 +42178,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420855460"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.35462019,
+     -38.09664261
+    ]
+   },
+   "properties": {
+    "name": "2 ARUNGA AVENUE NORLANE 3214",
+    "locID": "LOC000006722705",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC420855461"
    }
   },
   {
@@ -49954,6 +50022,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.35460653,
+     -38.09600534
+    ]
+   },
+   "properties": {
+    "name": "3 DENVER STREET NORLANE 3214",
+    "locID": "LOC000147206092",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC421169831"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.35479315,
      -38.0901002
     ]
@@ -51406,7 +51491,7 @@
    "properties": {
     "name": "6 TAROONGA COURT NORLANE 3214",
     "locID": "ChIJL4wlxCwX1GoRcpBwVq83Amc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421173504"
    }
@@ -62833,6 +62918,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421733810"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.35436604,
+     -38.09661253
+    ]
+   },
+   "properties": {
+    "name": "4 ARUNGA AVENUE NORLANE 3214",
+    "locID": "LOC000055016452",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC421733811"
    }
   },
   {
@@ -76848,6 +76950,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.35446114,
+     -38.0966238
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 4 ARUNGA AVENUE NORLANE 3214",
+    "locID": "LOC000055016452",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC425221985"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.35449736,
+     -38.09636412
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 4 ARUNGA AVENUE NORLANE 3214",
+    "locID": "LOC000055016452",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC425221986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.35081357,
      -38.09028532
     ]
@@ -81812,6 +81948,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.33836509,
+     -38.08914162
+    ]
+   },
+   "properties": {
+    "name": "31A BELLNORE DRIVE NORLANE 3214",
+    "locID": "LOC000193473915",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425667926"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.33836509,
+     -38.08914162
+    ]
+   },
+   "properties": {
+    "name": "31B BELLNORE DRIVE NORLANE 3214",
+    "locID": "LOC000193473927",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425667927"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.34504978,
      -38.08655348
     ]
@@ -82655,6 +82825,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425786011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.35760664,
+     -38.08945957
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 108 PRINCES HIGHWAY NORLANE 3214",
+    "locID": "LOC000012076856",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC425786012"
    }
   },
   {

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T21:38:23.878239",
+ "generated": "2023-08-16T22:49:25.995678",
  "suburb": "WALLAN",
  "features": [
   {
@@ -7768,7 +7768,7 @@
     "name": "16 MCCARTHY COURT WALLAN 3756",
     "locID": "LOC000030898822",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420002323"
    }
   },
@@ -7921,7 +7921,7 @@
     "name": "31 MCCARTHY COURT WALLAN 3756",
     "locID": "LOC000023044358",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420002398"
    }
   },
@@ -11236,7 +11236,7 @@
     "name": "2742 EPPING-KILMORE ROAD WALLAN 3756",
     "locID": "LOC000096864369",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420287277"
    }
   },
@@ -15706,8 +15706,8 @@
    "properties": {
     "name": "2 PRETTY SALLY DRIVE WALLAN 3756",
     "locID": "LOC000103940985",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420603521"
    }
   },
@@ -16488,8 +16488,8 @@
    "properties": {
     "name": "9 BENJAMIN COURT WALLAN 3756",
     "locID": "LOC000054877969",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420616137"
    }
   },
@@ -26383,7 +26383,7 @@
     "name": "107 WINDHAM STREET WALLAN 3756",
     "locID": "LOC000032804658",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421323055"
    }
   },
@@ -26807,8 +26807,8 @@
    "properties": {
     "name": "61 WELLINGTON STREET WALLAN 3756",
     "locID": "LOC000097038488",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421356225"
    }
   },
@@ -27174,23 +27174,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9821926,
-     -37.41743296
-    ]
-   },
-   "properties": {
-    "name": "16 WINDHAM STREET WALLAN 3756",
-    "locID": "LOC000010316253",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421490290"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.9833302,
      -37.41831726
     ]
@@ -27215,8 +27198,8 @@
    "properties": {
     "name": "1 EDEN PLACE WALLAN 3756",
     "locID": "LOC000049265054",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421490295"
    }
   },
@@ -28660,8 +28643,8 @@
    "properties": {
     "name": "8 MCCARTHY COURT WALLAN 3756",
     "locID": "LOC000051561024",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421526385"
    }
   },
@@ -29358,7 +29341,7 @@
     "name": "8 CASEY COURT WALLAN 3756",
     "locID": "LOC000093914118",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421534393"
    }
   },
@@ -29425,8 +29408,8 @@
    "properties": {
     "name": "139 QUEEN STREET WALLAN 3756",
     "locID": "LOC000087658085",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421537157"
    }
   },
@@ -30122,8 +30105,8 @@
    "properties": {
     "name": "33 WYATT WAY WALLAN 3756",
     "locID": "LOC000037051632",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421583922"
    }
   },
@@ -34678,8 +34661,8 @@
    "properties": {
     "name": "12 CAHILL COURT WALLAN 3756",
     "locID": "LOC000003485445",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421949888"
    }
   },
@@ -44281,6 +44264,23 @@
     ]
    },
    "properties": {
+    "name": "24 VALLEY DRIVE WALLAN 3756",
+    "locID": "ChIJd0N3YHuw12oRsq739H7zUOw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC423159692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99961384,
+     -37.40211209
+    ]
+   },
+   "properties": {
     "name": "26 VALLEY DRIVE WALLAN 3756",
     "locID": "ChIJA05wYHuw12oRCRDOlTxbQCA",
     "tech": "FTTN",
@@ -44980,8 +44980,8 @@
    "properties": {
     "name": "LOT 1 EDEN PLACE WALLAN 3756",
     "locID": "LOC000049265054",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423395727"
    }
   },
@@ -47139,8 +47139,8 @@
    "properties": {
     "name": "10 ADRIAN CIRCUIT WALLAN 3756",
     "locID": "LOC000039782374",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423745509"
    }
   },
@@ -52154,7 +52154,7 @@
    "properties": {
     "name": "121-129 DUDLEY STREET WALLAN 3756",
     "locID": "ChIJlxKjYTuw12oRho9HglTFMXo",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424061910"
    }
@@ -61283,8 +61283,8 @@
    "properties": {
     "name": "35 GREENVALE AVENUE WALLAN 3756",
     "locID": "LOC000113320321",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424672230"
    }
   },
@@ -64497,7 +64497,7 @@
     "name": "3 CHOCOLATE LILY COURT WALLAN 3756",
     "locID": "LOC000115810693",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424780506"
    }
   },
@@ -71619,8 +71619,8 @@
    "properties": {
     "name": "20 QUEEN STREET WALLAN 3756",
     "locID": "LOC000125175441",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424970729"
    }
   },
@@ -91764,8 +91764,8 @@
    "properties": {
     "name": "15A RAGLAN STREET WALLAN 3756",
     "locID": "LOC000183659774",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719411540"
    }
   },
@@ -103511,7 +103511,7 @@
    "properties": {
     "name": "6B MILNE COURT WALLAN 3756",
     "locID": "ChIJm41XEBaw12oRvaKv5vOFA9o",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720055804"
    }
@@ -123588,7 +123588,7 @@
    "properties": {
     "name": "UNIT 16, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513577",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720647282"
    }
@@ -123605,7 +123605,7 @@
    "properties": {
     "name": "UNIT 1, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513680",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720647682"
    }
@@ -123639,7 +123639,7 @@
    "properties": {
     "name": "UNIT 8, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513577",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720648689"
    }
@@ -123656,7 +123656,7 @@
    "properties": {
     "name": "30 KING STREET WALLAN 3756",
     "locID": "LOC000192513842",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720648735"
    }
@@ -123690,7 +123690,7 @@
    "properties": {
     "name": "UNIT 9, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513622",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720648894"
    }
@@ -123707,7 +123707,7 @@
    "properties": {
     "name": "UNIT 14, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513554",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720648944"
    }
@@ -123775,7 +123775,7 @@
    "properties": {
     "name": "UNIT 13, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513605",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720650054"
    }
@@ -123792,7 +123792,7 @@
    "properties": {
     "name": "UNIT 4, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513508",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720650145"
    }
@@ -123809,7 +123809,7 @@
    "properties": {
     "name": "28 KING STREET WALLAN 3756",
     "locID": "LOC000192513826",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720650599"
    }
@@ -123843,7 +123843,7 @@
    "properties": {
     "name": "129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513680",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720650806"
    }
@@ -123894,7 +123894,7 @@
    "properties": {
     "name": "34 KING STREET WALLAN 3756",
     "locID": "LOC000192513861",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720651527"
    }
@@ -123911,7 +123911,7 @@
    "properties": {
     "name": "UNIT 2, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513499",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720651659"
    }
@@ -123928,7 +123928,7 @@
    "properties": {
     "name": "26 KING STREET WALLAN 3756",
     "locID": "LOC000192513803",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720652095"
    }
@@ -123945,7 +123945,7 @@
    "properties": {
     "name": "UNIT 15, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513596",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720652212"
    }
@@ -124013,7 +124013,7 @@
    "properties": {
     "name": "UNIT 3, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513680",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720654055"
    }
@@ -124047,7 +124047,7 @@
    "properties": {
     "name": "UNIT 5, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513667",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720654520"
    }
@@ -124081,7 +124081,7 @@
    "properties": {
     "name": "UNIT 6, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513512",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720654892"
    }
@@ -124115,7 +124115,7 @@
    "properties": {
     "name": "UNIT 10, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513596",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720656193"
    }
@@ -124132,7 +124132,7 @@
    "properties": {
     "name": "32 KING STREET WALLAN 3756",
     "locID": "LOC000192513857",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720656733"
    }
@@ -124217,7 +124217,7 @@
    "properties": {
     "name": "UNIT 12, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513680",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720660711"
    }
@@ -124234,7 +124234,7 @@
    "properties": {
     "name": "UNIT 7, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513583",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720660894"
    }
@@ -124285,7 +124285,7 @@
    "properties": {
     "name": "UNIT 18, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513583",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720662480"
    }
@@ -124336,7 +124336,7 @@
    "properties": {
     "name": "UNIT 11, 129 DUDLEY STREET WALLAN 3756",
     "locID": "LOC000192513605",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720662868"
    }

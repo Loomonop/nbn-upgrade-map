@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-14T09:55:16.315170",
+ "generated": "2023-08-16T23:36:01.705842",
  "suburb": "INGLEWOOD",
  "features": [
   {
@@ -18,6 +18,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155403856"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08773772,
+     -28.41262039
+    ]
+   },
+   "properties": {
+    "name": "LOT 73 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei03MyBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFA7fpX8e4AExBJKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155403860"
    }
   },
   {
@@ -307,23 +324,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155412039"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.08617014,
-     -28.42151016
-    ]
-   },
-   "properties": {
-    "name": "LOT 154 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Ei0xNTQgVG9iYWNjbyBSZCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMRIvChQKEglhYA56eLGiaxGwzWVY8e4AExCaASoUChIJhaPvHzyuomsRiLoYJa8gwxA",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD155412040"
    }
   },
   {
@@ -1155,7 +1155,7 @@
     "name": "48 ALBERT STREET INGLEWOOD 4387",
     "locID": "LOC000043051371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156676678"
    }
   },
@@ -1189,7 +1189,7 @@
     "name": "57 ALBERT STREET INGLEWOOD 4387",
     "locID": "LOC000154831109",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156676680"
    }
   },
@@ -1308,7 +1308,7 @@
     "name": "90 ALBERT STREET INGLEWOOD 4387",
     "locID": "LOC000097561147",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156676687"
    }
   },
@@ -2617,7 +2617,7 @@
     "name": "21 CHILCOTT STREET INGLEWOOD 4387",
     "locID": "LOC000058637502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156693023"
    }
   },
@@ -4436,7 +4436,7 @@
     "name": "79 ALBERT STREET INGLEWOOD 4387",
     "locID": "LOC000097561147",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158068549"
    }
   },
@@ -5541,7 +5541,7 @@
     "name": "62 ALBERT STREET INGLEWOOD 4387",
     "locID": "LOC000063170255",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158080316"
    }
   },
@@ -9766,6 +9766,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.0871414,
+     -28.41355674
+    ]
+   },
+   "properties": {
+    "name": "LOT 74 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei03NCBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFB7fpX8e4AExBKKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161220224"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08614516,
+     -28.41452494
+    ]
+   },
+   "properties": {
+    "name": "LOT 75 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei03NSBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFA7fpX8e4AExBLKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161220225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08727506,
+     -28.41466279
+    ]
+   },
+   "properties": {
+    "name": "LOT 76 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei03NiBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFB7fpX8e4AExBMKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161220226"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.08903563,
      -28.41380185
     ]
@@ -9810,6 +9861,74 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161220230"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08967803,
+     -28.41731562
+    ]
+   },
+   "properties": {
+    "name": "LOT 91 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei05MSBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFA7fpX8e4AExBbKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161220233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08820152,
+     -28.41802519
+    ]
+   },
+   "properties": {
+    "name": "LOT 92 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei05MiBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFB7fpX8e4AExBcKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161220234"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0895156,
+     -28.41821173
+    ]
+   },
+   "properties": {
+    "name": "LOT 93 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei05MyBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFA7fpX8e4AExBdKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161220235"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0880648,
+     -28.41933858
+    ]
+   },
+   "properties": {
+    "name": "LOT 95 MACINTYRE STREET INGLEWOOD 4387",
+    "locID": "Ei05NSBNY0ludHlyZSBTdCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMBIuChQKEgkRWIHWYLGiaxFA7fpX8e4AExBfKhQKEgmdI3zRZrGiaxHysP-Yl8-E0A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161220236"
    }
   },
   {
@@ -10072,91 +10191,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08441164,
-     -28.42019741
-    ]
-   },
-   "properties": {
-    "name": "LOT 130 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Ei0xMzAgVG9iYWNjbyBSZCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMRIvChQKEglhYA56eLGiaxGwzWVY8e4AExCCASoUChIJhaPvHzyuomsRiLoYJa8gwxA",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161331836"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.09992114,
-     -28.44170991
-    ]
-   },
-   "properties": {
-    "name": "LOT 148 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Ei0xNDggVG9iYWNjbyBSZCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMRIvChQKEglhYA56eLGiaxGwzWVY8e4AExCUASoUChIJhaPvHzyuomsRiLoYJa8gwxA",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161331838"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.11132018,
-     -28.44481345
-    ]
-   },
-   "properties": {
-    "name": "LOT 149 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Ei0xNDkgVG9iYWNjbyBSZCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMRIvChQKEglhYA56eLGiaxGwzWVY8e4AExCVASoUChIJhaPvHzyuomsRiLoYJa8gwxA",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161331839"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.08762508,
-     -28.42231445
-    ]
-   },
-   "properties": {
-    "name": "LOT 160 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Ei0xNjAgVG9iYWNjbyBSZCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMRIvChQKEglhYA56eLGiaxGwzWVY8e4AExCgASoUChIJhaPvHzyuomsRiLoYJa8gwxA",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161331840"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.09421372,
-     -28.42823236
-    ]
-   },
-   "properties": {
-    "name": "LOT 172 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Ei0xNzIgVG9iYWNjbyBSZCwgSW5nbGV3b29kIFFMRCA0Mzg3LCBBdXN0cmFsaWEiMRIvChQKEglhYA56eLGiaxGwzWVY8e4AExCsASoUChIJhaPvHzyuomsRiLoYJa8gwxA",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161331841"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.09212219,
      -28.43332884
     ]
@@ -10371,40 +10405,6 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161331856"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.10979936,
-     -28.4311799
-    ]
-   },
-   "properties": {
-    "name": "LOT 72 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Eiw3MiBUb2JhY2NvIFJkLCBJbmdsZXdvb2QgUUxEIDQzODcsIEF1c3RyYWxpYSIwEi4KFAoSCWFgDnp4saJrEbDNZVjx7gATEEgqFAoSCYWj7x88rqJrEYi6GCWvIMMQ",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161331859"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.09865887,
-     -28.42986745
-    ]
-   },
-   "properties": {
-    "name": "LOT 74 TOBACCO ROAD INGLEWOOD 4387",
-    "locID": "Eiw3NCBUb2JhY2NvIFJkLCBJbmdsZXdvb2QgUUxEIDQzODcsIEF1c3RyYWxpYSIwEi4KFAoSCWFgDnp4saJrEbDNZVjx7gATEEoqFAoSCYWj7x88rqJrEYi6GCWvIMMQ",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161331861"
    }
   },
   {
