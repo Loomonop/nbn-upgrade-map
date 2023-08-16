@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T01:28:11.153738",
+ "generated": "2023-08-16T02:44:58.519814",
  "suburb": "HARKNESS",
  "features": [
   {
@@ -13479,8 +13479,8 @@
    "properties": {
     "name": "UNIT 2, 1 GROSVENOR COURT HARKNESS 3337",
     "locID": "LOC000096081727",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719415656"
    }
   },
@@ -27708,8 +27708,8 @@
    "properties": {
     "name": "8 SCARLET OAK AVENUE HARKNESS 3337",
     "locID": "LOC000018517630",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719422079"
    }
   },
@@ -43672,7 +43672,7 @@
     "name": "6 SHE OAK COURT HARKNESS 3337",
     "locID": "LOC000106764304",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719428929"
    }
   },
@@ -70633,7 +70633,7 @@
    "properties": {
     "name": "26 BURSWOOD CIRCUIT HARKNESS 3337",
     "locID": "ChIJ5QUDv-Xs1moRAW70yDc1Xm4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719441632"
    }
@@ -72999,6 +72999,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719455697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.55519788,
+     -37.65612565
+    ]
+   },
+   "properties": {
+    "name": "549-565 BULMANS ROAD HARKNESS 3337",
+    "locID": "ChIJDdh0Jfjs1moRNuNoevRW0Ao",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719455762"
    }
   },
   {
@@ -83094,7 +83111,7 @@
    "properties": {
     "name": "11 STEPHANIE WAY HARKNESS 3337",
     "locID": "ChIJ_11LOOzs1moRZdFG-oveQAg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090063"
    }
@@ -83145,7 +83162,7 @@
    "properties": {
     "name": "7 STEPHANIE WAY HARKNESS 3337",
     "locID": "EjA3IFN0ZXBoYW5pZSBXYXksIE1lbHRvbiBXZXN0IFZJQyAzMzM3LCBBdXN0cmFsaWEiMBIuChQKEgnnp7kw7OzWahHdvMptDhUADRAHKhQKEgnnp7kw7OzWahGCaJkHHS92tg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103806"
    }

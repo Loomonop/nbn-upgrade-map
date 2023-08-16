@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T01:17:06.784062",
+ "generated": "2023-08-16T02:39:11.851191",
  "suburb": "LEOPOLD",
  "features": [
   {
@@ -321,8 +321,8 @@
    "properties": {
     "name": "13 FALKIRK PLACE LEOPOLD 3224",
     "locID": "LOC000044635575",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC411720341"
    }
   },
@@ -3637,7 +3637,7 @@
     "name": "UNIT 1, 31 DOROTHY STREET LEOPOLD 3224",
     "locID": "LOC000067788423",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411754107"
    }
   },
@@ -9740,7 +9740,7 @@
     "name": "790 BELLARINE HIGHWAY LEOPOLD 3224",
     "locID": "LOC000056013335",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419644740"
    }
   },
@@ -13751,8 +13751,8 @@
    "properties": {
     "name": "32 DONVALE DRIVE LEOPOLD 3224",
     "locID": "LOC000007095084",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419939030"
    }
   },
@@ -18358,8 +18358,8 @@
    "properties": {
     "name": "14 STEVENS COURT LEOPOLD 3224",
     "locID": "LOC000053014512",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420052698"
    }
   },
@@ -20535,7 +20535,7 @@
     "name": "9 ROLFE COURT LEOPOLD 3224",
     "locID": "LOC000104469570",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420252396"
    }
   },
@@ -23866,8 +23866,8 @@
    "properties": {
     "name": "8 ROSEWORTH CLOSE LEOPOLD 3224",
     "locID": "LOC000079276379",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420337182"
    }
   },
@@ -31771,8 +31771,8 @@
    "properties": {
     "name": "21 WARRAWEE ROAD LEOPOLD 3224",
     "locID": "LOC000107860587",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420832828"
    }
   },
@@ -44148,7 +44148,7 @@
     "name": "39 CORNTHWAITE CRESCENT LEOPOLD 3224",
     "locID": "LOC000083351417",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421432182"
    }
   },
@@ -45949,8 +45949,8 @@
    "properties": {
     "name": "43 HEYTESBURY DRIVE LEOPOLD 3224",
     "locID": "LOC000033160104",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421453929"
    }
   },
@@ -64378,7 +64378,7 @@
     "name": "35-37 BIRCHBANK COURT LEOPOLD 3224",
     "locID": "LOC000115757258",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424350789"
    }
   },
@@ -82074,8 +82074,8 @@
    "properties": {
     "name": "80 POLLARD DRIVE LEOPOLD 3224",
     "locID": "LOC000124203343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424887466"
    }
   },
@@ -89588,8 +89588,8 @@
    "properties": {
     "name": "28 VOLARE WAY LEOPOLD 3224",
     "locID": "LOC000147178668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425092884"
    }
   },
@@ -100835,6 +100835,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.4762483,
+     -38.20080753
+    ]
+   },
+   "properties": {
+    "name": "83-99 MOLLERS LANE LEOPOLD 3224",
+    "locID": "Eio4MyBNb2xsZXJzIExuLCBMZW9wb2xkIFZJQyAzMjI0LCBBdXN0cmFsaWEiMBIuChQKEgmJdr9MXj7UahHJhj_LJprctRBTKhQKEglzzfRNYD7UahGy3Qd8rK2ZGg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719787794"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.47516897,
      -38.17391516
     ]
@@ -107152,6 +107169,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720854393"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.4762483,
+     -38.20080753
+    ]
+   },
+   "properties": {
+    "name": "83-89 MOLLERS LANE LEOPOLD 3224",
+    "locID": "Eio4MyBNb2xsZXJzIExuLCBMZW9wb2xkIFZJQyAzMjI0LCBBdXN0cmFsaWEiMBIuChQKEgmJdr9MXj7UahHJhj_LJprctRBTKhQKEglzzfRNYD7UahGy3Qd8rK2ZGg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720854721"
    }
   },
   {
