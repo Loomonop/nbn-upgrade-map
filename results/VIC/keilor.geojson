@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T16:58:34.861210",
+ "generated": "2023-08-16T18:19:22.081136",
  "suburb": "KEILOR",
  "features": [
   {
@@ -2294,7 +2294,7 @@
     "name": "83 CHURCH STREET KEILOR 3036",
     "locID": "LOC000094260711",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419556722"
    }
   },
@@ -8127,6 +8127,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419859742"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.826493,
+     -37.72071
+    ]
+   },
+   "properties": {
+    "name": "8 TANJIL COURT KEILOR 3036",
+    "locID": "LOC000193508969",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419859745"
    }
   },
   {
@@ -18834,8 +18851,8 @@
    "properties": {
     "name": "2 KOORALI STREET KEILOR 3036",
     "locID": "LOC000086180024",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420461126"
    }
   },
@@ -33216,8 +33233,8 @@
    "properties": {
     "name": "22 RIVERSIDE AVENUE KEILOR 3036",
     "locID": "LOC000047926581",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421384974"
    }
   },
@@ -33284,8 +33301,8 @@
    "properties": {
     "name": "14 KARINA COURT KEILOR 3036",
     "locID": "LOC000100126645",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421384992"
    }
   },
@@ -37449,8 +37466,8 @@
    "properties": {
     "name": "1 WATSON RISE KEILOR 3036",
     "locID": "LOC000083388435",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421676332"
    }
   },
@@ -38146,8 +38163,8 @@
    "properties": {
     "name": "11 DELANEY COURT KEILOR 3036",
     "locID": "LOC000052592483",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421695709"
    }
   },
@@ -40781,8 +40798,8 @@
    "properties": {
     "name": "985 OLD CALDER HIGHWAY KEILOR 3036",
     "locID": "LOC000036862352",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421920817"
    }
   },
@@ -46425,8 +46442,8 @@
    "properties": {
     "name": "UNIT 2, 22 RIVERSIDE AVENUE KEILOR 3036",
     "locID": "LOC000047926581",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720075010"
    }
   },
@@ -46442,8 +46459,8 @@
    "properties": {
     "name": "UNIT 1, 22 RIVERSIDE AVENUE KEILOR 3036",
     "locID": "LOC000047926581",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720076729"
    }
   },

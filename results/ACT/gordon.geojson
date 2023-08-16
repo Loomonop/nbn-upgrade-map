@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T17:56:37.015483",
+ "generated": "2023-08-16T19:10:04.738165",
  "suburb": "GORDON",
  "features": [
   {
@@ -84,7 +84,7 @@
     "name": "47 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112712675",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714851063"
    }
   },
@@ -1291,7 +1291,7 @@
     "name": "31 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113638389",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852494"
    }
   },
@@ -1308,7 +1308,7 @@
     "name": "29 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113678209",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852495"
    }
   },
@@ -1325,7 +1325,7 @@
     "name": "27 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113819171",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852496"
    }
   },
@@ -1342,7 +1342,7 @@
     "name": "25 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112458972",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852497"
    }
   },
@@ -1359,7 +1359,7 @@
     "name": "23 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111905344",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852498"
    }
   },
@@ -1444,7 +1444,7 @@
     "name": "21 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112604433",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852633"
    }
   },
@@ -1461,7 +1461,7 @@
     "name": "19 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110612804",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852634"
    }
   },
@@ -1580,7 +1580,7 @@
     "name": "54 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112688553",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852642"
    }
   },
@@ -1597,7 +1597,7 @@
     "name": "56 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110645917",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852643"
    }
   },
@@ -1614,7 +1614,7 @@
     "name": "58 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110549481",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852644"
    }
   },
@@ -1631,7 +1631,7 @@
     "name": "60 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112382822",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852645"
    }
   },
@@ -1665,7 +1665,7 @@
     "name": "42 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113475843",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714852647"
    }
   },
@@ -2481,7 +2481,7 @@
     "name": "1 STAUNTON PLACE GORDON 2906",
     "locID": "LOC000110260951",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714852837"
    }
   },
@@ -2956,8 +2956,8 @@
    "properties": {
     "name": "19 CHIPPERFIELD CIRCUIT GORDON 2906",
     "locID": "LOC000111573506",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714853388"
    }
   },
@@ -3824,7 +3824,7 @@
     "name": "5 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110761320",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853443"
    }
   },
@@ -4965,6 +4965,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAACT714853567"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.08091188,
+     -35.4625405
+    ]
+   },
+   "properties": {
+    "name": "138 JIM PIKE AVENUE GORDON 2906",
+    "locID": "ChIJtwVzBhjLF2sR4WRRDlaej4M",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAACT714853568"
    }
   },
   {
@@ -7411,7 +7428,7 @@
     "name": "57 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111845593",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853804"
    }
   },
@@ -7581,7 +7598,7 @@
     "name": "21 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110488304",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853816"
    }
   },
@@ -7598,7 +7615,7 @@
     "name": "6 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000111279917",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853817"
    }
   },
@@ -7615,7 +7632,7 @@
     "name": "8 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000112339333",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853818"
    }
   },
@@ -7632,7 +7649,7 @@
     "name": "10 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000113823941",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853819"
    }
   },
@@ -7649,7 +7666,7 @@
     "name": "12 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000113530874",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853820"
    }
   },
@@ -8481,8 +8498,8 @@
    "properties": {
     "name": "24 CALLAWAY CRESCENT GORDON 2906",
     "locID": "LOC000111289391",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAACT714853892"
    }
   },
@@ -8924,7 +8941,7 @@
     "name": "9 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000110224546",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853920"
    }
   },
@@ -9315,7 +9332,7 @@
     "name": "68 MINA WYLIE CRESCENT GORDON 2906",
     "locID": "LOC000110698943",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714853951"
    }
   },
@@ -9842,7 +9859,7 @@
     "name": "45 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110814084",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854006"
    }
   },
@@ -9859,7 +9876,7 @@
     "name": "43 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113370998",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854007"
    }
   },
@@ -10114,7 +10131,7 @@
     "name": "55 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110764386",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854024"
    }
   },
@@ -10131,7 +10148,7 @@
     "name": "53 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113777368",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854025"
    }
   },
@@ -10148,7 +10165,7 @@
     "name": "51 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110956654",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854026"
    }
   },
@@ -10165,7 +10182,7 @@
     "name": "49 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112629278",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854027"
    }
   },
@@ -10216,7 +10233,7 @@
     "name": "14 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110350989",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854030"
    }
   },
@@ -10233,7 +10250,7 @@
     "name": "12 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112604962",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854031"
    }
   },
@@ -10250,7 +10267,7 @@
     "name": "10 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112564692",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854032"
    }
   },
@@ -10267,7 +10284,7 @@
     "name": "8 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000113696885",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854033"
    }
   },
@@ -10284,7 +10301,7 @@
     "name": "8 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112588603",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854034"
    }
   },
@@ -10403,7 +10420,7 @@
     "name": "10 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000112150972",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854042"
    }
   },
@@ -10743,7 +10760,7 @@
     "name": "62 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111856899",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854123"
    }
   },
@@ -10760,7 +10777,7 @@
     "name": "64 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113949346",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854124"
    }
   },
@@ -10777,7 +10794,7 @@
     "name": "66 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113698510",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854125"
    }
   },
@@ -10794,7 +10811,7 @@
     "name": "68 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111501046",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854126"
    }
   },
@@ -10811,7 +10828,7 @@
     "name": "40 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000122307405",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854127"
    }
   },
@@ -10896,7 +10913,7 @@
     "name": "7 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000110580460",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854133"
    }
   },
@@ -10913,7 +10930,7 @@
     "name": "5 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000112557042",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854134"
    }
   },
@@ -10930,7 +10947,7 @@
     "name": "3 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000113544137",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854135"
    }
   },
@@ -10947,7 +10964,7 @@
     "name": "1 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000111287624",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854137"
    }
   },
@@ -11270,7 +11287,7 @@
     "name": "3 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000112334235",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854170"
    }
   },
@@ -11287,7 +11304,7 @@
     "name": "13 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000111956951",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854172"
    }
   },
@@ -11304,7 +11321,7 @@
     "name": "23 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000112741220",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854173"
    }
   },
@@ -12171,7 +12188,7 @@
     "name": "10 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000111499968",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854271"
    }
   },
@@ -12188,7 +12205,7 @@
     "name": "2 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000122333555",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854272"
    }
   },
@@ -12205,7 +12222,7 @@
     "name": "20 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000113823514",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854273"
    }
   },
@@ -12222,7 +12239,7 @@
     "name": "19 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000111124944",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854274"
    }
   },
@@ -12239,7 +12256,7 @@
     "name": "17 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000112573985",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854275"
    }
   },
@@ -12341,7 +12358,7 @@
     "name": "15 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110533886",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854281"
    }
   },
@@ -12358,7 +12375,7 @@
     "name": "13 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000112074836",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854282"
    }
   },
@@ -12375,7 +12392,7 @@
     "name": "11 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110897518",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854283"
    }
   },
@@ -12392,7 +12409,7 @@
     "name": "9 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000112087091",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854284"
    }
   },
@@ -12409,7 +12426,7 @@
     "name": "7 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110679828",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854285"
    }
   },
@@ -12426,7 +12443,7 @@
     "name": "4 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000110608397",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854286"
    }
   },
@@ -12527,8 +12544,8 @@
    "properties": {
     "name": "84 JIM PIKE AVENUE GORDON 2906",
     "locID": "LOC000112008817",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714854293"
    }
   },
@@ -13225,7 +13242,7 @@
     "name": "14 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000111539307",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854340"
    }
   },
@@ -13242,7 +13259,7 @@
     "name": "16 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000113805100",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854341"
    }
   },
@@ -13259,7 +13276,7 @@
     "name": "18 ARMBRUSTER STREET GORDON 2906",
     "locID": "LOC000110863272",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714854342"
    }
   },
@@ -16608,7 +16625,7 @@
     "name": "79 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111143423",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855115"
    }
   },
@@ -16625,7 +16642,7 @@
     "name": "81 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111341590",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855116"
    }
   },
@@ -16642,7 +16659,7 @@
     "name": "83 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111749369",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855117"
    }
   },
@@ -16659,7 +16676,7 @@
     "name": "85 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111281988",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855118"
    }
   },
@@ -16676,7 +16693,7 @@
     "name": "10 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000112049608",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855120"
    }
   },
@@ -16693,7 +16710,7 @@
     "name": "28 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111713205",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855121"
    }
   },
@@ -16710,7 +16727,7 @@
     "name": "26 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111859758",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855122"
    }
   },
@@ -16727,7 +16744,7 @@
     "name": "24 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112013987",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855123"
    }
   },
@@ -16795,7 +16812,7 @@
     "name": "22 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112748872",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855127"
    }
   },
@@ -16812,7 +16829,7 @@
     "name": "20 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111692101",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855128"
    }
   },
@@ -16829,7 +16846,7 @@
     "name": "18 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112348699",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855129"
    }
   },
@@ -16846,7 +16863,7 @@
     "name": "16 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111337489",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855130"
    }
   },
@@ -18358,8 +18375,8 @@
    "properties": {
     "name": "34 SHERWOOD CIRCUIT GORDON 2906",
     "locID": "LOC000110912011",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714855286"
    }
   },
@@ -22915,7 +22932,7 @@
     "name": "6 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000111688580",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855862"
    }
   },
@@ -22932,7 +22949,7 @@
     "name": "4 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000113491989",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855863"
    }
   },
@@ -22949,7 +22966,7 @@
     "name": "2 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000111098685",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855864"
    }
   },
@@ -22966,7 +22983,7 @@
     "name": "97 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111769497",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855865"
    }
   },
@@ -22983,7 +23000,7 @@
     "name": "36 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000122342758",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855866"
    }
   },
@@ -23017,7 +23034,7 @@
     "name": "34 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111219945",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855868"
    }
   },
@@ -23085,7 +23102,7 @@
     "name": "32 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111875993",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855872"
    }
   },
@@ -23102,7 +23119,7 @@
     "name": "30 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112528923",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855873"
    }
   },
@@ -23119,7 +23136,7 @@
     "name": "25 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000111632999",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855875"
    }
   },
@@ -23136,7 +23153,7 @@
     "name": "23 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000112030238",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855876"
    }
   },
@@ -23153,7 +23170,7 @@
     "name": "21 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000113643629",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714855877"
    }
   },
@@ -25669,7 +25686,7 @@
     "name": "1 WOODCOCK DRIVE GORDON 2906",
     "locID": "LOC000111032536",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856234"
    }
   },
@@ -26161,8 +26178,8 @@
    "properties": {
     "name": "126 KNOKE AVENUE GORDON 2906",
     "locID": "LOC000111853240",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714856275"
    }
   },
@@ -27199,7 +27216,7 @@
     "name": "14 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000111982469",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856384"
    }
   },
@@ -27216,7 +27233,7 @@
     "name": "16 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000112317353",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856386"
    }
   },
@@ -27233,7 +27250,7 @@
     "name": "18 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000110905246",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856387"
    }
   },
@@ -27250,7 +27267,7 @@
     "name": "20 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000110946272",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856388"
    }
   },
@@ -27318,7 +27335,7 @@
     "name": "4 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110523879",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856392"
    }
   },
@@ -28032,7 +28049,7 @@
     "name": "44 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113715798",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856456"
    }
   },
@@ -28049,7 +28066,7 @@
     "name": "46 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111347694",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856457"
    }
   },
@@ -28066,7 +28083,7 @@
     "name": "48 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113504203",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856458"
    }
   },
@@ -28083,7 +28100,7 @@
     "name": "50 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112526493",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856459"
    }
   },
@@ -28185,7 +28202,7 @@
     "name": "52 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113522147",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856465"
    }
   },
@@ -28202,7 +28219,7 @@
     "name": "5 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000110450534",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856466"
    }
   },
@@ -28219,7 +28236,7 @@
     "name": "7 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000110478582",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856467"
    }
   },
@@ -28253,7 +28270,7 @@
     "name": "65 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113994859",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856471"
    }
   },
@@ -28270,7 +28287,7 @@
     "name": "67 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112717321",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856472"
    }
   },
@@ -28287,7 +28304,7 @@
     "name": "69 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110240287",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856473"
    }
   },
@@ -28304,7 +28321,7 @@
     "name": "71 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112764366",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856474"
    }
   },
@@ -28321,7 +28338,7 @@
     "name": "73 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110569043",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856475"
    }
   },
@@ -28338,7 +28355,7 @@
     "name": "77 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111617315",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856476"
    }
   },
@@ -28355,7 +28372,7 @@
     "name": "39 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110891380",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856477"
    }
   },
@@ -28372,7 +28389,7 @@
     "name": "37 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111791978",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856478"
    }
   },
@@ -28491,7 +28508,7 @@
     "name": "35 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112666744",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856485"
    }
   },
@@ -28508,7 +28525,7 @@
     "name": "17 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113450355",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856486"
    }
   },
@@ -28525,7 +28542,7 @@
     "name": "15 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110227004",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856487"
    }
   },
@@ -28542,7 +28559,7 @@
     "name": "13 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110346470",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856488"
    }
   },
@@ -28559,7 +28576,7 @@
     "name": "11 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113492979",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856489"
    }
   },
@@ -28661,7 +28678,7 @@
     "name": "9 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112090917",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856495"
    }
   },
@@ -28678,7 +28695,7 @@
     "name": "7 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112473145",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856496"
    }
   },
@@ -28695,7 +28712,7 @@
     "name": "5 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112461598",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856497"
    }
   },
@@ -28712,7 +28729,7 @@
     "name": "3 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000110711007",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856498"
    }
   },
@@ -28814,7 +28831,7 @@
     "name": "4 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000113477018",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856519"
    }
   },
@@ -28831,7 +28848,7 @@
     "name": "6 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000111405159",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856520"
    }
   },
@@ -28848,7 +28865,7 @@
     "name": "8 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000110654613",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856521"
    }
   },
@@ -28865,7 +28882,7 @@
     "name": "10 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000111023834",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856522"
    }
   },
@@ -28967,7 +28984,7 @@
     "name": "12 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000113508970",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856529"
    }
   },
@@ -28984,7 +29001,7 @@
     "name": "14 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000111505458",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856530"
    }
   },
@@ -29001,7 +29018,7 @@
     "name": "27 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000111979913",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856531"
    }
   },
@@ -29018,7 +29035,7 @@
     "name": "13 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000112716576",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856532"
    }
   },
@@ -29035,7 +29052,7 @@
     "name": "12 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000113704445",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856533"
    }
   },
@@ -29137,7 +29154,7 @@
     "name": "14 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110318279",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856539"
    }
   },
@@ -29154,7 +29171,7 @@
     "name": "16 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110429116",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856540"
    }
   },
@@ -29171,7 +29188,7 @@
     "name": "18 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110405482",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856541"
    }
   },
@@ -29188,7 +29205,7 @@
     "name": "20 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000113768374",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856542"
    }
   },
@@ -29205,7 +29222,7 @@
     "name": "22 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110816551",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856543"
    }
   },
@@ -29307,7 +29324,7 @@
     "name": "24 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000110923580",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856549"
    }
   },
@@ -29324,7 +29341,7 @@
     "name": "26 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000111737527",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856550"
    }
   },
@@ -29341,7 +29358,7 @@
     "name": "28 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000113758687",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856552"
    }
   },
@@ -29919,7 +29936,7 @@
     "name": "11 LAWLOR PLACE GORDON 2906",
     "locID": "LOC000113556191",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714857067"
    }
   },
@@ -33607,8 +33624,8 @@
    "properties": {
     "name": "3 THURGOOD COURT GORDON 2906",
     "locID": "LOC000110482328",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714859051"
    }
   },
@@ -34883,7 +34900,7 @@
     "name": "9 DOLAN CLOSE GORDON 2906",
     "locID": "LOC000111661157",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714862190"
    }
   },
@@ -35070,7 +35087,7 @@
     "name": "6 AKHURST GROVE GORDON 2906",
     "locID": "LOC000111058832",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714862598"
    }
   },
@@ -36531,8 +36548,8 @@
    "properties": {
     "name": "6 CHIPPERFIELD CIRCUIT GORDON 2906",
     "locID": "LOC000112518624",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714951650"
    }
   },
@@ -37297,7 +37314,7 @@
     "name": "41 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111779050",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714953391"
    }
   },
@@ -37314,7 +37331,7 @@
     "name": "33 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111210038",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714953392"
    }
   },
@@ -37365,7 +37382,7 @@
     "name": "3 CHRISTIE PLACE GORDON 2906",
     "locID": "LOC000111098685",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714954157"
    }
   },
@@ -37382,7 +37399,7 @@
     "name": "63 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112490997",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714954158"
    }
   },
@@ -37399,7 +37416,7 @@
     "name": "75 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112062047",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714954159"
    }
   },
@@ -37416,7 +37433,7 @@
     "name": "11 HAZLITT GLADE GORDON 2906",
     "locID": "LOC000110712426",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714954162"
    }
   },
@@ -37637,7 +37654,7 @@
     "name": "2 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000111249128",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714954311"
    }
   },
@@ -38555,7 +38572,7 @@
     "name": "11 CLARE DENNIS AVENUE GORDON 2906",
     "locID": "LOC000114899420",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT715005163"
    }
   },
@@ -39337,7 +39354,7 @@
     "name": "UNIT 2, 4 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113662898",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT715005992"
    }
   },
@@ -39354,7 +39371,7 @@
     "name": "1 CHURCHILL WAY GORDON 2906",
     "locID": "LOC000111603517",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT715006016"
    }
   },
@@ -41428,7 +41445,7 @@
     "name": "7A CHURCHILL WAY GORDON 2906",
     "locID": "LOC000113614226",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT715009130"
    }
   },
@@ -43060,7 +43077,7 @@
     "name": "UNIT 1, 6 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111654572",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT715013225"
    }
   },
@@ -43179,7 +43196,7 @@
     "name": "UNIT 2, 6 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111585206",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT715013451"
    }
   },
@@ -46392,7 +46409,7 @@
     "name": "UNIT 1, 4 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000113662898",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT715028209"
    }
   },
@@ -51611,7 +51628,7 @@
     "name": "4 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000111831449",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT717232772"
    }
   },
@@ -51628,7 +51645,7 @@
     "name": "6 WOODFULL LOOP GORDON 2906",
     "locID": "LOC000112570450",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT717232773"
    }
   },
