@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-01T22:19:36.880727",
+ "generated": "2023-08-15T23:56:07.601276",
  "suburb": "BRIGHTON-LE-SANDS",
  "features": [
   {
@@ -13897,6 +13897,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.15646236,
+     -33.95331541
+    ]
+   },
+   "properties": {
+    "name": "36 ROWLEY STREET BRIGHTON-LE-SANDS 2216",
+    "locID": "LOC000193376748",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW716219252"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.15691694,
      -33.95291759
     ]
@@ -19684,8 +19701,8 @@
    "properties": {
     "name": "20 TERALBA ROAD BRIGHTON-LE-SANDS 2216",
     "locID": "LOC000086383570",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716219697"
    }
   },
@@ -42787,8 +42804,8 @@
    "properties": {
     "name": "11 KINGS ROAD BRIGHTON-LE-SANDS 2216",
     "locID": "LOC000052695867",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716221748"
    }
   },
