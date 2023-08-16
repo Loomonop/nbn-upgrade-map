@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T12:59:10.870385",
+ "generated": "2023-08-16T14:25:07.618981",
  "suburb": "SOUTH MORANG",
  "features": [
   {
@@ -10385,7 +10385,7 @@
    "properties": {
     "name": "855 PLENTY ROAD SOUTH MORANG 3752",
     "locID": "LOC000192141163",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419915092"
    }
@@ -107676,8 +107676,8 @@
    "properties": {
     "name": "35 HUNTINGFIELD DRIVE SOUTH MORANG 3752",
     "locID": "LOC000075399595",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424240220"
    }
   },
@@ -109496,7 +109496,7 @@
     "name": "7 RIVERDALE BOULEVARD SOUTH MORANG 3752",
     "locID": "LOC000046973079",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424245712"
    }
   },
@@ -169498,6 +169498,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.08534937,
+     -37.6456525
+    ]
+   },
+   "properties": {
+    "name": "640M FINDON ROAD SOUTH MORANG 3752",
+    "locID": "ChIJr8gA_9ZL1moRIfNdKnszF8g",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720281330"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.08097463,
      -37.64977586
     ]
@@ -169508,6 +169525,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720281919"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.08366263,
+     -37.64584925
+    ]
+   },
+   "properties": {
+    "name": "635M FINDON ROAD SOUTH MORANG 3752",
+    "locID": "Ei82MzUgRmluZG9uIFJkLCBTb3V0aCBNb3JhbmcgVklDIDM3NTIsIEF1c3RyYWxpYSIxEi8KFAoSCSfzlQTXS9ZqEVC1O0q_NvTXEPsEKhQKEgmh2LwhVEnWahEsY-pJAK3qRg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720281927"
    }
   },
   {
@@ -181561,6 +181595,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721224512"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.08650024,
+     -37.63665769
+    ]
+   },
+   "properties": {
+    "name": "81W GRANGE DRIVE SOUTH MORANG 3752",
+    "locID": "Ei44MSBHcmFuZ2UgRHIsIFNvdXRoIE1vcmFuZyBWSUMgMzc1MiwgQXVzdHJhbGlhIjASLgoUChIJGx6Si85L1moRYsMBscp_5VkQUSoUChIJm8JpuNFL1moRzOOzM6CdbJQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721224521"
    }
   },
   {

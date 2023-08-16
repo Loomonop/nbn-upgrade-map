@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T12:49:04.131304",
+ "generated": "2023-08-16T14:13:35.833821",
  "suburb": "KIALLA",
  "features": [
   {
@@ -4078,8 +4078,8 @@
    "properties": {
     "name": "271 WARANGA DRIVE KIALLA 3631",
     "locID": "LOC000082153266",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420025439"
    }
   },
@@ -13445,8 +13445,8 @@
    "properties": {
     "name": "55 GORDON DRIVE KIALLA 3631",
     "locID": "LOC000034881758",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420960508"
    }
   },
@@ -16590,8 +16590,8 @@
    "properties": {
     "name": "4 CAREY COURT KIALLA 3631",
     "locID": "LOC000002759172",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421280247"
    }
   },
@@ -18631,7 +18631,7 @@
     "name": "4 HINDMARSH COURT KIALLA 3631",
     "locID": "LOC000107576723",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421499108"
    }
   },
@@ -19871,8 +19871,8 @@
    "properties": {
     "name": "12 LONSDALE SQUARE KIALLA 3631",
     "locID": "LOC000060333045",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421566294"
    }
   },
@@ -23866,8 +23866,8 @@
    "properties": {
     "name": "7 ROCKLANDS CRESCENT KIALLA 3631",
     "locID": "LOC000011055055",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421997688"
    }
   },
@@ -24461,8 +24461,8 @@
    "properties": {
     "name": "3 NILLAHCOOTIE CRESCENT KIALLA 3631",
     "locID": "LOC000047721790",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC422177313"
    }
   },
@@ -29136,8 +29136,8 @@
    "properties": {
     "name": "12 DARTMOUTH COURT KIALLA 3631",
     "locID": "LOC000073142356",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423355132"
    }
   },
@@ -30854,7 +30854,7 @@
     "name": "104 WARANGA DRIVE KIALLA 3631",
     "locID": "LOC000042412688",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423654818"
    }
   },
@@ -33182,8 +33182,8 @@
    "properties": {
     "name": "31 WENDOUREE DRIVE KIALLA 3631",
     "locID": "LOC000106683260",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423772760"
    }
   },
@@ -37755,8 +37755,8 @@
    "properties": {
     "name": "6 CARDINIA COURT KIALLA 3631",
     "locID": "LOC000023516399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424276903"
    }
   },
@@ -38112,7 +38112,7 @@
    "properties": {
     "name": "137-141 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJW0hK4D6H2GoRHRnS6ZLtEIg",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424458974"
    }
@@ -44997,8 +44997,8 @@
    "properties": {
     "name": "19 KERANG AVENUE KIALLA 3631",
     "locID": "LOC000115800939",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424784594"
    }
   },
@@ -47258,8 +47258,8 @@
    "properties": {
     "name": "9 MUNDIE COURT KIALLA 3631",
     "locID": "LOC000125242880",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425024069"
    }
   },
@@ -51902,6 +51902,40 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425734486"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.38533593,
+     -36.4426959
+    ]
+   },
+   "properties": {
+    "name": "7635A GOULBURN VALLEY HIGHWAY KIALLA 3631",
+    "locID": "EjQ3NjM1IEdvdWxidXJuIFZhbGxleSBId3ksIEtpYWxsYSBWSUMgMzYzMSwgQXVzdHJhbGlhIjESLwoUChIJ5c9sBjmH2GoR6c1JDMAiO-oQ0zsqFAoSCb3L1aY4pthqEQ1fWKw157fD",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425734661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.38524881,
+     -36.44269882
+    ]
+   },
+   "properties": {
+    "name": "7635B GOULBURN VALLEY HIGHWAY KIALLA 3631",
+    "locID": "EjQ3NjM1IEdvdWxidXJuIFZhbGxleSBId3ksIEtpYWxsYSBWSUMgMzYzMSwgQXVzdHJhbGlhIjESLwoUChIJ5c9sBjmH2GoR6c1JDMAiO-oQ0zsqFAoSCb3L1aY4pthqEQ1fWKw157fD",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425734662"
    }
   },
   {
@@ -70038,7 +70072,7 @@
    "properties": {
     "name": "19 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJJ-EJ5z6H2GoRUSVm16U2M5Y",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721086473"
    }
@@ -70208,7 +70242,7 @@
    "properties": {
     "name": "17 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJqxXZ3D6H2GoRhXs0ee0zOqg",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721088369"
    }
@@ -70327,7 +70361,7 @@
    "properties": {
     "name": "7 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJAepCNjmH2GoRTALXlP2Ek6M",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721089221"
    }
@@ -70412,7 +70446,7 @@
    "properties": {
     "name": "127 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJtbn0pD-H2GoRaTOceGvxqsc",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090549"
    }
@@ -70446,7 +70480,7 @@
    "properties": {
     "name": "133 RIVER ROAD WEST KIALLA 3631",
     "locID": "EioxMzMgUml2ZXIgUmQgVywgS2lhbGxhIFZJQyAzNjMxLCBBdXN0cmFsaWEiMRIvChQKEgnjaggQP4fYahG-labTrX3BIRCFASoUChIJC580Jj-H2GoRJtUs6DB5w48",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090857"
    }
@@ -70463,7 +70497,7 @@
    "properties": {
     "name": "5 SKIDDAW PLACE KIALLA 3631",
     "locID": "ChIJPd2v_z6H2GoRbCTMODAvkVg",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090920"
    }
@@ -70497,7 +70531,7 @@
    "properties": {
     "name": "1 SKIDDAW PLACE KIALLA 3631",
     "locID": "ChIJE2ex_D6H2GoRO_Xh92GdE0c",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091064"
    }
@@ -70582,7 +70616,7 @@
    "properties": {
     "name": "131 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJ3RsMCD-H2GoR_IA8Q7tBAQY",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091973"
    }
@@ -70684,7 +70718,7 @@
    "properties": {
     "name": "125 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJtcZkvD-H2GoRAWLBDzLhfmQ",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092241"
    }
@@ -70735,7 +70769,7 @@
    "properties": {
     "name": "135 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJxTC4BD-H2GoRnjbjY2ig_2g",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721092594"
    }
@@ -70786,7 +70820,7 @@
    "properties": {
     "name": "151 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJT-LyLjmH2GoRh0nF_dRGJ4o",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721093305"
    }
@@ -70888,7 +70922,7 @@
    "properties": {
     "name": "3 SKIDDAW PLACE KIALLA 3631",
     "locID": "ChIJ8anU_T6H2GoRabDQnTicbxw",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721093911"
    }
@@ -70990,7 +71024,7 @@
    "properties": {
     "name": "139 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJBwY-Hz-H2GoRvTq08VJCGtc",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094794"
    }
@@ -71041,7 +71075,7 @@
    "properties": {
     "name": "141 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJBwY-Hz-H2GoRga3kH98misY",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721095059"
    }
@@ -71177,7 +71211,7 @@
    "properties": {
     "name": "139A RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJQT7NHj-H2GoR00ToVr_BdBQ",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096041"
    }
@@ -71194,7 +71228,7 @@
    "properties": {
     "name": "129 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJD51bpj-H2GoRWMp_pXcucO0",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096175"
    }
@@ -71211,7 +71245,7 @@
    "properties": {
     "name": "9 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJpflZNDmH2GoRRqM7OjCkSVw",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096186"
    }
@@ -71245,7 +71279,7 @@
    "properties": {
     "name": "147 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJq-C61D6H2GoRihN9KYQHo3I",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096748"
    }
@@ -71262,7 +71296,7 @@
    "properties": {
     "name": "155 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJzcXSFzmH2GoRGJ5w1xWGzkk",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096780"
    }
@@ -71296,7 +71330,7 @@
    "properties": {
     "name": "137 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJBwY-Hz-H2GoR9LUEuxC8uXo",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721097262"
    }
@@ -71364,7 +71398,7 @@
    "properties": {
     "name": "143 RIVER ROAD WEST KIALLA 3631",
     "locID": "EioxNDMgUml2ZXIgUmQgVywgS2lhbGxhIFZJQyAzNjMxLCBBdXN0cmFsaWEiMRIvChQKEgnzL4AoP4fYahH83V2BBqhO3hCPASoUChIJC580Jj-H2GoRJtUs6DB5w48",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721097703"
    }
@@ -71398,7 +71432,7 @@
    "properties": {
     "name": "159 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJhzp0EjmH2GoRZVKYg71oKgc",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721098120"
    }
@@ -71415,7 +71449,7 @@
    "properties": {
     "name": "15 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJebDbxD6H2GoR_RamRqN8f30",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721098353"
    }
@@ -71483,7 +71517,7 @@
    "properties": {
     "name": "5 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJm28iODmH2GoRf5kQCEUQ7BE",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721098782"
    }
@@ -71619,7 +71653,7 @@
    "properties": {
     "name": "21 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJpc8T5D6H2GoR1y8A9VdW-CQ",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721100269"
    }
@@ -71704,7 +71738,7 @@
    "properties": {
     "name": "1 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJ37M1OzmH2GoRyT85ir_eejg",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721100489"
    }
@@ -71772,7 +71806,7 @@
    "properties": {
     "name": "145 RIVER ROAD WEST KIALLA 3631",
     "locID": "EioxNDUgUml2ZXIgUmQgVywgS2lhbGxhIFZJQyAzNjMxLCBBdXN0cmFsaWEiMRIvChQKEgnzL4AoP4fYahH83V2BBqhO3hCRASoUChIJC580Jj-H2GoRJtUs6DB5w48",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721100923"
    }
@@ -72078,7 +72112,7 @@
    "properties": {
     "name": "3 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJY7i5OzmH2GoR9UzuiDS87AU",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103193"
    }
@@ -72129,7 +72163,7 @@
    "properties": {
     "name": "13 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJHYyezz6H2GoR23b_tfJ2GTQ",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103381"
    }
@@ -72146,7 +72180,7 @@
    "properties": {
     "name": "149 RIVER ROAD WEST KIALLA 3631",
     "locID": "ChIJIVhjLDmH2GoRNyuOk7dFxWA",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103751"
    }
@@ -72214,7 +72248,7 @@
    "properties": {
     "name": "11 BORROWDALE STREET KIALLA 3631",
     "locID": "ChIJIQhOyz6H2GoRkbFiRnmeJyA",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721104702"
    }
