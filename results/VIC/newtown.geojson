@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T03:59:50.753399",
+ "generated": "2023-08-16T05:37:18.929720",
  "suburb": "NEWTOWN",
  "features": [
   {
@@ -17678,8 +17678,8 @@
    "properties": {
     "name": "17 CHESTER STREET NEWTOWN 3220",
     "locID": "LOC000101103393",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423064224"
    }
   },
@@ -26756,8 +26756,8 @@
    "properties": {
     "name": "58 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000104172657",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423096855"
    }
   },
@@ -29681,7 +29681,7 @@
     "name": "121 WEST FYANS STREET NEWTOWN 3220",
     "locID": "LOC000103269607",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423109483"
    }
   },
@@ -37639,6 +37639,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423439412"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.3385539,
+     -38.15751291
+    ]
+   },
+   "properties": {
+    "name": "25 BELFAST STREET NEWTOWN 3220",
+    "locID": "LOC000193301067",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC423439413"
    }
   },
   {
@@ -53769,8 +53786,8 @@
    "properties": {
     "name": "39 LAUREL BANK PARADE NEWTOWN 3220",
     "locID": "LOC000101003826",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC423467777"
    }
   },
@@ -69613,8 +69630,8 @@
    "properties": {
     "name": "304 SHANNON AVENUE NEWTOWN 3220",
     "locID": "LOC000032025135",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423487205"
    }
   },
@@ -75631,8 +75648,8 @@
    "properties": {
     "name": "29 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000080737129",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423496452"
    }
   },
@@ -78235,6 +78252,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423499803"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.33468348,
+     -38.1582477
+    ]
+   },
+   "properties": {
+    "name": "162 WEST FYANS STREET NEWTOWN 3220",
+    "locID": "LOC000193274425",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC423499804"
    }
   },
   {
@@ -85628,7 +85662,7 @@
     "name": "UNIT 1, 20 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000102305465",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424097867"
    }
   },

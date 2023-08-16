@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T03:32:37.050267",
+ "generated": "2023-08-16T05:16:27.535641",
  "suburb": "MOUNT MARTHA",
  "features": [
   {
@@ -19973,8 +19973,8 @@
    "properties": {
     "name": "16 GALILEE COURT MOUNT MARTHA 3934",
     "locID": "LOC000016065871",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419728269"
    }
   },
@@ -37109,7 +37109,7 @@
    "properties": {
     "name": "11 HEADLAND WATERS MOUNT MARTHA 3934",
     "locID": "ChIJQ4qrW9La1WoR-q4Ezeb00_I",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420078220"
    }
@@ -38044,8 +38044,8 @@
    "properties": {
     "name": "19 ESPERANCE COURT MOUNT MARTHA 3934",
     "locID": "LOC000017681180",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420176664"
    }
   },
@@ -42176,7 +42176,7 @@
     "name": "9 ACACIA STREET MOUNT MARTHA 3934",
     "locID": "LOC000008039911",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420188540"
    }
   },
@@ -60501,8 +60501,8 @@
    "properties": {
     "name": "17 YARRABIN DRIVE MOUNT MARTHA 3934",
     "locID": "LOC000029618234",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420477860"
    }
   },
@@ -74017,7 +74017,7 @@
     "name": "28 HAKEA DRIVE MOUNT MARTHA 3934",
     "locID": "LOC000072911577",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420791763"
    }
   },
@@ -105942,8 +105942,8 @@
    "properties": {
     "name": "3 LARKIN CLOSE MOUNT MARTHA 3934",
     "locID": "LOC000103602168",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421413591"
    }
   },
@@ -130364,6 +130364,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.99916563,
+     -38.29840945
+    ]
+   },
+   "properties": {
+    "name": "121 BRADFORD ROAD MOUNT MARTHA 3934",
+    "locID": "EjExMjEgQnJhZGZvcmQgUmQsIE1vdW50IE1hcnRoYSBWSUMgMzkzNCwgQXVzdHJhbGlhIjASLgoUChIJ_zfiyyjF1WoRGCqnpjCAGI0QeSoUChIJzxp4nzrF1WoRNMHDDkfD6PI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC422278935"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.05796096,
      -38.26146934
     ]
@@ -143784,8 +143801,8 @@
    "properties": {
     "name": "4 LISABRITT COURT MOUNT MARTHA 3934",
     "locID": "LOC000094757082",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424065155"
    }
   },
@@ -151027,7 +151044,7 @@
     "name": "UNIT 50, 42 ACACIA STREET MOUNT MARTHA 3934",
     "locID": "LOC000103492148",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424575926"
    }
   },
@@ -161909,6 +161926,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425620319"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.00088556,
+     -38.29333374
+    ]
+   },
+   "properties": {
+    "name": "100 PARK ROAD MOUNT MARTHA 3934",
+    "locID": "ChIJNfW9dSvF1WoRyNDe5Em7GAw",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425620992"
    }
   },
   {

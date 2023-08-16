@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-02T03:05:53.368061",
+ "generated": "2023-08-16T04:57:07.195959",
  "suburb": "CRANBOURNE EAST",
  "features": [
   {
@@ -15,7 +15,7 @@
    "properties": {
     "name": "1395 BALLARTO ROAD CRANBOURNE EAST 3977",
     "locID": "ChIJD-HlH4cP1moR0iUfBPuGyy4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC411180699"
    }
@@ -7920,9 +7920,26 @@
    "properties": {
     "name": "1385 BALLARTO ROAD CRANBOURNE EAST 3977",
     "locID": "ChIJD-HlH4cP1moR9kQ7x1V-vdI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420690582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.291482,
+     -38.128162
+    ]
+   },
+   "properties": {
+    "name": "1591 SOUTH GIPPSLAND HIGHWAY CRANBOURNE EAST 3977",
+    "locID": "ChIJEwmMH6AP1moRSGUIzWYGjDU",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC420699969"
    }
   },
   {
@@ -10453,8 +10470,8 @@
    "properties": {
     "name": "41 DARTMOOR DRIVE CRANBOURNE EAST 3977",
     "locID": "LOC000101342334",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421212282"
    }
   },
@@ -19600,7 +19617,7 @@
     "name": "2A ARMOY CLOSE CRANBOURNE EAST 3977",
     "locID": "LOC000038797714",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422274647"
    }
   },
@@ -25107,8 +25124,8 @@
    "properties": {
     "name": "9 STAUNTON WALK CRANBOURNE EAST 3977",
     "locID": "LOC000075919043",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423157622"
    }
   },
@@ -39098,8 +39115,8 @@
    "properties": {
     "name": "30 PIPETRACK CIRCUIT CRANBOURNE EAST 3977",
     "locID": "LOC000080962665",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424033646"
    }
   },
@@ -43453,6 +43470,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424351839"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.31475714,
+     -38.09867923
+    ]
+   },
+   "properties": {
+    "name": "37 BUSHRANGER BOULEVARDE CRANBOURNE EAST 3977",
+    "locID": "LOC000096496460",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424351840"
    }
   },
   {
@@ -52783,8 +52817,8 @@
    "properties": {
     "name": "2 KIRWAN DRIVE CRANBOURNE EAST 3977",
     "locID": "LOC000112950520",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424496535"
    }
   },
@@ -128715,6 +128749,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.2983489,
+     -38.09638526
+    ]
+   },
+   "properties": {
+    "name": "84I DARTMOOR DRIVE CRANBOURNE EAST 3977",
+    "locID": "EjM4NCBEYXJ0bW9vciBEciwgQ3JhbmJvdXJuZSBFYXN0IFZJQyAzOTc3LCBBdXN0cmFsaWEiMBIuChQKEgn3QCXT4w_WahFKi79MiKxVlxBUKhQKEgnfhWR74Q_WahGeStR-nt66gA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719436940"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.2993245,
      -38.09338846
     ]
@@ -130677,7 +130728,7 @@
    "properties": {
     "name": "18 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJERoyaZwP1moRtBE_RTBKW4Q",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719605028"
    }
@@ -130694,7 +130745,7 @@
    "properties": {
     "name": "8 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJN89MDZwP1moR9OjNuvbHsXA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719605222"
    }
@@ -131034,7 +131085,7 @@
    "properties": {
     "name": "9 ETHAN TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJc1fFEpwP1moR_g6GJVbE_hI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719609561"
    }
@@ -131051,7 +131102,7 @@
    "properties": {
     "name": "11 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJBwrdGJwP1moRRRLKqOBMKO0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719609562"
    }
@@ -131289,7 +131340,7 @@
    "properties": {
     "name": "10 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJLwr6cJwP1moRv69IzKtRJf0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719611816"
    }
@@ -131442,7 +131493,7 @@
    "properties": {
     "name": "11 ETHAN TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJNdewbJwP1moRAm_v5X_d0LI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719614019"
    }
@@ -131748,7 +131799,7 @@
    "properties": {
     "name": "14 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJpU81bpwP1moRjkTfp1TL42M",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719617103"
    }
@@ -131918,7 +131969,7 @@
    "properties": {
     "name": "19 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJTZXgFpwP1moRP-3cTx_E0JM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719618576"
    }
@@ -131935,7 +131986,7 @@
    "properties": {
     "name": "20 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJ_cgLaZwP1moReJykYDwm67k",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719618579"
    }
@@ -131952,7 +132003,7 @@
    "properties": {
     "name": "16 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJF5DkbpwP1moRAsptp_4Kf7g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719618581"
    }
@@ -132173,7 +132224,7 @@
    "properties": {
     "name": "13 EVANGELINE TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJpcv-EZwP1moRhQJBAcF88gg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719621692"
    }
@@ -147507,7 +147558,7 @@
    "properties": {
     "name": "15 ETHAN TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJtRG2EpwP1moR_wnMTYp42rc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720285200"
    }
@@ -147660,7 +147711,7 @@
    "properties": {
     "name": "1385S BALLARTO ROAD CRANBOURNE EAST 3977",
     "locID": "ChIJ47WZKoEP1moRUXNjyPsx55k",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720287829"
    }
@@ -147677,7 +147728,7 @@
    "properties": {
     "name": "21 ETHAN TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJfc8Fe5wP1moR2L0E5-AYNqk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720288472"
    }
@@ -147813,7 +147864,7 @@
    "properties": {
     "name": "13 ETHAN TERRACE CRANBOURNE EAST 3977",
     "locID": "ChIJB_i_FJwP1moRz97xpRNcVjc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720289539"
    }
@@ -153120,6 +153171,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720741741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.30777016,
+     -38.13125525
+    ]
+   },
+   "properties": {
+    "name": "51I CRITERION WAY CRANBOURNE EAST 3977",
+    "locID": "EjQ1MSBDcml0ZXJpb24gV3ksIENyYW5ib3VybmUgRWFzdCBWSUMgMzk3NywgQXVzdHJhbGlhIjASLgoUChIJ956u6oMP1moRcbslyxy9AFIQMyoUChIJPdd3EYQP1moR0uY_ERgbZ9A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720742393"
    }
   },
   {
@@ -162919,6 +162987,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.28984853,
+     -38.117675
+    ]
+   },
+   "properties": {
+    "name": "170E ELMSLIE DRIVE CRANBOURNE EAST 3977",
+    "locID": "EjMxNzAgRWxtc2xpZSBEciwgQ3JhbmJvdXJuZSBFYXN0IFZJQyAzOTc3LCBBdXN0cmFsaWEiMRIvChQKEgnfdpUWvQ_WahH0BOoOK_sJXhCqASoUChIJK8_p140P1moR-Q1yO7vJs50",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721160310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.29038182,
      -38.11769188
     ]
@@ -163065,6 +163150,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721163055"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.28975131,
+     -38.11766227
+    ]
+   },
+   "properties": {
+    "name": "172I ELMSLIE DRIVE CRANBOURNE EAST 3977",
+    "locID": "EjMxNzIgRWxtc2xpZSBEciwgQ3JhbmJvdXJuZSBFYXN0IFZJQyAzOTc3LCBBdXN0cmFsaWEiMRIvChQKEgnfdpUWvQ_WahH0BOoOK_sJXhCsASoUChIJK8_p140P1moR-Q1yO7vJs50",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721163337"
    }
   },
   {
@@ -163487,7 +163589,7 @@
    "properties": {
     "name": "4 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJLWuw1oYP1moRMyoRig_KVWE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721210606"
    }
@@ -163504,7 +163606,7 @@
    "properties": {
     "name": "8 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJgV5i04YP1moRTFjm9dr1oE4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721212071"
    }
@@ -163521,7 +163623,7 @@
    "properties": {
     "name": "13 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJiTqYKoEP1moRQpXAoQ-LS-g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721212271"
    }
@@ -163538,7 +163640,7 @@
    "properties": {
     "name": "10 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJsZuuLIEP1moRpHz1lU9zKgg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721212821"
    }
@@ -163555,7 +163657,7 @@
    "properties": {
     "name": "7 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJC-8FKocP1moRZps7XKlHkV0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721212909"
    }
@@ -163572,7 +163674,7 @@
    "properties": {
     "name": "9 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJIe9_KocP1moRL0RJbSyRnoU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721213206"
    }
@@ -163606,7 +163708,7 @@
    "properties": {
     "name": "16 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJSZHoLoEP1moRZsC45yTRkcs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721213443"
    }
@@ -163623,7 +163725,7 @@
    "properties": {
     "name": "11 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJHelZ1YYP1moRHcuicJcxKjI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721217349"
    }
@@ -163657,7 +163759,7 @@
    "properties": {
     "name": "15 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJx69uKoEP1moRs5O3eS_Xm9c",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721218132"
    }
@@ -163674,7 +163776,7 @@
    "properties": {
     "name": "5 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJBTzDKYcP1moRS_N4kuDm_sw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721221450"
    }
@@ -163691,7 +163793,7 @@
    "properties": {
     "name": "3 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJYb8-KIcP1moRzvnGBbyjDQg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721221782"
    }
@@ -163708,7 +163810,7 @@
    "properties": {
     "name": "17 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJXUuNKYEP1moRXrA4-2mzDAs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721222146"
    }
@@ -163725,7 +163827,7 @@
    "properties": {
     "name": "14 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJ0f8YLIEP1moRXyTpqJvlTGg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721225932"
    }
@@ -163742,7 +163844,7 @@
    "properties": {
     "name": "12 VIZSLA STREET CRANBOURNE EAST 3977",
     "locID": "ChIJb1CILIEP1moRC-LETSKxUIE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721226176"
    }
