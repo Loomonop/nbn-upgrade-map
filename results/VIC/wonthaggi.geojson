@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T03:13:50.720757",
+ "generated": "2023-08-17T04:29:23.190895",
  "suburb": "WONTHAGGI",
  "features": [
   {
@@ -10844,8 +10844,8 @@
    "properties": {
     "name": "42 KORUMBURRA ROAD WONTHAGGI 3995",
     "locID": "LOC000030101172",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420030181"
    }
   },
@@ -14703,8 +14703,8 @@
    "properties": {
     "name": "37 FINCHER STREET WONTHAGGI 3995",
     "locID": "LOC000108033218",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420325856"
    }
   },
@@ -41002,7 +41002,7 @@
    "properties": {
     "name": "39 MCGIBBONYS ROAD WONTHAGGI 3995",
     "locID": "LOC000192438002",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422169750"
    }
@@ -46428,6 +46428,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424078175"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.56651,
+     -38.61626545
+    ]
+   },
+   "properties": {
+    "name": "74 CHISHOLM ROAD WONTHAGGI 3995",
+    "locID": "ChIJlaPQfkMLKmsR0Tdcfw1cYuY",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC424079433"
    }
   },
   {
@@ -59848,6 +59865,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.58464167,
+     -38.60533205
+    ]
+   },
+   "properties": {
+    "name": "70 MURRAY STREET WONTHAGGI 3995",
+    "locID": "Eis3MCBNdXJyYXkgU3QsIFdvbnRoYWdnaSBWSUMgMzk5NSwgQXVzdHJhbGlhIjASLgoUChIJ47tKi4MMKmsRB5CXJkcLxF8QRioUChIJFbyPeoYMKmsRwdDrCOJVsqM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719749631"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.58990331,
      -38.61312382
     ]
@@ -64438,6 +64472,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.63000645,
+     -38.63921599
+    ]
+   },
+   "properties": {
+    "name": "292 BOUNDARY ROAD WONTHAGGI 3995",
+    "locID": "ChIJCxbDnSYNKmsRpHnBU7UurkE",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720661026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.61252283,
      -38.59576867
     ]
@@ -64819,7 +64870,7 @@
    "properties": {
     "name": "51 MCGIBBONYS ROAD WONTHAGGI 3995",
     "locID": "LOC000192437942",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720952245"
    }
@@ -64836,7 +64887,7 @@
    "properties": {
     "name": "12 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437387",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720952732"
    }
@@ -64853,7 +64904,7 @@
    "properties": {
     "name": "2 TIPPLE WAY WONTHAGGI 3995",
     "locID": "LOC000192437762",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720952774"
    }
@@ -64870,7 +64921,7 @@
    "properties": {
     "name": "4 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438073",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954186"
    }
@@ -64887,7 +64938,7 @@
    "properties": {
     "name": "18 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437696",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954235"
    }
@@ -64904,7 +64955,7 @@
    "properties": {
     "name": "8 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192438162",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954247"
    }
@@ -64921,7 +64972,7 @@
    "properties": {
     "name": "10 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437903",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954400"
    }
@@ -64938,7 +64989,7 @@
    "properties": {
     "name": "10 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437758",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954434"
    }
@@ -64955,7 +65006,7 @@
    "properties": {
     "name": "2 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438060",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954763"
    }
@@ -64972,7 +65023,7 @@
    "properties": {
     "name": "47 MCGIBBONYS ROAD WONTHAGGI 3995",
     "locID": "LOC000192437961",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954841"
    }
@@ -64989,7 +65040,7 @@
    "properties": {
     "name": "5 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192438209",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720955347"
    }
@@ -65006,7 +65057,7 @@
    "properties": {
     "name": "19 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437506",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720955739"
    }
@@ -65023,7 +65074,7 @@
    "properties": {
     "name": "8 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437919",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720955775"
    }
@@ -65040,7 +65091,7 @@
    "properties": {
     "name": "5 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438039",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720955847"
    }
@@ -65057,7 +65108,7 @@
    "properties": {
     "name": "1 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438056",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720955932"
    }
@@ -65091,7 +65142,7 @@
    "properties": {
     "name": "17 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437510",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720956484"
    }
@@ -65108,7 +65159,7 @@
    "properties": {
     "name": "3 TIPPLE WAY WONTHAGGI 3995",
     "locID": "LOC000192437789",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720956499"
    }
@@ -65125,7 +65176,7 @@
    "properties": {
     "name": "6 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437736",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720956707"
    }
@@ -65142,7 +65193,7 @@
    "properties": {
     "name": "10 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438127",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720958550"
    }
@@ -65159,7 +65210,7 @@
    "properties": {
     "name": "7 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438025",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720958567"
    }
@@ -65193,7 +65244,7 @@
    "properties": {
     "name": "4 TIPPLE WAY WONTHAGGI 3995",
     "locID": "LOC000192437770",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720959932"
    }
@@ -65210,7 +65261,7 @@
    "properties": {
     "name": "10 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192438170",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720960915"
    }
@@ -65227,7 +65278,7 @@
    "properties": {
     "name": "6 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438087",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720961251"
    }
@@ -65244,7 +65295,7 @@
    "properties": {
     "name": "49 MCGIBBONYS ROAD WONTHAGGI 3995",
     "locID": "LOC000192437957",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720961582"
    }
@@ -65261,7 +65312,7 @@
    "properties": {
     "name": "5 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437801",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720961834"
    }
@@ -65278,7 +65329,7 @@
    "properties": {
     "name": "3 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438041",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720962030"
    }
@@ -65295,7 +65346,7 @@
    "properties": {
     "name": "1 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437829",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720964327"
    }
@@ -65312,7 +65363,7 @@
    "properties": {
     "name": "4 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437497",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720964756"
    }
@@ -65346,7 +65397,7 @@
    "properties": {
     "name": "4 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192438136",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720964987"
    }
@@ -65363,7 +65414,7 @@
    "properties": {
     "name": "16 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437409",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720965262"
    }
@@ -65380,7 +65431,7 @@
    "properties": {
     "name": "22 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437432",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720965479"
    }
@@ -65397,7 +65448,7 @@
    "properties": {
     "name": "28 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437466",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720965603"
    }
@@ -65414,7 +65465,7 @@
    "properties": {
     "name": "18 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437413",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720965617"
    }
@@ -65431,7 +65482,7 @@
    "properties": {
     "name": "13 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437534",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720965678"
    }
@@ -65448,7 +65499,7 @@
    "properties": {
     "name": "26 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437450",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720965788"
    }
@@ -65465,7 +65516,7 @@
    "properties": {
     "name": "30 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437478",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720966281"
    }
@@ -65482,7 +65533,7 @@
    "properties": {
     "name": "11 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437547",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720966546"
    }
@@ -65499,7 +65550,7 @@
    "properties": {
     "name": "1 TIPPLE WAY WONTHAGGI 3995",
     "locID": "LOC000192437791",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720966814"
    }
@@ -65516,7 +65567,7 @@
    "properties": {
     "name": "3 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437817",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720966922"
    }
@@ -65550,7 +65601,7 @@
    "properties": {
     "name": "9 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438018",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720967478"
    }
@@ -65567,7 +65618,7 @@
    "properties": {
     "name": "14 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437568",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720967650"
    }
@@ -65584,7 +65635,7 @@
    "properties": {
     "name": "6 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437926",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720968303"
    }
@@ -65652,7 +65703,7 @@
    "properties": {
     "name": "43 MCGIBBONYS ROAD WONTHAGGI 3995",
     "locID": "LOC000192437988",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720968985"
    }
@@ -65669,7 +65720,7 @@
    "properties": {
     "name": "8 BUTTY STREET WONTHAGGI 3995",
     "locID": "LOC000192438115",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720969129"
    }
@@ -65686,7 +65737,7 @@
    "properties": {
     "name": "8 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437743",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720969368"
    }
@@ -65703,7 +65754,7 @@
    "properties": {
     "name": "6 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192438158",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720969670"
    }
@@ -65737,7 +65788,7 @@
    "properties": {
     "name": "9 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437552",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970046"
    }
@@ -65754,7 +65805,7 @@
    "properties": {
     "name": "4 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437935",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970142"
    }
@@ -65771,7 +65822,7 @@
    "properties": {
     "name": "16 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437575",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970219"
    }
@@ -65788,7 +65839,7 @@
    "properties": {
     "name": "15 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437523",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970397"
    }
@@ -65805,7 +65856,7 @@
    "properties": {
     "name": "20 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437704",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970673"
    }
@@ -65822,7 +65873,7 @@
    "properties": {
     "name": "22 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437715",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970695"
    }
@@ -65839,7 +65890,7 @@
    "properties": {
     "name": "2 TIMBERTOP BOULEVARD WONTHAGGI 3995",
     "locID": "LOC000192437484",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970809"
    }
@@ -65856,7 +65907,7 @@
    "properties": {
     "name": "45 MCGIBBONYS ROAD WONTHAGGI 3995",
     "locID": "LOC000192437974",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720970948"
    }
@@ -65873,7 +65924,7 @@
    "properties": {
     "name": "24 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "LOC000192437727",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720971199"
    }
@@ -65890,7 +65941,7 @@
    "properties": {
     "name": "41 MCGIBBONYS ROAD WONTHAGGI 3995",
     "locID": "LOC000192437990",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720971235"
    }
@@ -65907,7 +65958,7 @@
    "properties": {
     "name": "14 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437394",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720971314"
    }
@@ -65924,7 +65975,7 @@
    "properties": {
     "name": "24 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437445",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720971870"
    }
@@ -65941,7 +65992,7 @@
    "properties": {
     "name": "20 BLOWER STREET WONTHAGGI 3995",
     "locID": "LOC000192437421",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720971894"
    }
@@ -65958,7 +66009,7 @@
    "properties": {
     "name": "1 ONSETTER DRIVE WONTHAGGI 3995",
     "locID": "LOC000192438191",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721019372"
    }
@@ -66104,6 +66155,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.58810207,
+     -38.61543671
+    ]
+   },
+   "properties": {
+    "name": "87B BROOME CRESCENT WONTHAGGI 3995",
+    "locID": "ChIJqSOOc5kMKmsRx9-3GDVFNew",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721023350"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.61276425,
      -38.59846728
     ]
@@ -66111,7 +66179,7 @@
    "properties": {
     "name": "2 ONSETTER DRIVE WONTHAGGI 3995",
     "locID": "LOC000192437864",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721023609"
    }
@@ -66213,7 +66281,7 @@
    "properties": {
     "name": "4 ONSETTER DRIVE WONTHAGGI 3995",
     "locID": "LOC000192437855",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721030161"
    }
@@ -66230,7 +66298,7 @@
    "properties": {
     "name": "3 ONSETTER DRIVE WONTHAGGI 3995",
     "locID": "LOC000192438189",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721031714"
    }
@@ -66604,7 +66672,7 @@
    "properties": {
     "name": "13 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437631",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721086553"
    }
@@ -66621,7 +66689,7 @@
    "properties": {
     "name": "15 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437620",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721086914"
    }
@@ -66655,7 +66723,7 @@
    "properties": {
     "name": "1 HUMMINGBIRD DRIVE WONTHAGGI 3995",
     "locID": "LOC000192437872",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721088367"
    }
@@ -66672,7 +66740,7 @@
    "properties": {
     "name": "8 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437608",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721089167"
    }
@@ -66689,7 +66757,7 @@
    "properties": {
     "name": "2 HUMMINGBIRD DRIVE WONTHAGGI 3995",
     "locID": "LOC000192437886",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721089405"
    }
@@ -66740,7 +66808,7 @@
    "properties": {
     "name": "9 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437654",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721090618"
    }
@@ -66774,7 +66842,7 @@
    "properties": {
     "name": "10 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437612",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721093114"
    }
@@ -66791,7 +66859,7 @@
    "properties": {
     "name": "11 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437649",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721094413"
    }
@@ -66808,7 +66876,7 @@
    "properties": {
     "name": "3 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437677",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721095298"
    }
@@ -66927,7 +66995,7 @@
    "properties": {
     "name": "5 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437665",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721099551"
    }
@@ -66944,7 +67012,7 @@
    "properties": {
     "name": "21 JENKIN AVENUE WONTHAGGI 3995",
     "locID": "ChIJv6F-eE8MKmsRae5RCV9T8yU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721101999"
    }
@@ -66961,7 +67029,7 @@
    "properties": {
     "name": "1 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437683",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721103161"
    }
@@ -66995,7 +67063,7 @@
    "properties": {
     "name": "4 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437599",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721104216"
    }
@@ -67029,7 +67097,7 @@
    "properties": {
     "name": "2 BOTTLE TREE ROAD WONTHAGGI 3995",
     "locID": "LOC000192437581",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721104943"
    }
@@ -68338,7 +68406,7 @@
    "properties": {
     "name": "4 BALBOA CLOSE WONTHAGGI 3995",
     "locID": "LOC000192437840",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721164394"
    }
@@ -68780,7 +68848,7 @@
    "properties": {
     "name": "2 BALBOA CLOSE WONTHAGGI 3995",
     "locID": "LOC000192437838",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721168563"
    }
@@ -69171,7 +69239,7 @@
    "properties": {
     "name": "5 HUMMINGBIRD DRIVE WONTHAGGI 3995",
     "locID": "LOC000192437872",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721216519"
    }

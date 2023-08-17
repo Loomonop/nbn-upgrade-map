@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T03:31:18.670822",
+ "generated": "2023-08-17T04:44:37.355666",
  "suburb": "BRIGHTON",
  "features": [
   {
@@ -2123,8 +2123,8 @@
    "properties": {
     "name": "8 BEMLENA PLACE BRIGHTON 7030",
     "locID": "LOC000056630916",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702199932"
    }
   },
@@ -5183,8 +5183,8 @@
    "properties": {
     "name": "7 ERIN CLOSE BRIGHTON 7030",
     "locID": "LOC000082625721",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702246866"
    }
   },
@@ -6713,8 +6713,8 @@
    "properties": {
     "name": "23 JUBILEE AVENUE BRIGHTON 7030",
     "locID": "LOC000095072633",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702275324"
    }
   },
@@ -9807,8 +9807,8 @@
    "properties": {
     "name": "17 SEYMOUR STREET BRIGHTON 7030",
     "locID": "LOC000048432608",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702324087"
    }
   },
@@ -11748,6 +11748,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702358340"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.27374093,
+     -42.69784125
+    ]
+   },
+   "properties": {
+    "name": "230 TEA TREE ROAD BRIGHTON 7030",
+    "locID": "LOC000193544991",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702358342"
    }
   },
   {
@@ -14349,6 +14366,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702405312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.25503905,
+     -42.70326925
+    ]
+   },
+   "properties": {
+    "name": "38 WILLIAM STREET BRIGHTON 7030",
+    "locID": "ChIJwzpyhbARbqoRTLkn664L_nU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS702405313"
    }
   },
   {
@@ -32444,6 +32478,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.24328535,
+     -42.70015282
+    ]
+   },
+   "properties": {
+    "name": "15 BURROWS AVENUE BRIGHTON 7030",
+    "locID": "ChIJJzK0G6YRbqoRv6BtRUUWymE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS718752472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.24375194,
      -42.69898267
     ]
@@ -32845,6 +32896,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718752497"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.23800863,
+     -42.69897166
+    ]
+   },
+   "properties": {
+    "name": "47 BURROWS AVENUE BRIGHTON 7030",
+    "locID": "ChIJwfw1AwgRbqoRvKk4pdi7pF8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS718752498"
    }
   },
   {
@@ -33760,8 +33828,8 @@
    "properties": {
     "name": "47 MENIN DRIVE BRIGHTON 7030",
     "locID": "LOC000144596983",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718752963"
    }
   },
@@ -35443,8 +35511,8 @@
    "properties": {
     "name": "30 FREDRICK DRIVE BRIGHTON 7030",
     "locID": "LOC000078413477",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS718875158"
    }
   },
