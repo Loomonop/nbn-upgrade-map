@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T09:48:06.523642",
+ "generated": "2023-08-17T11:43:44.958014",
  "suburb": "WAURN PONDS",
  "features": [
   {
@@ -4775,8 +4775,8 @@
    "properties": {
     "name": "4 DEAKINWOOD COURT WAURN PONDS 3216",
     "locID": "LOC000004829571",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420270303"
    }
   },
@@ -8617,8 +8617,8 @@
    "properties": {
     "name": "31 IRONBARK STREET WAURN PONDS 3216",
     "locID": "LOC000081333263",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421262406"
    }
   },
@@ -9808,7 +9808,7 @@
     "name": "74 ROSSACK DRIVE WAURN PONDS 3216",
     "locID": "LOC000091500001",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421541238"
    }
   },
@@ -13037,8 +13037,8 @@
    "properties": {
     "name": "15-16 BAROSSA COURT WAURN PONDS 3216",
     "locID": "LOC000014363595",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC422276296"
    }
   },
@@ -18953,8 +18953,8 @@
    "properties": {
     "name": "16 BAROSSA COURT WAURN PONDS 3216",
     "locID": "LOC000014363595",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423846421"
    }
   },
@@ -23526,8 +23526,8 @@
    "properties": {
     "name": "144 ROSSACK DRIVE WAURN PONDS 3216",
     "locID": "LOC000114220957",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424721384"
    }
   },
@@ -24719,6 +24719,40 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425030614"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.25485266,
+     -38.22435735
+    ]
+   },
+   "properties": {
+    "name": "105 DRAYTON ROAD WAURN PONDS 3216",
+    "locID": "EjMxMDUgV2F1cm4gUG9uZHMgRHIsIFdhdXJuIFBvbmRzIFZJQyAzMjE2LCBBdXN0cmFsaWEiMBIuChQKEglL4G2hO23UahFMeeGj59Bw3hBpKhQKEgmHiI1oQG3UahFHeTKrM4uuHQ",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425042571"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.25436127,
+     -38.21798629
+    ]
+   },
+   "properties": {
+    "name": "445 DRAYTON ROAD WAURN PONDS 3216",
+    "locID": "EjM0NDUgV2F1cm4gUG9uZHMgRHIsIFdhdXJuIFBvbmRzIFZJQyAzMjE2LCBBdXN0cmFsaWEiMRIvChQKEgnP0_FzZG3UahH560T9F79MAxC9AyoUChIJh4iNaEBt1GoRR3kyqzOLrh0",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425042572"
    }
   },
   {

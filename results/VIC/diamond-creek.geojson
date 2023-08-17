@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T10:41:13.226495",
+ "generated": "2023-08-17T12:33:02.781509",
  "suburb": "DIAMOND CREEK",
  "features": [
   {
@@ -6322,8 +6322,8 @@
    "properties": {
     "name": "130 REYNOLDS ROAD DIAMOND CREEK 3089",
     "locID": "LOC000046603861",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411256134"
    }
   },
@@ -11391,6 +11391,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419808037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.146544,
+     -37.670556
+    ]
+   },
+   "properties": {
+    "name": "74 CLYDE STREET DIAMOND CREEK 3089",
+    "locID": "LOC000193492509",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419808038"
    }
   },
   {
@@ -62711,8 +62728,8 @@
    "properties": {
     "name": "165 BISHOP AVENUE DIAMOND CREEK 3089",
     "locID": "LOC000041114864",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC422277997"
    }
   },
@@ -81173,8 +81190,8 @@
    "properties": {
     "name": "130 ORME ROAD DIAMOND CREEK 3089",
     "locID": "LOC000046603861",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425422580"
    }
   },
