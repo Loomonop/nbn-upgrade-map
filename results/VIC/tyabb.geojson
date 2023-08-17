@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T18:17:36.115137",
+ "generated": "2023-08-17T19:25:44.663153",
  "suburb": "TYABB",
  "features": [
   {
@@ -1021,6 +1021,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC412548014"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.18978361,
+     -38.26807764
+    ]
+   },
+   "properties": {
+    "name": "1495 FRANKSTON-FLINDERS ROAD TYABB 3913",
+    "locID": "ChIJ27EgXiTh1WoRfYIFVtEv5_4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC412548015"
    }
   },
   {
@@ -3773,7 +3790,7 @@
     "name": "57 DELEPAN DRIVE TYABB 3913",
     "locID": "LOC000058356088",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419852085"
    }
   },
@@ -5167,7 +5184,7 @@
     "name": "10 CENTRAL AVENUE TYABB 3913",
     "locID": "LOC000032087178",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419879111"
    }
   },
@@ -6918,7 +6935,7 @@
     "name": "6 SATU CRESCENT TYABB 3913",
     "locID": "LOC000016057238",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420160582"
    }
   },
@@ -9077,7 +9094,7 @@
     "name": "43 THE CRESCENT TYABB 3913",
     "locID": "LOC000045276980",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420462526"
    }
   },
@@ -10334,8 +10351,8 @@
    "properties": {
     "name": "25 CRAIG AVENUE TYABB 3913",
     "locID": "LOC000039521038",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420513279"
    }
   },
@@ -11252,7 +11269,7 @@
    "properties": {
     "name": "4 PEACOCK ROAD TYABB 3913",
     "locID": "LOC000048589343",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420759260"
    }
@@ -18103,7 +18120,7 @@
    "properties": {
     "name": "2 PEACOCK ROAD TYABB 3913",
     "locID": "LOC000049094703",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421554853"
    }
@@ -18698,8 +18715,8 @@
    "properties": {
     "name": "29 THE CRESCENT TYABB 3913",
     "locID": "LOC000102623992",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421676961"
    }
   },
@@ -21061,8 +21078,8 @@
    "properties": {
     "name": "7 BANKSIA CRESCENT TYABB 3913",
     "locID": "LOC000054376525",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423131921"
    }
   },
@@ -21214,7 +21231,7 @@
    "properties": {
     "name": "UNIT 1, 4 PEACOCK ROAD TYABB 3913",
     "locID": "LOC000049301996",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423386674"
    }
@@ -21231,7 +21248,7 @@
    "properties": {
     "name": "UNIT 2, 4 PEACOCK ROAD TYABB 3913",
     "locID": "LOC000049094703",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423386675"
    }
@@ -21248,7 +21265,7 @@
    "properties": {
     "name": "UNIT 3, 4 PEACOCK ROAD TYABB 3913",
     "locID": "LOC000048589343",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423386676"
    }
@@ -21265,7 +21282,7 @@
    "properties": {
     "name": "UNIT 4, 4 PEACOCK ROAD TYABB 3913",
     "locID": "LOC000048589343",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423386677"
    }
@@ -21282,7 +21299,7 @@
    "properties": {
     "name": "UNIT 5, 4 PEACOCK ROAD TYABB 3913",
     "locID": "LOC000048912139",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423386678"
    }
@@ -24308,8 +24325,8 @@
    "properties": {
     "name": "23 KATHLEEN CRESCENT TYABB 3913",
     "locID": "LOC000042752853",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424028906"
    }
   },
@@ -24734,7 +24751,7 @@
     "name": "32 ORCHARD GROVE TYABB 3913",
     "locID": "LOC000056324472",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424033133"
    }
   },
