@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T21:56:13.451915",
+ "generated": "2023-08-17T23:03:52.766480",
  "suburb": "GYMPIE",
  "features": [
   {
@@ -7938,7 +7938,7 @@
     "name": "21 COOTHARABA ROAD GYMPIE 4570",
     "locID": "LOC000106956149",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155362625"
    }
   },
@@ -37772,8 +37772,8 @@
    "properties": {
     "name": "39 PARSONS ROAD GYMPIE 4570",
     "locID": "LOC000037517562",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156628331"
    }
   },
@@ -97894,6 +97894,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.67460497,
+     -26.17002439
+    ]
+   },
+   "properties": {
+    "name": "LOT 57 BANKS POCKET ROAD GYMPIE 4570",
+    "locID": "Ei41NyBCYW5rcyBQb2NrZXQgUmQsIEd5bXBpZSBRTEQgNDU3MCwgQXVzdHJhbGlhIjASLgoUChIJGYFXAoOklGsRUrSU02jHEM4QOSoUChIJiZA3_4SklGsRSwxpJzzuSCU",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162653234"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.65021054,
      -26.16864393
     ]
@@ -107285,8 +107302,8 @@
    "properties": {
     "name": "104A RIFLE RANGE ROAD GYMPIE 4570",
     "locID": "LOC000128514281",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD424849446"
    }
   },
