@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T15:34:38.705070",
+ "generated": "2023-08-17T16:46:05.677522",
  "suburb": "BURNSIDE",
  "features": [
   {
@@ -1307,8 +1307,8 @@
    "properties": {
     "name": "11 NIEWAND AVENUE BURNSIDE 3023",
     "locID": "LOC000038878887",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419710323"
    }
   },
@@ -4367,8 +4367,8 @@
    "properties": {
     "name": "25 PILBARA AVENUE BURNSIDE 3023",
     "locID": "LOC000008025377",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420023711"
    }
   },
@@ -12816,8 +12816,8 @@
    "properties": {
     "name": "13 STRICKLAND CRESCENT BURNSIDE 3023",
     "locID": "LOC000094988471",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420931800"
    }
   },
@@ -15961,8 +15961,8 @@
    "properties": {
     "name": "3 BILLABONG COURT BURNSIDE 3023",
     "locID": "LOC000024213629",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421261706"
    }
   },
@@ -16794,8 +16794,8 @@
    "properties": {
     "name": "10 LANDY COURT BURNSIDE 3023",
     "locID": "LOC000106510111",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421422164"
    }
   },
@@ -19089,8 +19089,8 @@
    "properties": {
     "name": "5 RILEY COURT BURNSIDE 3023",
     "locID": "LOC000081785484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421583079"
    }
   },
@@ -29469,6 +29469,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.75595681,
+     -37.75524254
+    ]
+   },
+   "properties": {
+    "name": "8-64 TOROWATTA PLACE BURNSIDE 3023",
+    "locID": "ChIJwXLTbjH11moRVSiXeMQpUFc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425529572"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.75460732,
      -37.76083259
     ]
@@ -39356,6 +39373,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720955186"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.75738742,
+     -37.74098743
+    ]
+   },
+   "properties": {
+    "name": "68 MONTMARTE BOULEVARD BURNSIDE 3023",
+    "locID": "ChIJ-zildhb11moR0sfPd9cpjuI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720956099"
    }
   },
   {
