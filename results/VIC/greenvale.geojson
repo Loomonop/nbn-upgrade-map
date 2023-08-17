@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T06:03:26.112687",
+ "generated": "2023-08-17T07:03:53.024716",
  "suburb": "GREENVALE",
  "features": [
   {
@@ -7427,8 +7427,8 @@
    "properties": {
     "name": "4 CUPAR PLACE GREENVALE 3059",
     "locID": "LOC000063799146",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419627488"
    }
   },
@@ -7699,8 +7699,8 @@
    "properties": {
     "name": "41 HERMITAGE DRIVE GREENVALE 3059",
     "locID": "LOC000020434830",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419627754"
    }
   },
@@ -9110,8 +9110,8 @@
    "properties": {
     "name": "41B SIMMINGTON CIRCUIT GREENVALE 3059",
     "locID": "LOC000092377277",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419632806"
    }
   },
@@ -11338,7 +11338,7 @@
     "name": "22B CLIFTON ROAD GREENVALE 3059",
     "locID": "LOC000094066441",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419851418"
    }
   },
@@ -12375,7 +12375,7 @@
     "name": "23 BERWICK PLACE GREENVALE 3059",
     "locID": "LOC000030103135",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419922240"
    }
   },
@@ -14092,7 +14092,7 @@
     "name": "58 HEVERSHAM GROVE GREENVALE 3059",
     "locID": "LOC000038142071",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419929306"
    }
   },
@@ -20909,7 +20909,7 @@
     "name": "3 SAINSBURY COURT GREENVALE 3059",
     "locID": "LOC000011132854",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420220937"
    }
   },
@@ -30989,8 +30989,8 @@
    "properties": {
     "name": "119 DUNFERMLINE AVENUE GREENVALE 3059",
     "locID": "LOC000104234163",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420626891"
    }
   },
@@ -35324,8 +35324,8 @@
    "properties": {
     "name": "5 DUFTON COURT GREENVALE 3059",
     "locID": "LOC000044695022",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420839465"
    }
   },
@@ -37007,8 +37007,8 @@
    "properties": {
     "name": "13 MOTHERWELL AVENUE GREENVALE 3059",
     "locID": "LOC000095254066",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420848572"
    }
   },
@@ -40917,8 +40917,8 @@
    "properties": {
     "name": "4 LYTHAM COURT GREENVALE 3059",
     "locID": "LOC000041185102",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421129356"
    }
   },
@@ -41039,6 +41039,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421131238"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.884697,
+     -37.651162
+    ]
+   },
+   "properties": {
+    "name": "18 QUEENSFERRY PLACE GREENVALE 3059",
+    "locID": "LOC000193288658",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421131239"
    }
   },
   {
@@ -43519,7 +43536,7 @@
     "name": "13 URQUHART COURT GREENVALE 3059",
     "locID": "LOC000007710919",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421147218"
    }
   },
@@ -45933,7 +45950,7 @@
     "name": "6 MCCALLUM COURT GREENVALE 3059",
     "locID": "LOC000038877907",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421386836"
    }
   },
@@ -49502,8 +49519,8 @@
    "properties": {
     "name": "3 CLIVEDEN COURT GREENVALE 3059",
     "locID": "LOC000088721520",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421460708"
    }
   },
@@ -50770,6 +50787,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.88549622,
+     -37.64063896
+    ]
+   },
+   "properties": {
+    "name": "10 BRADFORD AVENUE GREENVALE 3059",
+    "locID": "LOC000193309387",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421473806"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.905584,
      -37.656897
     ]
@@ -51117,8 +51151,8 @@
    "properties": {
     "name": "36 SIMMINGTON CIRCUIT GREENVALE 3059",
     "locID": "LOC000006134796",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421474839"
    }
   },
@@ -56354,7 +56388,7 @@
     "name": "13 MARLEYBOURNE COURT GREENVALE 3059",
     "locID": "LOC000016845059",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421753070"
    }
   },
@@ -64700,8 +64734,8 @@
    "properties": {
     "name": "23 BEECHWORTH AVENUE GREENVALE 3059",
     "locID": "LOC000037938909",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423787470"
    }
   },
@@ -64853,8 +64887,8 @@
    "properties": {
     "name": "31 BEECHWORTH AVENUE GREENVALE 3059",
     "locID": "LOC000023055755",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423787479"
    }
   },
@@ -65075,7 +65109,7 @@
     "name": "11 CANDLEBARK DRIVE GREENVALE 3059",
     "locID": "LOC000076408091",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423788662"
    }
   },
@@ -65295,8 +65329,8 @@
    "properties": {
     "name": "24 CANDLEBARK DRIVE GREENVALE 3059",
     "locID": "LOC000042489425",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423788675"
    }
   },
@@ -66502,8 +66536,8 @@
    "properties": {
     "name": "35 SERENDIP CRESCENT GREENVALE 3059",
     "locID": "LOC000003660199",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423799131"
    }
   },
@@ -68678,8 +68712,8 @@
    "properties": {
     "name": "59 SERENDIP CRESCENT GREENVALE 3059",
     "locID": "LOC000029750437",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423930502"
    }
   },
@@ -69596,8 +69630,8 @@
    "properties": {
     "name": "44 CANDLEBARK DRIVE GREENVALE 3059",
     "locID": "LOC000080561989",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424079052"
    }
   },
@@ -81761,6 +81795,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.89210921,
+     -37.62641026
+    ]
+   },
+   "properties": {
+    "name": "70 POSITANO GROVE GREENVALE 3059",
+    "locID": "EjA3MCBQb3NpdGFubyBHcm92ZSwgR3JlZW52YWxlIFZJQyAzMDU5LCBBdXN0cmFsaWEiMBIuChQKEgmbXjdP3FDWahECNzCwEt0lCBBGKhQKEgmdh4mA21DWahHzN_BreeZhJw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC424970586"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.87571645,
      -37.62086057
     ]
@@ -87303,6 +87354,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.87701936,
+     -37.62446211
+    ]
+   },
+   "properties": {
+    "name": "11 IRIS GROVE GREENVALE 3059",
+    "locID": "ChIJUxpNis1Q1moRTa_wwFntLbI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425314197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.87684438,
      -37.62444072
     ]
@@ -87568,6 +87636,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425318344"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.87677715,
+     -37.62488466
+    ]
+   },
+   "properties": {
+    "name": "14 POSY STREET GREENVALE 3059",
+    "locID": "ChIJy6Bqjs1Q1moRyaF5klSBCmM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC425318345"
    }
   },
   {
@@ -119076,6 +119161,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.910483,
+     -37.61934366
+    ]
+   },
+   "properties": {
+    "name": "12 NAVIGATION ROAD GREENVALE 3059",
+    "locID": "ChIJBXtjywVR1moRlRHmeWZzcKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719788790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.90987719,
      -37.61871903
     ]
@@ -132023,6 +132125,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720141650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.90724987,
+     -37.61488262
+    ]
+   },
+   "properties": {
+    "name": "13 DIRECTIONS DRIVE GREENVALE 3059",
+    "locID": "ChIJuTGr6w9R1moRFHpGCnxioEE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720141700"
    }
   },
   {
@@ -147330,6 +147449,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.90348407,
+     -37.61205383
+    ]
+   },
+   "properties": {
+    "name": "27 ASTRONOMY STREET GREENVALE 3059",
+    "locID": "ChIJT-Y-qhFR1moRwSFNk0yog30",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720573812"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.9042862,
      -37.61185289
     ]
@@ -147772,6 +147908,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.90388011,
+     -37.61170042
+    ]
+   },
+   "properties": {
+    "name": "30 ASTRONOMY STREET GREENVALE 3059",
+    "locID": "ChIJYZKrpRFR1moRqkOIkF5Goi0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720580443"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.8795249,
      -37.63881371
     ]
@@ -147799,6 +147952,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720580904"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.90389256,
+     -37.61156564
+    ]
+   },
+   "properties": {
+    "name": "32 ASTRONOMY STREET GREENVALE 3059",
+    "locID": "ChIJ2dx9pBFR1moRZjk7sBpPFgE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720581314"
    }
   },
   {
@@ -147884,6 +148054,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720582900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.90342493,
+     -37.61269404
+    ]
+   },
+   "properties": {
+    "name": "17 ASTRONOMY STREET GREENVALE 3059",
+    "locID": "ChIJM4GC-BBR1moRcy0x0rUIPek",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720583142"
    }
   },
   {
@@ -149737,6 +149924,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720750281"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.90084438,
+     -37.61043943
+    ]
+   },
+   "properties": {
+    "name": "15 HUBBLE DRIVE GREENVALE 3059",
+    "locID": "ChIJdTxDNBFR1moRsCJIXKIdrD4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720750390"
    }
   },
   {
@@ -158567,6 +158771,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.88521845,
+     -37.6332703
+    ]
+   },
+   "properties": {
+    "name": "100 MALKARI CIRCUIT GREENVALE 3059",
+    "locID": "ChIJiyS3PsZQ1moRpgkGKtJf3s4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720966954"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.88248435,
      -37.63290219
     ]
@@ -160260,6 +160481,40 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721023659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.87045306,
+     -37.64721186
+    ]
+   },
+   "properties": {
+    "name": "11A MERVYN DRIVE GREENVALE 3059",
+    "locID": "ChIJzfu_91RX1moRXTV5hYrMNxw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721023959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.87222493,
+     -37.64727039
+    ]
+   },
+   "properties": {
+    "name": "10 ELISE STREET GREENVALE 3059",
+    "locID": "ChIJ1ZyFuFRX1moRGJeGn4BLoxk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721024448"
    }
   },
   {
@@ -162538,6 +162793,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721154645"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.88645463,
+     -37.65873974
+    ]
+   },
+   "properties": {
+    "name": "5 MACKAY STREET GREENVALE 3059",
+    "locID": "ChIJF7Fn5Aha1moR8zGV5BQtBec",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721155506"
    }
   },
   {
