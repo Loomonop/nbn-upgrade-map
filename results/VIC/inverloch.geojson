@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T19:38:43.558459",
+ "generated": "2023-08-17T20:41:27.455333",
  "suburb": "INVERLOCH",
  "features": [
   {
@@ -10131,7 +10131,7 @@
     "name": "UNIT 2, 23 ABECKETT STREET INVERLOCH 3996",
     "locID": "LOC000030238068",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419752265"
    }
   },
@@ -10453,8 +10453,8 @@
    "properties": {
     "name": "84 RIPPLE DRIVE INVERLOCH 3996",
     "locID": "LOC000021870018",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419755097"
    }
   },
@@ -11831,7 +11831,7 @@
     "name": "37 PYMBLE AVENUE INVERLOCH 3996",
     "locID": "LOC000105972084",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420037529"
    }
   },
@@ -13837,7 +13837,7 @@
     "name": "UNIT 3, 23 ABECKETT STREET INVERLOCH 3996",
     "locID": "LOC000030238068",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420049575"
    }
   },
@@ -30003,8 +30003,8 @@
    "properties": {
     "name": "29 ANDERSON AVENUE INVERLOCH 3996",
     "locID": "LOC000079065020",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420663282"
    }
   },
@@ -31976,7 +31976,7 @@
     "name": "23 ABECKETT STREET INVERLOCH 3996",
     "locID": "LOC000030238068",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420723339"
    }
   },
@@ -36242,8 +36242,8 @@
    "properties": {
     "name": "98 LOHR AVENUE INVERLOCH 3996",
     "locID": "LOC000040239914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420956422"
    }
   },
@@ -38724,8 +38724,8 @@
    "properties": {
     "name": "107 BAYVIEW AVENUE INVERLOCH 3996",
     "locID": "LOC000013486666",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420964447"
    }
   },
@@ -59226,8 +59226,8 @@
    "properties": {
     "name": "23 BAYVIEW AVENUE INVERLOCH 3996",
     "locID": "LOC000102039038",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421884624"
    }
   },
@@ -59720,7 +59720,7 @@
     "name": "UNIT 1, 23 ABECKETT STREET INVERLOCH 3996",
     "locID": "LOC000030238068",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421929684"
    }
   },
@@ -70701,7 +70701,7 @@
    "properties": {
     "name": "55 ULLATHORNES ROAD INVERLOCH 3996",
     "locID": "ChIJf6TJBlISKmsRd9pTO6hMpNk",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423772602"
    }
@@ -73983,7 +73983,7 @@
     "name": "1 CASSINIA STREET INVERLOCH 3996",
     "locID": "LOC000039587207",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424235861"
    }
   },
@@ -78419,8 +78419,8 @@
    "properties": {
     "name": "5A PIER ROAD INVERLOCH 3996",
     "locID": "LOC000028891953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424544065"
    }
   },
@@ -97666,6 +97666,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720910910"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.63201588,
+     -38.62886366
+    ]
+   },
+   "properties": {
+    "name": "183 BOUNDARY ROAD INVERLOCH 3996",
+    "locID": "ChIJhV-d2RsNKmsRXxyOZY0mE8o",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720915292"
    }
   },
   {
