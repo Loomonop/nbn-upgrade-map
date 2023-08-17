@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T18:23:24.956859",
+ "generated": "2023-08-17T19:36:02.084327",
  "suburb": "WHITTLESEA",
  "features": [
   {
@@ -11422,8 +11422,8 @@
    "properties": {
     "name": "6 PLOVER WAY WHITTLESEA 3757",
     "locID": "LOC000080399266",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420352582"
    }
   },
@@ -15920,6 +15920,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.120056,
+     -37.511322
+    ]
+   },
+   "properties": {
+    "name": "33 BEECH STREET WHITTLESEA 3757",
+    "locID": "LOC000193440967",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420820585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.13033294,
      -37.5142485
     ]
@@ -18766,8 +18783,8 @@
    "properties": {
     "name": "42-44 BLACK FLAT ROAD WHITTLESEA 3757",
     "locID": "LOC000125131821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420965727"
    }
   },
@@ -18902,8 +18919,8 @@
    "properties": {
     "name": "10 PLOVER WAY WHITTLESEA 3757",
     "locID": "LOC000003499465",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420976348"
    }
   },
@@ -30207,8 +30224,8 @@
    "properties": {
     "name": "3 MOPOKE MEWS WHITTLESEA 3757",
     "locID": "LOC000091367517",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422172923"
    }
   },
@@ -41131,6 +41148,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.14235818,
+     -37.50182212
+    ]
+   },
+   "properties": {
+    "name": "205 WHITTLESEA-YEA ROAD WHITTLESEA 3757",
+    "locID": "EjUyMDUgV2hpdHRsZXNlYS1ZZWEgUmQsIFdoaXR0bGVzZWEgVklDIDM3NTcsIEF1c3RyYWxpYSIxEi8KFAoSCYEVp87jyddqEf3iu8eEvB7_EM0BKhQKEgn_nkNUkcLXahHgNkp7hwopWA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC424899288"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.10994522,
      -37.50250187
     ]
@@ -42175,8 +42209,8 @@
    "properties": {
     "name": "26 KING PARROT WAY WHITTLESEA 3757",
     "locID": "LOC000125177838",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425019959"
    }
   },

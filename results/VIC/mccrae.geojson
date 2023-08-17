@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T18:57:09.551693",
+ "generated": "2023-08-17T20:01:16.354714",
  "suburb": "MCCRAE",
  "features": [
   {
@@ -5677,7 +5677,7 @@
     "name": "38 BURRELL STREET MCCRAE 3938",
     "locID": "LOC000062619263",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419762267"
    }
   },
@@ -11007,6 +11007,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.922557,
+     -38.357029
+    ]
+   },
+   "properties": {
+    "name": "20 WATTLE ROAD MCCRAE 3938",
+    "locID": "LOC000193468638",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420130394"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.923107,
      -38.35302
     ]
@@ -11626,8 +11643,8 @@
    "properties": {
     "name": "2 ALEXANDER PARADE MCCRAE 3938",
     "locID": "LOC000019398678",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420141179"
    }
   },
@@ -12018,7 +12035,7 @@
     "name": "16 BEVERLEY ROAD MCCRAE 3938",
     "locID": "LOC000061862175",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420145951"
    }
   },
@@ -12748,8 +12765,8 @@
    "properties": {
     "name": "32 CAIRN ROAD MCCRAE 3938",
     "locID": "LOC000027048364",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420151461"
    }
   },
@@ -15349,8 +15366,8 @@
    "properties": {
     "name": "81 FLINDERS STREET MCCRAE 3938",
     "locID": "LOC000031990749",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420434105"
    }
   },
@@ -32196,8 +32213,8 @@
    "properties": {
     "name": "69 ARTHURS AVENUE MCCRAE 3938",
     "locID": "LOC000050125429",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421379109"
    }
   },
@@ -32825,8 +32842,8 @@
    "properties": {
     "name": "29 HIGHFIELD ROAD MCCRAE 3938",
     "locID": "LOC000076790428",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421483725"
    }
   },
@@ -47329,6 +47346,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721103374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.92254551,
+     -38.35700627
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 20 WATTLE ROAD MCCRAE 3938",
+    "locID": "LOC000193468638",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721211922"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.92222971,
+     -38.35706243
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 20 WATTLE ROAD MCCRAE 3938",
+    "locID": "LOC000193468638",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721214113"
    }
   },
   {
