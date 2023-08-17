@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T21:21:34.432565",
+ "generated": "2023-08-17T22:25:53.675371",
  "suburb": "WYNNUM WEST",
  "features": [
   {
@@ -9502,7 +9502,7 @@
     "name": "7 MACADAMIA STREET WYNNUM WEST 4178",
     "locID": "LOC000049798441",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156004226"
    }
   },
@@ -83359,6 +83359,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.15440775,
+     -27.4552608
+    ]
+   },
+   "properties": {
+    "name": "1929 WYNNUM ROAD WYNNUM WEST 4178",
+    "locID": "Ei8xOTI5IFd5bm51bSBSZCwgV3lubnVtIFdlc3QgUUxEIDQxNzgsIEF1c3RyYWxpYSIxEi8KFAoSCUHwYiX3XpFrEQpBWzrsMhhgEIkPKhQKEglR6ZgSNVmRaxGYCpWXb39jsg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161802388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.15339424,
      -27.45754877
     ]
@@ -87021,8 +87038,8 @@
    "properties": {
     "name": "43 JESSIELEA STREET WYNNUM WEST 4178",
     "locID": "LOC000072879691",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163035387"
    }
   },
