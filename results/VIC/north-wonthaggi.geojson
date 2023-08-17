@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T07:28:31.052273",
+ "generated": "2023-08-17T08:35:00.916595",
  "suburb": "NORTH WONTHAGGI",
  "features": [
   {
@@ -695,8 +695,8 @@
    "properties": {
     "name": "7 WALLACE STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000011866176",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC412060274"
    }
   },
@@ -1834,8 +1834,8 @@
    "properties": {
     "name": "9 MARY STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000030901878",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419729917"
    }
   },
@@ -1936,8 +1936,8 @@
    "properties": {
     "name": "45 LYNDHURST STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000102493736",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419731529"
    }
   },
@@ -2464,7 +2464,7 @@
     "name": "7 OXFORD WAY NORTH WONTHAGGI 3995",
     "locID": "LOC000067604866",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419742782"
    }
   },
@@ -4045,7 +4045,7 @@
     "name": "30 KIRRAK STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000046286180",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420052121"
    }
   },
@@ -6237,8 +6237,8 @@
    "properties": {
     "name": "1 MARY STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000042756809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420345574"
    }
   },
@@ -13615,8 +13615,8 @@
    "properties": {
     "name": "63 OATES ROAD NORTH WONTHAGGI 3995",
     "locID": "LOC000005285168",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421561153"
    }
   },
@@ -14305,6 +14305,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.57767334,
+     -38.58595495
+    ]
+   },
+   "properties": {
+    "name": "328 WHITE ROAD NORTH WONTHAGGI 3995",
+    "locID": "ChIJ1_cnV4gLKmsRKiV1ikb6A_0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421584823"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.59846988,
      -38.59693511
     ]
@@ -14924,8 +14941,8 @@
    "properties": {
     "name": "56 TURNER STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000025936453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421837689"
    }
   },
@@ -14961,6 +14978,40 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421840449"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.57783585,
+     -38.58608151
+    ]
+   },
+   "properties": {
+    "name": "326 WHITE ROAD NORTH WONTHAGGI 3995",
+    "locID": "ChIJM3rsUIgLKmsRGo9EcMACGTk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421841046"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.5775143,
+     -38.58583109
+    ]
+   },
+   "properties": {
+    "name": "330 WHITE ROAD NORTH WONTHAGGI 3995",
+    "locID": "ChIJeddkVogLKmsRVnIdy55XW7c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421841048"
    }
   },
   {
@@ -15196,8 +15247,8 @@
    "properties": {
     "name": "8 FULLER ROAD NORTH WONTHAGGI 3995",
     "locID": "LOC000006792339",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421850614"
    }
   },
@@ -20127,7 +20178,7 @@
     "name": "47 KIRRAK STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000061980765",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424265652"
    }
   },
@@ -20739,7 +20790,7 @@
     "name": "62 TURNER STREET NORTH WONTHAGGI 3995",
     "locID": "LOC000002712682",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424507395"
    }
   },
@@ -34909,6 +34960,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.57777303,
+     -38.58603259
+    ]
+   },
+   "properties": {
+    "name": "326B WHITE ROAD NORTH WONTHAGGI 3995",
+    "locID": "ChIJM3rsUIgLKmsRGo9EcMACGTk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721217841"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.60255469,
      -38.59590775
     ]
@@ -34970,6 +35038,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721222207"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.57787057,
+     -38.58610855
+    ]
+   },
+   "properties": {
+    "name": "326A WHITE ROAD NORTH WONTHAGGI 3995",
+    "locID": "ChIJM3rsUIgLKmsRGo9EcMACGTk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721222546"
    }
   },
   {
