@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T11:29:36.375439",
+ "generated": "2023-08-17T13:19:58.990530",
  "suburb": "KILMORE",
  "features": [
   {
@@ -9451,7 +9451,7 @@
     "name": "31 KULIN DRIVE KILMORE 3764",
     "locID": "LOC000047238340",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420059379"
    }
   },
@@ -80442,8 +80442,8 @@
    "properties": {
     "name": "1 RUBY CLOSE KILMORE 3764",
     "locID": "LOC000125124330",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720360441"
    }
   },
@@ -80530,6 +80530,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720441716"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9346856,
+     -37.28788658
+    ]
+   },
+   "properties": {
+    "name": "17 GREENFIELDS AVENUE KILMORE 3764",
+    "locID": "ChIJYYECGmaj12oRAe5PdEjN5_c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720442200"
    }
   },
   {

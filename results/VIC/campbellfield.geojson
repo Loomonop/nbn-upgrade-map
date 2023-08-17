@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T11:36:59.403849",
+ "generated": "2023-08-17T13:26:36.622884",
  "suburb": "CAMPBELLFIELD",
  "features": [
   {
@@ -3297,7 +3297,7 @@
     "name": "34 THORNYCROFT STREET CAMPBELLFIELD 3061",
     "locID": "LOC000112866219",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC413071989"
    }
   },
@@ -14397,8 +14397,8 @@
    "properties": {
     "name": "500 MAHONEYS ROAD CAMPBELLFIELD 3061",
     "locID": "LOC000087487228",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419629001"
    }
   },
@@ -31033,6 +31033,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.96062,
+     -37.670452
+    ]
+   },
+   "properties": {
+    "name": "20 COLBERT ROAD CAMPBELLFIELD 3061",
+    "locID": "LOC000193501890",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420522916"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.960848,
      -37.66914
     ]
@@ -32026,8 +32043,8 @@
    "properties": {
     "name": "49 AUGUSTA AVENUE CAMPBELLFIELD 3061",
     "locID": "LOC000062036945",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420525604"
    }
   },
@@ -36549,7 +36566,7 @@
     "name": "13 BLACKWOOD CRESCENT CAMPBELLFIELD 3061",
     "locID": "LOC000055172997",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420811117"
    }
   },
@@ -36803,8 +36820,8 @@
    "properties": {
     "name": "28 MASON STREET CAMPBELLFIELD 3061",
     "locID": "LOC000057177484",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420815488"
    }
   },
@@ -47105,8 +47122,8 @@
    "properties": {
     "name": "4 CARLISLE COURT CAMPBELLFIELD 3061",
     "locID": "LOC000106346619",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421147252"
    }
   },
@@ -56642,8 +56659,8 @@
    "properties": {
     "name": "7 BRIGHT STREET CAMPBELLFIELD 3061",
     "locID": "LOC000069772882",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421729026"
    }
   },
@@ -60501,8 +60518,8 @@
    "properties": {
     "name": "10 COMO PLACE CAMPBELLFIELD 3061",
     "locID": "LOC000096650814",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421764070"
    }
   },
@@ -75479,7 +75496,7 @@
     "name": "29B PRODUCTION DRIVE CAMPBELLFIELD 3061",
     "locID": "LOC000090826841",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423406575"
    }
   },
