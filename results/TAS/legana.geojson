@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T05:07:30.584312",
+ "generated": "2023-08-17T06:02:41.849295",
  "suburb": "LEGANA",
  "features": [
   {
@@ -270,8 +270,8 @@
    "properties": {
     "name": "26 ACROPOLIS DRIVE LEGANA 7277",
     "locID": "LOC000003543940",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702181260"
    }
   },
@@ -1358,8 +1358,8 @@
    "properties": {
     "name": "42 BEACH ROAD LEGANA 7277",
     "locID": "LOC000054117195",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702197244"
    }
   },
@@ -7003,7 +7003,7 @@
     "name": "37 FULTON STREET LEGANA 7277",
     "locID": "LOC000088014809",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702253349"
    }
   },
@@ -8039,8 +8039,8 @@
    "properties": {
     "name": "19 KOORINGAL AVENUE LEGANA 7277",
     "locID": "LOC000026695472",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702266854"
    }
   },
@@ -8739,23 +8739,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GATAS702277934"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     147.04541263,
-     -41.35027934
-    ]
-   },
-   "properties": {
-    "name": "61 JETTY ROAD LEGANA 7277",
-    "locID": "LOC000071746989",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702278158"
    }
   },
   {
@@ -10759,8 +10742,8 @@
    "properties": {
     "name": "27 NOBELIUS DRIVE LEGANA 7277",
     "locID": "LOC000015987649",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702310721"
    }
   },
@@ -12442,8 +12425,8 @@
    "properties": {
     "name": "12 PARTRIDGE DRIVE LEGANA 7277",
     "locID": "LOC000015101888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702319422"
    }
   },
@@ -19260,7 +19243,7 @@
     "name": "21 FULTON STREET LEGANA 7277",
     "locID": "LOC000111007966",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702492093"
    }
   },
@@ -20384,6 +20367,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GATAS702806173"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.04493163,
+     -41.3667697
+    ]
+   },
+   "properties": {
+    "name": "757 WEST TAMAR HIGHWAY LEGANA 7277",
+    "locID": "Eis3NTcgVyBUYW1hciBId3ksIExlZ2FuYSBUQVMgNzI3NywgQXVzdHJhbGlhIjESLwoUChIJ6zfm48AIeqoR5ADElweP508Q9QUqFAoSCR3ozBlPD3qqEdqk1VhP15gy",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS702806174"
    }
   },
   {
@@ -21928,8 +21928,8 @@
    "properties": {
     "name": "32 TANNER DRIVE LEGANA 7277",
     "locID": "LOC000105835209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716713615"
    }
   },

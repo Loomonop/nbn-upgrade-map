@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T04:22:44.949296",
+ "generated": "2023-08-17T05:25:19.624327",
  "suburb": "CHIGWELL",
  "features": [
   {
@@ -1086,8 +1086,8 @@
    "properties": {
     "name": "13 ALLUNGA ROAD CHIGWELL 7011",
     "locID": "LOC000031196392",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702185172"
    }
   },
@@ -2667,8 +2667,8 @@
    "properties": {
     "name": "11 APANIE CRESCENT CHIGWELL 7011",
     "locID": "LOC000047387699",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702188244"
    }
   },
@@ -12350,6 +12350,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.24498079,
+     -42.80814426
+    ]
+   },
+   "properties": {
+    "name": "83 ALLUNGA ROAD CHIGWELL 7011",
+    "locID": "ChIJZeFoPNMMbqoRplEPHIK08IY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS702406166"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.24309252,
      -42.80947059
     ]
@@ -15077,8 +15094,8 @@
    "properties": {
     "name": "42 CORAKI STREET CHIGWELL 7011",
     "locID": "LOC000052423217",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718018842"
    }
   },

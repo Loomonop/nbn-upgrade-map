@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T04:08:37.554463",
+ "generated": "2023-08-17T05:17:15.132002",
  "suburb": "LONGFORD",
  "features": [
   {
@@ -185,8 +185,8 @@
    "properties": {
     "name": "1 ARCHER STREET LONGFORD 7301",
     "locID": "LOC000051340807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702186366"
    }
   },
@@ -1579,8 +1579,8 @@
    "properties": {
     "name": "31 BULWER STREET LONGFORD 7301",
     "locID": "LOC000011247714",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702206396"
    }
   },
@@ -11898,8 +11898,8 @@
    "properties": {
     "name": "16 MASON STREET LONGFORD 7301",
     "locID": "LOC000078378508",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702295888"
    }
   },
@@ -12000,8 +12000,8 @@
    "properties": {
     "name": "74 MARLBOROUGH STREET LONGFORD 7301",
     "locID": "LOC000070567797",
-    "tech": "NULL",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GATAS702296524"
    }
   },
@@ -12595,8 +12595,8 @@
    "properties": {
     "name": "84 MARLBOROUGH STREET LONGFORD 7301",
     "locID": "LOC000133734677",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702298416"
    }
   },
@@ -12663,8 +12663,8 @@
    "properties": {
     "name": "12 MARLBOROUGH STREET LONGFORD 7301",
     "locID": "LOC000062338393",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702298441"
    }
   },
@@ -12714,8 +12714,8 @@
    "properties": {
     "name": "30 MARLBOROUGH STREET LONGFORD 7301",
     "locID": "LOC000086952757",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702298445"
    }
   },
@@ -14534,7 +14534,7 @@
     "name": "4 PAKENHAM STREET LONGFORD 7301",
     "locID": "LOC000047684901",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702311585"
    }
   },
@@ -18341,8 +18341,8 @@
    "properties": {
     "name": "159 WELLINGTON STREET LONGFORD 7301",
     "locID": "LOC000017601651",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702356113"
    }
   },
@@ -27861,8 +27861,8 @@
    "properties": {
     "name": "5 UNION STREET LONGFORD 7301",
     "locID": "LOC000060282941",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702494245"
    }
   },
@@ -29221,8 +29221,8 @@
    "properties": {
     "name": "21 CRACROFT STREET LONGFORD 7301",
     "locID": "LOC000066715568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS716459129"
    }
   },
@@ -29340,8 +29340,8 @@
    "properties": {
     "name": "33 HAY STREET LONGFORD 7301",
     "locID": "LOC000052894018",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716460188"
    }
   },
@@ -35987,8 +35987,8 @@
    "properties": {
     "name": "UNIT 2, 84 MARLBOROUGH STREET LONGFORD 7301",
     "locID": "LOC000133734677",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS718336466"
    }
   },
@@ -38418,8 +38418,8 @@
    "properties": {
     "name": "4A PATON STREET LONGFORD 7301",
     "locID": "LOC000167758635",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS719072618"
    }
   },
@@ -41301,6 +41301,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.11231479,
+     -41.5987769
+    ]
+   },
+   "properties": {
+    "name": "10 MONASTERY COURT LONGFORD 7301",
+    "locID": "LOC000193325542",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS720644658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.11325436,
      -41.59869798
     ]
@@ -42117,6 +42134,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.11231479,
+     -41.5987769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 10 MONASTERY COURT LONGFORD 7301",
+    "locID": "LOC000193325542",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS720883104"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.11227139,
      -41.60247821
     ]
@@ -42124,9 +42158,26 @@
    "properties": {
     "name": "66A BURGHLEY STREET LONGFORD 7301",
     "locID": "ChIJber7xQCacKoREtbF75tF3lM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS720883115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.11231479,
+     -41.5987769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 10 MONASTERY COURT LONGFORD 7301",
+    "locID": "LOC000193325535",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS720883135"
    }
   },
   {
@@ -42141,9 +42192,26 @@
    "properties": {
     "name": "66B BURGHLEY STREET LONGFORD 7301",
     "locID": "ChIJib4XxACacKoRQo-H5sK1E5k",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS720883136"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.11231479,
+     -41.5987769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 10 MONASTERY COURT LONGFORD 7301",
+    "locID": "LOC000193325526",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS720883152"
    }
   },
   {
@@ -42168,6 +42236,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.11231479,
+     -41.5987769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 10 MONASTERY COURT LONGFORD 7301",
+    "locID": "LOC000193325503",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS720883186"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.11231479,
+     -41.5987769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 10 MONASTERY COURT LONGFORD 7301",
+    "locID": "LOC000193325542",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS720883213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.11225442,
      -41.59923592
     ]
@@ -42178,6 +42280,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720883217"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.11231479,
+     -41.5987769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 10 MONASTERY COURT LONGFORD 7301",
+    "locID": "LOC000193325519",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS720883227"
    }
   },
   {
@@ -42702,7 +42821,7 @@
    "properties": {
     "name": "UNIT 1, 35A PAKENHAM STREET LONGFORD 7301",
     "locID": "ChIJw2rUuaqQcKoRiSMTZT00ds4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721085485"
    }
@@ -42736,7 +42855,7 @@
    "properties": {
     "name": "UNIT 4, 35A PAKENHAM STREET LONGFORD 7301",
     "locID": "ChIJw2rUuaqQcKoRiSMTZT00ds4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721085487"
    }
@@ -42804,7 +42923,7 @@
    "properties": {
     "name": "UNIT 2, 35A PAKENHAM STREET LONGFORD 7301",
     "locID": "ChIJw2rUuaqQcKoRiSMTZT00ds4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721085526"
    }
@@ -42923,7 +43042,7 @@
    "properties": {
     "name": "UNIT 3, 35A PAKENHAM STREET LONGFORD 7301",
     "locID": "ChIJw2rUuaqQcKoRiSMTZT00ds4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721085599"
    }
@@ -43076,7 +43195,7 @@
    "properties": {
     "name": "35A PAKENHAM STREET LONGFORD 7301",
     "locID": "ChIJw2rUuaqQcKoRiSMTZT00ds4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721105051"
    }
