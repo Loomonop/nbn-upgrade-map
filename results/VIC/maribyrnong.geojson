@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T06:38:43.676184",
+ "generated": "2023-08-17T07:43:17.916426",
  "suburb": "MARIBYRNONG",
  "features": [
   {
@@ -14992,8 +14992,8 @@
    "properties": {
     "name": "32 OAKLAND STREET MARIBYRNONG 3032",
     "locID": "LOC000035797671",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC419896833"
    }
   },
@@ -33573,8 +33573,8 @@
    "properties": {
     "name": "4 JINDIVICK STREET MARIBYRNONG 3032",
     "locID": "LOC000006096854",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420637189"
    }
   },
@@ -39710,8 +39710,8 @@
    "properties": {
     "name": "2 RIVER PARK TERRACE MARIBYRNONG 3032",
     "locID": "LOC000082640210",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420922076"
    }
   },
@@ -44300,8 +44300,8 @@
    "properties": {
     "name": "29 CEDAR DRIVE MARIBYRNONG 3032",
     "locID": "LOC000101312753",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421117091"
    }
   },
@@ -114292,6 +114292,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425852292"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.88232288,
+     -37.76986579
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1001, 68 WESTS ROAD MARIBYRNONG 3032",
+    "locID": "LOC000161661137",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425855485"
    }
   },
   {

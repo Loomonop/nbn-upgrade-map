@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T07:17:39.682188",
+ "generated": "2023-08-17T08:19:49.578814",
  "suburb": "LAKES ENTRANCE",
  "features": [
   {
@@ -2262,23 +2262,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411729305"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     147.99178576,
-     -37.87723101
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 31 CARPENTER STREET LAKES ENTRANCE 3909",
-    "locID": "LOC000023836684",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC411729324"
    }
   },
   {
@@ -7360,7 +7343,7 @@
     "name": "10 OZONE CRESCENT LAKES ENTRANCE 3909",
     "locID": "LOC000046456640",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419756288"
    }
   },
@@ -22268,7 +22251,7 @@
    "properties": {
     "name": "55 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127458",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420660385"
    }
@@ -26586,8 +26569,8 @@
    "properties": {
     "name": "1 SUDINGS ROAD LAKES ENTRANCE 3909",
     "locID": "LOC000041346600",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420963686"
    }
   },
@@ -30268,23 +30251,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.99178576,
-     -37.87723101
-    ]
-   },
-   "properties": {
-    "name": "31 CARPENTER STREET LAKES ENTRANCE 3909",
-    "locID": "LOC000023836684",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421254566"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      147.99173909,
      -37.87709351
     ]
@@ -33709,8 +33675,8 @@
    "properties": {
     "name": "12 SUDINGS ROAD LAKES ENTRANCE 3909",
     "locID": "LOC000041346600",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421277112"
    }
   },
@@ -69579,7 +69545,7 @@
    "properties": {
     "name": "79 STIRLING DRIVE LAKES ENTRANCE 3909",
     "locID": "ChIJYVpiuCxeJWsR-lQwVVdcIqg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425624097"
    }
@@ -71986,6 +71952,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     148.00785878,
+     -37.85848876
+    ]
+   },
+   "properties": {
+    "name": "22 THORPES LANE LAKES ENTRANCE 3909",
+    "locID": "ChIJYWG0mCleJWsRGJxTNf0AeCk",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719911909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.99992856,
      -37.8720927
     ]
@@ -74373,7 +74356,7 @@
    "properties": {
     "name": "14 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJr_7ytmhgJWsRHk9uN2lT4Vs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721019194"
    }
@@ -74424,7 +74407,7 @@
    "properties": {
     "name": "68 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127541",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721020035"
    }
@@ -74441,7 +74424,7 @@
    "properties": {
     "name": "65 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127502",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721020041"
    }
@@ -74509,7 +74492,7 @@
    "properties": {
     "name": "58 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127637",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721021783"
    }
@@ -74543,7 +74526,7 @@
    "properties": {
     "name": "60 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127628",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721022575"
    }
@@ -74560,7 +74543,7 @@
    "properties": {
     "name": "4 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJE-mOw2hgJWsRwQQvHMor_xY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721023427"
    }
@@ -74628,7 +74611,7 @@
    "properties": {
     "name": "67 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127518",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721024700"
    }
@@ -74645,7 +74628,7 @@
    "properties": {
     "name": "13 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJM8hJsGhgJWsRIYXcExaG1bw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721025531"
    }
@@ -74679,7 +74662,7 @@
    "properties": {
     "name": "61 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127489",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721025615"
    }
@@ -74713,7 +74696,7 @@
    "properties": {
     "name": "3 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJeZo26GhgJWsRo91Y2u0JCyc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721027779"
    }
@@ -74730,7 +74713,7 @@
    "properties": {
     "name": "9 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJRSLxumhgJWsRzmOCnx6wPoo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721028712"
    }
@@ -74747,7 +74730,7 @@
    "properties": {
     "name": "69 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127525",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721028967"
    }
@@ -74764,7 +74747,7 @@
    "properties": {
     "name": "57 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127462",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721029918"
    }
@@ -74798,7 +74781,7 @@
    "properties": {
     "name": "UNIT 2, 76 BEVERIDGES ROAD LAKES ENTRANCE 3909",
     "locID": "ChIJ9waRtjdeJWsR3Fgt1Kz9iO8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721030358"
    }
@@ -74866,7 +74849,7 @@
    "properties": {
     "name": "15 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJ2z8rsmhgJWsRHVO5khWaaw8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721031327"
    }
@@ -74883,7 +74866,7 @@
    "properties": {
     "name": "78 BEVERIDGES ROAD LAKES ENTRANCE 3909",
     "locID": "EjQ3OCBCZXZlcmlkZ2VzIFJkLCBMYWtlcyBFbnRyYW5jZSBWSUMgMzkwOSwgQXVzdHJhbGlhIjASLgoUChIJKzQstzdeJWsREbMPDqR5BRMQTioUChIJ0U771TVeJWsRzaR348BHcJo",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721031468"
    }
@@ -74917,7 +74900,7 @@
    "properties": {
     "name": "UNIT 1, 76 BEVERIDGES ROAD LAKES ENTRANCE 3909",
     "locID": "ChIJ9waRtjdeJWsR3Fgt1Kz9iO8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721032940"
    }
@@ -74934,7 +74917,7 @@
    "properties": {
     "name": "59 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127470",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721034144"
    }
@@ -74968,7 +74951,7 @@
    "properties": {
     "name": "71 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127539",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721034630"
    }
@@ -75036,7 +75019,7 @@
    "properties": {
     "name": "74 BEVERIDGES ROAD LAKES ENTRANCE 3909",
     "locID": "ChIJj19PsjdeJWsR1jx1XaGxAAA",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721037525"
    }
@@ -75104,7 +75087,7 @@
    "properties": {
     "name": "56 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127644",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039193"
    }
@@ -75138,7 +75121,7 @@
    "properties": {
     "name": "10 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJ3yKIt2hgJWsRTAp86hazkSE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721039491"
    }
@@ -75155,7 +75138,7 @@
    "properties": {
     "name": "63 LAKEVIEW DRIVE LAKES ENTRANCE 3909",
     "locID": "LOC000193127491",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039603"
    }
@@ -75189,7 +75172,7 @@
    "properties": {
     "name": "5 ROSEDALE RISE LAKES ENTRANCE 3909",
     "locID": "ChIJ-_9_6mhgJWsRmJGRlXSiqOU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721040149"
    }
@@ -75206,7 +75189,7 @@
    "properties": {
     "name": "76 BEVERIDGES ROAD LAKES ENTRANCE 3909",
     "locID": "ChIJ9waRtjdeJWsR3Fgt1Kz9iO8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721071006"
    }

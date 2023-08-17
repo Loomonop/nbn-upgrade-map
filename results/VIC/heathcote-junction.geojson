@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T07:12:30.742037",
+ "generated": "2023-08-17T08:14:12.196562",
  "suburb": "HEATHCOTE JUNCTION",
  "features": [
   {
@@ -2157,8 +2157,8 @@
    "properties": {
     "name": "14 MESSMATE AVENUE HEATHCOTE JUNCTION 3758",
     "locID": "LOC000060467976",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420437105"
    }
   },
@@ -3977,7 +3977,7 @@
     "name": "10 RANGE AVENUE HEATHCOTE JUNCTION 3758",
     "locID": "LOC000006187593",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421357282"
    }
   },
@@ -5288,6 +5288,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423399696"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.04909126,
+     -37.37630329
+    ]
+   },
+   "properties": {
+    "name": "LOT 158 NORTH MOUNTAIN ROAD HEATHCOTE JUNCTION 3758",
+    "locID": "EjkxNTggTiBNb3VudGFpbiBSZCwgSGVhdGhjb3RlIEp1bmN0aW9uIFZJQyAzNzU4LCBBdXN0cmFsaWEiMRIvChQKEgmnQzCIK7rXahH7D4iPNWllrhCeASoUChIJv9_45Si612oRBcEQmt-B5bQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC423404688"
    }
   },
   {
