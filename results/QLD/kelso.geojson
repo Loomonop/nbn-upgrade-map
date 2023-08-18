@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T18:02:41.440396",
+ "generated": "2023-08-18T21:08:57.769486",
  "suburb": "KELSO",
  "features": [
   {
@@ -28881,8 +28881,8 @@
    "properties": {
     "name": "47 FRAMARA DRIVE KELSO 4815",
     "locID": "LOC000002602511",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156706806"
    }
   },
@@ -44327,6 +44327,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.72963186,
+     -19.37128236
+    ]
+   },
+   "properties": {
+    "name": "LOT 101 ROSEWOOD AVENUE KELSO 4815",
+    "locID": "EisxMDEgUm9zZXdvb2QgQXZlLCBLZWxzbyBRTEQgNDgxNSwgQXVzdHJhbGlhIjASLgoUChIJmS2GHB7w1WsRB4Fr2qBub2IQZSoUChIJUSIymh3w1WsR99Aso72FdR4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161295886"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.72467576,
      -19.37192446
     ]
@@ -48448,8 +48465,8 @@
    "properties": {
     "name": "41 DARTMOOR DRIVE KELSO 4815",
     "locID": "LOC000030872804",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162021745"
    }
   },
@@ -59498,8 +59515,8 @@
    "properties": {
     "name": "16 DUNLOP STREET KELSO 4815",
     "locID": "LOC000013631473",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162972946"
    }
   },
@@ -59719,8 +59736,8 @@
    "properties": {
     "name": "42 DUNLOP STREET KELSO 4815",
     "locID": "LOC000025663287",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162972959"
    }
   },

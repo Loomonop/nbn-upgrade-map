@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T17:21:52.559972",
+ "generated": "2023-08-18T20:34:49.022986",
  "suburb": "URRAWEEN",
  "features": [
   {
@@ -2089,8 +2089,8 @@
    "properties": {
     "name": "10 ROMECK CRESCENT URRAWEEN 4655",
     "locID": "LOC000093676343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155923004"
    }
   },
@@ -9739,8 +9739,8 @@
    "properties": {
     "name": "41 CHANCELLOR DRIVE URRAWEEN 4655",
     "locID": "LOC000011687542",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156053880"
    }
   },
@@ -11474,7 +11474,7 @@
     "name": "7 JOHNSTON BOULEVARD URRAWEEN 4655",
     "locID": "LOC000053224482",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157213371"
    }
   },
@@ -25022,8 +25022,8 @@
    "properties": {
     "name": "5 BAYSWATER DRIVE URRAWEEN 4655",
     "locID": "LOC000004901472",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161806718"
    }
   },
@@ -26841,8 +26841,8 @@
    "properties": {
     "name": "21 SAINT JOSEPH DRIVE URRAWEEN 4655",
     "locID": "LOC000003319431",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161921328"
    }
   },
@@ -31890,8 +31890,8 @@
    "properties": {
     "name": "44 PICADILLY CIRCUIT URRAWEEN 4655",
     "locID": "LOC000104832051",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162386231"
    }
   },
@@ -33083,6 +33083,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162484743"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.82444047,
+     -25.28791317
+    ]
+   },
+   "properties": {
+    "name": "13-15 FRANKLIN STREET URRAWEEN 4655",
+    "locID": "LOC000193467552",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162507239"
    }
   },
   {
@@ -36174,8 +36191,8 @@
    "properties": {
     "name": "28 GUMTREE DRIVE URRAWEEN 4655",
     "locID": "LOC000072246994",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162673856"
    }
   },
