@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T01:58:48.796937",
+ "generated": "2023-08-18T02:55:30.306953",
  "suburb": "GREENBANK",
  "features": [
   {
@@ -2361,8 +2361,8 @@
    "properties": {
     "name": "28 LEE COURT GREENBANK 4124",
     "locID": "LOC000050768475",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155357213"
    }
   },
@@ -2378,8 +2378,8 @@
    "properties": {
     "name": "29 LEE COURT GREENBANK 4124",
     "locID": "LOC000039632337",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155357214"
    }
   },
@@ -2395,8 +2395,8 @@
    "properties": {
     "name": "31 LEE COURT GREENBANK 4124",
     "locID": "LOC000084847351",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155357215"
    }
   },
@@ -6391,7 +6391,7 @@
     "name": "32-34 RINGTAIL COURT GREENBANK 4124",
     "locID": "LOC000058471747",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155366273"
    }
   },
@@ -6407,8 +6407,8 @@
    "properties": {
     "name": "38 RINGTAIL COURT GREENBANK 4124",
     "locID": "LOC000057498721",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155366275"
    }
   },
@@ -7855,6 +7855,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155369107"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99704809,
+     -27.72879926
+    ]
+   },
+   "properties": {
+    "name": "71-79 CAMPBELL ROAD GREENBANK 4124",
+    "locID": "LOC000022353170",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155369108"
    }
   },
   {
@@ -9501,8 +9518,8 @@
    "properties": {
     "name": "31 TIGERCAT COURT GREENBANK 4124",
     "locID": "LOC000107104549",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156605994"
    }
   },
@@ -10555,8 +10572,8 @@
    "properties": {
     "name": "155 ANDREW ROAD GREENBANK 4124",
     "locID": "LOC000028511991",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156607980"
    }
   },
@@ -10640,8 +10657,8 @@
    "properties": {
     "name": "182-184 ANDREW ROAD GREENBANK 4124",
     "locID": "LOC000043989831",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608000"
    }
   },
@@ -11065,8 +11082,8 @@
    "properties": {
     "name": "13-17 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000020985472",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608034"
    }
   },
@@ -11082,8 +11099,8 @@
    "properties": {
     "name": "18-22 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000030880003",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608035"
    }
   },
@@ -11099,8 +11116,8 @@
    "properties": {
     "name": "24-40 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000049776678",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608037"
    }
   },
@@ -11116,8 +11133,8 @@
    "properties": {
     "name": "33-37 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000060464108",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608038"
    }
   },
@@ -11133,8 +11150,8 @@
    "properties": {
     "name": "39-43 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000102833996",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608039"
    }
   },
@@ -11150,7 +11167,7 @@
    "properties": {
     "name": "42-48 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000014761030",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156608040"
    }
@@ -11167,8 +11184,8 @@
    "properties": {
     "name": "45-49 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000015818177",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608041"
    }
   },
@@ -11184,8 +11201,8 @@
    "properties": {
     "name": "50-58 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000021835559",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608042"
    }
   },
@@ -11201,8 +11218,8 @@
    "properties": {
     "name": "51-55 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000037714839",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608043"
    }
   },
@@ -11218,8 +11235,8 @@
    "properties": {
     "name": "57 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000028496213",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608044"
    }
   },
@@ -11235,8 +11252,8 @@
    "properties": {
     "name": "59 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000080967998",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608045"
    }
   },
@@ -11252,8 +11269,8 @@
    "properties": {
     "name": "60 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000089558909",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608046"
    }
   },
@@ -11269,8 +11286,8 @@
    "properties": {
     "name": "62 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000050935597",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608047"
    }
   },
@@ -11286,8 +11303,8 @@
    "properties": {
     "name": "7-11 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000050998453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156608048"
    }
   },
@@ -14823,7 +14840,7 @@
     "name": "13-15 ECHIDNA COURT GREENBANK 4124",
     "locID": "LOC000017388512",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156623814"
    }
   },
@@ -17933,8 +17950,8 @@
    "properties": {
     "name": "10-14 LEE COURT GREENBANK 4124",
     "locID": "LOC000035697739",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156628399"
    }
   },
@@ -19123,8 +19140,8 @@
    "properties": {
     "name": "15-19 LEE COURT GREENBANK 4124",
     "locID": "LOC000040566209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156629467"
    }
   },
@@ -19140,8 +19157,8 @@
    "properties": {
     "name": "16-20 LEE COURT GREENBANK 4124",
     "locID": "LOC000047162343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156629468"
    }
   },
@@ -19157,8 +19174,8 @@
    "properties": {
     "name": "21-27 LEE COURT GREENBANK 4124",
     "locID": "LOC000084660763",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156629470"
    }
   },
@@ -19174,8 +19191,8 @@
    "properties": {
     "name": "22-26 LEE COURT GREENBANK 4124",
     "locID": "LOC000062130729",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156629471"
    }
   },
@@ -19191,8 +19208,8 @@
    "properties": {
     "name": "30 LEE COURT GREENBANK 4124",
     "locID": "LOC000048222444",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156629474"
    }
   },
@@ -19208,8 +19225,8 @@
    "properties": {
     "name": "9-13 LEE COURT GREENBANK 4124",
     "locID": "LOC000073967579",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156629476"
    }
   },
@@ -22319,8 +22336,8 @@
    "properties": {
     "name": "51 DANIEL COURT GREENBANK 4124",
     "locID": "LOC000037714839",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157992841"
    }
   },
@@ -24835,8 +24852,8 @@
    "properties": {
     "name": "81-85 BIRDSVILLE STREET GREENBANK 4124",
     "locID": "LOC000041715061",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD159396949"
    }
   },
@@ -24937,8 +24954,8 @@
    "properties": {
     "name": "202-214 THOMPSON ROAD GREENBANK 4124",
     "locID": "LOC000056782982",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD159397284"
    }
   },
@@ -25107,7 +25124,7 @@
    "properties": {
     "name": "1-7 LEE COURT GREENBANK 4124",
     "locID": "LOC000025796798",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD159398152"
    }
@@ -28286,8 +28303,8 @@
    "properties": {
     "name": "93-97 BIRDSVILLE STREET GREENBANK 4124",
     "locID": "LOC000072363942",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161068294"
    }
   },
@@ -31652,8 +31669,8 @@
    "properties": {
     "name": "12-14 BLUEBIRD COURT GREENBANK 4124",
     "locID": "LOC000099149541",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161745717"
    }
   },
@@ -33675,8 +33692,8 @@
    "properties": {
     "name": "12-14 JAMBOREE CLOSE GREENBANK 4124",
     "locID": "LOC000026592079",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161757144"
    }
   },
@@ -33828,8 +33845,8 @@
    "properties": {
     "name": "10-12 KANGAROO CLOSE GREENBANK 4124",
     "locID": "LOC000032580571",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161757802"
    }
   },
@@ -36277,7 +36294,7 @@
     "name": "11-17 SANDSTONE ROAD GREENBANK 4124",
     "locID": "LOC000090305518",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161767994"
    }
   },
@@ -37602,8 +37619,8 @@
    "properties": {
     "name": "5-7 SUNBIRD COURT GREENBANK 4124",
     "locID": "LOC000032637419",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161770014"
    }
   },
@@ -40509,8 +40526,8 @@
    "properties": {
     "name": "13-15 GOLDFINCH COURT GREENBANK 4124",
     "locID": "LOC000064601617",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162508288"
    }
   },
@@ -40645,8 +40662,8 @@
    "properties": {
     "name": "28 GOLDFINCH COURT GREENBANK 4124",
     "locID": "LOC000029400446",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162508296"
    }
   },
@@ -41546,8 +41563,8 @@
    "properties": {
     "name": "60 BOWERBIRD CLOSE GREENBANK 4124",
     "locID": "LOC000084366453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162670976"
    }
   },
@@ -42073,8 +42090,8 @@
    "properties": {
     "name": "184-188 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000058527619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162678998"
    }
   },
@@ -42855,8 +42872,8 @@
    "properties": {
     "name": "24-26 BRADLEY COURT GREENBANK 4124",
     "locID": "LOC000097600320",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162934436"
    }
   },
@@ -43484,8 +43501,8 @@
    "properties": {
     "name": "100-102 PLATYPUS DRIVE GREENBANK 4124",
     "locID": "LOC000101601568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163070642"
    }
   },
@@ -44470,8 +44487,8 @@
    "properties": {
     "name": "377-383 BELLBIRD DRIVE GREENBANK 4124",
     "locID": "LOC000062865903",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163259277"
    }
   },
@@ -44589,8 +44606,8 @@
    "properties": {
     "name": "413-417 BELLBIRD DRIVE GREENBANK 4124",
     "locID": "LOC000049746594",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163259285"
    }
   },
@@ -49794,23 +49811,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719627017"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03424773,
-     -27.7063755
-    ]
-   },
-   "properties": {
-    "name": "6 EDWARDS ROAD GREENBANK 4124",
-    "locID": "LOC000171855252",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719627410"
    }
   },
   {
@@ -80799,8 +80799,8 @@
    "properties": {
     "name": "UNIT A, 2 LEE COURT GREENBANK 4124",
     "locID": "LOC000065984640",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD721077364"
    }
   },
@@ -82305,6 +82305,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.9792043,
+     -27.73089691
+    ]
+   },
+   "properties": {
+    "name": "46 BRANCH CIRCUIT GREENBANK 4124",
+    "locID": "LOC000191775697",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721145042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97945637,
      -27.73139483
     ]
@@ -82560,6 +82577,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.97915499,
+     -27.73099095
+    ]
+   },
+   "properties": {
+    "name": "44 BRANCH CIRCUIT GREENBANK 4124",
+    "locID": "LOC000191775700",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721146861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97826663,
      -27.73120975
     ]
@@ -82621,6 +82655,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721147642"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97872278,
+     -27.73117499
+    ]
+   },
+   "properties": {
+    "name": "24 BRANCH CIRCUIT GREENBANK 4124",
+    "locID": "LOC000191775645",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721147806"
    }
   },
   {
@@ -82696,6 +82747,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.97910568,
+     -27.73108499
+    ]
+   },
+   "properties": {
+    "name": "42 BRANCH CIRCUIT GREENBANK 4124",
+    "locID": "LOC000191775716",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721148593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97892858,
      -27.73078245
     ]
@@ -82706,6 +82774,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721148990"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97957367,
+     -27.73117219
+    ]
+   },
+   "properties": {
+    "name": "43 BRANCH CIRCUIT GREENBANK 4124",
+    "locID": "LOC000191775802",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721149025"
    }
   },
   {
@@ -82859,6 +82944,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721149775"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97963071,
+     -27.73106393
+    ]
+   },
+   "properties": {
+    "name": "45 BRANCH CIRCUIT GREENBANK 4124",
+    "locID": "LOC000191775818",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721149801"
    }
   },
   {
@@ -83393,6 +83495,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.99163609,
+     -27.73797558
+    ]
+   },
+   "properties": {
+    "name": "24 OCHRE STREET GREENBANK 4124",
+    "locID": "ChIJl7ZFr-o3kWsROhuJ2TGrHcE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721227793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99203105,
+     -27.73813195
+    ]
+   },
+   "properties": {
+    "name": "76 TUSCAN CIRCUIT GREENBANK 4124",
+    "locID": "ChIJPZo3sOo3kWsRKFbaYcH73cw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721227815"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97013148,
      -27.73023491
     ]
@@ -83420,6 +83556,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721227935"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99191463,
+     -27.7382043
+    ]
+   },
+   "properties": {
+    "name": "74 TUSCAN CIRCUIT GREENBANK 4124",
+    "locID": "ChIJmWAkruo3kWsRVnPKwgatvCs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721228036"
    }
   },
   {
@@ -83658,6 +83811,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721228775"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9922494,
+     -27.73756687
+    ]
+   },
+   "properties": {
+    "name": "24 DESERT ROAD GREENBANK 4124",
+    "locID": "ChIJMTcxvOo3kWsRlL4Y4uZPajs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721228870"
    }
   },
   {
@@ -84073,6 +84243,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.99254827,
+     -27.73782149
+    ]
+   },
+   "properties": {
+    "name": "82 TUSCAN CIRCUIT GREENBANK 4124",
+    "locID": "ChIJKTDFuOo3kWsRag7HtaJjceY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721230043"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96971771,
      -27.72959755
     ]
@@ -84185,6 +84372,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721230211"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97171635,
+     -27.73082421
+    ]
+   },
+   "properties": {
+    "name": "27 KAKADU STREET GREENBANK 4124",
+    "locID": "ChIJrX99ucs3kWsRKBbw8BAbvcA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721230217"
    }
   },
   {
@@ -84576,6 +84780,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721231167"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99178917,
+     -27.73827844
+    ]
+   },
+   "properties": {
+    "name": "72 TUSCAN CIRCUIT GREENBANK 4124",
+    "locID": "ChIJJ9Z4ruo3kWsRZIlMgfHjnZQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721231171"
    }
   },
   {
@@ -84991,6 +85212,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.99215247,
+     -27.73805263
+    ]
+   },
+   "properties": {
+    "name": "78 TUSCAN CIRCUIT GREENBANK 4124",
+    "locID": "ChIJ26KGsOo3kWsR0OGGJVcuh9M",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721232388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.99135843,
      -27.73714909
     ]
@@ -85229,6 +85467,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.99242289,
+     -27.73789558
+    ]
+   },
+   "properties": {
+    "name": "80 TUSCAN CIRCUIT GREENBANK 4124",
+    "locID": "ChIJ248Lueo3kWsR7Z1-e6Qx3Ig",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721233515"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97220631,
      -27.73132551
     ]
@@ -85443,6 +85698,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721234128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9719306,
+     -27.73103812
+    ]
+   },
+   "properties": {
+    "name": "28 KAKADU STREET GREENBANK 4124",
+    "locID": "ChIJn1kuuMs3kWsRb4_9EZgaw2I",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721234132"
    }
   },
   {
