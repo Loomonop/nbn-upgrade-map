@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T05:03:36.349649",
+ "generated": "2023-08-18T06:09:05.336444",
  "suburb": "PARADISE POINT",
  "features": [
   {
@@ -12850,8 +12850,8 @@
    "properties": {
     "name": "23 REGENTS COURT PARADISE POINT 4216",
     "locID": "LOC000050512562",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155830015"
    }
   },
@@ -15723,8 +15723,8 @@
    "properties": {
     "name": "9 KING CHARLES DRIVE PARADISE POINT 4216",
     "locID": "LOC000041743244",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155840048"
    }
   },
@@ -19925,6 +19925,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156993426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39631652,
+     -27.8752861
+    ]
+   },
+   "properties": {
+    "name": "36 KILLOWILL AVENUE PARADISE POINT 4216",
+    "locID": "LOC000193261183",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156993429"
    }
   },
   {
@@ -65254,6 +65271,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.39631652,
+     -27.8752861
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 36 KILLOWILL AVENUE PARADISE POINT 4216",
+    "locID": "LOC000193261183",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163188639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39631652,
+     -27.8752861
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 36 KILLOWILL AVENUE PARADISE POINT 4216",
+    "locID": "LOC000193261196",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163188640"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.39596521,
      -27.8763812
     ]
@@ -83808,7 +83859,7 @@
    "properties": {
     "name": "UNIT 3, 2 PARADISE PARADE PARADISE POINT 4216",
     "locID": "LOC000193136981",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721145328"
    }
@@ -83842,7 +83893,7 @@
    "properties": {
     "name": "UNIT 1, 2 PARADISE PARADE PARADISE POINT 4216",
     "locID": "LOC000193136910",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721149454"
    }
@@ -83893,7 +83944,7 @@
    "properties": {
     "name": "UNIT 2, 2 PARADISE PARADE PARADISE POINT 4216",
     "locID": "LOC000193136975",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721150975"
    }

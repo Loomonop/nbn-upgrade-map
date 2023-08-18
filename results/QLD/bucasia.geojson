@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T04:21:30.517960",
+ "generated": "2023-08-18T05:32:39.026693",
  "suburb": "BUCASIA",
  "features": [
   {
@@ -2277,7 +2277,7 @@
     "name": "6 LIZY STREET BUCASIA 4750",
     "locID": "LOC000001683536",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155080105"
    }
   },
@@ -2687,6 +2687,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155080196"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.15403515,
+     -21.02340582
+    ]
+   },
+   "properties": {
+    "name": "4 ROYAL SANDS BOULEVARD BUCASIA 4750",
+    "locID": "LOC000031574097",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155080197"
    }
   },
   {
@@ -12477,7 +12494,7 @@
     "name": "21 WALLACE STREET BUCASIA 4750",
     "locID": "LOC000102589163",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156332735"
    }
   },
@@ -23238,7 +23255,7 @@
     "name": "4 HAWKINS STREET BUCASIA 4750",
     "locID": "LOC000022712053",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162035310"
    }
   },
@@ -23784,6 +23801,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162063137"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.15325063,
+     -21.02342398
+    ]
+   },
+   "properties": {
+    "name": "6 ROYAL SANDS BOULEVARD BUCASIA 4750",
+    "locID": "LOC000084325154",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162063140"
    }
   },
   {
@@ -28236,7 +28270,7 @@
     "name": "24 DOBINSON STREET BUCASIA 4750",
     "locID": "LOC000129379735",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424933512"
    }
   },
@@ -34304,8 +34338,8 @@
    "properties": {
     "name": "74 SCHOONER AVENUE BUCASIA 4750",
     "locID": "LOC000129334654",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425841897"
    }
   },
@@ -34484,6 +34518,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     149.15342776,
+     -21.0198775
+    ]
+   },
+   "properties": {
+    "name": "189 SHOAL POINT ROAD BUCASIA 4750",
+    "locID": "ChIJpeJcRUx-2WsRGTI0gMERCY0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425842142"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      149.1532595,
      -21.01837865
     ]
@@ -34494,6 +34545,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425842143"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.15320107,
+     -21.01804253
+    ]
+   },
+   "properties": {
+    "name": "213 SHOAL POINT ROAD BUCASIA 4750",
+    "locID": "LOC000005062002",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425842144"
    }
   },
   {
@@ -35987,8 +36055,8 @@
    "properties": {
     "name": "7 TURNBUCKLE STREET BUCASIA 4750",
     "locID": "LOC000082066501",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425842890"
    }
   },
