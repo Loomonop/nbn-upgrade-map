@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T00:19:55.287915",
+ "generated": "2023-08-18T01:26:28.745852",
  "suburb": "NEWTOWN",
  "features": [
   {
@@ -10572,8 +10572,8 @@
    "properties": {
     "name": "10 BRILLIANT STREET NEWTOWN 4305",
     "locID": "LOC000039898154",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160638071"
    }
   },
@@ -15743,6 +15743,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160807786"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.93225118,
+     -27.56309705
+    ]
+   },
+   "properties": {
+    "name": "94 ANZAC AVENUE NEWTOWN 4350",
+    "locID": "ChIJv4xLUohclmsR1GLqyf78aXc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160807787"
    }
   },
   {
@@ -46571,6 +46588,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.93113203,
+     -27.56254341
+    ]
+   },
+   "properties": {
+    "name": "6-10 HURSLEY ROAD NEWTOWN 4350",
+    "locID": "ChIJRdWw4ohclmsRKBvm7LZlv2Y",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160816583"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.92115076,
      -27.56052461
     ]
@@ -67984,6 +68018,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160824399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.93315124,
+     -27.56316089
+    ]
+   },
+   "properties": {
+    "name": "79A VACY STREET NEWTOWN 4350",
+    "locID": "ChIJz508NYhclmsRusjj4pWZFWg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160824400"
    }
   },
   {
@@ -95114,7 +95165,7 @@
     "name": "62B CHERMSIDE ROAD NEWTOWN 4305",
     "locID": "LOC000065733971",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162886367"
    }
   },

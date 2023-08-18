@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T00:31:14.071331",
+ "generated": "2023-08-18T01:39:07.677925",
  "suburb": "MALENY",
  "features": [
   {
@@ -492,7 +492,7 @@
     "name": "1 LAWRENCE PLACE MALENY 4552",
     "locID": "LOC000041727984",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD155505104"
    }
   },
@@ -883,7 +883,7 @@
     "name": "28 MARY CAIRNCROSS AVENUE MALENY 4552",
     "locID": "LOC000067031027",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD155505809"
    }
   },
@@ -3569,7 +3569,7 @@
     "name": "33 MARY CAIRNCROSS AVENUE MALENY 4552",
     "locID": "LOC000033317907",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD155513909"
    }
   },
@@ -3586,7 +3586,7 @@
     "name": "34 MARY CAIRNCROSS AVENUE MALENY 4552",
     "locID": "LOC000076632731",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD155513910"
    }
   },
@@ -4132,6 +4132,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155515293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.851084,
+     -26.758575
+    ]
+   },
+   "properties": {
+    "name": "57 MAPLE STREET MALENY 4552",
+    "locID": "Eic1NyBNYXBsZSBTdCwgTWFsZW55IFFMRCA0NTUyLCBBdXN0cmFsaWEiMBIuChQKEgn1ZupIa4eTaxEp07pS-McOlxA5KhQKEgmDYU22FIeTaxF0h4e9s9DAtg",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155515612"
    }
   },
   {
@@ -5133,7 +5150,7 @@
     "name": "8 MOFFITT COURT MALENY 4552",
     "locID": "LOC000068620243",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD155517098"
    }
   },
@@ -7241,7 +7258,7 @@
     "name": "18 MOFFITT COURT MALENY 4552",
     "locID": "LOC000007678073",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD156767596"
    }
   },
@@ -8176,7 +8193,7 @@
     "name": "1 VALLEY VISTA MALENY 4552",
     "locID": "LOC000033453629",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD156777364"
    }
   },
@@ -8617,8 +8634,8 @@
    "properties": {
     "name": "6 WALKERS DRIVE MALENY 4552",
     "locID": "LOC000041601005",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156777400"
    }
   },
@@ -9586,8 +9603,8 @@
    "properties": {
     "name": "14 WATTLE STREET MALENY 4552",
     "locID": "LOC000084013425",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156784412"
    }
   },
@@ -10980,8 +10997,8 @@
    "properties": {
     "name": "101 TREEHAVEN WAY MALENY 4552",
     "locID": "LOC000038409634",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156795374"
    }
   },
@@ -11236,7 +11253,7 @@
     "name": "51 MARY CAIRNCROSS AVENUE MALENY 4552",
     "locID": "LOC000026817608",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD156795554"
    }
   },
@@ -13378,7 +13395,7 @@
     "name": "251 BRIDGE CREEK ROAD MALENY 4552",
     "locID": "LOC000184943252",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158195119"
    }
   },
@@ -13446,7 +13463,7 @@
     "name": "128 MALENY-STANLEY RIVER ROAD MALENY 4552",
     "locID": "LOC000106560267",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158195130"
    }
   },
@@ -13463,7 +13480,7 @@
     "name": "54 MALENY - KENILWORTH ROAD MALENY 4552",
     "locID": "LOC000036603598",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158196681"
    }
   },
@@ -14024,7 +14041,7 @@
     "name": "9 MCLEAN ROAD MALENY 4552",
     "locID": "LOC000082578239",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158203273"
    }
   },
@@ -15434,8 +15451,8 @@
    "properties": {
     "name": "511 MOUNTAIN VIEW ROAD MALENY 4552",
     "locID": "LOC000096253506",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158213228"
    }
   },
@@ -15758,7 +15775,7 @@
     "name": "246 BRIDGE CREEK ROAD MALENY 4552",
     "locID": "LOC000030681018",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158213452"
    }
   },
@@ -16948,7 +16965,7 @@
     "name": "269 BRIDGE CREEK ROAD MALENY 4552",
     "locID": "LOC000006583099",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158221882"
    }
   },
@@ -17135,7 +17152,7 @@
     "name": "23 MCLEAN ROAD MALENY 4552",
     "locID": "LOC000051308564",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158223095"
    }
   },
@@ -18682,7 +18699,7 @@
     "name": "123 MALENY - KENILWORTH ROAD MALENY 4552",
     "locID": "LOC000103127586",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158234916"
    }
   },
@@ -20110,7 +20127,7 @@
     "name": "211 BRIDGE CREEK ROAD MALENY 4552",
     "locID": "LOC000021499309",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD160089548"
    }
   },
@@ -20161,7 +20178,7 @@
     "name": "281 BRIDGE CREEK ROAD MALENY 4552",
     "locID": "LOC000039378582",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD160089557"
    }
   },
@@ -20212,7 +20229,7 @@
     "name": "11 WELLS ROAD MALENY 4552",
     "locID": "LOC000082852819",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD160089562"
    }
   },
@@ -20229,7 +20246,7 @@
     "name": "35 WELLS ROAD MALENY 4552",
     "locID": "LOC000011571889",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD160089564"
    }
   },
@@ -25227,7 +25244,7 @@
     "name": "3 MARY CAIRNCROSS AVENUE MALENY 4552",
     "locID": "LOC000033317907",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD160819112"
    }
   },
@@ -27794,7 +27811,7 @@
     "name": "14 LAWRENCE PLACE MALENY 4552",
     "locID": "LOC000060379833",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD161958431"
    }
   },
@@ -29732,7 +29749,7 @@
     "name": "129 MALENY - KENILWORTH ROAD MALENY 4552",
     "locID": "LOC000004921693",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD162104286"
    }
   },
@@ -30480,7 +30497,7 @@
     "name": "53 WATER GUM CRESCENT MALENY 4552",
     "locID": "LOC000098911145",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162108139"
    }
   },
@@ -42856,7 +42873,7 @@
     "name": "68C PALM STREET MALENY 4552",
     "locID": "LOC000190640099",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD719558331"
    }
   },
@@ -43570,7 +43587,7 @@
     "name": "7 CANDLE VINE STREET MALENY 4552",
     "locID": "LOC000180230162",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD720034794"
    }
   },
@@ -44369,7 +44386,7 @@
     "name": "211A BRIDGE CREEK ROAD MALENY 4552",
     "locID": "LOC000021499309",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD721134374"
    }
   },
