@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T14:11:15.597422",
+ "generated": "2023-08-18T17:28:37.058826",
  "suburb": "MUDGEERABA",
  "features": [
   {
@@ -8175,8 +8175,8 @@
    "properties": {
     "name": "16 WAGNER STREET MUDGEERABA 4213",
     "locID": "LOC000089242460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155613803"
    }
   },
@@ -26807,8 +26807,8 @@
    "properties": {
     "name": "5 SOMA COURT MUDGEERABA 4213",
     "locID": "LOC000078364737",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155634598"
    }
   },
@@ -59414,7 +59414,7 @@
     "name": "29 BREEANA COURT MUDGEERABA 4213",
     "locID": "LOC000002546256",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156924735"
    }
   },
@@ -78667,6 +78667,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.33360001,
+     -28.10260098
+    ]
+   },
+   "properties": {
+    "name": "LOT 221 MONARO ROAD MUDGEERABA 4213",
+    "locID": "Ei0yMjEgTW9uYXJvIFJkLCBNdWRnZWVyYWJhIFFMRCA0MjEzLCBBdXN0cmFsaWEiMRIvChQKEgm1nM8UpR2RaxHmAh6QbN1DNBDdASoUChIJ3VRAZqUdkWsRTbEc8a7hSsI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161240577"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.33631295,
+     -28.10270021
+    ]
+   },
+   "properties": {
+    "name": "LOT 222 MONARO ROAD MUDGEERABA 4213",
+    "locID": "Ei0yMjIgTW9uYXJvIFJkLCBNdWRnZWVyYWJhIFFMRCA0MjEzLCBBdXN0cmFsaWEiMRIvChQKEgnDfqZrpR2RaxFogHWNW6DE8xDeASoUChIJ3VRAZqUdkWsRTbEc8a7hSsI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161240578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.33421129,
      -28.10795096
     ]
@@ -81523,6 +81557,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.33358896,
+     -28.10461896
+    ]
+   },
+   "properties": {
+    "name": "225 MONARO ROAD MUDGEERABA 4213",
+    "locID": "Ei0yMjUgTW9uYXJvIFJkLCBNdWRnZWVyYWJhIFFMRCA0MjEzLCBBdXN0cmFsaWEiMRIvChQKEgm1nM8UpR2RaxHmAh6QbN1DNBDhASoUChIJ3VRAZqUdkWsRTbEc8a7hSsI",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161635372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.36708077,
      -28.09105036
     ]
@@ -81700,8 +81751,8 @@
    "properties": {
     "name": "18 KERRIGAN COURT MUDGEERABA 4213",
     "locID": "LOC000019152058",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161787370"
    }
   },
@@ -82483,7 +82534,7 @@
     "name": "10 HEALY COURT MUDGEERABA 4213",
     "locID": "LOC000013341109",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161956169"
    }
   },
@@ -86052,8 +86103,8 @@
    "properties": {
     "name": "49 ANTONSON CRESCENT MUDGEERABA 4213",
     "locID": "LOC000009123060",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162117416"
    }
   },
@@ -86410,7 +86461,7 @@
     "name": "12 KERSHAN STREET MUDGEERABA 4213",
     "locID": "LOC000059237444",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162160252"
    }
   },
@@ -96967,7 +97018,7 @@
     "name": "UNIT 57, 46 CLOVER HILL DRIVE MUDGEERABA 4213",
     "locID": "LOC000155682561",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719269392"
    }
   },

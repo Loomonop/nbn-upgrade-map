@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T13:37:58.795258",
+ "generated": "2023-08-18T17:00:56.028705",
  "suburb": "LANDSBOROUGH",
  "features": [
   {
@@ -14856,8 +14856,8 @@
    "properties": {
     "name": "20 ISAMBERT ROAD LANDSBOROUGH 4550",
     "locID": "LOC000109943155",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD158162026"
    }
   },
@@ -22098,8 +22098,8 @@
    "properties": {
     "name": "13 EDWIN DRIVE LANDSBOROUGH 4550",
     "locID": "LOC000059842834",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD161655478"
    }
   },
@@ -25151,6 +25151,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.94952658,
+     -26.80049849
+    ]
+   },
+   "properties": {
+    "name": "LOT 100 LANDSBOROUGH - MALENY ROAD LANDSBOROUGH 4550",
+    "locID": "EjwxMDAgTGFuZHNib3JvdWdoIE1hbGVueSBSZCwgTGFuZHNib3JvdWdoIFFMRCA0NTUwLCBBdXN0cmFsaWEiMBIuChQKEglzEEUTtIWTaxHBVset5mpMBBBkKhQKEgkXzTXOiIaTaxHpps0NiCx6cA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162512002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.94539852,
      -26.79886038
     ]
@@ -25855,8 +25872,8 @@
    "properties": {
     "name": "95 WHITES ROAD LANDSBOROUGH 4550",
     "locID": "LOC000029854693",
-    "tech": "FTTN",
-    "upgrade": "SAT_CT",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162612213"
    }
   },
@@ -27201,6 +27218,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163302504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00443443,
+     -26.77508478
+    ]
+   },
+   "properties": {
+    "name": "LOT 106 TUNNEL RIDGE ROAD LANDSBOROUGH 4550",
+    "locID": "EjUxMDYgVHVubmVsIFJpZGdlIFJkLCBMYW5kc2Jvcm91Z2ggUUxEIDQ1NTAsIEF1c3RyYWxpYSIwEi4KFAoSCfuDJ7b4hJNrET95WfMjD_oKEGoqFAoSCcE2GT_0hJNrERF_P3OJ2g5X",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163320425"
    }
   },
   {
@@ -28712,7 +28746,7 @@
     "name": "63A CALDERWOOD ROAD LANDSBOROUGH 4550",
     "locID": "LOC000167128807",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425653871"
    }
   },
@@ -38127,6 +38161,23 @@
     ]
    },
    "properties": {
+    "name": "10 CORPORATE PLACE LANDSBOROUGH 4550",
+    "locID": "ChIJc4xpWQGFk2sRtbGk_zSRhlI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721263194"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97325455,
+     -26.80564708
+    ]
+   },
+   "properties": {
     "name": "35 CORPORATE PLACE LANDSBOROUGH 4550",
     "locID": "EjEzNSBDb3Jwb3JhdGUgUGwsIExhbmRzYm9yb3VnaCBRTEQgNDU1MCwgQXVzdHJhbGlhIjASLgoUChIJZdqpXgGFk2sRVdy4wAZ5SkQQIyoUChIJT2vDVwGFk2sRFZ_z7Rek_6k",
     "tech": "FTTN",
@@ -38161,6 +38212,23 @@
     ]
    },
    "properties": {
+    "name": "19 CORPORATE PLACE LANDSBOROUGH 4550",
+    "locID": "ChIJ41TcsgaFk2sRySEsD1HiVwk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721263620"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97266916,
+     -26.80652925
+    ]
+   },
+   "properties": {
     "name": "21 CORPORATE PLACE LANDSBOROUGH 4550",
     "locID": "ChIJVTXmsgaFk2sRlXtcitlsJgk",
     "tech": "FTTP",
@@ -38183,6 +38251,40 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721263828"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97325455,
+     -26.80564708
+    ]
+   },
+   "properties": {
+    "name": "8 CORPORATE PLACE LANDSBOROUGH 4550",
+    "locID": "ChIJc4xpWQGFk2sRBc2pyyAc5Ds",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721263899"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97373296,
+     -26.80543267
+    ]
+   },
+   "properties": {
+    "name": "20 CORPORATE PLACE LANDSBOROUGH 4550",
+    "locID": "ChIJk11Y4AOFk2sRlawbfzb9Gn0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721264104"
    }
   },
   {
@@ -38234,6 +38336,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721264831"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97266916,
+     -26.80652925
+    ]
+   },
+   "properties": {
+    "name": "17 CORPORATE PLACE LANDSBOROUGH 4550",
+    "locID": "ChIJ41TcsgaFk2sRdHQs_5BGnRg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721265198"
    }
   },
   {
