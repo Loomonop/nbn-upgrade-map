@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T06:52:12.112873",
+ "generated": "2023-08-18T08:00:04.567211",
  "suburb": "BEAUDESERT",
  "features": [
   {
@@ -2990,8 +2990,8 @@
    "properties": {
     "name": "48 ALBERT STREET BEAUDESERT 4285",
     "locID": "LOC000043165033",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD154998280"
    }
   },
@@ -5829,8 +5829,8 @@
    "properties": {
     "name": "6 HAWTHORN STREET BEAUDESERT 4285",
     "locID": "LOC000059484125",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155001911"
    }
   },
@@ -7903,8 +7903,8 @@
    "properties": {
     "name": "3 BRISBANE STREET BEAUDESERT 4285",
     "locID": "LOC000017473246",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155003801"
    }
   },
@@ -8753,8 +8753,8 @@
    "properties": {
     "name": "62 EAGLESFIELD STREET BEAUDESERT 4285",
     "locID": "LOC000048175010",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155007709"
    }
   },
@@ -22268,8 +22268,8 @@
    "properties": {
     "name": "8 WILLIAM STREET BEAUDESERT 4285",
     "locID": "LOC000059109850",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156258119"
    }
   },
@@ -39968,6 +39968,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161245536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9787664,
+     -28.00440121
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 MOUNT LINDESAY HIGHWAY BEAUDESERT 4285",
+    "locID": "EjQzIE1vdW50IExpbmRlc2F5IEh3eSwgQmVhdWRlc2VydCBRTEQgNDI4NSwgQXVzdHJhbGlhIjASLgoUChIJ4QmLTLgokWsRFgP1hfhvBA0QAyoUChIJy0ks4flHkWsRLhB4lr1OHHI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161245537"
    }
   },
   {
@@ -58683,7 +58700,7 @@
     "name": "8 HILTON PLACE BEAUDESERT 4285",
     "locID": "LOC000153225623",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425144108"
    }
   },
@@ -76270,6 +76287,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98917674,
+     -27.99932307
+    ]
+   },
+   "properties": {
+    "name": "16 WAKEFUL DRIVE BEAUDESERT 4285",
+    "locID": "ChIJW0om7eookWsR6N6pRbY7j4A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721145433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.99010997,
      -27.99850284
     ]
@@ -76457,6 +76491,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98898964,
+     -27.99922207
+    ]
+   },
+   "properties": {
+    "name": "18 WAKEFUL DRIVE BEAUDESERT 4285",
+    "locID": "ChIJv0RUjeookWsRB0hIPEuI31o",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721146805"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.98911369,
      -27.99791291
     ]
@@ -76610,6 +76661,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98880922,
+     -27.99912468
+    ]
+   },
+   "properties": {
+    "name": "20 WAKEFUL DRIVE BEAUDESERT 4285",
+    "locID": "ChIJcf7ejOookWsR34Zrt7AKzIQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721148390"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.98961128,
      -27.99903694
     ]
@@ -76654,6 +76722,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721148963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98935717,
+     -27.99942046
+    ]
+   },
+   "properties": {
+    "name": "14 WAKEFUL DRIVE BEAUDESERT 4285",
+    "locID": "LOC000188878477",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721149158"
    }
   },
   {
@@ -76729,6 +76814,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.99048889,
+     -27.99865881
+    ]
+   },
+   "properties": {
+    "name": "11 TODMAN CRESCENT BEAUDESERT 4285",
+    "locID": "ChIJAR9jr-ookWsRoRDRUZZQFpU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721150719"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.98862682,
      -27.9980604
     ]
@@ -76790,6 +76892,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721151236"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98950917,
+     -27.99950252
+    ]
+   },
+   "properties": {
+    "name": "12 WAKEFUL DRIVE BEAUDESERT 4285",
+    "locID": "LOC000188878483",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721151372"
    }
   },
   {
@@ -76909,6 +77028,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721152029"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98861246,
+     -27.99896697
+    ]
+   },
+   "properties": {
+    "name": "22 WAKEFUL DRIVE BEAUDESERT 4285",
+    "locID": "ChIJ3_uDi-ookWsRf-EV8gvpfQc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721152095"
    }
   },
   {
