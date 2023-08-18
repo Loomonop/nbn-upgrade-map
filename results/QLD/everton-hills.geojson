@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T23:17:21.496508",
+ "generated": "2023-08-18T00:24:02.470844",
  "suburb": "EVERTON HILLS",
  "features": [
   {
@@ -21435,8 +21435,8 @@
    "properties": {
     "name": "6 KEILAR COURT EVERTON HILLS 4053",
     "locID": "LOC000079957727",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156567024"
    }
   },
@@ -23067,8 +23067,8 @@
    "properties": {
     "name": "1035 SOUTH PINE ROAD EVERTON HILLS 4053",
     "locID": "LOC000105686203",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156569283"
    }
   },
@@ -35699,7 +35699,7 @@
     "name": "31 QUANDONG CRESCENT EVERTON HILLS 4053",
     "locID": "LOC000034170631",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162187066"
    }
   },
@@ -41131,6 +41131,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.96378138,
+     -27.38383649
+    ]
+   },
+   "properties": {
+    "name": "125 COLLINS ROAD EVERTON HILLS 4053",
+    "locID": "EjExMjUgQ29sbGlucyBSZCwgRXZlcnRvbiBIaWxscyBRTEQgNDA1MywgQXVzdHJhbGlhIjASLgoUChIJUQzM2jRWkWsR_xX06Kll9noQfSoUChIJ3WR6vjRWkWsRF5m-jm-2OuM",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425201832"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97696476,
      -27.3814295
     ]
@@ -44757,6 +44774,23 @@
     ]
    },
    "properties": {
+    "name": "59 OLEARIA STREET WEST EVERTON HILLS 4053",
+    "locID": "ChIJxTYKUE1WkWsRbH-FZ3cmAXA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425812371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.96693743,
+     -27.39673721
+    ]
+   },
+   "properties": {
     "name": "61 OLEARIA STREET WEST EVERTON HILLS 4053",
     "locID": "ChIJxTYKUE1WkWsRxm5hyfyJT-8",
     "tech": "FTTN",
@@ -44813,6 +44847,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425834576"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97146841,
+     -27.39789925
+    ]
+   },
+   "properties": {
+    "name": "59-65 OLEARIA STREET EAST EVERTON HILLS 4053",
+    "locID": "ChIJfQFZcbJXkWsR2aisoHyJs_E",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425840508"
    }
   },
   {

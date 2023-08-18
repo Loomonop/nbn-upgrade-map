@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T23:37:21.223841",
+ "generated": "2023-08-18T00:40:10.503794",
  "suburb": "MORAYFIELD",
  "features": [
   {
@@ -1613,8 +1613,8 @@
    "properties": {
     "name": "21 SKYE STREET MORAYFIELD 4506",
     "locID": "LOC000014357908",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155576203"
    }
   },
@@ -2634,7 +2634,7 @@
     "name": "23 SHARON COURT MORAYFIELD 4506",
     "locID": "LOC000105992002",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155576673"
    }
   },
@@ -5863,8 +5863,8 @@
    "properties": {
     "name": "114 HARGRAVE STREET MORAYFIELD 4506",
     "locID": "LOC000039437739",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155577915"
    }
   },
@@ -12697,8 +12697,8 @@
    "properties": {
     "name": "295-297 MORAYFIELD ROAD MORAYFIELD 4506",
     "locID": "LOC000128360462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155581316"
    }
   },
@@ -14313,7 +14313,7 @@
     "name": "8 HILLGROVE COURT MORAYFIELD 4506",
     "locID": "LOC000020790243",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155582447"
    }
   },
@@ -24716,8 +24716,8 @@
    "properties": {
     "name": "12 CARLISLE STREET MORAYFIELD 4506",
     "locID": "LOC000047432699",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155588059"
    }
   },
@@ -35987,7 +35987,7 @@
    "properties": {
     "name": "396 MORAYFIELD ROAD MORAYFIELD 4506",
     "locID": "ChIJ5dxJtnLxk2sRLZkuErC5RJE",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156866396"
    }
@@ -37704,8 +37704,8 @@
    "properties": {
     "name": "10 SKYE STREET MORAYFIELD 4506",
     "locID": "LOC000058569457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156880879"
    }
   },
@@ -39949,7 +39949,7 @@
     "name": "22 STURT STREET MORAYFIELD 4506",
     "locID": "LOC000059206348",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156894907"
    }
   },
@@ -55537,7 +55537,7 @@
    "properties": {
     "name": "1 LINDSAY ROAD MORAYFIELD 4506",
     "locID": "LOC000179066737",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158309274"
    }
@@ -58700,7 +58700,7 @@
     "name": "12 MOUNTAIN VISTA COURT MORAYFIELD 4506",
     "locID": "LOC000072292888",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158313634"
    }
   },
@@ -65754,8 +65754,8 @@
    "properties": {
     "name": "2 MAWSON DRIVE MORAYFIELD 4506",
     "locID": "LOC000024715576",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158325098"
    }
   },
@@ -86249,6 +86249,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.94419686,
+     -27.11951631
+    ]
+   },
+   "properties": {
+    "name": "LOT 104 OAKEY FLAT ROAD MORAYFIELD 4506",
+    "locID": "LOC000193410026",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161260947"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.94465875,
      -27.1191875
     ]
@@ -87466,6 +87483,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161424557"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.93948357,
+     -27.10885482
+    ]
+   },
+   "properties": {
+    "name": "46-54 AMY STREET MORAYFIELD 4506",
+    "locID": "ChIJJ6gct1zxk2sReBF817bvM4E",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161424560"
    }
   },
   {
@@ -89302,6 +89336,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161429586"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.94233955,
+     -27.10547305
+    ]
+   },
+   "properties": {
+    "name": "LOT 202 CABOOLTURE RIVER ROAD MORAYFIELD 4506",
+    "locID": "EjcyMDIgQ2Fib29sdHVyZSBSaXZlciBSZCwgTW9yYXlmaWVsZCBRTEQgNDUwNiwgQXVzdHJhbGlhIjESLwoUChIJV712j1Hxk2sRyz_q7Sr_LB0QygEqFAoSCYeB2ejr9pNrEUruUdJqV3ge",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161429587"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.94299413,
+     -27.10551371
+    ]
+   },
+   "properties": {
+    "name": "LOT 203 CABOOLTURE RIVER ROAD MORAYFIELD 4506",
+    "locID": "EjcyMDMgQ2Fib29sdHVyZSBSaXZlciBSZCwgTW9yYXlmaWVsZCBRTEQgNDUwNiwgQXVzdHJhbGlhIjESLwoUChIJV712j1Hxk2sRyz_q7Sr_LB0QywEqFAoSCYeB2ejr9pNrEUruUdJqV3ge",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161429588"
    }
   },
   {
@@ -94314,8 +94382,8 @@
    "properties": {
     "name": "LOT 9 MORAYFIELD ROAD MORAYFIELD 4506",
     "locID": "LOC000128360462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161448944"
    }
   },
@@ -94909,8 +94977,8 @@
    "properties": {
     "name": "41-43 NAOMI COURT MORAYFIELD 4506",
     "locID": "LOC000051007118",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161449949"
    }
   },
@@ -106010,8 +106078,8 @@
    "properties": {
     "name": "15 KEELEY STREET MORAYFIELD 4506",
     "locID": "LOC000019919531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162303460"
    }
   },
@@ -106268,23 +106336,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162320127"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.94534427,
-     -27.12221981
-    ]
-   },
-   "properties": {
-    "name": "142A OAKEY FLAT ROAD MORAYFIELD 4506",
-    "locID": "LOC000012480857",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162320887"
    }
   },
   {
@@ -108750,6 +108801,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162437877"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92008819,
+     -27.12529936
+    ]
+   },
+   "properties": {
+    "name": "36-42 MCLOUGHLIN ROAD MORAYFIELD 4506",
+    "locID": "ChIJ9fAXMc32k2sR4PMW0V94YH8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162437879"
    }
   },
   {
@@ -115751,8 +115819,8 @@
    "properties": {
     "name": "18 RADIATA COURT MORAYFIELD 4506",
     "locID": "LOC000030723475",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162668331"
    }
   },
@@ -129946,8 +130014,8 @@
    "properties": {
     "name": "1-3 LANITA CHASE MORAYFIELD 4506",
     "locID": "LOC000110831655",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163217016"
    }
   },
@@ -131391,8 +131459,8 @@
    "properties": {
     "name": "24 BANGALOW STREET MORAYFIELD 4506",
     "locID": "LOC000103929306",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163259085"
    }
   },
@@ -132173,8 +132241,8 @@
    "properties": {
     "name": "1-3 KENTIA COURT MORAYFIELD 4506",
     "locID": "LOC000056879192",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163263693"
    }
   },
@@ -132853,8 +132921,8 @@
    "properties": {
     "name": "34 SOWARD COURT MORAYFIELD 4506",
     "locID": "LOC000064142233",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163267475"
    }
   },
@@ -135641,8 +135709,8 @@
    "properties": {
     "name": "UNIT 1, 32 LANITA CHASE MORAYFIELD 4506",
     "locID": "LOC000110831655",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163328907"
    }
   },
@@ -138218,23 +138286,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.94534427,
-     -27.12221981
-    ]
-   },
-   "properties": {
-    "name": "142 OAKEY FLAT ROAD MORAYFIELD 4506",
-    "locID": "LOC000012480857",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163375762"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.95809225,
      -27.11432836
     ]
@@ -138548,8 +138599,8 @@
    "properties": {
     "name": "5 KAMALA STREET MORAYFIELD 4506",
     "locID": "LOC000116033568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424844916"
    }
   },
@@ -179188,6 +179239,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.94083479,
+     -27.10504023
+    ]
+   },
+   "properties": {
+    "name": "LOT 208 CABOOLTURE RIVER ROAD MORAYFIELD 4506",
+    "locID": "EjcyMDggQ2Fib29sdHVyZSBSaXZlciBSZCwgTW9yYXlmaWVsZCBRTEQgNDUwNiwgQXVzdHJhbGlhIjESLwoUChIJV712j1Hxk2sRyz_q7Sr_LB0Q0AEqFAoSCYeB2ejr9pNrEUruUdJqV3ge",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720034802"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96501224,
      -27.11229924
     ]
@@ -214055,6 +214123,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.95669013,
+     -27.13042124
+    ]
+   },
+   "properties": {
+    "name": "28 SUNRISE STREET MORAYFIELD 4506",
+    "locID": "ChIJ1653Fw7xk2sRqaiYvcbahUc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721148787"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.9425841,
      -27.11474822
     ]
@@ -214507,6 +214592,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721151845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.95515078,
+     -27.13020383
+    ]
+   },
+   "properties": {
+    "name": "6 SUNRISE STREET MORAYFIELD 4506",
+    "locID": "ChIJkRwL6BHxk2sRmPyCd-tzjXA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721151921"
    }
   },
   {
@@ -216428,6 +216530,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD721231972"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.91632341,
+     -27.12330904
+    ]
+   },
+   "properties": {
+    "name": "52 RANGEVIEW ROAD MORAYFIELD 4506",
+    "locID": "LOC000191736642",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721231990"
    }
   },
   {

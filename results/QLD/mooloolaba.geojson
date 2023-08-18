@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T23:05:31.851249",
+ "generated": "2023-08-18T00:11:07.465663",
  "suburb": "MOOLOOLABA",
  "features": [
   {
@@ -389,8 +389,8 @@
    "properties": {
     "name": "12 PARKWAY DRIVE MOOLOOLABA 4557",
     "locID": "LOC000089688950",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155561760"
    }
   },
@@ -8821,8 +8821,8 @@
    "properties": {
     "name": "32 SMITH STREET MOOLOOLABA 4557",
     "locID": "LOC000040787495",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155571013"
    }
   },
@@ -12663,8 +12663,8 @@
    "properties": {
     "name": "45 JACARANDA DRIVE MOOLOOLABA 4557",
     "locID": "LOC000085622860",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155574727"
    }
   },
@@ -17212,6 +17212,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11526424,
+     -26.6954081
+    ]
+   },
+   "properties": {
+    "name": "194 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJR5_xSfl1k2sRnQEteYmbSFs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155582119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.11552458,
      -26.6942891
     ]
@@ -17222,6 +17239,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155582121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11562334,
+     -26.69460377
+    ]
+   },
+   "properties": {
+    "name": "203 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "LOC000021609233",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD155582123"
    }
   },
   {
@@ -18079,6 +18113,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11485951,
+     -26.69519628
+    ]
+   },
+   "properties": {
+    "name": "11 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "ChIJGcEsS_l1k2sRwSjiG2JRGqY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155619138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11492118,
+     -26.69535877
+    ]
+   },
+   "properties": {
+    "name": "13 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "ChIJaVS-Svl1k2sRQ_csp5MWqDM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155619139"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11460476,
+     -26.69456869
+    ]
+   },
+   "properties": {
+    "name": "3 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "LOC000075906074",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD155619147"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11465389,
+     -26.694726
+    ]
+   },
+   "properties": {
+    "name": "5 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "LOC000035785094",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155619154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.11431094,
      -26.69514423
     ]
@@ -18113,6 +18215,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11515029,
+     -26.69520157
+    ]
+   },
+   "properties": {
+    "name": "192 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJQ4C4S_l1k2sRT7RWEZTge3A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155620052"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.11403392,
      -26.69512419
     ]
@@ -18123,6 +18242,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155620091"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11408707,
+     -26.69533113
+    ]
+   },
+   "properties": {
+    "name": "12 INCANA COURT MOOLOOLABA 4557",
+    "locID": "ChIJWVgIyP51k2sRX9zAMKZF7Nk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155620092"
    }
   },
   {
@@ -22098,8 +22234,8 @@
    "properties": {
     "name": "29 CANDLEWOOD CLOSE MOOLOOLABA 4557",
     "locID": "LOC000019048539",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156819674"
    }
   },
@@ -24274,8 +24410,8 @@
    "properties": {
     "name": "4 COREE COURT MOOLOOLABA 4557",
     "locID": "LOC000015352799",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156823315"
    }
   },
@@ -28493,6 +28629,57 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156827432"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11526424,
+     -26.6954081
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 194 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJR5_xSfl1k2sRnQEteYmbSFs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156827433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11526424,
+     -26.6954081
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 194 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJR5_xSfl1k2sRnQEteYmbSFs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156827434"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11545967,
+     -26.69405144
+    ]
+   },
+   "properties": {
+    "name": "197 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJaZd-_ft1k2sREHpSH0Nmpc8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156827436"
    }
   },
   {
@@ -43448,6 +43635,23 @@
     ]
    },
    "properties": {
+    "name": "UNIT 3, 9 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "LOC000097292565",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156851338"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11481462,
+     -26.69502386
+    ]
+   },
+   "properties": {
     "name": "UNIT 4, 9 ULMARRA COURT MOOLOOLABA 4557",
     "locID": "LOC000097292565",
     "tech": "FTTN",
@@ -43978,7 +44182,7 @@
     "name": "39 MOONDARRA CRESCENT MOOLOOLABA 4557",
     "locID": "LOC000049203279",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156851629"
    }
   },
@@ -46817,7 +47021,7 @@
     "name": "56 CARROTHOOL PLACE MOOLOOLABA 4557",
     "locID": "LOC000031653397",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156855301"
    }
   },
@@ -47377,8 +47581,8 @@
    "properties": {
     "name": "23 PALM DRIVE MOOLOOLABA 4557",
     "locID": "LOC000040499209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156855340"
    }
   },
@@ -51372,8 +51576,8 @@
    "properties": {
     "name": "UNIT 2, 44 TOORUMBEE DRIVE MOOLOOLABA 4557",
     "locID": "LOC000015779136",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156858753"
    }
   },
@@ -52895,6 +53099,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11761811,
+     -26.68165371
+    ]
+   },
+   "properties": {
+    "name": "34 SMITH STREET MOOLOOLABA 4557",
+    "locID": "LOC000039932961",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156861890"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.11799909,
      -26.68216491
     ]
@@ -52990,6 +53211,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156862009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11988549,
+     -26.6801222
+    ]
+   },
+   "properties": {
+    "name": "UNIT 19, 3 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "LOC000060764959",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156862010"
    }
   },
   {
@@ -58003,7 +58241,7 @@
     "name": "UNIT 2, 50 TOORUMBEE DRIVE MOOLOOLABA 4557",
     "locID": "LOC000011635745",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156865827"
    }
   },
@@ -59090,8 +59328,8 @@
    "properties": {
     "name": "44 TARWARRI CRESCENT MOOLOOLABA 4557",
     "locID": "LOC000048057421",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156868614"
    }
   },
@@ -63741,6 +63979,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11515029,
+     -26.69520157
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 192 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJQ4C4S_l1k2sRT7RWEZTge3A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158288635"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.12527376,
      -26.68447564
     ]
@@ -63870,6 +64125,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158288927"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11515029,
+     -26.69520157
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 192 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJQ4C4S_l1k2sRT7RWEZTge3A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158288928"
    }
   },
   {
@@ -64863,6 +65135,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11492118,
+     -26.69535877
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 13 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "ChIJaVS-Svl1k2sRQ_csp5MWqDM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158290859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.1092222,
      -26.68604434
     ]
@@ -64873,6 +65162,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158290860"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11492118,
+     -26.69535877
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 13 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "ChIJaVS-Svl1k2sRQ_csp5MWqDM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158290861"
    }
   },
   {
@@ -65179,6 +65485,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158293138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11515029,
+     -26.69520157
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 192 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJQ4C4S_l1k2sRT7RWEZTge3A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158293144"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11408707,
+     -26.69533113
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 12 INCANA COURT MOOLOOLABA 4557",
+    "locID": "ChIJWVgIyP51k2sRX9zAMKZF7Nk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158293151"
    }
   },
   {
@@ -66614,6 +66954,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11465389,
+     -26.694726
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 5 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "LOC000035785094",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158297857"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.11434253,
      -26.69086886
     ]
@@ -67134,6 +67491,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158298741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11437889,
+     -26.6953062
+    ]
+   },
+   "properties": {
+    "name": "8B ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "ChIJv5beyf51k2sRLfEemBW3HpI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158298742"
    }
   },
   {
@@ -71187,6 +71561,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11408707,
+     -26.69533113
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 12 INCANA COURT MOOLOOLABA 4557",
+    "locID": "ChIJWVgIyP51k2sRX9zAMKZF7Nk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158311641"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.11603217,
      -26.68336546
     ]
@@ -71918,6 +72309,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11515029,
+     -26.69520157
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 192 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJQ4C4S_l1k2sRT7RWEZTge3A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158316034"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.10877743,
      -26.68253692
     ]
@@ -72411,6 +72819,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11515029,
+     -26.69520157
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 192 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJQ4C4S_l1k2sRT7RWEZTge3A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158317611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.10609844,
      -26.68476488
     ]
@@ -72438,6 +72863,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158317617"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11460476,
+     -26.69456869
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 3 ULMARRA COURT MOOLOOLABA 4557",
+    "locID": "LOC000075906074",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD158317620"
    }
   },
   {
@@ -74172,6 +74614,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158324766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11408707,
+     -26.69533113
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 12 INCANA COURT MOOLOOLABA 4557",
+    "locID": "ChIJWVgIyP51k2sRX9zAMKZF7Nk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158324770"
    }
   },
   {
@@ -76484,6 +76943,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160088996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11515029,
+     -26.69520157
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 192 BRISBANE ROAD MOOLOOLABA 4557",
+    "locID": "ChIJQ4C4S_l1k2sRT7RWEZTge3A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160089004"
    }
   },
   {

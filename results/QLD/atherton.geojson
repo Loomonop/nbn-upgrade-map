@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-03T23:11:19.472584",
+ "generated": "2023-08-18T00:17:11.877676",
  "suburb": "ATHERTON",
  "features": [
   {
@@ -19177,6 +19177,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156068250"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.47846889,
+     -17.28915991
+    ]
+   },
+   "properties": {
+    "name": "LOT 127 HASTIE ROAD ATHERTON 4883",
+    "locID": "EisxMjcgSGFzdGllIFJkLCBBdGhlcnRvbiBRTEQgNDg4MywgQXVzdHJhbGlhIjASLgoUChIJweKAQVx1gmkRw8E6gmxsD5UQfyoUChIJ9YF1FVx1gmkRhqRW1Fx7NmI",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156098344"
    }
   },
   {
@@ -56669,6 +56686,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.48003939,
+     -17.25141592
+    ]
+   },
+   "properties": {
+    "name": "LOT 11 KENNEDY HIGHWAY ATHERTON 4883",
+    "locID": "EiwxMSBLZW5uZWR5IEh3eSwgQXRoZXJ0b24gUUxEIDQ4ODMsIEF1c3RyYWxpYSIwEi4KFAoSCatoRRrldYJpEWwPOSpG5-UqEAsqFAoSCXFnFBAggXhpEbjG6fRjr106",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161197789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.47713845,
      -17.25281683
     ]
@@ -61728,6 +61762,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161460979"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.50079888,
+     -17.25818487
+    ]
+   },
+   "properties": {
+    "name": "LOT 122 TINAROO FALLS DAM ROAD ATHERTON 4883",
+    "locID": "EjYxMjIgVGluYXJvbyBGYWxscyBEYW0gUmQsIEF0aGVydG9uIFFMRCA0ODgzLCBBdXN0cmFsaWEiMBIuChQKEgm51xEzO554aREQ9eHcPH8TtxB6KhQKEgkHM8j5cp54aREufRvtO7pdMA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161461389"
    }
   },
   {
@@ -72215,7 +72266,7 @@
     "name": "8-20 MABEL STREET ATHERTON 4883",
     "locID": "LOC000020015240",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163036361"
    }
   },
@@ -83264,8 +83315,8 @@
    "properties": {
     "name": "24 LAVENDER CRESCENT ATHERTON 4883",
     "locID": "LOC000179724444",
-    "tech": "WIRELESS",
-    "upgrade": "FTTN_NA",
+    "tech": "FTTN",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GAQLD425768685"
    }
   },
