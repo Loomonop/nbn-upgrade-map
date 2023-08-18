@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T09:48:56.189388",
+ "generated": "2023-08-18T10:56:09.633354",
  "suburb": "BAYVIEW HEIGHTS",
  "features": [
   {
@@ -84,7 +84,7 @@
     "name": "2 SAPPHIRE CLOSE BAYVIEW HEIGHTS 4868",
     "locID": "LOC000061393019",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD154989738"
    }
   },
@@ -661,8 +661,8 @@
    "properties": {
     "name": "39 KENNETH STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000087315483",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD154989820"
    }
   },
@@ -7325,8 +7325,8 @@
    "properties": {
     "name": "15 PANORAMA STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000005816900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155002659"
    }
   },
@@ -10062,8 +10062,8 @@
    "properties": {
     "name": "74 SHANNON DRIVE BAYVIEW HEIGHTS 4868",
     "locID": "LOC000059314610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156167965"
    }
   },
@@ -12459,8 +12459,8 @@
    "properties": {
     "name": "21 TURQUOISE CLOSE BAYVIEW HEIGHTS 4868",
     "locID": "LOC000094183597",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156248315"
    }
   },
@@ -13361,7 +13361,7 @@
     "name": "5 ARENA CLOSE BAYVIEW HEIGHTS 4868",
     "locID": "LOC000090943534",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156250009"
    }
   },
@@ -14261,8 +14261,8 @@
    "properties": {
     "name": "209 TOOGOOD ROAD BAYVIEW HEIGHTS 4868",
     "locID": "LOC000041820149",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156250934"
    }
   },
@@ -16573,8 +16573,8 @@
    "properties": {
     "name": "13 MARTI STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000064946571",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156255122"
    }
   },
@@ -17118,7 +17118,7 @@
     "name": "68 FAIRVIEW STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000079980585",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156255182"
    }
   },
@@ -17984,8 +17984,8 @@
    "properties": {
     "name": "269 TOOGOOD ROAD BAYVIEW HEIGHTS 4868",
     "locID": "LOC000025705666",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156255261"
    }
   },
@@ -18494,8 +18494,8 @@
    "properties": {
     "name": "48 BAYVIEW STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000049254639",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156256020"
    }
   },
@@ -21146,8 +21146,8 @@
    "properties": {
     "name": "70 AMETHYST STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000041392809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156257697"
    }
   },
@@ -24190,7 +24190,7 @@
     "name": "54 PARK STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000024008240",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156258699"
    }
   },
@@ -26417,7 +26417,7 @@
     "name": "1 VISTA STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000071263405",
     "tech": "FTTP",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157507734"
    }
   },
@@ -28439,8 +28439,8 @@
    "properties": {
     "name": "5 DANDALOO STREET BAYVIEW HEIGHTS 4868",
     "locID": "LOC000048312131",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161780634"
    }
   },
@@ -28680,6 +28680,40 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162005181"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.72766565,
+     -16.96583897
+    ]
+   },
+   "properties": {
+    "name": "LOT 194 ANDERSON ROAD BAYVIEW HEIGHTS 4868",
+    "locID": "ChIJA2KoULxjeGkRwDQPIoBKclg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162005182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.72680388,
+     -16.9658018
+    ]
+   },
+   "properties": {
+    "name": "LOT 200 ANDERSON ROAD BAYVIEW HEIGHTS 4868",
+    "locID": "ChIJD-Xv8LxjeGkRJ-hUDbC6RH0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162005183"
    }
   },
   {
@@ -29731,8 +29765,8 @@
    "properties": {
     "name": "4-6 CREEK CLOSE BAYVIEW HEIGHTS 4868",
     "locID": "LOC000129785541",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162952726"
    }
   },

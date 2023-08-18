@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T09:46:42.867934",
+ "generated": "2023-08-18T10:53:59.801211",
  "suburb": "UNDERWOOD",
  "features": [
   {
@@ -6747,8 +6747,8 @@
    "properties": {
     "name": "11 THE HEIGHTS UNDERWOOD 4119",
     "locID": "LOC000064207770",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155920290"
    }
   },
@@ -30445,8 +30445,8 @@
    "properties": {
     "name": "40 THE CONCOURSE UNDERWOOD 4119",
     "locID": "LOC000083934671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158785395"
    }
   },
@@ -44684,6 +44684,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.1112053,
+     -27.60681773
+    ]
+   },
+   "properties": {
+    "name": "3121-3135 LOGAN ROAD UNDERWOOD 4119",
+    "locID": "EiwzMTIxIExvZ2FuIFJkLCBVbmRlcndvb2QgUUxEIDQxMTksIEF1c3RyYWxpYSIxEi8KFAoSCdtBHa5iQ5FrEZA1rJZTrzuyELEYKhQKEgnXoHfiOVuRaxExkN8XIzD1RA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162044869"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.10986655,
      -27.60420702
     ]
@@ -51508,8 +51525,8 @@
    "properties": {
     "name": "11 BRINE PLACE UNDERWOOD 4119",
     "locID": "LOC000030766947",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163132344"
    }
   },
@@ -59957,7 +59974,7 @@
    "properties": {
     "name": "1-3 BROOKVALE DRIVE UNDERWOOD 4119",
     "locID": "LOC000189917845",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425347044"
    }
