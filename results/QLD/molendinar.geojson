@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T18:23:14.647581",
+ "generated": "2023-08-18T21:27:42.413582",
  "suburb": "MOLENDINAR",
  "features": [
   {
@@ -3229,7 +3229,7 @@
     "name": "38 DELLWOOD CIRCUIT MOLENDINAR 4214",
     "locID": "LOC000049527085",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155563257"
    }
   },
@@ -5285,8 +5285,8 @@
    "properties": {
     "name": "38 GUMLEAF DRIVE MOLENDINAR 4214",
     "locID": "LOC000001686987",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155566201"
    }
   },
@@ -8022,8 +8022,8 @@
    "properties": {
     "name": "14 WATTLEBRUSH GROVE MOLENDINAR 4214",
     "locID": "LOC000023344711",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155570963"
    }
   },
@@ -10130,8 +10130,8 @@
    "properties": {
     "name": "173 CRESTWOOD DRIVE MOLENDINAR 4214",
     "locID": "LOC000043354804",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155573217"
    }
   },
@@ -11422,8 +11422,8 @@
    "properties": {
     "name": "36 GUMLEAF DRIVE MOLENDINAR 4214",
     "locID": "LOC000050155566",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155573803"
    }
   },
@@ -16124,6 +16124,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.36074354,
+     -27.98402514
+    ]
+   },
+   "properties": {
+    "name": "49 HARPER STREET MOLENDINAR 4214",
+    "locID": "LOC000193326254",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155630357"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.35940335,
      -27.98421771
     ]
@@ -17321,8 +17338,8 @@
    "properties": {
     "name": "13 WATTLEBRUSH GROVE MOLENDINAR 4214",
     "locID": "LOC000008163342",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156046028"
    }
   },
@@ -47139,8 +47156,8 @@
    "properties": {
     "name": "17 CASUARINA DRIVE MOLENDINAR 4214",
     "locID": "LOC000061877474",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161097430"
    }
   },
@@ -50012,8 +50029,8 @@
    "properties": {
     "name": "3 RIMU PLACE MOLENDINAR 4214",
     "locID": "LOC000090052306",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161290748"
    }
   },
@@ -50879,8 +50896,8 @@
    "properties": {
     "name": "4 VIEWRIDGE WAY MOLENDINAR 4214",
     "locID": "LOC000040118625",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161341555"
    }
   },
@@ -55265,8 +55282,8 @@
    "properties": {
     "name": "17 BANBROOK COURT MOLENDINAR 4214",
     "locID": "LOC000025886346",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162007815"
    }
   },

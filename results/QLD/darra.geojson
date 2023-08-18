@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T18:43:09.780842",
+ "generated": "2023-08-18T21:45:45.911184",
  "suburb": "DARRA",
  "features": [
   {
@@ -10820,6 +10820,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.95577782,
+     -27.56379872
+    ]
+   },
+   "properties": {
+    "name": "24 KING EDWARD AVENUE DARRA 4076",
+    "locID": "LOC000193564543",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155238909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.95599724,
      -27.56441091
     ]
@@ -12187,8 +12204,8 @@
    "properties": {
     "name": "6 PATRIOT STREET DARRA 4076",
     "locID": "LOC000028582274",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155245343"
    }
   },
@@ -13346,23 +13363,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156052015"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.95588657,
-     -27.5628726
-    ]
-   },
-   "properties": {
-    "name": "35 KILLARNEY AVENUE DARRA 4076",
-    "locID": "LOC000051337443",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156052016"
    }
   },
   {
@@ -18018,8 +18018,8 @@
    "properties": {
     "name": "64 SOUTHERN CROSS AVENUE DARRA 4076",
     "locID": "LOC000010383437",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156503843"
    }
   },
@@ -23407,8 +23407,8 @@
    "properties": {
     "name": "38 ABERDARE STREET DARRA 4076",
     "locID": "LOC000001640937",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156514768"
    }
   },
