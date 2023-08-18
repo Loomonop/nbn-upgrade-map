@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T13:18:42.261060",
+ "generated": "2023-08-18T15:29:15.847510",
  "suburb": "SPRINGFIELD",
  "features": [
   {
@@ -7988,8 +7988,8 @@
    "properties": {
     "name": "10 NORWOOD ROW SPRINGFIELD 4300",
     "locID": "LOC000101745588",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156070437"
    }
   },
@@ -8362,8 +8362,8 @@
    "properties": {
     "name": "61 WOODCREST WAY SPRINGFIELD 4300",
     "locID": "LOC000046846316",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156088873"
    }
   },
@@ -9791,7 +9791,7 @@
     "name": "5 TIMBERLINE COURT SPRINGFIELD 4300",
     "locID": "LOC000033593638",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158647940"
    }
   },
@@ -14584,8 +14584,8 @@
    "properties": {
     "name": "13 TENNESSEE PLACE SPRINGFIELD 4300",
     "locID": "LOC000024414364",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158684874"
    }
   },
@@ -17423,8 +17423,8 @@
    "properties": {
     "name": "5 MORESBY AVENUE SPRINGFIELD 4300",
     "locID": "LOC000026571550",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160629292"
    }
   },
@@ -18137,8 +18137,8 @@
    "properties": {
     "name": "4 GLENVIEW TERRACE SPRINGFIELD 4300",
     "locID": "LOC000067929648",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160629618"
    }
   },
@@ -19871,8 +19871,8 @@
    "properties": {
     "name": "85 SHARPLESS ROAD SPRINGFIELD 4300",
     "locID": "LOC000086768364",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD160630284"
    }
   },
@@ -20518,7 +20518,7 @@
     "name": "2 FOSSICKER CIRCUIT SPRINGFIELD 4300",
     "locID": "LOC000061394050",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160632434"
    }
   },
@@ -24921,7 +24921,7 @@
     "name": "6 ASHTON PLACE SPRINGFIELD 4300",
     "locID": "LOC000005755089",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160638269"
    }
   },
@@ -25464,8 +25464,8 @@
    "properties": {
     "name": "3 CLEARVIEW COURT SPRINGFIELD 4300",
     "locID": "LOC000043538742",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160638329"
    }
   },
@@ -27114,7 +27114,7 @@
     "name": "11 SUNVIEW ROAD SPRINGFIELD 4300",
     "locID": "LOC000070001507",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161371928"
    }
   },
@@ -28014,8 +28014,8 @@
    "properties": {
     "name": "9 PARKSIDE DRIVE SPRINGFIELD 4300",
     "locID": "LOC000099176778",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161379460"
    }
   },
@@ -31092,7 +31092,7 @@
     "name": "1 GREENLAND COURT SPRINGFIELD 4300",
     "locID": "LOC000099646024",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161754466"
    }
   },
@@ -31706,6 +31706,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161762842"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.91645118,
+     -27.65109924
+    ]
+   },
+   "properties": {
+    "name": "LOT 814 OLD LOGAN ROAD SPRINGFIELD 4300",
+    "locID": "EiwzODkgT2xkIExvZ2FuIFJkLCBDYW1pcmEgUUxEIDQzMDAsIEF1c3RyYWxpYSIxEi8KFAoSCUlyGkXeS5FrEby0aC6ody5oEIUDKhQKEgnTA3yp40uRaxHzSEW3guKuUw",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161763912"
    }
   },
   {
@@ -34032,8 +34049,8 @@
    "properties": {
     "name": "16 ESCARPMENT DRIVE SPRINGFIELD 4300",
     "locID": "LOC000105613147",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162615556"
    }
   },
@@ -34168,8 +34185,8 @@
    "properties": {
     "name": "21 TURQUOISE CRESCENT SPRINGFIELD 4300",
     "locID": "LOC000093705058",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162621062"
    }
   },
@@ -34797,8 +34814,8 @@
    "properties": {
     "name": "54 SUNVIEW ROAD SPRINGFIELD 4300",
     "locID": "LOC000088135350",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162669351"
    }
   },
@@ -35053,7 +35070,7 @@
     "name": "13 TURQUOISE CRESCENT SPRINGFIELD 4300",
     "locID": "LOC000002619242",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162669774"
    }
   },
@@ -36157,8 +36174,8 @@
    "properties": {
     "name": "49 EMERALD CRESCENT SPRINGFIELD 4300",
     "locID": "LOC000082079928",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162709018"
    }
   },
@@ -37789,8 +37806,8 @@
    "properties": {
     "name": "LOT 2 CLEARVIEW COURT SPRINGFIELD 4300",
     "locID": "LOC000043538742",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162886840"
    }
   },
@@ -53041,6 +53058,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148034"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.90817694,
+     -27.6542189
+    ]
+   },
+   "properties": {
+    "name": "15 CARBEEN CIRCUIT SPRINGFIELD 4300",
+    "locID": "ChIJWbCYZc1LkWsRSfVNImXJ0Qs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721148038"
    }
   },
   {

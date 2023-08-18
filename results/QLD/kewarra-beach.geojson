@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T12:44:51.338691",
+ "generated": "2023-08-18T14:57:42.291452",
  "suburb": "KEWARRA BEACH",
  "features": [
   {
@@ -6441,8 +6441,8 @@
    "properties": {
     "name": "7 SCARBOROUGH CLOSE KEWARRA BEACH 4879",
     "locID": "LOC000022627416",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155468522"
    }
   },
@@ -7818,8 +7818,8 @@
    "properties": {
     "name": "14 BROLGA STREET KEWARRA BEACH 4879",
     "locID": "LOC000021609660",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156718389"
    }
   },
@@ -8209,8 +8209,8 @@
    "properties": {
     "name": "17 STARLING STREET KEWARRA BEACH 4879",
     "locID": "LOC000102405827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156718428"
    }
   },
@@ -8498,8 +8498,8 @@
    "properties": {
     "name": "11 MORNINGTON STREET KEWARRA BEACH 4879",
     "locID": "LOC000021676761",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156718814"
    }
   },
@@ -9382,8 +9382,8 @@
    "properties": {
     "name": "12 IBIS CLOSE KEWARRA BEACH 4879",
     "locID": "LOC000076127173",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156721939"
    }
   },
@@ -11694,8 +11694,8 @@
    "properties": {
     "name": "10 CARRUM CLOSE KEWARRA BEACH 4879",
     "locID": "LOC000029493685",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156727178"
    }
   },
@@ -12358,7 +12358,7 @@
     "name": "18 COTTESLOE DRIVE KEWARRA BEACH 4879",
     "locID": "LOC000073946546",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156728470"
    }
   },
@@ -14363,8 +14363,8 @@
    "properties": {
     "name": "43 BONDI CRESCENT KEWARRA BEACH 4879",
     "locID": "LOC000026605744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156730472"
    }
   },
@@ -14414,8 +14414,8 @@
    "properties": {
     "name": "5 BONDI CRESCENT KEWARRA BEACH 4879",
     "locID": "LOC000042027727",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156730478"
    }
   },
@@ -17186,7 +17186,7 @@
     "name": "41 COTTESLOE DRIVE KEWARRA BEACH 4879",
     "locID": "LOC000078408373",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158121735"
    }
   },
@@ -20926,7 +20926,7 @@
     "name": "6 NARABEEN STREET KEWARRA BEACH 4879",
     "locID": "LOC000064925255",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160924713"
    }
   },
@@ -21282,8 +21282,8 @@
    "properties": {
     "name": "48 NOVA STREET KEWARRA BEACH 4879",
     "locID": "LOC000102988015",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160957364"
    }
   },
@@ -24403,6 +24403,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.67544776,
+     -16.78579901
+    ]
+   },
+   "properties": {
+    "name": "LOT 164 CAPTAIN COOK HIGHWAY KEWARRA BEACH 4879",
+    "locID": "ChIJB3kOOxlueGkR365LRIp78jY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161681536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.67506363,
      -16.7847844
     ]
@@ -24682,8 +24699,8 @@
    "properties": {
     "name": "30 BILGOLA DRIVE KEWARRA BEACH 4879",
     "locID": "LOC000004888079",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161776667"
    }
   },
@@ -28204,6 +28221,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162015914"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.67398784,
+     -16.78551878
+    ]
+   },
+   "properties": {
+    "name": "LOT 70 CAPTAIN COOK HIGHWAY KEWARRA BEACH 4879",
+    "locID": "EjY3MCBDYXB0YWluIENvb2sgSHd5LCBLZXdhcnJhIEJlYWNoIFFMRCA0ODc5LCBBdXN0cmFsaWEiMBIuChQKEglHF1yqHG54aREzsusoC13f-hBGKhQKEgntMJdqoXR4aREjrw5p5Ffd9A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162015915"
    }
   },
   {
@@ -37265,6 +37299,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162949550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.67365541,
+     -16.78554639
+    ]
+   },
+   "properties": {
+    "name": "LOT 16 CAPTAIN COOK HIGHWAY KEWARRA BEACH 4879",
+    "locID": "ChIJR9snxR5ueGkRU6zAzW8cQTw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162952013"
    }
   },
   {
