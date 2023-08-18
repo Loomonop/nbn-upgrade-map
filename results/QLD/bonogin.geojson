@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T15:14:48.151036",
+ "generated": "2023-08-18T18:24:16.983755",
  "suburb": "BONOGIN",
  "features": [
   {
@@ -2524,6 +2524,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.37451196,
+     -28.12107897
+    ]
+   },
+   "properties": {
+    "name": "3 CARRINGTON ROAD BONOGIN 4213",
+    "locID": "LOC000110229415",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155037603"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.3694637,
      -28.11560666
     ]
@@ -2735,8 +2752,8 @@
    "properties": {
     "name": "30 CHESTERFIELD DRIVE BONOGIN 4213",
     "locID": "LOC000014357822",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155038460"
    }
   },
@@ -5812,7 +5829,7 @@
    "properties": {
     "name": "10 GLENMORE DRIVE BONOGIN 4213",
     "locID": "LOC000189403529",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155043188"
    }
@@ -8872,8 +8889,8 @@
    "properties": {
     "name": "62-64 VALLEYVIEW COURT BONOGIN 4213",
     "locID": "LOC000127294057",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155046805"
    }
   },
@@ -8889,8 +8906,8 @@
    "properties": {
     "name": "65-67 VALLEYVIEW COURT BONOGIN 4213",
     "locID": "LOC000020758055",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155046806"
    }
   },
@@ -10606,8 +10623,8 @@
    "properties": {
     "name": "4-6 GLENEAGLE COURT BONOGIN 4213",
     "locID": "LOC000155682311",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156049421"
    }
   },
@@ -13992,6 +14009,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156295154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.37451196,
+     -28.12107897
+    ]
+   },
+   "properties": {
+    "name": "5 CARRINGTON ROAD BONOGIN 4213",
+    "locID": "LOC000024389512",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156295156"
    }
   },
   {
@@ -21173,6 +21207,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.3742373,
+     -28.11788813
+    ]
+   },
+   "properties": {
+    "name": "57A LYDFORD CLOSE BONOGIN 4213",
+    "locID": "ChIJFZ7qSjkdkWsRsP7z3O01Bww",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161789924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.33477399,
      -28.12541489
     ]
@@ -24352,6 +24403,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.37451196,
+     -28.12107897
+    ]
+   },
+   "properties": {
+    "name": "7B CARRINGTON ROAD BONOGIN 4213",
+    "locID": "ChIJZRmqtjgdkWsRsdWq_oCG-x8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162614225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.37602399,
      -28.10526984
     ]
@@ -24498,6 +24566,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162659994"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.37451196,
+     -28.12107897
+    ]
+   },
+   "properties": {
+    "name": "7A CARRINGTON ROAD BONOGIN 4213",
+    "locID": "ChIJZRmqtjgdkWsRQ-e3eL_3Pdc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162664200"
    }
   },
   {
@@ -25736,7 +25821,7 @@
    "properties": {
     "name": "29-71 GLENMORE DRIVE BONOGIN 4213",
     "locID": "ChIJbfIEMQ0dkWsRzN47liUlk9A",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163067949"
    }
@@ -26978,7 +27063,7 @@
     "name": "LOT 997 BARDEN RIDGE ROAD BONOGIN 4213",
     "locID": "LOC000155652700",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425198193"
    }
   },
@@ -29120,7 +29205,7 @@
     "name": "76 HERSDEN COURT BONOGIN 4213",
     "locID": "LOC000182425829",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720663723"
    }
   },
@@ -29408,7 +29493,7 @@
    "properties": {
     "name": "5 MCDONALD LANE BONOGIN 4213",
     "locID": "LOC000189403555",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721146823"
    }
@@ -29425,7 +29510,7 @@
    "properties": {
     "name": "1 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403488",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721147585"
    }
@@ -29442,7 +29527,7 @@
    "properties": {
     "name": "21 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403538",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721147829"
    }
@@ -29476,7 +29561,7 @@
    "properties": {
     "name": "2 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403419",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721147931"
    }
@@ -29493,7 +29578,7 @@
    "properties": {
     "name": "4 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403426",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721147967"
    }
@@ -29510,7 +29595,7 @@
    "properties": {
     "name": "10 CLIFFORD RISE BONOGIN 4213",
     "locID": "LOC000189403501",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148207"
    }
@@ -29527,7 +29612,7 @@
    "properties": {
     "name": "2 CLIFFORD RISE BONOGIN 4213",
     "locID": "LOC000189403501",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148238"
    }
@@ -29544,7 +29629,7 @@
    "properties": {
     "name": "13 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403540",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148261"
    }
@@ -29561,7 +29646,7 @@
    "properties": {
     "name": "9 MCDONALD LANE BONOGIN 4213",
     "locID": "LOC000189403564",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148424"
    }
@@ -29578,7 +29663,7 @@
    "properties": {
     "name": "2 BRIGHTON LANE BONOGIN 4213",
     "locID": "LOC000189403586",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148691"
    }
@@ -29612,7 +29697,7 @@
    "properties": {
     "name": "3 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403490",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721149435"
    }
@@ -29629,7 +29714,7 @@
    "properties": {
     "name": "10 BRIGHTON LANE BONOGIN 4213",
     "locID": "LOC000189403572",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721149458"
    }
@@ -29646,7 +29731,7 @@
    "properties": {
     "name": "6 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721150039"
    }
@@ -29663,7 +29748,7 @@
    "properties": {
     "name": "7 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403461",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721150320"
    }
@@ -29680,7 +29765,7 @@
    "properties": {
     "name": "9 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403457",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721151204"
    }
@@ -29697,7 +29782,7 @@
    "properties": {
     "name": "18 BRIGHTON LANE BONOGIN 4213",
     "locID": "LOC000189403670",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721151460"
    }
@@ -29714,7 +29799,7 @@
    "properties": {
     "name": "10 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403442",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721151680"
    }
@@ -29748,7 +29833,7 @@
    "properties": {
     "name": "5 STELLA PLACE BONOGIN 4213",
     "locID": "LOC000189403474",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721152132"
    }
