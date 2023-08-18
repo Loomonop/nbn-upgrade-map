@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T19:44:34.693335",
+ "generated": "2023-08-18T22:34:29.623505",
  "suburb": "PROSERPINE",
  "features": [
   {
@@ -729,8 +729,8 @@
    "properties": {
     "name": "12 FULLER STREET PROSERPINE 4800",
     "locID": "LOC000072076075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155722073"
    }
   },
@@ -3976,8 +3976,8 @@
    "properties": {
     "name": "13 KEITH JOHNS DRIVE PROSERPINE 4800",
     "locID": "LOC000022303077",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156988390"
    }
   },
@@ -9552,8 +9552,8 @@
    "properties": {
     "name": "10 ATKINSON STREET PROSERPINE 4800",
     "locID": "LOC000034632758",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157009502"
    }
   },
@@ -11695,7 +11695,7 @@
     "name": "1 FAUST STREET PROSERPINE 4800",
     "locID": "LOC000032651398",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157013328"
    }
   },
@@ -11763,7 +11763,7 @@
     "name": "104 FAUST STREET PROSERPINE 4800",
     "locID": "LOC000032651398",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157013334"
    }
   },
@@ -14261,8 +14261,8 @@
    "properties": {
     "name": "32 ROSE STREET PROSERPINE 4800",
     "locID": "LOC000064207665",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157023780"
    }
   },
@@ -15486,7 +15486,7 @@
     "name": "41 FULJAMES STREET PROSERPINE 4800",
     "locID": "LOC000045992966",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157030856"
    }
   },
@@ -16114,8 +16114,8 @@
    "properties": {
     "name": "7 STERRY STREET PROSERPINE 4800",
     "locID": "LOC000063026557",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157030910"
    }
   },
@@ -17542,8 +17542,8 @@
    "properties": {
     "name": "59 MARATHON STREET PROSERPINE 4800",
     "locID": "LOC000024027400",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157343292"
    }
   },
@@ -18953,8 +18953,8 @@
    "properties": {
     "name": "19 STERRY STREET PROSERPINE 4800",
     "locID": "LOC000063026557",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158494833"
    }
   },
@@ -26042,8 +26042,8 @@
    "properties": {
     "name": "3 FULLER STREET PROSERPINE 4800",
     "locID": "LOC000072076075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160440322"
    }
   },
@@ -30922,7 +30922,7 @@
     "name": "LOT 1 FAUST STREET PROSERPINE 4800",
     "locID": "LOC000032651398",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161145887"
    }
   },
@@ -31366,6 +31366,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161297531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.58233228,
+     -20.40068047
+    ]
+   },
+   "properties": {
+    "name": "LOT 57 SETTER LANE PROSERPINE 4800",
+    "locID": "Eiw1NyBTZXR0ZXIgTG4sIFByb3NlcnBpbmUgUUxEIDQ4MDAsIEF1c3RyYWxpYSIwEi4KFAoSCfWz8w6-z9lrEcBLz1fx7gATEDkqFAoSCfWz8w6-z9lrEbJ6-2xKVwCI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161305595"
    }
   },
   {
@@ -40597,6 +40614,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721134444"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.58261293,
+     -20.40084069
+    ]
+   },
+   "properties": {
+    "name": "7 SETTER LANE PROSERPINE 4800",
+    "locID": "ChIJy130C77P2WsRqkh-uRjuf-k",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721147318"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.58299664,
+     -20.40088283
+    ]
+   },
+   "properties": {
+    "name": "9-11 SETTER LANE PROSERPINE 4800",
+    "locID": "ChIJH1Hb4b3P2WsRElt0nW1jft0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721147987"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T19:25:17.448016",
+ "generated": "2023-08-18T22:23:09.842090",
  "suburb": "SUNRISE BEACH",
  "features": [
   {
@@ -994,23 +994,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.10290474,
-     -26.40769098
-    ]
-   },
-   "properties": {
-    "name": "75 SOUTHERN CROSS PARADE SUNRISE BEACH 4567",
-    "locID": "LOC000046823357",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD155856643"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.10342826,
      -26.40938638
     ]
@@ -1121,7 +1104,7 @@
     "name": "11 SOVEREIGN COURT SUNRISE BEACH 4567",
     "locID": "LOC000088438957",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155856653"
    }
   },
@@ -2005,7 +1988,7 @@
     "name": "2 DEFENDER COURT SUNRISE BEACH 4567",
     "locID": "LOC000027262239",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155857854"
    }
   },
@@ -4292,6 +4275,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.10750987,
+     -26.41658252
+    ]
+   },
+   "properties": {
+    "name": "6 MARGIT CRESCENT SUNRISE BEACH 4567",
+    "locID": "LOC000193494340",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155859744"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.10702219,
      -26.41683672
     ]
@@ -4691,7 +4691,7 @@
     "name": "70 TINGIRA CRESCENT SUNRISE BEACH 4567",
     "locID": "LOC000004897107",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155860570"
    }
   },
@@ -6866,8 +6866,8 @@
    "properties": {
     "name": "6 BERTRAND ROAD SUNRISE BEACH 4567",
     "locID": "LOC000006650336",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155864163"
    }
   },
@@ -7801,8 +7801,8 @@
    "properties": {
     "name": "27 RAINBOW CRESCENT SUNRISE BEACH 4567",
     "locID": "LOC000039366740",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155866060"
    }
   },
@@ -7989,7 +7989,7 @@
     "name": "26 CAPTAINS COURT SUNRISE BEACH 4567",
     "locID": "LOC000099255518",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155866107"
    }
   },
@@ -9807,8 +9807,8 @@
    "properties": {
     "name": "50 ORIENT DRIVE SUNRISE BEACH 4567",
     "locID": "LOC000041535691",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155879982"
    }
   },
@@ -9875,8 +9875,8 @@
    "properties": {
     "name": "54 ORIENT DRIVE SUNRISE BEACH 4567",
     "locID": "LOC000062953084",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155879986"
    }
   },
@@ -11626,8 +11626,8 @@
    "properties": {
     "name": "5 COLUMBIA DRIVE SUNRISE BEACH 4567",
     "locID": "LOC000031750199",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157159130"
    }
   },
@@ -20500,8 +20500,8 @@
    "properties": {
     "name": "UNIT 1, 23 CORSAIR CRESCENT SUNRISE BEACH 4567",
     "locID": "LOC000043533348",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158689127"
    }
   },
@@ -25753,8 +25753,8 @@
    "properties": {
     "name": "UNIT 2, 27 ORIENT DRIVE SUNRISE BEACH 4567",
     "locID": "LOC000094465047",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158708346"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T20:08:37.453359",
+ "generated": "2023-08-18T22:54:25.924209",
  "suburb": "NOOSAVILLE",
  "features": [
   {
@@ -5625,8 +5625,8 @@
    "properties": {
     "name": "33 MASTHEAD QUAY NOOSAVILLE 4566",
     "locID": "LOC000067234464",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155649354"
    }
   },
@@ -6560,8 +6560,8 @@
    "properties": {
     "name": "29 HERITAGE DRIVE NOOSAVILLE 4566",
     "locID": "LOC000071869913",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155650090"
    }
   },
@@ -6849,8 +6849,8 @@
    "properties": {
     "name": "21 CLOUDSLEY STREET NOOSAVILLE 4566",
     "locID": "LOC000094239261",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155650118"
    }
   },
@@ -11932,8 +11932,8 @@
    "properties": {
     "name": "3 STERNLIGHT STREET NOOSAVILLE 4566",
     "locID": "LOC000014186579",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155658381"
    }
   },
@@ -12340,8 +12340,8 @@
    "properties": {
     "name": "5 JUNE CRESCENT NOOSAVILLE 4566",
     "locID": "LOC000059207364",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155659410"
    }
   },
@@ -30003,7 +30003,7 @@
    "properties": {
     "name": "11 LEO ALLEY ROAD NOOSAVILLE 4566",
     "locID": "LOC000190290074",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156973250"
    }
@@ -39999,7 +39999,7 @@
    "properties": {
     "name": "15 EUMUNDI - NOOSA ROAD NOOSAVILLE 4566",
     "locID": "LOC000190040421",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158393181"
    }
@@ -51321,7 +51321,7 @@
    "properties": {
     "name": "13 EUMUNDI - NOOSA ROAD NOOSAVILLE 4566",
     "locID": "LOC000190040445",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158407163"
    }
@@ -58870,7 +58870,7 @@
     "name": "5 SHIPYARD CIRCUIT NOOSAVILLE 4566",
     "locID": "LOC000086014325",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158416751"
    }
   },
@@ -87854,8 +87854,8 @@
    "properties": {
     "name": "13 SPINDRIFT COURT NOOSAVILLE 4566",
     "locID": "LOC000005736571",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160168131"
    }
   },
@@ -101216,7 +101216,7 @@
    "properties": {
     "name": "UNIT 2, 11 LEO ALLEY ROAD NOOSAVILLE 4566",
     "locID": "LOC000190290074",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162319361"
    }
@@ -121908,6 +121908,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163176921"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.07364179,
+     -26.4039705
+    ]
+   },
+   "properties": {
+    "name": "LOT 365 WEYBA ROAD NOOSAVILLE 4566",
+    "locID": "EjEzNjUgTGFrZSBXZXliYSBEciwgTm9vc2F2aWxsZSBRTEQgNDU2NiwgQXVzdHJhbGlhIjESLwoUChIJuSNy8y9pk2sRS_37A04_TxwQ7QIqFAoSCYFIKPUkaZNrEZZJSdpD5s1D",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163176922"
    }
   },
   {
