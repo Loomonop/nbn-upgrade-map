@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T02:19:27.137142",
+ "generated": "2023-08-18T03:26:39.480119",
  "suburb": "BURPENGARY",
  "features": [
   {
@@ -8848,6 +8848,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.9649482,
+     -27.14738794
+    ]
+   },
+   "properties": {
+    "name": "38 ADSETT ROAD BURPENGARY 4505",
+    "locID": "ChIJfaDdKADxk2sRidhftMtblpE",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155111240"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96035659,
      -27.14575543
     ]
@@ -9433,8 +9450,8 @@
    "properties": {
     "name": "6 CAVALLI CRESCENT BURPENGARY 4505",
     "locID": "LOC000014939892",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155111315"
    }
   },
@@ -13275,8 +13292,8 @@
    "properties": {
     "name": "21 BEVERLEY STREET BURPENGARY 4505",
     "locID": "LOC000030764833",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155116840"
    }
   },
@@ -16386,8 +16403,8 @@
    "properties": {
     "name": "10 MELINDA STREET BURPENGARY 4505",
     "locID": "LOC000038235168",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155118683"
    }
   },
@@ -19735,8 +19752,8 @@
    "properties": {
     "name": "58 STATION ROAD BURPENGARY 4505",
     "locID": "LOC000072196212",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155120518"
    }
   },
@@ -21741,8 +21758,8 @@
    "properties": {
     "name": "18 ROBYN STREET BURPENGARY 4505",
     "locID": "LOC000020720720",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155121614"
    }
   },
@@ -23101,8 +23118,8 @@
    "properties": {
     "name": "56 STATION ROAD BURPENGARY 4505",
     "locID": "LOC000020791827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156024771"
    }
   },
@@ -32988,23 +33005,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.97196577,
-     -27.14685626
-    ]
-   },
-   "properties": {
-    "name": "45 OGILVY ROAD BURPENGARY 4505",
-    "locID": "LOC000079277273",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157654523"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.94913503,
      -27.15722472
     ]
@@ -36361,8 +36361,8 @@
    "properties": {
     "name": "18 SPRINGFIELD DRIVE BURPENGARY 4505",
     "locID": "LOC000016709623",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157657899"
    }
   },
@@ -36378,8 +36378,8 @@
    "properties": {
     "name": "44 SPRINGFIELD DRIVE BURPENGARY 4505",
     "locID": "LOC000009492337",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157657902"
    }
   },
@@ -43382,8 +43382,8 @@
    "properties": {
     "name": "44 BARTOK STREET BURPENGARY 4505",
     "locID": "LOC000031868249",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157666391"
    }
   },
@@ -43416,8 +43416,8 @@
    "properties": {
     "name": "8 OSBORNE DRIVE BURPENGARY 4505",
     "locID": "LOC000085283646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157666460"
    }
   },
@@ -47071,8 +47071,8 @@
    "properties": {
     "name": "4 CURRIMUNDI COURT BURPENGARY 4505",
     "locID": "LOC000097894998",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157676166"
    }
   },
@@ -48024,7 +48024,7 @@
     "name": "28 OSBORNE DRIVE BURPENGARY 4505",
     "locID": "LOC000109208078",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157680755"
    }
   },
@@ -73917,6 +73917,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162320880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98069345,
+     -27.17140512
+    ]
+   },
+   "properties": {
+    "name": "770 OLD GYMPIE ROAD BURPENGARY 4505",
+    "locID": "EjE3NzAgT2xkIEd5bXBpZSBSZCwgQnVycGVuZ2FyeSBRTEQgNDUwNSwgQXVzdHJhbGlhIjESLwoUChIJv9IoWmjwk2sRsFzgEdlmJ3gQggYqFAoSCSMWuYuZ-pNrEfeD3rTLCjxQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162320954"
    }
   },
   {
@@ -125206,6 +125223,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720671830"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9785255,
+     -27.16616351
+    ]
+   },
+   "properties": {
+    "name": "LOT 800 OLD GYMPIE ROAD BURPENGARY 4505",
+    "locID": "EjE4MDAgT2xkIEd5bXBpZSBSZCwgQnVycGVuZ2FyeSBRTEQgNDUwNSwgQXVzdHJhbGlhIjESLwoUChIJv9IoWmjwk2sRsFzgEdlmJ3gQoAYqFAoSCSMWuYuZ-pNrEfeD3rTLCjxQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720671881"
    }
   },
   {
