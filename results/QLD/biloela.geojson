@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T16:36:27.902756",
+ "generated": "2023-08-18T19:43:53.248620",
  "suburb": "BILOELA",
  "features": [
   {
@@ -9706,7 +9706,7 @@
     "name": "94 KROOMBIT STREET BILOELA 4715",
     "locID": "LOC000064285854",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155026383"
    }
   },
@@ -11422,8 +11422,8 @@
    "properties": {
     "name": "20 ARCHER STREET BILOELA 4715",
     "locID": "LOC000008515185",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155028139"
    }
   },
@@ -12391,8 +12391,8 @@
    "properties": {
     "name": "11 GELOBERA STREET BILOELA 4715",
     "locID": "LOC000095642250",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155028852"
    }
   },
@@ -16268,7 +16268,7 @@
     "name": "25 RAINBOW STREET BILOELA 4715",
     "locID": "LOC000016684020",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155032645"
    }
   },
@@ -16302,7 +16302,7 @@
     "name": "13 CASTLE STREET BILOELA 4715",
     "locID": "LOC000087317515",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155032665"
    }
   },
@@ -17511,6 +17511,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155033641"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.52347322,
+     -24.39959482
+    ]
+   },
+   "properties": {
+    "name": "LOT 50 ARCHER STREET BILOELA 4715",
+    "locID": "Eik1MCBBcmNoZXIgU3QsIEJpbG9lbGEgUUxEIDQ3MTUsIEF1c3RyYWxpYSIwEi4KFAoSCSFhNrbpdMFrEUO3LRWg8qRqEDIqFAoSCfsu71bodMFrEU4l_gQxWoHC",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155033642"
    }
   },
   {
@@ -24037,7 +24054,7 @@
     "name": "26 KROOMBIT STREET BILOELA 4715",
     "locID": "LOC000064285854",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156279340"
    }
   },
@@ -24393,8 +24410,8 @@
    "properties": {
     "name": "4 MALAKOFF STREET BILOELA 4715",
     "locID": "LOC000074098352",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156279444"
    }
   },
@@ -27624,7 +27641,7 @@
     "name": "9 PROSPECT STREET BILOELA 4715",
     "locID": "LOC000073359612",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156282955"
    }
   },
@@ -37058,8 +37075,8 @@
    "properties": {
     "name": "22 PAROZ CRESCENT BILOELA 4715",
     "locID": "LOC000106127241",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157556895"
    }
   },
@@ -42355,6 +42372,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.52195752,
+     -24.40083444
+    ]
+   },
+   "properties": {
+    "name": "LOT 37 ARCHER STREET BILOELA 4715",
+    "locID": "EikzNyBBcmNoZXIgU3QsIEJpbG9lbGEgUUxEIDQ3MTUsIEF1c3RyYWxpYSIwEi4KFAoSCSFhNrbpdMFrEUO3LRWg8qRqECUqFAoSCfsu71bodMFrEU4l_gQxWoHC",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161052404"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.49815431,
      -24.40274986
     ]
@@ -44711,6 +44745,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162599340"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.51375341,
+     -24.40390823
+    ]
+   },
+   "properties": {
+    "name": "22-24 CALLIDE STREET BILOELA 4715",
+    "locID": "LOC000072801086",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD162599341"
    }
   },
   {
@@ -58156,7 +58207,7 @@
     "name": "94-96 KROOMBIT STREET BILOELA 4715",
     "locID": "LOC000064285854",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720671849"
    }
   },
