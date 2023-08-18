@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T10:40:15.704951",
+ "generated": "2023-08-18T11:36:16.414204",
  "suburb": "BUNYA",
  "features": [
   {
@@ -1103,8 +1103,8 @@
    "properties": {
     "name": "9 RETREAT COURT BUNYA 4055",
     "locID": "LOC000073268496",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155097086"
    }
   },
@@ -1597,7 +1597,7 @@
     "name": "4 BERGIN CREEK ROAD BUNYA 4055",
     "locID": "LOC000106599364",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155097953"
    }
   },
@@ -2327,8 +2327,8 @@
    "properties": {
     "name": "25 BLUE HILLS DRIVE BUNYA 4055",
     "locID": "LOC000056668546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155099070"
    }
   },
@@ -8899,6 +8899,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.93944041,
+     -27.35625691
+    ]
+   },
+   "properties": {
+    "name": "31 ALLEN ROAD BUNYA 4055",
+    "locID": "EiYzMSBBbGxlbiBSZCwgQnVueWEgUUxEIDQwNTUsIEF1c3RyYWxpYSIwEi4KFAoSCfU1-V30_ZNrEbRWBW8OHQgcEB8qFAoSCY_bHA_2_ZNrEeqfaAmlisbI",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162116319"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.9311947,
      -27.37606499
     ]
@@ -11578,6 +11595,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720676098"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.91903809,
+     -27.36755016
+    ]
+   },
+   "properties": {
+    "name": "75 MAILMANS TRACK BUNYA 4055",
+    "locID": "ChIJm9Ei7eJVkWsRac6xYbEGEsY",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721232327"
    }
   }
  ]

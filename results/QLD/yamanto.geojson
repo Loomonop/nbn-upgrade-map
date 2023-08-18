@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T10:31:45.575361",
+ "generated": "2023-08-18T11:33:29.657688",
  "suburb": "YAMANTO",
  "features": [
   {
@@ -6901,7 +6901,7 @@
     "name": "9 ASH STREET YAMANTO 4305",
     "locID": "LOC000007497466",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156012235"
    }
   },
@@ -7326,7 +7326,7 @@
     "name": "11 CONNEMARA COURT YAMANTO 4305",
     "locID": "LOC000058349218",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156012863"
    }
   },
@@ -14092,7 +14092,7 @@
     "name": "3 ASH STREET YAMANTO 4305",
     "locID": "LOC000106082331",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157348205"
    }
   },
@@ -15774,8 +15774,8 @@
    "properties": {
     "name": "2 JAPONICA COURT YAMANTO 4305",
     "locID": "LOC000079672286",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157355129"
    }
   },
@@ -18885,8 +18885,8 @@
    "properties": {
     "name": "6 MUSTANG STREET YAMANTO 4305",
     "locID": "LOC000065994762",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157369981"
    }
   },
@@ -18970,8 +18970,8 @@
    "properties": {
     "name": "3 NORIC COURT YAMANTO 4305",
     "locID": "LOC000095435318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157369987"
    }
   },
@@ -22237,6 +22237,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161745020"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.74187403,
+     -27.6515846
+    ]
+   },
+   "properties": {
+    "name": "14-16 BELAR STREET YAMANTO 4305",
+    "locID": "ChIJAyJiGuW1lmsRu3c1xJPwaSc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161745021"
    }
   },
   {
@@ -31315,6 +31332,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163301753"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.74146273,
+     -27.65167424
+    ]
+   },
+   "properties": {
+    "name": "18 BELAR STREET YAMANTO 4305",
+    "locID": "LOC000193387263",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163302520"
    }
   },
   {
