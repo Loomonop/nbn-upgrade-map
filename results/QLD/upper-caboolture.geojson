@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T12:04:44.502042",
+ "generated": "2023-08-18T13:10:23.315094",
  "suburb": "UPPER CABOOLTURE",
  "features": [
   {
@@ -7889,6 +7889,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158804792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.8840738,
+     -27.1231876
+    ]
+   },
+   "properties": {
+    "name": "22 MCCLURE ROAD UPPER CABOOLTURE 4510",
+    "locID": "ChIJcdmvYPv2k2sRh4uvXr0z1QE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158805785"
    }
   },
   {
@@ -21037,6 +21054,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.90825724,
+     -27.10460903
+    ]
+   },
+   "properties": {
+    "name": "409 CABOOLTURE RIVER ROAD UPPER CABOOLTURE 4510",
+    "locID": "ChIJXVZqvKX2k2sRlGlwYkt7dFM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162934892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.91508172,
      -27.10212626
     ]
@@ -22422,7 +22456,7 @@
     "name": "4-6 GREGOR ROAD UPPER CABOOLTURE 4510",
     "locID": "LOC000080294815",
     "tech": "FTTC",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163215893"
    }
   },
@@ -27232,8 +27266,8 @@
    "properties": {
     "name": "17 BUSHLARK COURT UPPER CABOOLTURE 4510",
     "locID": "LOC000173268033",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD425792688"
    }
   },
@@ -35290,7 +35324,7 @@
    "properties": {
     "name": "833 CABOOLTURE RIVER ROAD UPPER CABOOLTURE 4510",
     "locID": "ChIJXXvgmPz2k2sRXyAOsKJ1jmE",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721063065"
    }
@@ -35341,7 +35375,7 @@
    "properties": {
     "name": "34 MCCLURE ROAD UPPER CABOOLTURE 4510",
     "locID": "ChIJ0ZLgQ_v2k2sRWFLbRiy5GJg",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721065618"
    }
@@ -35375,7 +35409,7 @@
    "properties": {
     "name": "28 MCCLURE ROAD UPPER CABOOLTURE 4510",
     "locID": "ChIJQXtOavv2k2sRiBg6kploom0",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721067857"
    }

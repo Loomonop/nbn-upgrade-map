@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T11:04:31.962719",
+ "generated": "2023-08-18T12:19:32.272147",
  "suburb": "MARCOOLA",
  "features": [
   {
@@ -2769,8 +2769,8 @@
    "properties": {
     "name": "111 KEITH ROYAL DRIVE MARCOOLA 4564",
     "locID": "LOC000043876727",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155528236"
    }
   },
@@ -2905,8 +2905,8 @@
    "properties": {
     "name": "28 KEITH ROYAL DRIVE MARCOOLA 4564",
     "locID": "LOC000031710578",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155528253"
    }
   },
@@ -13581,8 +13581,8 @@
    "properties": {
     "name": "16 THIRD AVENUE MARCOOLA 4564",
     "locID": "LOC000088316520",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156803195"
    }
   },
@@ -28082,8 +28082,8 @@
    "properties": {
     "name": "19 TAMARINDUS STREET MARCOOLA 4564",
     "locID": "LOC000072983093",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160146770"
    }
   },
@@ -32979,7 +32979,7 @@
     "name": "3 KANIMBLA COURT MARCOOLA 4564",
     "locID": "LOC000067509213",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161195519"
    }
   },
@@ -34603,6 +34603,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.09566739,
+     -26.57546547
+    ]
+   },
+   "properties": {
+    "name": "14 SEAWARD LANE MARCOOLA 4564",
+    "locID": "LOC000193416111",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161965984"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.09406764,
      -26.57545692
     ]
@@ -34610,8 +34627,8 @@
    "properties": {
     "name": "10A BEACHWAY PARADE MARCOOLA 4564",
     "locID": "LOC000024000135",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161972243"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T11:43:46.762544",
+ "generated": "2023-08-18T12:53:56.748263",
  "suburb": "WELLINGTON POINT",
  "features": [
   {
@@ -6084,8 +6084,8 @@
    "properties": {
     "name": "6 EUSTON COURT WELLINGTON POINT 4160",
     "locID": "LOC000039619224",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155946564"
    }
   },
@@ -10368,8 +10368,8 @@
    "properties": {
     "name": "8 MONTGOMERY DRIVE WELLINGTON POINT 4160",
     "locID": "LOC000085556565",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155950641"
    }
   },
@@ -11405,8 +11405,8 @@
    "properties": {
     "name": "63 HILLIARDS PARK DRIVE WELLINGTON POINT 4160",
     "locID": "LOC000044573868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155951491"
    }
   },
@@ -15486,7 +15486,7 @@
     "name": "37 MANOR DRIVE WELLINGTON POINT 4160",
     "locID": "LOC000018356544",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155954270"
    }
   },
@@ -15877,7 +15877,7 @@
     "name": "165 ALLENBY ROAD WELLINGTON POINT 4160",
     "locID": "LOC000028889653",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155954344"
    }
   },
@@ -20534,8 +20534,8 @@
    "properties": {
     "name": "8 KERBY PLACE WELLINGTON POINT 4160",
     "locID": "LOC000072421959",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155960663"
    }
   },
@@ -20603,7 +20603,7 @@
     "name": "2 FORSYTH PLACE WELLINGTON POINT 4160",
     "locID": "LOC000012699885",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155960678"
    }
   },
@@ -32520,7 +32520,7 @@
     "name": "6 HILLIARDS PARK DRIVE WELLINGTON POINT 4160",
     "locID": "LOC000081824094",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156084895"
    }
   },
@@ -49206,6 +49206,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.24046157,
+     -27.49345104
+    ]
+   },
+   "properties": {
+    "name": "4 HARRIS STREET WELLINGTON POINT 4160",
+    "locID": "LOC000076055723",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157302235"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.2426705,
      -27.49377522
     ]
@@ -51440,8 +51457,8 @@
    "properties": {
     "name": "16 LAURANCE COURT WELLINGTON POINT 4160",
     "locID": "LOC000017349259",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157306366"
    }
   },
@@ -69446,6 +69463,40 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161212396"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.2299176,
+     -27.50812661
+    ]
+   },
+   "properties": {
+    "name": "LOT 100 OLD CLEVELAND ROAD EAST WELLINGTON POINT 4160",
+    "locID": "EjwxMDAgT2xkIENsZXZlbGFuZCBSZCBFLCBXZWxsaW5ndG9uIFBvaW50IFFMRCA0MTYwLCBBdXN0cmFsaWEiMBIuChQKEglJQOdoK2eRaxHl9qp7K6qWSBBkKhQKEglz3936SGeRaxGdSMZf7iU3Jg",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161263045"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.2294038,
+     -27.50696389
+    ]
+   },
+   "properties": {
+    "name": "LOT 102 OLD CLEVELAND ROAD EAST WELLINGTON POINT 4160",
+    "locID": "EjwxMDIgT2xkIENsZXZlbGFuZCBSZCBFLCBXZWxsaW5ndG9uIFBvaW50IFFMRCA0MTYwLCBBdXN0cmFsaWEiMBIuChQKEglJQOdoK2eRaxHl9qp7K6qWSBBmKhQKEglz3936SGeRaxGdSMZf7iU3Jg",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161263046"
    }
   },
   {
