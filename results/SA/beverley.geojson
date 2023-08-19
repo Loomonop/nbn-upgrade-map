@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T17:12:13.359484",
+ "generated": "2023-08-19T18:16:40.439545",
  "suburb": "BEVERLEY",
  "features": [
   {
@@ -3459,6 +3459,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.54134051,
+     -34.8889377
+    ]
+   },
+   "properties": {
+    "name": "37 LEDGER ROAD BEVERLEY 5009",
+    "locID": "LOC000193316303",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415030966"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.54256726,
      -34.8880622
     ]
@@ -4095,8 +4112,8 @@
    "properties": {
     "name": "68 MAIN STREET BEVERLEY 5009",
     "locID": "LOC000030313504",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415038149"
    }
   },
@@ -5608,8 +5625,8 @@
    "properties": {
     "name": "9 GEMMELL STREET BEVERLEY 5009",
     "locID": "LOC000014195911",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415113286"
    }
   },
@@ -6016,8 +6033,8 @@
    "properties": {
     "name": "131 WILLIAM STREET BEVERLEY 5009",
     "locID": "LOC000084621338",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415126468"
    }
   },
@@ -21095,7 +21112,7 @@
    "properties": {
     "name": "47A GOLDING STREET BEVERLEY 5009",
     "locID": "ChIJ88jEKuPFsGoR50pq_XVyNII",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720847331"
    }

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T16:37:25.900983",
+ "generated": "2023-08-19T17:44:36.724507",
  "suburb": "EDWARDSTOWN",
  "features": [
   {
@@ -9664,6 +9664,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.56970743,
+     -34.98951994
+    ]
+   },
+   "properties": {
+    "name": "23 YANYARRIE AVENUE EDWARDSTOWN 5039",
+    "locID": "LOC000193528661",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415055885"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.56978545,
      -34.98663873
     ]
@@ -9689,7 +9706,7 @@
     "name": "25 YANYARRIE AVENUE EDWARDSTOWN 5039",
     "locID": "LOC000094564990",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415056700"
    }
   },
@@ -11966,8 +11983,8 @@
    "properties": {
     "name": "2 CONMURRA AVENUE EDWARDSTOWN 5039",
     "locID": "LOC000064265895",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415089236"
    }
   },
@@ -18936,8 +18953,8 @@
    "properties": {
     "name": "63 RAILWAY TERRACE EDWARDSTOWN 5039",
     "locID": "LOC000057355489",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415187497"
    }
   },
@@ -54656,6 +54673,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720301225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.56970743,
+     -34.98951994
+    ]
+   },
+   "properties": {
+    "name": "23-25 YANYARRIE AVENUE EDWARDSTOWN 5039",
+    "locID": "LOC000193528661",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720301562"
    }
   },
   {
