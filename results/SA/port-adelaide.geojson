@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T19:43:12.883959",
+ "generated": "2023-08-19T20:49:21.469800",
  "suburb": "PORT ADELAIDE",
  "features": [
   {
@@ -8804,8 +8804,8 @@
    "properties": {
     "name": "112 LIPSON STREET PORT ADELAIDE 5015",
     "locID": "LOC000007546231",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415798205"
    }
   },
@@ -10878,8 +10878,8 @@
    "properties": {
     "name": "17 CANNON STREET PORT ADELAIDE 5015",
     "locID": "LOC000059887368",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416241550"
    }
   },
@@ -14907,8 +14907,8 @@
    "properties": {
     "name": "90 ST VINCENT STREET PORT ADELAIDE 5015",
     "locID": "LOC000154765616",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416509115"
    }
   },
@@ -17409,6 +17409,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416523123"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.50286794,
+     -34.84457948
+    ]
+   },
+   "properties": {
+    "name": "133 ST VINCENT STREET PORT ADELAIDE 5015",
+    "locID": "ChIJbT9AT-HGsGoRliUb-OgON9Y",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_416523125"
    }
   },
   {
@@ -35820,6 +35837,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720706429"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51095805,
+     -34.84323033
+    ]
+   },
+   "properties": {
+    "name": "313-315 ST VINCENT STREET EAST PORT ADELAIDE 5015",
+    "locID": "ChIJndI7iQLHsGoR9Vt8yEp8w0c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_720721238"
    }
   },
   {
