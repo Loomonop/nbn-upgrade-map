@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T20:51:16.136409",
+ "generated": "2023-08-18T23:32:30.036090",
  "suburb": "MOUNT PLEASANT",
  "features": [
   {
@@ -933,8 +933,8 @@
    "properties": {
     "name": "1 LOUDON STREET MOUNT PLEASANT 4740",
     "locID": "LOC000074487370",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155602038"
    }
   },
@@ -6458,8 +6458,8 @@
    "properties": {
     "name": "4 MCKELLAR COURT MOUNT PLEASANT 4740",
     "locID": "LOC000009470682",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155612622"
    }
   },
@@ -8702,8 +8702,8 @@
    "properties": {
     "name": "1 HINDMARSH COURT MOUNT PLEASANT 4740",
     "locID": "LOC000103838591",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155615891"
    }
   },
@@ -22999,8 +22999,8 @@
    "properties": {
     "name": "12 CLEARVISTA CRESCENT MOUNT PLEASANT 4740",
     "locID": "LOC000035752469",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160628987"
    }
   },
@@ -28116,8 +28116,8 @@
    "properties": {
     "name": "26 HILLSIDE TERRACE MOUNT PLEASANT 4740",
     "locID": "LOC000019039289",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160637975"
    }
   },
@@ -28490,8 +28490,8 @@
    "properties": {
     "name": "10 TOLCHER STREET MOUNT PLEASANT 4740",
     "locID": "LOC000009101628",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160638402"
    }
   },
@@ -38608,6 +38608,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162551584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.77436817,
+     -27.16205432
+    ]
+   },
+   "properties": {
+    "name": "LOT 94 MOUNT BRISBANE ROAD MOUNT PLEASANT 4521",
+    "locID": "Ejg5NCBNb3VudCBCcmlzYmFuZSBSZCwgTW91bnQgUGxlYXNhbnQgUUxEIDQ1MjEsIEF1c3RyYWxpYSIwEi4KFAoSCV8Gh-4tBpRrEdbPpukw5fgMEF4qFAoSCV20BE2ZCJRrES5ouFI6DaeL",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162551586"
    }
   },
   {

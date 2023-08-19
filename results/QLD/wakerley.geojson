@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T21:48:43.615285",
+ "generated": "2023-08-19T00:22:41.256764",
  "suburb": "WAKERLEY",
  "features": [
   {
@@ -17610,8 +17610,8 @@
    "properties": {
     "name": "2 LETITIA CLOSE WAKERLEY 4154",
     "locID": "LOC000102643163",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD160771639"
    }
   },
@@ -26977,8 +26977,8 @@
    "properties": {
     "name": "28 BAYCHESTER PLACE WAKERLEY 4154",
     "locID": "LOC000065897560",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162098028"
    }
   },
@@ -27794,7 +27794,7 @@
     "name": "14 GLIDER CLOSE WAKERLEY 4154",
     "locID": "LOC000098681687",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162215051"
    }
   },
@@ -48788,8 +48788,8 @@
    "properties": {
     "name": "3 SWAN COURT WAKERLEY 4154",
     "locID": "LOC000127128282",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD424996463"
    }
   },
@@ -55960,6 +55960,23 @@
     ]
    },
    "properties": {
+    "name": "307 GREENCAMP ROAD WAKERLEY 4154",
+    "locID": "Ei8zMDcgR3JlZW4gQ2FtcCBSZCwgV2FrZXJsZXkgUUxEIDQxNTQsIEF1c3RyYWxpYSIxEi8KFAoSCXl-99F5XpFrEVHQh3DXrDXkELMCKhQKEgl7AfiIel6RaxEYCeJrYnCtPg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719823310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.16698076,
+     -27.48480703
+    ]
+   },
+   "properties": {
     "name": "291 GREENCAMP ROAD WAKERLEY 4154",
     "locID": "ChIJqxLmiHpekWsRn6z4gQH0FIs",
     "tech": "FTTN",
@@ -58039,6 +58056,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720881517"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.16785622,
+     -27.4845929
+    ]
+   },
+   "properties": {
+    "name": "UNIT 38, 158 GREENCAMP ROAD WAKERLEY 4154",
+    "locID": "ChIJQzHdZHBekWsRgacWpx2xqZI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720942075"
    }
   },
   {

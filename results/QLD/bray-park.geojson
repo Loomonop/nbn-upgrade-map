@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T21:56:55.631619",
+ "generated": "2023-08-19T00:31:32.418564",
  "suburb": "BRAY PARK",
  "features": [
   {
@@ -4112,7 +4112,7 @@
    "properties": {
     "name": "61 SPARKES ROAD BRAY PARK 4500",
     "locID": "ChIJVyZlPI_8k2sR8RQtBrJgiQM",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155067532"
    }
@@ -27997,8 +27997,8 @@
    "properties": {
     "name": "5 JULIE COURT BRAY PARK 4500",
     "locID": "LOC000096362244",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156319059"
    }
   },
@@ -61300,8 +61300,8 @@
    "properties": {
     "name": "20 BEARCAT COURT BRAY PARK 4500",
     "locID": "LOC000065849655",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162971759"
    }
   },
@@ -61317,8 +61317,8 @@
    "properties": {
     "name": "2 BEARCAT COURT BRAY PARK 4500",
     "locID": "LOC000065849655",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162971760"
    }
   },
@@ -62252,8 +62252,8 @@
    "properties": {
     "name": "4 HELLCAT CIRCUIT BRAY PARK 4500",
     "locID": "LOC000026544235",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162974119"
    }
   },
@@ -66845,6 +66845,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719643029"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97462918,
+     -27.29235018
+    ]
+   },
+   "properties": {
+    "name": "63C SPARKES ROAD BRAY PARK 4500",
+    "locID": "LOC000193374126",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719711716"
    }
   },
   {
