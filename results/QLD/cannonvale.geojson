@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T23:27:37.410203",
+ "generated": "2023-08-19T02:03:37.305916",
  "suburb": "CANNONVALE",
  "features": [
   {
@@ -1426,8 +1426,8 @@
    "properties": {
     "name": "21 WOODWARK CRESCENT CANNONVALE 4802",
     "locID": "LOC000089386903",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155143103"
    }
   },
@@ -1699,7 +1699,7 @@
     "name": "43 MANOOKA DRIVE CANNONVALE 4802",
     "locID": "LOC000053416060",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155143166"
    }
   },
@@ -5286,7 +5286,7 @@
     "name": "20 ILLAWONG STREET CANNONVALE 4802",
     "locID": "LOC000004826719",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156385996"
    }
   },
@@ -10691,7 +10691,7 @@
    "properties": {
     "name": "12 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630422",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156394652"
    }
@@ -12221,8 +12221,8 @@
    "properties": {
     "name": "21 DAYDREAM COURT CANNONVALE 4802",
     "locID": "LOC000098571237",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156396340"
    }
   },
@@ -14533,8 +14533,8 @@
    "properties": {
     "name": "136 SHUTE HARBOUR ROAD CANNONVALE 4802",
     "locID": "LOC000029395762",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156398212"
    }
   },
@@ -16318,7 +16318,7 @@
    "properties": {
     "name": "10 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630405",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157303766"
    }
@@ -16335,7 +16335,7 @@
    "properties": {
     "name": "16 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630467",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157303768"
    }
@@ -16352,7 +16352,7 @@
    "properties": {
     "name": "18 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630480",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157303769"
    }
@@ -30642,6 +30642,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     148.69702692,
+     -20.27363301
+    ]
+   },
+   "properties": {
+    "name": "64 CORAL ESPLANADE CANNONVALE 4802",
+    "locID": "EjI2NCBDb3JhbCBFc3BsYW5hZGUsIENhbm5vbnZhbGUgUUxEIDQ4MDIsIEF1c3RyYWxpYSIwEi4KFAoSCSmBAvQsNdhrETSZDwTDWqReEEAqFAoSCQWwVmgsNdhrEYUCFDBqk-y0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160455495"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      148.69808305,
      -20.27377695
     ]
@@ -34117,7 +34134,7 @@
    "properties": {
     "name": "14 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630446",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161005266"
    }
@@ -38860,7 +38877,7 @@
    "properties": {
     "name": "17 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630479",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162202747"
    }
@@ -41852,7 +41869,7 @@
    "properties": {
     "name": "1-15 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630451",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162367243"
    }
@@ -53259,8 +53276,8 @@
    "properties": {
     "name": "42 SOUTH MOLLE BOULEVARD CANNONVALE 4802",
     "locID": "LOC000096874707",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162946693"
    }
   },
@@ -77280,7 +77297,7 @@
    "properties": {
     "name": "5-15 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630357",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719070300"
    }
@@ -82380,7 +82397,7 @@
    "properties": {
     "name": "UNIT 1, 2-8 VALLEY DRIVE CANNONVALE 4802",
     "locID": "LOC000190630326",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721077529"
    }

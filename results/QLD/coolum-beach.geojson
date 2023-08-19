@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T23:07:46.076280",
+ "generated": "2023-08-19T01:47:08.229260",
  "suburb": "COOLUM BEACH",
  "features": [
   {
@@ -1171,8 +1171,8 @@
    "properties": {
     "name": "115 SPRINGFIELD AVENUE COOLUM BEACH 4573",
     "locID": "LOC000110048477",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155195625"
    }
   },
@@ -5880,8 +5880,8 @@
    "properties": {
     "name": "30 FAUNA TERRACE COOLUM BEACH 4573",
     "locID": "LOC000009022857",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155199442"
    }
   },
@@ -31312,8 +31312,8 @@
    "properties": {
     "name": "120 SPRINGFIELD AVENUE COOLUM BEACH 4573",
     "locID": "LOC000036513987",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156460813"
    }
   },
@@ -31601,8 +31601,8 @@
    "properties": {
     "name": "67 GRANDVIEW DRIVE COOLUM BEACH 4573",
     "locID": "LOC000021565691",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156461751"
    }
   },
@@ -38911,8 +38911,8 @@
    "properties": {
     "name": "29 FAUNA TERRACE COOLUM BEACH 4573",
     "locID": "LOC000009022857",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156468004"
    }
   },
@@ -39455,8 +39455,8 @@
    "properties": {
     "name": "34 FAUNA TERRACE COOLUM BEACH 4573",
     "locID": "LOC000093779370",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156469685"
    }
   },
@@ -45184,8 +45184,8 @@
    "properties": {
     "name": "7 BISCAYNE DRIVE COOLUM BEACH 4573",
     "locID": "LOC000079434465",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156474805"
    }
   },
@@ -50318,8 +50318,8 @@
    "properties": {
     "name": "35 FOURWINDS AVENUE COOLUM BEACH 4573",
     "locID": "LOC000100920306",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157788619"
    }
   },
@@ -52123,6 +52123,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157791682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.09333273,
+     -26.53435586
+    ]
+   },
+   "properties": {
+    "name": "1730 DAVID LOW WAY COOLUM BEACH 4573",
+    "locID": "ChIJ12qiHe9xk2sR7gN2hrhBY14",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD157791689"
    }
   },
   {
@@ -54483,8 +54500,8 @@
    "properties": {
     "name": "34 COOLUM TERRACE COOLUM BEACH 4573",
     "locID": "LOC000093779370",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157795076"
    }
   },
@@ -64530,8 +64547,8 @@
    "properties": {
     "name": "7 SCRUB ROAD COOLUM BEACH 4573",
     "locID": "LOC000106189835",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160193620"
    }
   },
@@ -83495,6 +83512,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.08105073,
+     -26.53914599
+    ]
+   },
+   "properties": {
+    "name": "LOT 18 MEELGAN STREET COOLUM BEACH 4573",
+    "locID": "Ei8xOCBNZWVsZ2FuIFN0LCBDb29sdW0gQmVhY2ggUUxEIDQ1NzMsIEF1c3RyYWxpYSIwEi4KFAoSCa1o3KLAcZNrETSF3m62jA4DEBIqFAoSCVGSdJbAcZNrEUDv2oHW4r0-",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161702684"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.08105073,
+     -26.53914599
+    ]
+   },
+   "properties": {
+    "name": "LOT 40 MEELGAN STREET COOLUM BEACH 4573",
+    "locID": "Ei80MCBNZWVsZ2FuIFN0LCBDb29sdW0gQmVhY2ggUUxEIDQ1NzMsIEF1c3RyYWxpYSIwEi4KFAoSCa1o3KLAcZNrETSF3m62jA4DECgqFAoSCVGSdJbAcZNrEUDv2oHW4r0-",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161702685"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.07917084,
      -26.53132302
     ]
@@ -84998,8 +85049,8 @@
    "properties": {
     "name": "9 NEEDLE COURT COOLUM BEACH 4573",
     "locID": "LOC000098651068",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162053289"
    }
   },
@@ -88908,8 +88959,8 @@
    "properties": {
     "name": "UNIT 1, 7 SCRUB ROAD COOLUM BEACH 4573",
     "locID": "LOC000106189835",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162378475"
    }
   },
@@ -95463,6 +95514,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.05688315,
+     -26.52365568
+    ]
+   },
+   "properties": {
+    "name": "23-25 ACCESS CRESCENT COOLUM BEACH 4573",
+    "locID": "ChIJodrv8S1wk2sRfFZv60NHjig",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162931938"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.05650466,
      -26.52374496
     ]
@@ -95507,6 +95575,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162931941"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.05785416,
+     -26.52246302
+    ]
+   },
+   "properties": {
+    "name": "5-7 ACCESS CRESCENT COOLUM BEACH 4573",
+    "locID": "ChIJwR0Gui1wk2sRO95w5EYgelo",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162931942"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.05704157,
+     -26.52246489
+    ]
+   },
+   "properties": {
+    "name": "8-10 ACCESS CRESCENT COOLUM BEACH 4573",
+    "locID": "ChIJt0UsxC1wk2sR7agN9hBKXPk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162931943"
    }
   },
   {
@@ -113704,6 +113806,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.06645907,
+     -26.52424051
+    ]
+   },
+   "properties": {
+    "name": "19 LOMANDRA PLACE COOLUM BEACH 4573",
+    "locID": "ChIJ2TfNOdJxk2sRRLoi5yko6NI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720178867"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.08399529,
      -26.54507823
     ]
@@ -113969,6 +114088,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720181727"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.06556698,
+     -26.52411786
+    ]
+   },
+   "properties": {
+    "name": "13 LOMANDRA PLACE COOLUM BEACH 4573",
+    "locID": "LOC000180336261",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720181750"
    }
   },
   {
@@ -125869,6 +126005,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721262907"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.08440112,
+     -26.54518073
+    ]
+   },
+   "properties": {
+    "name": "21A JENYOR STREET COOLUM BEACH 4573",
+    "locID": "LOC000173839849",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721262938"
    }
   },
   {

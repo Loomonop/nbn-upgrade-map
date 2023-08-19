@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T23:36:19.367568",
+ "generated": "2023-08-19T02:13:31.005799",
  "suburb": "BEERWAH",
  "features": [
   {
@@ -1987,8 +1987,8 @@
    "properties": {
     "name": "18 KATHERINE STREET BEERWAH 4519",
     "locID": "LOC000027417935",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155007902"
    }
   },
@@ -2854,8 +2854,8 @@
    "properties": {
     "name": "1 KATHERINE STREET BEERWAH 4519",
     "locID": "LOC000060435663",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155008885"
    }
   },
@@ -14431,8 +14431,8 @@
    "properties": {
     "name": "14 MELLUMVIEW DRIVE BEERWAH 4519",
     "locID": "LOC000050914576",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156263702"
    }
   },
@@ -18784,7 +18784,7 @@
     "name": "77 PEACHESTER ROAD BEERWAH 4519",
     "locID": "LOC000068665324",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156270517"
    }
   },
@@ -24836,7 +24836,7 @@
     "name": "9 OLD LANDSBOROUGH ROAD BEERWAH 4519",
     "locID": "LOC000106942632",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157534482"
    }
   },
@@ -29003,6 +29003,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161278532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.95234089,
+     -26.82894079
+    ]
+   },
+   "properties": {
+    "name": "LOT 48 PINELANDS DRIVE BEERWAH 4519",
+    "locID": "Eiw0OCBQaW5lbGFuZHMgRHIsIEJlZXJ3YWggUUxEIDQ1MTksIEF1c3RyYWxpYSIwEi4KFAoSCaftl_aPhZNrEcayTkcacHK-EDAqFAoSCV3AMcGPhZNrET9PiW0fm0jw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161278541"
    }
   },
   {
@@ -38144,11 +38161,45 @@
     ]
    },
    "properties": {
+    "name": "229 OLD LANDSBOROUGH ROAD BEERWAH 4519",
+    "locID": "EjQyMjkgT2xkIExhbmRzYm9yb3VnaCBSZCwgQmVlcndhaCBRTEQgNDUxOSwgQXVzdHJhbGlhIjESLwoUChIJhYpBaYaFk2sRqprbU54BE6QQ5QEqFAoSCZtrTFybhZNrEWQ_jEzqQGfO",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162677035"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.95759987,
+     -26.83974829
+    ]
+   },
+   "properties": {
     "name": "231A OLD LANDSBOROUGH ROAD BEERWAH 4519",
     "locID": "ChIJrXTNvoeFk2sRu7H-6wdbzBE",
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162677036"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.95759987,
+     -26.83974829
+    ]
+   },
+   "properties": {
+    "name": "231B OLD LANDSBOROUGH ROAD BEERWAH 4519",
+    "locID": "EjQyMzEgT2xkIExhbmRzYm9yb3VnaCBSZCwgQmVlcndhaCBRTEQgNDUxOSwgQXVzdHJhbGlhIjESLwoUChIJhYpBaYaFk2sRqprbU54BE6QQ5wEqFAoSCZtrTFybhZNrEWQ_jEzqQGfO",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162677037"
    }
   },
   {
@@ -42414,7 +42465,7 @@
     "name": "267 FRASER ROAD BEERWAH 4519",
     "locID": "LOC000067458415",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD163022323"
    }
   },
@@ -43111,7 +43162,7 @@
     "name": "32 MONARCH PLACE BEERWAH 4519",
     "locID": "LOC000060994407",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163038124"
    }
   },
@@ -44378,6 +44429,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.0082323,
+     -26.87043007
+    ]
+   },
+   "properties": {
+    "name": "LOT 47 MAWSONS ROAD BEERWAH 4519",
+    "locID": "Eio0NyBNYXdzb25zIFJkLCBCZWVyd2FoIFFMRCA0NTE5LCBBdXN0cmFsaWEiMBIuChQKEgnzCJ6ImI-TaxHldzsPqEH5YRAvKhQKEgmxl0sHv4-TaxG-9EdZdY0a_g",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163219464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96095408,
      -26.86444154
     ]
@@ -45099,8 +45167,8 @@
    "properties": {
     "name": "60 LAPWING CIRCUIT BEERWAH 4519",
     "locID": "LOC000113463139",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163290160"
    }
   },
@@ -46272,8 +46340,8 @@
    "properties": {
     "name": "37 LAPWING CIRCUIT BEERWAH 4519",
     "locID": "LOC000113580515",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163296637"
    }
   },
@@ -61284,7 +61352,7 @@
     "name": "4 NORTH STREET BEERWAH 4519",
     "locID": "LOC000179366846",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719953263"
    }
   },
@@ -61300,8 +61368,8 @@
    "properties": {
     "name": "UNIT 1, 1 KATHERINE STREET BEERWAH 4519",
     "locID": "LOC000060435663",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719953901"
    }
   },
@@ -61335,7 +61403,7 @@
     "name": "77A PEACHESTER ROAD BEERWAH 4519",
     "locID": "LOC000068665324",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719955472"
    }
   },

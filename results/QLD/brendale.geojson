@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T23:23:19.442890",
+ "generated": "2023-08-19T01:59:15.084666",
  "suburb": "BRENDALE",
  "features": [
   {
@@ -1427,7 +1427,7 @@
     "name": "LOT 1 CRIBB ROAD BRENDALE 4500",
     "locID": "LOC100055313649",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155067628"
    }
   },
@@ -4504,7 +4504,7 @@
     "name": "646 SOUTH PINE ROAD BRENDALE 4500",
     "locID": "LOC000093766627",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156315730"
    }
   },
@@ -15299,7 +15299,7 @@
     "name": "638 SOUTH PINE ROAD BRENDALE 4500",
     "locID": "LOC000084158575",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157605239"
    }
   },
@@ -17067,7 +17067,7 @@
     "name": "530 SOUTH PINE ROAD BRENDALE 4500",
     "locID": "LOC000004159598",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159955222"
    }
   },
@@ -40204,7 +40204,7 @@
     "name": "622-624 SOUTH PINE ROAD BRENDALE 4500",
     "locID": "LOC000128101507",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162364826"
    }
   },
@@ -41938,7 +41938,7 @@
     "name": "2 SOUTH PINE ROAD BRENDALE 4500",
     "locID": "LOC000128097043",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162634174"
    }
   },
@@ -48041,7 +48041,7 @@
     "name": "596-618 SOUTH PINE ROAD BRENDALE 4500",
     "locID": "LOC000128097043",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163318562"
    }
   },
@@ -62347,6 +62347,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98112313,
+     -27.31127225
+    ]
+   },
+   "properties": {
+    "name": "10 GRIFFIN CRESCENT BRENDALE 4500",
+    "locID": "LOC000182564478",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720196396"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.98021647,
      -27.31035732
     ]
@@ -65210,7 +65227,7 @@
    "properties": {
     "name": "17 MAXWELL STREET BRENDALE 4500",
     "locID": "ChIJFcVrufH8k2sRc-NBRFcGI90",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720737868"
    }
@@ -65227,7 +65244,7 @@
    "properties": {
     "name": "5 MAXWELL STREET BRENDALE 4500",
     "locID": "ChIJVQWApvH8k2sRCpFGu5M8Ak4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720737998"
    }

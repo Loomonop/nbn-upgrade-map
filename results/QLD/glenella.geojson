@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T23:56:53.372330",
+ "generated": "2023-08-19T02:31:18.320106",
  "suburb": "GLENELLA",
  "features": [
   {
@@ -237,7 +237,7 @@
     "name": "9 FOXTAIL COURT GLENELLA 4740",
     "locID": "LOC000093846275",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155327601"
    }
   },
@@ -3059,7 +3059,7 @@
     "name": "20 PERCY COURT GLENELLA 4740",
     "locID": "LOC000028563830",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155337348"
    }
   },
@@ -10980,8 +10980,8 @@
    "properties": {
     "name": "24 GREVILLEA DRIVE GLENELLA 4740",
     "locID": "LOC000031799961",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156609809"
    }
   },
@@ -12154,7 +12154,7 @@
     "name": "25 WHEELER DRIVE GLENELLA 4740",
     "locID": "LOC000085845418",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157960067"
    }
   },
@@ -19371,6 +19371,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     149.15127943,
+     -21.12921162
+    ]
+   },
+   "properties": {
+    "name": "LOT 21 HEATHS ROAD GLENELLA 4740",
+    "locID": "EioyMSBIZWF0aHMgUmQsIEdsZW5lbGxhIFFMRCA0NzQwLCBBdXN0cmFsaWEiMBIuChQKEgm3qlO7ftTbaxH9TOIL4kmAKRAVKhQKEgnz4YRTedTbaxGNuu1rRz2nOw",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161176140"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.14886135,
+     -21.12900903
+    ]
+   },
+   "properties": {
+    "name": "LOT 5 HEATHS ROAD GLENELLA 4740",
+    "locID": "LOC000026752081",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD161176141"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      149.14809792,
      -21.12545133
     ]
@@ -20942,8 +20976,8 @@
    "properties": {
     "name": "8 MCLAREN COURT GLENELLA 4740",
     "locID": "LOC000061469772",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161791290"
    }
   },
@@ -26315,7 +26349,7 @@
     "name": "17 KENSINGTON COURT GLENELLA 4740",
     "locID": "LOC000080011961",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162353993"
    }
   },
@@ -28286,7 +28320,7 @@
    "properties": {
     "name": "4 PEPSY COURT GLENELLA 4740",
     "locID": "LOC000193136471",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162518358"
    }
@@ -33202,6 +33236,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720373505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.14862825,
+     -21.13223932
+    ]
+   },
+   "properties": {
+    "name": "154 GLENELLA CONNECTION ROAD GLENELLA 4740",
+    "locID": "ChIJ6dlaPYDU22sRY2BfiuySHjw",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720375237"
    }
   },
   {
