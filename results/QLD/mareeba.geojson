@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T01:29:34.684953",
+ "generated": "2023-08-19T04:08:14.021906",
  "suburb": "MAREEBA",
  "features": [
   {
@@ -17321,8 +17321,8 @@
    "properties": {
     "name": "120 MASON STREET MAREEBA 4880",
     "locID": "LOC000045704137",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156032118"
    }
   },
@@ -26655,7 +26655,7 @@
     "name": "42 MARTIN AVENUE MAREEBA 4880",
     "locID": "LOC000087921312",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156789560"
    }
   },
@@ -60145,7 +60145,7 @@
     "name": "10 TORRISI ROAD MAREEBA 4880",
     "locID": "LOC000068709127",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160963017"
    }
   },
@@ -60895,6 +60895,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161059672"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.4114269,
+     -16.97345782
+    ]
+   },
+   "properties": {
+    "name": "LOT 16 BOWERS STREET MAREEBA 4880",
+    "locID": "EikxNiBCb3dlcnMgU3QsIE1hcmVlYmEgUUxEIDQ4ODAsIEF1c3RyYWxpYSIwEi4KFAoSCROC_xIPfoJpEYC4LSx8jpy2EBAqFAoSCSVa-RIPfoJpEQEHGOij5gLG",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161075205"
    }
   },
   {
@@ -61871,6 +61888,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.40545078,
+     -17.08308963
+    ]
+   },
+   "properties": {
+    "name": "LOT 107 RAY ROAD MAREEBA 4880",
+    "locID": "EicxMDcgUmF5IFJkLCBNYXJlZWJhIFFMRCA0ODgwLCBBdXN0cmFsaWEiMBIuChQKEgllaEsjvn6CaRHLBXOeplsDuhBrKhQKEgnBdEBRS3mCaRGFqRuLRtGCBA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161286973"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.41720137,
      -17.00741066
     ]
@@ -62015,7 +62049,7 @@
     "name": "LOT 10 TORRISI ROAD MAREEBA 4880",
     "locID": "LOC000068709127",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161333697"
    }
   },
@@ -67727,7 +67761,7 @@
     "name": "38 JACINTA CRESCENT MAREEBA 4880",
     "locID": "LOC000052087402",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161441026"
    }
   },
@@ -91068,7 +91102,7 @@
     "name": "11 MICHELINA CLOSE MAREEBA 4880",
     "locID": "LOC000004936559",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163169753"
    }
   },
@@ -93802,6 +93836,40 @@
     ]
    },
    "properties": {
+    "name": "UNIT 101, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 102, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
     "name": "UNIT 103, 36 ANZAC AVENUE MAREEBA 4880",
     "locID": "LOC000040169312",
     "tech": "FTTN",
@@ -93909,6 +93977,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163258568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039357290",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258569"
    }
   },
   {
@@ -96114,11 +96199,79 @@
     ]
    },
    "properties": {
-    "name": "UNIT 67, 36 ANZAC AVENUE MAREEBA 4880",
-    "locID": "LOC000039606332",
+    "name": "UNIT 64, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163258702"
+    "gnaf_pid": "GAQLD163258699"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 65, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258700"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 66, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 68, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 69, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258704"
    }
   },
   {
@@ -96148,11 +96301,130 @@
     ]
    },
    "properties": {
+    "name": "UNIT 70, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
     "name": "UNIT 71, 36 ANZAC AVENUE MAREEBA 4880",
     "locID": "LOC000039809239",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163258707"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 72, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 73, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258709"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 74, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258710"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 75, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 76, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258712"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 77, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258713"
    }
   },
   {
@@ -96510,6 +96782,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163258734"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 97, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258735"
    }
   },
   {
@@ -98191,7 +98480,7 @@
     "name": "26 AMAROO DRIVE MAREEBA 4880",
     "locID": "LOC000129839302",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424998537"
    }
   },
@@ -109889,6 +110178,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719446183"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.41576212,
+     -16.94883779
+    ]
+   },
+   "properties": {
+    "name": "LOT 171 BILWON ROAD MAREEBA 4880",
+    "locID": "EisxNzEgQmlsd29uIFJkLCBCaWJvb2hyYSBRTEQgNDg4MCwgQXVzdHJhbGlhIjESLwoUChIJXRSscBaBgmkRXpo2j8I6_zMQqwEqFAoSCXvtCunUg4JpEf3_yEkeLHio",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719446185"
    }
   },
   {
