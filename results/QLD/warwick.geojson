@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T04:20:56.484825",
+ "generated": "2023-08-19T06:58:13.727996",
  "suburb": "WARWICK",
  "features": [
   {
@@ -9552,8 +9552,8 @@
    "properties": {
     "name": "153 PERCY STREET WARWICK 4370",
     "locID": "LOC000011495959",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155946572"
    }
   },
@@ -16743,8 +16743,8 @@
    "properties": {
     "name": "52 PERCY STREET WARWICK 4370",
     "locID": "LOC000030711026",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155951286"
    }
   },
@@ -43094,7 +43094,7 @@
     "name": "124 PERCY STREET WARWICK 4370",
     "locID": "LOC000026616594",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157273783"
    }
   },
@@ -78403,7 +78403,7 @@
     "name": "2 ELIZA COURT WARWICK 4370",
     "locID": "LOC000070145862",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158831784"
    }
   },
@@ -91835,6 +91835,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161189170"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.03748218,
+     -28.20349422
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 JACKIE HOWE DRIVE WARWICK 4370",
+    "locID": "Ei0yIEphY2tpZSBIb3dlIERyLCBXYXJ3aWNrIFFMRCA0MzcwLCBBdXN0cmFsaWEiMBIuChQKEgnhOB_Th5-XaxHSRyqW2xKMxxACKhQKEgkXY6kshp-XaxEJFYO3_-ET_A",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161189171"
    }
   },
   {
@@ -126379,6 +126396,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720029097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.03880064,
+     -28.22677739
+    ]
+   },
+   "properties": {
+    "name": "45-61 MCEVOY STREET WARWICK 4370",
+    "locID": "ChIJWaPvI6Ofl2sRviR0w89YNt8",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720029234"
    }
   },
   {

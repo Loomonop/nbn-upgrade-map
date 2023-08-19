@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T03:53:34.582797",
+ "generated": "2023-08-19T06:28:22.112094",
  "suburb": "KULUIN",
  "features": [
   {
@@ -12986,8 +12986,8 @@
    "properties": {
     "name": "94 ELKHORN STREET KULUIN 4558",
     "locID": "LOC000036648993",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160098705"
    }
   },
@@ -15673,7 +15673,7 @@
     "name": "13 ROSSLARE COURT KULUIN 4558",
     "locID": "LOC000052253897",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160983468"
    }
   },
@@ -16608,7 +16608,7 @@
     "name": "16 ADVANCE ROAD KULUIN 4558",
     "locID": "LOC000113696289",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161802867"
    }
   },
@@ -20265,6 +20265,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720731293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.05706813,
+     -26.66076263
+    ]
+   },
+   "properties": {
+    "name": "44 TALLOW WOOD DRIVE KULUIN 4558",
+    "locID": "Ei00NCBUYWxsb3cgV29vZCBEciwgS3VsdWluIFFMRCA0NTU4LCBBdXN0cmFsaWEiMBIuChQKEgkphZ2ttneTaxF3jsKdkewtZxAsKhQKEgmD091QsneTaxHwhI2Kk3UizQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720731315"
    }
   },
   {

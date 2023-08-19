@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T04:42:57.223512",
+ "generated": "2023-08-19T07:16:50.545743",
  "suburb": "GOONDIWINDI",
  "features": [
   {
@@ -13734,8 +13734,8 @@
    "properties": {
     "name": "21 WARDEN STREET GOONDIWINDI 4390",
     "locID": "LOC000035666262",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155364220"
    }
   },
@@ -14193,8 +14193,8 @@
    "properties": {
     "name": "114 PFINGST STREET GOONDIWINDI 4390",
     "locID": "LOC000051101278",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155369763"
    }
   },
@@ -35614,7 +35614,7 @@
     "name": "3A FLETCHER STREET GOONDIWINDI 4390",
     "locID": "LOC100018092096",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158007759"
    }
   },
@@ -44470,7 +44470,7 @@
    "properties": {
     "name": "18 JAMES NORMAN DRIVE GOONDIWINDI 4390",
     "locID": "ChIJRTqzcoUWo2sRC6IGIRE9dEI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161839325"
    }
@@ -50005,6 +50005,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.30243339,
+     -28.48780391
+    ]
+   },
+   "properties": {
+    "name": "LOT 40 LEICHHARDT HIGHWAY GOONDIWINDI 4390",
+    "locID": "EjI0MCBMZWljaGhhcmR0IEh3eSwgR29vbmRpd2luZGkgUUxEIDQzOTAsIEF1c3RyYWxpYSIwEi4KFAoSCXEZQFAtFKNrEfvj5O0g63t5ECgqFAoSCZmlz2h067xrES3oe05pGRAx",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162355382"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.32038652,
      -28.25410976
     ]
@@ -50964,7 +50981,7 @@
    "properties": {
     "name": "104 SLOSS ROAD GOONDIWINDI 4390",
     "locID": "ChIJY9s_FYs9o2sR6yxwfiykaIo",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162364631"
    }
@@ -51610,8 +51627,8 @@
    "properties": {
     "name": "19 JAMES RYAN AVENUE GOONDIWINDI 4390",
     "locID": "LOC000028347839",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162384124"
    }
   },
@@ -60552,8 +60569,8 @@
    "properties": {
     "name": "23 RAYMOND TERRACE GOONDIWINDI 4390",
     "locID": "LOC000154277547",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425241395"
    }
   },
@@ -62799,6 +62816,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425473501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.26221235,
+     -28.54094679
+    ]
+   },
+   "properties": {
+    "name": "LOT 8 CLARKES ROAD GOONDIWINDI 4390",
+    "locID": "Ei04IENsYXJrZXMgUmQsIEdvb25kaXdpbmRpIFFMRCA0MzkwLCBBdXN0cmFsaWEiMBIuChQKEgmFIrruXRSjaxHrgMvUdloFERAIKhQKEgmfsFijYBSjaxFE-wadED0ueQ",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425473929"
    }
   },
   {
@@ -65764,6 +65798,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.30504647,
+     -28.52085626
+    ]
+   },
+   "properties": {
+    "name": "LOT 40 BOUNDARY ROAD GOONDIWINDI 4390",
+    "locID": "Ei80MCBCb3VuZGFyeSBSZCwgR29vbmRpd2luZGkgUUxEIDQzOTAsIEF1c3RyYWxpYSIwEi4KFAoSCXEZQFAtFKNrEfvj5O0g63t5ECgqFAoSCbfSTeF_FqNrEbaWqE-nLBv7",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719342387"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.30648401,
      -28.53873461
     ]
@@ -68620,6 +68671,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.31567683,
+     -28.55231807
+    ]
+   },
+   "properties": {
+    "name": "17 LILLY DRIVE GOONDIWINDI 4390",
+    "locID": "ChIJCUT_-ZcWo2sR4KetJHnLTIA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721145407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.32084595,
      -28.53899212
     ]
@@ -68892,6 +68960,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.31579583,
+     -28.55207795
+    ]
+   },
+   "properties": {
+    "name": "19 LILLY DRIVE GOONDIWINDI 4390",
+    "locID": "ChIJt6Vs8ZcWo2sRrv-smzPlOrA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721149516"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.32043017,
      -28.53850725
     ]
@@ -68987,6 +69072,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721151453"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.31564045,
+     -28.5525091
+    ]
+   },
+   "properties": {
+    "name": "15 LILLY DRIVE GOONDIWINDI 4390",
+    "locID": "ChIJW3Rl-ZcWo2sRhpF4ovW1CMw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721152012"
    }
   },
   {
