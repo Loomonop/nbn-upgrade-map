@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T07:02:45.787099",
+ "generated": "2023-08-19T09:37:51.708318",
  "suburb": "ANGLE VALE",
  "features": [
   {
@@ -1460,8 +1460,8 @@
    "properties": {
     "name": "10 TRAMINER DRIVE ANGLE VALE 5117",
     "locID": "LOC000060785835",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414980505"
    }
   },
@@ -2225,8 +2225,8 @@
    "properties": {
     "name": "8 HIGGINS ROAD ANGLE VALE 5117",
     "locID": "LOC000040937047",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415036337"
    }
   },
@@ -2361,8 +2361,8 @@
    "properties": {
     "name": "3 WHITELAWS COURT ANGLE VALE 5117",
     "locID": "LOC000054263154",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415036345"
    }
   },
@@ -3143,8 +3143,8 @@
    "properties": {
     "name": "11 STRANGWAYS ROAD ANGLE VALE 5117",
     "locID": "LOC000072364334",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415075519"
    }
   },
@@ -7819,7 +7819,7 @@
     "name": "10 ELM DRIVE ANGLE VALE 5117",
     "locID": "LOC000035404626",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423842531"
    }
   },
@@ -10453,8 +10453,8 @@
    "properties": {
     "name": "23 GLENFIELD CIRCUIT ANGLE VALE 5117",
     "locID": "LOC000060657912",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424520319"
    }
   },
@@ -13955,8 +13955,8 @@
    "properties": {
     "name": "116 ANGLE VALE ROAD ANGLE VALE 5117",
     "locID": "LOC100055989497",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425136769"
    }
   },
@@ -15094,8 +15094,8 @@
    "properties": {
     "name": "154 ANGLE VALE ROAD ANGLE VALE 5117",
     "locID": "LOC000162108762",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_425258938"
    }
   },
@@ -21438,6 +21438,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719774249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6565418,
+     -34.62309749
+    ]
+   },
+   "properties": {
+    "name": "LOT 4 RIVERBANKS ROAD ANGLE VALE 5117",
+    "locID": "Ei40IFJpdmVyYmFua3MgUmQsIEFuZ2xlIFZhbGUgU0EgNTExNywgQXVzdHJhbGlhIjASLgoUChIJhzYJeZarsGoRWZL79k2ipSIQBCoUChIJASUC1b2rsGoRA7cDDdl66p8",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_719774653"
    }
   },
   {
@@ -34705,6 +34722,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.66460234,
+     -34.63792461
+    ]
+   },
+   "properties": {
+    "name": "LOT 15 RIVERBANKS ROAD ANGLE VALE 5117",
+    "locID": "Ei8xNSBSaXZlcmJhbmtzIFJkLCBBbmdsZSBWYWxlIFNBIDUxMTcsIEF1c3RyYWxpYSIwEi4KFAoSCYc2CXmWq7BqEViS-_ZNoqUiEA8qFAoSCQElAtW9q7BqEQO3Aw3Zeuqf",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_720724156"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.64174243,
      -34.63521009
     ]
@@ -45474,7 +45508,7 @@
     "name": "LOT 5041 CURTIS ROAD ANGLE VALE 5117",
     "locID": "LOC000182254418",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_721199058"
    }
   },
@@ -47924,6 +47958,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721201715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66352591,
+     -34.63970163
+    ]
+   },
+   "properties": {
+    "name": "LOT 203 FRISBY ROAD ANGLE VALE 5117",
+    "locID": "EiwyMDMgRnJpc2J5IFJkLCBBbmdsZSBWYWxlIFNBIDUxMTcsIEF1c3RyYWxpYSIxEi8KFAoSCaPxoAYLrLBqEcDU_AieXmKdEMsBKhQKEgn5B4DuCqywahHueMAYs1Ieig",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721201734"
    }
   },
   {
