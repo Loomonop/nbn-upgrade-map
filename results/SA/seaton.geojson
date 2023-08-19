@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T08:50:46.812627",
+ "generated": "2023-08-19T11:12:08.964110",
  "suburb": "SEATON",
  "features": [
   {
@@ -10021,6 +10021,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.51632862,
+     -34.88378118
+    ]
+   },
+   "properties": {
+    "name": "10 FOURTH AVENUE SEATON 5023",
+    "locID": "LOC000193373167",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415055670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.51925163,
      -34.8838837
     ]
@@ -16593,6 +16610,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415130331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51997301,
+     -34.9047471
+    ]
+   },
+   "properties": {
+    "name": "15 AIRDRIE AVENUE SEATON 5023",
+    "locID": "ChIJB-YoILXFsGoR3YmWkGFl_pE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_415131640"
    }
   },
   {
@@ -45381,6 +45415,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.51524851,
+     -34.895221
+    ]
+   },
+   "properties": {
+    "name": "9 JANET STREET SEATON 5023",
+    "locID": "LOC000193375708",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415419657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.51644559,
      -34.89528703
     ]
@@ -46360,23 +46411,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415422356"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.51794956,
-     -34.89719961
-    ]
-   },
-   "properties": {
-    "name": "13 FORTROSE AVENUE SEATON 5023",
-    "locID": "LOC000010783555",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415422358"
    }
   },
   {
@@ -70004,8 +70038,8 @@
    "properties": {
     "name": "38 ALFRED AVENUE SEATON 5023",
     "locID": "LOC000087665498",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416539426"
    }
   },
@@ -84845,8 +84879,8 @@
    "properties": {
     "name": "UNIT 2, 5 HONEYTON STREET SEATON 5023",
     "locID": "LOC000112721454",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424642064"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T09:14:44.046329",
+ "generated": "2023-08-19T11:31:05.096532",
  "suburb": "BLAKEVIEW",
  "features": [
   {
@@ -271,7 +271,7 @@
     "name": "14 BRENTWOOD MEWS BLAKEVIEW 5114",
     "locID": "LOC000023415691",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415009817"
    }
   },
@@ -17321,8 +17321,8 @@
    "properties": {
     "name": "11 KINGATE BOULEVARD BLAKEVIEW 5114",
     "locID": "LOC000095296335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415195462"
    }
   },
@@ -21571,7 +21571,7 @@
    "properties": {
     "name": "84 MAIN NORTH ROAD BLAKEVIEW 5114",
     "locID": "ChIJZZajPr2ssGoRvMvoP8QWuq8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415475650"
    }
@@ -22659,7 +22659,7 @@
    "properties": {
     "name": "82 MAIN NORTH ROAD BLAKEVIEW 5114",
     "locID": "ChIJMYVeYb2ssGoRCcXtvSWIQpA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416855796"
    }
@@ -27980,8 +27980,8 @@
    "properties": {
     "name": "LOT 427 BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424156165"
    }
   },
@@ -27997,8 +27997,8 @@
    "properties": {
     "name": "LOT 428 BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424156166"
    }
   },
@@ -28219,8 +28219,25 @@
     "name": "LOT 35 MAIN NORTH ROAD BLAKEVIEW 5114",
     "locID": "LOC000031251695",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424187943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.70418918,
+     -34.66804792
+    ]
+   },
+   "properties": {
+    "name": "LOT 440 MAIN NORTH ROAD BLAKEVIEW 5114",
+    "locID": "Eis0NDAgTWFpbiBOIFJkLCBCbGFrZXZpZXcgU0EgNTExNCwgQXVzdHJhbGlhIjESLwoUChIJz9AOlu-ssGoRgJpleiCXHx4QuAMqFAoSCZkxHB-3s7BqEbypL8VHZryy",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424187948"
    }
   },
   {
@@ -28762,8 +28779,8 @@
    "properties": {
     "name": "LOT 1711 BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424289463"
    }
   },
@@ -28796,9 +28813,26 @@
    "properties": {
     "name": "LOT 3247 BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424289466"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71642295,
+     -34.66298441
+    ]
+   },
+   "properties": {
+    "name": "LOT 92 BENTLEY ROAD BLAKEVIEW 5114",
+    "locID": "Eio5MiBCZW50bGV5IFJkLCBVbGV5YnVyeSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgmvJHlIIFW3ahFpJr96DLhQBxBcKhQKEgmbqMKzGFW3ahG0ZPO6NnUqdg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424289467"
    }
   },
   {
@@ -29224,6 +29258,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424433722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.70882964,
+     -34.68217298
+    ]
+   },
+   "properties": {
+    "name": "24 BENTLEY ROAD BLAKEVIEW 5114",
+    "locID": "ChIJ_Z2aBrqssGoRVEM9M4qxe3w",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424433723"
    }
   },
   {
@@ -34219,8 +34270,8 @@
    "properties": {
     "name": "19 CRONIN AVENUE BLAKEVIEW 5114",
     "locID": "LOC000114640013",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424737200"
    }
   },
@@ -36004,7 +36055,7 @@
    "properties": {
     "name": "20 HAYFIELD AVENUE BLAKEVIEW 5114",
     "locID": "LOC000190711851",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424802563"
    }
@@ -42074,7 +42125,7 @@
     "name": "24 DARRYL STREET BLAKEVIEW 5114",
     "locID": "LOC000130426711",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425073268"
    }
   },
@@ -42736,8 +42787,8 @@
    "properties": {
     "name": "LOT 3004 BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425105494"
    }
   },
@@ -43127,7 +43178,7 @@
    "properties": {
     "name": "8 HAYFIELD AVENUE BLAKEVIEW 5114",
     "locID": "LOC000190711724",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425195210"
    }
@@ -44402,8 +44453,8 @@
    "properties": {
     "name": "12 DARRYL STREET BLAKEVIEW 5114",
     "locID": "LOC000151959198",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_425297026"
    }
   },
@@ -47173,8 +47224,8 @@
    "properties": {
     "name": "4A BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425457838"
    }
   },
@@ -54874,8 +54925,8 @@
    "properties": {
     "name": "LOT 746 BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_719184189"
    }
   },
@@ -54993,8 +55044,8 @@
    "properties": {
     "name": "LOT 745 BENTLEY ROAD BLAKEVIEW 5114",
     "locID": "LOC000151958814",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_719184943"
    }
   },
@@ -65135,6 +65186,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.70002962,
+     -34.67537362
+    ]
+   },
+   "properties": {
+    "name": "LOT 500 MAIN NORTH ROAD BLAKEVIEW 5114",
+    "locID": "Eis1MDAgTWFpbiBOIFJkLCBCbGFrZXZpZXcgU0EgNTExNCwgQXVzdHJhbGlhIjESLwoUChIJz9AOlu-ssGoRgJpleiCXHx4Q9AMqFAoSCZkxHB-3s7BqEbypL8VHZryy",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721199397"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.70124068,
      -34.6752276
     ]
@@ -65145,6 +65213,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721200015"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.69996979,
+     -34.67380855
+    ]
+   },
+   "properties": {
+    "name": "LOT 300 MAIN NORTH ROAD BLAKEVIEW 5114",
+    "locID": "EiszMDAgTWFpbiBOIFJkLCBCbGFrZXZpZXcgU0EgNTExNCwgQXVzdHJhbGlhIjESLwoUChIJdVMSDKGssGoRMyRylEH9LDIQrAIqFAoSCZkxHB-3s7BqEbypL8VHZryy",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721200280"
    }
   },
   {
