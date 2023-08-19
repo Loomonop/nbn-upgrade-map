@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T20:58:08.818389",
+ "generated": "2023-08-19T22:05:45.021898",
  "suburb": "ANDREWS FARM",
  "features": [
   {
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "3 PRESIDENT AVENUE ANDREWS FARM 5114",
     "locID": "LOC000087455294",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414928810"
    }
   },
@@ -5030,8 +5030,8 @@
    "properties": {
     "name": "16 GRACE AVENUE ANDREWS FARM 5114",
     "locID": "LOC000088468377",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415032791"
    }
   },
@@ -9722,8 +9722,8 @@
    "properties": {
     "name": "40 LEICESTER GROVE ANDREWS FARM 5114",
     "locID": "LOC000079423595",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415092951"
    }
   },
@@ -12579,7 +12579,7 @@
     "name": "LOT 1059 CRITTENDEN ROAD ANDREWS FARM 5114",
     "locID": "LOC000032501486",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415143345"
    }
   },
@@ -13905,7 +13905,7 @@
     "name": "7 EARL COURT ANDREWS FARM 5114",
     "locID": "LOC000091051515",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415189192"
    }
   },
@@ -20348,7 +20348,7 @@
     "name": "8 ETON DRIVE ANDREWS FARM 5114",
     "locID": "LOC000023419607",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423856642"
    }
   },
@@ -23629,7 +23629,7 @@
     "name": "45 ENTERPRISE CIRCUIT ANDREWS FARM 5114",
     "locID": "LOC000021689403",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424005534"
    }
   },
@@ -26035,6 +26035,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.66165796,
+     -34.66590569
+    ]
+   },
+   "properties": {
+    "name": "LOT 550 ANDREWS ROAD ANDREWS FARM 5114",
+    "locID": "Ei81NTAgQW5kcmV3cyBSZCwgQW5kcmV3cyBGYXJtIFNBIDUxMTQsIEF1c3RyYWxpYSIxEi8KFAoSCV2pHlg4rLBqEbIq7jh7_fg0EKYEKhQKEgnBBV6BP6ywahGcYsPCBd85tg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424132916"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.66916607,
      -34.66776835
     ]
@@ -26538,6 +26555,40 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424150692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66007084,
+     -34.66841712
+    ]
+   },
+   "properties": {
+    "name": "LOT 359 ANDREWS ROAD ANDREWS FARM 5114",
+    "locID": "Ei8zNTkgQW5kcmV3cyBSZCwgQW5kcmV3cyBGYXJtIFNBIDUxMTQsIEF1c3RyYWxpYSIxEi8KFAoSCV2pHlg4rLBqEbIq7jh7_fg0EOcCKhQKEgnBBV6BP6ywahGcYsPCBd85tg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424152523"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65645802,
+     -34.67376746
+    ]
+   },
+   "properties": {
+    "name": "LOT 369 ANDREWS ROAD ANDREWS FARM 5114",
+    "locID": "Ei8zNjkgQW5kcmV3cyBSZCwgQW5kcmV3cyBGYXJtIFNBIDUxMTQsIEF1c3RyYWxpYSIxEi8KFAoSCV2pHlg4rLBqEbIq7jh7_fg0EPECKhQKEgnBBV6BP6ywahGcYsPCBd85tg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424152524"
    }
   },
   {
@@ -35885,8 +35936,8 @@
    "properties": {
     "name": "25 CORK AVENUE ANDREWS FARM 5114",
     "locID": "LOC000112250749",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424648887"
    }
   },
@@ -40886,6 +40937,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424816839"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65083884,
+     -34.68329468
+    ]
+   },
+   "properties": {
+    "name": "LOT 38 ANDREWS ROAD ANDREWS FARM 5114",
+    "locID": "Ei4zOCBBbmRyZXdzIFJkLCBBbmRyZXdzIEZhcm0gU0EgNTExNCwgQXVzdHJhbGlhIjASLgoUChIJXakeWDissGoRG4rgVQGxXXQQJioUChIJwQVegT-ssGoRnGLDwgXfObY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424816860"
    }
   },
   {
@@ -47020,8 +47088,8 @@
    "properties": {
     "name": "14 HUNTER LANE ANDREWS FARM 5114",
     "locID": "LOC000130457795",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_425074257"
    }
   },
@@ -47751,8 +47819,8 @@
    "properties": {
     "name": "9 ESPERANCE DRIVE ANDREWS FARM 5114",
     "locID": "LOC000162101541",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_425107292"
    }
   },
@@ -62457,7 +62525,7 @@
     "name": "LOT 6501 CURTIS ROAD ANDREWS FARM 5114",
     "locID": "LOC000182254418",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_721110545"
    }
   },
@@ -63510,7 +63578,7 @@
    "properties": {
     "name": "22 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAyMiBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAWKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721251976"
    }
@@ -63646,7 +63714,7 @@
    "properties": {
     "name": "18 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAxOCBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhASKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721252176"
    }
@@ -63833,7 +63901,7 @@
    "properties": {
     "name": "12 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAxMiBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAMKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721252753"
    }
@@ -63935,7 +64003,7 @@
    "properties": {
     "name": "10 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAxMCBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAKKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721253165"
    }
@@ -63969,7 +64037,7 @@
    "properties": {
     "name": "26 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAyNiBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAaKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721253230"
    }
@@ -64020,7 +64088,7 @@
    "properties": {
     "name": "14 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAxNCBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAOKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721253498"
    }
@@ -64071,7 +64139,7 @@
    "properties": {
     "name": "30 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAzMCBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAeKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721253626"
    }
@@ -64105,7 +64173,7 @@
    "properties": {
     "name": "20 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAyMCBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAUKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721253829"
    }
@@ -64139,7 +64207,7 @@
    "properties": {
     "name": "24 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAyNCBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAYKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721253847"
    }
@@ -64258,7 +64326,7 @@
    "properties": {
     "name": "16 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAxNiBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAQKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721254043"
    }
@@ -64326,7 +64394,7 @@
    "properties": {
     "name": "28 CORKWOOD CIRCUIT ANDREWS FARM 5114",
     "locID": "EjAyOCBDb3Jrd29vZCBDY3QsIEFuZHJld3MgRmFybSBTQSA1MTE0LCBBdXN0cmFsaWEiMBIuChQKEgkzskECQKywahFyPuUZg0alJhAcKhQKEgnZmloQQKywahH_abugf4BLLA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721254199"
    }

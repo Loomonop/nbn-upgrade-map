@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T20:54:36.352247",
+ "generated": "2023-08-19T22:02:33.809454",
  "suburb": "LINDEN PARK",
  "features": [
   {
@@ -8073,8 +8073,8 @@
    "properties": {
     "name": "28 MARINER STREET LINDEN PARK 5065",
     "locID": "LOC000106849615",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415439907"
    }
   },
@@ -9944,7 +9944,7 @@
     "name": "1A VERDALE AVENUE LINDEN PARK 5065",
     "locID": "LOC000083712993",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415518058"
    }
   },
@@ -10031,6 +10031,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415518064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65111988,
+     -34.9395938
+    ]
+   },
+   "properties": {
+    "name": "1A DEVEREUX ROAD LINDEN PARK 5065",
+    "locID": "LOC000193452446",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415518065"
    }
   },
   {
@@ -17423,8 +17440,8 @@
    "properties": {
     "name": "4A VERDALE AVENUE LINDEN PARK 5065",
     "locID": "LOC100063623406",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_719194301"
    }
   },
