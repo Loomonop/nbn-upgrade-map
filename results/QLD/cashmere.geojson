@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T22:19:59.574025",
+ "generated": "2023-08-19T00:55:10.922015",
  "suburb": "CASHMERE",
  "features": [
   {
@@ -2668,7 +2668,7 @@
     "name": "3 BRACKEN COURT CASHMERE 4500",
     "locID": "LOC000006604301",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155156417"
    }
   },
@@ -10725,8 +10725,8 @@
    "properties": {
     "name": "50 IRA BUCKBY ROAD WEST CASHMERE 4500",
     "locID": "LOC000102874657",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157725520"
    }
   },
@@ -18334,6 +18334,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.88543797,
+     -27.30210598
+    ]
+   },
+   "properties": {
+    "name": "LOT 336 CLEAR MOUNTAIN ROAD CASHMERE 4500",
+    "locID": "EjMzMzYgQ2xlYXIgTW91bnRhaW4gUmQsIENhc2htZXJlIFFMRCA0NTAwLCBBdXN0cmFsaWEiMRIvChQKEgmNCnvbX_6TaxGUC5j6ap7YkhDQAioUChIJqWrDyF7-k2sRVfSH0l_mjeY",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161104323"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.86942922,
      -27.29040946
     ]
@@ -23594,8 +23611,8 @@
    "properties": {
     "name": "10 ELLE COURT CASHMERE 4500",
     "locID": "LOC000060257580",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162505280"
    }
   },
@@ -25821,8 +25838,8 @@
    "properties": {
     "name": "UNIT 1, 10 ELLE COURT CASHMERE 4500",
     "locID": "LOC000060257580",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163123110"
    }
   },

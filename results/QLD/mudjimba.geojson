@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T22:12:09.766858",
+ "generated": "2023-08-19T00:47:21.844012",
  "suburb": "MUDJIMBA",
  "features": [
   {
@@ -1868,8 +1868,8 @@
    "properties": {
     "name": "78 MUDJIMBA BEACH ROAD MUDJIMBA 4564",
     "locID": "LOC000096903647",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155616692"
    }
   },
@@ -2634,7 +2634,7 @@
     "name": "7 SYCAMORE STREET MUDJIMBA 4564",
     "locID": "LOC000104880825",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155627383"
    }
   },
@@ -4302,6 +4302,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156882494"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.09859002,
+     -26.61674242
+    ]
+   },
+   "properties": {
+    "name": "4 SUNDEW STREET MUDJIMBA 4564",
+    "locID": "LOC000193276002",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156882496"
    }
   },
   {
@@ -6000,7 +6017,7 @@
     "name": "28 PANDANUS STREET MUDJIMBA 4564",
     "locID": "LOC000063144325",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156896987"
    }
   },
@@ -10539,7 +10556,7 @@
     "name": "30 SASSIFRAS STREET MUDJIMBA 4564",
     "locID": "LOC000006680425",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158382310"
    }
   },
@@ -22031,7 +22048,7 @@
     "name": "31 SURFRIDER PLACE MUDJIMBA 4564",
     "locID": "LOC000183174292",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425642994"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-04T22:30:14.133677",
+ "generated": "2023-08-19T01:06:41.064572",
  "suburb": "DUNDOWRAN BEACH",
  "features": [
   {
@@ -2752,8 +2752,8 @@
    "properties": {
     "name": "2 AQUABELLA COURT DUNDOWRAN BEACH 4655",
     "locID": "LOC000081302889",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155245542"
    }
   },
@@ -5676,8 +5676,8 @@
    "properties": {
     "name": "32 EAGLE BEACH PARADE DUNDOWRAN BEACH 4655",
     "locID": "LOC000020149557",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156020077"
    }
   },
@@ -7819,7 +7819,7 @@
     "name": "28 MEADOW DRIVE DUNDOWRAN BEACH 4655",
     "locID": "LOC000083383554",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156517998"
    }
   },
@@ -8040,7 +8040,7 @@
     "name": "19 HOMEBUSH ROAD DUNDOWRAN BEACH 4655",
     "locID": "LOC000060850442",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156519822"
    }
   },
@@ -19609,6 +19609,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.76188756,
+     -25.27106377
+    ]
+   },
+   "properties": {
+    "name": "70 PLANTATION STREET DUNDOWRAN BEACH 4655",
+    "locID": "ChIJJfhAAhx_62sRDoyZMySQev8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720111910"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.76206415,
      -25.27122097
     ]
@@ -19755,6 +19772,40 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720117501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.76176371,
+     -25.27301646
+    ]
+   },
+   "properties": {
+    "name": "LOT 102 PLANTATION STREET DUNDOWRAN BEACH 4655",
+    "locID": "EjYxMDIgUGxhbnRhdGlvbiBTdCwgRHVuZG93cmFuIEJlYWNoIFFMRCA0NjU1LCBBdXN0cmFsaWEiMBIuChQKEgl9MgX8G3_raxHBQ2xY8e4AExBmKhQKEglPtt0dHH_raxGZItoYzhatDA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720118438"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.76255045,
+     -25.2701605
+    ]
+   },
+   "properties": {
+    "name": "LOT 42 PLANTATION STREET DUNDOWRAN BEACH 4655",
+    "locID": "EjU0MiBQbGFudGF0aW9uIFN0LCBEdW5kb3dyYW4gQmVhY2ggUUxEIDQ2NTUsIEF1c3RyYWxpYSIwEi4KFAoSCX0yBfwbf-trEcFDbFjx7gATECoqFAoSCU-23R0cf-trEZki2hjOFq0M",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720118516"
    }
   },
   {
