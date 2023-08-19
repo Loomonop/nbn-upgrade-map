@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T19:27:01.204793",
+ "generated": "2023-08-19T20:33:58.622587",
  "suburb": "PARALOWIE",
  "features": [
   {
@@ -8110,6 +8110,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414905348"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62138131,
+     -34.75812039
+    ]
+   },
+   "properties": {
+    "name": "10 YALUMBA DRIVE PARALOWIE 5108",
+    "locID": "LOC000193358505",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_414905349"
    }
   },
   {
@@ -49621,8 +49638,8 @@
    "properties": {
     "name": "27 MENDEZ STREET PARALOWIE 5108",
     "locID": "LOC000177744170",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415052099"
    }
   },
@@ -89639,8 +89656,8 @@
    "properties": {
     "name": "16 MAJESTIC AVENUE PARALOWIE 5108",
     "locID": "LOC000033399661",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423120223"
    }
   },

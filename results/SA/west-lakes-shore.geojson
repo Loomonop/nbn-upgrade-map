@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T19:11:59.813956",
+ "generated": "2023-08-19T20:14:30.400472",
  "suburb": "WEST LAKES SHORE",
  "features": [
   {
@@ -372,8 +372,8 @@
    "properties": {
     "name": "4 NEWCOMBE AVENUE WEST LAKES SHORE 5020",
     "locID": "LOC000106643853",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414898194"
    }
   },
@@ -681,6 +681,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414898295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.48451704,
+     -34.87099269
+    ]
+   },
+   "properties": {
+    "name": "27 BOYD CRESCENT WEST LAKES SHORE 5020",
+    "locID": "LOC000193353722",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_414898296"
    }
   },
   {
@@ -4793,7 +4810,7 @@
     "name": "18 SHORE COURT WEST LAKES SHORE 5020",
     "locID": "LOC000072545742",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414924122"
    }
   },
@@ -7393,8 +7410,8 @@
    "properties": {
     "name": "5 ILLAWARRA COURT WEST LAKES SHORE 5020",
     "locID": "LOC000023325081",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415368651"
    }
   },
@@ -8158,8 +8175,8 @@
    "properties": {
     "name": "3 NOOSA PLACE WEST LAKES SHORE 5020",
     "locID": "LOC000059095404",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415375608"
    }
   },
@@ -27453,7 +27470,7 @@
    "properties": {
     "name": "5A FINKE AVENUE WEST LAKES SHORE 5020",
     "locID": "ChIJO6VWrLHGsGoRAlfiKcPn8j4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720722465"
    }
@@ -27895,7 +27912,7 @@
    "properties": {
     "name": "27A BOYD CRESCENT WEST LAKES SHORE 5020",
     "locID": "ChIJJ4K5PALEsGoRu0P8c2QXtXQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721076543"
    }

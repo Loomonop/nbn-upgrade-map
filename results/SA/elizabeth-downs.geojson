@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T18:42:21.584362",
+ "generated": "2023-08-19T19:48:50.076564",
  "suburb": "ELIZABETH DOWNS",
  "features": [
   {
@@ -3075,8 +3075,8 @@
    "properties": {
     "name": "5 STAKES CRESCENT ELIZABETH DOWNS 5113",
     "locID": "LOC000069721699",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415123164"
    }
   },
@@ -11874,6 +11874,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.68749475,
+     -34.70370047
+    ]
+   },
+   "properties": {
+    "name": "10 ANDREWS ROAD ELIZABETH DOWNS 5113",
+    "locID": "LOC000193262279",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415302025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.68537769,
      -34.69918174
     ]
@@ -18800,8 +18817,8 @@
    "properties": {
     "name": "19 FORRESTALL ROAD ELIZABETH DOWNS 5113",
     "locID": "LOC000030360611",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415318736"
    }
   },
