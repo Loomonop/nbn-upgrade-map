@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T22:49:47.640608",
+ "generated": "2023-08-19T23:52:17.620965",
  "suburb": "SUBIACO",
  "features": [
   {
@@ -33012,8 +33012,8 @@
    "properties": {
     "name": "6 OLD JACARANDA WAY SUBIACO 6008",
     "locID": "LOC000097857257",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147161532"
    }
   },
@@ -44436,8 +44436,8 @@
    "properties": {
     "name": "17 TIGHE STREET SUBIACO 6008",
     "locID": "LOC000086445821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147357591"
    }
   },
@@ -46221,8 +46221,8 @@
    "properties": {
     "name": "34 PRICE STREET SUBIACO 6008",
     "locID": "LOC000059356410",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147392647"
    }
   },
@@ -140047,6 +140047,23 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720410364"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.83668397,
+     -31.94591539
+    ]
+   },
+   "properties": {
+    "name": "75 ROBERTS ROAD SUBIACO 6008",
+    "locID": "Eik3NSBSb2JlcnRzIFJkLCBTdWJpYWNvIFdBIDYwMDgsIEF1c3RyYWxpYSIwEi4KFAoSCS95dsU7pTIqEZHUSeOnJAHYEEsqFAoSCYduNOA9pTIqEVxHxZQfUgMG",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_720412816"
    }
   },
   {

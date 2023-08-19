@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T21:49:58.555062",
+ "generated": "2023-08-19T22:59:11.129043",
  "suburb": "LEEDERVILLE",
  "features": [
   {
@@ -1869,7 +1869,7 @@
     "name": "197 LOFTUS STREET LEEDERVILLE 6007",
     "locID": "LOC000083040761",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146628184"
    }
   },
@@ -5421,8 +5421,8 @@
    "properties": {
     "name": "52 RICHMOND STREET LEEDERVILLE 6007",
     "locID": "LOC000019583901",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146633767"
    }
   },
@@ -6017,7 +6017,7 @@
     "name": "3 SALISBURY STREET LEEDERVILLE 6007",
     "locID": "LOC000027089256",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146634256"
    }
   },
@@ -6645,8 +6645,8 @@
    "properties": {
     "name": "106 RICHMOND STREET LEEDERVILLE 6007",
     "locID": "LOC000019063543",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146635157"
    }
   },
@@ -9943,8 +9943,8 @@
    "properties": {
     "name": "10 WINDICH PLACE LEEDERVILLE 6007",
     "locID": "LOC000103413538",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146650049"
    }
   },
@@ -15315,8 +15315,8 @@
    "properties": {
     "name": "22 GALWEY STREET LEEDERVILLE 6007",
     "locID": "LOC000044911425",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147277059"
    }
   },
@@ -15758,7 +15758,7 @@
     "name": "82 RICHMOND STREET LEEDERVILLE 6007",
     "locID": "LOC000106420073",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147306421"
    }
   },
@@ -46326,6 +46326,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720716469"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.84178078,
+     -31.93714603
+    ]
+   },
+   "properties": {
+    "name": "11 ELECTRIC LANE LEEDERVILLE 6007",
+    "locID": "Ei4xMSBFbGVjdHJpYyBMYSwgTGVlZGVydmlsbGUgV0EgNjAwNywgQXVzdHJhbGlhIjASLgoUChIJwTv0akilMioR9Vm0IIsnDoMQCyoUChIJVf8fbUilMioR29YtN-YsxS0",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_720716587"
    }
   },
   {
