@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T03:19:48.047656",
+ "generated": "2023-08-19T05:50:47.189364",
  "suburb": "SCARNESS",
  "features": [
   {
@@ -9178,8 +9178,8 @@
    "properties": {
     "name": "29 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000015360693",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155804899"
    }
   },
@@ -9229,8 +9229,8 @@
    "properties": {
     "name": "38 FRESHWATER STREET SCARNESS 4655",
     "locID": "LOC000043720150",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155804903"
    }
   },
@@ -13870,8 +13870,8 @@
    "properties": {
     "name": "12 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000128982731",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157097914"
    }
   },
@@ -42569,6 +42569,23 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720986683"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.86045159,
+     -25.29026543
+    ]
+   },
+   "properties": {
+    "name": "20 DENMANS CAMP ROAD SCARNESS 4655",
+    "locID": "EjAyMCBEZW5tYW5zIENhbXAgUmQsIFNjYXJuZXNzIFFMRCA0NjU1LCBBdXN0cmFsaWEiMBIuChQKEgkBoJfnT4DsaxF3BI1C-WvLnBAUKhQKEgm1w_rNsoHsaxExOTTNaCyPMg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720989078"
    }
   },
   {
