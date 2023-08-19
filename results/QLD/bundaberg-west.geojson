@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T00:11:37.014398",
+ "generated": "2023-08-19T02:51:36.571429",
  "suburb": "BUNDABERG WEST",
  "features": [
   {
@@ -1681,7 +1681,7 @@
    "properties": {
     "name": "1A POWERS STREET BUNDABERG WEST 4670",
     "locID": "ChIJde9cUkK562sRHtwwBgKh2H8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155096005"
    }
@@ -6196,6 +6196,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.33634122,
+     -24.8773011
+    ]
+   },
+   "properties": {
+    "name": "30 ADAMS STREET BUNDABERG WEST 4670",
+    "locID": "ChIJtTpM_ly562sRjyjCpesxg1E",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155106016"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.33494668,
      -24.87688041
     ]
@@ -9230,7 +9247,7 @@
     "name": "1A STEFFENSEN STREET BUNDABERG WEST 4670",
     "locID": "LOC000020728053",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156349604"
    }
   },

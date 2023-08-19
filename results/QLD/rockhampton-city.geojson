@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T00:45:48.915874",
+ "generated": "2023-08-19T03:23:14.371608",
  "suburb": "ROCKHAMPTON CITY",
  "features": [
   {
@@ -11898,8 +11898,8 @@
    "properties": {
     "name": "279 MURRAY STREET ROCKHAMPTON CITY 4700",
     "locID": "LOC000041577419",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155772877"
    }
   },
@@ -14755,7 +14755,7 @@
     "name": "119 STANLEY STREET ROCKHAMPTON CITY 4700",
     "locID": "LOC000050225167",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157044077"
    }
   },
@@ -18283,6 +18283,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.50602651,
+     -23.37389085
+    ]
+   },
+   "properties": {
+    "name": "35 DENISON STREET ROCKHAMPTON CITY 4700",
+    "locID": "LOC000003364927",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157064350"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.5050382,
      -23.37403941
     ]
@@ -20636,7 +20653,7 @@
    "properties": {
     "name": "88 KENT STREET ROCKHAMPTON CITY 4700",
     "locID": "LOC000047034500",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157078490"
    }
@@ -27524,6 +27541,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160325494"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.50649306,
+     -23.3786877
+    ]
+   },
+   "properties": {
+    "name": "188 KENT LANE ROCKHAMPTON CITY 4700",
+    "locID": "EjExODggS2VudCBMbiwgUm9ja2hhbXB0b24gQ2l0eSBRTEQgNDcwMCwgQXVzdHJhbGlhIjESLwoUChIJL7PrdaQAw2sRkDFqWPHuABMQvAEqFAoSCd0LjHWkAMNrEbU9Nq91SVIe",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160325861"
    }
   },
   {
