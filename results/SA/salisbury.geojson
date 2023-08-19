@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T10:12:31.280671",
+ "generated": "2023-08-19T12:27:46.887444",
  "suburb": "SALISBURY",
  "features": [
   {
@@ -1701,6 +1701,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414902613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62885332,
+     -34.76700719
+    ]
+   },
+   "properties": {
+    "name": "19 ALMOND DRIVE SALISBURY 5108",
+    "locID": "LOC000193430275",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_414902614"
    }
   },
   {
@@ -56761,8 +56778,8 @@
    "properties": {
     "name": "91 JOHN STREET SALISBURY 5108",
     "locID": "LOC000006149684",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_416828074"
    }
   },
@@ -84233,8 +84250,8 @@
    "properties": {
     "name": "UNIT 2, 91 JOHN STREET SALISBURY 5108",
     "locID": "LOC000006149684",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_720726397"
    }
   },
@@ -84284,8 +84301,8 @@
    "properties": {
     "name": "UNIT 1, 91 JOHN STREET SALISBURY 5108",
     "locID": "LOC000006149684",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_720726781"
    }
   },

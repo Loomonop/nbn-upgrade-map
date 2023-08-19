@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T09:35:35.401179",
+ "generated": "2023-08-19T11:56:38.330998",
  "suburb": "ASCOT PARK",
  "features": [
   {
@@ -4469,8 +4469,8 @@
    "properties": {
     "name": "19 SEVENTH AVENUE ASCOT PARK 5043",
     "locID": "LOC000043438374",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415043957"
    }
   },
@@ -6308,6 +6308,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415389774"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.56385048,
+     -34.98998404
+    ]
+   },
+   "properties": {
+    "name": "38 AUDREY STREET ASCOT PARK 5043",
+    "locID": "LOC000193378809",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415389775"
    }
   },
   {
@@ -9130,6 +9147,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415414021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.55866894,
+     -34.99312594
+    ]
+   },
+   "properties": {
+    "name": "133 RAILWAY TERRACE ASCOT PARK 5043",
+    "locID": "ChIJcQGs35_asGoRimChlae5kps",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_415414916"
    }
   },
   {
@@ -15775,7 +15809,7 @@
     "name": "UNIT 4, 9 JOY STREET ASCOT PARK 5043",
     "locID": "LOC000066895212",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415626117"
    }
   },
@@ -15792,7 +15826,7 @@
     "name": "UNIT 5, 9 JOY STREET ASCOT PARK 5043",
     "locID": "LOC000066895212",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415626119"
    }
   },
@@ -27029,7 +27063,7 @@
     "name": "9 JOY STREET ASCOT PARK 5043",
     "locID": "LOC000066895212",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_422039160"
    }
   },
@@ -32570,8 +32604,8 @@
    "properties": {
     "name": "4B BEACONSFIELD TERRACE ASCOT PARK 5043",
     "locID": "LOC000130346106",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424732473"
    }
   },
@@ -34118,7 +34152,7 @@
     "name": "649-651 MARION ROAD ASCOT PARK 5043",
     "locID": "LOC000190825465",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425444056"
    }
   },
@@ -37153,6 +37187,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.55860808,
+     -34.99319024
+    ]
+   },
+   "properties": {
+    "name": "133A RAILWAY TERRACE ASCOT PARK 5043",
+    "locID": "ChIJcQGs35_asGoRimChlae5kps",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721110380"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.56082873,
      -34.99208346
     ]
@@ -37214,6 +37265,40 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_721199898"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.56417977,
+     -34.98994683
+    ]
+   },
+   "properties": {
+    "name": "38B AUDREY STREET ASCOT PARK 5043",
+    "locID": "LOC000193378799",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721201318"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.56418676,
+     -34.99002982
+    ]
+   },
+   "properties": {
+    "name": "38A AUDREY STREET ASCOT PARK 5043",
+    "locID": "LOC000193378775",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721201929"
    }
   },
   {
