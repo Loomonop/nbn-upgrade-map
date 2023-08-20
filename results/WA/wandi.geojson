@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T15:14:50.602726",
+ "generated": "2023-08-20T16:32:51.269805",
  "suburb": "WANDI",
  "features": [
   {
@@ -525,7 +525,7 @@
    "properties": {
     "name": "170 LESLIE ROAD WANDI 6167",
     "locID": "LOC000058528764",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146851031"
    }
@@ -4564,6 +4564,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.87898374,
+     -32.19997317
+    ]
+   },
+   "properties": {
+    "name": "391 DE HAER ROAD WANDI 6167",
+    "locID": "ChIJuzcHgfOQMioRZp9pOaw6ECc",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_148191101"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.86280505,
      -32.19468875
     ]
@@ -6986,7 +7003,7 @@
     "name": "99 HONEYWOOD AVENUE WANDI 6167",
     "locID": "LOC000132976230",
     "tech": "FTTP",
-    "upgrade": "UNKNOWN",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_718216881"
    }
   },

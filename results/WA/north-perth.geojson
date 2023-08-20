@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T15:07:42.769900",
+ "generated": "2023-08-20T16:25:47.736837",
  "suburb": "NORTH PERTH",
  "features": [
   {
@@ -1019,7 +1019,7 @@
     "name": "2 VINE STREET NORTH PERTH 6006",
     "locID": "LOC000092794348",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146627728"
    }
   },
@@ -3704,8 +3704,8 @@
    "properties": {
     "name": "44 EMMERSON STREET NORTH PERTH 6006",
     "locID": "LOC000038789596",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146631142"
    }
   },
@@ -6611,8 +6611,8 @@
    "properties": {
     "name": "21 GILL STREET NORTH PERTH 6006",
     "locID": "LOC000073186877",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146633192"
    }
   },
@@ -13955,8 +13955,8 @@
    "properties": {
     "name": "3 WAUGH STREET NORTH PERTH 6006",
     "locID": "LOC000007894198",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146641578"
    }
   },
@@ -21249,7 +21249,7 @@
     "name": "66 ALBERT STREET NORTH PERTH 6006",
     "locID": "LOC000066272673",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146649247"
    }
   },
@@ -23408,7 +23408,7 @@
     "name": "4 KNUTSFORD STREET NORTH PERTH 6006",
     "locID": "LOC000084025869",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146651443"
    }
   },
@@ -26604,7 +26604,7 @@
     "name": "483 FITZGERALD STREET NORTH PERTH 6006",
     "locID": "LOC000012019522",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146655041"
    }
   },
@@ -27167,6 +27167,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146655191"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.85651279,
+     -31.93484781
+    ]
+   },
+   "properties": {
+    "name": "19 LEAKE STREET NORTH PERTH 6006",
+    "locID": "LOC000193289031",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146655205"
    }
   },
   {
@@ -31815,6 +31832,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.85864,
+     -31.93622
+    ]
+   },
+   "properties": {
+    "name": "156 VINCENT STREET NORTH PERTH 6006",
+    "locID": "LOC000009506281",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAWA_146660960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.85605,
      -31.93569
     ]
@@ -31890,8 +31924,8 @@
    "properties": {
     "name": "39 ALBERT STREET NORTH PERTH 6006",
     "locID": "LOC000023575273",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146661000"
    }
   },
@@ -38061,8 +38095,8 @@
    "properties": {
     "name": "67 CLIEVEDEN STREET NORTH PERTH 6006",
     "locID": "LOC000004830646",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147217615"
    }
   },
@@ -38911,8 +38945,8 @@
    "properties": {
     "name": "50 LAWLER STREET NORTH PERTH 6006",
     "locID": "LOC000023691396",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147235016"
    }
   },
@@ -40866,8 +40900,8 @@
    "properties": {
     "name": "10 EMMERSON STREET NORTH PERTH 6006",
     "locID": "LOC000071946439",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147245223"
    }
   },
@@ -48567,8 +48601,8 @@
    "properties": {
     "name": "6 MARMION STREET NORTH PERTH 6006",
     "locID": "LOC000002176465",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147361797"
    }
   },
@@ -49485,8 +49519,8 @@
    "properties": {
     "name": "41 ETON STREET NORTH PERTH 6006",
     "locID": "LOC000064395522",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147397468"
    }
   },
@@ -50353,7 +50387,7 @@
     "name": "70 AUCKLAND STREET NORTH PERTH 6006",
     "locID": "LOC000065940191",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147969485"
    }
   },
@@ -55860,8 +55894,8 @@
    "properties": {
     "name": "148A RAGLAN ROAD NORTH PERTH 6006",
     "locID": "LOC000012955555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147994094"
    }
   },
@@ -68372,8 +68406,8 @@
    "properties": {
     "name": "68A REDFERN STREET NORTH PERTH 6006",
     "locID": "LOC000074838913",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160653407"
    }
   },
@@ -81309,8 +81343,8 @@
    "properties": {
     "name": "96B MONMOUTH STREET NORTH PERTH 6006",
     "locID": "LOC000149383056",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718451213"
    }
   },

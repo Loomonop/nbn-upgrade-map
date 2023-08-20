@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T14:28:47.300412",
+ "generated": "2023-08-20T15:45:15.935593",
  "suburb": "BECKENHAM",
  "features": [
   {
@@ -3415,8 +3415,8 @@
    "properties": {
     "name": "28 SATURN STREET BECKENHAM 6107",
     "locID": "LOC000058281463",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146733808"
    }
   },
@@ -4316,8 +4316,8 @@
    "properties": {
     "name": "102 DULWICH STREET BECKENHAM 6107",
     "locID": "LOC000003773543",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146734176"
    }
   },
@@ -5371,7 +5371,7 @@
     "name": "16 EGERTON STREET BECKENHAM 6107",
     "locID": "LOC000065557568",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146734527"
    }
   },
@@ -5727,8 +5727,8 @@
    "properties": {
     "name": "23 SAGGERS CRESCENT BECKENHAM 6107",
     "locID": "LOC000020368991",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146734807"
    }
   },
@@ -7275,7 +7275,7 @@
     "name": "115 LADYWELL STREET BECKENHAM 6107",
     "locID": "LOC000087361047",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146736269"
    }
   },
@@ -9586,8 +9586,8 @@
    "properties": {
     "name": "50 CELEBRATION STREET BECKENHAM 6107",
     "locID": "LOC000007815764",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146738103"
    }
   },
@@ -11184,8 +11184,8 @@
    "properties": {
     "name": "40 HARRIS STREET BECKENHAM 6107",
     "locID": "LOC000088601057",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146738920"
    }
   },
@@ -11695,7 +11695,7 @@
     "name": "41 LYNSTEAD STREET BECKENHAM 6107",
     "locID": "LOC000108975762",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146739454"
    }
   },
@@ -14125,8 +14125,8 @@
    "properties": {
     "name": "216 BICKLEY ROAD BECKENHAM 6107",
     "locID": "LOC000102520797",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146741595"
    }
   },
@@ -18103,8 +18103,8 @@
    "properties": {
     "name": "19 LENA STREET BECKENHAM 6107",
     "locID": "LOC000071366297",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146743906"
    }
   },
@@ -20943,7 +20943,7 @@
     "name": "97 STREATHAM STREET BECKENHAM 6107",
     "locID": "LOC000066145559",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146747418"
    }
   },
@@ -22354,7 +22354,7 @@
     "name": "25 APPLEDORE STREET BECKENHAM 6107",
     "locID": "LOC000044358615",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146748960"
    }
   },
@@ -27964,7 +27964,7 @@
     "name": "41 SATURN STREET BECKENHAM 6107",
     "locID": "LOC000074641817",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146752642"
    }
   },
@@ -28272,6 +28272,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146753337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.96209424,
+     -32.01975719
+    ]
+   },
+   "properties": {
+    "name": "26 BRIXTON STREET BECKENHAM 6107",
+    "locID": "LOC000193282954",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146753338"
    }
   },
   {
@@ -29086,7 +29103,7 @@
     "name": "4 COMET STREET BECKENHAM 6107",
     "locID": "LOC000036634739",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146756105"
    }
   },
@@ -31330,7 +31347,7 @@
     "name": "8 HONEY PLACE BECKENHAM 6107",
     "locID": "LOC000094744494",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147079325"
    }
   },
@@ -33454,8 +33471,8 @@
    "properties": {
     "name": "5 BARNSBY PLACE BECKENHAM 6107",
     "locID": "LOC000003778942",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147159512"
    }
   },
@@ -33964,8 +33981,8 @@
    "properties": {
     "name": "6 ANTRIM PLACE BECKENHAM 6107",
     "locID": "LOC000053963289",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147200359"
    }
   },
@@ -38996,8 +39013,8 @@
    "properties": {
     "name": "1 NORTH STREET BECKENHAM 6107",
     "locID": "LOC000006125606",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147493797"
    }
   },
@@ -44215,8 +44232,8 @@
    "properties": {
     "name": "17 WOODSIDE LOOP BECKENHAM 6107",
     "locID": "LOC000007934825",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160922700"
    }
   },
@@ -48244,8 +48261,8 @@
    "properties": {
     "name": "24 FARNABY LANE BECKENHAM 6107",
     "locID": "LOC000066957409",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162757506"
    }
   },
@@ -52851,8 +52868,8 @@
    "properties": {
     "name": "24A CELEBRATION STREET BECKENHAM 6107",
     "locID": "LOC000146847139",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718571579"
    }
   },
@@ -54976,8 +54993,8 @@
    "properties": {
     "name": "209A WILLIAM STREET BECKENHAM 6107",
     "locID": "LOC000042762422",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718683837"
    }
   },
@@ -64649,8 +64666,8 @@
    "properties": {
     "name": "35 FARNABY LANE BECKENHAM 6107",
     "locID": "LOC000179857964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719146173"
    }
   },
@@ -65091,8 +65108,8 @@
    "properties": {
     "name": "10A NORTH STREET BECKENHAM 6107",
     "locID": "LOC000171284588",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719149071"
    }
   },
@@ -72299,8 +72316,8 @@
    "properties": {
     "name": "45A FAVERSHAM STREET BECKENHAM 6107",
     "locID": "LOC000185582129",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720048627"
    }
   },
@@ -77144,7 +77161,7 @@
    "properties": {
     "name": "26A BRIXTON STREET BECKENHAM 6107",
     "locID": "ChIJf8KsW2K-MioRc6cMas64N-8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721013295"
    }
@@ -77382,7 +77399,7 @@
    "properties": {
     "name": "26B BRIXTON STREET BECKENHAM 6107",
     "locID": "ChIJf8KsW2K-MioR9U9NV7o63hc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721016083"
    }
@@ -77417,7 +77434,7 @@
     "name": "82B CELEBRATION STREET BECKENHAM 6107",
     "locID": "LOC000192626245",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_721016260"
    }
   },

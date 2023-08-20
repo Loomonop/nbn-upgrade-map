@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T15:03:02.877573",
+ "generated": "2023-08-20T16:20:07.448955",
  "suburb": "YOKINE",
  "features": [
   {
@@ -134,8 +134,8 @@
    "properties": {
     "name": "1 WYNDHAM WAY YOKINE 6060",
     "locID": "LOC000033751824",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146580766"
    }
   },
@@ -1018,8 +1018,8 @@
    "properties": {
     "name": "60 DAVID STREET YOKINE 6060",
     "locID": "LOC000090820981",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146582290"
    }
   },
@@ -3636,8 +3636,8 @@
    "properties": {
     "name": "40 BRADLEY STREET YOKINE 6060",
     "locID": "LOC000007904878",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146595956"
    }
   },
@@ -9586,8 +9586,8 @@
    "properties": {
     "name": "24 THURLOW AVENUE YOKINE 6060",
     "locID": "LOC000088354078",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146608652"
    }
   },
@@ -10640,8 +10640,8 @@
    "properties": {
     "name": "18 THURLOW AVENUE YOKINE 6060",
     "locID": "LOC000033728126",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146613811"
    }
   },
@@ -19209,7 +19209,7 @@
     "name": "29 WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000027808400",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146646820"
    }
   },
@@ -23985,8 +23985,8 @@
    "properties": {
     "name": "37 CHAUCER STREET YOKINE 6060",
     "locID": "LOC000069101137",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146650445"
    }
   },
@@ -27419,8 +27419,8 @@
    "properties": {
     "name": "56 RAYMOND STREET YOKINE 6060",
     "locID": "LOC000112499782",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146661563"
    }
   },
@@ -37806,8 +37806,8 @@
    "properties": {
     "name": "238 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000021479226",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147208940"
    }
   },
@@ -49248,7 +49248,7 @@
     "name": "5C SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000029584016",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148241315"
    }
   },
@@ -53412,8 +53412,8 @@
    "properties": {
     "name": "22C VILLIERS STREET YOKINE 6060",
     "locID": "LOC000042165018",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148243629"
    }
   },
@@ -55045,7 +55045,7 @@
     "name": "50 FRAPE AVENUE YOKINE 6060",
     "locID": "LOC000042845514",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148244785"
    }
   },
@@ -58104,8 +58104,8 @@
    "properties": {
     "name": "143B MOULDEN AVENUE YOKINE 6060",
     "locID": "LOC000053915255",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148247277"
    }
   },
@@ -60314,8 +60314,8 @@
    "properties": {
     "name": "UNIT 3, 206 SWAN STREET YOKINE 6060",
     "locID": "LOC000008753183",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_148248323"
    }
   },
@@ -61420,7 +61420,7 @@
     "name": "25A WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000188100333",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148249056"
    }
   },
@@ -62221,23 +62221,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148249498"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.85030995,
-     -31.89217244
-    ]
-   },
-   "properties": {
-    "name": "141 MOULDEN AVENUE YOKINE 6060",
-    "locID": "LOC000002154672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_148249502"
    }
   },
   {
@@ -67284,8 +67267,8 @@
    "properties": {
     "name": "143A MOULDEN AVENUE YOKINE 6060",
     "locID": "LOC000053708986",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148253923"
    }
   },
@@ -75665,8 +75648,8 @@
    "properties": {
     "name": "93 RAYMOND STREET YOKINE 6060",
     "locID": "LOC000011510455",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148263351"
    }
   },
@@ -80171,7 +80154,7 @@
     "name": "25B WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000188100346",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148267751"
    }
   },
@@ -81465,6 +81448,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148567326"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.84426394,
+     -31.88902036
+    ]
+   },
+   "properties": {
+    "name": "178 MORLEY DRIVE YOKINE 6060",
+    "locID": "EigxNzggTW9ybGV5IERyLCBZb2tpbmUgV0EgNjA2MCwgQXVzdHJhbGlhIjESLwoUChIJ7ZqFUdmvMioR7-SXC7ETL6YQsgEqFAoSCaPzz38VsDIqEZe5MKwGOwdK",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_148567425"
    }
   },
   {
@@ -86189,7 +86189,7 @@
     "name": "179 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000081180291",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160644700"
    }
   },
@@ -86936,8 +86936,8 @@
    "properties": {
     "name": "87B MOULDEN AVENUE YOKINE 6060",
     "locID": "LOC000042832339",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160666629"
    }
   },
@@ -87735,8 +87735,8 @@
    "properties": {
     "name": "1 DARCH STREET YOKINE 6060",
     "locID": "LOC000006562059",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160914421"
    }
   },
@@ -90404,8 +90404,8 @@
    "properties": {
     "name": "109B SHAKESPEARE AVENUE YOKINE 6060",
     "locID": "LOC000047734053",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161893630"
    }
   },
@@ -92308,8 +92308,8 @@
    "properties": {
     "name": "35A HEATON ROAD YOKINE 6060",
     "locID": "LOC000069516614",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162245283"
    }
   },
@@ -94331,8 +94331,8 @@
    "properties": {
     "name": "31A WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000018997444",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_162339204"
    }
   },
@@ -101549,57 +101549,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.85030995,
-     -31.89217244
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 141 MOULDEN AVENUE YOKINE 6060",
-    "locID": "LOC000002154672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_162689483"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.85030995,
-     -31.89217244
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 141 MOULDEN AVENUE YOKINE 6060",
-    "locID": "LOC000002154672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_162689484"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.85030995,
-     -31.89217244
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 141 MOULDEN AVENUE YOKINE 6060",
-    "locID": "LOC000002154672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_162689485"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.85109458,
      -31.8973276
     ]
@@ -105942,8 +105891,8 @@
    "properties": {
     "name": "56B RAYMOND STREET YOKINE 6060",
     "locID": "LOC000112499782",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163085096"
    }
   },

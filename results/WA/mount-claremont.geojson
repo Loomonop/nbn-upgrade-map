@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T14:44:38.083572",
+ "generated": "2023-08-20T16:02:47.626064",
  "suburb": "MOUNT CLAREMONT",
  "features": [
   {
@@ -2515,7 +2515,7 @@
     "name": "15 ERICA AVENUE MOUNT CLAREMONT 6010",
     "locID": "LOC000113938006",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146628566"
    }
   },
@@ -7141,6 +7141,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146636013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.77564338,
+     -31.96891799
+    ]
+   },
+   "properties": {
+    "name": "60 STRICKLAND STREET MOUNT CLAREMONT 6010",
+    "locID": "LOC000193255758",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146636014"
    }
   },
   {
@@ -13819,8 +13836,8 @@
    "properties": {
     "name": "12 BURNETTIA LANE MOUNT CLAREMONT 6010",
     "locID": "LOC000101603448",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147134874"
    }
   },
@@ -15706,8 +15723,8 @@
    "properties": {
     "name": "5 CALADENIA PARADE MOUNT CLAREMONT 6010",
     "locID": "LOC000098144745",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147186439"
    }
   },
@@ -33131,8 +33148,8 @@
    "properties": {
     "name": "11A ERICA AVENUE MOUNT CLAREMONT 6010",
     "locID": "LOC000002111394",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162685126"
    }
   },
@@ -33642,7 +33659,7 @@
     "name": "15A ERICA AVENUE MOUNT CLAREMONT 6010",
     "locID": "LOC000113938006",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163151021"
    }
   },
