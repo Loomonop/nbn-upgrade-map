@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T09:54:00.206419",
+ "generated": "2023-08-20T11:02:43.952077",
  "suburb": "MOUNT HAWTHORN",
  "features": [
   {
@@ -4452,8 +4452,8 @@
    "properties": {
     "name": "40 BUXTON STREET MOUNT HAWTHORN 6016",
     "locID": "LOC000027895857",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146629634"
    }
   },
@@ -25448,7 +25448,7 @@
     "name": "160 COOGEE STREET MOUNT HAWTHORN 6016",
     "locID": "LOC000093357542",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146644097"
    }
   },
@@ -26790,8 +26790,8 @@
    "properties": {
     "name": "114 EDINBORO STREET MOUNT HAWTHORN 6016",
     "locID": "LOC000079361079",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146645302"
    }
   },
@@ -31245,7 +31245,7 @@
     "name": "163 EGINA STREET MOUNT HAWTHORN 6016",
     "locID": "LOC000031953914",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146648376"
    }
   },
@@ -39754,6 +39754,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.82851211,
+     -31.92220505
+    ]
+   },
+   "properties": {
+    "name": "19 LYNTON STREET MOUNT HAWTHORN 6016",
+    "locID": "LOC000193355633",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_147249565"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.82843,
      -31.92194
     ]
@@ -41649,7 +41666,7 @@
     "name": "113 KALGOORLIE STREET MOUNT HAWTHORN 6016",
     "locID": "LOC000003046929",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147297259"
    }
   },
@@ -58716,8 +58733,8 @@
    "properties": {
     "name": "58 TASMAN STREET MOUNT HAWTHORN 6016",
     "locID": "LOC000029560134",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162764544"
    }
   },

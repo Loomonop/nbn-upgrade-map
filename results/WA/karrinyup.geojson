@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T09:43:37.511626",
+ "generated": "2023-08-20T10:56:24.448513",
  "suburb": "KARRINYUP",
  "features": [
   {
@@ -16,7 +16,7 @@
     "name": "415 NORTH BEACH ROAD KARRINYUP 6018",
     "locID": "LOC000059340748",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146548904"
    }
   },
@@ -814,8 +814,8 @@
    "properties": {
     "name": "105 JACKSON AVENUE KARRINYUP 6018",
     "locID": "LOC000018143914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146578270"
    }
   },
@@ -4333,8 +4333,8 @@
    "properties": {
     "name": "15 NORTHGATE STREET KARRINYUP 6018",
     "locID": "LOC000054646570",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146581656"
    }
   },
@@ -11626,8 +11626,8 @@
    "properties": {
     "name": "14 HODDER WAY KARRINYUP 6018",
     "locID": "LOC000044543835",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146583411"
    }
   },
@@ -12307,7 +12307,7 @@
     "name": "6 FINNERTY STREET KARRINYUP 6018",
     "locID": "LOC000057018816",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146583544"
    }
   },
@@ -15699,6 +15699,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.78425,
+     -31.87214
+    ]
+   },
+   "properties": {
+    "name": "24 PARIS WAY KARRINYUP 6018",
+    "locID": "LOC000193308332",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146584646"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.78394441,
      -31.87122307
     ]
@@ -16913,8 +16930,8 @@
    "properties": {
     "name": "27 CHARLES STREET KARRINYUP 6018",
     "locID": "LOC000063837932",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146585009"
    }
   },
@@ -23135,8 +23152,8 @@
    "properties": {
     "name": "29 PANTON CRESCENT KARRINYUP 6018",
     "locID": "LOC000029733172",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146588248"
    }
   },
@@ -23322,8 +23339,8 @@
    "properties": {
     "name": "8 GWELUP STREET KARRINYUP 6018",
     "locID": "LOC000098152061",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146588380"
    }
   },
@@ -40339,8 +40356,8 @@
    "properties": {
     "name": "28 CHARLES STREET KARRINYUP 6018",
     "locID": "LOC000012095399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147273849"
    }
   },
@@ -41445,7 +41462,7 @@
     "name": "81B HUNTRISS ROAD KARRINYUP 6018",
     "locID": "LOC000036539717",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147296651"
    }
   },
@@ -54602,8 +54619,8 @@
    "properties": {
     "name": "14 SEAHORSE PARADE KARRINYUP 6018",
     "locID": "LOC000026981252",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160656409"
    }
   },
@@ -61266,8 +61283,8 @@
    "properties": {
     "name": "12B BRIDGEWATER CRESCENT KARRINYUP 6018",
     "locID": "LOC000044789833",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162259792"
    }
   },
@@ -61963,8 +61980,8 @@
    "properties": {
     "name": "11A NORMAN STREET KARRINYUP 6018",
     "locID": "LOC000032785243",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162412659"
    }
   },
@@ -63544,8 +63561,8 @@
    "properties": {
     "name": "UNIT 1, 28 CHARLES STREET KARRINYUP 6018",
     "locID": "LOC000012095399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162683488"
    }
   },
@@ -63561,8 +63578,8 @@
    "properties": {
     "name": "UNIT 2, 28 CHARLES STREET KARRINYUP 6018",
     "locID": "LOC000012095399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162683489"
    }
   },
@@ -67709,8 +67726,8 @@
    "properties": {
     "name": "26 PIKE STREET KARRINYUP 6018",
     "locID": "LOC000084254443",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163090859"
    }
   },
@@ -74271,8 +74288,8 @@
    "properties": {
     "name": "2C DEAN STREET KARRINYUP 6018",
     "locID": "LOC000183211618",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719201083"
    }
   },
