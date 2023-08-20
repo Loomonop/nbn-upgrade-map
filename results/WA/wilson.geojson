@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T12:04:55.878874",
+ "generated": "2023-08-20T13:07:44.037167",
  "suburb": "WILSON",
  "features": [
   {
@@ -11347,6 +11347,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.90641,
+     -32.02021
+    ]
+   },
+   "properties": {
+    "name": "74 WENDOUREE ROAD WILSON 6107",
+    "locID": "LOC000193501107",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146746561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.90637099,
      -32.01982618
     ]
@@ -16098,7 +16115,7 @@
     "name": "34 WENDOUREE ROAD WILSON 6107",
     "locID": "LOC000084511274",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146752709"
    }
   },
@@ -55367,8 +55384,8 @@
    "properties": {
     "name": "3B ABBOTT WAY WILSON 6107",
     "locID": "LOC000186075643",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720560602"
    }
   },
