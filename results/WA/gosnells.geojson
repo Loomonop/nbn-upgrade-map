@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T05:38:47.967846",
+ "generated": "2023-08-20T06:39:17.489710",
  "suburb": "GOSNELLS",
  "features": [
   {
@@ -7529,8 +7529,8 @@
    "properties": {
     "name": "179 FREMANTLE ROAD GOSNELLS 6110",
     "locID": "LOC000086599290",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146794342"
    }
   },
@@ -21088,6 +21088,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.00716,
+     -32.07606
+    ]
+   },
+   "properties": {
+    "name": "2350 ALBANY HIGHWAY GOSNELLS 6110",
+    "locID": "LOC000193327870",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146804907"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.00743,
      -32.07623
     ]
@@ -32349,8 +32366,8 @@
    "properties": {
     "name": "53 EVELYN STREET GOSNELLS 6110",
     "locID": "LOC000063863242",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146814340"
    }
   },
@@ -36599,8 +36616,8 @@
    "properties": {
     "name": "140 DOROTHY STREET GOSNELLS 6110",
     "locID": "LOC000026539233",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146816131"
    }
   },
@@ -36702,7 +36719,7 @@
     "name": "80 EILEEN STREET GOSNELLS 6110",
     "locID": "LOC000076825081",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146816138"
    }
   },
@@ -37195,7 +37212,7 @@
     "name": "5 CARSON COURT GOSNELLS 6110",
     "locID": "LOC000100678341",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146816299"
    }
   },
@@ -40577,8 +40594,8 @@
    "properties": {
     "name": "9 EVELYN STREET GOSNELLS 6110",
     "locID": "LOC000034199722",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146818340"
    }
   },
@@ -43688,8 +43705,8 @@
    "properties": {
     "name": "4 CLIFF PLACE GOSNELLS 6110",
     "locID": "LOC000082276549",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146819854"
    }
   },
@@ -45508,7 +45525,7 @@
     "name": "27 GREENOUGH WAY GOSNELLS 6110",
     "locID": "LOC000013793099",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146820703"
    }
   },
@@ -46833,7 +46850,7 @@
    "properties": {
     "name": "35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438688",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146821334"
    }
@@ -50505,8 +50522,8 @@
    "properties": {
     "name": "64 DIGBY STREET GOSNELLS 6110",
     "locID": "LOC000004765205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146822793"
    }
   },
@@ -51118,7 +51135,7 @@
     "name": "5 BELYEA STREET GOSNELLS 6110",
     "locID": "LOC000045898139",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146823064"
    }
   },
@@ -51168,8 +51185,8 @@
    "properties": {
     "name": "7 BELYEA STREET GOSNELLS 6110",
     "locID": "LOC000034355140",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146823067"
    }
   },
@@ -58852,8 +58869,8 @@
    "properties": {
     "name": "128 DOROTHY STREET GOSNELLS 6110",
     "locID": "LOC000091474679",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146826334"
    }
   },
@@ -68492,7 +68509,7 @@
     "name": "7 CARMODY COVE GOSNELLS 6110",
     "locID": "LOC000007908398",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146833347"
    }
   },
@@ -69070,7 +69087,7 @@
     "name": "218 HICKS STREET GOSNELLS 6110",
     "locID": "LOC000066084800",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146833683"
    }
   },
@@ -69597,7 +69614,7 @@
     "name": "18 SWANLEY STREET GOSNELLS 6110",
     "locID": "LOC000065622879",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146834343"
    }
   },
@@ -71398,8 +71415,8 @@
    "properties": {
     "name": "15 EILEEN STREET GOSNELLS 6110",
     "locID": "LOC000028597467",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146835905"
    }
   },
@@ -76702,8 +76719,8 @@
    "properties": {
     "name": "9 WOORAMEL CRESCENT GOSNELLS 6110",
     "locID": "LOC000072055539",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146845455"
    }
   },
@@ -84557,7 +84574,7 @@
     "name": "13 IRWIN CLOSE GOSNELLS 6110",
     "locID": "LOC000099409085",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146861600"
    }
   },
@@ -86868,8 +86885,8 @@
    "properties": {
     "name": "8 ROSELLA PLACE GOSNELLS 6110",
     "locID": "LOC000101517774",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147056706"
    }
   },
@@ -87922,8 +87939,8 @@
    "properties": {
     "name": "46 CHANDILLA STREET GOSNELLS 6110",
     "locID": "LOC000102486433",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147061245"
    }
   },
@@ -138531,8 +138548,8 @@
    "properties": {
     "name": "3 BANDY PLACE GOSNELLS 6110",
     "locID": "LOC000079900018",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162554348"
    }
   },
@@ -149803,7 +149820,7 @@
     "name": "3A WALPOLE WAY GOSNELLS 6110",
     "locID": "LOC000112224015",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163155936"
    }
   },
@@ -156704,8 +156721,8 @@
    "properties": {
     "name": "1B IGRAN CRESCENT GOSNELLS 6110",
     "locID": "LOC000163651029",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718628312"
    }
   },
@@ -163454,7 +163471,7 @@
     "name": "6B DIGBY STREET GOSNELLS 6110",
     "locID": "LOC000163637220",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719036877"
    }
   },
@@ -166819,8 +166836,8 @@
    "properties": {
     "name": "167A CRANDON STREET GOSNELLS 6110",
     "locID": "LOC000059387227",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719305355"
    }
   },
@@ -167536,6 +167553,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719406792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.00716,
+     -32.07606
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 2350 ALBANY HIGHWAY GOSNELLS 6110",
+    "locID": "LOC000193327870",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_719407200"
    }
   },
   {
@@ -171477,7 +171511,7 @@
    "properties": {
     "name": "UNIT 2, 35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438661",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720560948"
    }
@@ -171613,7 +171647,7 @@
    "properties": {
     "name": "UNIT 1, 35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438661",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720561804"
    }
@@ -171851,7 +171885,7 @@
    "properties": {
     "name": "UNIT 3, 35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438688",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720562784"
    }
@@ -171885,7 +171919,7 @@
    "properties": {
     "name": "UNIT 5, 35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438707",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720562839"
    }
@@ -171953,7 +171987,7 @@
    "properties": {
     "name": "UNIT 6, 35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438711",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720562997"
    }
@@ -172089,7 +172123,7 @@
    "properties": {
     "name": "UNIT 4, 35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438690",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720563847"
    }
@@ -172106,7 +172140,7 @@
    "properties": {
     "name": "UNIT 7, 35 MAY STREET GOSNELLS 6110",
     "locID": "LOC000191438724",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720563848"
    }
