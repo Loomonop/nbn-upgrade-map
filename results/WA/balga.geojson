@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-05T23:00:35.500450",
+ "generated": "2023-08-20T00:08:29.276555",
  "suburb": "BALGA",
  "features": [
   {
@@ -457,8 +457,8 @@
    "properties": {
     "name": "56 GANFIELD WAY BALGA 6061",
     "locID": "LOC000022972666",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146557127"
    }
   },
@@ -1205,8 +1205,8 @@
    "properties": {
     "name": "29 REDCLIFFE AVENUE BALGA 6061",
     "locID": "LOC000101257079",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146557699"
    }
   },
@@ -1239,8 +1239,8 @@
    "properties": {
     "name": "15 HAWKSHEAD WAY BALGA 6061",
     "locID": "LOC000155476335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146557701"
    }
   },
@@ -1701,6 +1701,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146557924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.85237953,
+     -31.84955873
+    ]
+   },
+   "properties": {
+    "name": "35 KILMURRAY WAY BALGA 6061",
+    "locID": "LOC000193456580",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146557925"
    }
   },
   {
@@ -2634,7 +2651,7 @@
     "name": "24 HEPBURN WAY BALGA 6061",
     "locID": "LOC000049726726",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146558381"
    }
   },
@@ -2905,8 +2922,8 @@
    "properties": {
     "name": "18 WALLINGTON ROAD BALGA 6061",
     "locID": "LOC000071756432",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146558403"
    }
   },
@@ -3925,8 +3942,8 @@
    "properties": {
     "name": "6 DEWAR PLACE BALGA 6061",
     "locID": "LOC000054943842",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146558864"
    }
   },
@@ -8566,8 +8583,8 @@
    "properties": {
     "name": "29 WYTHBURN AVENUE BALGA 6061",
     "locID": "LOC000069220568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146563017"
    }
   },
@@ -10045,8 +10062,8 @@
    "properties": {
     "name": "8 KENWICK WAY BALGA 6061",
     "locID": "LOC000036428013",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146563773"
    }
   },
@@ -19464,7 +19481,7 @@
     "name": "35 REDCLIFFE AVENUE BALGA 6061",
     "locID": "LOC000031474829",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146574006"
    }
   },
@@ -24138,8 +24155,8 @@
    "properties": {
     "name": "45 TANGMERE WAY BALGA 6061",
     "locID": "LOC000032215780",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146588098"
    }
   },
@@ -27175,6 +27192,23 @@
     "type": "Point",
     "coordinates": [
      115.84917,
+     -31.86259
+    ]
+   },
+   "properties": {
+    "name": "15 PRESTON WAY BALGA 6061",
+    "locID": "LOC000053986473",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAWA_146594336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.84917,
      -31.86223
     ]
    },
@@ -27776,8 +27810,8 @@
    "properties": {
     "name": "16 GRINSTEAD WAY BALGA 6061",
     "locID": "LOC000090135267",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146594724"
    }
   },
@@ -29649,6 +29683,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146596067"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.84714872,
+     -31.86305879
+    ]
+   },
+   "properties": {
+    "name": "15 TRATTON STREET BALGA 6061",
+    "locID": "LOC000193261675",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146596068"
    }
   },
   {
@@ -34627,8 +34678,8 @@
    "properties": {
     "name": "3 STEDHAM WAY BALGA 6061",
     "locID": "LOC000045963155",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146602396"
    }
   },
@@ -35936,8 +35987,8 @@
    "properties": {
     "name": "69 ETCHINGHAM ROAD BALGA 6061",
     "locID": "LOC000019938435",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146605113"
    }
   },
@@ -42907,7 +42958,7 @@
     "name": "86 BALGA AVENUE BALGA 6061",
     "locID": "LOC000094187150",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147322903"
    }
   },
@@ -44505,7 +44556,7 @@
     "name": "33 BALGA AVENUE BALGA 6061",
     "locID": "LOC000016492099",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147394528"
    }
   },
@@ -44626,6 +44677,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147402365"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.8294436,
+     -31.84744861
+    ]
+   },
+   "properties": {
+    "name": "1 CARTWRIGHT ROAD BALGA 6061",
+    "locID": "LOC000193289915",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_147406377"
    }
   },
   {
@@ -45542,7 +45610,7 @@
     "name": "68 CULLOTON CRESCENT BALGA 6061",
     "locID": "LOC000054054162",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147460401"
    }
   },
@@ -53004,8 +53072,8 @@
    "properties": {
     "name": "21 BARLOW WAY BALGA 6061",
     "locID": "LOC000072905719",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147470035"
    }
   },
@@ -56949,7 +57017,7 @@
     "name": "25 WARDLOW WAY BALGA 6061",
     "locID": "LOC000092773720",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148590880"
    }
   },
@@ -62507,8 +62575,8 @@
    "properties": {
     "name": "14A FERNHURST CRESCENT BALGA 6061",
     "locID": "LOC000012884970",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162273253"
    }
   },
@@ -64190,8 +64258,8 @@
    "properties": {
     "name": "79C ETCHINGHAM ROAD BALGA 6061",
     "locID": "LOC000092829700",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162390765"
    }
   },
@@ -71841,7 +71909,7 @@
     "name": "35A MODENA PLACE BALGA 6061",
     "locID": "LOC000019014060",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162874547"
    }
   },
@@ -72860,8 +72928,8 @@
    "properties": {
     "name": "12B NEWPORT WAY BALGA 6061",
     "locID": "LOC000056914089",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163006849"
    }
   },
@@ -77451,7 +77519,7 @@
     "name": "24A KEEMORE WAY BALGA 6061",
     "locID": "LOC000082454162",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163200074"
    }
   },
@@ -79116,8 +79184,8 @@
    "properties": {
     "name": "26A FRAMFIELD WAY BALGA 6061",
     "locID": "LOC000113517020",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_163272586"
    }
   },
@@ -84489,7 +84557,7 @@
     "name": "5A MENTONE ROAD BALGA 6061",
     "locID": "LOC000116389337",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718234784"
    }
   },
@@ -88687,8 +88755,8 @@
    "properties": {
     "name": "32B MILDMAY STREET BALGA 6061",
     "locID": "LOC000155490885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_718523227"
    }
   },
@@ -88977,7 +89045,7 @@
     "name": "9B WITTERING CRESCENT BALGA 6061",
     "locID": "LOC000175638407",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718538708"
    }
   },
@@ -90353,8 +90421,8 @@
    "properties": {
     "name": "69A CULLOTON CRESCENT BALGA 6061",
     "locID": "LOC000155470136",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_718626058"
    }
   },
@@ -92563,8 +92631,8 @@
    "properties": {
     "name": "18A HORNSEY WAY BALGA 6061",
     "locID": "LOC000155478928",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718652496"
    }
   },
@@ -93209,8 +93277,8 @@
    "properties": {
     "name": "135C WILMINGTON CRESCENT BALGA 6061",
     "locID": "LOC000175637691",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_718653682"
    }
   },
@@ -96779,8 +96847,8 @@
    "properties": {
     "name": "15C EARNLEY WAY BALGA 6061",
     "locID": "LOC000177466371",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718755209"
    }
   },
@@ -99041,7 +99109,7 @@
     "name": "16C CHILGROVE WAY BALGA 6061",
     "locID": "LOC100057018701",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718793342"
    }
   },
@@ -101574,7 +101642,7 @@
     "name": "8C EMSWORTH WAY BALGA 6061",
     "locID": "LOC000180285222",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718823495"
    }
   },
@@ -104565,8 +104633,8 @@
    "properties": {
     "name": "15A HAWKSHEAD WAY BALGA 6061",
     "locID": "LOC000155476335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718877465"
    }
   },
@@ -111501,8 +111569,8 @@
    "properties": {
     "name": "70 CULLOTON CRESCENT BALGA 6061",
     "locID": "LOC100074198189",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_719405371"
    }
   },
@@ -118556,8 +118624,8 @@
    "properties": {
     "name": "98A FINCHLEY CRESCENT BALGA 6061",
     "locID": "LOC000187598469",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720562966"
    }
   },
@@ -118624,8 +118692,8 @@
    "properties": {
     "name": "15A MILLGATE ROAD BALGA 6061",
     "locID": "LOC000189840322",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720564756"
    }
   },
