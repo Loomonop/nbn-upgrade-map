@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T06:34:07.738040",
+ "generated": "2023-08-20T07:56:44.906312",
  "suburb": "RIVERTON",
  "features": [
   {
@@ -304,8 +304,8 @@
    "properties": {
     "name": "109 TRIBUTE STREET EAST RIVERTON 6148",
     "locID": "LOC000018633930",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146722808"
    }
   },
@@ -763,8 +763,8 @@
    "properties": {
     "name": "70 TUDOR AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000180090936",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146726419"
    }
   },
@@ -5285,8 +5285,8 @@
    "properties": {
     "name": "12 HERA AVENUE RIVERTON 6148",
     "locID": "LOC000026507702",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146744402"
    }
   },
@@ -8967,6 +8967,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.8865211,
+     -32.03727736
+    ]
+   },
+   "properties": {
+    "name": "52 KALANGEDY DRIVE RIVERTON 6148",
+    "locID": "LOC000193473077",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146781063"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.88652,
      -32.03702
     ]
@@ -9909,8 +9926,8 @@
    "properties": {
     "name": "55 RILEY ROAD RIVERTON 6148",
     "locID": "LOC000064040335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146783300"
    }
   },
@@ -11510,6 +11527,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146785805"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.89279251,
+     -32.03455838
+    ]
+   },
+   "properties": {
+    "name": "45 VAHLAND AVENUE RIVERTON 6148",
+    "locID": "LOC000193367496",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146785917"
    }
   },
   {
@@ -14839,8 +14873,8 @@
    "properties": {
     "name": "15 NOONGAR WAY RIVERTON 6148",
     "locID": "LOC000041946326",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146790438"
    }
   },
@@ -15536,8 +15570,8 @@
    "properties": {
     "name": "36 MANDORA WAY RIVERTON 6148",
     "locID": "LOC000026454624",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146791400"
    }
   },
@@ -21112,8 +21146,8 @@
    "properties": {
     "name": "37 MARJORIE AVENUE RIVERTON 6148",
     "locID": "LOC000064332973",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147288376"
    }
   },
@@ -23747,8 +23781,8 @@
    "properties": {
     "name": "105 TRIBUTE STREET EAST RIVERTON 6148",
     "locID": "LOC000017022348",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147397507"
    }
   },
@@ -32298,8 +32332,8 @@
    "properties": {
     "name": "2A NABAWA STREET RIVERTON 6148",
     "locID": "LOC000048347590",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148792661"
    }
   },
@@ -32434,8 +32468,8 @@
    "properties": {
     "name": "UNIT 2, 55 RILEY ROAD RIVERTON 6148",
     "locID": "LOC000064040335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160641831"
    }
   },
@@ -40509,8 +40543,8 @@
    "properties": {
     "name": "13A JILLIAN STREET RIVERTON 6148",
     "locID": "LOC000153972087",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_718675774"
    }
   },
@@ -41206,8 +41240,8 @@
    "properties": {
     "name": "4B ANONA PLACE RIVERTON 6148",
     "locID": "LOC000153970411",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718869265"
    }
   },
@@ -41513,7 +41547,7 @@
     "name": "33A VAHLAND AVENUE RIVERTON 6148",
     "locID": "LOC000153970448",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718878467"
    }
   },
@@ -45459,6 +45493,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_720817231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.89279251,
+     -32.03455838
+    ]
+   },
+   "properties": {
+    "name": "45A VAHLAND AVENUE RIVERTON 6148",
+    "locID": "LOC000193367496",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_720817458"
    }
   },
   {

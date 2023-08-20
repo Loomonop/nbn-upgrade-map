@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T06:47:52.424815",
+ "generated": "2023-08-20T08:06:46.698275",
  "suburb": "EMBLETON",
  "features": [
   {
@@ -3017,6 +3017,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.90619,
+     -31.90696
+    ]
+   },
+   "properties": {
+    "name": "4 BURNETT STREET EMBLETON 6062",
+    "locID": "LOC000193271146",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146680855"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.90648,
      -31.90671
     ]
@@ -4333,8 +4350,8 @@
    "properties": {
     "name": "33 MAURICE STREET EMBLETON 6062",
     "locID": "LOC000080831394",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146684136"
    }
   },
@@ -9807,8 +9824,8 @@
    "properties": {
     "name": "6 SAGE STREET EMBLETON 6062",
     "locID": "LOC000009532067",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146883238"
    }
   },
@@ -10284,7 +10301,7 @@
     "name": "20 WADE STREET EMBLETON 6062",
     "locID": "LOC000025633586",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146883869"
    }
   },
@@ -11391,6 +11408,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146888320"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.91244416,
+     -31.90283759
+    ]
+   },
+   "properties": {
+    "name": "4 IRWIN ROAD EMBLETON 6062",
+    "locID": "LOC000193322931",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146888321"
    }
   },
   {
@@ -12918,8 +12952,8 @@
    "properties": {
     "name": "4 HOLMWOOD WAY EMBLETON 6062",
     "locID": "LOC000042395234",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146892175"
    }
   },
@@ -26314,8 +26348,8 @@
    "properties": {
     "name": "48B MCKENZIE WAY EMBLETON 6062",
     "locID": "LOC000171591435",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718551436"
    }
   },
@@ -29306,8 +29340,8 @@
    "properties": {
     "name": "21B GATTON WAY EMBLETON 6062",
     "locID": "LOC100068104044",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719779834"
    }
   },

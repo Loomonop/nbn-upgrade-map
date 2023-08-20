@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T06:30:49.471073",
+ "generated": "2023-08-20T07:52:58.445769",
  "suburb": "WESTMINSTER",
  "features": [
   {
@@ -797,8 +797,8 @@
    "properties": {
     "name": "4 OFFHAM WAY WESTMINSTER 6061",
     "locID": "LOC000064531768",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146582807"
    }
   },
@@ -4894,8 +4894,8 @@
    "properties": {
     "name": "22 OFFHAM WAY WESTMINSTER 6061",
     "locID": "LOC000087232433",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146592495"
    }
   },
@@ -6849,8 +6849,8 @@
    "properties": {
     "name": "34 SHELBRED WAY WESTMINSTER 6061",
     "locID": "LOC000019450269",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146594582"
    }
   },
@@ -8620,6 +8620,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146596401"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.83309696,
+     -31.86829169
+    ]
+   },
+   "properties": {
+    "name": "63 ARKANA ROAD WESTMINSTER 6061",
+    "locID": "LOC000193243616",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAWA_146596402"
    }
   },
   {
@@ -10402,8 +10419,8 @@
    "properties": {
     "name": "87 ARKANA ROAD WESTMINSTER 6061",
     "locID": "LOC000046171871",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146597488"
    }
   },
@@ -11371,8 +11388,8 @@
    "properties": {
     "name": "10 BEELEY STREET WESTMINSTER 6061",
     "locID": "LOC000012796446",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146598914"
    }
   },
@@ -11745,8 +11762,8 @@
    "properties": {
     "name": "47 PYCOMBE WAY WESTMINSTER 6061",
     "locID": "LOC000081198647",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146599135"
    }
   },
@@ -15597,6 +15614,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.83537208,
+     -31.87047913
+    ]
+   },
+   "properties": {
+    "name": "18 CANARA ROAD WESTMINSTER 6061",
+    "locID": "LOC000193478571",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146602621"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.83538,
      -31.87074
     ]
@@ -16114,8 +16148,8 @@
    "properties": {
     "name": "30 WOLYA WAY WESTMINSTER 6061",
     "locID": "LOC000080576474",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146603189"
    }
   },
@@ -18886,7 +18920,7 @@
     "name": "62 MEDBURY ROAD WESTMINSTER 6061",
     "locID": "LOC000063307834",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147270389"
    }
   },
@@ -21914,6 +21948,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148211188"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.83718785,
+     -31.86485673
+    ]
+   },
+   "properties": {
+    "name": "4 FINDON CRESCENT WESTMINSTER 6061",
+    "locID": "LOC000193286830",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_148211195"
    }
   },
   {
@@ -27828,7 +27879,7 @@
     "name": "51A BALCOMBE WAY WESTMINSTER 6061",
     "locID": "LOC000029532010",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148609135"
    }
   },
@@ -31720,8 +31771,8 @@
    "properties": {
     "name": "15A POYNINGS STREET WESTMINSTER 6061",
     "locID": "LOC000007074912",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161994024"
    }
   },
@@ -37569,7 +37620,7 @@
     "name": "35C FINDON CRESCENT WESTMINSTER 6061",
     "locID": "LOC000014595841",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162696346"
    }
   },
@@ -42464,8 +42515,8 @@
    "properties": {
     "name": "146B ARKANA ROAD WESTMINSTER 6061",
     "locID": "LOC000074574750",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163246451"
    }
   },
@@ -43977,8 +44028,8 @@
    "properties": {
     "name": "23C EDALE WAY WESTMINSTER 6061",
     "locID": "LOC000112082476",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163337242"
    }
   },
@@ -51967,8 +52018,8 @@
    "properties": {
     "name": "30C STROUGHTON ROAD WESTMINSTER 6061",
     "locID": "LOC100056814556",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718759302"
    }
   },
@@ -57356,8 +57407,8 @@
    "properties": {
     "name": "7B KURDA PLACE WESTMINSTER 6061",
     "locID": "LOC000176980635",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_719149625"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T07:02:05.109467",
+ "generated": "2023-08-20T08:23:37.974617",
  "suburb": "MELVILLE",
  "features": [
   {
@@ -2500,6 +2500,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146732191"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80778501,
+     -32.03404706
+    ]
+   },
+   "properties": {
+    "name": "39 KENNEDY STREET MELVILLE 6156",
+    "locID": "LOC000193229682",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146732199"
    }
   },
   {
@@ -17083,8 +17100,8 @@
    "properties": {
     "name": "16 JASON STREET MELVILLE 6156",
     "locID": "LOC000006947391",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146765522"
    }
   },
@@ -40679,8 +40696,8 @@
    "properties": {
     "name": "19B WILLIAMS ROAD MELVILLE 6156",
     "locID": "LOC000106367688",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_163089119"
    }
   },
@@ -50107,6 +50124,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.80778501,
+     -32.03404706
+    ]
+   },
+   "properties": {
+    "name": "39A KENNEDY STREET MELVILLE 6156",
+    "locID": "LOC000193229676",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_720583619"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80789145,
+     -32.03404388
+    ]
+   },
+   "properties": {
+    "name": "39B KENNEDY STREET MELVILLE 6156",
+    "locID": "LOC000193229682",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_720583659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.8021036,
      -32.04748555
     ]
@@ -50318,7 +50369,7 @@
    "properties": {
     "name": "1B THURSO ROAD MELVILLE 6156",
     "locID": "LOC000189332417",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720715814"
    }
@@ -50403,7 +50454,7 @@
    "properties": {
     "name": "100C ROME ROAD MELVILLE 6156",
     "locID": "LOC000189332365",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720716527"
    }
@@ -50454,7 +50505,7 @@
    "properties": {
     "name": "1A THURSO ROAD MELVILLE 6156",
     "locID": "LOC000189332383",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720718748"
    }
@@ -50471,7 +50522,7 @@
    "properties": {
     "name": "100A ROME ROAD MELVILLE 6156",
     "locID": "LOC000189332312",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720718882"
    }
@@ -50488,7 +50539,7 @@
    "properties": {
     "name": "1C THURSO ROAD MELVILLE 6156",
     "locID": "LOC000189332429",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720718915"
    }
@@ -50505,7 +50556,7 @@
    "properties": {
     "name": "100D ROME ROAD MELVILLE 6156",
     "locID": "LOC000189332377",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720718961"
    }
@@ -50539,7 +50590,7 @@
    "properties": {
     "name": "100B ROME ROAD MELVILLE 6156",
     "locID": "LOC000189332320",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720719531"
    }
