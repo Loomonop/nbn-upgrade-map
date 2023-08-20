@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T17:25:10.655645",
+ "generated": "2023-08-20T18:38:37.060336",
  "suburb": "NORTH COOGEE",
  "features": [
   {
@@ -984,8 +984,8 @@
    "properties": {
     "name": "24 BREAKSEA DRIVE NORTH COOGEE 6163",
     "locID": "LOC000040187248",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162390112"
    }
   },
@@ -5064,8 +5064,8 @@
    "properties": {
     "name": "4 LUCRETIA CIRCLE NORTH COOGEE 6163",
     "locID": "LOC000025339182",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162642766"
    }
   },
@@ -8090,8 +8090,8 @@
    "properties": {
     "name": "11 PODMAN LOOP NORTH COOGEE 6163",
     "locID": "LOC000051008261",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162724671"
    }
   },
@@ -8141,8 +8141,8 @@
    "properties": {
     "name": "15 PODMAN LOOP NORTH COOGEE 6163",
     "locID": "LOC000038558817",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162724674"
    }
   },
@@ -11762,8 +11762,8 @@
    "properties": {
     "name": "8 PICARD LANE NORTH COOGEE 6163",
     "locID": "LOC000019894851",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163242981"
    }
   },
@@ -12068,8 +12068,8 @@
    "properties": {
     "name": "1 PERLINTE VIEW NORTH COOGEE 6163",
     "locID": "LOC000008776737",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163247357"
    }
   },
@@ -12528,7 +12528,7 @@
     "name": "16 O'CONNOR CLOSE NORTH COOGEE 6163",
     "locID": "LOC000112085413",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163341061"
    }
   },
@@ -17627,8 +17627,8 @@
    "properties": {
     "name": "11 ORSINO BOULEVARD NORTH COOGEE 6163",
     "locID": "LOC000151325503",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718630351"
    }
   },
@@ -41226,6 +41226,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721198507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76223266,
+     -32.1035972
+    ]
+   },
+   "properties": {
+    "name": "12 CALYPSO PARADE NORTH COOGEE 6163",
+    "locID": "ChIJYyJooQCiMioRXH-SbLxwP3Y",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721209665"
    }
   }
  ]
