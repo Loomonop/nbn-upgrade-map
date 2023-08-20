@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T10:47:02.972684",
+ "generated": "2023-08-20T11:51:02.928558",
  "suburb": "CITY BEACH",
  "features": [
   {
@@ -3568,8 +3568,8 @@
    "properties": {
     "name": "28 TEMPLETONIA CRESCENT CITY BEACH 6015",
     "locID": "LOC000078523571",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146610030"
    }
   },
@@ -5693,8 +5693,8 @@
    "properties": {
     "name": "36 HESPERIA AVENUE CITY BEACH 6015",
     "locID": "LOC000040485334",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146613698"
    }
   },
@@ -6663,7 +6663,7 @@
     "name": "29 KALINDA DRIVE CITY BEACH 6015",
     "locID": "LOC000043271667",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146615231"
    }
   },
@@ -15417,8 +15417,8 @@
    "properties": {
     "name": "41 BOSCOMBE AVENUE CITY BEACH 6015",
     "locID": "LOC000020293677",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146620757"
    }
   },
@@ -17222,6 +17222,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146621984"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76275314,
+     -31.93681011
+    ]
+   },
+   "properties": {
+    "name": "30 WINDARRA DRIVE CITY BEACH 6015",
+    "locID": "LOC000193391975",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146621985"
    }
   },
   {
@@ -21248,8 +21265,8 @@
    "properties": {
     "name": "4 CHALLENGER PARADE CITY BEACH 6015",
     "locID": "LOC000021156782",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146624485"
    }
   },
@@ -22201,7 +22218,7 @@
     "name": "21 CALLINGTON AVENUE CITY BEACH 6015",
     "locID": "LOC000058022898",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146625269"
    }
   },
