@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T12:33:58.332215",
+ "generated": "2023-08-20T13:40:51.503373",
  "suburb": "MOUNT LAWLEY",
  "features": [
   {
@@ -2753,7 +2753,7 @@
     "name": "195 WALCOTT STREET MOUNT LAWLEY 6050",
     "locID": "LOC000098955071",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146629182"
    }
   },
@@ -5523,8 +5523,8 @@
    "properties": {
     "name": "5 BRAESIDE ROAD MOUNT LAWLEY 6050",
     "locID": "LOC000048205193",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146631928"
    }
   },
@@ -5574,8 +5574,8 @@
    "properties": {
     "name": "3 WOODROYD STREET MOUNT LAWLEY 6050",
     "locID": "LOC000069095898",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146631931"
    }
   },
@@ -8124,8 +8124,8 @@
    "properties": {
     "name": "1 LESLIE STREET MOUNT LAWLEY 6050",
     "locID": "LOC000073792657",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146635555"
    }
   },
@@ -9655,7 +9655,7 @@
     "name": "4 SECOND AVENUE MOUNT LAWLEY 6050",
     "locID": "LOC000069635157",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146636955"
    }
   },
@@ -13054,8 +13054,8 @@
    "properties": {
     "name": "107 RAILWAY PARADE MOUNT LAWLEY 6050",
     "locID": "LOC000023609507",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146639825"
    }
   },
@@ -13173,8 +13173,8 @@
    "properties": {
     "name": "51 CLOTILDE STREET MOUNT LAWLEY 6050",
     "locID": "LOC000027098373",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146639999"
    }
   },
@@ -16481,6 +16481,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.87535593,
+     -31.93136626
+    ]
+   },
+   "properties": {
+    "name": "706 BEAUFORT STREET MOUNT LAWLEY 6050",
+    "locID": "EjA3MDYgQmVhdWZvcnQgU3QsIE1vdW50IExhd2xleSBXQSA2MDUwLCBBdXN0cmFsaWEiMRIvChQKEglt9CMMwLoyKhEyeYwGEQDgyRDCBSoUChIJsWKgq-y6MioRm6g1TCgwWUw",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_146642813"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.8764,
      -31.93254
     ]
@@ -17933,8 +17950,8 @@
    "properties": {
     "name": "47 QUEENS CRESCENT MOUNT LAWLEY 6050",
     "locID": "LOC000042736140",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146643429"
    }
   },
@@ -18276,23 +18293,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146643708"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.88220248,
-     -31.92757473
-    ]
-   },
-   "properties": {
-    "name": "56 FOURTH AVENUE MOUNT LAWLEY 6050",
-    "locID": "LOC000082381591",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146643709"
    }
   },
   {
@@ -19361,8 +19361,8 @@
    "properties": {
     "name": "121 GROSVENOR ROAD MOUNT LAWLEY 6050",
     "locID": "LOC000071430070",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146644307"
    }
   },
@@ -21384,8 +21384,8 @@
    "properties": {
     "name": "35 PARK ROAD MOUNT LAWLEY 6050",
     "locID": "LOC000033675757",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146646356"
    }
   },
@@ -21503,8 +21503,8 @@
    "properties": {
     "name": "2 CLARENCE STREET MOUNT LAWLEY 6050",
     "locID": "LOC000046879513",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146646409"
    }
   },
@@ -24767,8 +24767,8 @@
    "properties": {
     "name": "119 RAILWAY PARADE MOUNT LAWLEY 6050",
     "locID": "LOC000008684485",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146649163"
    }
   },
@@ -26637,8 +26637,8 @@
    "properties": {
     "name": "27 FARNLEY STREET MOUNT LAWLEY 6050",
     "locID": "LOC000086501461",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146650652"
    }
   },
@@ -27436,8 +27436,8 @@
    "properties": {
     "name": "15 CLIFTON CRESCENT MOUNT LAWLEY 6050",
     "locID": "LOC000084185125",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146651972"
    }
   },
@@ -27844,8 +27844,8 @@
    "properties": {
     "name": "72 VINCENT STREET MOUNT LAWLEY 6050",
     "locID": "LOC000102326068",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146652134"
    }
   },
@@ -34644,8 +34644,8 @@
    "properties": {
     "name": "42 WOODSOME STREET MOUNT LAWLEY 6050",
     "locID": "LOC000058088947",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146658202"
    }
   },
@@ -39676,8 +39676,8 @@
    "properties": {
     "name": "69 BARLEE STREET MOUNT LAWLEY 6050",
     "locID": "LOC000017123740",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147151649"
    }
   },
@@ -55129,8 +55129,8 @@
    "properties": {
     "name": "49 WOODROYD STREET MOUNT LAWLEY 6050",
     "locID": "LOC000058203162",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147241926"
    }
   },
@@ -62236,7 +62236,7 @@
     "name": "26 CLIVE ROAD MOUNT LAWLEY 6050",
     "locID": "LOC000054372795",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147409659"
    }
   },
@@ -78837,23 +78837,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.88220248,
-     -31.92757473
-    ]
-   },
-   "properties": {
-    "name": "56A FOURTH AVENUE MOUNT LAWLEY 6050",
-    "locID": "LOC000082381591",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147965870"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.87927594,
      -31.92649529
     ]
@@ -87191,7 +87174,7 @@
    "properties": {
     "name": "37 WALCOTT STREET MOUNT LAWLEY 6050",
     "locID": "ChIJOweIIcK6MioRyC3lZ4bzABE",
-    "tech": "FTTC",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148497218"
    }
