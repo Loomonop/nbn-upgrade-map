@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T02:43:20.796285",
+ "generated": "2023-08-20T03:32:34.804947",
  "suburb": "LAKELANDS",
  "features": [
   {
@@ -1885,8 +1885,8 @@
    "properties": {
     "name": "43 BALLARD MEANDER LAKELANDS 6180",
     "locID": "LOC000066314861",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160912524"
    }
   },
@@ -3262,8 +3262,8 @@
    "properties": {
     "name": "12 ROYSTON WAY LAKELANDS 6180",
     "locID": "LOC000023641485",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161519963"
    }
   },
@@ -3500,8 +3500,8 @@
    "properties": {
     "name": "19 ROYSTON WAY LAKELANDS 6180",
     "locID": "LOC000089713678",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161609667"
    }
   },
@@ -3756,7 +3756,7 @@
     "name": "2 TEAGUE WAY LAKELANDS 6180",
     "locID": "LOC000015673051",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161894018"
    }
   },
@@ -4129,8 +4129,8 @@
    "properties": {
     "name": "11 ALBINA CHASE LAKELANDS 6180",
     "locID": "LOC000034323977",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161926149"
    }
   },
@@ -4197,8 +4197,8 @@
    "properties": {
     "name": "15 ALBINA CHASE LAKELANDS 6180",
     "locID": "LOC000094378007",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161926153"
    }
   },
@@ -6832,8 +6832,8 @@
    "properties": {
     "name": "15 PRENTICE WAY LAKELANDS 6180",
     "locID": "LOC000076950993",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162257159"
    }
   },
@@ -7904,7 +7904,7 @@
     "name": "7 RAYNER PROMENADE LAKELANDS 6180",
     "locID": "LOC000089506726",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162332041"
    }
   },
@@ -10929,8 +10929,8 @@
    "properties": {
     "name": "28 LASCELLES CIRCUS LAKELANDS 6180",
     "locID": "LOC000026160380",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162573835"
    }
   },
@@ -12833,8 +12833,8 @@
    "properties": {
     "name": "1 KARRI KARRI PASS LAKELANDS 6180",
     "locID": "LOC000102287104",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162687812"
    }
   },
@@ -13360,8 +13360,8 @@
    "properties": {
     "name": "173 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000094695050",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162694522"
    }
   },
@@ -22626,7 +22626,7 @@
     "name": "103 LAKE VALLEY DRIVE LAKELANDS 6180",
     "locID": "LOC000106349132",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163200335"
    }
   },
@@ -22966,7 +22966,7 @@
     "name": "106 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000019016540",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163245098"
    }
   },
@@ -50294,6 +50294,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.78230807,
+     -32.46660486
+    ]
+   },
+   "properties": {
+    "name": "12 PAPPINBARRA ROAD LAKELANDS 6180",
+    "locID": "ChIJbwcfjLh9MioRP75lLnsrGdU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721195266"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.76370869,
      -32.46155422
     ]
@@ -50389,6 +50406,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721195504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78245433,
+     -32.46660493
+    ]
+   },
+   "properties": {
+    "name": "10 PAPPINBARRA ROAD LAKELANDS 6180",
+    "locID": "ChIJB7NkjLh9MioRe9-_0B0dl6M",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721195507"
    }
   },
   {
@@ -51195,6 +51229,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.78214852,
+     -32.46660478
+    ]
+   },
+   "properties": {
+    "name": "14 PAPPINBARRA ROAD LAKELANDS 6180",
+    "locID": "ChIJC7fljrh9MioRlgp72H1g_9Y",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721197738"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.78209975,
      -32.46751539
     ]
@@ -51460,6 +51511,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721198547"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78258729,
+     -32.466605
+    ]
+   },
+   "properties": {
+    "name": "8 PAPPINBARRA ROAD LAKELANDS 6180",
+    "locID": "ChIJmQWhjLh9MioRUfc1cM6hhws",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721198567"
    }
   },
   {
