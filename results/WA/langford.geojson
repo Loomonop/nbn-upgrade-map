@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T13:33:56.427906",
+ "generated": "2023-08-20T14:48:15.035279",
  "suburb": "LANGFORD",
  "features": [
   {
@@ -593,8 +593,8 @@
    "properties": {
     "name": "64 GODDARD WAY LANGFORD 6147",
     "locID": "LOC000079063220",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146781480"
    }
   },
@@ -1800,8 +1800,8 @@
    "properties": {
     "name": "75 SPENCER ROAD LANGFORD 6147",
     "locID": "LOC000080418736",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146789972"
    }
   },
@@ -8889,8 +8889,8 @@
    "properties": {
     "name": "5 IVERS COURT LANGFORD 6147",
     "locID": "LOC000059294259",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146797034"
    }
   },
@@ -18325,7 +18325,7 @@
     "name": "163 LANGFORD AVENUE LANGFORD 6147",
     "locID": "LOC000017080122",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146813043"
    }
   },
@@ -21139,6 +21139,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.94175674,
+     -32.04149018
+    ]
+   },
+   "properties": {
+    "name": "21C CHOSELEY PLACE LANGFORD 6147",
+    "locID": "LOC000094681902",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAWA_147132768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.93828,
      -32.03214
     ]
@@ -21265,8 +21282,8 @@
    "properties": {
     "name": "12 GRIFFIN CLOSE LANGFORD 6147",
     "locID": "LOC000063839297",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147140731"
    }
   },
@@ -25311,8 +25328,8 @@
    "properties": {
     "name": "18 SOUTHGATE ROAD LANGFORD 6147",
     "locID": "LOC000025351081",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147287535"
    }
   },
@@ -25362,8 +25379,8 @@
    "properties": {
     "name": "8 BOXLEY PLACE LANGFORD 6147",
     "locID": "LOC000050836011",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147287542"
    }
   },
@@ -25705,6 +25722,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147290562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93738813,
+     -32.04215483
+    ]
+   },
+   "properties": {
+    "name": "37 LANGFORD AVENUE LANGFORD 6147",
+    "locID": "LOC000003001512",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAWA_147290563"
    }
   },
   {
@@ -32825,8 +32859,8 @@
    "properties": {
     "name": "123 SPENCER ROAD LANGFORD 6147",
     "locID": "LOC000101907524",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147854268"
    }
   },
@@ -36820,8 +36854,8 @@
    "properties": {
     "name": "46 LANGFORD AVENUE LANGFORD 6147",
     "locID": "LOC000132652567",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162409447"
    }
   },
@@ -39098,8 +39132,8 @@
    "properties": {
     "name": "UNIT 1, 7 TURLEY COURT LANGFORD 6147",
     "locID": "LOC000116439660",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718221918"
    }
   },
@@ -41546,7 +41580,7 @@
    "properties": {
     "name": "37B LANGFORD AVENUE LANGFORD 6147",
     "locID": "ChIJO3acA929MioRy7yCKoUWALg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720972142"
    }
@@ -41566,6 +41600,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720973018"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.9374838,
+     -32.04223569
+    ]
+   },
+   "properties": {
+    "name": "37C LANGFORD AVENUE LANGFORD 6147",
+    "locID": "LOC000193329666",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_720974901"
    }
   },
   {

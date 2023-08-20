@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T13:38:48.541568",
+ "generated": "2023-08-20T14:53:51.488310",
  "suburb": "RIVERVALE",
  "features": [
   {
@@ -2395,8 +2395,8 @@
    "properties": {
     "name": "32 LYONS STREET RIVERVALE 6103",
     "locID": "LOC000039122397",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146663496"
    }
   },
@@ -2566,7 +2566,7 @@
     "name": "78 ACTON AVENUE RIVERVALE 6103",
     "locID": "LOC000038694155",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146663646"
    }
   },
@@ -5829,8 +5829,8 @@
    "properties": {
     "name": "8 ACTON AVENUE RIVERVALE 6103",
     "locID": "LOC000027840246",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146665250"
    }
   },
@@ -7464,23 +7464,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146666935"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.91342,
-     -31.9575
-    ]
-   },
-   "properties": {
-    "name": "40 TOORAK ROAD RIVERVALE 6103",
-    "locID": "LOC000103431516",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146666936"
    }
   },
   {
@@ -10895,8 +10878,8 @@
    "properties": {
     "name": "16 DUDLEY STREET RIVERVALE 6103",
     "locID": "LOC000003839044",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146669158"
    }
   },
@@ -11391,6 +11374,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146669609"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92698769,
+     -31.96341615
+    ]
+   },
+   "properties": {
+    "name": "152 KNUTSFORD AVENUE RIVERVALE 6103",
+    "locID": "LOC000193350822",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146669610"
    }
   },
   {
@@ -13327,7 +13327,7 @@
     "name": "141 ACTON AVENUE RIVERVALE 6103",
     "locID": "LOC000046222761",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146670739"
    }
   },
@@ -18868,8 +18868,8 @@
    "properties": {
     "name": "8 MARTIN AVENUE RIVERVALE 6103",
     "locID": "LOC000084929344",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146674143"
    }
   },
@@ -23492,8 +23492,8 @@
    "properties": {
     "name": "8 WICCA STREET RIVERVALE 6103",
     "locID": "LOC000078370330",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146681370"
    }
   },
@@ -28524,8 +28524,8 @@
    "properties": {
     "name": "10 FINLAY COURT RIVERVALE 6103",
     "locID": "LOC000027821508",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147161461"
    }
   },
@@ -40884,7 +40884,7 @@
     "name": "UNIT 5, 106 ALEXANDER ROAD RIVERVALE 6103",
     "locID": "LOC000038743395",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148043263"
    }
   },
@@ -43978,7 +43978,7 @@
     "name": "UNIT 4, 106 ALEXANDER ROAD RIVERVALE 6103",
     "locID": "LOC000039174573",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148055147"
    }
   },
@@ -127158,8 +127158,8 @@
    "properties": {
     "name": "22 ESTHER STREET RIVERVALE 6103",
     "locID": "LOC000189356635",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720488638"
    }
   },
@@ -131299,6 +131299,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.92698769,
+     -31.96341615
+    ]
+   },
+   "properties": {
+    "name": "152B KNUTSFORD AVENUE RIVERVALE 6103",
+    "locID": "LOC000193350833",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721205798"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.92437435,
      -31.96693482
     ]
@@ -131343,6 +131360,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721206973"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92698769,
+     -31.96341615
+    ]
+   },
+   "properties": {
+    "name": "152A KNUTSFORD AVENUE RIVERVALE 6103",
+    "locID": "LOC000193350822",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721207027"
    }
   },
   {

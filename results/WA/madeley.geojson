@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T13:48:14.991011",
+ "generated": "2023-08-20T15:02:12.196706",
  "suburb": "MADELEY",
  "features": [
   {
@@ -4436,7 +4436,7 @@
     "name": "5 BRITTAIN AVENUE MADELEY 6065",
     "locID": "LOC000038432772",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147329415"
    }
   },
@@ -5949,7 +5949,7 @@
     "name": "4 ZEUS AVENUE MADELEY 6065",
     "locID": "LOC000085243399",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147371165"
    }
   },
@@ -6339,8 +6339,8 @@
    "properties": {
     "name": "57 SOVRANO AVENUE MADELEY 6065",
     "locID": "LOC000037164167",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147377696"
    }
   },
@@ -8124,8 +8124,8 @@
    "properties": {
     "name": "8 OAKDENE DRIVE MADELEY 6065",
     "locID": "LOC000027802458",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147401776"
    }
   },
@@ -8498,8 +8498,8 @@
    "properties": {
     "name": "7 KINGSWAY MADELEY 6065",
     "locID": "LOC000043386028",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147873428"
    }
   },
@@ -17338,8 +17338,8 @@
    "properties": {
     "name": "54 LOCKEPORT APPROACH MADELEY 6065",
     "locID": "LOC000092703880",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160928369"
    }
   },
@@ -26042,8 +26042,8 @@
    "properties": {
     "name": "42 DENVER AVENUE MADELEY 6065",
     "locID": "LOC000072836968",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161927230"
    }
   },
@@ -27963,8 +27963,8 @@
    "properties": {
     "name": "4 CASTANET DRIVE MADELEY 6065",
     "locID": "LOC000018193056",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161990115"
    }
   },
@@ -28167,8 +28167,8 @@
    "properties": {
     "name": "40 CONFERENCE GREEN MADELEY 6065",
     "locID": "LOC000040046417",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161990359"
    }
   },
@@ -32961,8 +32961,8 @@
    "properties": {
     "name": "56 OAKDENE DRIVE MADELEY 6065",
     "locID": "LOC000087457254",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162336294"
    }
   },
@@ -34542,8 +34542,8 @@
    "properties": {
     "name": "93 COOPER STREET MADELEY 6065",
     "locID": "LOC000005606205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162486022"
    }
   },
@@ -35392,8 +35392,8 @@
    "properties": {
     "name": "8 RIVONIA BRACE MADELEY 6065",
     "locID": "LOC000070782894",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162489658"
    }
   },
@@ -41581,7 +41581,7 @@
     "name": "98 KEMBLA CIRCLE MADELEY 6065",
     "locID": "LOC000095821296",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163241460"
    }
   },
@@ -44555,8 +44555,8 @@
    "properties": {
     "name": "55C DENVER AVENUE MADELEY 6065",
     "locID": "LOC000146629511",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_718549489"
    }
   },
@@ -47523,6 +47523,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.83351141,
+     -31.80263992
+    ]
+   },
+   "properties": {
+    "name": "61 BETHWYN CIRCUIT MADELEY 6065",
+    "locID": "ChIJccnhWpetMioRvbJ6ZCX0q5U",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_719038505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81946457,
      -31.80298691
     ]
@@ -48230,6 +48247,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719200668"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.82075378,
+     -31.80073766
+    ]
+   },
+   "properties": {
+    "name": "24 WINDSOR ROAD MADELEY 6065",
+    "locID": "ChIJac8yP6StMioRIABzCkx7MXY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_719305374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81940416,
+     -31.80070555
+    ]
+   },
+   "properties": {
+    "name": "12 WINDSOR ROAD MADELEY 6065",
+    "locID": "EikxMiBXaW5kc29yIFJkLCBNYWRlbGV5IFdBIDYwNjUsIEF1c3RyYWxpYSIwEi4KFAoSCd_QZ8KlrTIqEYOvOnw5m3liEAwqFAoSCZEXPcemrTIqEVWtKCW89by9",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_719306011"
    }
   },
   {
