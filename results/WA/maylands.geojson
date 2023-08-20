@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T16:10:14.521861",
+ "generated": "2023-08-20T17:25:13.380028",
  "suburb": "MAYLANDS",
  "features": [
   {
@@ -4350,8 +4350,8 @@
    "properties": {
     "name": "161 PENINSULA ROAD MAYLANDS 6051",
     "locID": "LOC000019502714",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146640458"
    }
   },
@@ -4368,7 +4368,7 @@
     "name": "142 PENINSULA ROAD MAYLANDS 6051",
     "locID": "LOC000037910785",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146640461"
    }
   },
@@ -9708,6 +9708,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146649694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.89453,
+     -31.92151
+    ]
+   },
+   "properties": {
+    "name": "54 STUART STREET MAYLANDS 6051",
+    "locID": "LOC000193323646",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146649695"
    }
   },
   {
@@ -15774,8 +15791,8 @@
    "properties": {
     "name": "6 HALL AVENUE MAYLANDS 6051",
     "locID": "LOC000006172257",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146671241"
    }
   },
@@ -21044,8 +21061,8 @@
    "properties": {
     "name": "14 HILLSIDE CRESCENT MAYLANDS 6051",
     "locID": "LOC000043841675",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146684436"
    }
   },
@@ -22439,7 +22456,7 @@
     "name": "24 WIRRAWAY LOOP MAYLANDS 6051",
     "locID": "LOC000061231126",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146783520"
    }
   },
@@ -22846,8 +22863,8 @@
    "properties": {
     "name": "3 KITTYHAWK VIEW MAYLANDS 6051",
     "locID": "LOC000101326096",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146967075"
    }
   },
@@ -27759,8 +27776,8 @@
    "properties": {
     "name": "43 CLARKSON ROAD MAYLANDS 6051",
     "locID": "LOC000061120192",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147173594"
    }
   },
@@ -62048,8 +62065,8 @@
    "properties": {
     "name": "2 TRANBY ROAD MAYLANDS 6051",
     "locID": "LOC000046340759",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147263995"
    }
   },
@@ -86580,7 +86597,7 @@
     "name": "120B PENINSULA ROAD MAYLANDS 6051",
     "locID": "LOC000066232114",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147899127"
    }
   },
@@ -116924,8 +116941,8 @@
    "properties": {
     "name": "13 SUSAN STREET MAYLANDS 6051",
     "locID": "LOC000047646619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161038297"
    }
   },
@@ -132819,8 +132836,8 @@
    "properties": {
     "name": "84A KELVIN STREET MAYLANDS 6051",
     "locID": "LOC000027819619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162722869"
    }
   },
@@ -137376,7 +137393,7 @@
     "name": "UNIT 1, 142 PENINSULA ROAD MAYLANDS 6051",
     "locID": "LOC000037910785",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163084335"
    }
   },
@@ -137393,7 +137410,7 @@
     "name": "UNIT 2, 142 PENINSULA ROAD MAYLANDS 6051",
     "locID": "LOC000037910785",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163084336"
    }
   },
@@ -144906,8 +144923,8 @@
    "properties": {
     "name": "1 SUSAN STREET MAYLANDS 6051",
     "locID": "LOC000173199687",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_718915701"
    }
   },

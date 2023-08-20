@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T16:24:01.618067",
+ "generated": "2023-08-20T17:37:58.678691",
  "suburb": "MORLEY",
  "features": [
   {
@@ -11440,7 +11440,7 @@
     "name": "7 THURSLEY WAY MORLEY 6062",
     "locID": "LOC000005390315",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146596502"
    }
   },
@@ -16913,7 +16913,7 @@
    "properties": {
     "name": "12 MUNYARD WAY MORLEY 6062",
     "locID": "LOC000192194007",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146600920"
    }
@@ -23934,8 +23934,8 @@
    "properties": {
     "name": "17 LOVEGROVE WAY MORLEY 6062",
     "locID": "LOC000023700689",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146607536"
    }
   },
@@ -24241,7 +24241,7 @@
     "name": "36 LOVEGROVE WAY MORLEY 6062",
     "locID": "LOC000027805603",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146607876"
    }
   },
@@ -28238,6 +28238,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146610966"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.90118,
+     -31.89419
+    ]
+   },
+   "properties": {
+    "name": "3 HEWTON STREET MORLEY 6062",
+    "locID": "LOC000177711335",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAWA_146610967"
    }
   },
   {
@@ -35852,7 +35869,7 @@
     "name": "26 KENNEDY ROAD MORLEY 6062",
     "locID": "LOC000107493921",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146649477"
    }
   },
@@ -46309,23 +46326,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146875463"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.90715111,
-     -31.87970847
-    ]
-   },
-   "properties": {
-    "name": "38 DESCHAMP ROAD MORLEY 6062",
-    "locID": "LOC000095778897",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146875464"
    }
   },
   {
@@ -114018,7 +114018,7 @@
     "name": "83 COLLIER ROAD MORLEY 6062",
     "locID": "LOC000088633069",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147309478"
    }
   },
@@ -155939,8 +155939,8 @@
    "properties": {
     "name": "14B RUSSELL STREET MORLEY 6062",
     "locID": "LOC000047610326",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162497173"
    }
   },
@@ -161175,8 +161175,8 @@
    "properties": {
     "name": "17A LOVEGROVE WAY MORLEY 6062",
     "locID": "LOC000023783932",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162723417"
    }
   },
@@ -163096,8 +163096,8 @@
    "properties": {
     "name": "1B ENDEAVOUR ROAD MORLEY 6062",
     "locID": "LOC000112769819",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162867206"
    }
   },
@@ -165290,7 +165290,7 @@
     "name": "171A BROUN AVENUE MORLEY 6062",
     "locID": "LOC000132482468",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163074722"
    }
   },
@@ -166089,7 +166089,7 @@
     "name": "3A LAW STREET MORLEY 6062",
     "locID": "LOC000037807118",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163081036"
    }
   },
@@ -168264,8 +168264,8 @@
    "properties": {
     "name": "9A BATH ROAD MORLEY 6062",
     "locID": "LOC000132504196",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163149035"
    }
   },
@@ -178073,8 +178073,8 @@
    "properties": {
     "name": "19B COMPTON WAY MORLEY 6062",
     "locID": "LOC000171596815",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_718388035"
    }
   },
@@ -197922,6 +197922,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.89031876,
+     -31.88069778
+    ]
+   },
+   "properties": {
+    "name": "9 HOKESFERN STREET MORLEY 6062",
+    "locID": "ChIJpw_EiFywMioRIOALk-vpAgA",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_720277507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.90149985,
      -31.88094385
     ]
@@ -199629,7 +199646,7 @@
    "properties": {
     "name": "90A MORLEY DRIVE EAST MORLEY 6062",
     "locID": "ChIJFYRXiaSwMioR464vD8MWB0s",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720560045"
    }
@@ -200411,8 +200428,8 @@
    "properties": {
     "name": "6A LAW STREET MORLEY 6062",
     "locID": "LOC000189042045",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720643120"
    }
   },
@@ -200700,7 +200717,7 @@
    "properties": {
     "name": "20C HEWTON STREET MORLEY 6062",
     "locID": "LOC000191988588",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720716160"
    }
@@ -200785,7 +200802,7 @@
    "properties": {
     "name": "20B HEWTON STREET MORLEY 6062",
     "locID": "LOC000191988590",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720717029"
    }
@@ -200836,7 +200853,7 @@
    "properties": {
     "name": "20A HEWTON STREET MORLEY 6062",
     "locID": "LOC000191988601",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720717550"
    }
