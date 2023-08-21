@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-18T03:48:27.212131",
+ "generated": "2023-08-21T20:36:26.541583",
  "suburb": "GILLES PLAINS",
  "features": [
   {
@@ -3228,8 +3228,8 @@
    "properties": {
     "name": "27 BROOKDALE CLOSE GILLES PLAINS 5086",
     "locID": "LOC000104433630",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415126921"
    }
   },
@@ -7019,8 +7019,8 @@
    "properties": {
     "name": "1 KARRATTA STREET GILLES PLAINS 5086",
     "locID": "LOC000018618023",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415317655"
    }
   },
@@ -12850,7 +12850,7 @@
    "properties": {
     "name": "27 DIAMOND AVENUE GILLES PLAINS 5086",
     "locID": "LOC000193197887",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415339399"
    }
@@ -32264,8 +32264,8 @@
    "properties": {
     "name": "21A GRANT AVENUE GILLES PLAINS 5086",
     "locID": "LOC100069500858",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_719396186"
    }
   },
@@ -34722,23 +34722,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66293031,
-     -34.8458772
-    ]
-   },
-   "properties": {
-    "name": "858-870 GRAND JUNCTION ROAD GILLES PLAINS 5086",
-    "locID": "EjI4NTggR3JhbmQgSmN0IFJkLCBHaWxsZXMgUGxhaW5zIFNBIDUwODYsIEF1c3RyYWxpYSIxEi8KFAoSCZuHdRm5tbBqEcoHOjh72qCjENoGKhQKEgnj7prqJrawahGZV3g2R-XaDw",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_720846461"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.66174233,
      -34.84589244
     ]
@@ -35426,7 +35409,7 @@
    "properties": {
     "name": "27 TASMAN AVENUE GILLES PLAINS 5086",
     "locID": "ChIJq8L1Q7m1sGoRMWmx9_j25R0",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721252823"
    }
@@ -35460,7 +35443,7 @@
    "properties": {
     "name": "27B TASMAN AVENUE GILLES PLAINS 5086",
     "locID": "ChIJq8L1Q7m1sGoRMWmx9_j25R0",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721253910"
    }
@@ -35477,7 +35460,7 @@
    "properties": {
     "name": "27A TASMAN AVENUE GILLES PLAINS 5086",
     "locID": "ChIJ57QoXbm1sGoR9tbVkXkpDVM",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721254256"
    }
