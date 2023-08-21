@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-16T03:38:56.989696",
+ "generated": "2023-08-21T01:50:10.471218",
  "suburb": "SILKSTONE",
  "features": [
   {
@@ -1086,8 +1086,8 @@
    "properties": {
     "name": "2 CAMBRIDGE STREET SILKSTONE 4304",
     "locID": "LOC000002512613",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155797453"
    }
   },
@@ -2106,8 +2106,8 @@
    "properties": {
     "name": "18 DOROTHY STREET SILKSTONE 4304",
     "locID": "LOC000081429275",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155800083"
    }
   },
@@ -4555,7 +4555,7 @@
     "name": "73 BLACKSTONE ROAD SILKSTONE 4304",
     "locID": "LOC000089428512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155805700"
    }
   },
@@ -5286,7 +5286,7 @@
     "name": "69 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000095772485",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155808565"
    }
   },
@@ -5404,8 +5404,8 @@
    "properties": {
     "name": "38 SKINNER CRESCENT SILKSTONE 4304",
     "locID": "LOC000106253815",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155808580"
    }
   },
@@ -6084,8 +6084,8 @@
    "properties": {
     "name": "186 SOUTH STATION ROAD SILKSTONE 4304",
     "locID": "LOC000087106328",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155809407"
    }
   },
@@ -6510,7 +6510,7 @@
     "name": "28A MARGARET STREET SILKSTONE 4304",
     "locID": "LOC000064435078",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155810250"
    }
   },
@@ -7291,8 +7291,8 @@
    "properties": {
     "name": "17 COOLIBAH STREET SILKSTONE 4304",
     "locID": "LOC000029815331",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155813913"
    }
   },
@@ -8957,8 +8957,8 @@
    "properties": {
     "name": "35 DOYLE STREET SILKSTONE 4304",
     "locID": "LOC000106790506",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155817879"
    }
   },
@@ -9929,6 +9929,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155821625"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.78350965,
+     -27.62439685
+    ]
+   },
+   "properties": {
+    "name": "39 CAMBRIDGE STREET SILKSTONE 4304",
+    "locID": "Ei4zOSBDYW1icmlkZ2UgU3QsIFNpbGtzdG9uZSBRTEQgNDMwNCwgQXVzdHJhbGlhIjASLgoUChIJZyyGQPm0lmsRWru8GMUyoYoQJyoUChIJ2YvObfm0lmsRCL7z9OTHBbk",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155821627"
    }
   },
   {
@@ -11338,7 +11355,7 @@
     "name": "26 MORRIS STREET SILKSTONE 4304",
     "locID": "LOC000052618745",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155825026"
    }
   },
@@ -11660,8 +11677,8 @@
    "properties": {
     "name": "30 TRUMPY STREET SILKSTONE 4304",
     "locID": "LOC000046656006",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155825057"
    }
   },
@@ -14347,7 +14364,7 @@
     "name": "67 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000062649130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157106228"
    }
   },
@@ -14500,7 +14517,7 @@
     "name": "87 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000082591702",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157106249"
    }
   },
@@ -16692,8 +16709,8 @@
    "properties": {
     "name": "11 CHILCOT STREET SILKSTONE 4304",
     "locID": "LOC000019110520",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157113788"
    }
   },
@@ -18631,7 +18648,7 @@
     "name": "27 ALICE STREET SILKSTONE 4304",
     "locID": "LOC000014527122",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157123710"
    }
   },
@@ -22949,7 +22966,7 @@
     "name": "UNIT 2, 67 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000062649130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158602378"
    }
   },
@@ -23017,7 +23034,7 @@
     "name": "UNIT 1, 67 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000062649130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158604306"
    }
   },
@@ -23255,7 +23272,7 @@
     "name": "UNIT 2, 87 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000080130196",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158608682"
    }
   },
@@ -23272,7 +23289,7 @@
     "name": "UNIT 1, 87 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000082591702",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158610848"
    }
   },
@@ -23629,7 +23646,7 @@
     "name": "UNIT 2, 5 COOLIBAH STREET SILKSTONE 4304",
     "locID": "LOC000029365210",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158616877"
    }
   },
@@ -23748,7 +23765,7 @@
     "name": "UNIT 1, 5 COOLIBAH STREET SILKSTONE 4304",
     "locID": "LOC000029473937",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158618903"
    }
   },
@@ -25312,7 +25329,7 @@
     "name": "LOT 463 BLACKSTONE ROAD SILKSTONE 4304",
     "locID": "LOC000089428512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161745605"
    }
   },
@@ -27165,7 +27182,7 @@
     "name": "SHOP 1, 69 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000095772485",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162973617"
    }
   },
@@ -27182,7 +27199,7 @@
     "name": "SHOP 2, 69 GLEBE ROAD SILKSTONE 4304",
     "locID": "LOC000095772485",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162973618"
    }
   },
@@ -27436,8 +27453,8 @@
    "properties": {
     "name": "2B TRUMPY STREET SILKSTONE 4304",
     "locID": "LOC000095450625",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163182048"
    }
   },
