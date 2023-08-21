@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-16T20:28:36.980622",
+ "generated": "2023-08-21T10:29:13.837142",
  "suburb": "WILLOW VALE",
  "features": [
   {
@@ -1035,8 +1035,8 @@
    "properties": {
     "name": "LOT 800 GALT ROAD WILLOW VALE 4209",
     "locID": "LOC000014426253",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155966056"
    }
   },
@@ -1053,7 +1053,7 @@
     "name": "20 GALT ROAD WILLOW VALE 4209",
     "locID": "LOC000053594170",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155966057"
    }
   },
@@ -1664,8 +1664,8 @@
    "properties": {
     "name": "78 ROSEMOUNT DRIVE WILLOW VALE 4209",
     "locID": "LOC000035140838",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155967869"
    }
   },
@@ -2276,8 +2276,8 @@
    "properties": {
     "name": "28 GALT ROAD WILLOW VALE 4209",
     "locID": "LOC000014426253",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156057772"
    }
   },
@@ -4258,6 +4258,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.26926378,
+     -27.85698397
+    ]
+   },
+   "properties": {
+    "name": "LOT 101 GALT ROAD WILLOW VALE 4209",
+    "locID": "EiwxMDEgR2FsdCBSZCwgV2lsbG93IFZhbGUgUUxEIDQyMDksIEF1c3RyYWxpYSIwEi4KFAoSCZv3eR0kFJFrEUHxV8xaowITEGUqFAoSCZdiQFYhFJFrEZYvXTwV37uK",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161154434"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.25124828,
      -27.83185589
     ]
@@ -4795,23 +4812,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161297443"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.27019836,
-     -27.86729544
-    ]
-   },
-   "properties": {
-    "name": "LOT 99 RUFFLES ROAD WILLOW VALE 4209",
-    "locID": "Ei45OSBSdWZmbGVzIFJkLCBXaWxsb3cgVmFsZSBRTEQgNDIwOSwgQXVzdHJhbGlhIjASLgoUChIJbadbUT4UkWsRkaJfzFqjAhMQYyoUChIJZ86VSiMUkWsR98lf86di8dg",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161297444"
    }
   },
   {
@@ -7190,7 +7190,7 @@
     "name": "19 BLACKS ROAD WILLOW VALE 4209",
     "locID": "LOC000110825211",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163357713"
    }
   },
@@ -9332,7 +9332,7 @@
     "name": "467 HOTHAM CREEK ROAD WILLOW VALE 4209",
     "locID": "LOC000187170776",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425049282"
    }
   },
