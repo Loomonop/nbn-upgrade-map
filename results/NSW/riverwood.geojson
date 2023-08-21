@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T00:04:25.765713",
+ "generated": "2023-08-21T00:29:08.809980",
  "suburb": "RIVERWOOD",
  "features": [
   {
@@ -3918,23 +3918,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.05127551,
-     -33.9400454
-    ]
-   },
-   "properties": {
-    "name": "13 BELGIUM STREET RIVERWOOD 2210",
-    "locID": "LOC000025497677",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705757033"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.0512373,
      -33.94022431
     ]
@@ -4778,6 +4761,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705759993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.05790035,
+     -33.94742374
+    ]
+   },
+   "properties": {
+    "name": "30 BONAPARTE STREET RIVERWOOD 2210",
+    "locID": "LOC000108359403",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW705759994"
    }
   },
   {
@@ -28167,8 +28167,8 @@
    "properties": {
     "name": "267 BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000160379527",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705797338"
    }
   },
@@ -40221,7 +40221,7 @@
     "name": "40 KILLARA AVENUE RIVERWOOD 2210",
     "locID": "LOC000026429828",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705832456"
    }
   },
@@ -43368,23 +43368,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705856381"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.06133958,
-     -33.94535705
-    ]
-   },
-   "properties": {
-    "name": "33 METHUEN PARADE RIVERWOOD 2210",
-    "locID": "LOC000084010587",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705856382"
    }
   },
   {
@@ -58274,8 +58257,8 @@
    "properties": {
     "name": "28A BAUMANS ROAD RIVERWOOD 2210",
     "locID": "LOC000051368056",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711479140"
    }
   },
@@ -102219,8 +102202,8 @@
    "properties": {
     "name": "267A BONDS ROAD RIVERWOOD 2210",
     "locID": "LOC000160379527",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW718881467"
    }
   },
