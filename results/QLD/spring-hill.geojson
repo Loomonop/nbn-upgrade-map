@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-16T06:00:32.092341",
+ "generated": "2023-08-21T03:56:08.847975",
  "suburb": "SPRING HILL",
  "features": [
   {
@@ -747,7 +747,7 @@
     "name": "112 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000084827915",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155822894"
    }
   },
@@ -1121,7 +1121,7 @@
     "name": "235 GREGORY TERRACE SPRING HILL 4000",
     "locID": "LOC000095589926",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155824783"
    }
   },
@@ -1648,7 +1648,7 @@
     "name": "10 BOWEN BRIDGE ROAD SPRING HILL 4000",
     "locID": "LOC000168084947",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155826761"
    }
   },
@@ -3263,7 +3263,7 @@
     "name": "97 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000094447990",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155830233"
    }
   },
@@ -8073,8 +8073,8 @@
    "properties": {
     "name": "53 GLOUCESTER STREET SPRING HILL 4000",
     "locID": "LOC000009109954",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155840081"
    }
   },
@@ -8822,7 +8822,7 @@
     "name": "93 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000085932851",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157100739"
    }
   },
@@ -9052,23 +9052,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02449648,
-     -27.46414305
-    ]
-   },
-   "properties": {
-    "name": "430 UPPER EDWARD STREET SPRING HILL 4000",
-    "locID": "EjQ0MzAgVXBwZXIgRWR3YXJkIFN0LCBTcHJpbmcgSGlsbCBRTEQgNDAwMCwgQXVzdHJhbGlhIjESLwoUChIJT-DGnQJakWsRVl5NYC-WakMQrgMqFAoSCUf4JgdFWJFrEU-m3jKWISpC",
-    "tech": "FTTB",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD157100781"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.02485395,
      -27.46366747
     ]
@@ -9079,23 +9062,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157100782"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.02446773,
-     -27.46405885
-    ]
-   },
-   "properties": {
-    "name": "436 UPPER EDWARD STREET SPRING HILL 4000",
-    "locID": "EjQ0MzYgVXBwZXIgRWR3YXJkIFN0LCBTcHJpbmcgSGlsbCBRTEQgNDAwMCwgQXVzdHJhbGlhIjESLwoUChIJT-DGnQJakWsRVl5NYC-WakMQtAMqFAoSCUf4JgdFWJFrEU-m3jKWISpC",
-    "tech": "FTTB",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD157100783"
    }
   },
   {
@@ -20058,8 +20024,8 @@
    "properties": {
     "name": "203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157150104"
    }
   },
@@ -28253,7 +28219,7 @@
     "name": "UNIT 1, 93 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000085932851",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158661203"
    }
   },
@@ -30582,7 +30548,7 @@
     "name": "UNIT 2, 93 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000086013040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158665030"
    }
   },
@@ -35072,6 +35038,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158670435"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02756149,
+     -27.45663828
+    ]
+   },
+   "properties": {
+    "name": "16A KINROSS STREET SPRING HILL 4000",
+    "locID": "LOC000038379958",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD158670446"
    }
   },
   {
@@ -50848,23 +50831,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160723955"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.02445447,
-     -27.46386734
-    ]
-   },
-   "properties": {
-    "name": "442A UPPER EDWARD STREET SPRING HILL 4000",
-    "locID": "EjQ0NDIgVXBwZXIgRWR3YXJkIFN0LCBTcHJpbmcgSGlsbCBRTEQgNDAwMCwgQXVzdHJhbGlhIjESLwoUChIJT-DGnQJakWsRVl5NYC-WakMQugMqFAoSCUf4JgdFWJFrEU-m3jKWISpC",
-    "tech": "FTTB",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160725354"
    }
   },
   {
@@ -90448,23 +90414,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02425108,
-     -27.46342091
-    ]
-   },
-   "properties": {
-    "name": "470 UPPER EDWARD STREET SPRING HILL 4000",
-    "locID": "EjQ0NzAgVXBwZXIgRWR3YXJkIFN0LCBTcHJpbmcgSGlsbCBRTEQgNDAwMCwgQXVzdHJhbGlhIjESLwoUChIJT-DGnQJakWsRVl5NYC-WakMQ1gMqFAoSCUf4JgdFWJFrEU-m3jKWISpC",
-    "tech": "FTTB",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162919360"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.02790228,
      -27.45377096
     ]
@@ -90473,7 +90422,7 @@
     "name": "185 WARRY STREET SPRING HILL 4000",
     "locID": "LOC000126156588",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162920435"
    }
   },
@@ -91459,7 +91408,7 @@
     "name": "UNIT 2, 112 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000083041235",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163023096"
    }
   },
@@ -106861,7 +106810,7 @@
     "name": "UNIT 1, 97 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000094447990",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163188611"
    }
   },
@@ -107558,7 +107507,7 @@
     "name": "UNIT 1, 112 KENNIGO STREET SPRING HILL 4000",
     "locID": "LOC000084827915",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163227200"
    }
   },
@@ -126070,8 +126019,8 @@
    "properties": {
     "name": "LEVEL 3, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721140231"
    }
   },
@@ -126087,8 +126036,8 @@
    "properties": {
     "name": "LEVEL 2, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721141161"
    }
   },
@@ -126104,8 +126053,8 @@
    "properties": {
     "name": "LEVEL 1, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721142174"
    }
   },
@@ -126155,8 +126104,8 @@
    "properties": {
     "name": "SUITE 3, LEVEL 3, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189077"
    }
   },
@@ -126172,8 +126121,8 @@
    "properties": {
     "name": "SUITE 3, LEVEL 2, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189078"
    }
   },
@@ -126223,8 +126172,8 @@
    "properties": {
     "name": "SUITE 2, LEVEL 1, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189146"
    }
   },
@@ -126240,8 +126189,8 @@
    "properties": {
     "name": "SUITE 2, LEVEL 3, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189314"
    }
   },
@@ -126274,8 +126223,8 @@
    "properties": {
     "name": "SUITE 3, LEVEL 1, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189428"
    }
   },
@@ -126291,8 +126240,8 @@
    "properties": {
     "name": "SUITE 3, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189429"
    }
   },
@@ -126308,8 +126257,8 @@
    "properties": {
     "name": "SUITE 2, LEVEL 2, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189478"
    }
   },
@@ -126376,8 +126325,8 @@
    "properties": {
     "name": "SUITE 1, LEVEL 2, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721189919"
    }
   },
@@ -126410,8 +126359,8 @@
    "properties": {
     "name": "SUITE 1, LEVEL 1, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721190056"
    }
   },
@@ -126427,8 +126376,8 @@
    "properties": {
     "name": "SUITE 1, LEVEL 3, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721190112"
    }
   },
@@ -126444,8 +126393,8 @@
    "properties": {
     "name": "SUITE 2, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721190116"
    }
   },
@@ -126461,8 +126410,8 @@
    "properties": {
     "name": "SUITE 1, 203 WHARF STREET SPRING HILL 4000",
     "locID": "LOC000153509309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD721190236"
    }
   }
