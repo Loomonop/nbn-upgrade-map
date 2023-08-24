@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-24T13:16:48.496534",
+ "generated": "2023-08-24T08:01:07.709721",
  "suburb": "ESSENDON",
  "features": [
   {
@@ -492,7 +492,7 @@
     "name": "UNIT 1, 50 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000068042902",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411330901"
    }
   },
@@ -1699,7 +1699,7 @@
     "name": "UNIT 2, 7A WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000095206807",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411352720"
    }
   },
@@ -1971,7 +1971,7 @@
     "name": "UNIT 4, 2 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000071836823",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411353653"
    }
   },
@@ -2090,7 +2090,7 @@
     "name": "UNIT 1, 2 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000071552227",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411354357"
    }
   },
@@ -2379,7 +2379,7 @@
     "name": "UNIT 5, 2 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000071687305",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411357354"
    }
   },
@@ -2447,7 +2447,7 @@
     "name": "UNIT 2, 2 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000071476564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411358087"
    }
   },
@@ -2906,7 +2906,7 @@
     "name": "22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044296824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411362634"
    }
   },
@@ -3620,7 +3620,7 @@
     "name": "UNIT 1, 7A WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000095458815",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411368785"
    }
   },
@@ -3943,7 +3943,7 @@
     "name": "UNIT 3, 50 BREWSTER STREET ESSENDON 3040",
     "locID": "LOC000171662682",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411370485"
    }
   },
@@ -4215,7 +4215,7 @@
     "name": "UNIT 3, 2 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000071476564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411374838"
    }
   },
@@ -4317,7 +4317,7 @@
     "name": "UNIT 6, 2 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000071801129",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411375017"
    }
   },
@@ -4470,7 +4470,7 @@
     "name": "UNIT 3, 11 WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000067764466",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411377768"
    }
   },
@@ -4997,7 +4997,7 @@
     "name": "UNIT 2, 102 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000006065871",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412943968"
    }
   },
@@ -5014,7 +5014,7 @@
     "name": "UNIT 1, 102 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000006112395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412943972"
    }
   },
@@ -8957,8 +8957,8 @@
    "properties": {
     "name": "111 LINCOLN ROAD ESSENDON 3040",
     "locID": "LOC000013044390",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419538774"
    }
   },
@@ -11966,7 +11966,7 @@
    "properties": {
     "name": "109 TENNYSON STREET ESSENDON 3040",
     "locID": "ChIJq2smaZBc1moRhV1ylEpOk08",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419539632"
    }
@@ -12928,23 +12928,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.910745,
-     -37.747621
-    ]
-   },
-   "properties": {
-    "name": "76 RICHARDSON STREET ESSENDON 3040",
-    "locID": "LOC000104437620",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419539891"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.9104608,
      -37.7469804
     ]
@@ -13174,7 +13157,7 @@
     "name": "113 HEDDERWICK STREET ESSENDON 3040",
     "locID": "LOC000055011516",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419539984"
    }
   },
@@ -14534,7 +14517,7 @@
     "name": "61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000025904185",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419540468"
    }
   },
@@ -15571,7 +15554,7 @@
     "name": "UNIT 1, 210 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000107267130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419541327"
    }
   },
@@ -15945,7 +15928,7 @@
     "name": "UNIT 4, 2A BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015342968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419582917"
    }
   },
@@ -15962,7 +15945,7 @@
     "name": "UNIT 5, 2A BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015585762",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419582918"
    }
   },
@@ -16523,7 +16506,7 @@
     "name": "UNIT 3, 210 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000107068736",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419591489"
    }
   },
@@ -17628,7 +17611,7 @@
     "name": "UNIT 2, 60 MCPHERSON STREET ESSENDON 3040",
     "locID": "LOC000092975210",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419619947"
    }
   },
@@ -17679,7 +17662,7 @@
     "name": "UNIT 1, 16 FITZGERALD ROAD ESSENDON 3040",
     "locID": "LOC000100298195",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419625587"
    }
   },
@@ -18155,7 +18138,7 @@
     "name": "UNIT 4, 80 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000040558742",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419680979"
    }
   },
@@ -20076,7 +20059,7 @@
     "name": "UNIT 4, 8 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000070212100",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419700599"
    }
   },
@@ -20399,7 +20382,7 @@
     "name": "UNIT 7, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000026002770",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419702435"
    }
   },
@@ -20416,7 +20399,7 @@
     "name": "UNIT 9, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000026216479",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419702436"
    }
   },
@@ -20433,7 +20416,7 @@
     "name": "UNIT 11, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000025962998",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419702437"
    }
   },
@@ -21453,7 +21436,7 @@
     "name": "UNIT 3, 243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000046039087",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419709802"
    }
   },
@@ -21759,7 +21742,7 @@
     "name": "UNIT 3, 3 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081057381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419713411"
    }
   },
@@ -22218,7 +22201,7 @@
     "name": "UNIT 1, 12 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000052191478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419719167"
    }
   },
@@ -22881,7 +22864,7 @@
     "name": "2A BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015342968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419741847"
    }
   },
@@ -22932,7 +22915,7 @@
     "name": "UNIT 7, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044296824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419744707"
    }
   },
@@ -22949,7 +22932,7 @@
     "name": "UNIT 2, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044270625",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419744708"
    }
   },
@@ -22983,7 +22966,7 @@
     "name": "UNIT 1, 249 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000026869705",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419745758"
    }
   },
@@ -23000,7 +22983,7 @@
     "name": "UNIT 4, 249 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000027037776",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419745759"
    }
   },
@@ -23017,7 +23000,7 @@
     "name": "UNIT 5, 249 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000026864325",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419745760"
    }
   },
@@ -23238,7 +23221,7 @@
     "name": "UNIT 1, 80 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000043427123",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419757693"
    }
   },
@@ -29374,8 +29357,8 @@
    "properties": {
     "name": "11 SALMON AVENUE ESSENDON 3040",
     "locID": "LOC000107313322",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419842538"
    }
   },
@@ -29493,8 +29476,8 @@
    "properties": {
     "name": "59 ROSE STREET ESSENDON 3040",
     "locID": "LOC000075460321",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419842926"
    }
   },
@@ -29562,7 +29545,7 @@
     "name": "37 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000181314616",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419842949"
    }
   },
@@ -33370,7 +33353,7 @@
     "name": "UNIT 1, 2A BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015283587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419880785"
    }
   },
@@ -33625,7 +33608,7 @@
     "name": "UNIT 2, 50 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000068566993",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419884245"
    }
   },
@@ -35189,7 +35172,7 @@
     "name": "UNIT 6, 7 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081720397",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419934717"
    }
   },
@@ -35716,7 +35699,7 @@
     "name": "UNIT 1, 234 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000002864097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419978091"
    }
   },
@@ -35733,7 +35716,7 @@
     "name": "UNIT 3, 234 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000002772440",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419978092"
    }
   },
@@ -37246,7 +37229,7 @@
     "name": "UNIT 1, 306 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000096642480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419993052"
    }
   },
@@ -37263,7 +37246,7 @@
     "name": "306 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000096642480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419993053"
    }
   },
@@ -39031,7 +39014,7 @@
     "name": "UNIT 2, 41 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000056050803",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420007332"
    }
   },
@@ -39524,7 +39507,7 @@
     "name": "UNIT 2, 80 ALBION STREET ESSENDON 3040",
     "locID": "LOC000067536248",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420013590"
    }
   },
@@ -40119,7 +40102,7 @@
     "name": "2 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000071476564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420026474"
    }
   },
@@ -40442,7 +40425,7 @@
     "name": "43 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000074153986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420033663"
    }
   },
@@ -40459,7 +40442,7 @@
     "name": "UNIT 1, 43 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000073665573",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420033664"
    }
   },
@@ -40782,7 +40765,7 @@
     "name": "10 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000087708037",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420066047"
    }
   },
@@ -40850,7 +40833,7 @@
     "name": "UNIT 5, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044767694",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420070571"
    }
   },
@@ -41054,7 +41037,7 @@
     "name": "UNIT 2, 16 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000079262951",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420094477"
    }
   },
@@ -41071,7 +41054,7 @@
     "name": "UNIT 6, 16 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000079202140",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420094479"
    }
   },
@@ -42839,7 +42822,7 @@
     "name": "290 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420137467"
    }
   },
@@ -43842,7 +43825,7 @@
     "name": "75 TENNYSON STREET ESSENDON 3040",
     "locID": "LOC000012764806",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420139192"
    }
   },
@@ -49094,8 +49077,8 @@
    "properties": {
     "name": "38 PETERLEIGH GROVE ESSENDON 3040",
     "locID": "LOC000050269351",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420154881"
    }
   },
@@ -49418,7 +49401,7 @@
     "name": "250 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670628",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420155045"
    }
   },
@@ -49741,7 +49724,7 @@
     "name": "24 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000066201761",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420157698"
    }
   },
@@ -50455,7 +50438,7 @@
     "name": "102 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000006112395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420161268"
    }
   },
@@ -51883,7 +51866,7 @@
     "name": "UNIT 3, 239 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000092189839",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420192344"
    }
   },
@@ -52478,7 +52461,7 @@
     "name": "UNIT 2, 48 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000010271876",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420220928"
    }
   },
@@ -52529,7 +52512,7 @@
     "name": "UNIT 2, 77 TENNYSON STREET ESSENDON 3040",
     "locID": "LOC000007981577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420221919"
    }
   },
@@ -52597,7 +52580,7 @@
     "name": "11 RALEIGH STREET ESSENDON 3040",
     "locID": "LOC000037871823",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420223969"
    }
   },
@@ -53668,7 +53651,7 @@
     "name": "UNIT 2, 234 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000002904271",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420268831"
    }
   },
@@ -53685,7 +53668,7 @@
     "name": "UNIT 4, 234 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000002850992",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420268832"
    }
   },
@@ -54807,7 +54790,7 @@
     "name": "UNIT 5, 80 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000040695854",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420288676"
    }
   },
@@ -55912,7 +55895,7 @@
     "name": "41 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000056216885",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420298877"
    }
   },
@@ -56065,7 +56048,7 @@
     "name": "UNIT 2, 12 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000052191478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420302180"
    }
   },
@@ -56150,7 +56133,7 @@
     "name": "UNIT 8, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000026005130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420303408"
    }
   },
@@ -56745,7 +56728,7 @@
     "name": "UNIT 1, 243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000045647256",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420316713"
    }
   },
@@ -57340,7 +57323,7 @@
     "name": "UNIT 3, 80 ALBION STREET ESSENDON 3040",
     "locID": "LOC000067706075",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420328348"
    }
   },
@@ -57408,7 +57391,7 @@
     "name": "249 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000026864325",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420331248"
    }
   },
@@ -57629,7 +57612,7 @@
     "name": "80 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000040558742",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420336864"
    }
   },
@@ -57731,7 +57714,7 @@
     "name": "UNIT 4, 3 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000080848425",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420339651"
    }
   },
@@ -57850,7 +57833,7 @@
     "name": "UNIT 9, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044341634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420347622"
    }
   },
@@ -57867,7 +57850,7 @@
     "name": "UNIT 6, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000043927039",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420347623"
    }
   },
@@ -58343,7 +58326,7 @@
     "name": "UNIT 4, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044703745",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420354557"
    }
   },
@@ -58360,7 +58343,7 @@
     "name": "UNIT 3, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044232672",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420354558"
    }
   },
@@ -58377,7 +58360,7 @@
     "name": "UNIT 1, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044630526",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420354559"
    }
   },
@@ -58683,7 +58666,7 @@
     "name": "UNIT 2, 10 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000087761744",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420363981"
    }
   },
@@ -58751,7 +58734,7 @@
     "name": "74 ALBION STREET ESSENDON 3040",
     "locID": "LOC000026107688",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420364656"
    }
   },
@@ -58768,7 +58751,7 @@
     "name": "UNIT 1, 74 ALBION STREET ESSENDON 3040",
     "locID": "LOC000026107688",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420364657"
    }
   },
@@ -64327,7 +64310,7 @@
     "name": "33 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC100074595680",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420441597"
    }
   },
@@ -66791,8 +66774,8 @@
    "properties": {
     "name": "10 KIORA STREET ESSENDON 3040",
     "locID": "LOC000021923949",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420447357"
    }
   },
@@ -70039,7 +70022,7 @@
     "name": "UNIT 2, 1 GARDEN STREET ESSENDON 3040",
     "locID": "LOC000097985771",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420483873"
    }
   },
@@ -70532,7 +70515,7 @@
     "name": "UNIT 2, 221 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000076964112",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420489666"
    }
   },
@@ -70957,7 +70940,7 @@
     "name": "UNIT 4, 11 WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000067669843",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420514307"
    }
   },
@@ -71433,7 +71416,7 @@
     "name": "UNIT 3, 16 FITZGERALD ROAD ESSENDON 3040",
     "locID": "LOC000100313267",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420532388"
    }
   },
@@ -71926,7 +71909,7 @@
     "name": "UNIT 1, 8 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000070393942",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420580490"
    }
   },
@@ -71943,7 +71926,7 @@
     "name": "20 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000079340019",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420580492"
    }
   },
@@ -74340,7 +74323,7 @@
     "name": "UNIT 10, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000025904185",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420604516"
    }
   },
@@ -74510,7 +74493,7 @@
     "name": "UNIT 4, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000025892113",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420607377"
    }
   },
@@ -74527,7 +74510,7 @@
     "name": "UNIT 6, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000025904185",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420607378"
    }
   },
@@ -75088,7 +75071,7 @@
     "name": "UNIT 2, 243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000045396546",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420615960"
    }
   },
@@ -75105,7 +75088,7 @@
     "name": "UNIT 5, 243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000045377318",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420615961"
    }
   },
@@ -75547,7 +75530,7 @@
     "name": "UNIT 2, 43 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000074153986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420622975"
    }
   },
@@ -75564,7 +75547,7 @@
     "name": "UNIT 3, 43 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000074153986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420622976"
    }
   },
@@ -75904,7 +75887,7 @@
     "name": "UNIT 3, 48 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000010226512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420631300"
    }
   },
@@ -76584,7 +76567,7 @@
     "name": "UNIT 3, 10 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000087708037",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420653653"
    }
   },
@@ -76839,7 +76822,7 @@
     "name": "UNIT 3, 16 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000079188599",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420684726"
    }
   },
@@ -80851,7 +80834,7 @@
     "name": "9 COOKE STREET ESSENDON 3040",
     "locID": "LOC000059986598",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420739817"
    }
   },
@@ -84489,7 +84472,7 @@
     "name": "248 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670556",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420753845"
    }
   },
@@ -84897,7 +84880,7 @@
     "name": "294 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670853",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420756691"
    }
   },
@@ -86444,7 +86427,7 @@
     "name": "UNIT 4, 20 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000079340019",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420772426"
    }
   },
@@ -86614,7 +86597,7 @@
     "name": "UNIT 1, 1 GARDEN STREET ESSENDON 3040",
     "locID": "LOC000098060748",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420774591"
    }
   },
@@ -87124,7 +87107,7 @@
     "name": "UNIT 2, 2A BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015342968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420790409"
    }
   },
@@ -87396,7 +87379,7 @@
     "name": "UNIT 6, 2A BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015132610",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420793229"
    }
   },
@@ -87787,7 +87770,7 @@
     "name": "UNIT 5, 7 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081190455",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420811479"
    }
   },
@@ -88144,7 +88127,7 @@
     "name": "UNIT 1, 30 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000039054816",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420823073"
    }
   },
@@ -88161,7 +88144,7 @@
     "name": "UNIT 1, 11 WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000067764466",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420823115"
    }
   },
@@ -88637,7 +88620,7 @@
     "name": "UNIT 2, 80 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000040583800",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420866632"
    }
   },
@@ -90099,7 +90082,7 @@
     "name": "8 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000070393942",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420888079"
    }
   },
@@ -90116,7 +90099,7 @@
     "name": "UNIT 3, 8 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000070380640",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420888080"
    }
   },
@@ -91476,7 +91459,7 @@
     "name": "UNIT 5, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000026236861",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420913622"
    }
   },
@@ -92513,7 +92496,7 @@
     "name": "UNIT 3, 41 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000056216885",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420926900"
    }
   },
@@ -93006,7 +92989,7 @@
     "name": "UNIT 3, 249 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000026864325",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420940121"
    }
   },
@@ -96321,7 +96304,7 @@
     "name": "UNIT 1, 221 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000077320849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421031746"
    }
   },
@@ -97460,7 +97443,7 @@
     "name": "331 KEILOR ROAD ESSENDON 3040",
     "locID": "LOC000010213476",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421039747"
    }
   },
@@ -98072,7 +98055,7 @@
     "name": "38 BUCKLEY STREET ESSENDON 3040",
     "locID": "LOC000122895780",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421040925"
    }
   },
@@ -102882,8 +102865,8 @@
    "properties": {
     "name": "149 DEAKIN STREET ESSENDON 3040",
     "locID": "LOC000052987381",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421055180"
    }
   },
@@ -103902,7 +103885,7 @@
    "properties": {
     "name": "109A TENNYSON STREET ESSENDON 3040",
     "locID": "ChIJq2smaZBc1moR-Zsh_2DYqm8",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421066301"
    }
@@ -104175,7 +104158,7 @@
     "name": "10 GORDON STREET ESSENDON 3040",
     "locID": "LOC000171663811",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421082175"
    }
   },
@@ -104226,7 +104209,7 @@
     "name": "UNIT 2, 239 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000092052650",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421083519"
    }
   },
@@ -104345,7 +104328,7 @@
     "name": "7A WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000095458815",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421089493"
    }
   },
@@ -104379,7 +104362,7 @@
     "name": "880 MT ALEXANDER ROAD ESSENDON 3040",
     "locID": "LOC000021077821",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421091161"
    }
   },
@@ -104566,7 +104549,7 @@
     "name": "UNIT 1, 20 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000079115266",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421094002"
    }
   },
@@ -104583,7 +104566,7 @@
     "name": "UNIT 2, 20 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000079340019",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421094003"
    }
   },
@@ -104787,7 +104770,7 @@
     "name": "UNIT 1, 60 MCPHERSON STREET ESSENDON 3040",
     "locID": "LOC000093476040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421096392"
    }
   },
@@ -105229,7 +105212,7 @@
     "name": "UNIT 4, 7 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081376857",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421107040"
    }
   },
@@ -105348,7 +105331,7 @@
     "name": "UNIT 2, 17 ALBION STREET ESSENDON 3040",
     "locID": "LOC000001907618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421111422"
    }
   },
@@ -105450,7 +105433,7 @@
     "name": "UNIT 2, 30 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000039158514",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421119926"
    }
   },
@@ -105705,7 +105688,7 @@
     "name": "UNIT 1, 48 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000010585371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421133731"
    }
   },
@@ -105824,7 +105807,7 @@
     "name": "UNIT 2, 7 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081609792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421136064"
    }
   },
@@ -105960,7 +105943,7 @@
     "name": "77 TENNYSON STREET ESSENDON 3040",
     "locID": "LOC000007981577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421152185"
    }
   },
@@ -107881,7 +107864,7 @@
     "name": "80 ALBION STREET ESSENDON 3040",
     "locID": "LOC000067536248",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421198563"
    }
   },
@@ -107966,7 +107949,7 @@
     "name": "UNIT 3, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000025904185",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421200961"
    }
   },
@@ -109632,7 +109615,7 @@
     "name": "UNIT 2, 3 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000080991430",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421225738"
    }
   },
@@ -109853,7 +109836,7 @@
     "name": "UNIT 3, 12 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000052191478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421226018"
    }
   },
@@ -110652,7 +110635,7 @@
     "name": "UNIT 1, 41 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000056216885",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421233787"
    }
   },
@@ -110737,7 +110720,7 @@
     "name": "3 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081057381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421236626"
    }
   },
@@ -111417,7 +111400,7 @@
     "name": "UNIT 4, 10 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000087774722",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421275566"
    }
   },
@@ -111536,7 +111519,7 @@
     "name": "UNIT 3, 74 ALBION STREET ESSENDON 3040",
     "locID": "LOC000026113134",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421290158"
    }
   },
@@ -111689,7 +111672,7 @@
     "name": "UNIT 1, 16 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000079160323",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421311978"
    }
   },
@@ -111706,7 +111689,7 @@
     "name": "UNIT 4, 16 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000079354788",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421311984"
    }
   },
@@ -118132,7 +118115,7 @@
     "name": "10 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000030251539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421352794"
    }
   },
@@ -120308,7 +120291,7 @@
     "name": "239 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000092023760",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421360074"
    }
   },
@@ -121549,7 +121532,7 @@
     "name": "UNIT 2, 210 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000107267130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421368478"
    }
   },
@@ -121991,7 +121974,7 @@
     "name": "UNIT 1, 239 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000092023760",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421389116"
    }
   },
@@ -122705,7 +122688,7 @@
     "name": "UNIT 3, 20 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000079340019",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421404368"
    }
   },
@@ -123674,7 +123657,7 @@
     "name": "234 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000002864097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421452188"
    }
   },
@@ -123946,7 +123929,7 @@
     "name": "UNIT 2, 16 FITZGERALD ROAD ESSENDON 3040",
     "locID": "LOC000100444077",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421471688"
    }
   },
@@ -123963,7 +123946,7 @@
     "name": "UNIT 3, 77 TENNYSON STREET ESSENDON 3040",
     "locID": "LOC000008014704",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421471693"
    }
   },
@@ -124031,7 +124014,7 @@
     "name": "UNIT 1, 7 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081292518",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421478126"
    }
   },
@@ -124048,7 +124031,7 @@
     "name": "UNIT 3, 7 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081497370",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421478127"
    }
   },
@@ -125595,7 +125578,7 @@
     "name": "UNIT 7, 243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000045581956",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421501060"
    }
   },
@@ -125612,7 +125595,7 @@
     "name": "UNIT 4, 243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000045877435",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421501061"
    }
   },
@@ -125629,7 +125612,7 @@
     "name": "UNIT 6, 243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000045334243",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421501062"
    }
   },
@@ -126071,7 +126054,7 @@
     "name": "UNIT 1, 3 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000080984011",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421508710"
    }
   },
@@ -126751,7 +126734,7 @@
     "name": "UNIT 1, 80 ALBION STREET ESSENDON 3040",
     "locID": "LOC000067582894",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421518618"
    }
   },
@@ -126921,7 +126904,7 @@
     "name": "UNIT 1, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000025904185",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421522137"
    }
   },
@@ -126938,7 +126921,7 @@
     "name": "UNIT 2, 61 VANBERG ROAD ESSENDON 3040",
     "locID": "LOC000026119339",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421522138"
    }
   },
@@ -128740,7 +128723,7 @@
     "name": "UNIT 3, 80 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000040713214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421536552"
    }
   },
@@ -129301,7 +129284,7 @@
     "name": "UNIT 2, 74 ALBION STREET ESSENDON 3040",
     "locID": "LOC000026232431",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421567381"
    }
   },
@@ -129471,7 +129454,7 @@
     "name": "UNIT 2, 249 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000026864325",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421579437"
    }
   },
@@ -129539,7 +129522,7 @@
     "name": "50 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000068042902",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421585822"
    }
   },
@@ -131902,7 +131885,7 @@
     "name": "275 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000059204321",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421632145"
    }
   },
@@ -132667,7 +132650,7 @@
     "name": "127-131 NAPIER STREET ESSENDON 3040",
     "locID": "LOC000083318961",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421632827"
    }
   },
@@ -135336,7 +135319,7 @@
     "name": "UNIT 1, 17 ALBION STREET ESSENDON 3040",
     "locID": "LOC000001907618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421649265"
    }
   },
@@ -136033,7 +136016,7 @@
     "name": "UNIT 5, 16 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000078876311",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421651683"
    }
   },
@@ -137614,7 +137597,7 @@
     "name": "UNIT 3, 2A BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015342968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421667796"
    }
   },
@@ -140453,7 +140436,7 @@
     "name": "UNIT 4, 239 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000091944203",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421704279"
    }
   },
@@ -141116,7 +141099,7 @@
     "name": "UNIT 4, 48 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000010173835",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421714047"
    }
   },
@@ -141371,7 +141354,7 @@
     "name": "UNIT 2, 11 WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000067096095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421732843"
    }
   },
@@ -141388,7 +141371,7 @@
     "name": "50 BREWSTER STREET ESSENDON 3040",
     "locID": "LOC000171662682",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421738726"
    }
   },
@@ -141575,7 +141558,7 @@
     "name": "UNIT 3, 30 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000039488873",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421750712"
    }
   },
@@ -141694,7 +141677,7 @@
     "name": "UNIT 3, 60 MCPHERSON STREET ESSENDON 3040",
     "locID": "LOC000093256646",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421767536"
    }
   },
@@ -143190,7 +143173,7 @@
     "name": "UNIT 2, 8 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000070568956",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421801255"
    }
   },
@@ -143207,7 +143190,7 @@
     "name": "UNIT 5, 8 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000070456488",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421801256"
    }
   },
@@ -143955,7 +143938,7 @@
     "name": "18 AGATHA STREET ESSENDON 3040",
     "locID": "LOC000047662578",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421806769"
    }
   },
@@ -144584,7 +144567,7 @@
     "name": "UNIT 4, 41 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000056322210",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421813967"
    }
   },
@@ -145230,7 +145213,7 @@
     "name": "UNIT 2, 306 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000097005755",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421823474"
    }
   },
@@ -145553,7 +145536,7 @@
     "name": "243 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000045396546",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421827791"
    }
   },
@@ -145825,7 +145808,7 @@
     "name": "UNIT 8, 22 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044669255",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421839532"
    }
   },
@@ -146199,7 +146182,7 @@
     "name": "UNIT 1, 10 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000087708037",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421868573"
    }
   },
@@ -146216,7 +146199,7 @@
     "name": "UNIT 5, 10 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000088451189",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421868574"
    }
   },
@@ -147695,7 +147678,7 @@
     "name": "20 BUTLER STREET ESSENDON 3040",
     "locID": "LOC000171662726",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421913940"
    }
   },
@@ -148392,7 +148375,7 @@
     "name": "1C ARDOCH STREET ESSENDON 3040",
     "locID": "LOC000045920297",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421939468"
    }
   },
@@ -149123,7 +149106,7 @@
     "name": "16 FITZGERALD ROAD ESSENDON 3040",
     "locID": "LOC000100444077",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422022076"
    }
   },
@@ -149157,7 +149140,7 @@
     "name": "30 LAWSON STREET ESSENDON 3040",
     "locID": "LOC000039054816",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422022362"
    }
   },
@@ -149225,7 +149208,7 @@
     "name": "48 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000010585371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422023433"
    }
   },
@@ -149412,7 +149395,7 @@
     "name": "4-6 NAPIER STREET ESSENDON 3040",
     "locID": "LOC000171670265",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422030678"
    }
   },
@@ -149667,7 +149650,7 @@
     "name": "17 ALBION STREET ESSENDON 3040",
     "locID": "LOC000001907618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422076237"
    }
   },
@@ -150551,7 +150534,7 @@
     "name": "7 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000081609792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422091139"
    }
   },
@@ -150602,7 +150585,7 @@
     "name": "1 GARDEN STREET ESSENDON 3040",
     "locID": "LOC000098060748",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422091947"
    }
   },
@@ -150806,7 +150789,7 @@
     "name": "16 HODDLE STREET ESSENDON 3040",
     "locID": "LOC000079354788",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422095805"
    }
   },
@@ -151180,7 +151163,7 @@
     "name": "60 MCPHERSON STREET ESSENDON 3040",
     "locID": "LOC000093476040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422103356"
    }
   },
@@ -151265,7 +151248,7 @@
     "name": "12 NAPIER CRESCENT ESSENDON 3040",
     "locID": "LOC000052191478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422105332"
    }
   },
@@ -151469,7 +151452,7 @@
     "name": "210 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000107267130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422107854"
    }
   },
@@ -151486,7 +151469,7 @@
     "name": "221 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000076964112",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422107855"
    }
   },
@@ -151979,7 +151962,7 @@
     "name": "11 WISEMAN COURT ESSENDON 3040",
     "locID": "LOC000067764466",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422121186"
    }
   },
@@ -153083,7 +153066,7 @@
    "properties": {
     "name": "8A VANBERG ROAD ESSENDON 3040",
     "locID": "ChIJGbb1pppc1moR8G5n87J3ITQ",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423238945"
    }
@@ -154324,8 +154307,8 @@
    "properties": {
     "name": "133B BRADSHAW STREET ESSENDON 3040",
     "locID": "LOC000089655432",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC423520781"
    }
   },
@@ -157572,7 +157555,7 @@
     "name": "UNIT 1, 1C ARDOCH STREET ESSENDON 3040",
     "locID": "LOC000045920297",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423846305"
    }
   },
@@ -157589,7 +157572,7 @@
     "name": "UNIT 2, 1C ARDOCH STREET ESSENDON 3040",
     "locID": "LOC000045920297",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423846306"
    }
   },
@@ -158949,7 +158932,7 @@
     "name": "UNIT 1, 10 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000030251539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424040331"
    }
   },
@@ -158966,7 +158949,7 @@
     "name": "UNIT 2, 10 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000030243626",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424040332"
    }
   },
@@ -158983,7 +158966,7 @@
     "name": "UNIT 3, 10 KENDALL STREET ESSENDON 3040",
     "locID": "LOC000030251539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424040333"
    }
   },
@@ -159527,7 +159510,7 @@
     "name": "UNIT 2, 3 BUTLER STREET ESSENDON 3040",
     "locID": "LOC000015117781",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424042905"
    }
   },
@@ -159833,7 +159816,7 @@
     "name": "UNIT 1, 18 AGATHA STREET ESSENDON 3040",
     "locID": "LOC000047662578",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424233429"
    }
   },
@@ -159867,7 +159850,7 @@
     "name": "UNIT 3, 18 AGATHA STREET ESSENDON 3040",
     "locID": "LOC000047662578",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424233431"
    }
   },
@@ -159884,7 +159867,7 @@
     "name": "UNIT 4, 18 AGATHA STREET ESSENDON 3040",
     "locID": "LOC000047662578",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424233432"
    }
   },
@@ -159901,7 +159884,7 @@
     "name": "UNIT 5, 18 AGATHA STREET ESSENDON 3040",
     "locID": "LOC000047628203",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424233433"
    }
   },
@@ -162128,7 +162111,7 @@
     "name": "1-3 MORELAND ROAD ESSENDON 3040",
     "locID": "LOC000181315658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424499774"
    }
   },
@@ -168112,7 +168095,7 @@
     "name": "SUITE 1, 127-131 NAPIER STREET ESSENDON 3040",
     "locID": "LOC000083318961",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424930096"
    }
   },
@@ -168129,7 +168112,7 @@
     "name": "SUITE 2, 127-131 NAPIER STREET ESSENDON 3040",
     "locID": "LOC000083318961",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424930097"
    }
   },
@@ -172872,7 +172855,7 @@
     "name": "UNIT 1, 248 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670541",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230828"
    }
   },
@@ -172889,7 +172872,7 @@
     "name": "UNIT 1, 250 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670628",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230829"
    }
   },
@@ -172906,7 +172889,7 @@
     "name": "UNIT 2, 248 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670556",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230830"
    }
   },
@@ -172923,7 +172906,7 @@
     "name": "UNIT 2, 250 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670628",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230831"
    }
   },
@@ -172940,7 +172923,7 @@
     "name": "UNIT 3, 248 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230832"
    }
   },
@@ -172957,7 +172940,7 @@
     "name": "UNIT 3, 250 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670616",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230833"
    }
   },
@@ -172974,7 +172957,7 @@
     "name": "UNIT 4, 248 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670573",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230834"
    }
   },
@@ -172991,7 +172974,7 @@
     "name": "UNIT 4, 250 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670628",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230835"
    }
   },
@@ -173008,7 +172991,7 @@
     "name": "UNIT 5, 248 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230836"
    }
   },
@@ -173025,7 +173008,7 @@
     "name": "UNIT 5, 250 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670637",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425230837"
    }
   },
@@ -177122,7 +177105,7 @@
     "name": "UNIT 1, 290 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425340650"
    }
   },
@@ -177139,7 +177122,7 @@
     "name": "UNIT 2, 290 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670830",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425340651"
    }
   },
@@ -177156,7 +177139,7 @@
     "name": "UNIT 3, 290 PASCOE VALE ROAD ESSENDON 3040",
     "locID": "LOC000171670848",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425340652"
    }
   },
@@ -178431,7 +178414,7 @@
     "name": "2 LEILA STREET ESSENDON 3040",
     "locID": "LOC000171664244",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425466940"
    }
   },
@@ -193238,7 +193221,7 @@
     "name": "UNIT 2, 8 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000044669255",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719418614"
    }
   },
@@ -193323,7 +193306,7 @@
     "name": "UNIT 1, 8 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000171663671",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719420757"
    }
   },
@@ -194003,7 +193986,7 @@
     "name": "UNIT 4, 8 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC000171663709",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719431244"
    }
   },
@@ -196162,7 +196145,7 @@
     "name": "UNIT 2, 33 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC100074595667",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719607528"
    }
   },
@@ -196519,7 +196502,7 @@
     "name": "UNIT 1, 33 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC100074595651",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719616956"
    }
   },
@@ -196570,7 +196553,7 @@
     "name": "UNIT 3, 33 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC100074595679",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719618013"
    }
   },
@@ -196621,7 +196604,7 @@
     "name": "UNIT 4, 33 FLETCHER STREET ESSENDON 3040",
     "locID": "LOC100074595680",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719620879"
    }
   },
@@ -207671,7 +207654,7 @@
     "name": "1 MORELAND ROAD ESSENDON 3040",
     "locID": "LOC000181314671",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC720505278"
    }
   },
