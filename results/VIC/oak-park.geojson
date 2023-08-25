@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-26T15:51:59.976550",
+ "generated": "2023-08-25T07:57:26.640315",
  "suburb": "OAK PARK",
  "features": [
   {
@@ -9409,23 +9409,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.919755,
-     -37.720502
-    ]
-   },
-   "properties": {
-    "name": "14 XAVIER STREET OAK PARK 3046",
-    "locID": "LOC000102341338",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC419933482"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.919608,
      -37.720103
     ]
@@ -9858,8 +9841,8 @@
    "properties": {
     "name": "102 VINCENT STREET OAK PARK 3046",
     "locID": "LOC000031855287",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC419934444"
    }
   },
@@ -21775,7 +21758,7 @@
    "properties": {
     "name": "6 HERMIONE AVENUE OAK PARK 3046",
     "locID": "ChIJ3bHbZg9b1moRQGI9BBG73ck",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420822899"
    }
@@ -23560,8 +23543,8 @@
    "properties": {
     "name": "7 VALDOONE COURT OAK PARK 3046",
     "locID": "LOC000104707307",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420847094"
    }
   },
@@ -24549,23 +24532,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420863006"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.926233,
-     -37.716849
-    ]
-   },
-   "properties": {
-    "name": "74 SNELL GROVE OAK PARK 3046",
-    "locID": "LOC000074928215",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC420863007"
    }
   },
   {
@@ -26756,8 +26722,8 @@
    "properties": {
     "name": "72 WINIFRED STREET OAK PARK 3046",
     "locID": "LOC000028497567",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421121605"
    }
   },
@@ -30429,7 +30395,7 @@
     "name": "41 NEW ROAD OAK PARK 3046",
     "locID": "LOC000073597096",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421401453"
    }
   },
@@ -31210,8 +31176,8 @@
    "properties": {
     "name": "23 XAVIER STREET OAK PARK 3046",
     "locID": "LOC000026900001",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421431079"
    }
   },
@@ -35800,8 +35766,8 @@
    "properties": {
     "name": "4 BARINA ROAD OAK PARK 3046",
     "locID": "LOC000059550601",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421735979"
    }
   },
@@ -61215,7 +61181,7 @@
    "properties": {
     "name": "UNIT 3, 6 HERMIONE AVENUE OAK PARK 3046",
     "locID": "ChIJ3bHbZg9b1moRQGI9BBG73ck",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721057809"
    }
@@ -61232,7 +61198,7 @@
    "properties": {
     "name": "UNIT 2, 6 HERMIONE AVENUE OAK PARK 3046",
     "locID": "ChIJ3bHbZg9b1moRQGI9BBG73ck",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721057989"
    }
@@ -61249,7 +61215,7 @@
    "properties": {
     "name": "UNIT 1, 6 HERMIONE AVENUE OAK PARK 3046",
     "locID": "ChIJ3bHbZg9b1moRQGI9BBG73ck",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721058782"
    }
