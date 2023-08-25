@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-27T01:49:38.226778",
+ "generated": "2023-08-25T15:01:29.501097",
  "suburb": "ROSANNA",
  "features": [
   {
@@ -3450,7 +3450,7 @@
     "name": "UNIT 1, 53 BEETHAM PARADE ROSANNA 3084",
     "locID": "LOC000055890491",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC413239812"
    }
   },
@@ -5133,7 +5133,7 @@
     "name": "5 MILFORD GROVE ROSANNA 3084",
     "locID": "LOC000060752334",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419554777"
    }
   },
@@ -6238,7 +6238,7 @@
     "name": "5 MERCEDES COURT ROSANNA 3084",
     "locID": "LOC000036794995",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419555414"
    }
   },
@@ -6580,23 +6580,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419555583"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.066421,
-     -37.732922
-    ]
-   },
-   "properties": {
-    "name": "8 BRAESIDE AVENUE ROSANNA 3084",
-    "locID": "LOC000036721906",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC419555655"
    }
   },
   {
@@ -8685,8 +8668,8 @@
    "properties": {
     "name": "107 ST JAMES ROAD ROSANNA 3084",
     "locID": "LOC000070990297",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419560585"
    }
   },
@@ -10539,7 +10522,7 @@
     "name": "UNIT 1, 197 ROSANNA ROAD ROSANNA 3084",
     "locID": "LOC000106349939",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419778922"
    }
   },
@@ -12544,8 +12527,8 @@
    "properties": {
     "name": "84 HODGSON STREET ROSANNA 3084",
     "locID": "LOC000104968965",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419857834"
    }
   },
@@ -18851,8 +18834,8 @@
    "properties": {
     "name": "41 RUTHVEN STREET ROSANNA 3084",
     "locID": "LOC000191406679",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420144932"
    }
   },
@@ -19956,8 +19939,8 @@
    "properties": {
     "name": "121 FINLAYSON STREET ROSANNA 3084",
     "locID": "LOC000094160552",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420150669"
    }
   },
@@ -24631,8 +24614,8 @@
    "properties": {
     "name": "41 ST ANDREWS AVENUE ROSANNA 3084",
     "locID": "LOC000058779517",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420380049"
    }
   },
@@ -25634,8 +25617,8 @@
    "properties": {
     "name": "24 SILK STREET ROSANNA 3084",
     "locID": "LOC000086622766",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420452092"
    }
   },
@@ -31312,8 +31295,8 @@
    "properties": {
     "name": "UNIT 2, 204 MOUNTAIN VIEW PARADE ROSANNA 3084",
     "locID": "LOC000091215573",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420642618"
    }
   },
@@ -32605,7 +32588,7 @@
     "name": "6 GRENHILDA ROAD ROSANNA 3084",
     "locID": "LOC000091535851",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420741214"
    }
   },
@@ -32808,8 +32791,8 @@
    "properties": {
     "name": "19 DOUGLAS STREET ROSANNA 3084",
     "locID": "LOC000075052534",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420752211"
    }
   },
@@ -36531,8 +36514,8 @@
    "properties": {
     "name": "15 ST ANDREWS AVENUE ROSANNA 3084",
     "locID": "LOC000097178131",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420772396"
    }
   },
@@ -39098,8 +39081,8 @@
    "properties": {
     "name": "UNIT 1, 204 MOUNTAIN VIEW PARADE ROSANNA 3084",
     "locID": "LOC000091215573",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420950493"
    }
   },
@@ -39932,7 +39915,7 @@
     "name": "84 WAIORA ROAD ROSANNA 3084",
     "locID": "LOC000067216094",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421055930"
    }
   },
@@ -39982,8 +39965,8 @@
    "properties": {
     "name": "29 DOBSON AVENUE ROSANNA 3084",
     "locID": "LOC000060095451",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421059382"
    }
   },
@@ -40493,7 +40476,7 @@
     "name": "6 GREVILLE ROAD ROSANNA 3084",
     "locID": "LOC000039705272",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421063912"
    }
   },
@@ -43443,23 +43426,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.06415264,
-     -37.7397527
-    ]
-   },
-   "properties": {
-    "name": "44 BELLEVUE AVENUE ROSANNA 3084",
-    "locID": "LOC000062356703",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421085885"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.064147,
      -37.737427
     ]
@@ -43875,8 +43841,8 @@
    "properties": {
     "name": "278 LOWER PLENTY ROAD ROSANNA 3084",
     "locID": "LOC000050743318",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421087872"
    }
   },
@@ -50013,7 +49979,7 @@
     "name": "53 BEETHAM PARADE ROSANNA 3084",
     "locID": "LOC000055890491",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421406251"
    }
   },
@@ -52750,7 +52716,7 @@
     "name": "7 PHILLIPS CRESCENT ROSANNA 3084",
     "locID": "LOC000067519388",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421629885"
    }
   },
@@ -52988,7 +52954,7 @@
     "name": "52 ST ANDREWS AVENUE ROSANNA 3084",
     "locID": "LOC000079053202",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421656330"
    }
   },
@@ -53701,8 +53667,8 @@
    "properties": {
     "name": "30 MIRIAM STREET ROSANNA 3084",
     "locID": "LOC000034907649",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421666516"
    }
   },
@@ -56200,8 +56166,8 @@
    "properties": {
     "name": "1 GREVILLE ROAD ROSANNA 3084",
     "locID": "LOC000018603725",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421695843"
    }
   },
@@ -56268,8 +56234,8 @@
    "properties": {
     "name": "7 ROWELL STREET ROSANNA 3084",
     "locID": "LOC000086345674",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421696379"
    }
   },
@@ -59005,8 +58971,8 @@
    "properties": {
     "name": "UNIT 1, 20 BEETHAM PARADE ROSANNA 3084",
     "locID": "LOC000039353667",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421881573"
    }
   },
@@ -59124,8 +59090,8 @@
    "properties": {
     "name": "195A ROSANNA ROAD ROSANNA 3084",
     "locID": "LOC000092983794",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421930087"
    }
   },
@@ -60162,7 +60128,7 @@
     "name": "5 MIRIAM STREET ROSANNA 3084",
     "locID": "LOC000066898460",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422310177"
    }
   },
@@ -61964,7 +61930,7 @@
     "name": "UNIT 1, 52 ST ANDREWS AVENUE ROSANNA 3084",
     "locID": "LOC000079053202",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423771994"
    }
   },
@@ -63850,7 +63816,7 @@
    "properties": {
     "name": "UNIT 20, 54 BEETHAM PARADE ROSANNA 3084",
     "locID": "LOC000020352503",
-    "tech": "FTTB",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424485291"
    }
@@ -63867,7 +63833,7 @@
    "properties": {
     "name": "UNIT 2, 54 BEETHAM PARADE ROSANNA 3084",
     "locID": "LOC000020352503",
-    "tech": "FTTB",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424485292"
    }
@@ -65941,8 +65907,8 @@
    "properties": {
     "name": "UNIT 2, 54 LOWER PLENTY ROAD ROSANNA 3084",
     "locID": "LOC000123617058",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424913684"
    }
   },
@@ -68661,8 +68627,8 @@
    "properties": {
     "name": "UNIT 3, 46 STATION ROAD ROSANNA 3084",
     "locID": "LOC000167862061",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719107522"
    }
   },
