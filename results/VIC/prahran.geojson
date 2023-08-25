@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-26T21:28:42.172606",
+ "generated": "2023-08-25T12:16:25.905580",
  "suburb": "PRAHRAN",
  "features": [
   {
@@ -16811,8 +16811,8 @@
    "properties": {
     "name": "36 NOTTINGHAM STREET PRAHRAN 3181",
     "locID": "LOC000047667592",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419596458"
    }
   },
@@ -31108,8 +31108,8 @@
    "properties": {
     "name": "22 MACKAY STREET PRAHRAN 3181",
     "locID": "LOC000012127016",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419905217"
    }
   },
@@ -85406,8 +85406,8 @@
    "properties": {
     "name": "79B PERTH STREET PRAHRAN 3181",
     "locID": "LOC000091658288",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421109900"
    }
   },
@@ -111944,7 +111944,7 @@
     "name": "30 CLIFTON STREET PRAHRAN 3181",
     "locID": "LOC000065676402",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421770659"
    }
   },
@@ -123639,8 +123639,8 @@
    "properties": {
     "name": "56 GREVILLE STREET PRAHRAN 3181",
     "locID": "LOC000114334389",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423072879"
    }
   },
@@ -126787,6 +126787,23 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423625811"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99531954,
+     -37.85137492
+    ]
+   },
+   "properties": {
+    "name": "UNIT 17, FLOOR 2, 10 CLIFTON STREET PRAHRAN 3181",
+    "locID": "LOC100070000631",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC423625812"
    }
   },
   {
