@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-07-27T00:43:29.998672",
+ "generated": "2023-08-25T14:16:04.711350",
  "suburb": "RINGWOOD",
  "features": [
   {
@@ -15434,8 +15434,8 @@
    "properties": {
     "name": "19 MONTANUS COURT RINGWOOD 3134",
     "locID": "LOC000056515885",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC419585932"
    }
   },
@@ -30992,23 +30992,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419895636"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.228582,
-     -37.825368
-    ]
-   },
-   "properties": {
-    "name": "40 IRELAND STREET RINGWOOD 3134",
-    "locID": "LOC000022659045",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419896141"
    }
   },
   {
@@ -59821,8 +59804,8 @@
    "properties": {
     "name": "30 BERKLEY ROAD RINGWOOD 3134",
     "locID": "LOC000076362172",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420480715"
    }
   },
@@ -85722,6 +85705,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.23358656,
+     -37.81608003
+    ]
+   },
+   "properties": {
+    "name": "24 BEDFORD ROAD RINGWOOD 3134",
+    "locID": "LOC000090940385",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420903916"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.22577956,
      -37.81666574
     ]
@@ -108339,7 +108339,7 @@
    "properties": {
     "name": "54 FORD STREET RINGWOOD 3134",
     "locID": "ChIJmfC6m9o71moRH2Tjbp4R1_A",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421397302"
    }
@@ -118998,7 +118998,7 @@
    "properties": {
     "name": "9 HOBART STREET RINGWOOD 3134",
     "locID": "LOC000193340173",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421664748"
    }
@@ -127926,23 +127926,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421763372"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.235439,
-     -37.803139
-    ]
-   },
-   "properties": {
-    "name": "15 STRATHALLYN ROAD RINGWOOD 3134",
-    "locID": "LOC000048446817",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421763373"
    }
   },
   {
@@ -159604,6 +159587,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.22495739,
+     -37.81684261
+    ]
+   },
+   "properties": {
+    "name": "SUITE 3, LEVEL 1, 88 MAROONDAH HIGHWAY RINGWOOD 3134",
+    "locID": "LOC000031902693",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424914053"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.23094493,
      -37.81494288
     ]
@@ -162130,6 +162130,23 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425087016"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.22960439,
+     -37.81484462
+    ]
+   },
+   "properties": {
+    "name": "SHOP 50, LEVEL 1, 175 MAROONDAH HIGHWAY RINGWOOD 3134",
+    "locID": "LOC000153335330",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425087017"
    }
   },
   {
@@ -181131,6 +181148,23 @@
     ]
    },
    "properties": {
+    "name": "SHOP 125A, LEVEL 2, 175 MAROONDAH HIGHWAY RINGWOOD 3134",
+    "locID": "LOC000153335330",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425783388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.22960439,
+     -37.81484462
+    ]
+   },
+   "properties": {
     "name": "SHOP 13A, LEVEL 2, 175 MAROONDAH HIGHWAY RINGWOOD 3134",
     "locID": "LOC000153335330",
     "tech": "NULL",
@@ -188038,40 +188072,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719456931"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.24043476,
-     -37.81877932
-    ]
-   },
-   "properties": {
-    "name": "17 LENA GROVE RINGWOOD 3134",
-    "locID": "EisxNyBMZW5hIEdyb3ZlLCBSaW5nd29vZCBWSUMgMzEzNCwgQXVzdHJhbGlhIjASLgoUChIJmWJB5M471moR6CUoiC30pEcQESoUChIJSyCQ7c471moRh9Z9TYbjV50",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC719457647"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.24043476,
-     -37.81877932
-    ]
-   },
-   "properties": {
-    "name": "15 LENA GROVE RINGWOOD 3134",
-    "locID": "EisxNSBMZW5hIEdyb3ZlLCBSaW5nd29vZCBWSUMgMzEzNCwgQXVzdHJhbGlhIjASLgoUChIJmWJB5M471moR6CUoiC30pEcQDyoUChIJSyCQ7c471moRh9Z9TYbjV50",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC719459430"
    }
   },
   {
@@ -214283,7 +214283,7 @@
    "properties": {
     "name": "9A HOBART STREET RINGWOOD 3134",
     "locID": "LOC000193340194",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721213239"
    }
