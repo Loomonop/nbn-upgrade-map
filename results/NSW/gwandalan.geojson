@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T15:24:56.090236",
+ "generated": "2023-08-27T21:07:54.401310",
  "suburb": "GWANDALAN",
  "features": [
   {
@@ -11218,8 +11218,8 @@
    "properties": {
     "name": "27 WINBIN CRESCENT GWANDALAN 2259",
     "locID": "LOC000033153873",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704917640"
    }
   },
@@ -11524,8 +11524,8 @@
    "properties": {
     "name": "4 AROONA CLOSE GWANDALAN 2259",
     "locID": "LOC000070295471",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704917758"
    }
   },
@@ -30438,6 +30438,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.57796883,
+     -33.13106498
+    ]
+   },
+   "properties": {
+    "name": "170 KANANGRA DRIVE GWANDALAN 2259",
+    "locID": "ChIJCbmbKhcnc2sRWz48NFUIL_4",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720009528"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.58115217,
      -33.1317111
     ]
@@ -32060,7 +32077,7 @@
    "properties": {
     "name": "38A PENINSULAR DRIVE GWANDALAN 2259",
     "locID": "ChIJX7WV7Bcnc2sRa1dTrqZHT5M",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720901724"
    }
