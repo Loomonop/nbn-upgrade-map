@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T07:25:34.685967",
+ "generated": "2023-08-27T13:13:28.913502",
  "suburb": "NAROOMA",
  "features": [
   {
@@ -16743,8 +16743,8 @@
    "properties": {
     "name": "8 GARETH AVENUE NAROOMA 2546",
     "locID": "LOC000057346805",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705492345"
    }
   },
@@ -36381,6 +36381,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718262661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.13499328,
+     -36.22354682
+    ]
+   },
+   "properties": {
+    "name": "1 HARPER CRESCENT NAROOMA 2546",
+    "locID": "LOC000094703913",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718263713"
    }
   },
   {
