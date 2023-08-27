@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T08:06:32.497636",
+ "generated": "2023-08-27T13:56:21.918315",
  "suburb": "THRUMSTER",
  "features": [
   {
@@ -406,8 +406,8 @@
    "properties": {
     "name": "14 THRUMSTER STREET THRUMSTER 2444",
     "locID": "LOC000019325561",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706487564"
    }
   },
@@ -23407,7 +23407,7 @@
    "properties": {
     "name": "304 JOHN OXLEY DRIVE THRUMSTER 2444",
     "locID": "EjAzMDQgSm9obiBPeGxleSBEciwgVGhydW1zdGVyIE5TVyAyNDQ0LCBBdXN0cmFsaWEiMRIvChQKEglVYOJZIAB2axHoiqfGBq-FYxCwAioUChIJzb6pzob_nWsRBcWEiWt-PRo",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721238865"
    }
@@ -23631,6 +23631,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721241589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.82331025,
+     -31.47286289
+    ]
+   },
+   "properties": {
+    "name": "22 FARMSTEAD AVENUE THRUMSTER 2444",
+    "locID": "ChIJiypkTN7_dWsREAhGsRvT0fc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721242004"
    }
   },
   {
