@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T00:37:44.295842",
+ "generated": "2023-08-27T06:39:44.059923",
  "suburb": "BELLINGEN",
  "features": [
   {
@@ -2531,8 +2531,8 @@
    "properties": {
     "name": "20 CORONATION STREET BELLINGEN 2454",
     "locID": "LOC000071225269",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704069540"
    }
   },
@@ -20194,8 +20194,8 @@
    "properties": {
     "name": "5 CROWN STREET BELLINGEN 2454",
     "locID": "LOC000051625871",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712253275"
    }
   },
@@ -34321,8 +34321,8 @@
    "properties": {
     "name": "4 RED CEDAR PLACE BELLINGEN 2454",
     "locID": "LOC000113896225",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718172232"
    }
   },
@@ -36286,6 +36286,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.89492964,
+     -30.45319643
+    ]
+   },
+   "properties": {
+    "name": "18 WILLIAM STREET LANE BELLINGEN 2454",
+    "locID": "ChIJh7HL2d0hnGsRWxoEcuRvloU",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW719065436"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.89530463,
      -30.4553828
     ]
@@ -37602,8 +37619,8 @@
    "properties": {
     "name": "UNIT 1, 4 RED CEDAR PLACE BELLINGEN 2454",
     "locID": "LOC000113896225",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720436051"
    }
   },
