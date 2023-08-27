@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T09:36:36.405492",
+ "generated": "2023-08-27T15:24:16.400144",
  "suburb": "BRUNSWICK HEADS",
  "features": [
   {
@@ -7631,8 +7631,8 @@
    "properties": {
     "name": "2 OMEGA CIRCUIT BRUNSWICK HEADS 2483",
     "locID": "LOC000039860787",
-    "tech": "WIRELESS",
-    "upgrade": "FTTN_NA",
+    "tech": "FTTN",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GANSW704246216"
    }
   },
@@ -27184,6 +27184,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721242477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.54705066,
+     -28.54058403
+    ]
+   },
+   "properties": {
+    "name": "28 SLESSOR LANE BRUNSWICK HEADS 2483",
+    "locID": "ChIJOdH45cSKkGsRq0sIw_6FnCQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721242684"
    }
   },
   {
