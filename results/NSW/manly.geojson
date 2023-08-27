@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-06T21:03:48.299930",
+ "generated": "2023-08-27T03:51:12.415015",
  "suburb": "MANLY",
  "features": [
   {
@@ -4555,7 +4555,7 @@
     "name": "27 ADDISON ROAD MANLY 2095",
     "locID": "LOC000021372187",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705266426"
    }
   },
@@ -39099,7 +39099,7 @@
     "name": "21 HIGH STREET MANLY 2095",
     "locID": "LOC000101854374",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705272959"
    }
   },
@@ -53276,7 +53276,7 @@
    "properties": {
     "name": "138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705275649"
    }
@@ -53293,7 +53293,7 @@
    "properties": {
     "name": "139 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705275650"
    }
@@ -59940,8 +59940,8 @@
    "properties": {
     "name": "85 STUART STREET MANLY 2095",
     "locID": "LOC000033019624",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705277012"
    }
   },
@@ -84607,7 +84607,7 @@
    "properties": {
     "name": "UNIT 1B, 138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708162261"
    }
@@ -86494,7 +86494,7 @@
    "properties": {
     "name": "UNIT 1A, 138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708168192"
    }
@@ -86970,7 +86970,7 @@
    "properties": {
     "name": "UNIT 2A, 138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708168986"
    }
@@ -87888,7 +87888,7 @@
    "properties": {
     "name": "UNIT 4, 138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021975",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708170031"
    }
@@ -88211,7 +88211,7 @@
    "properties": {
     "name": "UNIT 1, 139 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708170287"
    }
@@ -90795,7 +90795,7 @@
    "properties": {
     "name": "UNIT 3, 138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021968",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708172754"
    }
@@ -94450,7 +94450,7 @@
    "properties": {
     "name": "UNIT 2B, 138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708180595"
    }
@@ -154596,7 +154596,7 @@
    "properties": {
     "name": "UNIT 2, 139 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021999",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716637236"
    }
@@ -184839,7 +184839,7 @@
    "properties": {
     "name": "UNIT 5, 138 NORTH STEYNE MANLY 2095",
     "locID": "LOC000193021981",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718475686"
    }
@@ -201230,23 +201230,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719691349"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.28242404,
-     -33.79806985
-    ]
-   },
-   "properties": {
-    "name": "UNIT 30, 81 WEST ESPLANADE MANLY 2095",
-    "locID": "LOC000053335884",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719691350"
    }
   },
   {
