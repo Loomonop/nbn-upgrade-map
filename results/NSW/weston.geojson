@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T14:09:54.594352",
+ "generated": "2023-08-27T19:51:30.186461",
  "suburb": "WESTON",
  "features": [
   {
@@ -1742,6 +1742,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.45610592,
+     -32.81515256
+    ]
+   },
+   "properties": {
+    "name": "39 SCOTT STREET WESTON 2326",
+    "locID": "LOC000193388503",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706256414"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.4551147,
      -32.81549253
     ]
@@ -3347,8 +3364,8 @@
    "properties": {
     "name": "2 SECOND STREET WESTON 2326",
     "locID": "LOC000006641292",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706263182"
    }
   },
@@ -11321,7 +11338,7 @@
     "name": "8 SWANSON STREET WESTON 2326",
     "locID": "LOC000094762123",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706293782"
    }
   },
@@ -23900,8 +23917,8 @@
    "properties": {
     "name": "30 GREY GUM DRIVE WESTON 2326",
     "locID": "LOC000103776783",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715453476"
    }
   },
@@ -26365,8 +26382,8 @@
    "properties": {
     "name": "112 CHURCH STREET WESTON 2326",
     "locID": "LOC000043419688",
-    "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717624596"
    }
   },
@@ -29494,7 +29511,7 @@
     "name": "22 WOODLANDS DRIVE WESTON 2326",
     "locID": "LOC100056345049",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719078055"
    }
   },

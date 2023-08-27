@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T14:00:41.196620",
+ "generated": "2023-08-27T19:41:45.957217",
  "suburb": "KEMBLA GRANGE",
  "features": [
   {
@@ -134,8 +134,8 @@
    "properties": {
     "name": "4 MANIKATO PLACE KEMBLA GRANGE 2526",
     "locID": "LOC000087264732",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705056524"
    }
   },
@@ -1647,8 +1647,8 @@
    "properties": {
     "name": "105 DARKES ROAD KEMBLA GRANGE 2526",
     "locID": "LOC000003791168",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717097369"
    }
   },
@@ -18038,6 +18038,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721261124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.78368903,
+     -34.47958941
+    ]
+   },
+   "properties": {
+    "name": "17 RAINBIRD DRIVE KEMBLA GRANGE 2526",
+    "locID": "ChIJw3UH4c4RE2sR0OP--XWJnEU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721268442"
    }
   },
   {

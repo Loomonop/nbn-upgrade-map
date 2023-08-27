@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T14:12:02.483977",
+ "generated": "2023-08-27T19:53:35.424040",
  "suburb": "THE OAKS",
  "features": [
   {
@@ -797,7 +797,7 @@
    "properties": {
     "name": "175 GLENDIVER ROAD THE OAKS 2570",
     "locID": "LOC000023143615",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706066172"
    }
@@ -4418,7 +4418,7 @@
    "properties": {
     "name": "60 GLENDIVER ROAD THE OAKS 2570",
     "locID": "LOC000008936645",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706090396"
    }
@@ -13421,6 +13421,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.5762029,
+     -34.08034454
+    ]
+   },
+   "properties": {
+    "name": "115 GLENDIVER ROAD THE OAKS 2570",
+    "locID": "Ei4xMTUgR2xlbmRpdmVyIFJkLCBUaGUgT2FrcyBOU1cgMjU3MCwgQXVzdHJhbGlhIjASLgoUChIJTwf3fNlXEmsRKWSqLoeMFbcQcyoUChIJ29CkD9lXEmsRnu5-gLNAjvw",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW712584768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.58737685,
      -34.08722015
     ]
@@ -20279,8 +20296,8 @@
    "properties": {
     "name": "9 TYRRELL PLACE THE OAKS 2570",
     "locID": "LOC100071993874",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718958629"
    }
   },

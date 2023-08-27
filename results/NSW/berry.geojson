@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T14:30:12.456114",
+ "generated": "2023-08-27T20:09:20.271787",
  "suburb": "BERRY",
  "features": [
   {
@@ -1885,8 +1885,8 @@
    "properties": {
     "name": "12 WINDSOR DRIVE BERRY 2535",
     "locID": "LOC000065189289",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704099915"
    }
   },
@@ -2004,8 +2004,8 @@
    "properties": {
     "name": "19 WINDSOR DRIVE BERRY 2535",
     "locID": "LOC000028125869",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704099922"
    }
   },
@@ -11697,6 +11697,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704109869"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.69060922,
+     -34.77401781
+    ]
+   },
+   "properties": {
+    "name": "4 ALBERT STREET BERRY 2535",
+    "locID": "LOC000193501130",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704109870"
    }
   },
   {
