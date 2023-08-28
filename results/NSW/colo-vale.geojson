@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T13:24:24.423264",
+ "generated": "2023-08-28T18:03:01.924334",
  "suburb": "COLO VALE",
  "features": [
   {
@@ -984,8 +984,8 @@
    "properties": {
     "name": "6 TELOPEA STREET COLO VALE 2575",
     "locID": "LOC000020415375",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704435697"
    }
   },
@@ -1001,8 +1001,8 @@
    "properties": {
     "name": "10 TELOPEA STREET COLO VALE 2575",
     "locID": "LOC000064494956",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704435698"
    }
   },
@@ -1052,8 +1052,8 @@
    "properties": {
     "name": "2 TELOPEA STREET COLO VALE 2575",
     "locID": "LOC000109842917",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704435701"
    }
   },
@@ -1069,8 +1069,8 @@
    "properties": {
     "name": "4 TELOPEA STREET COLO VALE 2575",
     "locID": "LOC000078126376",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704435702"
    }
   },
@@ -1086,8 +1086,8 @@
    "properties": {
     "name": "8 TELOPEA STREET COLO VALE 2575",
     "locID": "LOC000033999900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704435704"
    }
   },
@@ -2973,8 +2973,8 @@
    "properties": {
     "name": "67 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000068472792",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704440719"
    }
   },
@@ -3364,8 +3364,8 @@
    "properties": {
     "name": "69 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000011548524",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704442895"
    }
   },
@@ -4384,8 +4384,8 @@
    "properties": {
     "name": "71 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000030841941",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704445500"
    }
   },
@@ -4418,8 +4418,8 @@
    "properties": {
     "name": "80 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000039617673",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704445503"
    }
   },
@@ -4435,8 +4435,8 @@
    "properties": {
     "name": "82 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000010601546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704445504"
    }
   },
@@ -4452,7 +4452,7 @@
    "properties": {
     "name": "84 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000107836689",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704445505"
    }
@@ -4469,8 +4469,8 @@
    "properties": {
     "name": "86 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000108431672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704445506"
    }
   },
@@ -5873,6 +5873,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.46347352,
+     -34.38634743
+    ]
+   },
+   "properties": {
+    "name": "LOT 80 COLO ROAD COLO VALE 2575",
+    "locID": "Eik4MCBDb2xvIFJkLCBDb2xvIFZhbGUgTlNXIDI1NzUsIEF1c3RyYWxpYSIwEi4KFAoSCctinhotpBNrEX6nG2BnY9fTEFAqFAoSCSHg30LKpRNrES_kifEMANGk",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW708901217"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.49403441,
      -34.40781864
     ]
@@ -6118,8 +6135,8 @@
    "properties": {
     "name": "73 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000064382811",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW708908676"
    }
   },
@@ -6390,8 +6407,8 @@
    "properties": {
     "name": "76 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000042845317",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712637787"
    }
   },
@@ -6407,8 +6424,8 @@
    "properties": {
     "name": "70-72 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000057439394",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712637802"
    }
   },
@@ -6611,8 +6628,8 @@
    "properties": {
     "name": "78 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000023695534",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW715355962"
    }
   },
@@ -7087,8 +7104,8 @@
    "properties": {
     "name": "74 BANKSIA STREET COLO VALE 2575",
     "locID": "LOC000032087121",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716465799"
    }
   },
