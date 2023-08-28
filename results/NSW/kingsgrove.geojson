@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T08:04:34.999986",
+ "generated": "2023-08-28T13:06:45.998265",
  "suburb": "KINGSGROVE",
  "features": [
   {
@@ -1427,7 +1427,7 @@
     "name": "616 HOMER STREET KINGSGROVE 2208",
     "locID": "LOC000074400390",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705092342"
    }
   },
@@ -6866,8 +6866,8 @@
    "properties": {
     "name": "7 BYKOOL AVENUE KINGSGROVE 2208",
     "locID": "LOC000063988713",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705096511"
    }
   },
@@ -11167,8 +11167,8 @@
    "properties": {
     "name": "29 CAROLINE STREET KINGSGROVE 2208",
     "locID": "LOC000044193500",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705099788"
    }
   },
@@ -18749,8 +18749,8 @@
    "properties": {
     "name": "603 HOMER STREET KINGSGROVE 2208",
     "locID": "LOC000084585596",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705103434"
    }
   },
@@ -30955,8 +30955,8 @@
    "properties": {
     "name": "12 SIMMONS ROAD KINGSGROVE 2208",
     "locID": "LOC000043461870",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705109379"
    }
   },
@@ -33506,7 +33506,7 @@
     "name": "4 FLATROCK ROAD KINGSGROVE 2208",
     "locID": "LOC000027386755",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705109680"
    }
   },
@@ -48567,8 +48567,8 @@
    "properties": {
     "name": "53 WOLLI STREET KINGSGROVE 2208",
     "locID": "LOC000010618371",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705114922"
    }
   },
@@ -59124,8 +59124,8 @@
    "properties": {
     "name": "53 ST ELMO PARADE KINGSGROVE 2208",
     "locID": "LOC000039960916",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705121405"
    }
   },
@@ -61912,8 +61912,8 @@
    "properties": {
     "name": "14 MOYA CRESCENT KINGSGROVE 2208",
     "locID": "LOC000013267850",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705123963"
    }
   },
@@ -64744,6 +64744,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.09477477,
+     -33.94505896
+    ]
+   },
+   "properties": {
+    "name": "53 MORGAN STREET KINGSGROVE 2208",
+    "locID": "LOC000193342958",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705126192"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.09107605,
      -33.9462664
     ]
@@ -65482,8 +65499,8 @@
    "properties": {
     "name": "23 MONARO AVENUE KINGSGROVE 2208",
     "locID": "LOC000014064552",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705126817"
    }
   },
@@ -67056,6 +67073,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.09969503,
+     -33.93083204
+    ]
+   },
+   "properties": {
+    "name": "17 SHACKEL AVENUE KINGSGROVE 2208",
+    "locID": "LOC000193495817",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705127329"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.10031062,
      -33.93059658
     ]
@@ -67659,7 +67693,7 @@
     "name": "8 MORGAN STREET KINGSGROVE 2208",
     "locID": "LOC000003679121",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705128824"
    }
   },
@@ -71432,8 +71466,8 @@
    "properties": {
     "name": "60 MORGAN STREET KINGSGROVE 2208",
     "locID": "LOC000002313559",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705131448"
    }
   },
