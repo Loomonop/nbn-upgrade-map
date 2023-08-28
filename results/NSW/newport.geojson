@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T01:03:17.372845",
+ "generated": "2023-08-28T06:21:25.417435",
  "suburb": "NEWPORT",
  "features": [
   {
@@ -2735,8 +2735,8 @@
    "properties": {
     "name": "154 CRESCENT ROAD NEWPORT 2106",
     "locID": "LOC000110044031",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705491049"
    }
   },
@@ -14730,23 +14730,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.31576716,
-     -33.65802486
-    ]
-   },
-   "properties": {
-    "name": "14 GLADSTONE STREET NEWPORT 2106",
-    "locID": "LOC000016317720",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705504962"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.31577231,
      -33.65856491
     ]
@@ -16573,8 +16556,8 @@
    "properties": {
     "name": "113 CRESCENT ROAD NEWPORT 2106",
     "locID": "LOC000008317804",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705506005"
    }
   },
@@ -45626,8 +45609,8 @@
    "properties": {
     "name": "73 IRRUBEL ROAD NEWPORT 2106",
     "locID": "LOC000074850956",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705519953"
    }
   },
@@ -54246,7 +54229,7 @@
     "name": "53 SEAVIEW AVENUE NEWPORT 2106",
     "locID": "LOC000101784450",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705529711"
    }
   },
