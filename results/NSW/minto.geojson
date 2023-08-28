@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T09:32:13.021557",
+ "generated": "2023-08-28T14:29:13.729644",
  "suburb": "MINTO",
  "features": [
   {
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "140 GUERNSEY AVENUE MINTO 2566",
     "locID": "LOC000027181169",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705361935"
    }
   },
@@ -1613,8 +1613,8 @@
    "properties": {
     "name": "146 GUERNSEY AVENUE MINTO 2566",
     "locID": "LOC000018749524",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705361936"
    }
   },
@@ -10062,8 +10062,8 @@
    "properties": {
     "name": "12 NORMAN DUNLOP CRESCENT MINTO 2566",
     "locID": "LOC000020980342",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705374461"
    }
   },
@@ -18920,7 +18920,7 @@
     "name": "4 HERBORN PLACE MINTO 2566",
     "locID": "LOC000077136082",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705377311"
    }
   },
@@ -24530,7 +24530,7 @@
     "name": "21 SAGGART FIELD ROAD MINTO 2566",
     "locID": "LOC000059530352",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705378555"
    }
   },
@@ -26926,8 +26926,8 @@
    "properties": {
     "name": "LOT 13 PEMBROKE ROAD MINTO 2566",
     "locID": "LOC000056344084",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705378965"
    }
   },
@@ -32485,8 +32485,8 @@
    "properties": {
     "name": "3 NORTON PLACE MINTO 2566",
     "locID": "LOC000053475550",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705380378"
    }
   },
@@ -36041,6 +36041,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705381443"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86286476,
+     -34.01738505
+    ]
+   },
+   "properties": {
+    "name": "17 PORTER STREET MINTO 2566",
+    "locID": "LOC000193375346",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705381444"
    }
   },
   {
@@ -65397,8 +65414,8 @@
    "properties": {
     "name": "13 PEMBROKE ROAD MINTO 2566",
     "locID": "LOC000056344084",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716346588"
    }
   },
@@ -93481,8 +93498,8 @@
    "properties": {
     "name": "8 ELIZABETH MCRAE AVENUE MINTO 2566",
     "locID": "LOC000157324703",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW718963635"
    }
   },
