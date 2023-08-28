@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-07T22:36:33.514067",
+ "generated": "2023-08-28T04:02:33.623911",
  "suburb": "TENNYSON POINT",
  "features": [
   {
@@ -2430,7 +2430,7 @@
     "name": "51 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000046805351",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706063002"
    }
   },
@@ -2685,7 +2685,7 @@
     "name": "22 BEACH STREET TENNYSON POINT 2111",
     "locID": "LOC000087980806",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706066492"
    }
   },
@@ -2701,8 +2701,8 @@
    "properties": {
     "name": "23 BEACH STREET TENNYSON POINT 2111",
     "locID": "LOC000046910564",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706066493"
    }
   },
@@ -3110,7 +3110,7 @@
     "name": "UNIT 1, 13 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000015985851",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072552"
    }
   },
@@ -3127,7 +3127,7 @@
     "name": "UNIT 2, 13 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000015523311",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072553"
    }
   },
@@ -3144,7 +3144,7 @@
     "name": "UNIT 3, 13 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000015521071",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072554"
    }
   },
@@ -3161,7 +3161,7 @@
     "name": "UNIT 4, 13 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000015526858",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072555"
    }
   },
@@ -3178,7 +3178,7 @@
     "name": "13 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000015521071",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072556"
    }
   },
@@ -3807,7 +3807,7 @@
     "name": "UNIT 1, 52 CHAMPION ROAD TENNYSON POINT 2111",
     "locID": "LOC000095522830",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072915"
    }
   },
@@ -3824,7 +3824,7 @@
     "name": "UNIT 2, 52 CHAMPION ROAD TENNYSON POINT 2111",
     "locID": "LOC000094904485",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072916"
    }
   },
@@ -3841,7 +3841,7 @@
     "name": "UNIT 3, 52 CHAMPION ROAD TENNYSON POINT 2111",
     "locID": "LOC000095445050",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072917"
    }
   },
@@ -3858,7 +3858,7 @@
     "name": "UNIT 4, 52 CHAMPION ROAD TENNYSON POINT 2111",
     "locID": "LOC000094572370",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706072918"
    }
   },
@@ -4657,7 +4657,7 @@
     "name": "83B TENNYSON ROAD TENNYSON POINT 2111",
     "locID": "LOC000072527034",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706522737"
    }
   },
@@ -4674,8 +4674,25 @@
     "name": "83A TENNYSON ROAD TENNYSON POINT 2111",
     "locID": "LOC000072627833",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706522738"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.1172733,
+     -33.82945123
+    ]
+   },
+   "properties": {
+    "name": "81 TENNYSON ROAD TENNYSON POINT 2111",
+    "locID": "LOC000193271649",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706522739"
    }
   },
   {
@@ -4793,7 +4810,7 @@
     "name": "UNIT 3, 69 TENNYSON ROAD TENNYSON POINT 2111",
     "locID": "LOC000107869269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706522746"
    }
   },
@@ -4810,7 +4827,7 @@
     "name": "UNIT 2, 69 TENNYSON ROAD TENNYSON POINT 2111",
     "locID": "LOC000107790354",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706522748"
    }
   },
@@ -4827,7 +4844,7 @@
     "name": "UNIT 1, 69 TENNYSON ROAD TENNYSON POINT 2111",
     "locID": "LOC000108292512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706522749"
    }
   },
@@ -6255,7 +6272,7 @@
     "name": "52 CHAMPION ROAD TENNYSON POINT 2111",
     "locID": "LOC000094572370",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707632083"
    }
   },
@@ -6527,7 +6544,7 @@
     "name": "69 TENNYSON ROAD TENNYSON POINT 2111",
     "locID": "LOC000108292512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710846555"
    }
   },
@@ -7445,7 +7462,7 @@
     "name": "120 TENNYSON ROAD TENNYSON POINT 2111",
     "locID": "LOC000002466722",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716532686"
    }
   },
@@ -7920,8 +7937,8 @@
    "properties": {
     "name": "41B BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000087308982",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718048912"
    }
   },
@@ -8686,7 +8703,7 @@
     "name": "UNIT 2, 51 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000046805351",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719658732"
    }
   },
@@ -8703,7 +8720,7 @@
     "name": "UNIT 1, 51 BAYVIEW STREET TENNYSON POINT 2111",
     "locID": "LOC000046805351",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719661342"
    }
   },
