@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T00:18:20.949495",
+ "generated": "2023-08-28T05:34:16.402009",
  "suburb": "CARINGBAH",
  "features": [
   {
@@ -4928,8 +4928,8 @@
    "properties": {
     "name": "46 RALEIGH AVENUE CARINGBAH 2229",
     "locID": "LOC000043348218",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704314151"
    }
   },
@@ -5288,6 +5288,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704314172"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.13075895,
+     -34.03877126
+    ]
+   },
+   "properties": {
+    "name": "5 TARONGA PARADE CARINGBAH 2229",
+    "locID": "LOC000087420478",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704314173"
    }
   },
   {
@@ -7240,8 +7257,8 @@
    "properties": {
     "name": "57 CARABELLA ROAD CARINGBAH 2229",
     "locID": "LOC000083571551",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704314763"
    }
   },
@@ -13275,8 +13292,8 @@
    "properties": {
     "name": "2 DRAKE AVENUE CARINGBAH 2229",
     "locID": "LOC000025467795",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704316344"
    }
   },
@@ -16440,6 +16457,40 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704317079"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.13321276,
+     -34.0391245
+    ]
+   },
+   "properties": {
+    "name": "5A GANNONS ROAD CARINGBAH 2229",
+    "locID": "ChIJz6GG6PvHEmsRZyhYKhpIW-c",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW704317080"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.13380172,
+     -34.03920356
+    ]
+   },
+   "properties": {
+    "name": "5 GANNONS ROAD CARINGBAH 2229",
+    "locID": "LOC000185782025",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704317081"
    }
   },
   {
@@ -54578,23 +54629,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.13027122,
-     -34.03870526
-    ]
-   },
-   "properties": {
-    "name": "11 TARONGA PARADE CARINGBAH 2229",
-    "locID": "LOC000109625491",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW704345696"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.13015131,
      -34.03933158
     ]
@@ -64191,7 +64225,7 @@
     "name": "80 WILLARONG ROAD CARINGBAH 2229",
     "locID": "LOC000074264486",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711582928"
    }
   },
@@ -79711,8 +79745,8 @@
    "properties": {
     "name": "114 WILLARONG ROAD CARINGBAH 2229",
     "locID": "LOC000057794747",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711610599"
    }
   },
@@ -132905,7 +132939,7 @@
     "name": "80A WILLARONG ROAD CARINGBAH 2229",
     "locID": "LOC000074264486",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718589212"
    }
   },
