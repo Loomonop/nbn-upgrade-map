@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T16:09:07.483235",
+ "generated": "2023-08-28T20:42:13.338369",
  "suburb": "TELOPEA",
  "features": [
   {
@@ -7835,8 +7835,8 @@
    "properties": {
     "name": "24 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000061518654",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717074176"
    }
   },
@@ -9281,7 +9281,7 @@
     "name": "4 BENAUD PLACE TELOPEA 2117",
     "locID": "LOC000060104443",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717075430"
    }
   },
@@ -10606,8 +10606,8 @@
    "properties": {
     "name": "32 COOK STREET TELOPEA 2117",
     "locID": "LOC000057020182",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717077772"
    }
   },
@@ -10845,7 +10845,7 @@
     "name": "1 CUNNINGHAM STREET TELOPEA 2117",
     "locID": "LOC000095647825",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717078152"
    }
   },
@@ -14689,6 +14689,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717079931"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.04804753,
+     -33.79174573
+    ]
+   },
+   "properties": {
+    "name": "16 FULLARTON STREET TELOPEA 2117",
+    "locID": "LOC000193390560",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717079932"
    }
   },
   {
@@ -33872,6 +33889,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.03944804,
+     -33.79847842
+    ]
+   },
+   "properties": {
+    "name": "24 NARRUN CRESCENT TELOPEA 2117",
+    "locID": "LOC000193540795",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717118333"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.03896874,
      -33.80042826
     ]
@@ -35852,7 +35886,7 @@
     "name": "UNIT 1, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000022910065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547116"
    }
   },
@@ -36022,7 +36056,7 @@
     "name": "UNIT 2, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000022910065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547137"
    }
   },
@@ -36056,7 +36090,7 @@
     "name": "UNIT 3, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000022910065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547150"
    }
   },
@@ -36090,7 +36124,7 @@
     "name": "UNIT 4, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000022992830",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547163"
    }
   },
@@ -36124,7 +36158,7 @@
     "name": "UNIT 5, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000022910065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547174"
    }
   },
@@ -36158,7 +36192,7 @@
     "name": "UNIT 6, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000023064275",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547177"
    }
   },
@@ -36192,7 +36226,7 @@
     "name": "UNIT 7, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000023371833",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547180"
    }
   },
@@ -36226,7 +36260,7 @@
     "name": "UNIT 8, 3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000023314574",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547183"
    }
   },
@@ -36328,7 +36362,7 @@
     "name": "3-5 ADDERTON ROAD TELOPEA 2117",
     "locID": "LOC000022910065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717547191"
    }
   },
@@ -37535,7 +37569,7 @@
     "name": "UNIT 1, 1-6 BENAUD PLACE TELOPEA 2117",
     "locID": "LOC000060934259",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717691290"
    }
   },
@@ -38895,7 +38929,7 @@
     "name": "1-6 BENAUD PLACE TELOPEA 2117",
     "locID": "LOC000060934259",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717740520"
    }
   },
@@ -39116,7 +39150,7 @@
     "name": "UNIT 3, 1-6 BENAUD PLACE TELOPEA 2117",
     "locID": "LOC000060355334",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717801555"
    }
   },
@@ -39133,7 +39167,7 @@
     "name": "UNIT 4, 1-6 BENAUD PLACE TELOPEA 2117",
     "locID": "LOC000060104443",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717801556"
    }
   },
@@ -39150,7 +39184,7 @@
     "name": "UNIT 5, 1-6 BENAUD PLACE TELOPEA 2117",
     "locID": "LOC000061052538",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717801557"
    }
   },
@@ -51100,7 +51134,7 @@
    "properties": {
     "name": "16A FULLARTON STREET TELOPEA 2117",
     "locID": "ChIJ_U5W4nWkEmsRH7UB5vnsRI0",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720271176"
    }
