@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T07:24:09.119175",
+ "generated": "2023-08-28T12:26:05.273401",
  "suburb": "REVESBY HEIGHTS",
  "features": [
   {
@@ -1172,7 +1172,7 @@
     "name": "UNIT 2, 44 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000006485470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822274"
    }
   },
@@ -1189,7 +1189,7 @@
     "name": "UNIT 3, 44 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000006344610",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822275"
    }
   },
@@ -1206,7 +1206,7 @@
     "name": "UNIT 4, 44 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000006359983",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822276"
    }
   },
@@ -1223,7 +1223,7 @@
     "name": "UNIT 5, 44 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000006896924",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822277"
    }
   },
@@ -1240,7 +1240,7 @@
     "name": "44 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000006359983",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705822278"
    }
   },
@@ -1512,7 +1512,7 @@
     "name": "UNIT 1, 44 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000006379069",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705832558"
    }
   },
@@ -1529,7 +1529,7 @@
     "name": "43 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000052479741",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705832587"
    }
   },
@@ -2328,7 +2328,7 @@
     "name": "UNIT 3, 63 ALAMEIN ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000018071862",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706422661"
    }
   },
@@ -2345,7 +2345,7 @@
     "name": "UNIT 2, 63 ALAMEIN ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000017951979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706422662"
    }
   },
@@ -2362,7 +2362,7 @@
     "name": "UNIT 1, 63 ALAMEIN ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000018417937",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706422663"
    }
   },
@@ -2447,7 +2447,7 @@
     "name": "31 ALAMEIN ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000065138863",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706429308"
    }
   },
@@ -4751,6 +4751,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.01745601,
+     -33.96613498
+    ]
+   },
+   "properties": {
+    "name": "18 ALAMEIN ROAD REVESBY HEIGHTS 2212",
+    "locID": "LOC000193379166",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706446414"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.01729909,
      -33.96667695
     ]
@@ -5371,7 +5388,7 @@
     "name": "140 CENTAUR STREET REVESBY HEIGHTS 2212",
     "locID": "LOC100070351971",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706456377"
    }
   },
@@ -6077,23 +6094,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.01910784,
-     -33.96512815
-    ]
-   },
-   "properties": {
-    "name": "16 EDINBURGH DRIVE REVESBY HEIGHTS 2212",
-    "locID": "LOC000054128446",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706487967"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.01740572,
      -33.9648435
     ]
@@ -6425,7 +6425,7 @@
     "name": "78 MOROTAI ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000019752066",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706491469"
    }
   },
@@ -8159,7 +8159,7 @@
     "name": "63 ALAMEIN ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000017951979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711510670"
    }
   },
@@ -8329,7 +8329,7 @@
     "name": "150 CENTAUR STREET REVESBY HEIGHTS 2212",
     "locID": "LOC000151428470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716510424"
    }
   },
@@ -9111,7 +9111,7 @@
     "name": "UNIT 1, 150 CENTAUR STREET REVESBY HEIGHTS 2212",
     "locID": "LOC000151428470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717695496"
    }
   },
@@ -9128,7 +9128,7 @@
     "name": "UNIT 2, 150 CENTAUR STREET REVESBY HEIGHTS 2212",
     "locID": "LOC000151428489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717695497"
    }
   },
@@ -10029,7 +10029,7 @@
     "name": "41 BROCKMAN AVENUE REVESBY HEIGHTS 2212",
     "locID": "LOC000151427987",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718402330"
    }
   },
@@ -10896,7 +10896,7 @@
     "name": "31A ALAMEIN ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000168253509",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719083025"
    }
   },
@@ -11610,7 +11610,7 @@
     "name": "78A MOROTAI ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000185408247",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720006203"
    }
   },
@@ -11644,7 +11644,7 @@
     "name": "UNIT 1, 22 MOROTAI ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000178589143",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720012285"
    }
   },
