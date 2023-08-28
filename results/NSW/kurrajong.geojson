@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T09:57:15.401218",
+ "generated": "2023-08-28T14:59:17.330271",
  "suburb": "KURRAJONG",
  "features": [
   {
@@ -2107,7 +2107,7 @@
     "name": "1105 GROSE VALE ROAD KURRAJONG 2758",
     "locID": "LOC000180844470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705127703"
    }
   },
@@ -3602,8 +3602,8 @@
    "properties": {
     "name": "83B WILLOW GLEN ROAD KURRAJONG 2758",
     "locID": "LOC000005525304",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705135178"
    }
   },
@@ -3875,7 +3875,7 @@
     "name": "66 KURRAJONG ROAD KURRAJONG 2758",
     "locID": "LOC000175578495",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705136239"
    }
   },
@@ -7615,7 +7615,7 @@
     "name": "232 COMLEROY ROAD KURRAJONG 2758",
     "locID": "LOC000055743971",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705142614"
    }
   },
@@ -8210,7 +8210,7 @@
     "name": "67 COMLEROY ROAD KURRAJONG 2758",
     "locID": "LOC000087843986",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705145281"
    }
   },
@@ -16158,6 +16158,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.70214398,
+     -33.50587312
+    ]
+   },
+   "properties": {
+    "name": "774 COMLEROY ROAD KURRAJONG 2758",
+    "locID": "Ei43NzQgQ29tbGVyb3kgUmQsIEt1cnJham9uZyBOU1cgMjc1OCwgQXVzdHJhbGlhIjESLwoUChIJHfBGIKF7DWsRb7BjTGcBlBMQhgYqFAoSCetCaKW5ew1rEf9tX-WVlFHJ",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW712881629"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.66544725,
      -33.55073522
     ]
@@ -16336,7 +16353,7 @@
     "name": "1111 GROSE VALE ROAD KURRAJONG 2758",
     "locID": "LOC000034081666",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712893383"
    }
   },
@@ -20102,6 +20119,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.70214398,
+     -33.50587312
+    ]
+   },
+   "properties": {
+    "name": "806 COMLEROY ROAD KURRAJONG 2758",
+    "locID": "Ei44MDYgQ29tbGVyb3kgUmQsIEt1cnJham9uZyBOU1cgMjc1OCwgQXVzdHJhbGlhIjESLwoUChIJHfBGIKF7DWsRWvQbASZqaV4QpgYqFAoSCetCaKW5ew1rEf9tX-WVlFHJ",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716990968"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.70214398,
+     -33.50587312
+    ]
+   },
+   "properties": {
+    "name": "810 COMLEROY ROAD KURRAJONG 2758",
+    "locID": "Ei44MTAgQ29tbGVyb3kgUmQsIEt1cnJham9uZyBOU1cgMjc1OCwgQXVzdHJhbGlhIjESLwoUChIJHfBGIKF7DWsRWvQbASZqaV4QqgYqFAoSCetCaKW5ew1rEf9tX-WVlFHJ",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716990969"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.7226109,
      -33.49204091
     ]
@@ -23799,7 +23850,7 @@
     "name": "66 OLD BELLS LINE OF ROAD KURRAJONG 2758",
     "locID": "LOC000175578495",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717342213"
    }
   },
@@ -23867,7 +23918,7 @@
     "name": "75 OLD BELLS LINE OF ROAD KURRAJONG 2758",
     "locID": "LOC000034121229",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717342217"
    }
   },
@@ -24003,7 +24054,7 @@
     "name": "UNIT 1, 75 OLD BELLS LINE OF ROAD KURRAJONG 2758",
     "locID": "LOC000034121229",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717360148"
    }
   },
@@ -24037,7 +24088,7 @@
     "name": "UNIT 2, 75 OLD BELLS LINE OF ROAD KURRAJONG 2758",
     "locID": "LOC000034055861",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717360150"
    }
   },
