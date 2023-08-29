@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T09:50:33.994890",
+ "generated": "2023-08-29T13:05:58.716509",
  "suburb": "KENTHURST",
  "features": [
   {
@@ -9842,7 +9842,7 @@
     "name": "55 KENTHURST ROAD KENTHURST 2156",
     "locID": "LOC100073633115",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705068745"
    }
   },
@@ -12562,7 +12562,7 @@
     "name": "1 ANNANGROVE ROAD KENTHURST 2156",
     "locID": "LOC100073884674",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705072520"
    }
   },
@@ -20246,7 +20246,7 @@
     "name": "98 KENTHURST ROAD KENTHURST 2156",
     "locID": "LOC000076474055",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705086338"
    }
   },
@@ -22200,8 +22200,8 @@
    "properties": {
     "name": "90 KENTHURST ROAD KENTHURST 2156",
     "locID": "LOC000065203220",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705089583"
    }
   },
@@ -26009,7 +26009,7 @@
     "name": "111 KENTHURST ROAD KENTHURST 2156",
     "locID": "LOC000036508259",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711171829"
    }
   },
@@ -26198,6 +26198,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711171887"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.95443895,
+     -33.62597044
+    ]
+   },
+   "properties": {
+    "name": "209A PITT TOWN ROAD KENTHURST 2156",
+    "locID": "ChIJE3gWItZfDWsR0oZSUETo9vA",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW711171898"
    }
   },
   {
@@ -28202,7 +28219,7 @@
     "name": "UNIT 1, 98 KENTHURST ROAD KENTHURST 2156",
     "locID": "LOC000076474055",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711189927"
    }
   },
@@ -29715,7 +29732,7 @@
     "name": "UNIT 1, 57 KENTHURST ROAD KENTHURST 2156",
     "locID": "LOC000038382536",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717301874"
    }
   },
@@ -30718,7 +30735,7 @@
     "name": "UNIT 1, 1B PORTERS ROAD KENTHURST 2156",
     "locID": "LOC000120133953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717715518"
    }
   },
@@ -30735,7 +30752,7 @@
     "name": "UNIT 2, 1B PORTERS ROAD KENTHURST 2156",
     "locID": "LOC000120133953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717715519"
    }
   },
@@ -30769,7 +30786,7 @@
     "name": "UNIT 4, 1B PORTERS ROAD KENTHURST 2156",
     "locID": "LOC000120133953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717715521"
    }
   },
@@ -30786,7 +30803,7 @@
     "name": "UNIT 5, 1B PORTERS ROAD KENTHURST 2156",
     "locID": "LOC000120133953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717715522"
    }
   },
@@ -30803,7 +30820,7 @@
     "name": "UNIT 6, 1B PORTERS ROAD KENTHURST 2156",
     "locID": "LOC000120133953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717715523"
    }
   },
@@ -30837,7 +30854,7 @@
     "name": "1B PORTERS ROAD KENTHURST 2156",
     "locID": "LOC000120133953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717749354"
    }
   },
@@ -31279,7 +31296,7 @@
     "name": "7-9 ANNANGROVE ROAD KENTHURST 2156",
     "locID": "LOC000120131368",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718022491"
    }
   },
