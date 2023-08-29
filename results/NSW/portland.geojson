@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-08T22:34:47.001101",
+ "generated": "2023-08-29T02:45:07.082437",
  "suburb": "PORTLAND",
  "features": [
   {
@@ -1478,7 +1478,7 @@
     "name": "14 VALE STREET PORTLAND 2847",
     "locID": "LOC000174242393",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705703436"
    }
   },
@@ -9111,7 +9111,7 @@
     "name": "6-8 WOLGAN STREET PORTLAND 2847",
     "locID": "LOC000023957753",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705724165"
    }
   },
@@ -21224,6 +21224,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     149.98873677,
+     -33.32051384
+    ]
+   },
+   "properties": {
+    "name": "89 PORTLAND CULLEN BULLEN ROAD PORTLAND 2847",
+    "locID": "Ejo4OSBQb3J0bGFuZCBDdWxsZW4gQnVsbGVuIFJkLCBQb3J0bGFuZCBOU1cgMjg0NywgQXVzdHJhbGlhIjASLgoUChIJfapA9pj5DWsRempwQJUzc4AQWSoUChIJV3bejBj6DWsR0FHE_9PqTQ0",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718317969"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      149.97859934,
      -33.34628515
     ]
@@ -25396,7 +25413,7 @@
    "properties": {
     "name": "955 PIPERS FLAT ROAD PORTLAND 2847",
     "locID": "LOC100081978912",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720105318"
    }
