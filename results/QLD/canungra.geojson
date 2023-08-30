@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T13:19:01.111218",
+ "generated": "2023-08-30T20:33:54.619669",
  "suburb": "CANUNGRA",
  "features": [
   {
@@ -392,6 +392,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155129530"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.15478403,
+     -28.01864625
+    ]
+   },
+   "properties": {
+    "name": "56-58 MONARCH DRIVE CANUNGRA 4275",
+    "locID": "LOC000037505426",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155129531"
    }
   },
   {
@@ -5363,8 +5380,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.16523746,
-     -28.02121609
+     153.16522851,
+     -28.02121583
     ]
    },
    "properties": {
@@ -10310,23 +10327,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.14520661,
-     -28.01719197
-    ]
-   },
-   "properties": {
-    "name": "LOT 22 REGAL DRIVE CANUNGRA 4275",
-    "locID": "LOC000183166068",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425215605"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.16458599,
      -28.01814894
     ]
@@ -10565,8 +10565,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.16523746,
-     -28.02121609
+     153.16522851,
+     -28.02121583
     ]
    },
    "properties": {
@@ -12452,23 +12452,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.15478403,
-     -28.01864625
-    ]
-   },
-   "properties": {
-    "name": "56 MONARCH DRIVE CANUNGRA 4275",
-    "locID": "LOC000037505426",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720466865"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.15679257,
      -28.01685745
     ]
@@ -14145,6 +14128,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721234606"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.15178186,
+     -28.01432826
+    ]
+   },
+   "properties": {
+    "name": "LOT 501 REGAL DRIVE CANUNGRA 4275",
+    "locID": "LOC000174062390",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721307166"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.16522851,
+     -28.02121583
+    ]
+   },
+   "properties": {
+    "name": "59 KIDSTON STREET CANUNGRA 4275",
+    "locID": "LOC000165621328",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311974"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.14520661,
+     -28.01719197
+    ]
+   },
+   "properties": {
+    "name": "69 REGAL DRIVE CANUNGRA 4275",
+    "locID": "Eik2OSBSZWdhbCBEciwgQ2FudW5ncmEgUUxEIDQyNzUsIEF1c3RyYWxpYSIwEi4KFAoSCXXTNzN_IZFrEZRiGQKWuk8REEUqFAoSCSv74PCBIZFrEdgV18oe7Acb",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312595"
    }
   }
  ]
