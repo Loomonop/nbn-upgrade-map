@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T03:53:09.799502",
+ "generated": "2023-08-30T14:49:24.553627",
  "suburb": "BALMORAL",
  "features": [
   {
@@ -1019,7 +1019,7 @@
     "name": "10 BALMORAL PLACE BALMORAL 2283",
     "locID": "LOC000115398797",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715587398"
    }
   },
@@ -8125,7 +8125,7 @@
     "name": "UNIT 1, 10 BALMORAL PLACE BALMORAL 2283",
     "locID": "LOC000115412976",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718274253"
    }
   },
@@ -8142,7 +8142,7 @@
     "name": "UNIT 2, 10 BALMORAL PLACE BALMORAL 2283",
     "locID": "LOC000115398797",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718274254"
    }
   },
@@ -9154,8 +9154,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.57788689,
-     -33.04788821
+     151.57784224,
+     -33.0478804
     ]
    },
    "properties": {
@@ -9324,8 +9324,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.57788689,
-     -33.04788821
+     151.57784224,
+     -33.0478804
     ]
    },
    "properties": {
@@ -9385,6 +9385,40 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721269319"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.57784224,
+     -33.0478804
+    ]
+   },
+   "properties": {
+    "name": "16B FRED AVERY DRIVE BALMORAL 2283",
+    "locID": "LOC000186014364",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.5779397,
+     -33.04789747
+    ]
+   },
+   "properties": {
+    "name": "16A FRED AVERY DRIVE BALMORAL 2283",
+    "locID": "LOC000186014372",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325899"
    }
   }
  ]
