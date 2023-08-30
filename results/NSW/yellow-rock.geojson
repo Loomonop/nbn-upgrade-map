@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T17:19:01.278817",
+ "generated": "2023-08-30T08:57:40.923408",
  "suburb": "YELLOW ROCK",
  "features": [
   {
@@ -909,8 +909,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.62680251,
-     -33.71003857
+     150.62685087,
+     -33.7100979
     ]
    },
    "properties": {
@@ -1783,8 +1783,8 @@
    "properties": {
     "name": "10 COOROY CRESCENT YELLOW ROCK 2777",
     "locID": "LOC000075767564",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715531587"
    }
   },
@@ -3739,7 +3739,7 @@
     "name": "9 ILLINGWORTH ROAD YELLOW ROCK 2777",
     "locID": "LOC000078932181",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715546622"
    }
   },
@@ -3993,8 +3993,8 @@
    "properties": {
     "name": "289 PATERSON ROAD YELLOW ROCK 2777",
     "locID": "LOC000011437639",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW715563704"
    }
   },
@@ -8807,6 +8807,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720547858"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.72914863,
+     -34.597783
+    ]
+   },
+   "properties": {
+    "name": "333 YELLOW ROCK ROAD YELLOW ROCK 2527",
+    "locID": "EjMzMzMgWWVsbG93IFJvY2sgUmQsIFllbGxvdyBSb2NrIE5TVyAyNTI3LCBBdXN0cmFsaWEiMRIvChQKEgm7162lBHMTaxEbf1DrJTRjEBDNAioUChIJWdO3wcVyE2sR2xVjVLRwz0M",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336031"
    }
   }
  ]
