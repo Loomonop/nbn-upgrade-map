@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T15:18:18.218261",
+ "generated": "2023-08-30T22:30:26.496507",
  "suburb": "ELANORA",
  "features": [
   {
@@ -569,8 +569,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.45634668,
-     -28.12766974
+     153.45642205,
+     -28.12764423
     ]
    },
    "properties": {
@@ -10827,8 +10827,8 @@
    "properties": {
     "name": "66 FOREST DRIVE ELANORA 4221",
     "locID": "LOC000068765109",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155277799"
    }
   },
@@ -29136,8 +29136,8 @@
    "properties": {
     "name": "61 SILVER GLADE DRIVE ELANORA 4221",
     "locID": "LOC000097142139",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155294287"
    }
   },
@@ -45065,8 +45065,8 @@
    "properties": {
     "name": "38 FOREST DRIVE ELANORA 4221",
     "locID": "LOC000095300358",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156546754"
    }
   },
@@ -89761,6 +89761,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721257359"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.45623112,
+     -28.12770887
+    ]
+   },
+   "properties": {
+    "name": "84 AVOCADO STREET ELANORA 4221",
+    "locID": "ChIJ-SchUk8CkWsRbHQ9pnYj2nI",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307693"
    }
   }
  ]

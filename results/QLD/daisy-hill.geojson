@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T14:50:27.959838",
+ "generated": "2023-08-30T22:06:31.653739",
  "suburb": "DAISY HILL",
  "features": [
   {
@@ -31058,7 +31058,7 @@
     "name": "102 DAISY HILL ROAD DAISY HILL 4127",
     "locID": "LOC100074637364",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156504827"
    }
   },
@@ -42073,8 +42073,8 @@
    "properties": {
     "name": "16 CHARLES GLEN STREET DAISY HILL 4127",
     "locID": "LOC000059723453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162654496"
    }
   },
@@ -43025,8 +43025,8 @@
    "properties": {
     "name": "38 DENNIS VALE DRIVE DAISY HILL 4127",
     "locID": "LOC000084518058",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162655254"
    }
   },
@@ -43960,8 +43960,8 @@
    "properties": {
     "name": "80 JOHN MARKWELL PARADE DAISY HILL 4127",
     "locID": "LOC000076012705",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162657404"
    }
   },
@@ -44351,8 +44351,8 @@
    "properties": {
     "name": "3 DENTON COURT DAISY HILL 4127",
     "locID": "LOC000003407808",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162672356"
    }
   },
@@ -44505,7 +44505,7 @@
     "name": "13 LYNETTE WAY DAISY HILL 4127",
     "locID": "LOC000081556585",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162675368"
    }
   },
@@ -44658,7 +44658,7 @@
     "name": "31 LYNETTE WAY DAISY HILL 4127",
     "locID": "LOC000039624221",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162675377"
    }
   },
@@ -47854,7 +47854,7 @@
     "name": "UNIT 1, 102 DAISY HILL ROAD DAISY HILL 4127",
     "locID": "LOC100074637364",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719928527"
    }
   },
@@ -48058,7 +48058,7 @@
     "name": "UNIT 2, 102 DAISY HILL ROAD DAISY HILL 4127",
     "locID": "LOC100074637386",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719934944"
    }
   },
@@ -49369,6 +49369,40 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721266657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.15758934,
+     -27.63894071
+    ]
+   },
+   "properties": {
+    "name": "45B GLADEWOOD DRIVE DAISY HILL 4127",
+    "locID": "LOC000185560522",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.14782561,
+     -27.64133403
+    ]
+   },
+   "properties": {
+    "name": "50B LOBELIA AVENUE DAISY HILL 4127",
+    "locID": "LOC000178216028",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335090"
    }
   }
  ]

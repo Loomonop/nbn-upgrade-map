@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T15:35:42.127131",
+ "generated": "2023-08-30T22:44:52.256841",
  "suburb": "ESK",
  "features": [
   {
@@ -1155,7 +1155,7 @@
     "name": "17 BARBOUR STREET ESK 4312",
     "locID": "LOC000048627999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155294826"
    }
   },
@@ -2702,7 +2702,7 @@
     "name": "29 RICHARD STREET ESK 4312",
     "locID": "LOC000006617182",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156554797"
    }
   },
@@ -4096,7 +4096,7 @@
     "name": "93 IPSWICH STREET ESK 4312",
     "locID": "LOC000068646407",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156562823"
    }
   },
@@ -5864,7 +5864,7 @@
     "name": "30 HIGHLAND STREET ESK 4312",
     "locID": "LOC000023545977",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156572939"
    }
   },
@@ -6544,7 +6544,7 @@
     "name": "130 IPSWICH STREET ESK 4312",
     "locID": "LOC000010782300",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156575369"
    }
   },
@@ -6782,7 +6782,7 @@
     "name": "225 IPSWICH STREET ESK 4312",
     "locID": "LOC000005858727",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156578149"
    }
   },
@@ -6969,7 +6969,7 @@
     "name": "25 EDWARD STREET ESK 4312",
     "locID": "LOC000159624903",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157904261"
    }
   },
@@ -6986,7 +6986,7 @@
     "name": "UNIT 2, 29 RICHARD STREET ESK 4312",
     "locID": "LOC000006632705",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157904267"
    }
   },
@@ -7785,7 +7785,7 @@
     "name": "UNIT 1, 29 RICHARD STREET ESK 4312",
     "locID": "LOC000006617182",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157917148"
    }
   },
@@ -9655,7 +9655,7 @@
     "name": "101 IPSWICH STREET ESK 4312",
     "locID": "LOC000073611190",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159869390"
    }
   },
@@ -11442,23 +11442,6 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161078113"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.40742873,
-     -27.23447833
-    ]
-   },
-   "properties": {
-    "name": "LOT 21 BURNSIDE COURT ESK 4312",
-    "locID": "EicyMSBCdXJuc2lkZSBDdCwgRXNrIFFMRCA0MzEyLCBBdXN0cmFsaWEiMBIuChQKEgmxpjklfSCUaxHhwfVX8e4AExAVKhQKEgmxpjklfSCUaxGqoXUpBR3_hg",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161088849"
    }
   },
   {
@@ -15138,8 +15121,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.42241102,
-     -27.26791312
+     152.42139223,
+     -27.26760101
     ]
    },
    "properties": {
@@ -15401,7 +15384,7 @@
     "name": "LOT 14 IPSWICH STREET ESK 4312",
     "locID": "LOC000073611190",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162287134"
    }
   },
@@ -15580,6 +15563,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.41768383,
+     -27.24940351
+    ]
+   },
+   "properties": {
+    "name": "LOT 131 ESK - HAMPTON ROAD ESK 4312",
+    "locID": "EisxMzEgRXNrIEhhbXB0b24gUmQsIEVzayBRTEQgNDMxMiwgQXVzdHJhbGlhIjESLwoUChIJpfE_-9eflmsRsKO9h7xsRoIQgwEqFAoSCUOJ7KykhJZrER3izvxT022K",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162505397"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.41811881,
+     -27.24741466
+    ]
+   },
+   "properties": {
+    "name": "LOT 132 ESK - HAMPTON ROAD ESK 4312",
+    "locID": "EisxMzIgRXNrIEhhbXB0b24gUmQsIEVzayBRTEQgNDMxMiwgQXVzdHJhbGlhIjESLwoUChIJpfE_-9eflmsR4rDLukKhZzcQhAEqFAoSCUOJ7KykhJZrER3izvxT022K",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162505398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.41911181,
+     -27.2426696
+    ]
+   },
+   "properties": {
+    "name": "LOT 134 ESK - HAMPTON ROAD ESK 4312",
+    "locID": "EisxMzQgRXNrIEhhbXB0b24gUmQsIEVzayBRTEQgNDMxMiwgQXVzdHJhbGlhIjESLwoUChIJpfE_-9eflmsR4rDLukKhZzcQhgEqFAoSCUOJ7KykhJZrER3izvxT022K",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162505399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.41968995,
      -27.24752728
     ]
@@ -15692,23 +15726,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162505432"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.43567512,
-     -27.2756366
-    ]
-   },
-   "properties": {
-    "name": "LOT 13 GATTON-ESK ROAD ESK 4312",
-    "locID": "EikxMyBHYXR0b24gRXNrIFJkLCBFc2sgUUxEIDQzMTIsIEF1c3RyYWxpYSIwEi4KFAoSCcuw60qan5ZrEZ2IUjAvlABVEA0qFAoSCQuTy5dEl5ZrEQhS4EuciQvt",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162507655"
    }
   },
   {
@@ -16098,7 +16115,7 @@
     "name": "UNIT 1, 130 IPSWICH STREET ESK 4312",
     "locID": "LOC000010782300",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162710950"
    }
   },
@@ -16115,7 +16132,7 @@
     "name": "SHOP 2, 130 IPSWICH STREET ESK 4312",
     "locID": "LOC000010829715",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162710951"
    }
   },
@@ -16642,7 +16659,7 @@
     "name": "UNIT 1, 17 BARBOUR STREET ESK 4312",
     "locID": "LOC000048627999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163055082"
    }
   },
@@ -17118,7 +17135,7 @@
     "name": "2 REDBANK STREET ESK 4312",
     "locID": "LOC000127567979",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163058974"
    }
   },
@@ -17169,7 +17186,7 @@
     "name": "UNIT 2, 17 BARBOUR STREET ESK 4312",
     "locID": "LOC000048627999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163120763"
    }
   },
@@ -17186,7 +17203,7 @@
     "name": "UNIT 3, 17 BARBOUR STREET ESK 4312",
     "locID": "LOC000048369819",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163120764"
    }
   },
@@ -17288,7 +17305,7 @@
     "name": "239 IPSWICH STREET ESK 4312",
     "locID": "LOC000127568215",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163216421"
    }
   },
@@ -18699,7 +18716,7 @@
     "name": "UNIT 1, 25 EDWARD STREET ESK 4312",
     "locID": "LOC000159624497",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425143082"
    }
   },
@@ -18716,7 +18733,7 @@
     "name": "UNIT 2, 25 EDWARD STREET ESK 4312",
     "locID": "LOC000159624903",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425143083"
    }
   },
@@ -19024,6 +19041,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425492645"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.4142438,
+     -27.23189583
+    ]
+   },
+   "properties": {
+    "name": "LOT 501 BRISBANE VALLEY HIGHWAY ESK 4312",
+    "locID": "EjQ1MDEgQnJpc2JhbmUgVmFsbGV5IEhpZ2h3YXksIEVzayBRTEQgNDMxMiwgQXVzdHJhbGlhIjESLwoUChIJ64TbN28glGsRlsAA0ayUhpcQ9QMqFAoSCbOGtIo-I5RrEdnTGFwzvU_0",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425585838"
    }
   },
   {
@@ -20408,23 +20442,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.41529526,
-     -27.23214307
-    ]
-   },
-   "properties": {
-    "name": "LOT 49 KEELEY PLACE ESK 4312",
-    "locID": "EiU0OSBLZWVsZXkgUGwsIEVzayBRTEQgNDMxMiwgQXVzdHJhbGlhIjASLgoUChIJw2N2CGYglGsR6PvR_UKpYzgQMSoUChIJw2N2CGYglGsR43L5oY-p-T0",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720871275"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.41532774,
      -27.23194433
     ]
@@ -20466,7 +20483,7 @@
    "properties": {
     "name": "33 PINE CRESCENT ESK 4312",
     "locID": "ChIJHSzn0qCflmsRPjEVyCVRbPY",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720931337"
    }
@@ -20653,7 +20670,7 @@
    "properties": {
     "name": "354 LANGTONS LANE ESK 4312",
     "locID": "ChIJaWjAC1KelmsRSHleW8EFT5k",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721149695"
    }
@@ -20765,8 +20782,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.43182114,
-     -27.27439959
+     152.43567512,
+     -27.2756366
     ]
    },
    "properties": {
@@ -20775,6 +20792,57 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721265971"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.41529526,
+     -27.23214307
+    ]
+   },
+   "properties": {
+    "name": "5 KEELEY PLACE ESK 4312",
+    "locID": "LOC000192864383",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309440"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.40742873,
+     -27.23447833
+    ]
+   },
+   "properties": {
+    "name": "28 BURNSIDE COURT ESK 4312",
+    "locID": "EicyOCBCdXJuc2lkZSBDdCwgRXNrIFFMRCA0MzEyLCBBdXN0cmFsaWEiMBIuChQKEgmxpjklfSCUaxHgwfVX8e4AExAcKhQKEgmxpjklfSCUaxGqoXUpBR3_hg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.41091309,
+     -27.25458823
+    ]
+   },
+   "properties": {
+    "name": "61 LANGTONS LANE ESK 4312",
+    "locID": "Eic2MSBMYW5ndG9ucyBMbiwgRXNrIFFMRCA0MzEyLCBBdXN0cmFsaWEiMBIuChQKEglXNzYG0p-WaxFgttq1afQYpBA9KhQKEgnFCpkMUp6WaxHz91kGIw6yxw",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311839"
    }
   }
  ]

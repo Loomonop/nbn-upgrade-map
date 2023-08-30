@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T15:01:25.159863",
+ "generated": "2023-08-30T22:14:38.681629",
  "suburb": "DUGANDAN",
  "features": [
   {
@@ -2583,7 +2583,7 @@
     "name": "124 BOONAH - RATHDOWNEY ROAD DUGANDAN 4310",
     "locID": "LOC000094206506",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159848844"
    }
   },
@@ -2787,7 +2787,7 @@
     "name": "16 BRUCKNER STREET DUGANDAN 4310",
     "locID": "LOC000006704712",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160968465"
    }
   },
@@ -2871,7 +2871,7 @@
    "properties": {
     "name": "LOT 15 EVANS ROAD DUGANDAN 4310",
     "locID": "EikxNSBFdmFucyBSZCwgRHVnYW5kYW4gUUxEIDQzMTAsIEF1c3RyYWxpYSIwEi4KFAoSCWkQL4NIKJdrERyoq5EmTS5eEA8qFAoSCf9Dzae1KZdrEW9YwAOpZY6x",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161143449"
    }
@@ -2905,7 +2905,7 @@
    "properties": {
     "name": "LOT 7 EVANS ROAD DUGANDAN 4310",
     "locID": "Eig3IEV2YW5zIFJkLCBEdWdhbmRhbiBRTEQgNDMxMCwgQXVzdHJhbGlhIjASLgoUChIJaRAvg0gol2sRHKirkSZNLl4QByoUChIJ_0PNp7Upl2sRb1jAA6lljrE",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161143459"
    }
@@ -4980,7 +4980,7 @@
     "name": "18 BRUCKNER STREET DUGANDAN 4310",
     "locID": "LOC000064644747",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163252848"
    }
   },
@@ -4997,7 +4997,7 @@
     "name": "20 BRUCKNER STREET DUGANDAN 4310",
     "locID": "LOC000006784930",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163252849"
    }
   },
@@ -5337,7 +5337,7 @@
     "name": "22 BRUCKNER STREET DUGANDAN 4310",
     "locID": "LOC000127566532",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD424998842"
    }
   },
@@ -5354,7 +5354,7 @@
     "name": "24 BRUCKNER STREET DUGANDAN 4310",
     "locID": "LOC000127570041",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD424998843"
    }
   },
@@ -6196,6 +6196,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.67985322,
+     -28.0065904
+    ]
+   },
+   "properties": {
+    "name": "LOT 20 BOONAH - RATHDOWNEY ROAD DUGANDAN 4310",
+    "locID": "LOC000062652905",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425327944"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.67671221,
      -28.01732995
     ]
@@ -6536,6 +6553,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.68260218,
+     -28.00528169
+    ]
+   },
+   "properties": {
+    "name": "LOT 98 BRUCKNER STREET DUGANDAN 4310",
+    "locID": "EjE5OCBCcnVja25lciBIaWxsIFJkLCBEdWdhbmRhbiBRTEQgNDMxMCwgQXVzdHJhbGlhIjASLgoUChIJ20JFQ9Epl2sRrWuSB3O5KyEQYioUChIJOWb0tdMpl2sRsPfPl1BJIZU",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719337409"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.67371336,
      -28.02398148
     ]
@@ -6553,8 +6587,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.67985322,
-     -28.0065904
+     152.67399665,
+     -28.01681539
     ]
    },
    "properties": {
