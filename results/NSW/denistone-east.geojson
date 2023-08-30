@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T14:13:10.225569",
+ "generated": "2023-08-30T06:10:14.868706",
  "suburb": "DENISTONE EAST",
  "features": [
   {
@@ -3024,8 +3024,8 @@
    "properties": {
     "name": "24 GALLARD STREET DENISTONE EAST 2112",
     "locID": "LOC000098996526",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704579581"
    }
   },
@@ -3724,6 +3724,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704580278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.09899527,
+     -33.79632582
+    ]
+   },
+   "properties": {
+    "name": "12 RICHMOND STREET DENISTONE EAST 2112",
+    "locID": "LOC000193546098",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704580279"
    }
   },
   {
@@ -4989,23 +5006,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10105426,
-     -33.79621076
-    ]
-   },
-   "properties": {
-    "name": "38 CECIL STREET DENISTONE EAST 2112",
-    "locID": "LOC000095663333",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704593424"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.10156891,
      -33.79652673
     ]
@@ -5713,23 +5713,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706432316"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.10327478,
-     -33.79910623
-    ]
-   },
-   "properties": {
-    "name": "74 NORTH ROAD DENISTONE EAST 2112",
-    "locID": "LOC000054675389",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706432317"
    }
   },
   {
@@ -15182,6 +15165,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721244797"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10064796,
+     -33.80133057
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 377 BLAXLAND ROAD DENISTONE EAST 2112",
+    "locID": "LOC000149305445",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721330781"
    }
   }
  ]

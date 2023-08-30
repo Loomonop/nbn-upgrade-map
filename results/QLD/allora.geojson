@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T14:26:29.519114",
+ "generated": "2023-08-30T06:19:15.010690",
  "suburb": "ALLORA",
  "features": [
   {
@@ -4334,7 +4334,7 @@
     "name": "86 HERBERT STREET ALLORA 4362",
     "locID": "LOC000044994301",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156198914"
    }
   },
@@ -4351,7 +4351,7 @@
     "name": "88 HERBERT STREET ALLORA 4362",
     "locID": "LOC000109180857",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156198915"
    }
   },
@@ -4589,7 +4589,7 @@
     "name": "2 MUIR STREET ALLORA 4362",
     "locID": "LOC000062466460",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156198933"
    }
   },
@@ -4606,7 +4606,7 @@
     "name": "7 MUIR STREET ALLORA 4362",
     "locID": "LOC000173883010",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156198935"
    }
   },
@@ -5609,7 +5609,7 @@
     "name": "40 HERBERT STREET ALLORA 4362",
     "locID": "LOC000095439933",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156200594"
    }
   },
@@ -5728,7 +5728,7 @@
     "name": "50 HERBERT STREET ALLORA 4362",
     "locID": "LOC000089459648",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156200603"
    }
   },
@@ -5796,7 +5796,7 @@
     "name": "57 HERBERT STREET ALLORA 4362",
     "locID": "LOC000029886568",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156200607"
    }
   },
@@ -5813,7 +5813,7 @@
     "name": "59 HERBERT STREET ALLORA 4362",
     "locID": "LOC000048182804",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156200608"
    }
   },
@@ -7003,7 +7003,7 @@
     "name": "40 RAFF STREET ALLORA 4362",
     "locID": "LOC000037619329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157436564"
    }
   },
@@ -7088,7 +7088,7 @@
     "name": "UNIT 1, 86 HERBERT STREET ALLORA 4362",
     "locID": "LOC000044994301",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157436721"
    }
   },
@@ -7105,7 +7105,7 @@
     "name": "UNIT 2, 86 HERBERT STREET ALLORA 4362",
     "locID": "LOC000044939486",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157436726"
    }
   },
@@ -8992,7 +8992,7 @@
     "name": "UNIT 1, 2 MUIR STREET ALLORA 4362",
     "locID": "LOC000062466460",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159960057"
    }
   },
@@ -9009,7 +9009,7 @@
     "name": "UNIT 2, 2 MUIR STREET ALLORA 4362",
     "locID": "LOC000062466460",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159960058"
    }
   },
@@ -9026,7 +9026,7 @@
     "name": "UNIT 3, 2 MUIR STREET ALLORA 4362",
     "locID": "LOC000062466460",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159960059"
    }
   },
@@ -9043,7 +9043,7 @@
     "name": "UNIT 4, 2 MUIR STREET ALLORA 4362",
     "locID": "LOC000062466460",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159960060"
    }
   },
@@ -9247,7 +9247,7 @@
     "name": "46 HERBERT STREET ALLORA 4362",
     "locID": "LOC000127759844",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160724674"
    }
   },
@@ -10038,6 +10038,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.98831511,
+     -28.02259084
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 NEW ENGLAND HIGHWAY ALLORA 4362",
+    "locID": "LOC000006636140",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161253901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.99334604,
      -28.046217
     ]
@@ -10046,7 +10063,7 @@
     "name": "LOT 3 NEW ENGLAND HIGHWAY ALLORA 4362",
     "locID": "LOC000127756402",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161253902"
    }
   },
@@ -10828,7 +10845,7 @@
     "name": "3 MUIR STREET ALLORA 4362",
     "locID": "LOC000127756397",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161449637"
    }
   },
@@ -10964,7 +10981,7 @@
     "name": "3 NEW ENGLAND HIGHWAY ALLORA 4362",
     "locID": "LOC000127756402",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161450189"
    }
   },
@@ -14959,7 +14976,7 @@
     "name": "88A HERBERT STREET ALLORA 4362",
     "locID": "LOC000189529307",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD720931072"
    }
   },
@@ -14995,6 +15012,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721150733"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.97866722,
+     -28.04192834
+    ]
+   },
+   "properties": {
+    "name": "169 SOUTH STREET ALLORA 4362",
+    "locID": "EigxNjkgU291dGggU3QsIEFsbG9yYSBRTEQgNDM2MiwgQXVzdHJhbGlhIjESLwoUChIJLUh_S96ll2sRUKgQWPHuABMQqQEqFAoSCScKf7t0ppdrEVdh5tZMkeNm",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306559"
    }
   }
  ]
