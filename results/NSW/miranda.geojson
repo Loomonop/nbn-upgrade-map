@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T18:16:04.684678",
+ "generated": "2023-08-30T09:51:24.137853",
  "suburb": "MIRANDA",
  "features": [
   {
@@ -9205,8 +9205,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.11094258,
-     -34.03759542
+     151.11100127,
+     -34.03763386
     ]
    },
    "properties": {
@@ -10395,8 +10395,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10527632,
-     -34.03715105
+     151.10525565,
+     -34.03712532
     ]
    },
    "properties": {
@@ -12843,8 +12843,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09532269,
-     -34.03995358
+     151.09528573,
+     -34.03994176
     ]
    },
    "properties": {
@@ -19762,8 +19762,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09518608,
-     -34.04145564
+     151.09514139,
+     -34.04144831
     ]
    },
    "properties": {
@@ -24343,7 +24343,7 @@
     "name": "113 BELLINGARA ROAD MIRANDA 2228",
     "locID": "LOC000192616793",
     "tech": "NULL",
-    "upgrade": "NULL_NA",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705376740"
    }
   },
@@ -25719,8 +25719,8 @@
    "properties": {
     "name": "7 MAWARRA AVENUE MIRANDA 2228",
     "locID": "LOC000011310516",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705377282"
    }
   },
@@ -29792,8 +29792,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09739273,
-     -34.03925741
+     151.09736958,
+     -34.0393677
     ]
    },
    "properties": {
@@ -29884,8 +29884,8 @@
    "properties": {
     "name": "230 PRESIDENT AVENUE MIRANDA 2228",
     "locID": "LOC000030841420",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705379075"
    }
   },
@@ -31033,8 +31033,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10786253,
-     -34.0337393
+     151.10789409,
+     -34.03370725
     ]
    },
    "properties": {
@@ -32104,8 +32104,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.11388843,
-     -34.02896365
+     151.11391411,
+     -34.02937847
     ]
    },
    "properties": {
@@ -35164,8 +35164,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09910137,
-     -34.02677854
+     151.09922874,
+     -34.0267975
     ]
    },
    "properties": {
@@ -41573,23 +41573,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.11338131,
-     -34.02801204
-    ]
-   },
-   "properties": {
-    "name": "5 EDWARD AVENUE MIRANDA 2228",
-    "locID": "LOC000007916971",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705383327"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.1140846,
      -34.02801075
     ]
@@ -43944,7 +43927,7 @@
     "name": "23 INGARA AVENUE MIRANDA 2228",
     "locID": "LOC000054521762",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705384241"
    }
   },
@@ -45983,8 +45966,8 @@
    "properties": {
     "name": "85 FOREST ROAD MIRANDA 2228",
     "locID": "LOC000066332963",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705385284"
    }
   },
@@ -48400,6 +48383,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705386052"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.09830395,
+     -34.02684355
+    ]
+   },
+   "properties": {
+    "name": "23 MACARTNEY STREET MIRANDA 2228",
+    "locID": "ChIJyfcj34DHEmsRfMSfXyAOF_0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW705386053"
    }
   },
   {
@@ -54501,7 +54501,7 @@
     "name": "9 FLETCHER AVENUE MIRANDA 2228",
     "locID": "LOC000009699237",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705389911"
    }
   },
@@ -63663,8 +63663,8 @@
    "properties": {
     "name": "163 PARRAWEENA ROAD MIRANDA 2228",
     "locID": "LOC000017903241",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705398321"
    }
   },
@@ -66631,16 +66631,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10684241,
-     -34.04142101
+     151.10661918,
+     -34.04127687
     ]
    },
    "properties": {
-    "name": "146 PRESIDENT AVENUE MIRANDA 2228",
-    "locID": "LOC000191774893",
-    "tech": "FTTP",
+    "name": "148 PRESIDENT AVENUE MIRANDA 2228",
+    "locID": "LOC000193315360",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707565508"
+    "gnaf_pid": "GANSW707565509"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10653733,
+     -34.0412522
+    ]
+   },
+   "properties": {
+    "name": "150 PRESIDENT AVENUE MIRANDA 2228",
+    "locID": "LOC000193315360",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW707565510"
    }
   },
   {
@@ -66808,8 +66825,8 @@
    "properties": {
     "name": "2A KARIMBLA ROAD MIRANDA 2228",
     "locID": "LOC000097711746",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW707568873"
    }
   },
@@ -67015,23 +67032,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW707574322"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.10699767,
-     -34.04144223
-    ]
-   },
-   "properties": {
-    "name": "144 PRESIDENT AVENUE MIRANDA 2228",
-    "locID": "LOC000191774893",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707574323"
    }
   },
   {
@@ -70830,8 +70830,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10527632,
-     -34.03715105
+     151.10525565,
+     -34.03712532
     ]
    },
    "properties": {
@@ -70847,8 +70847,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10527632,
-     -34.03715105
+     151.10525565,
+     -34.03712532
     ]
    },
    "properties": {
@@ -71670,8 +71670,8 @@
    "properties": {
     "name": "201 THE BOULEVARDE MIRANDA 2228",
     "locID": "LOC000051399208",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW711560339"
    }
   },
@@ -71721,8 +71721,8 @@
    "properties": {
     "name": "163 THE BOULEVARDE MIRANDA 2228",
     "locID": "LOC000062792394",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711560342"
    }
   },
@@ -71935,8 +71935,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10527632,
-     -34.03715105
+     151.10525565,
+     -34.03712532
     ]
    },
    "properties": {
@@ -71952,8 +71952,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10527632,
-     -34.03715105
+     151.10525565,
+     -34.03712532
     ]
    },
    "properties": {
@@ -76406,8 +76406,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10527632,
-     -34.03715105
+     151.10525565,
+     -34.03712532
     ]
    },
    "properties": {
@@ -81064,8 +81064,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09222284,
-     -34.03648229
+     151.09211465,
+     -34.03646654
     ]
    },
    "properties": {
@@ -88425,8 +88425,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10527632,
-     -34.03715105
+     151.10525565,
+     -34.03712532
     ]
    },
    "properties": {
@@ -98625,7 +98625,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -109369,8 +109369,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.10810803,
-     -34.04233359
+     151.10814814,
+     -34.04233907
     ]
    },
    "properties": {
@@ -110872,8 +110872,8 @@
    "properties": {
     "name": "75 MATSON CRESCENT MIRANDA 2228",
     "locID": "LOC000042932551",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717580319"
    }
   },
@@ -121524,8 +121524,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -121898,8 +121898,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -125441,8 +125441,8 @@
    "properties": {
     "name": "43 KAREENA ROAD MIRANDA 2228",
     "locID": "LOC000074610236",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717906783"
    }
   },
@@ -125808,8 +125808,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.11443627,
-     -34.03344917
+     151.11436303,
+     -34.03342618
     ]
    },
    "properties": {
@@ -129668,7 +129668,7 @@
     "type": "Point",
     "coordinates": [
      151.09781379,
-     -34.03092196
+     -34.03092197
     ]
    },
    "properties": {
@@ -129770,7 +129770,7 @@
     "type": "Point",
     "coordinates": [
      151.0978138,
-     -34.03092196
+     -34.03092197
     ]
    },
    "properties": {
@@ -129957,7 +129957,7 @@
     "type": "Point",
     "coordinates": [
      151.09781379,
-     -34.03092196
+     -34.03092197
     ]
    },
    "properties": {
@@ -130127,7 +130127,7 @@
     "type": "Point",
     "coordinates": [
      151.09781376,
-     -34.03092196
+     -34.03092197
     ]
    },
    "properties": {
@@ -130303,7 +130303,7 @@
    "properties": {
     "name": "3 WANDELLA ROAD MIRANDA 2228",
     "locID": "LOC000191865822",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717911339"
    }
@@ -131401,8 +131401,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131469,8 +131469,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131520,8 +131520,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131588,8 +131588,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131656,8 +131656,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131724,8 +131724,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131792,8 +131792,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131843,8 +131843,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131894,8 +131894,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -131945,8 +131945,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132013,8 +132013,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132064,8 +132064,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132115,8 +132115,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132166,8 +132166,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132217,8 +132217,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132251,8 +132251,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132302,8 +132302,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132353,8 +132353,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132404,8 +132404,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132455,8 +132455,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132506,8 +132506,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132574,8 +132574,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132625,8 +132625,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132676,8 +132676,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132727,8 +132727,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132778,8 +132778,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132812,8 +132812,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132863,8 +132863,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132914,8 +132914,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -132965,8 +132965,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -133016,8 +133016,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -133067,8 +133067,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -133135,8 +133135,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -133186,8 +133186,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -133407,8 +133407,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -133662,8 +133662,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -133900,8 +133900,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -134138,8 +134138,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -134274,8 +134274,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -134325,8 +134325,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -135294,8 +135294,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -137419,8 +137419,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -140190,8 +140190,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -140513,8 +140513,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -140530,8 +140530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -140547,8 +140547,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -140564,8 +140564,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -140581,8 +140581,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09890116,
-     -34.03062662
+     151.09890117,
+     -34.03062663
     ]
    },
    "properties": {
@@ -176077,7 +176077,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176094,7 +176094,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176162,7 +176162,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176247,7 +176247,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176264,7 +176264,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176281,7 +176281,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176298,7 +176298,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176315,7 +176315,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176349,7 +176349,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176366,7 +176366,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176383,7 +176383,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176400,7 +176400,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176417,7 +176417,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176451,7 +176451,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176468,7 +176468,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176502,7 +176502,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176519,7 +176519,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176587,7 +176587,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176604,7 +176604,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176621,7 +176621,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176638,7 +176638,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176672,7 +176672,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176689,7 +176689,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176706,7 +176706,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176723,7 +176723,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176740,7 +176740,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176757,7 +176757,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176774,7 +176774,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176808,7 +176808,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176825,7 +176825,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176859,7 +176859,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176876,7 +176876,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176893,7 +176893,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176910,7 +176910,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176927,7 +176927,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176944,7 +176944,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176961,7 +176961,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -176978,7 +176978,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177012,7 +177012,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177029,7 +177029,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177046,7 +177046,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177080,7 +177080,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177114,7 +177114,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177131,7 +177131,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177165,7 +177165,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177216,7 +177216,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177233,7 +177233,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177250,7 +177250,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177267,7 +177267,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177284,7 +177284,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177301,7 +177301,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177318,7 +177318,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177335,7 +177335,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177352,7 +177352,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177386,7 +177386,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177403,7 +177403,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177420,7 +177420,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177437,7 +177437,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177454,7 +177454,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177471,7 +177471,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177522,7 +177522,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177539,7 +177539,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177573,7 +177573,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177607,7 +177607,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177624,7 +177624,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177675,7 +177675,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177709,7 +177709,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177743,7 +177743,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177760,7 +177760,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177794,7 +177794,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177811,7 +177811,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -177828,7 +177828,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09566804,
+     151.09566805,
      -34.03399424
     ]
    },
@@ -188225,6 +188225,465 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721262007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.11092287,
+     -34.03757771
+    ]
+   },
+   "properties": {
+    "name": "34B CARRAMAR CRESCENT MIRANDA 2228",
+    "locID": "LOC000191710075",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315215"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.09235873,
+     -34.0365021
+    ]
+   },
+   "properties": {
+    "name": "1 KIAH PLACE MIRANDA 2228",
+    "locID": "LOC000078677049",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.09514139,
+     -34.04144831
+    ]
+   },
+   "properties": {
+    "name": "32B RAGLAN ROAD MIRANDA 2228",
+    "locID": "LOC000190470183",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315727"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10806766,
+     -34.04232789
+    ]
+   },
+   "properties": {
+    "name": "6B CROSS STREET MIRANDA 2228",
+    "locID": "LOC000192171918",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316452"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10575401,
+     -34.03895685
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 14 MOOKI STREET MIRANDA 2228",
+    "locID": "LOC000002249368",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316804"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10575401,
+     -34.03895685
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 14 MOOKI STREET MIRANDA 2228",
+    "locID": "LOC000002249368",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316828"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10814814,
+     -34.04233907
+    ]
+   },
+   "properties": {
+    "name": "6A CROSS STREET MIRANDA 2228",
+    "locID": "LOC000192171902",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316897"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.11100127,
+     -34.03763386
+    ]
+   },
+   "properties": {
+    "name": "34A CARRAMAR CRESCENT MIRANDA 2228",
+    "locID": "LOC000191710068",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721317509"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10575401,
+     -34.03895685
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 14 MOOKI STREET MIRANDA 2228",
+    "locID": "LOC000002249368",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721317722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.11436303,
+     -34.03342618
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 68 KAREENA ROAD MIRANDA 2228",
+    "locID": "LOC000192483745",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721317785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.09537517,
+     -34.03995473
+    ]
+   },
+   "properties": {
+    "name": "11A CARTLEDGE AVENUE MIRANDA 2228",
+    "locID": "LOC000192485873",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318944"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.11436303,
+     -34.03342618
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 68 KAREENA ROAD MIRANDA 2228",
+    "locID": "LOC000192483692",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721319195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10575401,
+     -34.03895685
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 14 MOOKI STREET MIRANDA 2228",
+    "locID": "LOC000002249368",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721320115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10691962,
+     -34.04142568
+    ]
+   },
+   "properties": {
+    "name": "144-146 PRESIDENT AVENUE MIRANDA 2228",
+    "locID": "LOC000191774886",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721320465"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0952291,
+     -34.04146096
+    ]
+   },
+   "properties": {
+    "name": "32A RAGLAN ROAD MIRANDA 2228",
+    "locID": "LOC000190470177",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721322555"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0974154,
+     -34.03915414
+    ]
+   },
+   "properties": {
+    "name": "61 WANDELLA ROAD MIRANDA 2228",
+    "locID": "LOC000090343214",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721322906"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10769826,
+     -34.0407401
+    ]
+   },
+   "properties": {
+    "name": "139A PRESIDENT AVENUE MIRANDA 2228",
+    "locID": "LOC000077912111",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721323664"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10575401,
+     -34.03895685
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 14 MOOKI STREET MIRANDA 2228",
+    "locID": "LOC000002249368",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.09895879,
+     -34.02675714
+    ]
+   },
+   "properties": {
+    "name": "18 MACARTNEY STREET MIRANDA 2228",
+    "locID": "LOC000180777669",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324479"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.11436303,
+     -34.03342618
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 68 KAREENA ROAD MIRANDA 2228",
+    "locID": "LOC000192483745",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10760151,
+     -34.04072704
+    ]
+   },
+   "properties": {
+    "name": "139B PRESIDENT AVENUE MIRANDA 2228",
+    "locID": "LOC000077912111",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721325320"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10789409,
+     -34.03370725
+    ]
+   },
+   "properties": {
+    "name": "15A VENTURA AVENUE MIRANDA 2228",
+    "locID": "LOC000190483236",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.09528573,
+     -34.03994176
+    ]
+   },
+   "properties": {
+    "name": "11B CARTLEDGE AVENUE MIRANDA 2228",
+    "locID": "LOC000192485873",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721326101"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10575401,
+     -34.03895685
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 14 MOOKI STREET MIRANDA 2228",
+    "locID": "LOC000002249368",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721326328"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.1078326,
+     -34.03377169
+    ]
+   },
+   "properties": {
+    "name": "15B VENTURA AVENUE MIRANDA 2228",
+    "locID": "LOC000190483243",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721326741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.1172206,
+     -34.02654765
+    ]
+   },
+   "properties": {
+    "name": "137A PARRAWEENA ROAD MIRANDA 2228",
+    "locID": "LOC000025546637",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721330568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.10782705,
+     -34.03633221
+    ]
+   },
+   "properties": {
+    "name": "UNIT 215, 58 MIRANDA ROAD MIRANDA 2228",
+    "locID": "LOC000165475938",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721332570"
    }
   }
  ]
