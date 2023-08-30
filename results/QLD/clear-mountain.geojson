@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T13:56:11.194840",
+ "generated": "2023-08-30T21:13:27.906071",
  "suburb": "CLEAR MOUNTAIN",
  "features": [
   {
@@ -2480,8 +2480,8 @@
    "properties": {
     "name": "44 BRANCH CREEK ROAD CLEAR MOUNTAIN 4500",
     "locID": "LOC000065813589",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157765703"
    }
   },
@@ -2736,7 +2736,7 @@
     "name": "9 BURANDA ROAD CLEAR MOUNTAIN 4500",
     "locID": "LOC000062780762",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160993690"
    }
   },
@@ -3348,7 +3348,7 @@
     "name": "157 BURANDA ROAD CLEAR MOUNTAIN 4500",
     "locID": "LOC000062780762",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162082401"
    }
   },
@@ -3976,7 +3976,7 @@
    "properties": {
     "name": "7 HIGHLANDER COURT CLEAR MOUNTAIN 4500",
     "locID": "LOC000031709194",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162509939"
    }
@@ -5159,6 +5159,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.91221985,
+     -27.32627202
+    ]
+   },
+   "properties": {
+    "name": "2 BRANCH CREEK ROAD CLEAR MOUNTAIN 4500",
+    "locID": "LOC000054022918",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425199540"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.89790493,
      -27.33007108
     ]
@@ -5288,6 +5305,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425201591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.91221985,
+     -27.32627202
+    ]
+   },
+   "properties": {
+    "name": "85 CLEAR MOUNTAIN ROAD CLEAR MOUNTAIN 4500",
+    "locID": "LOC100055356854",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425201592"
    }
   },
   {
