@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T15:42:34.439778",
+ "generated": "2023-08-30T07:32:03.614468",
  "suburb": "VAUCLUSE",
  "features": [
   {
@@ -1138,7 +1138,7 @@
     "name": "309 MILITARY ROAD VAUCLUSE 2030",
     "locID": "LOC000158518898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706132693"
    }
   },
@@ -2566,7 +2566,7 @@
     "name": "5 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000072155015",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706133243"
    }
   },
@@ -3075,7 +3075,7 @@
    "properties": {
     "name": "UNIT 1, 12 BURGE STREET VAUCLUSE 2030",
     "locID": "LOC000191729754",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706133296"
    }
@@ -3092,7 +3092,7 @@
    "properties": {
     "name": "UNIT 2, 12 BURGE STREET VAUCLUSE 2030",
     "locID": "LOC000191729731",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706133297"
    }
@@ -3109,7 +3109,7 @@
    "properties": {
     "name": "UNIT 3, 12 BURGE STREET VAUCLUSE 2030",
     "locID": "LOC000191729749",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706133298"
    }
@@ -5438,8 +5438,8 @@
    "properties": {
     "name": "11 WILFIELD AVENUE VAUCLUSE 2030",
     "locID": "LOC000018440479",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW706136332"
    }
   },
@@ -5490,7 +5490,7 @@
     "name": "14 WILFIELD AVENUE VAUCLUSE 2030",
     "locID": "LOC000039701062",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706136337"
    }
   },
@@ -7760,23 +7760,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.27372779,
-     -33.8636527
-    ]
-   },
-   "properties": {
-    "name": "9 HILLSIDE AVENUE VAUCLUSE 2030",
-    "locID": "LOC000005480211",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706138816"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.27508188,
      -33.85540028
     ]
@@ -8040,7 +8023,7 @@
     "name": "669 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158521250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706139551"
    }
   },
@@ -8771,7 +8754,7 @@
     "name": "95 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706139857"
    }
   },
@@ -11320,7 +11303,7 @@
    "properties": {
     "name": "4 BURGE STREET VAUCLUSE 2030",
     "locID": "LOC000191729754",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706143252"
    }
@@ -11882,7 +11865,7 @@
     "name": "344 MILITARY ROAD VAUCLUSE 2030",
     "locID": "LOC000022244974",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706143464"
    }
   },
@@ -11984,7 +11967,7 @@
     "name": "743A OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000039549894",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706143496"
    }
   },
@@ -12341,7 +12324,7 @@
     "name": "7 CRAIG AVENUE VAUCLUSE 2030",
     "locID": "LOC000093519489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706146055"
    }
   },
@@ -13361,7 +13344,7 @@
     "name": "27 GIRILANG AVENUE VAUCLUSE 2030",
     "locID": "LOC000063432002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706146362"
    }
   },
@@ -15282,7 +15265,7 @@
     "name": "43 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000086285893",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706146607"
    }
   },
@@ -15299,7 +15282,7 @@
     "name": "44 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000028130952",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706146608"
    }
   },
@@ -15333,7 +15316,7 @@
     "name": "46 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000061012213",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706146610"
    }
   },
@@ -19592,23 +19575,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.27790495,
-     -33.86012795
-    ]
-   },
-   "properties": {
-    "name": "4 BILLONG AVENUE VAUCLUSE 2030",
-    "locID": "LOC000057452428",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706156535"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.27843126,
      -33.8606424
     ]
@@ -20756,7 +20722,7 @@
     "name": "UNIT 1, 34 GIRILANG AVENUE VAUCLUSE 2030",
     "locID": "LOC000055840442",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706156643"
    }
   },
@@ -20773,7 +20739,7 @@
     "name": "UNIT 2, 34 GIRILANG AVENUE VAUCLUSE 2030",
     "locID": "LOC000055935654",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706156644"
    }
   },
@@ -20790,7 +20756,7 @@
     "name": "34 GIRILANG AVENUE VAUCLUSE 2030",
     "locID": "LOC000055840442",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706156645"
    }
   },
@@ -21538,7 +21504,7 @@
     "name": "18 KIMBERLEY STREET VAUCLUSE 2030",
     "locID": "LOC000099747499",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706156829"
    }
   },
@@ -21589,7 +21555,7 @@
     "name": "UNIT 1, 20 KIMBERLEY STREET VAUCLUSE 2030",
     "locID": "LOC000061540694",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706156832"
    }
   },
@@ -21606,7 +21572,7 @@
     "name": "UNIT 2, 20 KIMBERLEY STREET VAUCLUSE 2030",
     "locID": "LOC000061338605",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706156833"
    }
   },
@@ -23238,7 +23204,7 @@
     "name": "48 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000181038097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706160105"
    }
   },
@@ -24955,7 +24921,7 @@
     "name": "103 KINGS ROAD VAUCLUSE 2030",
     "locID": "LOC000089808426",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706160434"
    }
   },
@@ -25430,8 +25396,8 @@
    "properties": {
     "name": "33 KINGS ROAD VAUCLUSE 2030",
     "locID": "LOC000040328745",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW706160462"
    }
   },
@@ -25907,7 +25873,7 @@
     "name": "10 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520671",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706160495"
    }
   },
@@ -26502,7 +26468,7 @@
     "name": "108 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000085637394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706163697"
    }
   },
@@ -26604,7 +26570,7 @@
     "name": "12 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000007340892",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706163703"
    }
   },
@@ -26638,7 +26604,7 @@
     "name": "122 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000064376397",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706163705"
    }
   },
@@ -26825,7 +26791,7 @@
     "name": "164 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000014124973",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706163721"
    }
   },
@@ -28984,7 +28950,7 @@
     "name": "UNIT 1, 6 MONS STREET VAUCLUSE 2030",
     "locID": "LOC000026392329",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706166863"
    }
   },
@@ -29001,7 +28967,7 @@
     "name": "UNIT 2, 6 MONS STREET VAUCLUSE 2030",
     "locID": "LOC000026392329",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706166864"
    }
   },
@@ -29018,7 +28984,7 @@
     "name": "6 MONS STREET VAUCLUSE 2030",
     "locID": "LOC000026392329",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706166865"
    }
   },
@@ -30387,6 +30353,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.2790522,
+     -33.85554166
+    ]
+   },
+   "properties": {
+    "name": "11 VILLAGE LOWER ROAD VAUCLUSE 2030",
+    "locID": "LOC000193305072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706167481"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.27119131,
      -33.85616052
     ]
@@ -30676,7 +30659,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.28408791,
+     151.28408792,
      -33.85277615
     ]
    },
@@ -31619,7 +31602,7 @@
     "name": "UNIT 1, 43 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000086285893",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706170329"
    }
   },
@@ -31636,7 +31619,7 @@
     "name": "UNIT 2, 43 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000086263296",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706170330"
    }
   },
@@ -31653,7 +31636,7 @@
     "name": "20 KIMBERLEY STREET VAUCLUSE 2030",
     "locID": "LOC000061540694",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706170337"
    }
   },
@@ -32197,7 +32180,7 @@
     "name": "50 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000104014047",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706170372"
    }
   },
@@ -32231,7 +32214,7 @@
     "name": "52 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000071474733",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706170374"
    }
   },
@@ -32435,7 +32418,7 @@
     "name": "68 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520001",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706170401"
    }
   },
@@ -33659,7 +33642,7 @@
     "name": "UNIT 1, 19 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000086302669",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173483"
    }
   },
@@ -33676,7 +33659,7 @@
     "name": "UNIT 2, 19 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000086553716",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173484"
    }
   },
@@ -33693,7 +33676,7 @@
     "name": "19 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000086302669",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173485"
    }
   },
@@ -33744,7 +33727,7 @@
     "name": "UNIT 1, 21 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000103639273",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173488"
    }
   },
@@ -33761,7 +33744,7 @@
     "name": "UNIT 2, 21 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000103749102",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173489"
    }
   },
@@ -33778,7 +33761,7 @@
     "name": "21 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000103639273",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173490"
    }
   },
@@ -35614,7 +35597,7 @@
     "name": "14 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520766",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173972"
    }
   },
@@ -35801,7 +35784,7 @@
     "name": "16 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520811",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173983"
    }
   },
@@ -35852,7 +35835,7 @@
     "name": "UNIT 2, 15 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000066478780",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706173986"
    }
   },
@@ -36073,7 +36056,7 @@
     "name": "2 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158521002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706174000"
    }
   },
@@ -37280,7 +37263,7 @@
     "name": "3 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000002206574",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706174081"
    }
   },
@@ -37484,7 +37467,7 @@
     "name": "37 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000115268448",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706174093"
    }
   },
@@ -38368,7 +38351,7 @@
     "name": "4 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158521213",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176730"
    }
   },
@@ -38419,7 +38402,7 @@
     "name": "UNIT 1, 44 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000022836997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176733"
    }
   },
@@ -38436,7 +38419,7 @@
     "name": "UNIT 2, 44 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000022953650",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176734"
    }
   },
@@ -38453,7 +38436,7 @@
     "name": "44 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000022836997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176735"
    }
   },
@@ -38487,7 +38470,7 @@
     "name": "UNIT 1, 48 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000055944894",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176737"
    }
   },
@@ -38504,7 +38487,7 @@
     "name": "UNIT 2, 48 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000056101017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176738"
    }
   },
@@ -38521,7 +38504,7 @@
     "name": "48 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000056101017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176739"
    }
   },
@@ -38657,7 +38640,7 @@
     "name": "58 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000011469394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706176748"
    }
   },
@@ -40136,7 +40119,7 @@
     "name": "21 BLACK STREET VAUCLUSE 2030",
     "locID": "LOC000018758190",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706177328"
    }
   },
@@ -40339,7 +40322,7 @@
    "properties": {
     "name": "UNIT 4, 12 BURGE STREET VAUCLUSE 2030",
     "locID": "LOC000191729754",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706177347"
    }
@@ -41241,7 +41224,7 @@
     "name": "4 VILLAGE LOWER ROAD VAUCLUSE 2030",
     "locID": "LOC000172999052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706177724"
    }
   },
@@ -45423,7 +45406,7 @@
     "name": "9 RAY STREET VAUCLUSE 2030",
     "locID": "LOC000158522410",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706180733"
    }
   },
@@ -48466,7 +48449,7 @@
     "name": "97 KINGS ROAD VAUCLUSE 2030",
     "locID": "LOC000080123091",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706184221"
    }
   },
@@ -48908,7 +48891,7 @@
     "name": "UNIT 1, 15 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000066556654",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706184252"
    }
   },
@@ -48942,7 +48925,7 @@
     "name": "UNIT 1, 17 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000023097057",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706184254"
    }
   },
@@ -48959,7 +48942,7 @@
     "name": "UNIT 2, 17 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000023097057",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706184255"
    }
   },
@@ -48976,7 +48959,7 @@
     "name": "17 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000023097057",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706184256"
    }
   },
@@ -50574,7 +50557,7 @@
     "name": "UNIT 2, 334 MILITARY ROAD VAUCLUSE 2030",
     "locID": "LOC000064391437",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706195355"
    }
   },
@@ -50591,7 +50574,7 @@
     "name": "334 MILITARY ROAD VAUCLUSE 2030",
     "locID": "LOC000064391437",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706195356"
    }
   },
@@ -50625,7 +50608,7 @@
     "name": "693A OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158521278",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706195375"
    }
   },
@@ -51678,8 +51661,8 @@
    "properties": {
     "name": "320 MILITARY ROAD VAUCLUSE 2030",
     "locID": "LOC000038849935",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW706205620"
    }
   },
@@ -51883,7 +51866,7 @@
     "name": "UNIT 1, 334 MILITARY ROAD VAUCLUSE 2030",
     "locID": "LOC000062673017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706205633"
    }
   },
@@ -53141,7 +53124,7 @@
     "name": "1 VILLAGE HIGH ROAD VAUCLUSE 2030",
     "locID": "LOC000090262706",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706208913"
    }
   },
@@ -55129,7 +55112,7 @@
    "properties": {
     "name": "12 BURGE STREET VAUCLUSE 2030",
     "locID": "LOC000191729754",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707604511"
    }
@@ -55640,7 +55623,7 @@
     "name": "15 MACDONALD STREET VAUCLUSE 2030",
     "locID": "LOC000066556654",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707671015"
    }
   },
@@ -56436,11 +56419,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 3, 4 GREYCLIFFE AVENUE VAUCLUSE 2030",
+    "name": "UNIT 1, 4 GREYCLIFFE AVENUE VAUCLUSE 2030",
     "locID": "LOC000185288070",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710425466"
+    "gnaf_pid": "GANSW710425477"
    }
   },
   {
@@ -56456,7 +56439,7 @@
     "name": "UNIT 1, 1 GIRILANG AVENUE VAUCLUSE 2030",
     "locID": "LOC000064523303",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710425493"
    }
   },
@@ -56473,7 +56456,7 @@
     "name": "UNIT 2, 27 GIRILANG AVENUE VAUCLUSE 2030",
     "locID": "LOC000063220965",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710425504"
    }
   },
@@ -56490,7 +56473,7 @@
     "name": "UNIT 1, 27 GIRILANG AVENUE VAUCLUSE 2030",
     "locID": "LOC000063432002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710425505"
    }
   },
@@ -56762,7 +56745,7 @@
     "name": "UNIT 2, 49 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000041026102",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710426676"
    }
   },
@@ -56983,7 +56966,7 @@
     "name": "UNIT 1, 97 KINGS ROAD VAUCLUSE 2030",
     "locID": "LOC000080123091",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710426876"
    }
   },
@@ -58496,7 +58479,7 @@
     "name": "UNIT 1, 58 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000011469394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710429687"
    }
   },
@@ -58513,7 +58496,7 @@
     "name": "UNIT 2, 58 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000011381917",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710429688"
    }
   },
@@ -58564,7 +58547,7 @@
     "name": "UNIT 1, 49 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000041491772",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710430111"
    }
   },
@@ -58768,7 +58751,7 @@
     "name": "UNIT 1, 167 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000175094738",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710430576"
    }
   },
@@ -58785,7 +58768,7 @@
     "name": "UNIT 2, 167 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000175094738",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710430577"
    }
   },
@@ -58802,7 +58785,7 @@
     "name": "UNIT 3, 167 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000175094738",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710430578"
    }
   },
@@ -58819,7 +58802,7 @@
     "name": "UNIT 4, 167 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000175094738",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710430579"
    }
   },
@@ -59142,7 +59125,7 @@
     "name": "UNIT 1, 4 ETHEL STREET VAUCLUSE 2030",
     "locID": "LOC000027408302",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710430903"
    }
   },
@@ -59176,7 +59159,7 @@
     "name": "UNIT 2, 4 ETHEL STREET VAUCLUSE 2030",
     "locID": "LOC000027367600",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710430910"
    }
   },
@@ -59958,7 +59941,7 @@
     "name": "UNIT 1, 18 KIMBERLEY STREET VAUCLUSE 2030",
     "locID": "LOC000099747499",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710431865"
    }
   },
@@ -59975,7 +59958,7 @@
     "name": "UNIT 2, 18 KIMBERLEY STREET VAUCLUSE 2030",
     "locID": "LOC000099747499",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710431866"
    }
   },
@@ -60417,7 +60400,7 @@
     "name": "SHOP 1, 669 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158521250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710432105"
    }
   },
@@ -60961,7 +60944,7 @@
     "name": "UNIT 2, 164 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000014124973",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710433137"
    }
   },
@@ -60978,7 +60961,7 @@
     "name": "UNIT 1, 164 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000014124973",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710433145"
    }
   },
@@ -61131,7 +61114,7 @@
     "name": "UNIT 1, 4 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000038170687",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710433376"
    }
   },
@@ -61590,7 +61573,7 @@
     "name": "UNIT 1, 14 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000063187815",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710434239"
    }
   },
@@ -62627,7 +62610,7 @@
     "name": "UNIT 2, 52 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000071276655",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710435920"
    }
   },
@@ -62644,7 +62627,7 @@
     "name": "UNIT 1, 5 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000072155015",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710435998"
    }
   },
@@ -62712,7 +62695,7 @@
     "name": "UNIT 2, 743A OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000039549894",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710436346"
    }
   },
@@ -63375,7 +63358,7 @@
     "name": "UNIT 1A, 48 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000054663206",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710436769"
    }
   },
@@ -63902,7 +63885,7 @@
     "name": "UNIT 1, 743A OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000039549894",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710436919"
    }
   },
@@ -64378,7 +64361,7 @@
     "name": "UNIT 1, 52 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000071111303",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710437759"
    }
   },
@@ -64395,7 +64378,7 @@
     "name": "UNIT 3, 52 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000071474733",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710437760"
    }
   },
@@ -64769,7 +64752,7 @@
     "name": "SHOP 1, 48 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000181038097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710438544"
    }
   },
@@ -64786,7 +64769,7 @@
     "name": "UNIT 1, 46 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000061389195",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710438545"
    }
   },
@@ -65143,7 +65126,7 @@
     "name": "UNIT 2, 48 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000181038097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710439199"
    }
   },
@@ -65160,7 +65143,7 @@
     "name": "UNIT 3, 48 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000054558926",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710439200"
    }
   },
@@ -65670,7 +65653,7 @@
     "name": "UNIT 2, 5 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000072155015",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713088087"
    }
   },
@@ -65740,23 +65723,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW713088124"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.26986379,
-     -33.85272533
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 4 GREYCLIFFE AVENUE VAUCLUSE 2030",
-    "locID": "LOC000185288070",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW713101552"
    }
   },
   {
@@ -66979,7 +66945,7 @@
     "name": "UNIT 2, 97 KINGS ROAD VAUCLUSE 2030",
     "locID": "LOC000079699385",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715465336"
    }
   },
@@ -67200,7 +67166,7 @@
     "name": "UNIT 1, 108 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000085637394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715483943"
    }
   },
@@ -67285,7 +67251,7 @@
     "name": "UNIT 2, 108 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000087313603",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715483994"
    }
   },
@@ -67523,7 +67489,7 @@
     "name": "167 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000175094738",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715484174"
    }
   },
@@ -67761,7 +67727,7 @@
     "name": "UNIT 1, 50 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000104014047",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715639377"
    }
   },
@@ -67778,7 +67744,7 @@
     "name": "SHOP 1, 95 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715639378"
    }
   },
@@ -67795,7 +67761,7 @@
     "name": "UNIT 2, 50 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000104032994",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715639379"
    }
   },
@@ -67812,7 +67778,7 @@
     "name": "UNIT 3, 50 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000105272811",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715639380"
    }
   },
@@ -67829,7 +67795,7 @@
     "name": "SHOP 1, 10 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520671",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715642107"
    }
   },
@@ -67846,7 +67812,7 @@
     "name": "SHOP 1, 12 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000007340892",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715642108"
    }
   },
@@ -67863,7 +67829,7 @@
     "name": "SHOP 1, 16 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000158520811",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715642109"
    }
   },
@@ -69053,7 +69019,7 @@
     "name": "UNIT 2, 309 MILITARY ROAD VAUCLUSE 2030",
     "locID": "LOC000158518898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717195124"
    }
   },
@@ -69104,7 +69070,7 @@
     "name": "49 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000041026102",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717208448"
    }
   },
@@ -70226,7 +70192,7 @@
     "name": "UNIT 1, 7 CRAIG AVENUE VAUCLUSE 2030",
     "locID": "LOC000093519489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717766505"
    }
   },
@@ -70243,7 +70209,7 @@
     "name": "UNIT 2, 7 CRAIG AVENUE VAUCLUSE 2030",
     "locID": "LOC000093519489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717766506"
    }
   },
@@ -72147,7 +72113,7 @@
     "name": "UNIT 1, 4 VILLAGE LOWER ROAD VAUCLUSE 2030",
     "locID": "LOC000172999052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717788580"
    }
   },
@@ -72181,7 +72147,7 @@
     "name": "UNIT 1, 14 WILFIELD AVENUE VAUCLUSE 2030",
     "locID": "LOC000039701062",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717789276"
    }
   },
@@ -72198,7 +72164,7 @@
     "name": "UNIT 2, 14 WILFIELD AVENUE VAUCLUSE 2030",
     "locID": "LOC000039701062",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717789277"
    }
   },
@@ -72589,7 +72555,7 @@
     "name": "UNIT 2, 46 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000061051838",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717825064"
    }
   },
@@ -72606,7 +72572,7 @@
     "name": "LEVEL 1, 46 NEW SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000061012213",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717825065"
    }
   },
@@ -72827,7 +72793,7 @@
     "name": "UNIT 1, 693A OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000025350082",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717908565"
    }
   },
@@ -72844,7 +72810,7 @@
     "name": "UNIT 2, 693A OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000025449546",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717908566"
    }
   },
@@ -75258,7 +75224,7 @@
     "name": "UNIT 2, 4 VILLAGE LOWER ROAD VAUCLUSE 2030",
     "locID": "LOC000172999052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718163992"
    }
   },
@@ -75377,7 +75343,7 @@
     "name": "UNIT 1, 37 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000115268448",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718224679"
    }
   },
@@ -75394,7 +75360,7 @@
     "name": "UNIT 2, 37 CAPTAIN PIPERS ROAD VAUCLUSE 2030",
     "locID": "LOC000115268448",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718224680"
    }
   },
@@ -77162,7 +77128,7 @@
     "name": "181 OLD SOUTH HEAD ROAD VAUCLUSE 2030",
     "locID": "LOC000181038032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718604440"
    }
   },
@@ -77852,7 +77818,7 @@
     "type": "Point",
     "coordinates": [
      151.28294464,
-     -33.85715987
+     -33.85715988
     ]
    },
    "properties": {
@@ -77903,7 +77869,7 @@
     "type": "Point",
     "coordinates": [
      151.28294464,
-     -33.85715987
+     -33.85715988
     ]
    },
    "properties": {
@@ -77937,7 +77903,7 @@
     "type": "Point",
     "coordinates": [
      151.28294464,
-     -33.85715987
+     -33.85715988
     ]
    },
    "properties": {
@@ -79474,7 +79440,7 @@
     "name": "21A BLACK STREET VAUCLUSE 2030",
     "locID": "LOC000185639045",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719885695"
    }
   },
@@ -81057,6 +81023,108 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721246948"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.28408792,
+     -33.85277615
+    ]
+   },
+   "properties": {
+    "name": "4A GEORGES ROAD VAUCLUSE 2030",
+    "locID": "LOC000193271237",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.27923806,
+     -33.84851466
+    ]
+   },
+   "properties": {
+    "name": "21A SASSAFRAS LANE VAUCLUSE 2030",
+    "locID": "LOC000189146239",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721322896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.27923806,
+     -33.84851466
+    ]
+   },
+   "properties": {
+    "name": "21B SASSAFRAS LANE VAUCLUSE 2030",
+    "locID": "LOC000189146241",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325596"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.28408792,
+     -33.85277615
+    ]
+   },
+   "properties": {
+    "name": "4B GEORGES ROAD VAUCLUSE 2030",
+    "locID": "LOC000193271259",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721327356"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.28023962,
+     -33.85854708
+    ]
+   },
+   "properties": {
+    "name": "UNIT C22, 2 LAGUNA STREET VAUCLUSE 2030",
+    "locID": "LOC000018938890",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331517"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.28023962,
+     -33.85854708
+    ]
+   },
+   "properties": {
+    "name": "UNIT C10, 2 LAGUNA STREET VAUCLUSE 2030",
+    "locID": "LOC000018938890",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331518"
    }
   }
  ]

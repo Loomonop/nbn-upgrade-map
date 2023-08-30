@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T16:14:58.508439",
+ "generated": "2023-08-30T07:59:03.377627",
  "suburb": "CHIFLEY",
  "features": [
   {
@@ -4928,8 +4928,8 @@
    "properties": {
     "name": "38 MITCHELL STREET CHIFLEY 2036",
     "locID": "LOC000011466847",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704400173"
    }
   },
@@ -6128,8 +6128,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.2381234,
-     -33.96953267
+     151.23812341,
+     -33.96953268
     ]
    },
    "properties": {
@@ -12656,6 +12656,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.24224259,
+     -33.9681142
+    ]
+   },
+   "properties": {
+    "name": "1247 ANZAC PARADE CHIFLEY 2036",
+    "locID": "LOC000193357541",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706515101"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.23449938,
      -33.96755016
     ]
@@ -12894,8 +12911,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.23705394,
-     -33.96621542
+     151.23705401,
+     -33.96621552
     ]
    },
    "properties": {
@@ -13360,8 +13377,8 @@
    "properties": {
     "name": "28 GIBSON PLACE CHIFLEY 2036",
     "locID": "LOC000074970644",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706538299"
    }
   },
@@ -23842,8 +23859,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.2381234,
-     -33.96953267
+     151.23812341,
+     -33.96953268
     ]
    },
    "properties": {
@@ -23852,23 +23869,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719460629"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.2381234,
-     -33.96953267
-    ]
-   },
-   "properties": {
-    "name": "41-41A DAMPIER STREET CHIFLEY 2036",
-    "locID": "LOC000174989044",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW719472038"
    }
   },
   {
@@ -24896,7 +24896,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.237054,
+     151.23705401,
      -33.96621552
     ]
    },
@@ -25195,6 +25195,40 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721246740"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.24240278,
+     -33.96791619
+    ]
+   },
+   "properties": {
+    "name": "1243B ANZAC PARADE CHIFLEY 2036",
+    "locID": "LOC000189513794",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721317313"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2426789,
+     -33.97681353
+    ]
+   },
+   "properties": {
+    "name": "UNIT 305, 1371 ANZAC PARADE CHIFLEY 2036",
+    "locID": "ChIJOySzrPmzEmsR8fx_h2GZNBY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331951"
    }
   }
  ]

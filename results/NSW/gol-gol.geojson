@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T15:52:57.760932",
+ "generated": "2023-08-30T07:41:55.703958",
  "suburb": "GOL GOL",
  "features": [
   {
@@ -2702,7 +2702,7 @@
     "name": "34 WILLIAM STREET GOL GOL 2738",
     "locID": "LOC000080836018",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707515565"
    }
   },
@@ -3076,7 +3076,7 @@
     "name": "UNIT 2, 34 WILLIAM STREET GOL GOL 2738",
     "locID": "LOC000080836018",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708050449"
    }
   },
@@ -3144,7 +3144,7 @@
     "name": "UNIT 8, 56 WILLIAM STREET GOL GOL 2738",
     "locID": "LOC000122040581",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708051321"
    }
   },
@@ -3195,7 +3195,7 @@
     "name": "UNIT 6, 56 WILLIAM STREET GOL GOL 2738",
     "locID": "LOC000122040581",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708054731"
    }
   },
@@ -4538,7 +4538,7 @@
     "name": "UNIT 1, 34 WILLIAM STREET GOL GOL 2738",
     "locID": "LOC000080836018",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712846401"
    }
   },
@@ -4895,7 +4895,7 @@
     "name": "56 WILLIAM STREET GOL GOL 2738",
     "locID": "LOC000122040581",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715668269"
    }
   },
@@ -7054,7 +7054,7 @@
     "name": "24 ADELAIDE STREET GOL GOL 2738",
     "locID": "LOC000021520698",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717611491"
    }
   },
@@ -7105,7 +7105,7 @@
     "name": "27-35 ADELAIDE STREET GOL GOL 2738",
     "locID": "LOC000122072652",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717611496"
    }
   },
@@ -7496,7 +7496,7 @@
     "name": "UNIT 1, 24 ADELAIDE STREET GOL GOL 2738",
     "locID": "LOC000021323200",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717613528"
    }
   },
@@ -7513,7 +7513,7 @@
     "name": "UNIT 2, 24 ADELAIDE STREET GOL GOL 2738",
     "locID": "LOC000021520698",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717613529"
    }
   },
@@ -7530,7 +7530,7 @@
     "name": "UNIT 3, 24 ADELAIDE STREET GOL GOL 2738",
     "locID": "LOC000021592258",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717613530"
    }
   },
@@ -7564,7 +7564,7 @@
     "name": "UNIT 4, 24 ADELAIDE STREET GOL GOL 2738",
     "locID": "LOC000021360449",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717613532"
    }
   },
@@ -10599,8 +10599,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     142.24282264,
-     -34.18423235
+     142.23950599,
+     -34.18594887
     ]
    },
    "properties": {
@@ -10888,8 +10888,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     142.23402114,
-     -34.17175139
+     142.23261069,
+     -34.17246977
     ]
    },
    "properties": {
@@ -11034,6 +11034,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718162804"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.23760167,
+     -34.17724175
+    ]
+   },
+   "properties": {
+    "name": "100 WILGA ROAD GOL GOL 2738",
+    "locID": "ChIJ9204NqEdw2oRNhl26nHrmMc",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718164759"
    }
   },
   {
@@ -11653,8 +11670,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     142.23021833,
-     -34.17546825
+     142.23023651,
+     -34.17549472
     ]
    },
    "properties": {
@@ -13710,8 +13727,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     142.23383954,
-     -34.17344786
+     142.23384564,
+     -34.17343068
     ]
    },
    "properties": {
@@ -17025,23 +17042,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     142.23002089,
-     -34.16224293
-    ]
-   },
-   "properties": {
-    "name": "13 WARATAH COURT GOL GOL 2738",
-    "locID": "LOC100078401769",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720529411"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      142.23466475,
      -34.18315829
     ]
@@ -17205,23 +17205,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720536857"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     142.22991947,
-     -34.16338542
-    ]
-   },
-   "properties": {
-    "name": "11 WARATAH COURT GOL GOL 2738",
-    "locID": "ChIJTTXv53Ydw2oRzUGowC_L0bI",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW720537670"
    }
   },
   {
@@ -17875,8 +17858,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     142.24282264,
-     -34.18423235
+     142.24281724,
+     -34.18423718
     ]
    },
    "properties": {
@@ -18011,8 +17994,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     142.2034846,
-     -34.17797335
+     142.20085703,
+     -34.17671553
     ]
    },
    "properties": {
@@ -18463,6 +18446,924 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721175982"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21051754,
+     -34.17604019
+    ]
+   },
+   "properties": {
+    "name": "8 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000064449636",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721315282"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20893395,
+     -34.17588543
+    ]
+   },
+   "properties": {
+    "name": "146 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDYgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCSASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721315286"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21212785,
+     -34.17482591
+    ]
+   },
+   "properties": {
+    "name": "31 DAWN AVENUE GOL GOL 2738",
+    "locID": "LOC000193186970",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315623"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.23002089,
+     -34.16224293
+    ]
+   },
+   "properties": {
+    "name": "17 WARATAH COURT GOL GOL 2738",
+    "locID": "LOC100082064380",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315911"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21034352,
+     -34.17527993
+    ]
+   },
+   "properties": {
+    "name": "156 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTYgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCcASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316147"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21193741,
+     -34.17564858
+    ]
+   },
+   "properties": {
+    "name": "25 DAWN AVENUE GOL GOL 2738",
+    "locID": "LOC000193187036",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21139288,
+     -34.17574428
+    ]
+   },
+   "properties": {
+    "name": "3 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000122072794",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721316451"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20911738,
+     -34.17438728
+    ]
+   },
+   "properties": {
+    "name": "10 RAY COURT GOL GOL 2738",
+    "locID": "LOC000020945531",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721316608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20950423,
+     -34.17501712
+    ]
+   },
+   "properties": {
+    "name": "149 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDkgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCVASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316733"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20873722,
+     -34.17494514
+    ]
+   },
+   "properties": {
+    "name": "5 RAY COURT GOL GOL 2738",
+    "locID": "LOC000115553020",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721316781"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20857232,
+     -34.17481213
+    ]
+   },
+   "properties": {
+    "name": "7 RAY COURT GOL GOL 2738",
+    "locID": "LOC000114164764",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721317041"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.23120218,
+     -34.16235741
+    ]
+   },
+   "properties": {
+    "name": "189A GOL GOL NORTH ROAD GOL GOL 2738",
+    "locID": "LOC000186187596",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721317962"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21184984,
+     -34.17602694
+    ]
+   },
+   "properties": {
+    "name": "21 DAWN AVENUE GOL GOL 2738",
+    "locID": "LOC000193187058",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21066858,
+     -34.17562821
+    ]
+   },
+   "properties": {
+    "name": "4 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000122034636",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318911"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21189363,
+     -34.17583776
+    ]
+   },
+   "properties": {
+    "name": "23 DAWN AVENUE GOL GOL 2738",
+    "locID": "LOC000193187043",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318966"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21039579,
+     -34.17466076
+    ]
+   },
+   "properties": {
+    "name": "155 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTUgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCbASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319167"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20945601,
+     -34.17571068
+    ]
+   },
+   "properties": {
+    "name": "150 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTAgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCWASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319526"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20926597,
+     -34.17514563
+    ]
+   },
+   "properties": {
+    "name": "147 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDcgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCTASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721320106"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20903432,
+     -34.1753002
+    ]
+   },
+   "properties": {
+    "name": "145 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDUgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCRASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721320212"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21133075,
+     -34.17544861
+    ]
+   },
+   "properties": {
+    "name": "162 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNjIgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCiASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721320232"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20992183,
+     -34.17452818
+    ]
+   },
+   "properties": {
+    "name": "4 RAY COURT GOL GOL 2738",
+    "locID": "LOC000122034636",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721320308"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21059523,
+     -34.17581447
+    ]
+   },
+   "properties": {
+    "name": "6 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000032126376",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721320461"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20938344,
+     -34.17444556
+    ]
+   },
+   "properties": {
+    "name": "8 RAY COURT GOL GOL 2738",
+    "locID": "LOC000064449636",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721320622"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21134926,
+     -34.17617409
+    ]
+   },
+   "properties": {
+    "name": "7 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000114164764",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721321333"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20987297,
+     -34.17547853
+    ]
+   },
+   "properties": {
+    "name": "152 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTIgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCYASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721321721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21207407,
+     -34.17504706
+    ]
+   },
+   "properties": {
+    "name": "29 DAWN AVENUE GOL GOL 2738",
+    "locID": "LOC000193186991",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721321936"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20844305,
+     -34.17522702
+    ]
+   },
+   "properties": {
+    "name": "141 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDEgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCNASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21158555,
+     -34.17548723
+    ]
+   },
+   "properties": {
+    "name": "164 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNjQgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgkHkv_2dx3DahFBaRhJLj-GDxCkASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322991"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21068044,
+     -34.17621002
+    ]
+   },
+   "properties": {
+    "name": "10 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000020945531",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721323097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21172577,
+     -34.17487469
+    ]
+   },
+   "properties": {
+    "name": "165 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNjUgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBClASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323174"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20885127,
+     -34.17433665
+    ]
+   },
+   "properties": {
+    "name": "11 RAY COURT GOL GOL 2738",
+    "locID": "LOC000115030846",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721323454"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.2119784,
+     -34.17545864
+    ]
+   },
+   "properties": {
+    "name": "27 DAWN AVENUE GOL GOL 2738",
+    "locID": "LOC000193187004",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323712"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21102946,
+     -34.17476528
+    ]
+   },
+   "properties": {
+    "name": "161 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNjEgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBChASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21124212,
+     -34.17479667
+    ]
+   },
+   "properties": {
+    "name": "163 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNjMgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCjASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323805"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.2113779,
+     -34.17593991
+    ]
+   },
+   "properties": {
+    "name": "5 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000115553020",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721323892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20861217,
+     -34.1745254
+    ]
+   },
+   "properties": {
+    "name": "9 RAY COURT GOL GOL 2738",
+    "locID": "LOC000122052398",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721323898"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20831653,
+     -34.17577253
+    ]
+   },
+   "properties": {
+    "name": "142 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDIgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCOASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323967"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.2108582,
+     -34.17537291
+    ]
+   },
+   "properties": {
+    "name": "160 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNjAgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCgASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21112197,
+     -34.17628131
+    ]
+   },
+   "properties": {
+    "name": "9 BEAMAN COURT GOL GOL 2738",
+    "locID": "LOC000122052398",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721324553"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.22860497,
+     -34.16265019
+    ]
+   },
+   "properties": {
+    "name": "22 WARATAH COURT GOL GOL 2738",
+    "locID": "LOC100082064380",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324907"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20861381,
+     -34.17582032
+    ]
+   },
+   "properties": {
+    "name": "144 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDQgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCQASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721324943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20993876,
+     -34.17478697
+    ]
+   },
+   "properties": {
+    "name": "151 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTEgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCXASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721325160"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20965642,
+     -34.17447813
+    ]
+   },
+   "properties": {
+    "name": "6 RAY COURT GOL GOL 2738",
+    "locID": "LOC000032126376",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721325298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21008578,
+     -34.17534599
+    ]
+   },
+   "properties": {
+    "name": "154 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTQgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCaASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721325702"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21060676,
+     -34.17468466
+    ]
+   },
+   "properties": {
+    "name": "157 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTcgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCdASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721325731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.2092172,
+     -34.17584246
+    ]
+   },
+   "properties": {
+    "name": "148 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDggR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCUASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721325969"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21180605,
+     -34.17621611
+    ]
+   },
+   "properties": {
+    "name": "19 DAWN AVENUE GOL GOL 2738",
+    "locID": "LOC000193187062",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721326078"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20874032,
+     -34.1752746
+    ]
+   },
+   "properties": {
+    "name": "143 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNDMgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCPASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326215"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.22991948,
+     -34.16338543
+    ]
+   },
+   "properties": {
+    "name": "29 WARATAH COURT GOL GOL 2738",
+    "locID": "LOC100082064380",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721326345"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21081654,
+     -34.17473116
+    ]
+   },
+   "properties": {
+    "name": "159 SUMMER DRIVE GOL GOL 2738",
+    "locID": "LOC000122075935",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721326350"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.20906529,
+     -34.1749514
+    ]
+   },
+   "properties": {
+    "name": "3 RAY COURT GOL GOL 2738",
+    "locID": "LOC000122072794",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721326663"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21060454,
+     -34.17533008
+    ]
+   },
+   "properties": {
+    "name": "158 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTggR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEglLQtLddR3DahGcNqEP-N15HRCeASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326903"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.21018279,
+     -34.17470131
+    ]
+   },
+   "properties": {
+    "name": "153 SUMMER DRIVE GOL GOL 2738",
+    "locID": "Ei0xNTMgR29sIEdvbCBOIFJkLCBHb2wgR29sIE5TVyAyNzM4LCBBdXN0cmFsaWEiMRIvChQKEgmTTDSMeeLCahHAPlBpPbJWBBCZASoUChIJxT_v2J0dw2oR1e2SPD27oss",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721327703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.22065037,
+     -34.179507
+    ]
+   },
+   "properties": {
+    "name": "60A ADELAIDE STREET GOL GOL 2738",
+    "locID": "LOC000183573414",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331645"
    }
   }
  ]
