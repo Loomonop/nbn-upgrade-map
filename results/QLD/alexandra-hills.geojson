@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-09T13:28:12.164983",
+ "generated": "2023-08-30T05:24:46.994033",
  "suburb": "ALEXANDRA HILLS",
  "features": [
   {
@@ -21741,8 +21741,8 @@
    "properties": {
     "name": "7 NORMANBY STREET ALEXANDRA HILLS 4161",
     "locID": "LOC000085611520",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD154938662"
    }
   },
@@ -25601,7 +25601,7 @@
     "name": "26 GARNET STREET ALEXANDRA HILLS 4161",
     "locID": "LOC000009810302",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156163338"
    }
   },
@@ -33642,7 +33642,7 @@
     "name": "6 AMETHYST STREET ALEXANDRA HILLS 4161",
     "locID": "LOC000043833972",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156174323"
    }
   },
@@ -36413,7 +36413,7 @@
     "name": "4 JUSTIN COURT ALEXANDRA HILLS 4161",
     "locID": "LOC000016648998",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156176829"
    }
   },
@@ -49121,23 +49121,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.23386395,
-     -27.52414222
-    ]
-   },
-   "properties": {
-    "name": "304 FINUCANE ROAD ALEXANDRA HILLS 4161",
-    "locID": "LOC000058883756",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156193208"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.22393474,
      -27.53330068
     ]
@@ -50251,7 +50234,7 @@
     "name": "20 SNOWDON STREET ALEXANDRA HILLS 4161",
     "locID": "LOC000054874149",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156193422"
    }
   },
@@ -52640,8 +52623,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.22065273,
-     -27.53467008
+     153.22067771,
+     -27.53460961
     ]
    },
    "properties": {
@@ -53021,8 +53004,8 @@
    "properties": {
     "name": "19 MARINA STREET ALEXANDRA HILLS 4161",
     "locID": "LOC000050349856",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156195668"
    }
   },
@@ -74544,7 +74527,7 @@
     "name": "21 MCMILLAN ROAD ALEXANDRA HILLS 4161",
     "locID": "LOC000076177686",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157430596"
    }
   },
@@ -82312,8 +82295,8 @@
    "properties": {
     "name": "6 DAWSON ROAD ALEXANDRA HILLS 4161",
     "locID": "LOC000041919192",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160880320"
    }
   },
@@ -90948,8 +90931,8 @@
    "properties": {
     "name": "18 ALLENBY ROAD ALEXANDRA HILLS 4161",
     "locID": "LOC000102862948",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160895365"
    }
   },
@@ -93787,8 +93770,8 @@
    "properties": {
     "name": "10 GUARDSMAN AVENUE ALEXANDRA HILLS 4161",
     "locID": "LOC000099645682",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160901501"
    }
   },
@@ -94978,7 +94961,7 @@
     "name": "31 OGILVIE STREET ALEXANDRA HILLS 4161",
     "locID": "LOC000054750279",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160903270"
    }
   },
@@ -96524,8 +96507,8 @@
    "properties": {
     "name": "6 EDINBURGH ROAD ALEXANDRA HILLS 4161",
     "locID": "LOC000076902695",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160906020"
    }
   },
@@ -98700,8 +98683,8 @@
    "properties": {
     "name": "2 SHERWOOD COURT ALEXANDRA HILLS 4161",
     "locID": "LOC000072627091",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160908937"
    }
   },
@@ -100342,8 +100325,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.22697654,
-     -27.53427651
+     153.22709583,
+     -27.53524356
     ]
    },
    "properties": {
@@ -115091,6 +115074,91 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721233128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.22456797,
+     -27.52897267
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 17 MAYFAIR STREET ALEXANDRA HILLS 4161",
+    "locID": "LOC000029468884",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.24418069,
+     -27.52873316
+    ]
+   },
+   "properties": {
+    "name": "75A MACARTHUR STREET ALEXANDRA HILLS 4161",
+    "locID": "LOC100077977725",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.22451439,
+     -27.52888425
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 17 MAYFAIR STREET ALEXANDRA HILLS 4161",
+    "locID": "LOC000029468884",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311806"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.22062921,
+     -27.53472692
+    ]
+   },
+   "properties": {
+    "name": "5A LEIGH COURT ALEXANDRA HILLS 4161",
+    "locID": "LOC000034357974",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314470"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.22456797,
+     -27.52897267
+    ]
+   },
+   "properties": {
+    "name": "17 MAYFAIR STREET ALEXANDRA HILLS 4161",
+    "locID": "LOC000029468884",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721339822"
    }
   }
  ]
