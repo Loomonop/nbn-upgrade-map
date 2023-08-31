@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T12:41:18.923724",
+ "generated": "2023-08-31T18:38:43.543261",
  "suburb": "YEERONGPILLY",
  "features": [
   {
@@ -8032,8 +8032,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.01763982,
-     -27.52265208
+     153.01771072,
+     -27.52266402
     ]
    },
    "properties": {
@@ -22778,7 +22778,7 @@
    "properties": {
     "name": "26 QUEENS WAY YEERONGPILLY 4105",
     "locID": "ChIJW9SkGnVQkWsRvkTDQz5mDWo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720309356"
    }
@@ -22948,7 +22948,7 @@
    "properties": {
     "name": "240 KING ARTHUR TERRACE YEERONGPILLY 4105",
     "locID": "ChIJW9SkGnVQkWsRar4lRkZMHUQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720313160"
    }
@@ -23570,16 +23570,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.01512036,
-     -27.52626785
+     153.01763563,
+     -27.5226545
     ]
    },
    "properties": {
-    "name": "11-17 LIVINGSTONE STREET YEERONGPILLY 4105",
-    "locID": "LOC000188968549",
-    "tech": "FTTP",
+    "name": "18A GROSVENOR STREET YEERONGPILLY 4105",
+    "locID": "LOC000191592503",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721272287"
+    "gnaf_pid": "GAQLD721304875"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.01755236,
+     -27.52264212
+    ]
+   },
+   "properties": {
+    "name": "18B GROSVENOR STREET YEERONGPILLY 4105",
+    "locID": "LOC000191592503",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313102"
    }
   }
  ]
