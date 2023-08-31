@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T01:45:15.464198",
+ "generated": "2023-08-31T09:05:45.741907",
  "suburb": "POINT ARKWRIGHT",
  "features": [
   {
@@ -1902,8 +1902,8 @@
    "properties": {
     "name": "28B NEURUM ROAD POINT ARKWRIGHT 4573",
     "locID": "LOC000106901495",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157037055"
    }
   },
@@ -3860,6 +3860,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD720931627"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.09986252,
+     -26.54586079
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 6 DEWAR STREET POINT ARKWRIGHT 4573",
+    "locID": "LOC000015911809",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721340275"
    }
   }
  ]
