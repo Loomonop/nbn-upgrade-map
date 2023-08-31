@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T20:52:15.582625",
+ "generated": "2023-08-31T03:37:37.682001",
  "suburb": "MAROOCHY RIVER",
  "features": [
   {
@@ -33,7 +33,7 @@
     "name": "9 DAJAMAN COURT MAROOCHY RIVER 4561",
     "locID": "LOC000037717352",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155525897"
    }
   },
@@ -2770,7 +2770,7 @@
     "name": "790 YANDINA - BLI BLI ROAD MAROOCHY RIVER 4561",
     "locID": "LOC100079131020",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156803740"
    }
   },
@@ -2787,7 +2787,7 @@
     "name": "857 YANDINA - BLI BLI ROAD MAROOCHY RIVER 4561",
     "locID": "LOC000065868186",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156803742"
    }
   },
@@ -2804,7 +2804,7 @@
     "name": "859 YANDINA - BLI BLI ROAD MAROOCHY RIVER 4561",
     "locID": "LOC000087847197",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156803743"
    }
   },
@@ -4700,8 +4700,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.98939525,
-     -26.58034057
+     152.99080639,
+     -26.57753707
     ]
    },
    "properties": {
@@ -5686,6 +5686,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98814397,
+     -26.57923082
+    ]
+   },
+   "properties": {
+    "name": "6 FLOWER ROAD MAROOCHY RIVER 4561",
+    "locID": "LOC000043198419",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD158243741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.02329545,
      -26.58684168
     ]
@@ -5711,7 +5728,7 @@
     "name": "72 HIGHLANDS HILL ROAD MAROOCHY RIVER 4561",
     "locID": "LOC000080505503",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158244587"
    }
   },
@@ -5883,6 +5900,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158249728"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98893348,
+     -26.58097135
+    ]
+   },
+   "properties": {
+    "name": "48 FLOWER ROAD MAROOCHY RIVER 4561",
+    "locID": "LOC000026802152",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD158249730"
    }
   },
   {
@@ -6102,7 +6136,7 @@
     "name": "69 TINARRA CLOSE MAROOCHY RIVER 4561",
     "locID": "LOC000128542779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158253023"
    }
   },
@@ -6274,6 +6308,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158254244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9888225,
+     -26.57991286
+    ]
+   },
+   "properties": {
+    "name": "36 FLOWER ROAD MAROOCHY RIVER 4561",
+    "locID": "LOC000063048511",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD158254260"
    }
   },
   {
@@ -7240,8 +7291,8 @@
    "properties": {
     "name": "12 CALLICOMA PLACE MAROOCHY RIVER 4561",
     "locID": "LOC000013278340",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160968798"
    }
   },
@@ -11270,7 +11321,7 @@
     "name": "1334 YANDINA - COOLUM ROAD MAROOCHY RIVER 4561",
     "locID": "LOC000128578466",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD424938380"
    }
   },
@@ -11738,6 +11789,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98774412,
+     -26.57318147
+    ]
+   },
+   "properties": {
+    "name": "1 FLOWER ROAD MAROOCHY RIVER 4561",
+    "locID": "LOC000100397616",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425794220"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98948025,
+     -26.57459988
+    ]
+   },
+   "properties": {
+    "name": "3 FLOWER ROAD MAROOCHY RIVER 4561",
+    "locID": "LOC000063048511",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425794221"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.02112093,
      -26.58661163
     ]
@@ -11916,7 +12001,7 @@
     "name": "STUDIO 1, 9 DAJAMAN COURT MAROOCHY RIVER 4561",
     "locID": "LOC000037717352",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719384032"
    }
   },
@@ -13761,142 +13846,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.98814397,
-     -26.57923082
-    ]
-   },
-   "properties": {
-    "name": "6 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJyc4IsyN6k2sRxmG52Auf2iU",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720929334"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.98948025,
-     -26.57459988
-    ]
-   },
-   "properties": {
-    "name": "3 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJLzFABiN6k2sRc_YNEM-yNrs",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720931155"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.99031494,
-     -26.58097728
-    ]
-   },
-   "properties": {
-    "name": "43 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJkQ2NduV7k2sRxelu4RxtaOE",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720931381"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.99080639,
-     -26.57753707
-    ]
-   },
-   "properties": {
-    "name": "27 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJR5EmExh6k2sRPCPULqy0k5w",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720931434"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.99031494,
-     -26.58097728
-    ]
-   },
-   "properties": {
-    "name": "49 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJa4x-GCJ6k2sRfE8syCQyg9g",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720931892"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.98774412,
-     -26.57318147
-    ]
-   },
-   "properties": {
-    "name": "1 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJ52Z8-Tx6k2sRlD3CBzXLuec",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720932998"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.9888225,
-     -26.57991286
-    ]
-   },
-   "properties": {
-    "name": "36 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJ8RHUNyJ6k2sRiA2FUda0CL0",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720933443"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.98893348,
-     -26.58097135
-    ]
-   },
-   "properties": {
-    "name": "48 FLOWERS ROAD MAROOCHY RIVER 4561",
-    "locID": "ChIJ22anKCJ6k2sRHvULMSj82fI",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720936205"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.02153231,
      -26.59243371
     ]
@@ -13999,8 +13948,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02153231,
-     -26.59243371
+     153.022317,
+     -26.59321257
     ]
    },
    "properties": {
@@ -14594,23 +14543,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.022317,
-     -26.59321257
-    ]
-   },
-   "properties": {
-    "name": "LOT 468 DARTER TERRACE MAROOCHY RIVER 4561",
-    "locID": "LOC000187560891",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721061969"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.02179307,
      -26.59315757
     ]
@@ -14662,8 +14594,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02224363,
-     -26.59268101
+     153.02225666,
+     -26.5927427
     ]
    },
    "properties": {
@@ -14713,8 +14645,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0221412,
-     -26.59266891
+     153.0222596,
+     -26.59263232
     ]
    },
    "properties": {
@@ -14747,8 +14679,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02224363,
-     -26.59268101
+     153.02225666,
+     -26.5927427
     ]
    },
    "properties": {
@@ -14993,7 +14925,7 @@
     "name": "HOUSE 2, 72 HIGHLANDS HILL ROAD MAROOCHY RIVER 4561",
     "locID": "LOC000080505503",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721190235"
    }
   },
@@ -15080,6 +15012,91 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721265373"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02192923,
+     -26.59374011
+    ]
+   },
+   "properties": {
+    "name": "43 EAST VIEW COURT MAROOCHY RIVER 4561",
+    "locID": "EjA0MyBFIFZpZXcgQ3QsIE1hcm9vY2h5IFJpdmVyIFFMRCA0NTYxLCBBdXN0cmFsaWEiMBIuChQKEglBb6hYU3eTaxHJpPHhpt_7iBArKhQKEgmt_onEVHeTaxGOAcw1aMay5Q",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.022317,
+     -26.59321257
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 2 DARTER TERRACE MAROOCHY RIVER 4561",
+    "locID": "LOC000187560891",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306653"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02145648,
+     -26.59375604
+    ]
+   },
+   "properties": {
+    "name": "41 EAST VIEW COURT MAROOCHY RIVER 4561",
+    "locID": "EjA0MSBFIFZpZXcgQ3QsIE1hcm9vY2h5IFJpdmVyIFFMRCA0NTYxLCBBdXN0cmFsaWEiMBIuChQKEglBb6hYU3eTaxHJpPHhpt_7iBApKhQKEgmt_onEVHeTaxGOAcw1aMay5Q",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.022317,
+     -26.59321257
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 78 BLACK SWAN CIRCUIT MAROOCHY RIVER 4561",
+    "locID": "LOC000187560889",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.022317,
+     -26.59321257
+    ]
+   },
+   "properties": {
+    "name": "2 DARTER TERRACE MAROOCHY RIVER 4561",
+    "locID": "LOC000187560891",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312193"
    }
   }
  ]

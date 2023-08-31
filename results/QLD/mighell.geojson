@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T21:19:39.085802",
+ "generated": "2023-08-31T03:58:27.095007",
  "suburb": "MIGHELL",
  "features": [
   {
@@ -576,8 +576,8 @@
    "properties": {
     "name": "19 JONES STREET MIGHELL 4860",
     "locID": "LOC000034010324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156036795"
    }
   },
@@ -3357,23 +3357,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     146.0215102,
-     -17.53314962
-    ]
-   },
-   "properties": {
-    "name": "LOT 3 SCULLEN AVENUE MIGHELL 4860",
-    "locID": "LOC000008278238",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD161303908"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      146.0260589,
      -17.53199042
     ]
@@ -3401,23 +3384,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161303913"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     146.02224409,
-     -17.53321152
-    ]
-   },
-   "properties": {
-    "name": "LOT 903 SCULLEN AVENUE MIGHELL 4860",
-    "locID": "LOC000009939744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD161303914"
    }
   },
   {
@@ -5237,6 +5203,40 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721151072"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.02224409,
+     -17.53321152
+    ]
+   },
+   "properties": {
+    "name": "42 SCULLEN AVENUE MIGHELL 4860",
+    "locID": "Eis0MiBTY3VsbGVuIEF2ZSwgTWlnaGVsbCBRTEQgNDg2MCwgQXVzdHJhbGlhIjASLgoUChIJyZt4pSrbeGkRQQXCePHuABMQKioUChIJVXiyiCrbeGkRy4vq0-T2oz8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308802"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.0215102,
+     -17.53314962
+    ]
+   },
+   "properties": {
+    "name": "52 SCULLEN AVENUE MIGHELL 4860",
+    "locID": "Eis1MiBTY3VsbGVuIEF2ZSwgTWlnaGVsbCBRTEQgNDg2MCwgQXVzdHJhbGlhIjASLgoUChIJyZt4pSrbeGkRQQXCePHuABMQNCoUChIJVXiyiCrbeGkRy4vq0-T2oz8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314345"
    }
   }
  ]
