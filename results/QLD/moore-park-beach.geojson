@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T22:09:38.576618",
+ "generated": "2023-08-31T06:03:39.904779",
  "suburb": "MOORE PARK BEACH",
  "features": [
   {
@@ -2464,7 +2464,7 @@
     "name": "8 LILLYPILLY PLACE MOORE PARK BEACH 4670",
     "locID": "LOC000074178554",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155577005"
    }
   },
@@ -5081,8 +5081,8 @@
    "properties": {
     "name": "7 SOVEREIGN COURT MOORE PARK BEACH 4670",
     "locID": "LOC000089397030",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156050858"
    }
   },
@@ -12894,8 +12894,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.28385452,
-     -24.72110901
+     152.28383196,
+     -24.72102063
     ]
    },
    "properties": {
@@ -18470,25 +18470,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.22463626,
-     -24.70228342
-    ]
-   },
-   "properties": {
-    "name": "LOT 60 MALVERN DRIVE MOORE PARK BEACH 4670",
-    "locID": "LOC000128829716",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161445704"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.2702767,
-     -24.71881647
+     152.2702435,
+     -24.71879395
     ]
    },
    "properties": {
@@ -21251,6 +21234,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161938335"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.20822851,
+     -24.70753611
+    ]
+   },
+   "properties": {
+    "name": "LOT 77 ISAAC MOORE DRIVE MOORE PARK BEACH 4670",
+    "locID": "Ejc3NyBJc2FhYyBNb29yZSBEciwgTW9vcmUgUGFyayBCZWFjaCBRTEQgNDY3MCwgQXVzdHJhbGlhIjASLgoUChIJz1U4ZxnJ62sREIDsV_HuABMQTSoUChIJnSSPJB_J62sRJQ9KaXTxVjs",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161938336"
    }
   },
   {
@@ -31638,6 +31638,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721257336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.22463626,
+     -24.70228342
+    ]
+   },
+   "properties": {
+    "name": "311 MALVERN DRIVE MOORE PARK BEACH 4670",
+    "locID": "ChIJD47_y7vJ62sRQZ3GYZodTsU",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307256"
    }
   }
  ]

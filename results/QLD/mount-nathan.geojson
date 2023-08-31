@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T22:40:44.510929",
+ "generated": "2023-08-31T06:28:19.644606",
  "suburb": "MOUNT NATHAN",
  "features": [
   {
@@ -2871,8 +2871,8 @@
    "properties": {
     "name": "2 POTOROO DRIVE MOUNT NATHAN 4211",
     "locID": "LOC000080536371",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155619628"
    }
   },
@@ -5116,7 +5116,7 @@
     "name": "LOT 20 NERANG - MURWILLUMBAH ROAD MOUNT NATHAN 4211",
     "locID": "LOC000173758208",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161253309"
    }
   },
@@ -5201,7 +5201,7 @@
     "name": "LOT 541 NERANG - MURWILLUMBAH ROAD MOUNT NATHAN 4211",
     "locID": "LOC000179684646",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161253316"
    }
   },
@@ -5218,7 +5218,7 @@
     "name": "LOT 800 NERANG - MURWILLUMBAH ROAD MOUNT NATHAN 4211",
     "locID": "LOC000179684646",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161253317"
    }
   },
@@ -5235,7 +5235,7 @@
     "name": "LOT 801 NERANG - MURWILLUMBAH ROAD MOUNT NATHAN 4211",
     "locID": "LOC000179684646",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161253318"
    }
   },
@@ -7114,6 +7114,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.29758313,
+     -28.00251328
+    ]
+   },
+   "properties": {
+    "name": "78 NERANG - MURWILLUMBAH ROAD MOUNT NATHAN 4211",
+    "locID": "Ejs3OCBOZXJhbmcgTXVyd2lsbHVtYmFoIFJkLCBNb3VudCBOYXRoYW4gUUxEIDQyMTEsIEF1c3RyYWxpYSIwEi4KFAoSCZ-b5od8GZFrEdWLcVqiZVEbEE4qFAoSCW8DQlTQ4ZBrEaBIuiDPXFSc",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162456407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.27139521,
      -27.96572297
     ]
@@ -7173,7 +7190,7 @@
     "name": "20 NERANG - MURWILLUMBAH ROAD MOUNT NATHAN 4211",
     "locID": "LOC000173758208",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162475462"
    }
   },
