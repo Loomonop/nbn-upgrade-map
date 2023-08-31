@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T09:17:53.468336",
+ "generated": "2023-08-31T15:25:30.695499",
  "suburb": "TINANA",
  "features": [
   {
@@ -4180,8 +4180,8 @@
    "properties": {
     "name": "52 LA FRANTZ DRIVE TINANA 4650",
     "locID": "LOC000034727628",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155902402"
    }
   },
@@ -26460,6 +26460,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.69589515,
+     -25.56608636
+    ]
+   },
+   "properties": {
+    "name": "37-39 MADISON WAY TINANA 4650",
+    "locID": "LOC000026619613",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161700239"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.69555479,
      -25.56726246
     ]
@@ -28245,8 +28262,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.66729195,
-     -25.52901448
+     152.66541186,
+     -25.52747189
     ]
    },
    "properties": {
@@ -30788,6 +30805,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162847920"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69589515,
+     -25.56608636
+    ]
+   },
+   "properties": {
+    "name": "37 MADISON WAY TINANA 4650",
+    "locID": "LOC000026619613",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162847921"
    }
   },
   {
@@ -33848,6 +33882,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163159121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.67692629,
+     -25.54868696
+    ]
+   },
+   "properties": {
+    "name": "LOT 15 CENTRAL ROAD TINANA 4650",
+    "locID": "EikxNSBDZW50cmFsIFJkLCBUaW5hbmEgUUxEIDQ2NTAsIEF1c3RyYWxpYSIwEi4KFAoSCd9b8YSQZ-trEZYMSXUClWs7EA8qFAoSCTMMLsDrZ-trETefyuUXgXmx",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163160228"
    }
   },
   {
@@ -37874,8 +37925,8 @@
    "properties": {
     "name": "19 TRISTANS WAY TINANA 4650",
     "locID": "LOC000164137080",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD425242282"
    }
   },
@@ -41726,6 +41777,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.64727167,
+     -25.55698851
+    ]
+   },
+   "properties": {
+    "name": "293 IINDAH ROAD WEST TINANA 4650",
+    "locID": "EisyOTMgSWluZGFoIFJkIFcsIFRpbmFuYSBRTEQgNDY1MCwgQXVzdHJhbGlhIjESLwoUChIJFW_i6P9n62sRZvETJCcBOmsQpQIqFAoSCX3pN1_4Z-trEVf0mgeQKJu_",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD719930503"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.65886768,
      -25.55564338
     ]
@@ -44966,6 +45034,57 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721266895"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.66729195,
+     -25.52901448
+    ]
+   },
+   "properties": {
+    "name": "LOT 70 EATONVALE ROAD TINANA 4650",
+    "locID": "LOC000182065691",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313948"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.67870194,
+     -25.55549055
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 8 TRISTANS WAY TINANA 4650",
+    "locID": "LOC000192175751",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721339879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.67870194,
+     -25.55549055
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 8 TRISTANS WAY TINANA 4650",
+    "locID": "LOC000192175733",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721340060"
    }
   }
  ]

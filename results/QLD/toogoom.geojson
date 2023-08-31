@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T09:36:56.099205",
+ "generated": "2023-08-31T15:41:23.284540",
  "suburb": "TOOGOOM",
  "features": [
   {
@@ -9094,7 +9094,7 @@
     "name": "515 O'REGAN CREEK ROAD TOOGOOM 4655",
     "locID": "LOC000177600105",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157250093"
    }
   },
@@ -12868,7 +12868,7 @@
     "name": "22 NORTHSHORE AVENUE TOOGOOM 4655",
     "locID": "LOC000099015409",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161706696"
    }
   },
@@ -14398,7 +14398,7 @@
     "name": "5 AQUA COURT TOOGOOM 4655",
     "locID": "LOC000022715680",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162097637"
    }
   },
@@ -14764,8 +14764,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.67185631,
-     -25.24865629
+     152.67184204,
+     -25.24864101
     ]
    },
    "properties": {
@@ -14781,8 +14781,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.67211252,
-     -25.24882311
+     152.67211138,
+     -25.24880181
     ]
    },
    "properties": {
@@ -19413,7 +19413,7 @@
     "name": "UNIT 1, 22 NORTHSHORE AVENUE TOOGOOM 4655",
     "locID": "LOC000099015409",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162632254"
    }
   },
@@ -19430,7 +19430,7 @@
     "name": "UNIT 2, 22 NORTHSHORE AVENUE TOOGOOM 4655",
     "locID": "LOC000098832073",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162632255"
    }
   },
@@ -22744,7 +22744,7 @@
    "properties": {
     "name": "50 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395389",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719134176"
    }
@@ -22761,7 +22761,7 @@
    "properties": {
     "name": "46 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395362",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719134177"
    }
@@ -22778,7 +22778,7 @@
    "properties": {
     "name": "54 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395423",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719134659"
    }
@@ -22795,7 +22795,7 @@
    "properties": {
     "name": "48 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395370",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719138499"
    }
@@ -22812,7 +22812,7 @@
    "properties": {
     "name": "52 DESMOND DRIVE TOOGOOM 4655",
     "locID": "LOC100071395406",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719141803"
    }
@@ -23390,7 +23390,7 @@
    "properties": {
     "name": "191 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395508",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719562183"
    }
@@ -23424,7 +23424,7 @@
    "properties": {
     "name": "195 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395481",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719563676"
    }
@@ -23441,7 +23441,7 @@
    "properties": {
     "name": "197 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395475",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719564787"
    }
@@ -23475,7 +23475,7 @@
    "properties": {
     "name": "193 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395499",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719566981"
    }
@@ -23492,7 +23492,7 @@
    "properties": {
     "name": "201 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395434",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719569075"
    }
@@ -23509,7 +23509,7 @@
    "properties": {
     "name": "199 KINGFISHER PARADE TOOGOOM 4655",
     "locID": "LOC100071395452",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719569996"
    }
@@ -24879,6 +24879,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.70362759,
+     -25.26540337
+    ]
+   },
+   "properties": {
+    "name": "LOT 102 CARKEET ROAD TOOGOOM 4655",
+    "locID": "EisxMDIgQ2Fya2VldCBSZCwgVG9vZ29vbSBRTEQgNDY1NSwgQXVzdHJhbGlhIjASLgoUChIJp3I6aRx562sRyojlA_RK0zAQZioUChIJqWfJQxx562sRP4wndWj_rsk",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720673552"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.68640222,
      -25.25281238
     ]
@@ -25338,8 +25355,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.69288681,
-     -25.26092
+     152.6927071,
+     -25.26051513
     ]
    },
    "properties": {
@@ -25365,6 +25382,261 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721082957"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.70316152,
+     -25.26905331
+    ]
+   },
+   "properties": {
+    "name": "LOT 94 CARKEET ROAD TOOGOOM 4655",
+    "locID": "Eio5NCBDYXJrZWV0IFJkLCBUb29nb29tIFFMRCA0NjU1LCBBdXN0cmFsaWEiMBIuChQKEgmncjppHHnraxHKiOUD9ErTMBBeKhQKEgmpZ8lDHHnraxE_jCd1aP-uyQ",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721119750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69243732,
+     -25.26042662
+    ]
+   },
+   "properties": {
+    "name": "12 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509060",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721304852"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69299936,
+     -25.26037605
+    ]
+   },
+   "properties": {
+    "name": "11 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509002",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305039"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69235709,
+     -25.26076671
+    ]
+   },
+   "properties": {
+    "name": "8 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509087",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305072"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69245299,
+     -25.26025444
+    ]
+   },
+   "properties": {
+    "name": "14 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509056",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306132"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69301682,
+     -25.26004172
+    ]
+   },
+   "properties": {
+    "name": "15 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509025",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306299"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69296975,
+     -25.26052181
+    ]
+   },
+   "properties": {
+    "name": "9 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192508993",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306403"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69248693,
+     -25.26007047
+    ]
+   },
+   "properties": {
+    "name": "16 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509041",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308841"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69240952,
+     -25.26059373
+    ]
+   },
+   "properties": {
+    "name": "10 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509073",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309048"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69294412,
+     -25.25982399
+    ]
+   },
+   "properties": {
+    "name": "20 LEWIS COURT TOOGOOM 4655",
+    "locID": "EioyMCBMZXdpcyBDdCwgT2xkIEJlYWNoIFRBUyA3MDE3LCBBdXN0cmFsaWEiMBIuChQKEgmXrGbkuA1uqhGEievQ_777iBAUKhQKEgnpSe0AuQ1uqhFeSFxBMhvnZw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721310248"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69231229,
+     -25.26096874
+    ]
+   },
+   "properties": {
+    "name": "6 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509094",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310289"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69304474,
+     -25.26022419
+    ]
+   },
+   "properties": {
+    "name": "13 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509018",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311380"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69288681,
+     -25.26092
+    ]
+   },
+   "properties": {
+    "name": "3 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192508972",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311552"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69255348,
+     -25.25988874
+    ]
+   },
+   "properties": {
+    "name": "18 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192509039",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312834"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69231755,
+     -25.26116179
+    ]
+   },
+   "properties": {
+    "name": "4 LEWIS COURT TOOGOOM 4655",
+    "locID": "LOC000192508986",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313940"
    }
   }
  ]

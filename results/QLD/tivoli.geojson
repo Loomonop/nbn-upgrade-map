@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T09:27:41.262437",
+ "generated": "2023-08-31T15:35:36.508206",
  "suburb": "TIVOLI",
  "features": [
   {
@@ -83,8 +83,8 @@
    "properties": {
     "name": "86 HILL STREET TIVOLI 4305",
     "locID": "LOC000105054713",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155886237"
    }
   },
@@ -2174,8 +2174,8 @@
    "properties": {
     "name": "16 BOUNDARY STREET TIVOLI 4305",
     "locID": "LOC000038265377",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155904320"
    }
   },
@@ -11296,23 +11296,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.76759116,
-     -27.59697224
-    ]
-   },
-   "properties": {
-    "name": "LOT 2 KENT STREET TIVOLI 4305",
-    "locID": "LOC000027610535",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161198441"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.77741191,
      -27.5818629
     ]
@@ -12377,6 +12360,57 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD721141563"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.76765732,
+     -27.59697641
+    ]
+   },
+   "properties": {
+    "name": "2A TANTIVY STREET TIVOLI 4305",
+    "locID": "LOC000098864698",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.76748564,
+     -27.59675322
+    ]
+   },
+   "properties": {
+    "name": "3 TANTIVY STREET TIVOLI 4305",
+    "locID": "LOC000037263716",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309230"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.76709639,
+     -27.59703555
+    ]
+   },
+   "properties": {
+    "name": "1A TANTIVY STREET TIVOLI 4305",
+    "locID": "LOC000034957058",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314387"
    }
   }
  ]
