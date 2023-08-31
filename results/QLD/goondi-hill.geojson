@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T16:39:07.955985",
+ "generated": "2023-08-30T23:37:48.427143",
  "suburb": "GOONDI HILL",
  "features": [
   {
@@ -1648,7 +1648,7 @@
     "name": "9 VELUTION STREET GOONDI HILL 4860",
     "locID": "LOC000074065132",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156602180"
    }
   },
@@ -1929,6 +1929,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.01846677,
+     -17.52683358
+    ]
+   },
+   "properties": {
+    "name": "23 MORIARTY STREET GOONDI HILL 4860",
+    "locID": "LOC000021581177",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156615900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.01860604,
      -17.5271915
     ]
@@ -2109,6 +2126,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160755323"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.01846677,
+     -17.52683358
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 23-25 MORIARTY STREET GOONDI HILL 4860",
+    "locID": "ChIJs3U2f9bEeGkRcoKPEni0vM4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160763695"
    }
   },
   {
@@ -2770,7 +2804,7 @@
     "name": "UNIT 1, 9 VELUTION STREET GOONDI HILL 4860",
     "locID": "LOC000074065132",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160907152"
    }
   },
@@ -4666,6 +4700,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.0170377,
+     -17.51985422
+    ]
+   },
+   "properties": {
+    "name": "LOT 43 WATER STREET GOONDI HILL 4860",
+    "locID": "Eiw0MyBXYXRlciBTdCwgR29vbmRpIEhpbGwgUUxEIDQ4NjAsIEF1c3RyYWxpYSIwEi4KFAoSCXfOWU7OxHhpEXAOwnjx7gATECsqFAoSCWvqmE_OxHhpEfNbT5rDfiat",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163019910"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.01743174,
      -17.51904942
     ]
@@ -5237,6 +5288,40 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD720877436"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.01846677,
+     -17.52683358
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 25 MORIARTY STREET GOONDI HILL 4860",
+    "locID": "ChIJxwlgsdbEeGkRLPxCnp577_A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721334688"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.01846677,
+     -17.52683358
+    ]
+   },
+   "properties": {
+    "name": "25 MORIARTY STREET GOONDI HILL 4860",
+    "locID": "ChIJxwlgsdbEeGkRLPxCnp577_A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721342039"
    }
   }
  ]
