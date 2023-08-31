@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T03:54:55.316838",
+ "generated": "2023-08-31T10:56:00.537887",
  "suburb": "ROSEMOUNT",
  "features": [
   {
@@ -84,7 +84,7 @@
     "name": "136 PANORAMA DRIVE ROSEMOUNT 4560",
     "locID": "LOC000033488330",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155766909"
    }
   },
@@ -7615,7 +7615,7 @@
     "name": "387 PAYNTERS CREEK ROAD ROSEMOUNT 4560",
     "locID": "LOC000020763041",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158589204"
    }
   },
@@ -7632,7 +7632,7 @@
     "name": "389 PAYNTERS CREEK ROAD ROSEMOUNT 4560",
     "locID": "LOC000018341083",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158589206"
    }
   },
@@ -7734,7 +7734,7 @@
     "name": "384 PAYNTERS CREEK ROAD ROSEMOUNT 4560",
     "locID": "LOC000093356052",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD158590038"
    }
   },
@@ -9555,6 +9555,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161338460"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99535011,
+     -26.62836052
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 UPPER ROSEMOUNT ROAD ROSEMOUNT 4560",
+    "locID": "LOC000047821502",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161338461"
    }
   },
   {
@@ -13829,23 +13846,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.99011631,
-     -26.62691844
-    ]
-   },
-   "properties": {
-    "name": "2-20 UPPER ROSEMOUNT ROAD ROSEMOUNT 4560",
-    "locID": "LOC000061473011",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425146351"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.99905583,
      -26.62798503
     ]
@@ -15699,6 +15699,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.99683143,
+     -26.6337905
+    ]
+   },
+   "properties": {
+    "name": "LOT 4 PAYNTERS CREEK ROAD ROSEMOUNT 4560",
+    "locID": "LOC000106163013",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720310109"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.99681734,
      -26.63440829
     ]
@@ -15709,6 +15726,40 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720310156"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99681734,
+     -26.63440829
+    ]
+   },
+   "properties": {
+    "name": "LOT 5 PAYNTERS CREEK ROAD ROSEMOUNT 4560",
+    "locID": "LOC100078022824",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720311749"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99594846,
+     -26.63298029
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 PAYNTERS CREEK ROAD ROSEMOUNT 4560",
+    "locID": "LOC000101732560",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720312686"
    }
   },
   {
@@ -16047,7 +16098,7 @@
     "name": "87A ANDREASENS ROAD ROSEMOUNT 4560",
     "locID": "LOC000191542383",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD720541701"
    }
   },
@@ -16185,6 +16236,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720773901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02760429,
+     -26.63539203
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 UPPER ROSEMOUNT ROAD ROSEMOUNT 4560",
+    "locID": "LOC000027610877",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720927025"
    }
   },
   {
