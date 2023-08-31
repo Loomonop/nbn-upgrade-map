@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T18:34:42.094338",
+ "generated": "2023-08-31T01:25:27.684477",
  "suburb": "KILCOY",
  "features": [
   {
@@ -8185,8 +8185,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.56361463,
-     -26.93622112
+     152.5661959,
+     -26.93158516
     ]
    },
    "properties": {
@@ -9043,7 +9043,7 @@
     "name": "114 KENNEDY STREET KILCOY 4515",
     "locID": "LOC000094502049",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156727422"
    }
   },
@@ -12979,16 +12979,16 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.5686499,
-     -26.93978938
+     152.56810698,
+     -26.94139493
     ]
    },
    "properties": {
-    "name": "LOT 383 SEIB STREET KILCOY 4515",
-    "locID": "LOC000107787084",
+    "name": "LOT 446 SEIB STREET KILCOY 4515",
+    "locID": "LOC000174338509",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAQLD161304968"
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD161304969"
    }
   },
   {
@@ -15131,23 +15131,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163167483"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.57042053,
-     -26.9346723
-    ]
-   },
-   "properties": {
-    "name": "LOT 7 KERR STREET KILCOY 4515",
-    "locID": "LOC000020727266",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD163167484"
    }
   },
   {
@@ -18640,23 +18623,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.5661959,
-     -26.93158516
-    ]
-   },
-   "properties": {
-    "name": "LOT 1 KENNEDY STREET KILCOY 4515",
-    "locID": "LOC000081932452",
-    "tech": "FTTP",
-    "upgrade": "FTTN_CT",
-    "gnaf_pid": "GAQLD721228989"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.56101677,
      -26.94525722
     ]
@@ -18752,6 +18718,74 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721258604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.5661959,
+     -26.93158516
+    ]
+   },
+   "properties": {
+    "name": "106A KENNEDY STREET KILCOY 4515",
+    "locID": "LOC000072740418",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721307876"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.56645181,
+     -26.93130389
+    ]
+   },
+   "properties": {
+    "name": "106B KENNEDY STREET KILCOY 4515",
+    "locID": "LOC000072740418",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721309130"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.5686499,
+     -26.93978938
+    ]
+   },
+   "properties": {
+    "name": "58 SEIB STREET KILCOY 4515",
+    "locID": "EiY1OCBTZWliIFN0LCBLaWxjb3kgUUxEIDQ1MTUsIEF1c3RyYWxpYSIwEi4KFAoSCV3lqNNJE5RrEX9hOsgQreCNEDoqFAoSCZuT1eVJE5RrEcc7GgoKX_O5",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721310587"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.57042053,
+     -26.9346723
+    ]
+   },
+   "properties": {
+    "name": "2 PINE TREE DRIVE KILCOY 4515",
+    "locID": "EiNQaW5lIFRyZWUgRHIsIFF1ZWVuc2xhbmQsIEF1c3RyYWxpYSIuKiwKFAoSCR2N8bLKbJRrEbGucg3NzcfaEhQKEgn93GJ6JN_UaxGZvhJ2ItDy9Q",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312655"
    }
   }
  ]
