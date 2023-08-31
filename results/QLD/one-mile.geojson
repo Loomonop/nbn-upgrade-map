@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T00:31:11.092793",
+ "generated": "2023-08-31T08:00:02.728492",
  "suburb": "ONE MILE",
  "features": [
   {
@@ -7862,8 +7862,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.74401847,
-     -27.62868895
+     152.74394087,
+     -27.62871268
     ]
    },
    "properties": {
@@ -9314,8 +9314,8 @@
    "properties": {
     "name": "36 SIEMONS STREET ONE MILE 4305",
     "locID": "LOC000078087885",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156971140"
    }
   },
@@ -10267,7 +10267,7 @@
     "name": "2A PHILLIP STREET ONE MILE 4305",
     "locID": "LOC000105309020",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156974259"
    }
   },
@@ -12656,8 +12656,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.74315652,
-     -27.63362811
+     152.74309421,
+     -27.63364909
     ]
    },
    "properties": {
@@ -13268,8 +13268,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.74309421,
-     -27.63364909
+     152.74315652,
+     -27.63362811
     ]
    },
    "properties": {
@@ -14159,8 +14159,8 @@
    "properties": {
     "name": "18B CHUBB STREET ONE MILE 4305",
     "locID": "LOC000095438370",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162708077"
    }
   },
@@ -14839,8 +14839,8 @@
    "properties": {
     "name": "63 VINEYARD STREET ONE MILE 4305",
     "locID": "LOC000075101200",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162716747"
    }
   },
@@ -16950,6 +16950,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721061759"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.74412905,
+     -27.62864733
+    ]
+   },
+   "properties": {
+    "name": "7 WOODFORD STREET ONE MILE 4305",
+    "locID": "LOC000062635351",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD721312102"
    }
   }
  ]

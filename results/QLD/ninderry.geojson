@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T00:08:07.954402",
+ "generated": "2023-08-31T07:44:02.590983",
  "suburb": "NINDERRY",
  "features": [
   {
@@ -2038,8 +2038,8 @@
    "properties": {
     "name": "114-132 FAIRHILL ROAD NINDERRY 4561",
     "locID": "LOC000060658182",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156933953"
    }
   },
@@ -4309,8 +4309,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.97556174,
-     -26.54537159
+     152.97576272,
+     -26.5456024
     ]
    },
    "properties": {
@@ -4914,6 +4914,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158398074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9830546,
+     -26.53698118
+    ]
+   },
+   "properties": {
+    "name": "71 ELOUERA DRIVE NINDERRY 4561",
+    "locID": "Eis3MSBFbG91ZXJhIERyLCBOaW5kZXJyeSBRTEQgNDU2MSwgQXVzdHJhbGlhIjASLgoUChIJK8keQfZ6k2sRbKOMGLwmKoEQRyoUChIJw3dJ9PZ6k2sRRF-qewWazzQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD158398080"
    }
   },
   {
@@ -7785,7 +7802,7 @@
     "name": "157 FAIRHILL ROAD NINDERRY 4561",
     "locID": "LOC000128545282",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163163743"
    }
   },
@@ -8074,7 +8091,7 @@
     "name": "213 FAIRHILL ROAD NINDERRY 4561",
     "locID": "LOC000152841858",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425425631"
    }
   },
@@ -8525,23 +8542,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.95720065,
-     -26.52750655
-    ]
-   },
-   "properties": {
-    "name": "11 NORTH ARM YANDINA CREEK ROAD NINDERRY 4561",
-    "locID": "ChIJcS2BbAV7k2sRFccFTU7CVok",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720195320"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.97240718,
      -26.5454006
     ]
@@ -8688,6 +8688,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD721258366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97533381,
+     -26.54523884
+    ]
+   },
+   "properties": {
+    "name": "205 NINDERRY ROAD NINDERRY 4561",
+    "locID": "LOC000152841862",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721310577"
    }
   }
  ]

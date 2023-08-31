@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T00:05:30.490729",
+ "generated": "2023-08-31T07:41:31.052065",
  "suburb": "NEW BEITH",
  "features": [
   {
@@ -202,8 +202,8 @@
    "properties": {
     "name": "73-77 WALLABY WAY NEW BEITH 4124",
     "locID": "LOC000106160179",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155635144"
    }
   },
@@ -1002,7 +1002,7 @@
     "name": "15-17 FROGMOUTH COURT NEW BEITH 4124",
     "locID": "LOC000021784978",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155641884"
    }
   },
@@ -1936,8 +1936,8 @@
    "properties": {
     "name": "167-169 LYON DRIVE NEW BEITH 4124",
     "locID": "LOC000034428736",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156901515"
    }
   },
@@ -1987,8 +1987,8 @@
    "properties": {
     "name": "174-176 LYON DRIVE NEW BEITH 4124",
     "locID": "LOC000095722965",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156901518"
    }
   },
@@ -2140,8 +2140,8 @@
    "properties": {
     "name": "194-196 LYON DRIVE NEW BEITH 4124",
     "locID": "LOC000058732380",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156905091"
    }
   },
@@ -3687,8 +3687,8 @@
    "properties": {
     "name": "101-103 EQUESTRIAN DRIVE NEW BEITH 4124",
     "locID": "LOC000025593697",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156965130"
    }
   },
@@ -4836,6 +4836,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.93962102,
+     -27.7360938
+    ]
+   },
+   "properties": {
+    "name": "LOT 83 MCTAGGART ROAD NEW BEITH 4124",
+    "locID": "Ei44MyBNY1RhZ2dhcnQgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjASLgoUChIJjX-fGmY2kWsR3bGHuCwZ-xcQUyoUChIJL8MniGU2kWsRaHdmYRJULVc",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161233017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.93878371,
      -27.73340657
     ]
@@ -5506,8 +5523,8 @@
    "properties": {
     "name": "115-117 BLUE HEELER DRIVE NEW BEITH 4124",
     "locID": "LOC000073376236",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161745662"
    }
   },
@@ -6033,8 +6050,8 @@
    "properties": {
     "name": "99-103 BLUE HEELER DRIVE NEW BEITH 4124",
     "locID": "LOC000040223240",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161745694"
    }
   },
@@ -6305,8 +6322,8 @@
    "properties": {
     "name": "188-192 EQUESTRIAN DRIVE NEW BEITH 4124",
     "locID": "LOC000046962558",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161752194"
    }
   },
@@ -8652,7 +8669,7 @@
     "name": "17 LOBELIA COURT NEW BEITH 4124",
     "locID": "LOC000093720787",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161759818"
    }
   },
@@ -9638,7 +9655,7 @@
     "name": "60-64 POLEBARK CRESCENT NEW BEITH 4124",
     "locID": "LOC000030697957",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161765271"
    }
   },
@@ -10470,8 +10487,8 @@
    "properties": {
     "name": "9-13 THEMEDA CLOSE NEW BEITH 4124",
     "locID": "LOC000074403098",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161770864"
    }
   },
@@ -10521,8 +10538,8 @@
    "properties": {
     "name": "12-14 WALER COURT NEW BEITH 4124",
     "locID": "LOC000106964164",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161772106"
    }
   },
@@ -10674,8 +10691,8 @@
    "properties": {
     "name": "14-16 WALLABY WAY NEW BEITH 4124",
     "locID": "LOC000091245884",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161772167"
    }
   },
@@ -11338,7 +11355,7 @@
     "name": "12-14 CORMORANT CLOSE NEW BEITH 4124",
     "locID": "LOC000002601882",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161950458"
    }
   },
@@ -13632,8 +13649,8 @@
    "properties": {
     "name": "7-9 MOORHEN COURT NEW BEITH 4124",
     "locID": "LOC000015769776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162438979"
    }
   },
@@ -13652,6 +13669,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162438980"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9600536,
+     -27.78427653
+    ]
+   },
+   "properties": {
+    "name": "LOT 201 NEW BEITH ROAD NEW BEITH 4124",
+    "locID": "ChIJB8Wa_iw2kWsRPBv1Ghr33Oo",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162439730"
    }
   },
   {
@@ -13853,8 +13887,8 @@
    "properties": {
     "name": "5-7 WATERDRAGON COURT NEW BEITH 4124",
     "locID": "LOC000036697254",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162449599"
    }
   },
@@ -13955,8 +13989,8 @@
    "properties": {
     "name": "156-158 RED GUM ROAD NEW BEITH 4124",
     "locID": "LOC000064168098",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162478013"
    }
   },
@@ -15452,7 +15486,7 @@
     "name": "2-8 WAUGH COURT NEW BEITH 4124",
     "locID": "LOC000055656105",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162680118"
    }
   },
@@ -15842,8 +15876,8 @@
    "properties": {
     "name": "71-73 MARSH BIRD DRIVE NEW BEITH 4124",
     "locID": "LOC000074775694",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162927850"
    }
   },
@@ -16165,8 +16199,8 @@
    "properties": {
     "name": "47-51 BOYD ROAD NEW BEITH 4124",
     "locID": "LOC000054842504",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162971932"
    }
   },
@@ -17644,8 +17678,8 @@
    "properties": {
     "name": "19-21 BOYD ROAD NEW BEITH 4124",
     "locID": "LOC000102666952",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163183963"
    }
   },
@@ -17713,7 +17747,7 @@
     "name": "28-32 BOYD ROAD NEW BEITH 4124",
     "locID": "LOC000080314390",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163183967"
    }
   },
@@ -18630,8 +18664,8 @@
    "properties": {
     "name": "42-48 DOBELL COURT NEW BEITH 4124",
     "locID": "LOC000110771848",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163294357"
    }
   },
@@ -19650,8 +19684,8 @@
    "properties": {
     "name": "12-14 CORYMBIA CIRCUIT NEW BEITH 4124",
     "locID": "LOC000126854798",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD424940152"
    }
   },
@@ -19718,8 +19752,8 @@
    "properties": {
     "name": "1-3 CORYMBIA CIRCUIT NEW BEITH 4124",
     "locID": "LOC000126847303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD424940156"
    }
   },
@@ -19769,8 +19803,8 @@
    "properties": {
     "name": "28-30 CORYMBIA CIRCUIT NEW BEITH 4124",
     "locID": "LOC000126760145",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424940159"
    }
   },
@@ -20194,8 +20228,8 @@
    "properties": {
     "name": "134-136 LAURINA DRIVE NEW BEITH 4124",
     "locID": "LOC000126762734",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD424942927"
    }
   },
@@ -20449,8 +20483,8 @@
    "properties": {
     "name": "11 SCRIBBLY GUM COURT NEW BEITH 4124",
     "locID": "LOC000126863230",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD424945310"
    }
   },
@@ -31220,23 +31254,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.91707733,
-     -27.75155059
-    ]
-   },
-   "properties": {
-    "name": "LOT 511 SPRING MOUNTAIN DRIVE NEW BEITH 4124",
-    "locID": "EjU1MTEgU3ByaW5nIE1vdW50YWluIERyLCBOZXcgQmVpdGggUUxEIDQxMjQsIEF1c3RyYWxpYSIxEi8KFAoSCetdVfwpNJFrEULYToO56CqxEP8DKhQKEglVyL5WZTaRaxGrifNVT2eD7g",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720731542"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.91673097,
      -27.75813805
     ]
@@ -32267,6 +32284,584 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721235458"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92634391,
+     -27.74119009
+    ]
+   },
+   "properties": {
+    "name": "178 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNzggVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQsgEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721305332"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92825313,
+     -27.74028695
+    ]
+   },
+   "properties": {
+    "name": "150 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNTAgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQlgEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721305596"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92785878,
+     -27.74280037
+    ]
+   },
+   "properties": {
+    "name": "7 YABBY CLOSE NEW BEITH 4124",
+    "locID": "LOC000097657031",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92584484,
+     -27.74457974
+    ]
+   },
+   "properties": {
+    "name": "225 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisyMjUgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQ4QEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92719021,
+     -27.74058055
+    ]
+   },
+   "properties": {
+    "name": "162 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNjIgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQogEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306788"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92729092,
+     -27.74290628
+    ]
+   },
+   "properties": {
+    "name": "6 YABBY CLOSE NEW BEITH 4124",
+    "locID": "LOC000105981591",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307079"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92679756,
+     -27.74365524
+    ]
+   },
+   "properties": {
+    "name": "2 YABBY CLOSE NEW BEITH 4124",
+    "locID": "LOC000058271946",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92641029,
+     -27.74345018
+    ]
+   },
+   "properties": {
+    "name": "207 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisyMDcgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQzwEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307232"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92754852,
+     -27.74204801
+    ]
+   },
+   "properties": {
+    "name": "165 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNjUgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQpQEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307361"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92737805,
+     -27.7442874
+    ]
+   },
+   "properties": {
+    "name": "309 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4zMDkgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDRV-KGE9m2IQtQIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307498"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9271967,
+     -27.7451244
+    ]
+   },
+   "properties": {
+    "name": "291 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4yOTEgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDRV-KGE9m2IQowIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308058"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92689069,
+     -27.74268522
+    ]
+   },
+   "properties": {
+    "name": "173 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNzMgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQrQEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308512"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92597245,
+     -27.74409865
+    ]
+   },
+   "properties": {
+    "name": "292 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4yOTIgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDBV-KGE9m2IQpAIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308614"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9280599,
+     -27.74179152
+    ]
+   },
+   "properties": {
+    "name": "151 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNTEgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQlwEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308638"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92747522,
+     -27.73905987
+    ]
+   },
+   "properties": {
+    "name": "LOT 994 TULLY ROAD NEW BEITH 4124",
+    "locID": "LOC000079472119",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308653"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92737805,
+     -27.7442874
+    ]
+   },
+   "properties": {
+    "name": "1 YABBY CLOSE NEW BEITH 4124",
+    "locID": "LOC000024107040",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309720"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92752621,
+     -27.74390364
+    ]
+   },
+   "properties": {
+    "name": "3 YABBY CLOSE NEW BEITH 4124",
+    "locID": "LOC000182432035",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309921"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92664864,
+     -27.7430628
+    ]
+   },
+   "properties": {
+    "name": "191 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxOTEgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQvwEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721309968"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92584484,
+     -27.74457974
+    ]
+   },
+   "properties": {
+    "name": "274 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4yNzQgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDBV-KGE9m2IQkgIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721310031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92673962,
+     -27.74080209
+    ]
+   },
+   "properties": {
+    "name": "170 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNzAgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQqgEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721310955"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92770937,
+     -27.74348842
+    ]
+   },
+   "properties": {
+    "name": "5 YABBY CLOSE NEW BEITH 4124",
+    "locID": "LOC000039689622",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311173"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92642792,
+     -27.74422788
+    ]
+   },
+   "properties": {
+    "name": "276 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4yNzYgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDBV-KGE9m2IQlAIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311478"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92641029,
+     -27.74345018
+    ]
+   },
+   "properties": {
+    "name": "327 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4zMjcgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDRV-KGE9m2IQxwIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311770"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92727302,
+     -27.74472388
+    ]
+   },
+   "properties": {
+    "name": "299 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4yOTkgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDRV-KGE9m2IQqwIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92767484,
+     -27.7404247
+    ]
+   },
+   "properties": {
+    "name": "154 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNTQgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQmgEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312045"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.91732742,
+     -27.75109136
+    ]
+   },
+   "properties": {
+    "name": "LOT 512 SPRING MOUNTAIN DRIVE NEW BEITH 4124",
+    "locID": "ChIJZzWZA4I2kWsRSQmKgu5-kwA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312199"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92701542,
+     -27.74326742
+    ]
+   },
+   "properties": {
+    "name": "4 YABBY CLOSE NEW BEITH 4124",
+    "locID": "LOC000068629082",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313821"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92609765,
+     -27.74186687
+    ]
+   },
+   "properties": {
+    "name": "186 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxODYgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQugEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314246"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92679756,
+     -27.74365524
+    ]
+   },
+   "properties": {
+    "name": "319 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4zMTkgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDRV-KGE9m2IQvwIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314362"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92731471,
+     -27.74243379
+    ]
+   },
+   "properties": {
+    "name": "175 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxNzUgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQrwEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314549"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9262988,
+     -27.74476122
+    ]
+   },
+   "properties": {
+    "name": "266 BIDYAN BOULEVARD NEW BEITH 4124",
+    "locID": "Ei4yNjYgQmlkeWFuIEJsdmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJ5wXb3302kWsRDBV-KGE9m2IQigIqFAoSCSfMY2OCNpFrEV7rrz9Pji2v",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92864029,
+     -27.74101993
+    ]
+   },
+   "properties": {
+    "name": "182 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxODIgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQtgEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721339222"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92864029,
+     -27.74101993
+    ]
+   },
+   "properties": {
+    "name": "187 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxODcgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQuwEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721339459"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.92864029,
+     -27.74101993
+    ]
+   },
+   "properties": {
+    "name": "183 TULLY ROAD NEW BEITH 4124",
+    "locID": "EisxODMgVHVsbHkgUmQsIE5ldyBCZWl0aCBRTEQgNDEyNCwgQXVzdHJhbGlhIjESLwoUChIJM0ABXyw0kWsRl-oJvJapzbYQtwEqFAoSCV2rc6c3NJFrESaalVuEW6zR",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721340040"
    }
   }
  ]
