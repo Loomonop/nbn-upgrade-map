@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-10T20:08:01.663351",
+ "generated": "2023-08-31T02:51:59.400492",
  "suburb": "LOGAN CENTRAL",
  "features": [
   {
@@ -5686,6 +5686,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.10991248,
+     -27.64292843
+    ]
+   },
+   "properties": {
+    "name": "16 MAYES AVENUE LOGAN CENTRAL 4114",
+    "locID": "ChIJZ_hc6PdDkWsR6CQUQneNi4Y",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155492989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.1098261,
      -27.64341866
     ]
@@ -7240,8 +7257,8 @@
    "properties": {
     "name": "67 KARRI AVENUE LOGAN CENTRAL 4114",
     "locID": "LOC000101974913",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155496223"
    }
   },
@@ -32213,8 +32230,8 @@
    "properties": {
     "name": "50 KARRI AVENUE LOGAN CENTRAL 4114",
     "locID": "LOC000097516786",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156811401"
    }
   },
@@ -49903,6 +49920,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.10013526,
+     -27.64234094
+    ]
+   },
+   "properties": {
+    "name": "8 O'GORMAN WAY LOGAN CENTRAL 4114",
+    "locID": "ChIJRVT9gQVEkWsRMnUXtQ_EHHY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425265781"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.10268792,
      -27.63497019
     ]
@@ -50386,8 +50420,8 @@
    "properties": {
     "name": "67B KARRI AVENUE LOGAN CENTRAL 4114",
     "locID": "LOC000101974913",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425664123"
    }
   },
@@ -53755,6 +53789,57 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721264297"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.10906634,
+     -27.63693136
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 2 ELABANA STREET LOGAN CENTRAL 4114",
+    "locID": "LOC000021627572",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309204"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.10906634,
+     -27.63693136
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 7 ALBERT STREET LOGAN CENTRAL 4114",
+    "locID": "LOC000020750240",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312491"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.10962522,
+     -27.6394697
+    ]
+   },
+   "properties": {
+    "name": "22A BINDI STREET LOGAN CENTRAL 4114",
+    "locID": "LOC000102868795",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335505"
    }
   }
  ]
