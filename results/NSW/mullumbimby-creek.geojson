@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-11T16:04:12.116654",
+ "generated": "2023-08-31T21:32:48.036131",
  "suburb": "MULLUMBIMBY CREEK",
  "features": [
   {
@@ -1970,7 +1970,7 @@
    "properties": {
     "name": "771 LEFT BANK ROAD MULLUMBIMBY CREEK 2482",
     "locID": "LOC000088514236",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716615678"
    }
@@ -2548,8 +2548,8 @@
    "properties": {
     "name": "5 GRAND VALLEY COURT MULLUMBIMBY CREEK 2482",
     "locID": "LOC000095579405",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717100162"
    }
   },
@@ -4302,6 +4302,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721174520"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.46857562,
+     -28.55951828
+    ]
+   },
+   "properties": {
+    "name": "250 LEFT BANK ROAD MULLUMBIMBY CREEK 2482",
+    "locID": "EjcyNTAgTGVmdCBCYW5rIFJkLCBNdWxsdW1iaW1ieSBDcmVlayBOU1cgMjQ4MiwgQXVzdHJhbGlhIjESLwoUChIJ8y5iVKuNkGsRf_MNmN1nmxoQ-gEqFAoSCUlAJ-FejJBrERMdkgkGyQXT",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319435"
    }
   }
  ]
