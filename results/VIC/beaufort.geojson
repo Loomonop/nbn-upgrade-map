@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T19:04:48.273628",
+ "generated": "2023-09-01T17:56:41.702250",
  "suburb": "BEAUFORT",
  "features": [
   {
@@ -169,7 +169,7 @@
     "name": "12 LEICHARDT STREET BEAUFORT 3373",
     "locID": "LOC000026815036",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410836292"
    }
   },
@@ -4912,7 +4912,7 @@
     "name": "11 HAVELOCK STREET BEAUFORT 3373",
     "locID": "LOC000104703845",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420370241"
    }
   },
@@ -6451,8 +6451,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.38347428,
-     -37.42662424
+     143.38340344,
+     -37.42663921
     ]
    },
    "properties": {
@@ -9953,8 +9953,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.37552515,
-     -37.43056979
+     143.37550565,
+     -37.43051171
     ]
    },
    "properties": {
@@ -11763,7 +11763,7 @@
     "name": "35A NEILL STREET BEAUFORT 3373",
     "locID": "LOC000064315497",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422312892"
    }
   },
@@ -20860,6 +20860,91 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721214905"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.37548587,
+     -37.43062782
+    ]
+   },
+   "properties": {
+    "name": "10 WILLS STREET BEAUFORT 3373",
+    "locID": "LOC000182065322",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721288142"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.40078823,
+     -37.39185154
+    ]
+   },
+   "properties": {
+    "name": "101 RUTHERFORDS LANE BEAUFORT 3373",
+    "locID": "EjAxMDEgUnV0aGVyZm9yZHMgTG4sIEJlYXVmb3J0IFZJQyAzMzczLCBBdXN0cmFsaWEiMBIuChQKEgkfjMtTLnbRahFrJbx0IAkalxBlKhQKEgkn0OJrMHbRahG3V4MRBuNAlQ",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288761"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.37019788,
+     -37.43110952
+    ]
+   },
+   "properties": {
+    "name": "20 EUCALYPTUS COURT BEAUFORT 3373",
+    "locID": "EixFdWNhbHlwdHVzIENjdCwgQmVhdWZvcnQgVklDIDMzNzMsIEF1c3RyYWxpYSIuKiwKFAoSCbOgG8S3gtFqEamg7EeLTEfVEhQKEgklAOnmqoPRahFwt6AwpHkFBA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721333043"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.37019788,
+     -37.43110952
+    ]
+   },
+   "properties": {
+    "name": "4 EUCALYPTUS COURT BEAUFORT 3373",
+    "locID": "EixFdWNhbHlwdHVzIENjdCwgQmVhdWZvcnQgVklDIDMzNzMsIEF1c3RyYWxpYSIuKiwKFAoSCbOgG8S3gtFqEamg7EeLTEfVEhQKEgklAOnmqoPRahFwt6AwpHkFBA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721333416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.37019788,
+     -37.43110952
+    ]
+   },
+   "properties": {
+    "name": "22 EUCALYPTUS COURT BEAUFORT 3373",
+    "locID": "LOC000187453265",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721333985"
    }
   }
  ]
