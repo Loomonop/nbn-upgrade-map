@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T20:23:04.492599",
+ "generated": "2023-09-01T19:08:44.594607",
  "suburb": "CASTERTON",
  "features": [
   {
@@ -16,7 +16,7 @@
     "name": "63 RUSSELL STREET CASTERTON 3311",
     "locID": "LOC000071566352",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411064455"
    }
   },
@@ -220,7 +220,7 @@
     "name": "61 RUSSELL STREET CASTERTON 3311",
     "locID": "LOC000014565435",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411066065"
    }
   },
@@ -577,7 +577,7 @@
     "name": "59 RUSSELL STREET CASTERTON 3311",
     "locID": "LOC000040669172",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411068997"
    }
   },
@@ -22424,6 +22424,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721211999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.38846712,
+     -37.58961564
+    ]
+   },
+   "properties": {
+    "name": "24 WHITE STREET CASTERTON 3311",
+    "locID": "EioyNCBXaGl0ZSBTdCwgQ2FzdGVydG9uIFZJQyAzMzExLCBBdXN0cmFsaWEiMBIuChQKEgnV47_F4ZzMahHxoiAOpHkFExAYKhQKEgnV47_F4ZzMahGr9JEullOO-g",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295234"
    }
   }
  ]
