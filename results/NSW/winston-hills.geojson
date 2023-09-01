@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T09:07:57.144779",
+ "generated": "2023-09-01T09:35:18.035947",
  "suburb": "WINSTON HILLS",
  "features": [
   {
@@ -5169,6 +5169,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706299124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.9622515,
+     -33.77089598
+    ]
+   },
+   "properties": {
+    "name": "23 AYLES ROAD WINSTON HILLS 2153",
+    "locID": "LOC000193508205",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706299125"
    }
   },
   {
@@ -17644,8 +17661,8 @@
    "properties": {
     "name": "18 CARMEL PLACE WINSTON HILLS 2153",
     "locID": "LOC000085665499",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706319087"
    }
   },
@@ -17730,7 +17747,7 @@
     "name": "26 CARMEL PLACE WINSTON HILLS 2153",
     "locID": "LOC000045200759",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706319092"
    }
   },
@@ -63945,6 +63962,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.99975877,
+     -33.77576851
+    ]
+   },
+   "properties": {
+    "name": "111 MODEL FARMS ROAD WINSTON HILLS 2153",
+    "locID": "LOC000193615852",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717084635"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.99882016,
      -33.77507527
     ]
@@ -66343,7 +66377,7 @@
     "type": "Point",
     "coordinates": [
      150.99965802,
-     -33.77281463
+     -33.77281464
     ]
    },
    "properties": {
@@ -66904,7 +66938,7 @@
     "type": "Point",
     "coordinates": [
      150.99965802,
-     -33.77281463
+     -33.77281464
     ]
    },
    "properties": {
@@ -66972,7 +67006,7 @@
     "type": "Point",
     "coordinates": [
      150.99965802,
-     -33.77281463
+     -33.77281464
     ]
    },
    "properties": {
@@ -67006,7 +67040,7 @@
     "type": "Point",
     "coordinates": [
      150.99965802,
-     -33.77281463
+     -33.77281464
     ]
    },
    "properties": {
@@ -67396,8 +67430,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.99998817,
-     -33.77231762
+     150.99998818,
+     -33.77231763
     ]
    },
    "properties": {
@@ -67804,8 +67838,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.99998817,
-     -33.77231762
+     150.99998818,
+     -33.77231763
     ]
    },
    "properties": {
@@ -69249,8 +69283,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.99998817,
-     -33.77231762
+     150.99998818,
+     -33.77231763
     ]
    },
    "properties": {
@@ -69742,8 +69776,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.99998817,
-     -33.77231762
+     150.99998818,
+     -33.77231763
     ]
    },
    "properties": {
@@ -69981,7 +70015,7 @@
     "type": "Point",
     "coordinates": [
      150.99965802,
-     -33.77281463
+     -33.77281464
     ]
    },
    "properties": {
@@ -79372,7 +79406,7 @@
     "name": "26-26A CARMEL PLACE WINSTON HILLS 2153",
     "locID": "LOC000045200759",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719813496"
    }
   },
@@ -82587,6 +82621,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721262150"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.99092519,
+     -33.77392227
+    ]
+   },
+   "properties": {
+    "name": "48A MODEL FARMS ROAD WINSTON HILLS 2153",
+    "locID": "LOC000063341361",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.99848702,
+     -33.77714369
+    ]
+   },
+   "properties": {
+    "name": "3A COOLAROO PLACE WINSTON HILLS 2153",
+    "locID": "LOC000005980633",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331598"
    }
   }
  ]
