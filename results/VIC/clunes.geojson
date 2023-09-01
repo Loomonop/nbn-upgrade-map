@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T20:46:52.577854",
+ "generated": "2023-09-01T19:37:01.592526",
  "suburb": "CLUNES",
  "features": [
   {
@@ -24853,7 +24853,7 @@
     "name": "36 VICTORIA STREET CLUNES 3370",
     "locID": "LOC000180323411",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720215419"
    }
   },
@@ -26783,23 +26783,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.78344322,
-     -37.3007677
-    ]
-   },
-   "properties": {
-    "name": "49 THORNTON STREET CLUNES 3370",
-    "locID": "ChIJefrqJeM80WoR9u5CRRbNtyc",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721156988"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      143.7905113,
      -37.29270001
     ]
@@ -26827,6 +26810,40 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721223359"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.78344322,
+     -37.3007677
+    ]
+   },
+   "properties": {
+    "name": "2 WILLIAM STREET CLUNES 3370",
+    "locID": "EigyIFdpbGxpYW0gU3QsIENsdW5lcyBWSUMgMzM3MCwgQXVzdHJhbGlhIjASLgoUChIJKdnnFuM80WoR0F0pDqR5BRMQAioUChIJKdnnFuM80WoRuF3SV5t4viQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.7651384,
+     -37.26726412
+    ]
+   },
+   "properties": {
+    "name": "156 FAIRVIEW DRIVE CLUNES 3370",
+    "locID": "EisxNTYgRmFpcnZpZXcgRHIsIENsdW5lcyBWSUMgMzM3MCwgQXVzdHJhbGlhIjESLwoUChIJW7DlgTE90WoR8T6z8Ss_fVYQnAEqFAoSCZcA5YExPdFqEfs00kqoSlws",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292614"
    }
   }
  ]
