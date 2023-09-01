@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T07:29:11.992946",
+ "generated": "2023-09-01T08:05:15.387299",
  "suburb": "ROPES CROSSING",
  "features": [
   {
@@ -100,8 +100,8 @@
    "properties": {
     "name": "16 CALEY STREET ROPES CROSSING 2760",
     "locID": "LOC000014774427",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW716989641"
    }
   },
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "13 DRUMMOND AVENUE ROPES CROSSING 2760",
     "locID": "LOC000048532862",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717139381"
    }
   },
@@ -2123,8 +2123,8 @@
    "properties": {
     "name": "11 TOWNSEND CRESCENT ROPES CROSSING 2760",
     "locID": "LOC000078618327",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW717151547"
    }
   },
@@ -5081,8 +5081,8 @@
    "properties": {
     "name": "6 VOLLER STREET ROPES CROSSING 2760",
     "locID": "LOC000039784078",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717385832"
    }
   },
@@ -5432,7 +5432,7 @@
     "type": "Point",
     "coordinates": [
      150.7797542,
-     -33.73439217
+     -33.73439218
     ]
    },
    "properties": {
@@ -5754,8 +5754,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.77974988,
-     -33.73438602
+     150.7797542,
+     -33.73439218
     ]
    },
    "properties": {
@@ -10318,7 +10318,7 @@
     "name": "2 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894566",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718128910"
    }
   },
@@ -10607,7 +10607,7 @@
     "name": "1 CORRIGAN STREET ROPES CROSSING 2760",
     "locID": "LOC000114532216",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718130634"
    }
   },
@@ -11083,7 +11083,7 @@
     "name": "8 TARADALE DRIVE ROPES CROSSING 2760",
     "locID": "LOC000114180036",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718137252"
    }
   },
@@ -11133,7 +11133,7 @@
    "properties": {
     "name": "60 WISEMAN CIRCUIT ROPES CROSSING 2760",
     "locID": "LOC000113201768",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718138616"
    }
@@ -11184,7 +11184,7 @@
    "properties": {
     "name": "66 WISEMAN CIRCUIT ROPES CROSSING 2760",
     "locID": "LOC000114450923",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718138619"
    }
@@ -11201,7 +11201,7 @@
    "properties": {
     "name": "67 WISEMAN CIRCUIT ROPES CROSSING 2760",
     "locID": "LOC000112887875",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718138620"
    }
@@ -11882,7 +11882,7 @@
     "name": "52 PULLEY DRIVE ROPES CROSSING 2760",
     "locID": "LOC000113229282",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718160638"
    }
   },
@@ -12418,23 +12418,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78163966,
-     -33.73195338
-    ]
-   },
-   "properties": {
-    "name": "14 CENTRAL PLACE ROPES CROSSING 2760",
-    "locID": "LOC000193112491",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718189112"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.78180108,
      -33.72482012
     ]
@@ -12853,23 +12836,6 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718199692"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.78496602,
-     -33.72985869
-    ]
-   },
-   "properties": {
-    "name": "2073 SCOTT STREET ROPES CROSSING 2760",
-    "locID": "ChIJI3UprySbEmsR40EQlonb2Ec",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW718205470"
    }
   },
   {
@@ -13412,7 +13378,7 @@
     "name": "30 BRUNSWICK CIRCUIT ROPES CROSSING 2760",
     "locID": "LOC000121922825",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718281787"
    }
   },
@@ -16047,7 +16013,7 @@
     "name": "1 GILROY STREET ROPES CROSSING 2760",
     "locID": "LOC000157898989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718409504"
    }
   },
@@ -16777,7 +16743,7 @@
    "properties": {
     "name": "2 MINYIP STREET ROPES CROSSING 2760",
     "locID": "LOC000157934047",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718416731"
    }
@@ -16794,7 +16760,7 @@
    "properties": {
     "name": "4 MINYIP STREET ROPES CROSSING 2760",
     "locID": "LOC000175197879",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718416732"
    }
@@ -18410,7 +18376,7 @@
     "name": "TOWNHOUSE 2, 1 GILROY STREET ROPES CROSSING 2760",
     "locID": "LOC000157899044",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718431667"
    }
   },
@@ -18971,7 +18937,7 @@
     "name": "UNIT 1, 1 GILROY STREET ROPES CROSSING 2760",
     "locID": "LOC000157898989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718438128"
    }
   },
@@ -18988,7 +18954,7 @@
     "name": "UNIT 3, 1 GILROY STREET ROPES CROSSING 2760",
     "locID": "LOC000157899016",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718438129"
    }
   },
@@ -19005,7 +18971,7 @@
     "name": "UNIT 4, 1 GILROY STREET ROPES CROSSING 2760",
     "locID": "LOC000157899037",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718438130"
    }
   },
@@ -19022,7 +18988,7 @@
     "name": "UNIT 5, 1 GILROY STREET ROPES CROSSING 2760",
     "locID": "LOC000157899044",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718438131"
    }
   },
@@ -19473,7 +19439,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78853796,
+     150.78853797,
      -33.73076086
     ]
    },
@@ -22499,8 +22465,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -22516,8 +22482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -22533,8 +22499,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -22635,8 +22601,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -23009,8 +22975,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -31143,7 +31109,7 @@
     "name": "UNIT 10, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891018",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744318"
    }
   },
@@ -31160,7 +31126,7 @@
     "name": "UNIT 11, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000170405012",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744319"
    }
   },
@@ -31177,7 +31143,7 @@
     "name": "UNIT 12, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000170405031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744320"
    }
   },
@@ -31194,7 +31160,7 @@
     "name": "UNIT 13, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000170405054",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744321"
    }
   },
@@ -31211,7 +31177,7 @@
     "name": "UNIT 14, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891025",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744322"
    }
   },
@@ -31228,7 +31194,7 @@
     "name": "UNIT 15, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891039",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744323"
    }
   },
@@ -31245,7 +31211,7 @@
     "name": "UNIT 16, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891041",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744324"
    }
   },
@@ -31262,7 +31228,7 @@
     "name": "UNIT 17, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891056",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744325"
    }
   },
@@ -31279,7 +31245,7 @@
     "name": "UNIT 18, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000170405065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744326"
    }
   },
@@ -31296,7 +31262,7 @@
     "name": "UNIT 19, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891060",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744327"
    }
   },
@@ -31313,7 +31279,7 @@
     "name": "UNIT 1, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000170405065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744328"
    }
   },
@@ -31330,7 +31296,7 @@
     "name": "UNIT 20, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891087",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744329"
    }
   },
@@ -31347,7 +31313,7 @@
     "name": "UNIT 21, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891094",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744330"
    }
   },
@@ -31364,7 +31330,7 @@
     "name": "UNIT 22, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891307",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744331"
    }
   },
@@ -31381,7 +31347,7 @@
     "name": "UNIT 23, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891311",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744332"
    }
   },
@@ -31398,7 +31364,7 @@
     "name": "UNIT 24, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891324",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744333"
    }
   },
@@ -31415,7 +31381,7 @@
     "name": "UNIT 25, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891330",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744334"
    }
   },
@@ -31432,7 +31398,7 @@
     "name": "UNIT 26, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891348",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744335"
    }
   },
@@ -31449,7 +31415,7 @@
     "name": "UNIT 27, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000188990241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744336"
    }
   },
@@ -31466,7 +31432,7 @@
     "name": "UNIT 28, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891376",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744337"
    }
   },
@@ -31483,7 +31449,7 @@
     "name": "UNIT 29, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891382",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744338"
    }
   },
@@ -31500,7 +31466,7 @@
     "name": "UNIT 2, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000188990241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744339"
    }
   },
@@ -31517,7 +31483,7 @@
     "name": "UNIT 30, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000188990241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744340"
    }
   },
@@ -31534,7 +31500,7 @@
     "name": "UNIT 31, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891428",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744341"
    }
   },
@@ -31551,7 +31517,7 @@
     "name": "UNIT 32, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891437",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744342"
    }
   },
@@ -31568,7 +31534,7 @@
     "name": "UNIT 33, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891444",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744343"
    }
   },
@@ -31585,7 +31551,7 @@
     "name": "UNIT 34, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891459",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744344"
    }
   },
@@ -31602,7 +31568,7 @@
     "name": "UNIT 35, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891463",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744345"
    }
   },
@@ -31619,7 +31585,7 @@
     "name": "UNIT 36, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891471",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744346"
    }
   },
@@ -31636,7 +31602,7 @@
     "name": "UNIT 37, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891485",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744347"
    }
   },
@@ -31653,7 +31619,7 @@
     "name": "UNIT 38, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891492",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744348"
    }
   },
@@ -31670,7 +31636,7 @@
     "name": "UNIT 39, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891906",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744349"
    }
   },
@@ -31687,7 +31653,7 @@
     "name": "UNIT 3, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000188990241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744350"
    }
   },
@@ -31704,7 +31670,7 @@
     "name": "UNIT 40, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891923",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744351"
    }
   },
@@ -31721,7 +31687,7 @@
     "name": "UNIT 41, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891934",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744352"
    }
   },
@@ -31738,7 +31704,7 @@
     "name": "UNIT 42, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891947",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744353"
    }
   },
@@ -31755,7 +31721,7 @@
     "name": "UNIT 43, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891952",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744354"
    }
   },
@@ -31772,7 +31738,7 @@
     "name": "UNIT 44, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891968",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744355"
    }
   },
@@ -31789,7 +31755,7 @@
     "name": "UNIT 45, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891975",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744356"
    }
   },
@@ -31806,7 +31772,7 @@
     "name": "UNIT 46, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891981",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744357"
    }
   },
@@ -31823,7 +31789,7 @@
     "name": "UNIT 47, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157891999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744358"
    }
   },
@@ -31840,7 +31806,7 @@
     "name": "UNIT 48, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000188990241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744359"
    }
   },
@@ -31857,7 +31823,7 @@
     "name": "UNIT 49, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000170405077",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744360"
    }
   },
@@ -31874,7 +31840,7 @@
     "name": "UNIT 4, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000188990241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744361"
    }
   },
@@ -31891,7 +31857,7 @@
     "name": "UNIT 5, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892009",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744362"
    }
   },
@@ -31908,7 +31874,7 @@
     "name": "UNIT 6, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892013",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744363"
    }
   },
@@ -31925,7 +31891,7 @@
     "name": "UNIT 7, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892021",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744364"
    }
   },
@@ -31942,7 +31908,7 @@
     "name": "UNIT 8, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744365"
    }
   },
@@ -31959,7 +31925,7 @@
     "name": "UNIT 9, 30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892045",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744366"
    }
   },
@@ -31976,7 +31942,7 @@
     "name": "10 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890685",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744367"
    }
   },
@@ -31993,7 +31959,7 @@
     "name": "12 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890692",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744368"
    }
   },
@@ -32010,7 +31976,7 @@
     "name": "14 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890905",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744369"
    }
   },
@@ -32027,7 +31993,7 @@
     "name": "16 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744370"
    }
   },
@@ -32044,7 +32010,7 @@
     "name": "18 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890922",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744371"
    }
   },
@@ -32061,7 +32027,7 @@
     "name": "20 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890946",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744372"
    }
   },
@@ -32078,7 +32044,7 @@
     "name": "22 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890951",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744373"
    }
   },
@@ -32095,7 +32061,7 @@
     "name": "24 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890967",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744374"
    }
   },
@@ -32112,7 +32078,7 @@
     "name": "26 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744375"
    }
   },
@@ -32129,7 +32095,7 @@
     "name": "28 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890980",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744376"
    }
   },
@@ -32146,7 +32112,7 @@
     "name": "2 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890933",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744377"
    }
   },
@@ -32163,7 +32129,7 @@
     "name": "30 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157890998",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744378"
    }
   },
@@ -32180,7 +32146,7 @@
     "name": "32 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892050",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744379"
    }
   },
@@ -32197,7 +32163,7 @@
     "name": "34 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892066",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744380"
    }
   },
@@ -32214,7 +32180,7 @@
     "name": "36 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892078",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744381"
    }
   },
@@ -32231,7 +32197,7 @@
     "name": "38 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892084",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744382"
    }
   },
@@ -32248,7 +32214,7 @@
     "name": "40 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892304",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744383"
    }
   },
@@ -32265,7 +32231,7 @@
     "name": "42 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892315",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744384"
    }
   },
@@ -32282,7 +32248,7 @@
     "name": "44 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892327",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744385"
    }
   },
@@ -32299,7 +32265,7 @@
     "name": "4 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744386"
    }
   },
@@ -32316,7 +32282,7 @@
     "name": "6 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892336",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744387"
    }
   },
@@ -32333,7 +32299,7 @@
     "name": "8 AUSTRALIS DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157892343",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718744388"
    }
   },
@@ -32860,7 +32826,7 @@
     "name": "30 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894550",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765789"
    }
   },
@@ -32877,7 +32843,7 @@
     "name": "32 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894566",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765790"
    }
   },
@@ -32894,7 +32860,7 @@
     "name": "34 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894578",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765791"
    }
   },
@@ -32911,7 +32877,7 @@
     "name": "36 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894584",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765792"
    }
   },
@@ -32928,7 +32894,7 @@
     "name": "38 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894597",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765793"
    }
   },
@@ -32945,7 +32911,7 @@
     "name": "40 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894606",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765794"
    }
   },
@@ -32962,7 +32928,7 @@
     "name": "42 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894610",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765795"
    }
   },
@@ -32979,7 +32945,7 @@
     "name": "44 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894623",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765796"
    }
   },
@@ -32996,7 +32962,7 @@
     "name": "46 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765797"
    }
   },
@@ -33013,7 +32979,7 @@
     "name": "48 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894647",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765798"
    }
   },
@@ -33030,7 +32996,7 @@
     "name": "50 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894652",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765799"
    }
   },
@@ -33047,7 +33013,7 @@
     "name": "52 BESTON DRIVE ROPES CROSSING 2760",
     "locID": "LOC000157894668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718765800"
    }
   },
@@ -35759,8 +35725,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -36014,8 +35980,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -36031,8 +35997,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -36286,8 +36252,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -36753,7 +36719,7 @@
     "name": "UNIT 19, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937983",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719019857"
    }
   },
@@ -36770,7 +36736,7 @@
     "name": "UNIT 15, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719021006"
    }
   },
@@ -36787,7 +36753,7 @@
     "name": "UNIT 17, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937949",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719022880"
    }
   },
@@ -36804,7 +36770,7 @@
     "name": "UNIT 5, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938475",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719023285"
    }
   },
@@ -36821,7 +36787,7 @@
     "name": "UNIT 16, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937912",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719027217"
    }
   },
@@ -36838,7 +36804,7 @@
     "name": "UNIT 13, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937833",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719028225"
    }
   },
@@ -36855,7 +36821,7 @@
     "name": "UNIT 20, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719029774"
    }
   },
@@ -36889,7 +36855,7 @@
     "name": "UNIT 14, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937867",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719033384"
    }
   },
@@ -36906,7 +36872,7 @@
     "name": "UNIT 18, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937954",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719033650"
    }
   },
@@ -36923,7 +36889,7 @@
     "name": "UNIT 7, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719061396"
    }
   },
@@ -36940,7 +36906,7 @@
     "name": "UNIT 11, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937776",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719061397"
    }
   },
@@ -36957,7 +36923,7 @@
     "name": "UNIT 9, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938605",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719061398"
    }
   },
@@ -36974,7 +36940,7 @@
     "name": "UNIT 10, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937753",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719061919"
    }
   },
@@ -36991,7 +36957,7 @@
     "name": "UNIT 6, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719063045"
    }
   },
@@ -37008,7 +36974,7 @@
     "name": "UNIT 4, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938434",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719063046"
    }
   },
@@ -37025,7 +36991,7 @@
     "name": "UNIT 1, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938475",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719063047"
    }
   },
@@ -37042,7 +37008,7 @@
     "name": "UNIT 23, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938148",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719064134"
    }
   },
@@ -37059,7 +37025,7 @@
     "name": "UNIT 3, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719064135"
    }
   },
@@ -37076,7 +37042,7 @@
     "name": "UNIT 2, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938475",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719064136"
    }
   },
@@ -37093,7 +37059,7 @@
     "name": "UNIT 8, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719064673"
    }
   },
@@ -37110,7 +37076,7 @@
     "name": "UNIT 21, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938066",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719064674"
    }
   },
@@ -37127,7 +37093,7 @@
     "name": "UNIT 12, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937805",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719064675"
    }
   },
@@ -37144,7 +37110,7 @@
     "name": "UNIT 22, 5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938107",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719065235"
    }
   },
@@ -37161,7 +37127,7 @@
     "name": "8A TARADALE DRIVE ROPES CROSSING 2760",
     "locID": "LOC000151376954",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719076059"
    }
   },
@@ -37187,8 +37153,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -37212,7 +37178,7 @@
     "name": "5 RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157938475",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719087674"
    }
   },
@@ -37221,42 +37187,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
-    ]
-   },
-   "properties": {
-    "name": "UNIT 14, 5 DUNLOP AVENUE ROPES CROSSING 2760",
-    "locID": "LOC100071583467",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719151796"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.78079463,
-     -33.73346907
-    ]
-   },
-   "properties": {
-    "name": "UNIT 11, 5 DUNLOP AVENUE ROPES CROSSING 2760",
-    "locID": "LOC100071583467",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719151797"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -37272,8 +37204,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7809282,
+     -33.7335888
     ]
    },
    "properties": {
@@ -37289,8 +37221,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37306,8 +37238,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37323,8 +37255,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -37340,8 +37272,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37357,8 +37289,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -37374,8 +37306,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7806398,
+     -33.73354168
     ]
    },
    "properties": {
@@ -37391,25 +37323,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
-    ]
-   },
-   "properties": {
-    "name": "UNIT 12, 5 DUNLOP AVENUE ROPES CROSSING 2760",
-    "locID": "LOC100071583467",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719156444"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37425,8 +37340,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7806398,
+     -33.73354168
     ]
    },
    "properties": {
@@ -37459,25 +37374,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
-    ]
-   },
-   "properties": {
-    "name": "UNIT 13, 5 DUNLOP AVENUE ROPES CROSSING 2760",
-    "locID": "LOC100071583467",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719158686"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7806398,
+     -33.73354168
     ]
    },
    "properties": {
@@ -37493,8 +37391,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7809282,
+     -33.7335888
     ]
    },
    "properties": {
@@ -37510,8 +37408,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -37527,8 +37425,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37544,8 +37442,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -37569,7 +37467,7 @@
     "name": "3A RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000170415330",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719163351"
    }
   },
@@ -37578,8 +37476,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -37595,8 +37493,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7809282,
+     -33.7335888
     ]
    },
    "properties": {
@@ -37612,8 +37510,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7809282,
+     -33.7335888
     ]
    },
    "properties": {
@@ -37629,8 +37527,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7809282,
+     -33.7335888
     ]
    },
    "properties": {
@@ -37646,8 +37544,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37671,7 +37569,7 @@
     "name": "7A RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000175198406",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719163358"
    }
   },
@@ -37688,7 +37586,7 @@
     "name": "1A RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000185925259",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719167906"
    }
   },
@@ -37705,7 +37603,7 @@
     "name": "1B RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000157937528",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719167907"
    }
   },
@@ -37765,8 +37663,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -37782,8 +37680,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -37799,8 +37697,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37833,8 +37731,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78070548,
+     -33.73339607
     ]
    },
    "properties": {
@@ -37867,8 +37765,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7806398,
+     -33.73354168
     ]
    },
    "properties": {
@@ -37935,8 +37833,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.78094533,
+     -33.73342034
     ]
    },
    "properties": {
@@ -38020,8 +37918,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78079463,
-     -33.73346907
+     150.7806398,
+     -33.73354168
     ]
    },
    "properties": {
@@ -38045,7 +37943,7 @@
     "name": "7B RAFTER PARADE ROPES CROSSING 2760",
     "locID": "LOC000170416249",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719235658"
    }
   },
@@ -38096,7 +37994,7 @@
     "name": "30A BRUNSWICK CIRCUIT ROPES CROSSING 2760",
     "locID": "LOC000185330629",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719260599"
    }
   },
@@ -38113,7 +38011,7 @@
     "name": "1A CORRIGAN STREET ROPES CROSSING 2760",
     "locID": "LOC000184308484",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719260600"
    }
   },
@@ -38173,8 +38071,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38190,8 +38088,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78160326,
+     -33.73358887
     ]
    },
    "properties": {
@@ -38207,8 +38105,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38224,8 +38122,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38241,8 +38139,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38258,8 +38156,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38275,8 +38173,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78170562,
+     -33.73356053
     ]
    },
    "properties": {
@@ -38292,8 +38190,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38309,8 +38207,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38326,8 +38224,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38343,8 +38241,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38360,8 +38258,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78181428,
+     -33.73352903
     ]
    },
    "properties": {
@@ -38377,8 +38275,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38394,8 +38292,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38411,8 +38309,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38428,8 +38326,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38445,8 +38343,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38462,8 +38360,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38479,8 +38377,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38496,8 +38394,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38513,8 +38411,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38530,8 +38428,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7814954,
+     -33.73362036
     ]
    },
    "properties": {
@@ -38547,8 +38445,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38564,8 +38462,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38581,8 +38479,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38598,8 +38496,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78191899,
+     -33.73350856
     ]
    },
    "properties": {
@@ -38615,8 +38513,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38632,8 +38530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78152611,
+     -33.73360934
     ]
    },
    "properties": {
@@ -38649,8 +38547,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38666,8 +38564,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38683,8 +38581,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38700,8 +38598,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38717,8 +38615,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78166704,
+     -33.73357076
     ]
    },
    "properties": {
@@ -38734,8 +38632,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78177176,
+     -33.7335432
     ]
    },
    "properties": {
@@ -38751,8 +38649,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38768,8 +38666,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38785,8 +38683,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38802,8 +38700,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38819,8 +38717,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78138675,
+     -33.73365027
     ]
    },
    "properties": {
@@ -38836,8 +38734,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38853,8 +38751,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38870,8 +38768,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38887,8 +38785,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38904,8 +38802,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38921,8 +38819,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38938,8 +38836,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -38955,8 +38853,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38972,8 +38870,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -38989,8 +38887,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -39006,8 +38904,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78145997,
+     -33.7336306
     ]
    },
    "properties": {
@@ -39023,8 +38921,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -39465,8 +39363,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -39499,8 +39397,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78186466,
+     -33.73321489
     ]
    },
    "properties": {
@@ -39618,8 +39516,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.7815206,
+     -33.73325897
     ]
    },
    "properties": {
@@ -39652,8 +39550,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78166844,
-     -33.73329159
+     150.78156626,
+     -33.73360225
     ]
    },
    "properties": {
@@ -39686,8 +39584,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -39982,7 +39880,7 @@
    "properties": {
     "name": "UNIT 3G, 80C ROPES CROSSING BOULEVARD ROPES CROSSING 2760",
     "locID": "ChIJf-ls5SWbEmsR1-xvxVBth2Y",
-    "tech": "FTTC",
+    "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719573178"
    }
@@ -40237,7 +40135,7 @@
    "properties": {
     "name": "UNIT 4G, 80C ROPES CROSSING BOULEVARD ROPES CROSSING 2760",
     "locID": "ChIJf-ls5SWbEmsR1-xvxVBth2Y",
-    "tech": "FTTC",
+    "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719576021"
    }
@@ -40373,7 +40271,7 @@
    "properties": {
     "name": "UNIT 1G, 80C ROPES CROSSING BOULEVARD ROPES CROSSING 2760",
     "locID": "ChIJf-ls5SWbEmsR1-xvxVBth2Y",
-    "tech": "FTTC",
+    "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719577842"
    }
@@ -40560,7 +40458,7 @@
    "properties": {
     "name": "UNIT 2G, 80C ROPES CROSSING BOULEVARD ROPES CROSSING 2760",
     "locID": "ChIJf-ls5SWbEmsR1-xvxVBth2Y",
-    "tech": "FTTC",
+    "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719579648"
    }
@@ -41393,7 +41291,7 @@
    "properties": {
     "name": "UNIT 4, 80C ROPES CROSSING BOULEVARD ROPES CROSSING 2760",
     "locID": "ChIJf-ls5SWbEmsR1-xvxVBth2Y",
-    "tech": "FTTC",
+    "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719596742"
    }
@@ -41573,8 +41471,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -41845,8 +41743,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -41947,8 +41845,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.78200633,
-     -33.7317506
+     150.78256231,
+     -33.73179763
     ]
    },
    "properties": {
@@ -41974,6 +41872,40 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720168369"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.78163967,
+     -33.73195338
+    ]
+   },
+   "properties": {
+    "name": "L14 CENTRAL PLACE ROPES CROSSING 2760",
+    "locID": "ChIJi58VuiWbEmsRTf_cJq074HI",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720255629"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.78496602,
+     -33.72985869
+    ]
+   },
+   "properties": {
+    "name": "L2073 SCOTT STREET ROPES CROSSING 2760",
+    "locID": "ChIJP3UprySbEmsRGnPVM8VswRs",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720258436"
    }
   },
   {
@@ -42610,40 +42542,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.77736166,
-     -33.73254041
-    ]
-   },
-   "properties": {
-    "name": "302 ROPES CROSSING BOULEVARD ROPES CROSSING 2760",
-    "locID": "LOC000175199951",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720784037"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.77821687,
-     -33.73263469
-    ]
-   },
-   "properties": {
-    "name": "304 ROPES CROSSING BOULEVARD ROPES CROSSING 2760",
-    "locID": "LOC000175198826",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720789474"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.78080411,
      -33.72409876
     ]
@@ -42882,8 +42780,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.77321631,
-     -33.73064339
+     150.77821688,
+     -33.73263469
     ]
    },
    "properties": {
@@ -42916,8 +42814,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.77321631,
-     -33.73064339
+     150.77736166,
+     -33.73254042
     ]
    },
    "properties": {
@@ -42926,6 +42824,40 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721269526"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.78853797,
+     -33.73076086
+    ]
+   },
+   "properties": {
+    "name": "51A MOLUCCANA CRESCENT ROPES CROSSING 2760",
+    "locID": "LOC000157934918",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.78408223,
+     -33.73817397
+    ]
+   },
+   "properties": {
+    "name": "5A ROSSETTI CIRCUIT ROPES CROSSING 2760",
+    "locID": "LOC000157943250",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721330532"
    }
   }
  ]
