@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T22:47:14.473269",
+ "generated": "2023-09-01T21:44:13.581274",
  "suburb": "ELMORE",
  "features": [
   {
@@ -382,7 +382,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.60601206,
+     144.60601207,
      -36.50021827
     ]
    },
@@ -630,23 +630,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC414402370"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.6106759,
-     -36.49379265
-    ]
-   },
-   "properties": {
-    "name": "6 MICHIE STREET ELMORE 3558",
-    "locID": "LOC000081382146",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC414402429"
    }
   },
   {
@@ -3017,23 +3000,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.60601206,
-     -36.50021827
-    ]
-   },
-   "properties": {
-    "name": "1-5 MICHIE STREET ELMORE 3558",
-    "locID": "LOC000067697795",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC419706285"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.614443,
      -36.49109293
     ]
@@ -3279,8 +3245,8 @@
    "properties": {
     "name": "93 HERVEY STREET ELMORE 3558",
     "locID": "LOC000096581346",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419731461"
    }
   },
@@ -4962,8 +4928,8 @@
    "properties": {
     "name": "22 MICHIE STREET ELMORE 3558",
     "locID": "LOC000038586619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420343123"
    }
   },
@@ -5829,8 +5795,8 @@
    "properties": {
     "name": "23 CARDWELL STREET ELMORE 3558",
     "locID": "LOC000029233071",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420718701"
    }
   },
@@ -6016,8 +5982,8 @@
    "properties": {
     "name": "103 HERVEY STREET ELMORE 3558",
     "locID": "LOC000083482367",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420879550"
    }
   },
@@ -11959,24 +11925,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.60601206,
-     -36.50021827
-    ]
-   },
-   "properties": {
-    "name": "3-5 MICHIE STREET ELMORE 3558",
-    "locID": "LOC000179900709",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC721167265"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.60601206,
+     144.60601207,
      -36.50021827
     ]
    },
@@ -11986,6 +11935,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721226854"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.60601207,
+     -36.50021827
+    ]
+   },
+   "properties": {
+    "name": "5 MICHIE STREET ELMORE 3558",
+    "locID": "LOC000179900709",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721286117"
    }
   }
  ]
