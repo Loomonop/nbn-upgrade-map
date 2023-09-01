@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T05:53:47.600456",
+ "generated": "2023-09-01T06:32:50.041451",
  "suburb": "MATRAVILLE",
  "features": [
   {
@@ -542,8 +542,8 @@
    "properties": {
     "name": "10 BAPAUME PARADE MATRAVILLE 2036",
     "locID": "LOC000057290580",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705299087"
    }
   },
@@ -7597,8 +7597,8 @@
    "properties": {
     "name": "23 SOLANDER STREET MATRAVILLE 2036",
     "locID": "LOC000053154548",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705308911"
    }
   },
@@ -15689,8 +15689,8 @@
    "properties": {
     "name": "23 HOWELL AVENUE MATRAVILLE 2036",
     "locID": "LOC000066533354",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705317420"
    }
   },
@@ -16804,8 +16804,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.23667101,
-     -33.95309312
+     151.23667024,
+     -33.95309157
     ]
    },
    "properties": {
@@ -18837,6 +18837,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705318928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.23468505,
+     -33.9607947
+    ]
+   },
+   "properties": {
+    "name": "52 FRANKLIN STREET MATRAVILLE 2036",
+    "locID": "LOC000086149934",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW705318930"
    }
   },
   {
@@ -22626,7 +22643,7 @@
     "name": "4 FLERS WAY MATRAVILLE 2036",
     "locID": "LOC000054075929",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705321273"
    }
   },
@@ -24462,7 +24479,7 @@
     "name": "91 BEAUCHAMP ROAD MATRAVILLE 2036",
     "locID": "LOC000060673453",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705322697"
    }
   },
@@ -25780,8 +25797,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.24404101,
-     -33.96257763
+     151.24396039,
+     -33.96250744
     ]
    },
    "properties": {
@@ -26001,8 +26018,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.22906609,
-     -33.95934191
+     151.22915517,
+     -33.95928836
     ]
    },
    "properties": {
@@ -28007,8 +28024,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.24102735,
-     -33.95749376
+     151.24102708,
+     -33.95749378
     ]
    },
    "properties": {
@@ -28109,8 +28126,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.24043494,
-     -33.95865015
+     151.2404324,
+     -33.95865327
     ]
    },
    "properties": {
@@ -30377,8 +30394,8 @@
    "properties": {
     "name": "37 JERSEY ROAD MATRAVILLE 2036",
     "locID": "LOC000005095467",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705326063"
    }
   },
@@ -32894,7 +32911,7 @@
     "name": "6 ANTHONY STREET MATRAVILLE 2036",
     "locID": "LOC000049701831",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705327218"
    }
   },
@@ -35514,23 +35531,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705329446"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.2335058,
-     -33.95974984
-    ]
-   },
-   "properties": {
-    "name": "32 PATERSON STREET MATRAVILLE 2036",
-    "locID": "LOC000015468147",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705329447"
    }
   },
   {
@@ -41921,7 +41921,7 @@
     "name": "17 MCCAULEY STREET MATRAVILLE 2036",
     "locID": "LOC000069040079",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705334322"
    }
   },
@@ -42142,7 +42142,7 @@
     "name": "42 MCCAULEY STREET MATRAVILLE 2036",
     "locID": "LOC000048616805",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705334337"
    }
   },
@@ -43264,7 +43264,7 @@
     "name": "40 MCCAULEY STREET MATRAVILLE 2036",
     "locID": "LOC000069040079",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705336946"
    }
   },
@@ -46061,8 +46061,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.24331635,
-     -33.9613999
+     151.24331869,
+     -33.9613959
     ]
    },
    "properties": {
@@ -48995,6 +48995,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709675980"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.23894015,
+     -33.96221143
+    ]
+   },
+   "properties": {
+    "name": "54 FRANKLIN STREET MATRAVILLE 2036",
+    "locID": "Ei41NCBGcmFua2xpbiBTdCwgTWF0cmF2aWxsZSBOU1cgMjAzNiwgQXVzdHJhbGlhIjASLgoUChIJpX3XlOGzEmsRXvIo12bPkc0QNioUChIJwa7RAOezEmsRD2pL1JtKBxQ",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW709675986"
    }
   },
   {
@@ -57391,7 +57408,7 @@
     "name": "37 RAYMOND AVENUE MATRAVILLE 2036",
     "locID": "LOC000068266431",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710498694"
    }
   },
@@ -57519,8 +57536,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.23379294,
-     -33.95804606
+     151.23389169,
+     -33.95806085
     ]
    },
    "properties": {
@@ -58564,7 +58581,7 @@
     "name": "149 BEAUCHAMP ROAD MATRAVILLE 2036",
     "locID": "LOC000014849181",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710501100"
    }
   },
@@ -59499,7 +59516,7 @@
     "name": "16 MCCAULEY STREET MATRAVILLE 2036",
     "locID": "LOC000030698324",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710504479"
    }
   },
@@ -59865,8 +59882,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.23361193,
-     -33.95774039
+     151.23355683,
+     -33.95771755
     ]
    },
    "properties": {
@@ -64982,8 +64999,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.23361193,
-     -33.95774039
+     151.23366111,
+     -33.95776077
     ]
    },
    "properties": {
@@ -66512,8 +66529,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.23379294,
-     -33.95804606
+     151.23372512,
+     -33.95806323
     ]
    },
    "properties": {
@@ -72166,23 +72183,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718408518"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.23468505,
-     -33.9607947
-    ]
-   },
-   "properties": {
-    "name": "48-52 FRANKLIN STREET MATRAVILLE 2036",
-    "locID": "ChIJ8_mOweGzEmsRzqnHQ0XgIHo",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW718408856"
    }
   },
   {
@@ -79602,6 +79602,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.2451936,
+     -33.95990128
+    ]
+   },
+   "properties": {
+    "name": "26 MEEHAN STREET MATRAVILLE 2036",
+    "locID": "LOC000183740186",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW719809669"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.23001608,
      -33.95613715
     ]
@@ -81438,7 +81455,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.24331868,
+     151.24331869,
      -33.9613959
     ]
    },
@@ -82510,7 +82527,7 @@
     "type": "Point",
     "coordinates": [
      151.24102708,
-     -33.95749377
+     -33.95749378
     ]
    },
    "properties": {
@@ -83665,7 +83682,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.23667023,
+     151.23667024,
      -33.95309157
     ]
    },
@@ -83692,6 +83709,669 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721269554"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 15, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316034"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.24393659,
+     -33.96256216
+    ]
+   },
+   "properties": {
+    "name": "43A OXLEY STREET MATRAVILLE 2036",
+    "locID": "LOC000192900959",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 20, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316824"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 18, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721317457"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2346195,
+     -33.95666282
+    ]
+   },
+   "properties": {
+    "name": "42A DAUNT AVENUE MATRAVILLE 2036",
+    "locID": "LOC000193317626",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318198"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318199"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22916945,
+     -33.95932882
+    ]
+   },
+   "properties": {
+    "name": "54A JENNINGS STREET MATRAVILLE 2036",
+    "locID": "LOC000033898627",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721318320"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 23, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 21, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319072"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319330"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 14, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319699"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 26, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319770"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319870"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 19, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721320174"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.23998553,
+     -33.95674004
+    ]
+   },
+   "properties": {
+    "name": "42 POZIERES AVENUE MATRAVILLE 2036",
+    "locID": "Ei80MiBQb3ppZXJlcyBBdmUsIE1hdHJhdmlsbGUgTlNXIDIwMzYsIEF1c3RyYWxpYSIwEi4KFAoSCdcXMsPdsxJrEcboZMX5GT4iECoqFAoSCVuC187dsxJrEfm_SSNkdA8e",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721320487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 24, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721320515"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721321021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 17, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721321243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000192509733",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721321372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 25, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721321776"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 27, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322390"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322904"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.23468506,
+     -33.96079309
+    ]
+   },
+   "properties": {
+    "name": "18 CLARENCE STREET MATRAVILLE 2036",
+    "locID": "Ei4xOCBDbGFyZW5jZSBTdCwgTWF0cmF2aWxsZSBOU1cgMjAzNiwgQXVzdHJhbGlhIjASLgoUChIJoaKfx-GzEmsRk6UQdplzznMQEioUChIJMaV0yuGzEmsR3mvf6VFkxic",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323422"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.23470676,
+     -33.96079533
+    ]
+   },
+   "properties": {
+    "name": "16 CLARENCE STREET MATRAVILLE 2036",
+    "locID": "Ei4xNiBDbGFyZW5jZSBTdCwgTWF0cmF2aWxsZSBOU1cgMjAzNiwgQXVzdHJhbGlhIjASLgoUChIJD5MSSuCzEmsRkIi65Wd9ARMQECoUChIJMaV0yuGzEmsR3mvf6VFkxic",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721324332"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721324407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2404324,
+     -33.95865327
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 16 LAWSON STREET MATRAVILLE 2036",
+    "locID": "LOC000167959572",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324732"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326142"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 22, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326882"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 16, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721327420"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2404324,
+     -33.95865327
+    ]
+   },
+   "properties": {
+    "name": "14 FINUCANE CRESCENT MATRAVILLE 2036",
+    "locID": "LOC000193376366",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721327506"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.22813047,
+     -33.96484252
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 18-24 GIRAWAH PLACE MATRAVILLE 2036",
+    "locID": "LOC000184543928",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721327698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.24518923,
+     -33.96010909
+    ]
+   },
+   "properties": {
+    "name": "30B MEEHAN STREET MATRAVILLE 2036",
+    "locID": "LOC000183740223",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721329626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2338162,
+     -33.96127411
+    ]
+   },
+   "properties": {
+    "name": "39A FRANKLIN STREET MATRAVILLE 2036",
+    "locID": "LOC000184209721",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GANSW721331619"
    }
   }
  ]

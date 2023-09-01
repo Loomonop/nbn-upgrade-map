@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T05:13:55.255760",
+ "generated": "2023-09-01T05:58:48.832151",
  "suburb": "GYMEA BAY",
  "features": [
   {
@@ -4700,8 +4700,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08429052,
-     -34.04910304
+     151.08427611,
+     -34.04917052
     ]
    },
    "properties": {
@@ -12588,8 +12588,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08549779,
-     -34.04325929
+     151.08550648,
+     -34.0432268
     ]
    },
    "properties": {
@@ -13098,8 +13098,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08001217,
-     -34.05125324
+     151.08017271,
+     -34.05127633
     ]
    },
    "properties": {
@@ -13718,7 +13718,7 @@
     "name": "24 CUDGEE ROAD GYMEA BAY 2227",
     "locID": "LOC000084282759",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704913799"
    }
   },
@@ -20874,7 +20874,7 @@
    "properties": {
     "name": "26 BUNARBA ROAD GYMEA BAY 2227",
     "locID": "LOC000193350129",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704920900"
    }
@@ -21214,8 +21214,8 @@
    "properties": {
     "name": "3 GLENFERN PLACE GYMEA BAY 2227",
     "locID": "LOC000068799107",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704920920"
    }
   },
@@ -22771,8 +22771,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09274294,
-     -34.04709483
+     151.09270141,
+     -34.04708514
     ]
    },
    "properties": {
@@ -29460,7 +29460,7 @@
     "name": "24A PINAROO PLACE GYMEA BAY 2227",
     "locID": "LOC000087909574",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704935739"
    }
   },
@@ -31482,8 +31482,8 @@
    "properties": {
     "name": "12 THIRD AVENUE GYMEA BAY 2227",
     "locID": "LOC000083626596",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704939189"
    }
   },
@@ -35691,6 +35691,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.08724326,
+     -34.05034665
+    ]
+   },
+   "properties": {
+    "name": "253 GYMEA BAY ROAD GYMEA BAY 2227",
+    "locID": "LOC000017091997",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW711569842"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.0880156,
      -34.0505314
     ]
@@ -39796,7 +39813,7 @@
     "name": "208 GYMEA BAY ROAD GYMEA BAY 2227",
     "locID": "LOC000072301677",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717658056"
    }
   },
@@ -42049,8 +42066,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09274294,
-     -34.04709483
+     151.09278788,
+     -34.04709731
     ]
    },
    "properties": {
@@ -42066,8 +42083,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09274294,
-     -34.04709483
+     151.09270141,
+     -34.04708514
     ]
    },
    "properties": {
@@ -42440,8 +42457,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08429052,
-     -34.04910304
+     151.08427611,
+     -34.04917052
     ]
    },
    "properties": {
@@ -42508,8 +42525,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08427611,
-     -34.04917052
+     151.08429053,
+     -34.04910304
     ]
    },
    "properties": {
@@ -43069,8 +43086,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08549779,
-     -34.04325929
+     151.08549037,
+     -34.04329091
     ]
    },
    "properties": {
@@ -43079,6 +43096,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721262463"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08017271,
+     -34.05127633
+    ]
+   },
+   "properties": {
+    "name": "38A ARCADIA AVENUE GYMEA BAY 2227",
+    "locID": "LOC000190521084",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08550648,
+     -34.0432268
+    ]
+   },
+   "properties": {
+    "name": "14A COONONG ROAD GYMEA BAY 2227",
+    "locID": "LOC000190525028",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721326385"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0798667,
+     -34.0512316
+    ]
+   },
+   "properties": {
+    "name": "38B ARCADIA AVENUE GYMEA BAY 2227",
+    "locID": "LOC000190521066",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721327529"
    }
   }
  ]
