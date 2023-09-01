@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T14:26:49.878020",
+ "generated": "2023-09-01T13:23:51.403722",
  "suburb": "PARADISE",
  "features": [
   {
@@ -16,7 +16,7 @@
     "name": "UNIT 1, 13 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000031242267",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414890493"
    }
   },
@@ -33,7 +33,7 @@
     "name": "UNIT 2, 13 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000030911344",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414890494"
    }
   },
@@ -50,7 +50,7 @@
     "name": "UNIT 3, 13 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000030770407",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414890495"
    }
   },
@@ -67,7 +67,7 @@
     "name": "UNIT 4, 13 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000030844365",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414890496"
    }
   },
@@ -84,7 +84,7 @@
     "name": "UNIT 5, 13 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000031145839",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414890497"
    }
   },
@@ -101,7 +101,7 @@
     "name": "1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000107108011",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414892723"
    }
   },
@@ -1529,7 +1529,7 @@
     "name": "21 SILKES ROAD PARADISE 5075",
     "locID": "LOC000049352601",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414909309"
    }
   },
@@ -2651,7 +2651,7 @@
     "name": "50 GEORGE STREET PARADISE 5075",
     "locID": "LOC000054053887",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414949273"
    }
   },
@@ -4132,23 +4132,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414985130"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.65655175,
-     -34.87142711
-    ]
-   },
-   "properties": {
-    "name": "LOT 60 VICTOR ROAD PARADISE 5075",
-    "locID": "Eik2MCBWaWN0b3IgUmQsIFBhcmFkaXNlIFNBIDUwNzUsIEF1c3RyYWxpYSIwEi4KFAoSCWsS5dUKyrBqES-w-0vbYK72EDwqFAoSCdFy0fUMyrBqEVk8sJg6ETP4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_414985331"
    }
   },
   {
@@ -6434,23 +6417,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67843238,
-     -34.869419
-    ]
-   },
-   "properties": {
-    "name": "15 GEORGE STREET PARADISE 5075",
-    "locID": "LOC000097402190",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415068758"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.67856463,
      -34.8694126
     ]
@@ -8278,7 +8244,7 @@
     "name": "165 GORGE ROAD PARADISE 5075",
     "locID": "LOC000035210212",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415147598"
    }
   },
@@ -8957,8 +8923,8 @@
    "properties": {
     "name": "10A PARKWOOD AVENUE PARADISE 5075",
     "locID": "LOC000078542945",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415187908"
    }
   },
@@ -8974,8 +8940,8 @@
    "properties": {
     "name": "10 PARKWOOD AVENUE PARADISE 5075",
     "locID": "LOC000078104383",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415187909"
    }
   },
@@ -9705,8 +9671,8 @@
    "properties": {
     "name": "12 DARCY COURT PARADISE 5075",
     "locID": "LOC000003368215",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415208728"
    }
   },
@@ -16166,7 +16132,7 @@
     "name": "7 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067776076",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415270688"
    }
   },
@@ -17678,8 +17644,8 @@
    "properties": {
     "name": "1 WOODMERE AVENUE PARADISE 5075",
     "locID": "LOC000018365431",
-    "tech": "FTTP",
-    "upgrade": "FTTP_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415278966"
    }
   },
@@ -19524,8 +19490,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66268163,
-     -34.87174656
+     138.66265109,
+     -34.87178216
     ]
    },
    "properties": {
@@ -20313,8 +20279,8 @@
    "properties": {
     "name": "10 ADELE AVENUE PARADISE 5075",
     "locID": "LOC000027476919",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415289905"
    }
   },
@@ -20824,7 +20790,7 @@
     "name": "42 RIVERVIEW DRIVE PARADISE 5075",
     "locID": "LOC100070588065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415295095"
    }
   },
@@ -21657,7 +21623,7 @@
     "name": "3 PHILPOTT AVENUE PARADISE 5075",
     "locID": "LOC000037377962",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415300264"
    }
   },
@@ -21741,7 +21707,7 @@
    "properties": {
     "name": "5 BILLS AVENUE PARADISE 5075",
     "locID": "LOC000191906593",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415300276"
    }
@@ -21793,7 +21759,7 @@
     "name": "1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596385",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415300420"
    }
   },
@@ -23179,8 +23145,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67794638,
-     -34.8734251
+     138.67794332,
+     -34.8733839
     ]
    },
    "properties": {
@@ -23357,7 +23323,7 @@
     "name": "8 MOSELEY ROAD PARADISE 5075",
     "locID": "LOC000172838670",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415303855"
    }
   },
@@ -29375,7 +29341,7 @@
     "name": "23 VAGNONI AVENUE PARADISE 5075",
     "locID": "LOC000087685872",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415398253"
    }
   },
@@ -29384,8 +29350,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67543038,
-     -34.8707182
+     138.67543644,
+     -34.87075465
     ]
    },
    "properties": {
@@ -30081,15 +30047,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67517462,
-     -34.87020464
+     138.6751818,
+     -34.8702157
     ]
    },
    "properties": {
     "name": "738 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000130155983",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415404266"
    }
   },
@@ -30173,8 +30139,8 @@
    "properties": {
     "name": "5 BRIAN GROVE PARADISE 5075",
     "locID": "LOC000102856860",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415407104"
    }
   },
@@ -30293,7 +30259,7 @@
     "name": "686 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000012611524",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415410260"
    }
   },
@@ -30633,7 +30599,7 @@
     "name": "719 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC100074208876",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415410776"
    }
   },
@@ -31043,23 +31009,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415414683"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.67414395,
-     -34.87102236
-    ]
-   },
-   "properties": {
-    "name": "2 PHILPOTT AVENUE PARADISE 5075",
-    "locID": "LOC000066984240",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415414684"
    }
   },
   {
@@ -32962,7 +32911,7 @@
     "name": "2 CROWLE ROAD PARADISE 5075",
     "locID": "LOC000069750515",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415497983"
    }
   },
@@ -33098,7 +33047,7 @@
     "name": "126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085739252",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415501898"
    }
   },
@@ -33846,7 +33795,7 @@
     "name": "8 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085494483",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415545635"
    }
   },
@@ -34203,7 +34152,7 @@
     "name": "UNIT 1, 27 AVENUE ROAD PARADISE 5075",
     "locID": "LOC000082133040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415621584"
    }
   },
@@ -34220,7 +34169,7 @@
     "name": "UNIT 2, 27 AVENUE ROAD PARADISE 5075",
     "locID": "LOC000081814005",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415621585"
    }
   },
@@ -34237,7 +34186,7 @@
     "name": "UNIT 8, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009202721",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415622424"
    }
   },
@@ -34254,7 +34203,7 @@
     "name": "UNIT 9, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009234453",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415622425"
    }
   },
@@ -34305,7 +34254,7 @@
     "name": "UNIT 1, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009304094",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624293"
    }
   },
@@ -34322,7 +34271,7 @@
     "name": "UNIT 2, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009252371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624294"
    }
   },
@@ -34339,7 +34288,7 @@
     "name": "UNIT 3, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009203121",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624295"
    }
   },
@@ -34356,7 +34305,7 @@
     "name": "UNIT 4, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009304094",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624296"
    }
   },
@@ -34373,7 +34322,7 @@
     "name": "UNIT 5, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009444392",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624297"
    }
   },
@@ -34390,7 +34339,7 @@
     "name": "UNIT 6, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009187366",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624298"
    }
   },
@@ -34407,7 +34356,7 @@
     "name": "UNIT 7, 115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009336475",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624299"
    }
   },
@@ -34441,7 +34390,7 @@
     "name": "UNIT 1, 24 STONEYBROOK DRIVE PARADISE 5075",
     "locID": "LOC000103923564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415626177"
    }
   },
@@ -34458,7 +34407,7 @@
     "name": "UNIT 2, 24 STONEYBROOK DRIVE PARADISE 5075",
     "locID": "LOC000103775671",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415626178"
    }
   },
@@ -34475,7 +34424,7 @@
     "name": "UNIT 3, 24 STONEYBROOK DRIVE PARADISE 5075",
     "locID": "LOC000103884357",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415626179"
    }
   },
@@ -34509,7 +34458,7 @@
     "name": "UNIT 1, 113 GORGE ROAD PARADISE 5075",
     "locID": "LOC000104400352",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415632246"
    }
   },
@@ -34526,7 +34475,7 @@
     "name": "UNIT 2, 113 GORGE ROAD PARADISE 5075",
     "locID": "LOC000104765991",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415632247"
    }
   },
@@ -34543,7 +34492,7 @@
     "name": "UNIT 3, 113 GORGE ROAD PARADISE 5075",
     "locID": "LOC000104382228",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415632248"
    }
   },
@@ -34560,7 +34509,7 @@
     "name": "UNIT 4, 113 GORGE ROAD PARADISE 5075",
     "locID": "LOC000104333736",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415632249"
    }
   },
@@ -34577,7 +34526,7 @@
     "name": "UNIT 5, 113 GORGE ROAD PARADISE 5075",
     "locID": "LOC000104336949",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415632250"
    }
   },
@@ -34594,7 +34543,7 @@
     "name": "UNIT 1, 1 PHILPOTT AVENUE PARADISE 5075",
     "locID": "LOC000037377962",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415632480"
    }
   },
@@ -34611,7 +34560,7 @@
     "name": "UNIT 2, 1 PHILPOTT AVENUE PARADISE 5075",
     "locID": "LOC000037716300",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415633163"
    }
   },
@@ -34628,7 +34577,7 @@
     "name": "UNIT 3, 1 PHILPOTT AVENUE PARADISE 5075",
     "locID": "LOC000037377962",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415633165"
    }
   },
@@ -34645,7 +34594,7 @@
     "name": "UNIT 4, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000030790560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415633219"
    }
   },
@@ -34662,7 +34611,7 @@
     "name": "UNIT 5, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031202361",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415633220"
    }
   },
@@ -34679,7 +34628,7 @@
     "name": "UNIT 6, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031188160",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415633221"
    }
   },
@@ -34696,7 +34645,7 @@
     "name": "UNIT 7, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000030799643",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415633222"
    }
   },
@@ -34713,7 +34662,7 @@
     "name": "UNIT 8, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031250095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415633223"
    }
   },
@@ -34747,7 +34696,7 @@
     "name": "UNIT 3, 44 GREENWILLOW AVENUE PARADISE 5075",
     "locID": "LOC000020930896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415635583"
    }
   },
@@ -34815,7 +34764,7 @@
     "name": "UNIT 1, 44 GREENWILLOW AVENUE PARADISE 5075",
     "locID": "LOC000020823803",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415638255"
    }
   },
@@ -34832,7 +34781,7 @@
     "name": "UNIT 2, 44 GREENWILLOW AVENUE PARADISE 5075",
     "locID": "LOC000021231627",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415638256"
    }
   },
@@ -35053,7 +35002,7 @@
     "name": "UNIT 9, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013500444",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415643224"
    }
   },
@@ -35070,7 +35019,7 @@
     "name": "UNIT 8, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013413393",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415643246"
    }
   },
@@ -35087,7 +35036,7 @@
     "name": "UNIT 1, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031150999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415644839"
    }
   },
@@ -35104,7 +35053,7 @@
     "name": "UNIT 2, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031150999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415644840"
    }
   },
@@ -35121,7 +35070,7 @@
     "name": "UNIT 3, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031246118",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415644841"
    }
   },
@@ -35138,7 +35087,7 @@
     "name": "UNIT 1, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013420186",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645910"
    }
   },
@@ -35155,7 +35104,7 @@
     "name": "UNIT 10, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013453315",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645911"
    }
   },
@@ -35172,7 +35121,7 @@
     "name": "UNIT 2, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013411303",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645912"
    }
   },
@@ -35189,7 +35138,7 @@
     "name": "UNIT 3, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013398977",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645913"
    }
   },
@@ -35206,7 +35155,7 @@
     "name": "UNIT 4, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013440301",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645914"
    }
   },
@@ -35223,7 +35172,7 @@
     "name": "UNIT 5, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013435504",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645915"
    }
   },
@@ -35240,7 +35189,7 @@
     "name": "UNIT 6, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013420186",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645916"
    }
   },
@@ -35257,7 +35206,7 @@
     "name": "UNIT 7, 65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013464095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645917"
    }
   },
@@ -35733,7 +35682,7 @@
     "name": "UNIT 2, 2 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038507337",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415662734"
    }
   },
@@ -35767,7 +35716,7 @@
     "name": "UNIT 2, 20 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000067049626",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415662762"
    }
   },
@@ -35903,7 +35852,7 @@
     "name": "UNIT 1, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279767",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671605"
    }
   },
@@ -35920,7 +35869,7 @@
     "name": "UNIT 10, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279767",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671606"
    }
   },
@@ -35937,7 +35886,7 @@
     "name": "UNIT 11, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671607"
    }
   },
@@ -35954,7 +35903,7 @@
     "name": "UNIT 12, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279780",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671608"
    }
   },
@@ -35971,7 +35920,7 @@
     "name": "UNIT 13, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279798",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671609"
    }
   },
@@ -35988,7 +35937,7 @@
     "name": "UNIT 14, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671610"
    }
   },
@@ -36005,7 +35954,7 @@
     "name": "UNIT 2, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279812",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671611"
    }
   },
@@ -36022,7 +35971,7 @@
     "name": "UNIT 3, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279820",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671612"
    }
   },
@@ -36039,7 +35988,7 @@
     "name": "UNIT 4, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279831",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671613"
    }
   },
@@ -36056,7 +36005,7 @@
     "name": "UNIT 5, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671614"
    }
   },
@@ -36073,7 +36022,7 @@
     "name": "UNIT 6, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279854",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671615"
    }
   },
@@ -36090,7 +36039,7 @@
     "name": "UNIT 7, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279767",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671616"
    }
   },
@@ -36107,7 +36056,7 @@
     "name": "UNIT 8, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279767",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671617"
    }
   },
@@ -36124,7 +36073,7 @@
     "name": "UNIT 9, 718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279865",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415671618"
    }
   },
@@ -37161,7 +37110,7 @@
     "name": "UNIT 2, 686 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000012571683",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416212126"
    }
   },
@@ -37875,7 +37824,7 @@
     "name": "UNIT 1, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000107108011",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416217881"
    }
   },
@@ -37892,7 +37841,7 @@
     "name": "UNIT 10, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000106938550",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416217882"
    }
   },
@@ -37909,7 +37858,7 @@
     "name": "UNIT 2, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000106974685",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416217883"
    }
   },
@@ -37926,7 +37875,7 @@
     "name": "UNIT 3, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000106844756",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416217884"
    }
   },
@@ -38113,7 +38062,7 @@
     "name": "UNIT 4, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085684478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416219215"
    }
   },
@@ -38130,7 +38079,7 @@
     "name": "UNIT 5, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085419686",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416219216"
    }
   },
@@ -38147,7 +38096,7 @@
     "name": "UNIT 7, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085665406",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416219217"
    }
   },
@@ -38164,7 +38113,7 @@
     "name": "UNIT 8, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085494483",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416219218"
    }
   },
@@ -38181,7 +38130,7 @@
     "name": "UNIT 9, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085604668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416219219"
    }
   },
@@ -38215,7 +38164,7 @@
     "name": "UNIT 5, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000107108011",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416220032"
    }
   },
@@ -38232,7 +38181,7 @@
     "name": "UNIT 6, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000107205129",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416220033"
    }
   },
@@ -38368,7 +38317,7 @@
     "name": "UNIT 9, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000107187571",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416222316"
    }
   },
@@ -38385,7 +38334,7 @@
     "name": "UNIT 8, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000106888061",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416222318"
    }
   },
@@ -39558,7 +39507,7 @@
     "name": "UNIT 4, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000107040342",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416230540"
    }
   },
@@ -39626,7 +39575,7 @@
     "name": "UNIT 2, 165 GORGE ROAD PARADISE 5075",
     "locID": "LOC000035395568",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416230594"
    }
   },
@@ -39847,7 +39796,7 @@
     "name": "UNIT 1, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000086025884",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416231228"
    }
   },
@@ -39864,7 +39813,7 @@
     "name": "UNIT 10, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085546183",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416231229"
    }
   },
@@ -39881,7 +39830,7 @@
     "name": "UNIT 11, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085806447",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416231230"
    }
   },
@@ -39898,7 +39847,7 @@
     "name": "UNIT 12, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085404602",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416231673"
    }
   },
@@ -39915,7 +39864,7 @@
     "name": "UNIT 2, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085486321",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416231674"
    }
   },
@@ -39932,7 +39881,7 @@
     "name": "UNIT 3, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085543655",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416231675"
    }
   },
@@ -40000,7 +39949,7 @@
     "name": "UNIT 29, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038726564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416232917"
    }
   },
@@ -40017,7 +39966,7 @@
     "name": "UNIT 30, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038726586",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416232918"
    }
   },
@@ -40034,7 +39983,7 @@
     "name": "UNIT 31, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038726593",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416232919"
    }
   },
@@ -40051,7 +40000,7 @@
     "name": "UNIT 32, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038505311",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416232920"
    }
   },
@@ -40068,7 +40017,7 @@
     "name": "UNIT 33, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038505324",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416232921"
    }
   },
@@ -40221,7 +40170,7 @@
     "name": "UNIT 1, 165 GORGE ROAD PARADISE 5075",
     "locID": "LOC000035210212",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416233835"
    }
   },
@@ -40510,7 +40459,7 @@
     "name": "UNIT 1, 21 SILKES ROAD PARADISE 5075",
     "locID": "LOC000049352601",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416234228"
    }
   },
@@ -40527,7 +40476,7 @@
     "name": "UNIT 2, 21 SILKES ROAD PARADISE 5075",
     "locID": "LOC000049352601",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416234229"
    }
   },
@@ -40833,7 +40782,7 @@
     "name": "UNIT 23, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038535583",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416235695"
    }
   },
@@ -40850,7 +40799,7 @@
     "name": "UNIT 24, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038505330",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416235696"
    }
   },
@@ -40867,7 +40816,7 @@
     "name": "UNIT 25, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038507337",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416235697"
    }
   },
@@ -40884,7 +40833,7 @@
     "name": "UNIT 26, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038507344",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416235698"
    }
   },
@@ -40901,7 +40850,7 @@
     "name": "UNIT 27, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038507359",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416235699"
    }
   },
@@ -41071,7 +41020,7 @@
     "name": "UNIT 28, 22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038507363",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416236605"
    }
   },
@@ -41683,7 +41632,7 @@
     "name": "4 CROWLE ROAD PARADISE 5075",
     "locID": "LOC000065808437",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416238554"
    }
   },
@@ -42431,7 +42380,7 @@
     "name": "UNIT 7, 1 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000106879838",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416727982"
    }
   },
@@ -42448,7 +42397,7 @@
     "name": "UNIT 1, 686 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000012611524",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416728444"
    }
   },
@@ -42516,7 +42465,7 @@
     "name": "22 CAMPBELL ROAD PARADISE 5075",
     "locID": "LOC000019987312",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416728673"
    }
   },
@@ -42635,7 +42584,7 @@
     "name": "UNIT 1, 20 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000067063889",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416729524"
    }
   },
@@ -42754,7 +42703,7 @@
     "name": "UNIT 9, 169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031150999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416730332"
    }
   },
@@ -43128,7 +43077,7 @@
     "name": "UNIT 6, 126 GEORGE STREET PARADISE 5075",
     "locID": "LOC000085739252",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416736555"
    }
   },
@@ -43179,7 +43128,7 @@
     "name": "100 GEORGE STREET PARADISE 5075",
     "locID": "LOC000054053887",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416737073"
    }
   },
@@ -43766,8 +43715,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67829924,
-     -34.86936163
+     138.67843364,
+     -34.86941558
     ]
    },
    "properties": {
@@ -43944,7 +43893,7 @@
     "name": "718 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279767",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422040559"
    }
   },
@@ -43978,7 +43927,7 @@
     "name": "13 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000031242267",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422042497"
    }
   },
@@ -43995,7 +43944,7 @@
     "name": "1 PHILPOTT AVENUE PARADISE 5075",
     "locID": "LOC000037377962",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422044464"
    }
   },
@@ -44182,7 +44131,7 @@
     "name": "24 STONEYBROOK DRIVE PARADISE 5075",
     "locID": "LOC000103775671",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422052251"
    }
   },
@@ -44199,7 +44148,7 @@
     "name": "44 GREENWILLOW AVENUE PARADISE 5075",
     "locID": "LOC000021231627",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422052257"
    }
   },
@@ -44216,7 +44165,7 @@
     "name": "65 GORGE ROAD PARADISE 5075",
     "locID": "LOC000013420186",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422052300"
    }
   },
@@ -44233,7 +44182,7 @@
     "name": "115 GORGE ROAD PARADISE 5075",
     "locID": "LOC000009304094",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422052301"
    }
   },
@@ -44267,7 +44216,7 @@
     "name": "169 GORGE ROAD PARADISE 5075",
     "locID": "LOC000031150999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422052303"
    }
   },
@@ -46375,7 +46324,7 @@
     "name": "UNIT 10, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064866696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741241"
    }
   },
@@ -46392,7 +46341,7 @@
     "name": "UNIT 11, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064852664",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741242"
    }
   },
@@ -46409,7 +46358,7 @@
     "name": "UNIT 12, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064626607",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741243"
    }
   },
@@ -46426,7 +46375,7 @@
     "name": "UNIT 13, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064736477",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741244"
    }
   },
@@ -46443,7 +46392,7 @@
     "name": "UNIT 14, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064636159",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741245"
    }
   },
@@ -46460,7 +46409,7 @@
     "name": "UNIT 1, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064719907",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741246"
    }
   },
@@ -46477,7 +46426,7 @@
     "name": "UNIT 2, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064598450",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741247"
    }
   },
@@ -46494,7 +46443,7 @@
     "name": "UNIT 3, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000065018498",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741248"
    }
   },
@@ -46511,7 +46460,7 @@
     "name": "UNIT 4, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064865393",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741249"
    }
   },
@@ -46528,7 +46477,7 @@
     "name": "UNIT 5, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064859454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741250"
    }
   },
@@ -46545,7 +46494,7 @@
     "name": "UNIT 6, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064952710",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741251"
    }
   },
@@ -46562,7 +46511,7 @@
     "name": "UNIT 7, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064812931",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741252"
    }
   },
@@ -46579,7 +46528,7 @@
     "name": "UNIT 8, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064633068",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741253"
    }
   },
@@ -46596,7 +46545,7 @@
     "name": "UNIT 9, 64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000064777219",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423741254"
    }
   },
@@ -47480,7 +47429,7 @@
     "name": "56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067921256",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423819269"
    }
   },
@@ -47633,7 +47582,7 @@
     "name": "22 ARCADIA AVENUE PARADISE 5075",
     "locID": "LOC000038507344",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423862709"
    }
   },
@@ -47667,7 +47616,7 @@
     "name": "27 AVENUE ROAD PARADISE 5075",
     "locID": "LOC000082133040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423862846"
    }
   },
@@ -47701,7 +47650,7 @@
     "name": "20 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000067063889",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423864440"
    }
   },
@@ -47803,7 +47752,7 @@
     "name": "64 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000065018498",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423869809"
    }
   },
@@ -48398,7 +48347,7 @@
     "name": "LOT 20 DARLEY ROAD PARADISE 5075",
     "locID": "LOC000067063889",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424104084"
    }
   },
@@ -48449,7 +48398,7 @@
     "name": "LOT 1 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279751",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424112677"
    }
   },
@@ -49911,7 +49860,7 @@
     "name": "LOT 11 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC000165279779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424187371"
    }
   },
@@ -50318,8 +50267,8 @@
    "properties": {
     "name": "3 MINICOZZI PLACE PARADISE 5075",
     "locID": "LOC000094490342",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_424343988"
    }
   },
@@ -50404,7 +50353,7 @@
     "name": "UNIT 10, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067920337",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344359"
    }
   },
@@ -50421,7 +50370,7 @@
     "name": "UNIT 11, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000068242689",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344360"
    }
   },
@@ -50438,7 +50387,7 @@
     "name": "UNIT 12, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000068240511",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344361"
    }
   },
@@ -50455,7 +50404,7 @@
     "name": "UNIT 1, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067992237",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344362"
    }
   },
@@ -50472,7 +50421,7 @@
     "name": "UNIT 2, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067921256",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344363"
    }
   },
@@ -50489,7 +50438,7 @@
     "name": "UNIT 3, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067742639",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344364"
    }
   },
@@ -50506,7 +50455,7 @@
     "name": "UNIT 4, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067850706",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344365"
    }
   },
@@ -50523,7 +50472,7 @@
     "name": "UNIT 5, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067850660",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344366"
    }
   },
@@ -50540,7 +50489,7 @@
     "name": "UNIT 6, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000068127610",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344367"
    }
   },
@@ -50557,7 +50506,7 @@
     "name": "UNIT 7, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067776076",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344368"
    }
   },
@@ -50574,7 +50523,7 @@
     "name": "UNIT 8, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000067924946",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344369"
    }
   },
@@ -50591,7 +50540,7 @@
     "name": "UNIT 9, 56 RESERVOIR ROAD PARADISE 5075",
     "locID": "LOC000068018360",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424344370"
    }
   },
@@ -53022,7 +52971,7 @@
     "name": "113 GORGE ROAD PARADISE 5075",
     "locID": "LOC000104400352",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424931888"
    }
   },
@@ -54415,8 +54364,8 @@
    "properties": {
     "name": "2B NICOLA COURT PARADISE 5075",
     "locID": "LOC000165280117",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425259604"
    }
   },
@@ -56405,7 +56354,7 @@
     "name": "15A JEAN AVENUE PARADISE 5075",
     "locID": "LOC100070588096",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719195099"
    }
   },
@@ -56490,7 +56439,7 @@
     "name": "16C BRIAN GROVE PARADISE 5075",
     "locID": "LOC000172837993",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719195330"
    }
   },
@@ -56575,7 +56524,7 @@
     "name": "16A BRIAN GROVE PARADISE 5075",
     "locID": "LOC000172837972",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719195946"
    }
   },
@@ -56609,7 +56558,7 @@
     "name": "16B BRIAN GROVE PARADISE 5075",
     "locID": "LOC000172837986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719196015"
    }
   },
@@ -57119,7 +57068,7 @@
     "name": "UNIT 2, 8 MOSELEY ROAD PARADISE 5075",
     "locID": "LOC000172838658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719399614"
    }
   },
@@ -57187,7 +57136,7 @@
     "name": "UNIT 1, 8 MOSELEY ROAD PARADISE 5075",
     "locID": "LOC000172838658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719399884"
    }
   },
@@ -57238,7 +57187,7 @@
     "name": "UNIT 3, 8 MOSELEY ROAD PARADISE 5075",
     "locID": "LOC000172838662",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719400279"
    }
   },
@@ -57255,7 +57204,7 @@
     "name": "UNIT 4, 8 MOSELEY ROAD PARADISE 5075",
     "locID": "LOC000172838670",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719400351"
    }
   },
@@ -57306,7 +57255,7 @@
     "name": "42B RIVERVIEW DRIVE PARADISE 5075",
     "locID": "LOC100070588065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719451948"
    }
   },
@@ -58190,7 +58139,7 @@
     "name": "UNIT 2, 719 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC100074208853",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719703517"
    }
   },
@@ -58224,7 +58173,7 @@
     "name": "UNIT 1, 719 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC100074208876",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719704292"
    }
   },
@@ -58343,7 +58292,7 @@
     "name": "1A WEEWANDA ROAD PARADISE 5075",
     "locID": "LOC000180254122",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_719704760"
    }
   },
@@ -58394,7 +58343,7 @@
     "name": "UNIT 3, 719 LOWER NORTH EAST ROAD PARADISE 5075",
     "locID": "LOC100074208869",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719706147"
    }
   },
@@ -59278,7 +59227,7 @@
     "name": "UNIT 7, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596453",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719970851"
    }
   },
@@ -59295,7 +59244,7 @@
     "name": "UNIT 2, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596392",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719970852"
    }
   },
@@ -59329,7 +59278,7 @@
     "name": "UNIT 3, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596407",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719970915"
    }
   },
@@ -59414,7 +59363,7 @@
     "name": "UNIT 1, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596385",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719970989"
    }
   },
@@ -59448,7 +59397,7 @@
     "name": "UNIT 5, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596385",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719970991"
    }
   },
@@ -59465,7 +59414,7 @@
     "name": "UNIT 9, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596469",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719971022"
    }
   },
@@ -59482,7 +59431,7 @@
     "name": "UNIT 6, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596430",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719971023"
    }
   },
@@ -59567,7 +59516,7 @@
     "name": "UNIT 8, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596448",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719971070"
    }
   },
@@ -59601,7 +59550,7 @@
     "name": "UNIT 4, 1 PITT STREET PARADISE 5075",
     "locID": "LOC100074596411",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719971106"
    }
   },
@@ -64210,6 +64159,193 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721267431"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67399322,
+     -34.87104029
+    ]
+   },
+   "properties": {
+    "name": "2E PHILPOTT AVENUE PARADISE 5075",
+    "locID": "LOC000066984240",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721273811"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67794332,
+     -34.8733839
+    ]
+   },
+   "properties": {
+    "name": "25B MOSELEY ROAD PARADISE 5075",
+    "locID": "LOC000030329236",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721274727"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6742679,
+     -34.87096396
+    ]
+   },
+   "properties": {
+    "name": "2C PHILPOTT AVENUE PARADISE 5075",
+    "locID": "LOC000066984240",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721275323"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6779491,
+     -34.87346647
+    ]
+   },
+   "properties": {
+    "name": "25A MOSELEY ROAD PARADISE 5075",
+    "locID": "LOC000030329236",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721276144"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67425641,
+     -34.87105236
+    ]
+   },
+   "properties": {
+    "name": "2D PHILPOTT AVENUE PARADISE 5075",
+    "locID": "LOC000066984240",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721276171"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67005085,
+     -34.8692804
+    ]
+   },
+   "properties": {
+    "name": "LOT 202 ELSINORE DRIVE PARADISE 5075",
+    "locID": "LOC000067288511",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276254"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67003359,
+     -34.86914725
+    ]
+   },
+   "properties": {
+    "name": "LOT 201 ELSINORE DRIVE PARADISE 5075",
+    "locID": "LOC000067288511",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276380"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66271309,
+     -34.87170989
+    ]
+   },
+   "properties": {
+    "name": "28A MELVILLE ROAD PARADISE 5075",
+    "locID": "LOC000071967822",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721276936"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66265109,
+     -34.87178216
+    ]
+   },
+   "properties": {
+    "name": "28B MELVILLE ROAD PARADISE 5075",
+    "locID": "LOC000071967822",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721277111"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66071193,
+     -34.8680399
+    ]
+   },
+   "properties": {
+    "name": "1A NORMAN STREET PARADISE 5075",
+    "locID": "LOC100074638979",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721304362"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66071193,
+     -34.8680399
+    ]
+   },
+   "properties": {
+    "name": "1B NORMAN STREET PARADISE 5075",
+    "locID": "LOC100074638979",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721304694"
    }
   }
  ]

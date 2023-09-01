@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T12:29:20.816919",
+ "generated": "2023-09-01T12:32:14.356290",
  "suburb": "HILLBANK",
  "features": [
   {
@@ -883,7 +883,7 @@
     "name": "28 BROOKER DRIVE HILLBANK 5112",
     "locID": "LOC000099102670",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414909063"
    }
   },
@@ -14431,8 +14431,8 @@
    "properties": {
     "name": "7 NORWAY AVENUE HILLBANK 5112",
     "locID": "LOC000044501170",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415067575"
    }
   },
@@ -14516,8 +14516,8 @@
    "properties": {
     "name": "8 ALANDRY COURT HILLBANK 5112",
     "locID": "LOC000039622440",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415067580"
    }
   },
@@ -15571,7 +15571,7 @@
     "name": "27 KOSMINA CRESCENT HILLBANK 5112",
     "locID": "LOC000035198690",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415082938"
    }
   },
@@ -17611,7 +17611,7 @@
     "name": "9 WINSTON CRESCENT HILLBANK 5112",
     "locID": "LOC000003364716",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415100186"
    }
   },
@@ -19872,7 +19872,7 @@
     "name": "19 CAMBRIDGE TERRACE HILLBANK 5112",
     "locID": "LOC000011739869",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415106685"
    }
   },
@@ -29306,8 +29306,8 @@
    "properties": {
     "name": "4 CRESTVIEW PLACE HILLBANK 5112",
     "locID": "LOC000091414027",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416063038"
    }
   },
@@ -31757,23 +31757,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424223284"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.67720717,
-     -34.74813592
-    ]
-   },
-   "properties": {
-    "name": "LOT 97 MAIN NORTH ROAD HILLBANK 5112",
-    "locID": "Ei85NyBNYWluIE4gUmQsIEVsaXphYmV0aCBWYWxlIFNBIDUxMTIsIEF1c3RyYWxpYSIwEi4KFAoSCY-BD9VjsrBqEc7kLUzp7d8CEGEqFAoSCZkxHB-3s7BqEbypL8VHZryy",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_424231617"
    }
   },
   {
@@ -35208,6 +35191,74 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720721688"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.68656004,
+     -34.75415633
+    ]
+   },
+   "properties": {
+    "name": "LOT 4 GRANDVIEW DRIVE HILLBANK 5112",
+    "locID": "LOC000047836809",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721274721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.70295643,
+     -34.72101952
+    ]
+   },
+   "properties": {
+    "name": "LOT 201 WHITFORD ROAD HILLBANK 5112",
+    "locID": "LOC000192815682",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721276360"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.70408988,
+     -34.7304143
+    ]
+   },
+   "properties": {
+    "name": "LOT 100 WILLISON ROAD HILLBANK 5112",
+    "locID": "LOC000065852196",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721276492"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.68871305,
+     -34.75247502
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 WILLIAMS ROAD HILLBANK 5112",
+    "locID": "LOC000038486001",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721276607"
    }
   }
  ]
