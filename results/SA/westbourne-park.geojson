@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T15:45:18.067458",
+ "generated": "2023-09-01T14:50:07.498391",
  "suburb": "WESTBOURNE PARK",
  "features": [
   {
@@ -950,8 +950,8 @@
    "properties": {
     "name": "35 MARLBOROUGH ROAD WESTBOURNE PARK 5041",
     "locID": "LOC000059709894",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415030616"
    }
   },
@@ -6000,7 +6000,7 @@
     "name": "55 CARLISLE ROAD WESTBOURNE PARK 5041",
     "locID": "LOC000096514245",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415425896"
    }
   },
@@ -9834,40 +9834,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.59630696,
-     -34.97569383
-    ]
-   },
-   "properties": {
-    "name": "23 CONSTANCE STREET WESTBOURNE PARK 5041",
-    "locID": "LOC000020053035",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415441545"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.59643198,
-     -34.97568723
-    ]
-   },
-   "properties": {
-    "name": "23A CONSTANCE STREET WESTBOURNE PARK 5041",
-    "locID": "LOC000020136244",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415441546"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.59657988,
      -34.9757067
     ]
@@ -11660,8 +11626,8 @@
    "properties": {
     "name": "15 ELMO AVENUE WESTBOURNE PARK 5041",
     "locID": "LOC000013454995",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415449962"
    }
   },
@@ -11704,8 +11670,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.59210463,
-     -34.9673842
+     138.59212261,
+     -34.96751343
     ]
    },
    "properties": {
@@ -11925,8 +11891,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.59190376,
-     -34.9674298
+     138.59188978,
+     -34.96743061
     ]
    },
    "properties": {
@@ -17365,8 +17331,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.59210463,
-     -34.9673842
+     138.59212261,
+     -34.96751343
     ]
    },
    "properties": {
@@ -17382,8 +17348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.59210463,
-     -34.9673842
+     138.59212261,
+     -34.96751343
     ]
    },
    "properties": {
@@ -18351,23 +18317,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.59646213,
-     -34.9667676
-    ]
-   },
-   "properties": {
-    "name": "LOT 16 DEEPDENE AVENUE WESTBOURNE PARK 5041",
-    "locID": "EjMxNiBEZWVwZGVuZSBBdmUsIFdlc3Rib3VybmUgUGFyayBTQSA1MDQxLCBBdXN0cmFsaWEiMBIuChQKEgn7AmZRtM-wahHhNgxJVDYDExAQKhQKEgll9KFdtM-wahFd72XVwfwgfQ",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_720706114"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.59520072,
      -34.97056754
     ]
@@ -18429,6 +18378,193 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721202951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59638337,
+     -34.96661194
+    ]
+   },
+   "properties": {
+    "name": "LOT 4 DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000095385714",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721274175"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59633125,
+     -34.96690391
+    ]
+   },
+   "properties": {
+    "name": "LOT 6 DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000077819659",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721275277"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59648015,
+     -34.96690183
+    ]
+   },
+   "properties": {
+    "name": "LOT 7 DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000192483713",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721275698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59667919,
+     -34.96661477
+    ]
+   },
+   "properties": {
+    "name": "LOT 5 DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000192483685",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721275900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.596621,
+     -34.9669004
+    ]
+   },
+   "properties": {
+    "name": "LOT 8 DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000103995185",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721277538"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59184638,
+     -34.9731796
+    ]
+   },
+   "properties": {
+    "name": "2C HARVEY AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000191306741",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721283137"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59604726,
+     -34.9666333
+    ]
+   },
+   "properties": {
+    "name": "1C DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000094689632",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721304447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59604726,
+     -34.9666333
+    ]
+   },
+   "properties": {
+    "name": "1A DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000094689632",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721304452"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59604726,
+     -34.9666333
+    ]
+   },
+   "properties": {
+    "name": "1B DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000094689632",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721304541"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59604726,
+     -34.9666333
+    ]
+   },
+   "properties": {
+    "name": "1E DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000094689632",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721304686"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59604726,
+     -34.9666333
+    ]
+   },
+   "properties": {
+    "name": "1D DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000192483713",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721304719"
    }
   }
  ]
