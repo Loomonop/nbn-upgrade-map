@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T22:34:33.477405",
+ "generated": "2023-09-01T21:26:31.134136",
  "suburb": "EAST GEELONG",
  "features": [
   {
@@ -1691,23 +1691,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.37912889,
-     -38.16059256
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 15 BOYNE AVENUE EAST GEELONG 3219",
-    "locID": "LOC000006171298",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC411303299"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.38394151,
      -38.15893998
     ]
@@ -2840,23 +2823,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411317169"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.37912889,
-     -38.16059256
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 15 BOYNE AVENUE EAST GEELONG 3219",
-    "locID": "LOC000006171298",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC411317173"
    }
   },
   {
@@ -4095,8 +4061,8 @@
    "properties": {
     "name": "51 NORMANBY STREET EAST GEELONG 3219",
     "locID": "LOC000017824085",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419637700"
    }
   },
@@ -8559,8 +8525,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.37016771,
-     -38.16162551
+     144.37016857,
+     -38.1616236
     ]
    },
    "properties": {
@@ -26926,8 +26892,8 @@
    "properties": {
     "name": "51 LOCH STREET EAST GEELONG 3219",
     "locID": "LOC000006910738",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421468356"
    }
   },
@@ -35718,6 +35684,40 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721256533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37637267,
+     -38.16366992
+    ]
+   },
+   "properties": {
+    "name": "3B GODFREY STREET EAST GEELONG 3219",
+    "locID": "LOC000192901613",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721291051"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.37631531,
+     -38.16360945
+    ]
+   },
+   "properties": {
+    "name": "3A GODFREY STREET EAST GEELONG 3219",
+    "locID": "LOC000192901613",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721297824"
    }
   }
  ]
