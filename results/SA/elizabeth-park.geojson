@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T11:49:24.076258",
+ "generated": "2023-09-01T11:50:08.267943",
  "suburb": "ELIZABETH PARK",
  "features": [
   {
@@ -747,7 +747,7 @@
     "name": "UNIT 1, 14 HAYLES ROAD ELIZABETH PARK 5113",
     "locID": "LOC000095144276",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415062184"
    }
   },
@@ -764,7 +764,7 @@
     "name": "UNIT 2, 14 HAYLES ROAD ELIZABETH PARK 5113",
     "locID": "LOC000095144282",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415062185"
    }
   },
@@ -781,7 +781,7 @@
     "name": "UNIT 1, 187 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000005388433",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415063091"
    }
   },
@@ -798,7 +798,7 @@
     "name": "UNIT 2, 187 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000005388446",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415063092"
    }
   },
@@ -4649,23 +4649,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.68072223,
-     -34.70664582
-    ]
-   },
-   "properties": {
-    "name": "12 GARLICK ROAD ELIZABETH PARK 5113",
-    "locID": "LOC000050684636",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415273708"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.6808509,
      -34.70650061
     ]
@@ -6867,7 +6850,7 @@
     "name": "16 GOULD ROAD ELIZABETH PARK 5113",
     "locID": "LOC000072755507",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415280432"
    }
   },
@@ -7257,8 +7240,8 @@
    "properties": {
     "name": "147 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000071881637",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415282709"
    }
   },
@@ -7394,7 +7377,7 @@
     "name": "155 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000018750678",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415282717"
    }
   },
@@ -8142,7 +8125,7 @@
     "name": "27 BURDON STREET ELIZABETH PARK 5113",
     "locID": "LOC100076310268",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415285765"
    }
   },
@@ -8178,6 +8161,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415285767"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.68745007,
+     -34.71120845
+    ]
+   },
+   "properties": {
+    "name": "30 INNES STREET ELIZABETH PARK 5113",
+    "locID": "ChIJ3b1jww2tsGoRreUTDPe-Vu0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_415285768"
    }
   },
   {
@@ -11355,7 +11355,7 @@
     "name": "LOT 715 HAYLES ROAD ELIZABETH PARK 5113",
     "locID": "LOC000130544385",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415297482"
    }
   },
@@ -11372,7 +11372,7 @@
     "name": "18 HAYLES ROAD ELIZABETH PARK 5113",
     "locID": "LOC000032576531",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415297483"
    }
   },
@@ -11678,7 +11678,7 @@
     "name": "7 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000071115908",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415298724"
    }
   },
@@ -12154,7 +12154,7 @@
     "name": "1 BUTLER STREET ELIZABETH PARK 5113",
     "locID": "LOC000159767695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415298837"
    }
   },
@@ -14109,7 +14109,7 @@
     "name": "20 BUTTERFIELD ROAD ELIZABETH PARK 5113",
     "locID": "LOC000159760054",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415305388"
    }
   },
@@ -14621,23 +14621,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415307221"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.68018175,
-     -34.71440261
-    ]
-   },
-   "properties": {
-    "name": "10 RANGER STREET ELIZABETH PARK 5113",
-    "locID": "LOC000031670654",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415307222"
    }
   },
   {
@@ -23339,8 +23322,8 @@
    "properties": {
     "name": "17 BANKSIA COURT ELIZABETH PARK 5113",
     "locID": "LOC000078215115",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415958139"
    }
   },
@@ -23561,7 +23544,7 @@
     "name": "UNIT 1, 16 GOULD ROAD ELIZABETH PARK 5113",
     "locID": "LOC000072755507",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415958188"
    }
   },
@@ -23578,7 +23561,7 @@
     "name": "UNIT 2, 16 GOULD ROAD ELIZABETH PARK 5113",
     "locID": "LOC000072755507",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415958189"
    }
   },
@@ -24819,7 +24802,7 @@
     "name": "1 GOULD ROAD ELIZABETH PARK 5113",
     "locID": "LOC000034406007",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416858175"
    }
   },
@@ -25584,7 +25567,7 @@
     "name": "14 HAYLES ROAD ELIZABETH PARK 5113",
     "locID": "LOC000095144282",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423866232"
    }
   },
@@ -25601,7 +25584,7 @@
     "name": "187 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000005388446",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423868109"
    }
   },
@@ -25992,7 +25975,7 @@
     "name": "UNIT 1, 7 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000071226275",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424117646"
    }
   },
@@ -26009,7 +25992,7 @@
     "name": "UNIT 2, 7 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000071115908",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424117647"
    }
   },
@@ -26026,7 +26009,7 @@
     "name": "UNIT 3, 7 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000070854584",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424117648"
    }
   },
@@ -26978,7 +26961,7 @@
     "name": "UNIT 4, 7 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000071115908",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424148317"
    }
   },
@@ -27267,7 +27250,7 @@
     "name": "LOT 1 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000005388433",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424191965"
    }
   },
@@ -27284,7 +27267,7 @@
     "name": "LOT 2 MIDWAY ROAD ELIZABETH PARK 5113",
     "locID": "LOC000005388446",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424191966"
    }
   },
@@ -30650,7 +30633,7 @@
     "name": "13C BUTLER STREET ELIZABETH PARK 5113",
     "locID": "LOC000159767676",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425500585"
    }
   },
@@ -30871,7 +30854,7 @@
     "name": "13 BUTLER STREET ELIZABETH PARK 5113",
     "locID": "LOC000159767695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425533220"
    }
   },
@@ -30888,7 +30871,7 @@
     "name": "13A BUTLER STREET ELIZABETH PARK 5113",
     "locID": "LOC000159767719",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425533221"
    }
   },
@@ -30922,7 +30905,7 @@
     "name": "13D BUTLER STREET ELIZABETH PARK 5113",
     "locID": "LOC000159767703",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425533223"
    }
   },
@@ -30939,7 +30922,7 @@
     "name": "UNIT 1, 20 BUTTERFIELD ROAD ELIZABETH PARK 5113",
     "locID": "LOC000159760049",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425533224"
    }
   },
@@ -30973,7 +30956,7 @@
     "name": "UNIT 2, 20 BUTTERFIELD ROAD ELIZABETH PARK 5113",
     "locID": "LOC000159760054",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425533226"
    }
   },
@@ -31908,7 +31891,7 @@
     "name": "5A CULLEN STREET ELIZABETH PARK 5113",
     "locID": "LOC000159770469",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425726613"
    }
   },
@@ -31925,7 +31908,7 @@
     "name": "5B CULLEN STREET ELIZABETH PARK 5113",
     "locID": "LOC000159770453",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425726614"
    }
   },
@@ -33098,7 +33081,7 @@
     "name": "UNIT 2, 18 HAYLES ROAD ELIZABETH PARK 5113",
     "locID": "LOC000130544385",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719475680"
    }
   },
@@ -33115,7 +33098,7 @@
     "name": "UNIT 1, 18 HAYLES ROAD ELIZABETH PARK 5113",
     "locID": "LOC000032576531",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719475681"
    }
   },
@@ -33336,7 +33319,7 @@
     "name": "UNIT 2, 19 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000191681653",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719772485"
    }
   },
@@ -33472,7 +33455,7 @@
     "name": "UNIT 1, 19 PALMER ROAD ELIZABETH PARK 5113",
     "locID": "LOC000191681653",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719778446"
    }
   },
@@ -33644,23 +33627,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719859232"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.68169124,
-     -34.71089478
-    ]
-   },
-   "properties": {
-    "name": "4A-4B TRAFALGAR DRIVE ELIZABETH PARK 5113",
-    "locID": "LOC000026221653",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_719861194"
    }
   },
   {
@@ -34101,7 +34067,7 @@
     "name": "UNIT 1, 27 BURDON STREET ELIZABETH PARK 5113",
     "locID": "LOC100076310268",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720584373"
    }
   },
@@ -34118,7 +34084,7 @@
     "name": "UNIT 2, 27 BURDON STREET ELIZABETH PARK 5113",
     "locID": "LOC100076310275",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720584392"
    }
   },
@@ -34186,7 +34152,7 @@
     "name": "UNIT 5, 27 BURDON STREET ELIZABETH PARK 5113",
     "locID": "LOC100076310268",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720586547"
    }
   },
@@ -34220,7 +34186,7 @@
     "name": "UNIT 9, 27 BURDON STREET ELIZABETH PARK 5113",
     "locID": "LOC100076310345",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720586696"
    }
   },
@@ -34237,7 +34203,7 @@
     "name": "UNIT 4, 27 BURDON STREET ELIZABETH PARK 5113",
     "locID": "LOC100076310299",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720587051"
    }
   },
@@ -34579,6 +34545,74 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259723"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.68069715,
+     -34.70667627
+    ]
+   },
+   "properties": {
+    "name": "12A GARLICK ROAD ELIZABETH PARK 5113",
+    "locID": "LOC000050684636",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721274653"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.68075551,
+     -34.70660542
+    ]
+   },
+   "properties": {
+    "name": "12B GARLICK ROAD ELIZABETH PARK 5113",
+    "locID": "LOC000050684636",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721274798"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.68166781,
+     -34.71093205
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 TRAFALGAR DRIVE ELIZABETH PARK 5113",
+    "locID": "LOC000091950540",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721276198"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.68171474,
+     -34.71085765
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 TRAFALGAR DRIVE ELIZABETH PARK 5113",
+    "locID": "LOC000046994326",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721277899"
    }
   }
  ]

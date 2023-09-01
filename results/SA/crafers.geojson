@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T11:25:52.134825",
+ "generated": "2023-09-01T11:31:27.437641",
  "suburb": "CRAFERS",
  "features": [
   {
@@ -220,7 +220,7 @@
     "name": "20 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000074044689",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_414913822"
    }
   },
@@ -237,7 +237,7 @@
     "name": "18 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000102580977",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_414913823"
    }
   },
@@ -2005,7 +2005,7 @@
     "name": "13 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000046684541",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415199342"
    }
   },
@@ -2685,7 +2685,7 @@
     "name": "14 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000103972356",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415274301"
    }
   },
@@ -2702,7 +2702,7 @@
     "name": "12 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000060132652",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415274302"
    }
   },
@@ -2719,7 +2719,7 @@
     "name": "10 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000006787741",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415274303"
    }
   },
@@ -3756,7 +3756,7 @@
     "name": "8 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000039614891",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415291596"
    }
   },
@@ -3824,7 +3824,7 @@
     "name": "9 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000075596686",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415291602"
    }
   },
@@ -3841,7 +3841,7 @@
     "name": "2 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000071792483",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415291603"
    }
   },
@@ -6629,7 +6629,7 @@
     "name": "6 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000059743494",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415418496"
    }
   },
@@ -9060,7 +9060,7 @@
     "name": "102 PICCADILLY ROAD CRAFERS 5152",
     "locID": "LOC000054277650",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415488635"
    }
   },
@@ -9162,7 +9162,7 @@
     "name": "4 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000003531508",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415491957"
    }
   },
@@ -10998,7 +10998,7 @@
     "name": "22 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000048232755",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415940198"
    }
   },
@@ -11629,6 +11629,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416897119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71680334,
+     -34.98310093
+    ]
+   },
+   "properties": {
+    "name": "16 LAMPERT ROAD CRAFERS 5152",
+    "locID": "ChIJHRXksLXMsGoRAIbNpIeU7AA",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_416897152"
    }
   },
   {
@@ -12528,7 +12545,7 @@
     "name": "3 VALLEY SIDE DRIVE CRAFERS 5152",
     "locID": "LOC000073583346",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_422074117"
    }
   },
@@ -13098,23 +13115,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.71282207,
-     -34.99293282
-    ]
-   },
-   "properties": {
-    "name": "LOT 31 SALMON AVENUE CRAFERS 5152",
-    "locID": "EikzMSBTYWxtb24gQXZlLCBDcmFmZXJzIFNBIDUxNTIsIEF1c3RyYWxpYSIwEi4KFAoSCYdRFq_RzLBqEe7PdBAX37AsEB8qFAoSCYPxHb7RzLBqEW-lzPmNj51J",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_423433099"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.70700283,
      -34.99446156
     ]
@@ -13125,23 +13125,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_423433449"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.73119908,
-     -34.98564937
-    ]
-   },
-   "properties": {
-    "name": "LOT 4 SPRING GULLY ROAD CRAFERS 5152",
-    "locID": "LOC000018689715",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423433665"
    }
   },
   {
@@ -14169,6 +14152,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.71922672,
+     -34.9872116
+    ]
+   },
+   "properties": {
+    "name": "14 LAMPERT ROAD CRAFERS 5152",
+    "locID": "ChIJg8WbKzUzt2oR0Syf-fdS4e0",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424660286"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.70485543,
      -34.99734843
     ]
@@ -14254,6 +14254,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.71065985,
+     -34.97833564
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 128 MOUNT LOFTY SUMMIT ROAD CRAFERS 5152",
+    "locID": "ChIJG2UfFLfMsGoRNtWSM98V1Fo",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424661695"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71065985,
+     -34.97833564
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 128 MOUNT LOFTY SUMMIT ROAD CRAFERS 5152",
+    "locID": "ChIJG2UfFLfMsGoRNtWSM98V1Fo",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424661696"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71065985,
+     -34.97833564
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 128 MOUNT LOFTY SUMMIT ROAD CRAFERS 5152",
+    "locID": "ChIJG2UfFLfMsGoRNtWSM98V1Fo",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424661697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.7038726,
+     -34.98193
+    ]
+   },
+   "properties": {
+    "name": "103 MOUNT LOFTY SUMMIT ROAD CRAFERS 5152",
+    "locID": "ChIJmZp-TsbMsGoRLQYnWbMQdk0",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424661698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.70979407,
      -34.98387041
     ]
@@ -14315,6 +14383,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424661702"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71065985,
+     -34.97833564
+    ]
+   },
+   "properties": {
+    "name": "128 MOUNT LOFTY SUMMIT ROAD CRAFERS 5152",
+    "locID": "ChIJG2UfFLfMsGoRNtWSM98V1Fo",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424661703"
    }
   },
   {
@@ -16141,6 +16226,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.70779473,
+     -34.9829985
+    ]
+   },
+   "properties": {
+    "name": "103A MOUNT LOFTY SUMMIT ROAD CRAFERS 5152",
+    "locID": "ChIJmZp-TsbMsGoRLQYnWbMQdk0",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721073033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.71378381,
      -35.00024621
     ]
@@ -16236,6 +16338,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71741035,
+     -34.99844999
+    ]
+   },
+   "properties": {
+    "name": "5 GLENSIDE ROAD CRAFERS 5152",
+    "locID": "LOC000192097308",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721283054"
    }
   }
  ]

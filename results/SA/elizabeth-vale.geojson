@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T11:51:42.111126",
+ "generated": "2023-09-01T11:52:24.433461",
  "suburb": "ELIZABETH VALE",
  "features": [
   {
@@ -7292,7 +7292,7 @@
     "name": "23 WINKLEBURY ROAD ELIZABETH VALE 5112",
     "locID": "LOC000039105750",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415282374"
    }
   },
@@ -9536,7 +9536,7 @@
     "name": "LOT 228 MAIN NORTH ROAD ELIZABETH VALE 5112",
     "locID": "LOC000130539813",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415290063"
    }
   },
@@ -11916,7 +11916,7 @@
     "name": "18 DAVIDSON ROAD ELIZABETH VALE 5112",
     "locID": "LOC000172827586",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415300667"
    }
   },
@@ -11969,6 +11969,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415300670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66784898,
+     -34.74535191
+    ]
+   },
+   "properties": {
+    "name": "5 LISTER STREET ELIZABETH VALE 5112",
+    "locID": "LOC000193415962",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415300671"
    }
   },
   {
@@ -30761,23 +30778,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66748851,
-     -34.74808633
-    ]
-   },
-   "properties": {
-    "name": "LOT 2 JOHN RICE AVENUE ELIZABETH VALE 5112",
-    "locID": "LOC000014238607",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_424137325"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.66691549,
      -34.74459807
     ]
@@ -31177,7 +31177,7 @@
     "name": "LOT 1 JOHN RICE AVENUE ELIZABETH VALE 5112",
     "locID": "LOC000036636179",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424182109"
    }
   },
@@ -31228,7 +31228,7 @@
     "name": "LOT 1145 MAIN NORTH ROAD ELIZABETH VALE 5112",
     "locID": "LOC000130539813",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424187988"
    }
   },
@@ -31788,8 +31788,8 @@
    "properties": {
     "name": "2 HIBISCUS STREET ELIZABETH VALE 5112",
     "locID": "LOC000095001458",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_424343592"
    }
   },
@@ -33115,7 +33115,7 @@
     "name": "UNIT 4, 18 DAVIDSON ROAD ELIZABETH VALE 5112",
     "locID": "LOC000159768283",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425106849"
    }
   },
@@ -33149,7 +33149,7 @@
     "name": "UNIT 1, 18 DAVIDSON ROAD ELIZABETH VALE 5112",
     "locID": "LOC000159767262",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425187954"
    }
   },
@@ -33183,7 +33183,7 @@
     "name": "UNIT 3, 18 DAVIDSON ROAD ELIZABETH VALE 5112",
     "locID": "LOC000172827586",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425187956"
    }
   },
@@ -33542,23 +33542,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425507256"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.66628692,
-     -34.74899801
-    ]
-   },
-   "properties": {
-    "name": "78 JOHN RICE AVENUE ELIZABETH VALE 5112",
-    "locID": "ChIJUaRNXkSysGoRw3_51ckMCjI",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_425533903"
    }
   },
   {
@@ -34237,7 +34220,7 @@
     "name": "149 MAIN NORTH ROAD ELIZABETH VALE 5112",
     "locID": "LOC000130539813",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719184143"
    }
   },

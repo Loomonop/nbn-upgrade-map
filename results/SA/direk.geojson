@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T11:32:18.013584",
+ "generated": "2023-09-01T11:37:37.935969",
  "suburb": "DIREK",
  "features": [
   {
@@ -1103,8 +1103,8 @@
    "properties": {
     "name": "15 VERONICA DRIVE DIREK 5110",
     "locID": "LOC000026750279",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424015264"
    }
   },
@@ -7539,8 +7539,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.60164125,
-     -34.71735124
+     138.60343846,
+     -34.71544148
     ]
    },
    "properties": {
@@ -8178,6 +8178,91 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721199422"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.60703721,
+     -34.72761027
+    ]
+   },
+   "properties": {
+    "name": "LOT 401 HELPS ROAD DIREK 5110",
+    "locID": "LOC000159761200",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721274243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.60231881,
+     -34.7172185
+    ]
+   },
+   "properties": {
+    "name": "LOT 281 PILATUS DRIVE DIREK 5110",
+    "locID": "LOC000184916646",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721275593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62952624,
+     -34.73884247
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 HELPS ROAD DIREK 5110",
+    "locID": "EiQyIEhlbHBzIFJkLCBEaXJlayBTQSA1MTEwLCBBdXN0cmFsaWEiMBIuChQKEgk_RNdmx7GwahFQp35JVDYDExACKhQKEgm9CgnKr7GwahHRLbv9Lcf23g",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276508"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.60783732,
+     -34.72765628
+    ]
+   },
+   "properties": {
+    "name": "LOT 400 HELPS ROAD DIREK 5110",
+    "locID": "LOC000159761200",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721277162"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.60136122,
+     -34.7168476
+    ]
+   },
+   "properties": {
+    "name": "LOT 282 PILATUS DRIVE DIREK 5110",
+    "locID": "LOC000184916646",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721277526"
    }
   }
  ]

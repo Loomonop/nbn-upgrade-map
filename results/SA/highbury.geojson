@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T12:27:08.207624",
+ "generated": "2023-09-01T12:24:02.994902",
  "suburb": "HIGHBURY",
  "features": [
   {
@@ -23051,7 +23051,7 @@
     "name": "9 LINDEN ROAD HIGHBURY 5089",
     "locID": "LOC000023373951",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415282031"
    }
   },
@@ -26154,8 +26154,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.71516426,
-     -34.844671
+     138.71524992,
+     -34.8446669
     ]
    },
    "properties": {
@@ -39856,23 +39856,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.70588871,
-     -34.8484018
-    ]
-   },
-   "properties": {
-    "name": "8 ANSON AVENUE HIGHBURY 5089",
-    "locID": "LOC000112184218",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_416065340"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.71373059,
      -34.857754
     ]
@@ -40903,40 +40886,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416781521"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.71581766,
-     -34.84884461
-    ]
-   },
-   "properties": {
-    "name": "1227 LOWER NORTH EAST ROAD HIGHBURY 5089",
-    "locID": "EjUxMjI3IExvd2VyIE5vcnRoIEVhc3QgUmQsIEhpZ2hidXJ5IFNBIDUwODksIEF1c3RyYWxpYSIxEi8KFAoSCeWCC7w0S7dqEZk7pTOL9oP_EMsJKhQKEgkHte3CKLWwahGNeU3h3q4fLQ",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_416781633"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.71581766,
-     -34.84884461
-    ]
-   },
-   "properties": {
-    "name": "1229 LOWER NORTH EAST ROAD HIGHBURY 5089",
-    "locID": "EjUxMjI5IExvd2VyIE5vcnRoIEVhc3QgUmQsIEhpZ2hidXJ5IFNBIDUwODksIEF1c3RyYWxpYSIxEi8KFAoSCeWCC7w0S7dqEZk7pTOL9oP_EM0JKhQKEgkHte3CKLWwahGNeU3h3q4fLQ",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_416781634"
    }
   },
   {
@@ -50090,23 +50039,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.70782336,
-     -34.84849124
-    ]
-   },
-   "properties": {
-    "name": "33A HONEYSUCKLE DRIVE HIGHBURY 5089",
-    "locID": "ChIJK9gtldm0sGoRla-KMvAAhrE",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_720887108"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.7126371,
      -34.84934205
     ]
@@ -50372,6 +50304,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721267169"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71524992,
+     -34.8446669
+    ]
+   },
+   "properties": {
+    "name": "2E SAPPHIRE CRESCENT HIGHBURY 5089",
+    "locID": "LOC000083685598",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721274589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.7151643,
+     -34.844671
+    ]
+   },
+   "properties": {
+    "name": "2D SAPPHIRE CRESCENT HIGHBURY 5089",
+    "locID": "LOC000083685598",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721275902"
    }
   }
  ]

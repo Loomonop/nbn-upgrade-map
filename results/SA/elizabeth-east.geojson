@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T11:45:25.348486",
+ "generated": "2023-09-01T11:46:31.014960",
  "suburb": "ELIZABETH EAST",
  "features": [
   {
@@ -16370,7 +16370,7 @@
     "name": "36 MIDWAY ROAD ELIZABETH EAST 5112",
     "locID": "LOC000081553325",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415264189"
    }
   },
@@ -23536,8 +23536,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67786676,
-     -34.73296268
+     138.67786239,
+     -34.73289177
     ]
    },
    "properties": {
@@ -25005,8 +25005,8 @@
    "properties": {
     "name": "47 DERRICK ROAD ELIZABETH EAST 5112",
     "locID": "LOC000052284525",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415360549"
    }
   },
@@ -26417,7 +26417,7 @@
     "name": "67 BLACKBURN ROAD ELIZABETH EAST 5112",
     "locID": "LOC000011751769",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415367537"
    }
   },
@@ -28355,7 +28355,7 @@
     "name": "84 HORNET CRESCENT ELIZABETH EAST 5112",
     "locID": "LOC000107269649",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415425904"
    }
   },
@@ -30684,7 +30684,7 @@
     "name": "20 MILAN STREET ELIZABETH EAST 5112",
     "locID": "LOC000159761903",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415959833"
    }
   },
@@ -30701,7 +30701,7 @@
     "name": "22 MILAN STREET ELIZABETH EAST 5112",
     "locID": "LOC100058288837",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415959834"
    }
   },
@@ -35223,7 +35223,7 @@
     "name": "UNIT 1, 1 JENSEN STREET ELIZABETH EAST 5112",
     "locID": "LOC000130563236",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425064947"
    }
   },
@@ -35376,7 +35376,7 @@
     "name": "UNIT 2, 1 JENSEN STREET ELIZABETH EAST 5112",
     "locID": "LOC000130563243",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425074292"
    }
   },
@@ -35393,7 +35393,7 @@
     "name": "1 JENSEN STREET ELIZABETH EAST 5112",
     "locID": "LOC000130563236",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425074293"
    }
   },
@@ -36225,8 +36225,8 @@
    "properties": {
     "name": "13A SALERNO COURT ELIZABETH EAST 5112",
     "locID": "LOC000159766746",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425503720"
    }
   },
@@ -37860,6 +37860,57 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721252684"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67786239,
+     -34.73289177
+    ]
+   },
+   "properties": {
+    "name": "28C BENHAM STREET ELIZABETH EAST 5112",
+    "locID": "LOC000079487611",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721274149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67786681,
+     -34.73296258
+    ]
+   },
+   "properties": {
+    "name": "28B BENHAM STREET ELIZABETH EAST 5112",
+    "locID": "LOC000079487611",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721276053"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67787109,
+     -34.73303345
+    ]
+   },
+   "properties": {
+    "name": "28A BENHAM STREET ELIZABETH EAST 5112",
+    "locID": "LOC000079487611",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721277445"
    }
   }
  ]
