@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T07:22:52.327009",
+ "generated": "2023-09-01T07:52:55.148113",
  "suburb": "RICHMOND",
  "features": [
   {
@@ -6767,6 +6767,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718456401"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.75496344,
+     -33.60337817
+    ]
+   },
+   "properties": {
+    "name": "11 CONRAD STREET RICHMOND 2753",
+    "locID": "LOC000193456695",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718456403"
    }
   },
   {
@@ -23978,8 +23995,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.75020628,
-     -33.59994274
+     150.75017596,
+     -33.59994753
     ]
    },
    "properties": {
@@ -37884,23 +37901,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74909894,
-     -33.59906797
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 36 WEST MARKET STREET RICHMOND 2753",
-    "locID": "LOC000189253874",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718467051"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.75043932,
      -33.59598586
     ]
@@ -37969,8 +37969,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74911956,
-     -33.59907601
+     150.74909894,
+     -33.59906797
     ]
    },
    "properties": {
@@ -40774,7 +40774,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.75958143,
+     150.75958144,
      -33.60123766
     ]
    },
@@ -40910,7 +40910,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.75958143,
+     150.75958144,
      -33.60123766
     ]
    },
@@ -44633,7 +44633,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.75958143,
+     150.75958144,
      -33.60123766
     ]
    },
@@ -44854,7 +44854,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.75958143,
+     150.75958144,
      -33.60123766
     ]
    },
@@ -45041,7 +45041,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.75958143,
+     150.75958144,
      -33.60123766
     ]
    },
@@ -47251,8 +47251,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74306645,
-     -33.59402121
+     150.74405858,
+     -33.59397204
     ]
    },
    "properties": {
@@ -60001,8 +60001,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74911956,
-     -33.59907601
+     150.74911857,
+     -33.59902929
     ]
    },
    "properties": {
@@ -66043,7 +66043,7 @@
    "properties": {
     "name": "72B DIGHT STREET RICHMOND 2753",
     "locID": "ChIJMxWM3LRiDWsRf6ZMWlBW61M",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719690678"
    }
@@ -68052,6 +68052,91 @@
     "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721261632"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.74307083,
+     -33.59408727
+    ]
+   },
+   "properties": {
+    "name": "380 WINDSOR STREET RICHMOND 2753",
+    "locID": "EiwzODAgV2luZHNvciBTdCwgUmljaG1vbmQgTlNXIDI3NTMsIEF1c3RyYWxpYSIxEi8KFAoSCXUpuoFCfQ1rEfi8m_eAr59NEPwCKhQKEgmXyZ4iRX0NaxGnfPmNIyYI_A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323167"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.74906567,
+     -33.59911782
+    ]
+   },
+   "properties": {
+    "name": "36B WEST MARKET STREET RICHMOND 2753",
+    "locID": "LOC000189253874",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.78697679,
+     -33.59929121
+    ]
+   },
+   "properties": {
+    "name": "1B MCNAMARA AVENUE RICHMOND 2753",
+    "locID": "EiwxIE1jTmFtYXJhIEF2ZSwgUmljaG1vbmQgTlNXIDI3NTMsIEF1c3RyYWxpYSIwEi4KFAoSCaXQaue-Yg1rEX8_6lSPXUOyEAEqFAoSCSuA_hu_Yg1rESrgFqVC2bIJ",
+    "tech": "FTTB",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331617"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.74233306,
+     -33.59502418
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 25 CHAPEL STREET RICHMOND 2753",
+    "locID": "LOC000108279844",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331975"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.74233306,
+     -33.59502418
+    ]
+   },
+   "properties": {
+    "name": "UNIT 68, 25 CHAPEL STREET RICHMOND 2753",
+    "locID": "LOC000186905378",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721332315"
    }
   }
  ]
