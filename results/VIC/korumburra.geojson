@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T01:02:23.584618",
+ "generated": "2023-09-01T23:45:38.380591",
  "suburb": "KORUMBURRA",
  "features": [
   {
@@ -494,6 +494,23 @@
     "tech": "FTTC",
     "upgrade": "FW_CT",
     "gnaf_pid": "GAVIC411683137"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.83142576,
+     -38.43297713
+    ]
+   },
+   "properties": {
+    "name": "30 LOWER GORDON STREET KORUMBURRA 3950",
+    "locID": "EjIzMCBMb3dlciBHb3Jkb24gU3QsIEtvcnVtYnVycmEgVklDIDM5NTAsIEF1c3RyYWxpYSIwEi4KFAoSCd-U7QTvHyprERGkqg6keQUTEB4qFAoSCTPwYQbpHyprEdkTasRLzmI0",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC411683146"
    }
   },
   {
@@ -3680,8 +3697,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.83227985,
-     -38.44241118
+     145.83186459,
+     -38.44156418
     ]
    },
    "properties": {
@@ -9723,7 +9740,7 @@
     "name": "3 STATION STREET KORUMBURRA 3950",
     "locID": "LOC000079265129",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419951499"
    }
   },
@@ -22159,8 +22176,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.8177946,
-     -38.4320872
+     145.81807015,
+     -38.43191297
     ]
    },
    "properties": {
@@ -22992,8 +23009,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.81807015,
-     -38.43191296
+     145.8177946,
+     -38.4320872
     ]
    },
    "properties": {
@@ -24685,23 +24702,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422293121"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.83142576,
-     -38.43297713
-    ]
-   },
-   "properties": {
-    "name": "28-34 LOWER GORDON STREET KORUMBURRA 3950",
-    "locID": "LOC000125562420",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC422305493"
    }
   },
   {
@@ -39295,8 +39295,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.82621935,
-     -38.43409526
+     145.82621936,
+     -38.43409527
     ]
    },
    "properties": {
@@ -47836,7 +47836,7 @@
    "properties": {
     "name": "77 ISABELLA BOULEVARD KORUMBURRA 3950",
     "locID": "EjA3NyBJc2FiZWxsYSBCbHZkLCBLb3J1bWJ1cnJhIFZJQyAzOTUwLCBBdXN0cmFsaWEiMBIuChQKEgntTTxouR8qaxECTDZThisgtBBNKhQKEgkrsHq3vh8qaxFF6bdVosrT0w",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719995350"
    }
@@ -50141,6 +50141,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.80681649,
+     -38.43241602
+    ]
+   },
+   "properties": {
+    "name": "1 BLUE BELL COURT KORUMBURRA 3950",
+    "locID": "LOC000193137113",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720956488"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.80527298,
+     -38.43217893
+    ]
+   },
+   "properties": {
+    "name": "15 BLUE BELL COURT KORUMBURRA 3950",
+    "locID": "LOC000193137052",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720959654"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.80732828,
      -38.43228627
     ]
@@ -50192,6 +50226,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.80650643,
+     -38.43244712
+    ]
+   },
+   "properties": {
+    "name": "5 BLUE BELL COURT KORUMBURRA 3950",
+    "locID": "LOC000193137109",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720962083"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.8364169,
      -38.44112094
     ]
@@ -50236,6 +50287,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720963969"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.8060133,
+     -38.43241717
+    ]
+   },
+   "properties": {
+    "name": "9 BLUE BELL COURT KORUMBURRA 3950",
+    "locID": "LOC000193137081",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720966009"
    }
   },
   {
@@ -50488,7 +50556,7 @@
    "properties": {
     "name": "68 ISABELLA BOULEVARD KORUMBURRA 3950",
     "locID": "ChIJ9Q2KLbofKmsRKY3y3JIkyTU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721019414"
    }
@@ -52089,6 +52157,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721226889"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.83186459,
+     -38.44156418
+    ]
+   },
+   "properties": {
+    "name": "1B COAL CREEK ROAD KORUMBURRA 3950",
+    "locID": "LOC000192823666",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721293235"
    }
   }
  ]
