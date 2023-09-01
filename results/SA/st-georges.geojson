@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-12T15:19:33.036114",
+ "generated": "2023-09-01T14:19:54.627829",
  "suburb": "ST GEORGES",
  "features": [
   {
@@ -2889,7 +2889,7 @@
     "name": "34 WOODCROFT AVENUE ST GEORGES 5064",
     "locID": "LOC000072169460",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415047369"
    }
   },
@@ -4384,8 +4384,8 @@
    "properties": {
     "name": "10B HEWITT AVENUE ST GEORGES 5064",
     "locID": "LOC000085674166",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415177320"
    }
   },
@@ -5856,8 +5856,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.649102,
-     -34.94936593
+     138.64912544,
+     -34.9494351
     ]
    },
    "properties": {
@@ -6153,7 +6153,7 @@
     "name": "16 WOOTOONA TERRACE ST GEORGES 5064",
     "locID": "LOC000047142824",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415457264"
    }
   },
@@ -10743,7 +10743,7 @@
     "name": "41 WOODCROFT AVENUE ST GEORGES 5064",
     "locID": "LOC000040738020",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423743610"
    }
   },
@@ -12265,23 +12265,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.64907788,
-     -34.94929478
-    ]
-   },
-   "properties": {
-    "name": "LOT 7 INVERNESS AVENUE ST GEORGES 5064",
-    "locID": "LOC000050836838",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_721199693"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.64864526,
      -34.95025027
     ]
@@ -12309,23 +12292,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_721200097"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.64912544,
-     -34.9494351
-    ]
-   },
-   "properties": {
-    "name": "LOT 8 INVERNESS AVENUE ST GEORGES 5064",
-    "locID": "LOC000079437528",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_721200316"
    }
   },
   {
@@ -12394,6 +12360,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_721259826"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.64907788,
+     -34.94929478
+    ]
+   },
+   "properties": {
+    "name": "10 HEWITT AVENUE ST GEORGES 5064",
+    "locID": "LOC000172880830",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721277294"
    }
   }
  ]
