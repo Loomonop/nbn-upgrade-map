@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T15:45:18.582616",
+ "generated": "2023-09-02T14:23:54.424379",
  "suburb": "ALBION",
  "features": [
   {
@@ -356,7 +356,7 @@
     "name": "51 MAWARRA STREET ALBION 4010",
     "locID": "LOC000079845923",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154926783"
    }
   },
@@ -492,7 +492,7 @@
     "name": "29 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000040188476",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154927194"
    }
   },
@@ -560,7 +560,7 @@
     "name": "34 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000068625946",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154927198"
    }
   },
@@ -645,7 +645,7 @@
     "name": "46 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000030802294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154927220"
    }
   },
@@ -1682,7 +1682,7 @@
     "name": "43 BURDETT STREET ALBION 4010",
     "locID": "LOC000126055643",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154928833"
    }
   },
@@ -2923,7 +2923,7 @@
     "name": "10 HIGHLANDS STREET ALBION 4010",
     "locID": "LOC000046822057",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154929271"
    }
   },
@@ -3008,7 +3008,7 @@
     "name": "26 HIGHLANDS STREET ALBION 4010",
     "locID": "LOC000007758734",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154929277"
    }
   },
@@ -3211,8 +3211,8 @@
    "properties": {
     "name": "16 GROVE STREET ALBION 4010",
     "locID": "LOC000085714958",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD154929290"
    }
   },
@@ -3654,7 +3654,7 @@
     "name": "19 LEVER STREET ALBION 4010",
     "locID": "LOC000015700574",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154929424"
    }
   },
@@ -3671,7 +3671,7 @@
     "name": "31 LEVER STREET ALBION 4010",
     "locID": "LOC000171265419",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154929427"
    }
   },
@@ -4164,7 +4164,7 @@
     "name": "19 MARNE ROAD ALBION 4010",
     "locID": "LOC000009040839",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154929482"
    }
   },
@@ -4419,7 +4419,7 @@
     "name": "45 CROSBY ROAD ALBION 4010",
     "locID": "LOC000171265037",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154929509"
    }
   },
@@ -4963,7 +4963,7 @@
     "name": "7 BIMBIL STREET ALBION 4010",
     "locID": "LOC000089410789",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154929643"
    }
   },
@@ -5091,40 +5091,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04091568,
-     -27.43025576
-    ]
-   },
-   "properties": {
-    "name": "50 HUDSON ROAD ALBION 4010",
-    "locID": "LOC000161283926",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD154929697"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04091568,
-     -27.43025576
-    ]
-   },
-   "properties": {
-    "name": "54 HUDSON ROAD ALBION 4010",
-    "locID": "LOC000161278822",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD154929698"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.04107203,
      -27.42961757
     ]
@@ -5142,8 +5108,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -5320,7 +5286,7 @@
     "name": "34 WAKEFIELD STREET ALBION 4010",
     "locID": "LOC000098551320",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154929845"
    }
   },
@@ -5337,7 +5303,7 @@
     "name": "15 PEDDER STREET ALBION 4010",
     "locID": "LOC000053703283",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154929860"
    }
   },
@@ -5983,7 +5949,7 @@
     "name": "209 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000096236044",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154930058"
    }
   },
@@ -6170,7 +6136,7 @@
     "name": "80 KINGSFORD SMITH DRIVE ALBION 4010",
     "locID": "LOC000009434943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154931490"
    }
   },
@@ -6451,8 +6417,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -6468,8 +6434,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -6510,7 +6476,7 @@
     "name": "33 CORUNNA STREET ALBION 4010",
     "locID": "LOC000009888271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD154931892"
    }
   },
@@ -7088,7 +7054,7 @@
     "name": "201 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000181838684",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156177228"
    }
   },
@@ -8584,7 +8550,7 @@
     "name": "349 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000185582879",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156178215"
    }
   },
@@ -8975,7 +8941,7 @@
     "name": "334 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000081541771",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156178967"
    }
   },
@@ -9256,8 +9222,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04491203,
-     -27.43343776
+     153.04496799,
+     -27.43341027
     ]
    },
    "properties": {
@@ -9793,6 +9759,40 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156179851"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.04291006,
+     -27.42960373
+    ]
+   },
+   "properties": {
+    "name": "10 ANSTEY STREET ALBION 4010",
+    "locID": "LOC000193610482",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156179854"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.04287633,
+     -27.42978285
+    ]
+   },
+   "properties": {
+    "name": "12 ANSTEY STREET ALBION 4010",
+    "locID": "LOC000186055596",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156179855"
    }
   },
   {
@@ -10369,7 +10369,7 @@
     "name": "37 MCLENNAN STREET ALBION 4010",
     "locID": "LOC000001710415",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156179911"
    }
   },
@@ -10879,7 +10879,7 @@
     "name": "26 LEVER STREET ALBION 4010",
     "locID": "LOC000010695263",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156180715"
    }
   },
@@ -11899,7 +11899,7 @@
     "name": "97 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000188242329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156180822"
    }
   },
@@ -11967,7 +11967,7 @@
     "name": "14 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000068625946",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156180828"
    }
   },
@@ -12001,7 +12001,7 @@
     "name": "30 CROSBY ROAD ALBION 4010",
     "locID": "LOC000171265028",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156180833"
    }
   },
@@ -12068,8 +12068,8 @@
    "properties": {
     "name": "29 STORE STREET ALBION 4010",
     "locID": "LOC000024910151",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156180879"
    }
   },
@@ -14806,7 +14806,7 @@
     "name": "19 ALBION ROAD ALBION 4010",
     "locID": "LOC000009040839",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156184180"
    }
   },
@@ -14857,7 +14857,7 @@
     "name": "28 ALBION ROAD ALBION 4010",
     "locID": "LOC000059920284",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156184183"
    }
   },
@@ -15512,8 +15512,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04492419,
-     -27.43366889
+     153.04492788,
+     -27.43364711
     ]
    },
    "properties": {
@@ -15604,8 +15604,8 @@
    "properties": {
     "name": "21 FRODSHAM STREET ALBION 4010",
     "locID": "LOC000126034143",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156184998"
    }
   },
@@ -15896,6 +15896,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156185925"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0429438,
+     -27.42942272
+    ]
+   },
+   "properties": {
+    "name": "8 ANSTEY STREET ALBION 4010",
+    "locID": "LOC000186055554",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156185970"
    }
   },
   {
@@ -16999,7 +17016,7 @@
     "name": "38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000096877960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156188526"
    }
   },
@@ -18155,7 +18172,7 @@
     "name": "117 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000081927839",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156189425"
    }
   },
@@ -19140,8 +19157,8 @@
    "properties": {
     "name": "UNIT 1, 16 GROVE STREET ALBION 4010",
     "locID": "LOC000085714958",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157415286"
    }
   },
@@ -19218,8 +19235,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -19311,7 +19328,7 @@
     "name": "UNIT 2, 21 LEVER STREET ALBION 4010",
     "locID": "LOC000024017763",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157415305"
    }
   },
@@ -19447,7 +19464,7 @@
     "name": "UNIT 2, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000097490753",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157415422"
    }
   },
@@ -19864,8 +19881,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -20042,7 +20059,7 @@
     "name": "UNIT 1, 51 MAWARRA STREET ALBION 4010",
     "locID": "LOC000079845923",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157416198"
    }
   },
@@ -20195,7 +20212,7 @@
     "name": "UNIT 1, 10 HIGHLANDS STREET ALBION 4010",
     "locID": "LOC000045877899",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157416943"
    }
   },
@@ -20952,6 +20969,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.0428426,
+     -27.42996386
+    ]
+   },
+   "properties": {
+    "name": "16 ANSTEY STREET ALBION 4010",
+    "locID": "LOC000193610545",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157418434"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.04331775,
      -27.42712449
     ]
@@ -21164,7 +21198,7 @@
     "name": "UNIT 4, 21 LEVER STREET ALBION 4010",
     "locID": "LOC000024023246",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157418558"
    }
   },
@@ -21385,7 +21419,7 @@
     "name": "UNIT 4, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000096877960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157418863"
    }
   },
@@ -21401,8 +21435,8 @@
    "properties": {
     "name": "UNIT 2, 16 GROVE STREET ALBION 4010",
     "locID": "LOC000085714958",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157418864"
    }
   },
@@ -21470,7 +21504,7 @@
     "name": "UNIT 7, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000097054767",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157418869"
    }
   },
@@ -21487,7 +21521,7 @@
     "name": "UNIT 3, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000096877960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157418870"
    }
   },
@@ -21504,7 +21538,7 @@
     "name": "UNIT 5, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000097411491",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157418871"
    }
   },
@@ -21521,7 +21555,7 @@
     "name": "UNIT 6, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000097305706",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157418872"
    }
   },
@@ -21555,7 +21589,7 @@
     "name": "OFFICE 1, 334 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000081541771",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157418879"
    }
   },
@@ -21632,8 +21666,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -21751,8 +21785,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -21776,7 +21810,7 @@
     "name": "UNIT 1, 21 LEVER STREET ALBION 4010",
     "locID": "LOC000024417748",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157419138"
    }
   },
@@ -21793,7 +21827,7 @@
     "name": "UNIT 1, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000097629381",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157419156"
    }
   },
@@ -21946,7 +21980,7 @@
     "name": "40 WHYTECLIFFE STREET ALBION 4010",
     "locID": "LOC000171267357",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157419365"
    }
   },
@@ -22354,7 +22388,7 @@
     "name": "UNIT 2, 42 FRODSHAM STREET ALBION 4010",
     "locID": "LOC000082309846",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157419505"
    }
   },
@@ -22422,7 +22456,7 @@
     "name": "UNIT 2, 10 HIGHLANDS STREET ALBION 4010",
     "locID": "LOC000046822057",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157419535"
    }
   },
@@ -23017,7 +23051,7 @@
     "name": "UNIT 7, 21 LEVER STREET ALBION 4010",
     "locID": "LOC000024090099",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157419901"
    }
   },
@@ -23306,7 +23340,7 @@
     "name": "UNIT 5, 21 LEVER STREET ALBION 4010",
     "locID": "LOC000024076031",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157420174"
    }
   },
@@ -23782,7 +23816,7 @@
     "name": "OFFICE 2, 334 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000081541771",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157421351"
    }
   },
@@ -23833,7 +23867,7 @@
     "name": "UNIT 1, 42 FRODSHAM STREET ALBION 4010",
     "locID": "LOC000081826398",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157421357"
    }
   },
@@ -23918,7 +23952,7 @@
     "name": "UNIT 3, 21 LEVER STREET ALBION 4010",
     "locID": "LOC000024017763",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157421365"
    }
   },
@@ -23969,7 +24003,7 @@
     "name": "UNIT 6, 21 LEVER STREET ALBION 4010",
     "locID": "LOC000024123462",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157421368"
    }
   },
@@ -25091,7 +25125,7 @@
     "name": "UNIT 2, 51 MAWARRA STREET ALBION 4010",
     "locID": "LOC000079127281",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157421923"
    }
   },
@@ -25482,7 +25516,7 @@
     "name": "UNIT 1, 117 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000082081676",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158990618"
    }
   },
@@ -25576,8 +25610,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -25644,8 +25678,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -26647,8 +26681,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -27862,7 +27896,7 @@
     "name": "UNIT 8, 38 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000096877960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159001137"
    }
   },
@@ -27879,7 +27913,7 @@
     "name": "UNIT 1, 38 WAKEFIELD STREET ALBION 4010",
     "locID": "LOC000054916140",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159001368"
    }
   },
@@ -27896,7 +27930,7 @@
     "name": "UNIT 2, 38 WAKEFIELD STREET ALBION 4010",
     "locID": "LOC000054611567",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159001369"
    }
   },
@@ -28398,8 +28432,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04356937,
-     -27.43473297
+     153.04357278,
+     -27.43474159
     ]
    },
    "properties": {
@@ -28831,7 +28865,7 @@
     "name": "38 WAKEFIELD STREET ALBION 4010",
     "locID": "LOC000054916140",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160738730"
    }
   },
@@ -31228,7 +31262,7 @@
     "name": "40 WAKEFIELD STREET ALBION 4010",
     "locID": "LOC000055331411",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162388101"
    }
   },
@@ -31330,7 +31364,7 @@
     "name": "21 LEVER STREET ALBION 4010",
     "locID": "LOC000024017763",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162472474"
    }
   },
@@ -31449,7 +31483,7 @@
     "name": "UNIT 1, 40 WAKEFIELD STREET ALBION 4010",
     "locID": "LOC000055331411",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162669871"
    }
   },
@@ -31466,7 +31500,7 @@
     "name": "UNIT 2, 40 WAKEFIELD STREET ALBION 4010",
     "locID": "LOC000055477689",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162669872"
    }
   },
@@ -31645,8 +31679,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -31662,8 +31696,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -31679,8 +31713,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -31689,6 +31723,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162860820"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.04620863,
+     -27.42878766
+    ]
+   },
+   "properties": {
+    "name": "21 CAMPBELL STREET ALBION 4010",
+    "locID": "ChIJeap5x7NZkWsRFBhDFVJJI9M",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162884787"
    }
   },
   {
@@ -31730,8 +31781,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04684769,
+     -27.42837135
     ]
    },
    "properties": {
@@ -31951,8 +32002,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -31993,7 +32044,7 @@
     "name": "LEVEL 1, 80 KINGSFORD SMITH DRIVE ALBION 4010",
     "locID": "LOC000009434943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163035625"
    }
   },
@@ -32002,8 +32053,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32019,8 +32070,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32036,8 +32087,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32053,8 +32104,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32070,8 +32121,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32087,8 +32138,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32104,8 +32155,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32121,8 +32172,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32138,8 +32189,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32155,8 +32206,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32172,8 +32223,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32189,8 +32240,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32206,8 +32257,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32223,8 +32274,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32240,8 +32291,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32257,8 +32308,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32274,8 +32325,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32291,8 +32342,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32308,8 +32359,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32325,8 +32376,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32342,8 +32393,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32359,8 +32410,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32376,8 +32427,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32393,8 +32444,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32410,8 +32461,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32427,8 +32478,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32444,8 +32495,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32461,8 +32512,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32478,8 +32529,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32495,8 +32546,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32512,8 +32563,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32529,8 +32580,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32546,8 +32597,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32563,8 +32614,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32580,8 +32631,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32597,8 +32648,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32614,8 +32665,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32631,8 +32682,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32648,8 +32699,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32673,7 +32724,7 @@
     "name": "SHOP 1, 7 BIMBIL STREET ALBION 4010",
     "locID": "LOC000089410789",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163183635"
    }
   },
@@ -32835,8 +32886,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32852,8 +32903,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32886,8 +32937,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04318452,
-     -27.43792551
+     153.04316857,
+     -27.43792674
     ]
    },
    "properties": {
@@ -32903,8 +32954,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -32988,8 +33039,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33005,8 +33056,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33022,8 +33073,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33039,8 +33090,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33056,8 +33107,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33073,8 +33124,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33090,8 +33141,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33107,8 +33158,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33124,8 +33175,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33141,8 +33192,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33158,8 +33209,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33175,8 +33226,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33192,8 +33243,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33209,8 +33260,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33226,8 +33277,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33243,8 +33294,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33260,8 +33311,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33277,8 +33328,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33294,8 +33345,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33311,8 +33362,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33328,8 +33379,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33345,8 +33396,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33362,8 +33413,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33379,8 +33430,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33396,8 +33447,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33413,8 +33464,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33430,8 +33481,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33447,8 +33498,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33464,8 +33515,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33481,8 +33532,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33498,8 +33549,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33515,8 +33566,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33532,8 +33583,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33549,8 +33600,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33566,8 +33617,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33583,8 +33634,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33600,8 +33651,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33617,8 +33668,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33634,8 +33685,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33651,8 +33702,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33668,8 +33719,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33685,8 +33736,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33702,8 +33753,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33719,8 +33770,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33736,8 +33787,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33753,8 +33804,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33770,8 +33821,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33787,8 +33838,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33804,8 +33855,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33821,8 +33872,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33838,8 +33889,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33855,8 +33906,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33872,8 +33923,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -33889,8 +33940,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34161,8 +34212,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34178,8 +34229,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34195,8 +34246,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34246,8 +34297,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34263,8 +34314,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34280,8 +34331,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34297,8 +34348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34314,8 +34365,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34331,8 +34382,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34348,8 +34399,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34365,8 +34416,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34382,8 +34433,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34399,8 +34450,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34416,8 +34467,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34433,8 +34484,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34450,8 +34501,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34467,8 +34518,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34484,8 +34535,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34501,8 +34552,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34518,8 +34569,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34535,8 +34586,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34552,8 +34603,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34569,8 +34620,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34586,8 +34637,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34603,8 +34654,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34620,8 +34671,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34637,8 +34688,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34654,8 +34705,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34671,8 +34722,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34688,8 +34739,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34705,8 +34756,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34722,8 +34773,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34739,8 +34790,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34756,8 +34807,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34773,8 +34824,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34790,8 +34841,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34807,8 +34858,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34824,8 +34875,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -34841,8 +34892,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36813,8 +36864,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36830,8 +36881,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36847,8 +36898,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36864,8 +36915,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36881,8 +36932,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36898,8 +36949,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36915,8 +36966,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36932,8 +36983,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36949,8 +37000,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36966,8 +37017,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -36983,8 +37034,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37000,8 +37051,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37017,8 +37068,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37034,8 +37085,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37051,8 +37102,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37068,8 +37119,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37085,8 +37136,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37102,8 +37153,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37119,8 +37170,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37136,8 +37187,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37153,8 +37204,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37170,8 +37221,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37187,8 +37238,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37204,8 +37255,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37221,8 +37272,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37238,8 +37289,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37255,8 +37306,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37272,8 +37323,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37289,8 +37340,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37306,8 +37357,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37323,8 +37374,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37340,8 +37391,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37357,8 +37408,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37374,8 +37425,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37391,8 +37442,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37408,8 +37459,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37425,8 +37476,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37442,8 +37493,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37459,8 +37510,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37476,8 +37527,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37493,8 +37544,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37510,8 +37561,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37527,8 +37578,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37544,8 +37595,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37561,8 +37612,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37578,8 +37629,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37595,8 +37646,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37612,8 +37663,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37629,8 +37680,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37646,8 +37697,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37663,8 +37714,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37680,8 +37731,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37697,8 +37748,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37714,8 +37765,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37731,8 +37782,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37748,8 +37799,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37765,8 +37816,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37782,8 +37833,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37799,8 +37850,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37816,8 +37867,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37833,8 +37884,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37850,8 +37901,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37867,8 +37918,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -37884,8 +37935,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -39286,7 +39337,7 @@
     "name": "UNIT 2, 33 CORUNNA STREET ALBION 4010",
     "locID": "LOC000009888271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425587324"
    }
   },
@@ -39312,8 +39363,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -39354,7 +39405,7 @@
     "name": "19 GREG CHAPPELL STREET ALBION 4010",
     "locID": "LOC000171265187",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425640089"
    }
   },
@@ -39490,7 +39541,7 @@
     "name": "UNIT 2, 29 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000040188476",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425861956"
    }
   },
@@ -39762,7 +39813,7 @@
     "name": "UNIT 1, 349 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000185582879",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425866769"
    }
   },
@@ -39779,7 +39830,7 @@
     "name": "UNIT 2, 349 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000185582879",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425866770"
    }
   },
@@ -39796,7 +39847,7 @@
     "name": "UNIT 3, 349 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000185582879",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425866771"
    }
   },
@@ -43383,7 +43434,7 @@
     "name": "UNIT 2, 46 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000176969043",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719087158"
    }
   },
@@ -43655,7 +43706,7 @@
     "name": "UNIT 1, 46 STONELEIGH STREET ALBION 4010",
     "locID": "LOC000176969036",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719087479"
    }
   },
@@ -43885,8 +43936,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -43902,8 +43953,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -43919,8 +43970,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -43953,8 +44004,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -43970,8 +44021,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -43987,8 +44038,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44004,8 +44055,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44021,8 +44072,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44038,8 +44089,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44055,8 +44106,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44072,8 +44123,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44123,8 +44174,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44140,8 +44191,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44174,8 +44225,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44191,8 +44242,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44208,8 +44259,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44225,8 +44276,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44242,8 +44293,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44259,8 +44310,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44276,8 +44327,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44293,8 +44344,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44310,8 +44361,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44327,8 +44378,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44344,8 +44395,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44361,8 +44412,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44378,8 +44429,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44412,8 +44463,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44429,8 +44480,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44446,8 +44497,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44463,8 +44514,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44480,8 +44531,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44497,8 +44548,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44514,8 +44565,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44531,8 +44582,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44548,8 +44599,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44565,8 +44616,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44582,8 +44633,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44599,8 +44650,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44616,8 +44667,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44633,8 +44684,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44650,8 +44701,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44667,8 +44718,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44684,8 +44735,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44701,8 +44752,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44718,8 +44769,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44735,8 +44786,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44752,8 +44803,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44769,8 +44820,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44786,8 +44837,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44803,8 +44854,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44820,8 +44871,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44837,8 +44888,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44854,8 +44905,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44871,8 +44922,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44888,8 +44939,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44905,8 +44956,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44922,8 +44973,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44939,8 +44990,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44956,8 +45007,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44973,8 +45024,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -44990,8 +45041,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45024,8 +45075,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45041,8 +45092,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45058,8 +45109,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45075,8 +45126,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45092,8 +45143,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45109,8 +45160,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45126,8 +45177,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -45976,8 +46027,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -46979,8 +47030,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -49673,7 +49724,7 @@
     "name": "29 WHYTECLIFFE STREET ALBION 4010",
     "locID": "LOC000171267357",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719300444"
    }
   },
@@ -54255,8 +54306,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54272,8 +54323,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54289,8 +54340,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54306,8 +54357,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54323,8 +54374,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54340,8 +54391,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54357,8 +54408,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54374,8 +54425,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54391,8 +54442,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54408,8 +54459,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54425,8 +54476,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54442,8 +54493,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54459,8 +54510,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54476,8 +54527,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54493,8 +54544,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54510,8 +54561,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54527,8 +54578,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54552,7 +54603,7 @@
     "name": "33 LEVER STREET ALBION 4010",
     "locID": "LOC000171265426",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719555616"
    }
   },
@@ -54561,8 +54612,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54578,8 +54629,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54595,8 +54646,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54612,8 +54663,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54629,8 +54680,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54646,8 +54697,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54663,8 +54714,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54680,8 +54731,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54697,8 +54748,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54714,8 +54765,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54731,8 +54782,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54748,8 +54799,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54765,8 +54816,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54782,8 +54833,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54799,8 +54850,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54816,8 +54867,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54833,8 +54884,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54850,8 +54901,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54867,8 +54918,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54884,8 +54935,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54901,8 +54952,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54918,8 +54969,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54935,8 +54986,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54952,8 +55003,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54969,8 +55020,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -54986,8 +55037,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55003,8 +55054,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55020,8 +55071,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55037,8 +55088,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55071,8 +55122,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55088,8 +55139,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55105,8 +55156,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55122,8 +55173,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55139,8 +55190,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55156,8 +55207,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55190,8 +55241,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55207,8 +55258,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55224,8 +55275,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55241,8 +55292,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55258,8 +55309,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55275,8 +55326,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55292,8 +55343,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55309,8 +55360,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55326,8 +55377,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55343,8 +55394,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55360,8 +55411,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55377,8 +55428,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55394,8 +55445,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55479,8 +55530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55496,8 +55547,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55547,8 +55598,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -55606,7 +55657,7 @@
     "name": "UNIT 1, 37 MCLENNAN STREET ALBION 4010",
     "locID": "LOC000176968961",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719625492"
    }
   },
@@ -55640,7 +55691,7 @@
     "name": "UNIT 2, 37 MCLENNAN STREET ALBION 4010",
     "locID": "LOC000176968988",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719625884"
    }
   },
@@ -56431,8 +56482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56448,8 +56499,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56465,8 +56516,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56482,8 +56533,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56499,8 +56550,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56516,8 +56567,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56533,8 +56584,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56550,8 +56601,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56567,8 +56618,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56584,8 +56635,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56601,8 +56652,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56618,8 +56669,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56635,8 +56686,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56652,8 +56703,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56669,8 +56720,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56686,8 +56737,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56703,8 +56754,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56720,8 +56771,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56737,8 +56788,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56754,8 +56805,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56771,8 +56822,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56788,8 +56839,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56805,8 +56856,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56822,8 +56873,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56839,8 +56890,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56856,8 +56907,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56873,8 +56924,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56890,8 +56941,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56907,8 +56958,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56924,8 +56975,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56941,8 +56992,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56958,8 +57009,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56975,8 +57026,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -56992,8 +57043,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57009,8 +57060,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57026,8 +57077,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57043,8 +57094,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57060,8 +57111,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57077,8 +57128,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57094,8 +57145,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57111,8 +57162,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57128,8 +57179,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57145,8 +57196,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57162,8 +57213,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57179,8 +57230,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57196,8 +57247,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57213,8 +57264,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57230,8 +57281,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57247,8 +57298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57264,8 +57315,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57281,8 +57332,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57298,8 +57349,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57315,8 +57366,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57332,8 +57383,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57349,8 +57400,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57366,8 +57417,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57383,8 +57434,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57400,8 +57451,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57417,8 +57468,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57434,8 +57485,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57451,8 +57502,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57468,8 +57519,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57485,8 +57536,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57502,8 +57553,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57519,8 +57570,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57536,8 +57587,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -57561,7 +57612,7 @@
     "name": "UNIT 4, 97 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000188242329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719829352"
    }
   },
@@ -57578,7 +57629,7 @@
     "name": "UNIT 1, 97 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000188242329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719829353"
    }
   },
@@ -57595,7 +57646,7 @@
     "name": "UNIT 3, 97 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000188242329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719829967"
    }
   },
@@ -57612,7 +57663,7 @@
     "name": "UNIT 5, 97 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000188242329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719830444"
    }
   },
@@ -57629,7 +57680,7 @@
     "name": "UNIT 2, 97 SANDGATE ROAD ALBION 4010",
     "locID": "LOC000188242329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719832757"
    }
   },
@@ -58080,8 +58131,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -58760,8 +58811,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -58794,8 +58845,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -58913,8 +58964,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04620479,
-     -27.42878837
+     153.04620863,
+     -27.42878766
     ]
    },
    "properties": {
@@ -58974,6 +59025,142 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721265976"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000020025472",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334704"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000020023955",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335178"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000020025472",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335194"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000020025472",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335354"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000187450267",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335514"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000187450233",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335529"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000187450246",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03820254,
+     -27.42919975
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 77 ALBION ROAD ALBION 4010",
+    "locID": "LOC000020003343",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335534"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T15:54:06.502058",
+ "generated": "2023-09-02T14:31:31.169507",
  "suburb": "ALDERLEY",
  "features": [
   {
@@ -52324,8 +52324,8 @@
    "properties": {
     "name": "344 DAYS ROAD ALDERLEY 4051",
     "locID": "LOC000063138927",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161124495"
    }
   },
@@ -64992,6 +64992,40 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721258278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.99781156,
+     -27.42443918
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 76 SAMFORD ROAD ALDERLEY 4051",
+    "locID": "LOC000192385050",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334638"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00458188,
+     -27.42794245
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 43 MORAN STREET ALDERLEY 4051",
+    "locID": "LOC000183417693",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335175"
    }
   }
  ]
