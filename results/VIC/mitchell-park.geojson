@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T02:52:47.224322",
+ "generated": "2023-09-02T01:36:19.176129",
  "suburb": "MITCHELL PARK",
  "features": [
   {
@@ -8787,7 +8787,7 @@
    "properties": {
     "name": "11 LIBERATOR DRIVE MITCHELL PARK 3355",
     "locID": "ChIJS1VgmLtD0WoRVDWLKNlzvnM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425824688"
    }
@@ -8855,7 +8855,7 @@
    "properties": {
     "name": "17 LIBERATOR DRIVE MITCHELL PARK 3355",
     "locID": "ChIJIzfU5bpD0WoRT69Yz9dErLQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425824692"
    }
@@ -9256,8 +9256,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.80526878,
-     -37.52062906
+     143.80422658,
+     -37.51946271
     ]
    },
    "properties": {
@@ -9307,7 +9307,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.80437506,
+     143.80437507,
      -37.52264557
     ]
    },
@@ -10106,8 +10106,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.80437506,
-     -37.52264557
+     143.80382323,
+     -37.51904215
     ]
    },
    "properties": {
@@ -10317,7 +10317,7 @@
    "properties": {
     "name": "9 NETTLES ROAD MITCHELL PARK 3355",
     "locID": "ChIJQUkLFr9D0WoRBUfpsTp-iX4",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721087234"
    }
@@ -10606,7 +10606,7 @@
    "properties": {
     "name": "13 CARGO WAY MITCHELL PARK 3355",
     "locID": "ChIJMUyg-rxD0WoRnHPmD4VSwUI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721106575"
    }
@@ -10745,6 +10745,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721251010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.8046924,
+     -37.52309129
+    ]
+   },
+   "properties": {
+    "name": "17 MENTAY WAY MITCHELL PARK 3355",
+    "locID": "EjAxNyBNZW50YXkgV2F5LCBNaXRjaGVsbCBQYXJrIFZJQyAzMzU1LCBBdXN0cmFsaWEiMBIuChQKEgnrbXjalEPRahHp3aK98vbORhARKhQKEgkXZfWRlEPRahEZnkXrUJeVhA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288186"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.8046924,
+     -37.52309129
+    ]
+   },
+   "properties": {
+    "name": "19 MENTAY WAY MITCHELL PARK 3355",
+    "locID": "EjAxOSBNZW50YXkgV2F5LCBNaXRjaGVsbCBQYXJrIFZJQyAzMzU1LCBBdXN0cmFsaWEiMBIuChQKEgnrbXjalEPRahHp3aK98vbORhATKhQKEgkXZfWRlEPRahEZnkXrUJeVhA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298532"
    }
   }
  ]
