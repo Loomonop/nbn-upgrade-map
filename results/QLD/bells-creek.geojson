@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T19:16:28.700171",
+ "generated": "2023-09-02T17:52:38.133632",
  "suburb": "BELLS CREEK",
  "features": [
   {
@@ -416,8 +416,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.08033853,
-     -26.8463198
+     153.08041626,
+     -26.84638271
     ]
    },
    "properties": {
@@ -441,7 +441,7 @@
     "name": "461 BELLS CREEK ROAD BELLS CREEK 4551",
     "locID": "LOC000068806369",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD162297343"
    }
   },
@@ -501,15 +501,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.08033853,
-     -26.8463198
+     153.08041626,
+     -26.84638271
     ]
    },
    "properties": {
     "name": "499 BELLS CREEK ROAD BELLS CREEK 4551",
     "locID": "LOC000183319116",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAQLD720120353"
    }
   },
@@ -1395,6 +1395,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721066490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.06888886,
+     -26.82613523
+    ]
+   },
+   "properties": {
+    "name": "LOT 11 AURA BOULEVARD BELLS CREEK 4551",
+    "locID": "EilBdXJhIEJ2ZCwgQmVsbHMgQ3JlZWsgUUxEIDQ1NTEsIEF1c3RyYWxpYSIuKiwKFAoSCZFcEoq4m5NrEZP9UPW8vcAJEhQKEgntbDQWAJuTaxFwqN7zWqMCBQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721305945"
    }
   }
  ]
