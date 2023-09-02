@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T09:51:30.178854",
+ "generated": "2023-09-02T08:28:12.467641",
  "suburb": "JINDALEE",
  "features": [
   {
@@ -5115,8 +5115,8 @@
    "properties": {
     "name": "12 WATERSUN GARDENS JINDALEE 6036",
     "locID": "LOC000008778680",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162271243"
    }
   },
@@ -5779,7 +5779,7 @@
     "name": "28 SAILBOAT LINK JINDALEE 6036",
     "locID": "LOC000094542486",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162332421"
    }
   },
@@ -6475,8 +6475,8 @@
    "properties": {
     "name": "11 SEAFARER WAY JINDALEE 6036",
     "locID": "LOC000011187766",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162392714"
    }
   },
@@ -6492,8 +6492,8 @@
    "properties": {
     "name": "12 SEAFARER WAY JINDALEE 6036",
     "locID": "LOC000067977546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162392715"
    }
   },
@@ -7869,8 +7869,8 @@
    "properties": {
     "name": "52 JINDALEE BOULEVARD JINDALEE 6036",
     "locID": "LOC000006151957",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_163002611"
    }
   },
@@ -10317,8 +10317,8 @@
    "properties": {
     "name": "13 ROUNDHOUSE PARADE JINDALEE 6036",
     "locID": "LOC000153354693",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718391709"
    }
   },
@@ -31577,8 +31577,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.67996975,
-     -31.63832152
+     115.68004395,
+     -31.63819295
     ]
    },
    "properties": {
@@ -32709,23 +32709,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717764"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.68585811,
-     -31.64792311
-    ]
-   },
-   "properties": {
-    "name": "500K MARITIME DRIVE JINDALEE 6036",
-    "locID": "ChIJJ_Ry-MlXzSsRGOTwZ_uV0MQ",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720717766"
    }
   },
   {
@@ -38343,8 +38326,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.67991206,
-     -31.63974696
+     115.6799229,
+     -31.63972577
     ]
    },
    "properties": {
@@ -38897,6 +38880,669 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721207644"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68759123,
+     -31.64172758
+    ]
+   },
+   "properties": {
+    "name": "15 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJOYQoGrhXzSsRl9ScQWTelH0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721277928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68783654,
+     -31.64208645
+    ]
+   },
+   "properties": {
+    "name": "7 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJc1elH7hXzSsRwMw4BEZDc14",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278107"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.6870581,
+     -31.65278384
+    ]
+   },
+   "properties": {
+    "name": "18 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJDxBLUrVXzSsROOa7TF64icQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278129"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68695097,
+     -31.65246636
+    ]
+   },
+   "properties": {
+    "name": "22 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJm2rAULVXzSsRnX_VqyEbP-s",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278230"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68765792,
+     -31.6425816
+    ]
+   },
+   "properties": {
+    "name": "50 FONTALVO BOULEVARD JINDALEE 6036",
+    "locID": "ChIJqTwI9LdXzSsRdYl6XYsC7mk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278270"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68756467,
+     -31.64166867
+    ]
+   },
+   "properties": {
+    "name": "17 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJUyAaGrhXzSsR0gHEkfxyClM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278314"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.6866632,
+     -31.65200074
+    ]
+   },
+   "properties": {
+    "name": "23 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJ3TwcX7VXzSsRccwJofmNa28",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278382"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68711766,
+     -31.65292274
+    ]
+   },
+   "properties": {
+    "name": "16 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJV_npUrVXzSsRH9SQP6_cx5M",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278397"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68840048,
+     -31.64212455
+    ]
+   },
+   "properties": {
+    "name": "4 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJ6QPlibdXzSsRm4xcB5u0xGA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278764"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68789187,
+     -31.64230352
+    ]
+   },
+   "properties": {
+    "name": "3 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJd3s-9bdXzSsRX02qKNVsfkU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278804"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68780569,
+     -31.64198385
+    ]
+   },
+   "properties": {
+    "name": "9 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJmegeH7hXzSsREbPl7HSP_iE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278918"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68874307,
+     -31.64255697
+    ]
+   },
+   "properties": {
+    "name": "40 FONTALVO BOULEVARD JINDALEE 6036",
+    "locID": "ChIJL0h7hbdXzSsRL5pE6YUqYhA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68768455,
+     -31.6418176
+    ]
+   },
+   "properties": {
+    "name": "13 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJhahrGbhXzSsRIHGVdx-aiNI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68755487,
+     -31.65342144
+    ]
+   },
+   "properties": {
+    "name": "6 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJNzLYsEpWzSsRpeczm2i-1sM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279687"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68771498,
+     -31.64191927
+    ]
+   },
+   "properties": {
+    "name": "11 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJ5ZjLHrhXzSsRxaKPQlQGjiI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68825795,
+     -31.64160533
+    ]
+   },
+   "properties": {
+    "name": "14 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJi5h0I7hXzSsRf8vDvT-4Iok",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279817"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.6873264,
+     -31.65335857
+    ]
+   },
+   "properties": {
+    "name": "10 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJf1PrsUpWzSsRAGzac5_BQAU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279872"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.6886428,
+     -31.64246691
+    ]
+   },
+   "properties": {
+    "name": "42 FONTALVO BOULEVARD JINDALEE 6036",
+    "locID": "ChIJqdNrj7dXzSsRiOmFzJt0DWI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279887"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68834857,
+     -31.64201763
+    ]
+   },
+   "properties": {
+    "name": "6 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJr0Q1J7hXzSsRnAs7lfzf6Sc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68773827,
+     -31.64250301
+    ]
+   },
+   "properties": {
+    "name": "48 FONTALVO BOULEVARD JINDALEE 6036",
+    "locID": "ChIJ97Zo9LdXzSsRWzNod3ehHHQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68845861,
+     -31.64226722
+    ]
+   },
+   "properties": {
+    "name": "2 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJyQAMibdXzSsR6OquRCw0R4s",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68787447,
+     -31.6421706
+    ]
+   },
+   "properties": {
+    "name": "5 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJaxHdH7hXzSsR8rIRZ7o8x4s",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280040"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68718575,
+     -31.6530545
+    ]
+   },
+   "properties": {
+    "name": "14 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJb6hErUpWzSsRqzU_QgFOCTc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280159"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68743219,
+     -31.64227682
+    ]
+   },
+   "properties": {
+    "name": "6 CHAPSTICK STREET JINDALEE 6036",
+    "locID": "ChIJ882DHbhXzSsRqrzAe2BFfAI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.6878916,
+     -31.64241934
+    ]
+   },
+   "properties": {
+    "name": "1 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJ5_jC9LdXzSsRTaP7G1ijS3k",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68829513,
+     -31.64170879
+    ]
+   },
+   "properties": {
+    "name": "12 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJY3ftI7hXzSsRtV-5INUnKzk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280471"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68487608,
+     -31.64911782
+    ]
+   },
+   "properties": {
+    "name": "99 MARITIME DRIVE JINDALEE 6036",
+    "locID": "ChIJR4jPPcpXzSsRvj_z8htT59A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68798793,
+     -31.65348989
+    ]
+   },
+   "properties": {
+    "name": "2 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJRTb-x0pWzSsROMOiaNWeKQM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280826"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68751463,
+     -31.64234646
+    ]
+   },
+   "properties": {
+    "name": "4 CHAPSTICK STREET JINDALEE 6036",
+    "locID": "ChIJQ_sV9rdXzSsRsfqTuJZ0xuQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280917"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68756314,
+     -31.64154834
+    ]
+   },
+   "properties": {
+    "name": "19 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJEbmwELhXzSsRwOiMivdqO0I",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280985"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68820916,
+     -31.64150914
+    ]
+   },
+   "properties": {
+    "name": "16 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJ5QgwI7hXzSsRIcFFTfs83ek",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281148"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68854579,
+     -31.64237175
+    ]
+   },
+   "properties": {
+    "name": "44 FONTALVO BOULEVARD JINDALEE 6036",
+    "locID": "ChIJ2Z7WiLdXzSsRsxQLJbUUscU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281397"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68700548,
+     -31.6526366
+    ]
+   },
+   "properties": {
+    "name": "20 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJg_hxUbVXzSsRgjw83_E-HVs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68777278,
+     -31.65343869
+    ]
+   },
+   "properties": {
+    "name": "4 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJBQsLt0pWzSsRhKSnLNqmT20",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281856"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68837769,
+     -31.64190094
+    ]
+   },
+   "properties": {
+    "name": "8 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJUQHRJrhXzSsRG6wQvRHbMgU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68422123,
+     -31.6478698
+    ]
+   },
+   "properties": {
+    "name": "121 MARITIME DRIVE JINDALEE 6036",
+    "locID": "ChIJJZGRhclXzSsR1pG5QJufp-0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.6882069,
+     -31.64141118
+    ]
+   },
+   "properties": {
+    "name": "18 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJ07XEPLhXzSsRXG0qjqZi3RU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282020"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68725492,
+     -31.65318611
+    ]
+   },
+   "properties": {
+    "name": "12 SEAHORSE COVE JINDALEE 6036",
+    "locID": "ChIJhVd3skpWzSsR4VyZAfYtMb8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282103"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.68832922,
+     -31.64180361
+    ]
+   },
+   "properties": {
+    "name": "10 MIDNIGHT STREET JINDALEE 6036",
+    "locID": "ChIJgbpTIbhXzSsRYK7FWq4ggn4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282134"
    }
   }
  ]
