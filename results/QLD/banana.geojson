@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T17:53:54.986545",
+ "generated": "2023-09-02T16:28:05.596332",
  "suburb": "BANANA",
  "features": [
   {
@@ -59,8 +59,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.16055226,
-     -24.35901143
+     150.13919909,
+     -24.53421199
     ]
    },
    "properties": {
@@ -1521,23 +1521,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.06597374,
-     -24.51039467
-    ]
-   },
-   "properties": {
-    "name": "LOT 125 DAWSON HIGHWAY BANANA 4702",
-    "locID": "LOC000111094954",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161123826"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.1067538,
      -24.48033781
     ]
@@ -1750,7 +1733,7 @@
     "name": "LOT 59 DAWSON HIGHWAY BANANA 4702",
     "locID": "LOC000110597080",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161123843"
    }
   },
@@ -4581,6 +4564,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.12446249,
+     -24.47540861
+    ]
+   },
+   "properties": {
+    "name": "LOT 98 GREGORY STREET BANANA 4702",
+    "locID": "Eiw5OCBHcmVnb3J5IFN0LCBHcmFjZW1lcmUgUUxEIDQ3MDIsIEF1c3RyYWxpYSIwEi4KFAoSCb1X-43RrsNrERhQmtjchmB1EGIqFAoSCVWCz43RrsNrEfUkvVgDcR8p",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163165023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.13107502,
      -24.46769534
     ]
@@ -6451,6 +6451,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.29946402,
+     -24.40490618
+    ]
+   },
+   "properties": {
+    "name": "14380 DAWSON HIGHWAY BANANA 4702",
+    "locID": "EiwxNDM4MCBEYXdzb24gSHd5LCBCYW5hbmEgUUxEIDQ3MDIsIEF1c3RyYWxpYSIxEi8KFAoSCRktKe1dPMFrEbIOvnAjLAtPEKxwKhQKEgnb4Q5M5H_IaxE9R4iw6vrH0g",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721146447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.10957868,
      -24.49114318
     ]
@@ -6495,6 +6512,57 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.31645132,
+     -24.42372832
+    ]
+   },
+   "properties": {
+    "name": "14079 DAWSON HIGHWAY BANANA 4702",
+    "locID": "ChIJQX46X50TwWsRyFX3oTc1la8",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721150606"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.16055226,
+     -24.35901143
+    ]
+   },
+   "properties": {
+    "name": "9301 LEICHHARDT HIGHWAY BANANA 4702",
+    "locID": "ChIJlwr3anc_wWsR4MI1kLoT8FY",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307043"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.06597374,
+     -24.51039467
+    ]
+   },
+   "properties": {
+    "name": "5 WARDLES ROAD BANANA 4702",
+    "locID": "LOC000067486646",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309947"
    }
   }
  ]

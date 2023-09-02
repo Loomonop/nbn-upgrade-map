@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T18:37:45.615999",
+ "generated": "2023-09-02T17:10:00.732266",
  "suburb": "BASIN POCKET",
  "features": [
   {
@@ -6475,8 +6475,8 @@
    "properties": {
     "name": "1 CHARLOTTE STREET BASIN POCKET 4305",
     "locID": "LOC000008274702",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156257849"
    }
   },
@@ -7804,6 +7804,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721077759"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.7732536,
+     -27.60170268
+    ]
+   },
+   "properties": {
+    "name": "UNIT A, 178 CHERMSIDE ROAD BASIN POCKET 4305",
+    "locID": "LOC000049998292",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721335144"
    }
   }
  ]
