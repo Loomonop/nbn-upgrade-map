@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-13T20:13:36.788694",
+ "generated": "2023-09-02T18:50:53.431901",
  "suburb": "BLACKSTONE",
  "features": [
   {
@@ -950,8 +950,8 @@
    "properties": {
     "name": "29 THOMAS STREET BLACKSTONE 4304",
     "locID": "LOC000049344834",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155037984"
    }
   },
@@ -5261,8 +5261,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.80774719,
-     -27.62706403
+     152.80834556,
+     -27.62437897
     ]
    },
    "properties": {
@@ -5295,8 +5295,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.80765994,
-     -27.62742218
+     152.80807191,
+     -27.62498988
     ]
    },
    "properties": {
@@ -5975,8 +5975,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.80765994,
-     -27.62742218
+     152.80807191,
+     -27.62498988
     ]
    },
    "properties": {
@@ -5992,8 +5992,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.80765994,
-     -27.62742218
+     152.80807191,
+     -27.62498988
     ]
    },
    "properties": {
@@ -7376,8 +7376,8 @@
    "properties": {
     "name": "106 HIGH STREET BLACKSTONE 4304",
     "locID": "LOC000025332783",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162969027"
    }
   },
@@ -7828,8 +7828,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.80745643,
-     -27.62729356
+     152.80774719,
+     -27.62706403
     ]
    },
    "properties": {
@@ -7845,8 +7845,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.80745643,
-     -27.62729356
+     152.80769145,
+     -27.62724382
     ]
    },
    "properties": {
@@ -7862,8 +7862,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.80745643,
-     -27.62729356
+     152.80765994,
+     -27.62742218
     ]
    },
    "properties": {
@@ -8720,7 +8720,7 @@
     "name": "3A HILL STREET BLACKSTONE 4304",
     "locID": "LOC000181815290",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425864759"
    }
   },
@@ -10116,6 +10116,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721266569"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.81550352,
+     -27.62705743
+    ]
+   },
+   "properties": {
+    "name": "UNIT 86, 200 MARY STREET BLACKSTONE 4304",
+    "locID": "LOC000175905809",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335289"
    }
   }
  ]
