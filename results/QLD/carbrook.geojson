@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T00:13:26.609624",
+ "generated": "2023-09-02T22:23:53.567194",
  "suburb": "CARBROOK",
  "features": [
   {
@@ -440,8 +440,8 @@
    "properties": {
     "name": "1-19 IRONBARK ROAD CARBROOK 4130",
     "locID": "LOC000079672229",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155142808"
    }
   },
@@ -698,6 +698,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156066680"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.26143555,
+     -27.68841314
+    ]
+   },
+   "properties": {
+    "name": "48 FERRY ROAD CARBROOK 4130",
+    "locID": "LOC000184523267",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156384532"
    }
   },
   {
@@ -1266,6 +1283,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.26229222,
+     -27.68956586
+    ]
+   },
+   "properties": {
+    "name": "833 BEENLEIGH - REDLAND BAY ROAD CARBROOK 4130",
+    "locID": "LOC000179214719",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156410156"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.26563422,
      -27.68316331
     ]
@@ -1817,8 +1851,8 @@
    "properties": {
     "name": "1-19 CURRAWONG ROAD CARBROOK 4130",
     "locID": "LOC000095442677",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD159410530"
    }
   },
@@ -1868,8 +1902,8 @@
    "properties": {
     "name": "2-20 IRONBARK ROAD CARBROOK 4130",
     "locID": "LOC000023276386",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD159410546"
    }
   },
@@ -2327,8 +2361,8 @@
    "properties": {
     "name": "93-95 LAKESIDE DRIVE CARBROOK 4130",
     "locID": "LOC000001723152",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD159422576"
    }
   },
@@ -2633,8 +2667,8 @@
    "properties": {
     "name": "88-96 LAKESIDE DRIVE CARBROOK 4130",
     "locID": "LOC000025744932",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160717693"
    }
   },
@@ -4003,23 +4037,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.26325765,
-     -27.68803412
-    ]
-   },
-   "properties": {
-    "name": "833-901 BEENLEIGH - REDLAND BAY ROAD CARBROOK 4130",
-    "locID": "LOC000174218095",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161063330"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.26808672,
      -27.68386456
     ]
@@ -4282,8 +4299,8 @@
    "properties": {
     "name": "2-20 CURRAWONG ROAD CARBROOK 4130",
     "locID": "LOC000042904780",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161117938"
    }
   },
@@ -4557,40 +4574,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161147043"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.26143555,
-     -27.68841314
-    ]
-   },
-   "properties": {
-    "name": "38-48 FERRY ROAD CARBROOK 4130",
-    "locID": "LOC000184523267",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161147044"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.26204965,
-     -27.69077373
-    ]
-   },
-   "properties": {
-    "name": "50-90 FERRY ROAD CARBROOK 4130",
-    "locID": "ChIJEXaYX9drkWsRem52XZjZ0eg",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161147045"
    }
   },
   {
@@ -5132,8 +5115,8 @@
    "properties": {
     "name": "102-104 LAKESIDE DRIVE CARBROOK 4130",
     "locID": "LOC000013422167",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161207549"
    }
   },
@@ -5285,8 +5268,8 @@
    "properties": {
     "name": "98-100 LAKESIDE DRIVE CARBROOK 4130",
     "locID": "LOC000126843466",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161207558"
    }
   },
@@ -6985,8 +6968,8 @@
    "properties": {
     "name": "LOT 20 IRONBARK ROAD CARBROOK 4130",
     "locID": "LOC000023276386",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163216453"
    }
   },
@@ -7709,6 +7692,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.22015024,
+     -27.6756544
+    ]
+   },
+   "properties": {
+    "name": "26 BIRDIE PLACE CARBROOK 4130",
+    "locID": "LOC000161305378",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719293154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.22033527,
+     -27.67568015
+    ]
+   },
+   "properties": {
+    "name": "30 BIRDIE PLACE CARBROOK 4130",
+    "locID": "LOC000161305366",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719294008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.21979854,
      -27.67493112
     ]
@@ -7991,6 +8008,57 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721133449"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.26229222,
+     -27.68956586
+    ]
+   },
+   "properties": {
+    "name": "38-126 FERRY ROAD CARBROOK 4130",
+    "locID": "LOC000184523267",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.22015024,
+     -27.6756544
+    ]
+   },
+   "properties": {
+    "name": "28 BIRDIE PLACE CARBROOK 4130",
+    "locID": "LOC000179211673",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334610"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.22033527,
+     -27.67568015
+    ]
+   },
+   "properties": {
+    "name": "32 BIRDIE PLACE CARBROOK 4130",
+    "locID": "LOC000179261631",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335106"
    }
   }
  ]
