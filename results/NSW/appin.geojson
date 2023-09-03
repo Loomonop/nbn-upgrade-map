@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T16:52:43.181636",
+ "generated": "2023-09-03T13:24:40.615198",
  "suburb": "APPIN",
  "features": [
   {
@@ -236,8 +236,8 @@
    "properties": {
     "name": "51 APPIN ROAD APPIN 2560",
     "locID": "LOC000057131821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703911000"
    }
   },
@@ -12034,8 +12034,8 @@
    "properties": {
     "name": "18 MACNAMARA PLACE APPIN 2560",
     "locID": "LOC000055474942",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717612812"
    }
   },
@@ -22526,6 +22526,40 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721240679"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.78535716,
+     -34.19504375
+    ]
+   },
+   "properties": {
+    "name": "31A RIXON ROAD APPIN 2560",
+    "locID": "ChIJSegndlzjEmsR2xxIoV5ew6I",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322886"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7893437,
+     -34.19350073
+    ]
+   },
+   "properties": {
+    "name": "2A RIXON ROAD APPIN 2560",
+    "locID": "ChIJAfafbl7jEmsRd-jCBzYDcsw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721325481"
    }
   }
  ]
