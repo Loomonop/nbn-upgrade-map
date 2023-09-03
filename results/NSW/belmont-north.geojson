@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T15:54:25.011753",
+ "generated": "2023-09-03T12:31:24.688927",
  "suburb": "BELMONT NORTH",
  "features": [
   {
@@ -25328,8 +25328,8 @@
    "properties": {
     "name": "5 WARIALDA CLOSE BELMONT NORTH 2280",
     "locID": "LOC000030540910",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704080471"
    }
   },
@@ -25753,7 +25753,7 @@
    "properties": {
     "name": "338 PACIFIC HIGHWAY BELMONT NORTH 2280",
     "locID": "ChIJI4GLxs0ic2sRc5BQkYFu3as",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704080613"
    }
@@ -25773,23 +25773,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704080614"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.66720351,
-     -33.02058408
-    ]
-   },
-   "properties": {
-    "name": "340 PACIFIC HIGHWAY BELMONT NORTH 2280",
-    "locID": "LOC000032347120",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704080615"
    }
   },
   {
@@ -33158,23 +33141,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.66721547,
-     -33.02030501
-    ]
-   },
-   "properties": {
-    "name": "6 ELIDGE CRESCENT BELMONT NORTH 2280",
-    "locID": "LOC000024152625",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704083896"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.67667273,
      -33.02188724
     ]
@@ -35987,7 +35953,7 @@
    "properties": {
     "name": "UNIT 2, 338 PACIFIC HIGHWAY BELMONT NORTH 2280",
     "locID": "ChIJI4GLxs0ic2sRc5BQkYFu3as",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW707842101"
    }
@@ -37670,43 +37636,9 @@
    "properties": {
     "name": "UNIT 1, 338 PACIFIC HIGHWAY BELMONT NORTH 2280",
     "locID": "ChIJI4GLxs0ic2sRc5BQkYFu3as",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711838218"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.66918994,
-     -33.01790616
-    ]
-   },
-   "properties": {
-    "name": "342 PACIFIC HIGHWAY BELMONT NORTH 2280",
-    "locID": "LOC000047277531",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711838219"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.66918994,
-     -33.01790616
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 336 PACIFIC HIGHWAY BELMONT NORTH 2280",
-    "locID": "LOC000101650017",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711838223"
    }
   },
   {
@@ -38319,23 +38251,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711842611"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.66918994,
-     -33.01790616
-    ]
-   },
-   "properties": {
-    "name": "336 PACIFIC HIGHWAY BELMONT NORTH 2280",
-    "locID": "LOC000101650017",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711842837"
    }
   },
   {
@@ -46462,6 +46377,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721054295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.66729781,
+     -33.02045089
+    ]
+   },
+   "properties": {
+    "name": "10 ELIDGE CRESCENT BELMONT NORTH 2280",
+    "locID": "LOC000036993965",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324530"
    }
   }
  ]

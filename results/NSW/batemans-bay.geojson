@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T15:40:21.721547",
+ "generated": "2023-09-03T12:18:22.419200",
  "suburb": "BATEMANS BAY",
  "features": [
   {
@@ -1494,8 +1494,8 @@
    "properties": {
     "name": "19 OLD PRINCES HIGHWAY BATEMANS BAY 2536",
     "locID": "LOC000059544024",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704019928"
    }
   },
@@ -8260,8 +8260,8 @@
    "properties": {
     "name": "40 CATLIN AVENUE BATEMANS BAY 2536",
     "locID": "LOC000081002349",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704037052"
    }
   },
@@ -11143,7 +11143,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.18926868,
+     150.18926869,
      -35.7156187
     ]
    },
@@ -12765,8 +12765,8 @@
    "properties": {
     "name": "7 VESPER STREET BATEMANS BAY 2536",
     "locID": "LOC000101914739",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704041275"
    }
   },
@@ -14390,8 +14390,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.17981249,
-     -35.71535185
+     150.179807,
+     -35.71526975
     ]
    },
    "properties": {
@@ -17882,8 +17882,8 @@
    "properties": {
     "name": "UNIT 1, 7 VESPER STREET BATEMANS BAY 2536",
     "locID": "LOC000101914739",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW707818832"
    }
   },
@@ -25124,8 +25124,8 @@
    "properties": {
     "name": "UNIT 2, 7 VESPER STREET BATEMANS BAY 2536",
     "locID": "LOC000101914739",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712498306"
    }
   },
@@ -36456,8 +36456,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.16589044,
-     -35.72213909
+     150.16580006,
+     -35.72211018
     ]
    },
    "properties": {
@@ -44405,6 +44405,108 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721247115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.16580006,
+     -35.72211018
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 70 CRANBROOK ROAD BATEMANS BAY 2536",
+    "locID": "LOC000121222571",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.17973782,
+     -35.7154014
+    ]
+   },
+   "properties": {
+    "name": "48A HIGH STREET BATEMANS BAY 2536",
+    "locID": "ChIJow6F-ybAFWsRD2xBtsaAIIg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316446"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.18926869,
+     -35.7156187
+    ]
+   },
+   "properties": {
+    "name": "31A BEACH ROAD BATEMANS BAY 2536",
+    "locID": "ChIJtTK-tRjAFWsR-F25PFAuKPc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.18926869,
+     -35.7156187
+    ]
+   },
+   "properties": {
+    "name": "31B BEACH ROAD BATEMANS BAY 2536",
+    "locID": "ChIJtTK-tRjAFWsRMDAzf5gIMJ4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319306"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.16580006,
+     -35.72211018
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 70 CRANBROOK ROAD BATEMANS BAY 2536",
+    "locID": "LOC000121222571",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721320559"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.16580006,
+     -35.72211018
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 70 CRANBROOK ROAD BATEMANS BAY 2536",
+    "locID": "LOC000121222571",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325971"
    }
   }
  ]
