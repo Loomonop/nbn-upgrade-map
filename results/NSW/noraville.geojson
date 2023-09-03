@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T20:47:17.402863",
+ "generated": "2023-09-03T17:17:46.099445",
  "suburb": "NORAVILLE",
  "features": [
   {
@@ -339,7 +339,7 @@
     "name": "81 KELSEY ROAD NORAVILLE 2263",
     "locID": "LOC000007375837",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705496600"
    }
   },
@@ -6305,8 +6305,8 @@
    "properties": {
     "name": "53 KELSEY ROAD NORAVILLE 2263",
     "locID": "LOC000047692876",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705520642"
    }
   },
@@ -25943,6 +25943,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720709430"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.55032084,
+     -33.26888261
+    ]
+   },
+   "properties": {
+    "name": "7A KOOLOORA ROAD NORAVILLE 2263",
+    "locID": "ChIJ1SKl9VDacmsRndaSo2QrIPg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329924"
    }
   }
  ]
