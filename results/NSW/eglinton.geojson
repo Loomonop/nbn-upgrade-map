@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T12:54:43.490840",
+ "generated": "2023-09-03T10:29:15.831826",
  "suburb": "EGLINTON",
  "features": [
   {
@@ -356,7 +356,7 @@
     "name": "32 DURAMANA ROAD EGLINTON 2795",
     "locID": "LOC000089420162",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704662663"
    }
   },
@@ -2395,8 +2395,8 @@
    "properties": {
     "name": "7 ALEXANDER STREET EGLINTON 2795",
     "locID": "LOC000079098042",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704667530"
    }
   },
@@ -2735,8 +2735,8 @@
    "properties": {
     "name": "28 PARK STREET EGLINTON 2795",
     "locID": "LOC000022408796",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704669658"
    }
   },
@@ -2770,7 +2770,7 @@
     "name": "3 PARK STREET EGLINTON 2795",
     "locID": "LOC000060115338",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704669660"
    }
   },
@@ -4197,8 +4197,8 @@
    "properties": {
     "name": "4 COX LANE EGLINTON 2795",
     "locID": "LOC000031304069",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704673432"
    }
   },
@@ -6220,8 +6220,8 @@
    "properties": {
     "name": "95 TAYLOR STREET EGLINTON 2795",
     "locID": "LOC000019763683",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704678855"
    }
   },
@@ -9672,7 +9672,7 @@
     "name": "18 LOREN STREET EGLINTON 2795",
     "locID": "LOC000010522154",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704694740"
    }
   },
@@ -11678,7 +11678,7 @@
     "name": "34 PEACOCK STREET EGLINTON 2795",
     "locID": "LOC000041178062",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716638661"
    }
   },
@@ -21880,6 +21880,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721171394"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.5408782,
+     -33.38282104
+    ]
+   },
+   "properties": {
+    "name": "29A LOGAN STREET EGLINTON 2795",
+    "locID": "ChIJjT7jgcfmEWsRu6IbiRhyjHo",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322946"
    }
   }
  ]

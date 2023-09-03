@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T12:10:36.490110",
+ "generated": "2023-09-03T09:53:21.440954",
  "suburb": "TWEED HEADS SOUTH",
  "features": [
   {
@@ -16845,8 +16845,8 @@
    "properties": {
     "name": "16 THE HERMITAGE TWEED HEADS SOUTH 2486",
     "locID": "LOC000005589231",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706155227"
    }
   },
@@ -24019,8 +24019,8 @@
    "properties": {
     "name": "88 DRY DOCK ROAD TWEED HEADS SOUTH 2486",
     "locID": "LOC000032182574",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706168617"
    }
   },
@@ -50821,8 +50821,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.53568062,
-     -28.20040139
+     153.53416423,
+     -28.19771445
     ]
    },
    "properties": {
@@ -59848,8 +59848,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.53416422,
-     -28.19771445
+     153.53405735,
+     -28.19829495
     ]
    },
    "properties": {
@@ -76610,8 +76610,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.5376916,
-     -28.20313236
+     153.53769161,
+     -28.20313237
     ]
    },
    "properties": {
@@ -77375,8 +77375,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.5376916,
-     -28.20313236
+     153.53769161,
+     -28.20313237
     ]
    },
    "properties": {
@@ -82602,7 +82602,7 @@
     "name": "247 KIRKWOOD ROAD TWEED HEADS SOUTH 2486",
     "locID": "LOC000040389761",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717893486"
    }
   },
@@ -101743,8 +101743,8 @@
    "properties": {
     "name": "217C KIRKWOOD ROAD TWEED HEADS SOUTH 2486",
     "locID": "LOC000177542249",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW720020755"
    }
   },
@@ -106370,6 +106370,74 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721240722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.53920628,
+     -28.18785465
+    ]
+   },
+   "properties": {
+    "name": "UNIT 254, 3 DRY DOCK ROAD TWEED HEADS SOUTH 2486",
+    "locID": "LOC000166102986",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.53622013,
+     -28.20700761
+    ]
+   },
+   "properties": {
+    "name": "SHOP 2, 54-58 GREENWAY DRIVE TWEED HEADS SOUTH 2486",
+    "locID": "LOC000185037180",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721336513"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.53622013,
+     -28.20700761
+    ]
+   },
+   "properties": {
+    "name": "SHOP 1, 54-58 GREENWAY DRIVE TWEED HEADS SOUTH 2486",
+    "locID": "LOC000185037180",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721336711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.53622013,
+     -28.20700761
+    ]
+   },
+   "properties": {
+    "name": "SHOP 3, 54-58 GREENWAY DRIVE TWEED HEADS SOUTH 2486",
+    "locID": "LOC000185037180",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721338441"
    }
   }
  ]
