@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T13:42:05.706232",
+ "generated": "2023-09-03T11:25:08.717668",
  "suburb": "COOKS HILL",
  "features": [
   {
@@ -1691,8 +1691,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.76980771,
-     -32.92968969
+     151.76980772,
+     -32.9296897
     ]
    },
    "properties": {
@@ -6560,8 +6560,8 @@
    "properties": {
     "name": "48 PARRY STREET COOKS HILL 2300",
     "locID": "LOC000082833205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704465675"
    }
   },
@@ -12731,8 +12731,8 @@
    "properties": {
     "name": "26 DAWSON STREET COOKS HILL 2300",
     "locID": "LOC000081436464",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704472077"
    }
   },
@@ -13343,8 +13343,8 @@
    "properties": {
     "name": "1 BRUCE STREET COOKS HILL 2300",
     "locID": "LOC000101388575",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704472117"
    }
   },
@@ -20245,8 +20245,8 @@
    "properties": {
     "name": "168 DARBY STREET COOKS HILL 2300",
     "locID": "LOC000035459305",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704484441"
    }
   },
@@ -25685,8 +25685,8 @@
    "properties": {
     "name": "12 DAWSON STREET COOKS HILL 2300",
     "locID": "LOC000044377809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711892154"
    }
   },
@@ -41913,23 +41913,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.76980771,
-     -32.92968969
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 8 BRUCE STREET COOKS HILL 2300",
-    "locID": "LOC000046173633",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW718402572"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.77273458,
      -32.93005092
     ]
@@ -46292,6 +46275,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.76787232,
+     -32.93153201
+    ]
+   },
+   "properties": {
+    "name": "72A BRUCE STREET COOKS HILL 2300",
+    "locID": "ChIJnWtcLUIUc2sRSlTcgG2NXq4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338103"
    }
   }
  ]
