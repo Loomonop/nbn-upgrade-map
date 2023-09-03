@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T21:41:38.262358",
+ "generated": "2023-09-03T18:13:47.220113",
  "suburb": "SHELL COVE",
  "features": [
   {
@@ -4741,8 +4741,8 @@
    "properties": {
     "name": "13 DAMPIER CRESCENT SHELL COVE 2529",
     "locID": "LOC000038137065",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706435910"
    }
   },
@@ -4758,8 +4758,8 @@
    "properties": {
     "name": "12 DAMPIER CRESCENT SHELL COVE 2529",
     "locID": "LOC000061205246",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706435911"
    }
   },
@@ -10352,7 +10352,7 @@
     "name": "1 TASMAN DRIVE SHELL COVE 2529",
     "locID": "LOC000082154825",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712438180"
    }
   },
@@ -42270,6 +42270,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.86772045,
+     -34.59198263
+    ]
+   },
+   "properties": {
+    "name": "22 PORT LANE SHELL COVE 2529",
+    "locID": "ChIJY24lOZkUE2sRsfEBJhWvDFc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW719386371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.86801802,
      -34.59177466
     ]
@@ -51297,8 +51314,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84670167,
-     -34.59901795
+     150.84672558,
+     -34.59899055
     ]
    },
    "properties": {
@@ -51382,8 +51399,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.865095,
-     -34.58409243
+     150.86506493,
+     -34.58403188
     ]
    },
    "properties": {
@@ -51739,8 +51756,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84699096,
-     -34.59869015
+     150.84701492,
+     -34.59866276
     ]
    },
    "properties": {
@@ -51943,23 +51960,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 8, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670229",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720171895"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.87024597,
      -34.58488128
     ]
@@ -51987,23 +51987,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720172171"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670181",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720172198"
    }
   },
   {
@@ -52198,23 +52181,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670240",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720173083"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.86365774,
      -34.58588162
     ]
@@ -52368,23 +52334,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 10, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670240",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720173624"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.86670845,
      -34.58380396
     ]
@@ -52463,23 +52412,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720173801"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670199",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720173855"
    }
   },
   {
@@ -52827,23 +52759,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670217",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720175292"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.86920713,
      -34.58567838
     ]
@@ -52973,23 +52888,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720175984"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670201",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720176134"
    }
   },
   {
@@ -53235,23 +53133,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670240",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720177205"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.87023447,
      -34.58526239
     ]
@@ -53422,23 +53303,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670175",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720177826"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.87048454,
      -34.58493766
     ]
@@ -53466,23 +53330,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720178009"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.86490325,
-     -34.58842622
-    ]
-   },
-   "properties": {
-    "name": "UNIT 9, 10 HARBOUR BOULEVARD SHELL COVE 2529",
-    "locID": "LOC000191670238",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720178160"
    }
   },
   {
@@ -58964,7 +58811,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -58981,7 +58828,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -58998,7 +58845,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59015,7 +58862,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59032,7 +58879,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59049,7 +58896,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59066,7 +58913,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59083,7 +58930,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59100,7 +58947,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59117,7 +58964,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59134,7 +58981,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59151,7 +58998,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59168,7 +59015,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59185,7 +59032,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59202,7 +59049,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59219,7 +59066,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59236,7 +59083,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59253,7 +59100,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59270,7 +59117,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59287,7 +59134,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59304,7 +59151,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59321,7 +59168,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59338,7 +59185,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59355,7 +59202,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59389,7 +59236,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59406,7 +59253,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59423,7 +59270,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59440,7 +59287,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59457,7 +59304,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59474,7 +59321,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59491,7 +59338,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59508,7 +59355,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59525,7 +59372,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59542,7 +59389,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59559,7 +59406,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59576,7 +59423,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59593,7 +59440,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59627,7 +59474,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59644,7 +59491,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59678,7 +59525,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59695,7 +59542,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59712,7 +59559,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59729,7 +59576,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59746,7 +59593,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59780,8 +59627,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86544062,
-     -34.58452566
+     150.86512769,
+     -34.58415824
     ]
    },
    "properties": {
@@ -59814,7 +59661,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86669507,
+     150.86669508,
      -34.58813332
     ]
    },
@@ -59984,8 +59831,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84670167,
-     -34.59901795
+     150.8466777,
+     -34.59904545
     ]
    },
    "properties": {
@@ -60307,8 +60154,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84699096,
-     -34.59869015
+     150.84696702,
+     -34.59871756
     ]
    },
    "properties": {
@@ -66080,6 +65927,3525 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721248818"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86185417,
+     -34.58454278
+    ]
+   },
+   "properties": {
+    "name": "UNIT 301, 50 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJpf0BR50UE2sRG5bu40AKisQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 81, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329488"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 101, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 408, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329575"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 308, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329576"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 202, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329577"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 311, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 501, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329603"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 508, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 411, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329605"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86794954,
+     -34.58395883
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 26 NAUTICA CRESCENT SHELL COVE 2529",
+    "locID": "LOC000188025023",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329620"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 410, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329638"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 404, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329675"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 99, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329877"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86823921,
+     -34.59039112
+    ]
+   },
+   "properties": {
+    "name": "72 THE PROMONTORY DRIVE SHELL COVE 2529",
+    "locID": "EjQ3MiBUaGUgUHJvbW9udG9yeSBEciwgU2hlbGwgQ292ZSBOU1cgMjUyOSwgQXVzdHJhbGlhIjASLgoUChIJgyK135sUE2sRQYzyUgl_kxMQSCoUChIJUSNXyp4UE2sRftM0-2iJuQI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86823921,
+     -34.59039112
+    ]
+   },
+   "properties": {
+    "name": "74 THE PROMONTORY DRIVE SHELL COVE 2529",
+    "locID": "EjQ3NCBUaGUgUHJvbW9udG9yeSBEciwgU2hlbGwgQ292ZSBOU1cgMjUyOSwgQXVzdHJhbGlhIjASLgoUChIJgyK135sUE2sRQYzyUgl_kxMQSioUChIJUSNXyp4UE2sRftM0-2iJuQI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 503, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329975"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 509, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 307, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 405, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 93, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330038"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 402, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 303, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330202"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 502, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330203"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 85, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 91, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330338"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 89, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 306, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 510, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330467"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 403, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86794954,
+     -34.58395883
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 26A NAUTICA CRESCENT SHELL COVE 2529",
+    "locID": "LOC000188025010",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721330574"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 212, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330758"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 83, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330777"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 84, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330778"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86823921,
+     -34.59039112
+    ]
+   },
+   "properties": {
+    "name": "78 THE PROMONTORY DRIVE SHELL COVE 2529",
+    "locID": "EjQ3OCBUaGUgUHJvbW9udG9yeSBEciwgU2hlbGwgQ292ZSBOU1cgMjUyOSwgQXVzdHJhbGlhIjASLgoUChIJgyK135sUE2sRQYzyUgl_kxMQTioUChIJUSNXyp4UE2sRftM0-2iJuQI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330836"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT G1, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 105, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 301, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330881"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 102, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330882"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 95, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330920"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.85311404,
+     -34.59042746
+    ]
+   },
+   "properties": {
+    "name": "38A TASMAN DRIVE SHELL COVE 2529",
+    "locID": "ChIJPw0gbWcTE2sRs8U1Zi-QdkM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330944"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 103, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331050"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 92, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331174"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 304, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331275"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 412, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 203, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331277"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87179307,
+     -34.59233095
+    ]
+   },
+   "properties": {
+    "name": "14 ROCKPOOL LANE SHELL COVE 2529",
+    "locID": "ChIJgQlQ75kUE2sRVMY0-BkwvZU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331307"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 210, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 312, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 104, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 94, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 96, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 102, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331634"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 507, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 309, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 204, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 305, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331723"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 302, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331724"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 505, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331725"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 406, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331745"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 104, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331897"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 100, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 90, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 88, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 401, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332094"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 106, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 310, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 506, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332127"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 101, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 97, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332207"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 205, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332261"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 103, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332348"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 87, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 98, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332414"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 82, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332440"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86861494,
+     -34.59015252
+    ]
+   },
+   "properties": {
+    "name": "61 WHARF PARADE SHELL COVE 2529",
+    "locID": "Ei82MSBXaGFyZiBQYXJhZGUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCT8YStObFBNrEXZiUxCTFx64ED0qFAoSCWmjrIubFBNrEVXhDyH6gpIc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 409, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332506"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 201, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 206, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332537"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 211, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 407, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332540"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 86, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332566"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86823921,
+     -34.59039112
+    ]
+   },
+   "properties": {
+    "name": "80 THE PROMONTORY DRIVE SHELL COVE 2529",
+    "locID": "EjQ4MCBUaGUgUHJvbW9udG9yeSBEciwgU2hlbGwgQ292ZSBOU1cgMjUyOSwgQXVzdHJhbGlhIjASLgoUChIJgyK135sUE2sRQYzyUgl_kxMQUCoUChIJUSNXyp4UE2sRftM0-2iJuQI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 504, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332689"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 211, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 209, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 404, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336150"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 111, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336151"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 207, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336187"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 106, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336205"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 203, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336206"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 102, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336216"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 205, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336222"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 512, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 414, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336232"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 409, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 403, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336234"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 210, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336235"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336241"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86894064,
+     -34.58931878
+    ]
+   },
+   "properties": {
+    "name": "40 QUAYSIDE AVENUE SHELL COVE 2529",
+    "locID": "Ei80MCBRdWF5c2lkZSBBdmUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCReRITOaFBNrEdCJufXkPQfoECgqFAoSCbX3hi2aFBNrEVAN-EfyrgSS",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 101, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336500"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 105, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336524"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 201, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 206, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336583"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86490325,
+     -34.58842622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 69, 10 HARBOUR BOULEVARD SHELL COVE 2529",
+    "locID": "Ei8xMCBIYXJib3VyIEJsdmQsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCaEXVjmcFBNrEc5jfOh7X8V8EAoqFAoSCfvrkRicFBNrEYEPIrfFfryB",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 408, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336614"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 405, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336615"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 308, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336616"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 302, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336617"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 201, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336618"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336620"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336621"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336624"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336625"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 207, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336920"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 104, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336926"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 208, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336938"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336939"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336940"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 412, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336948"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 406, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336949"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 301, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336950"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 209, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337198"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 505, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337210"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 502, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337211"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 208, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337212"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 202, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 511, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337245"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 305, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 513, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 109, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 401, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 306, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 214, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337563"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86794954,
+     -34.58395883
+    ]
+   },
+   "properties": {
+    "name": "26A NAUTICA CRESCENT SHELL COVE 2529",
+    "locID": "LOC000188025010",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721337564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 304, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337565"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86894064,
+     -34.58931878
+    ]
+   },
+   "properties": {
+    "name": "50 QUAYSIDE AVENUE SHELL COVE 2529",
+    "locID": "Ei81MCBRdWF5c2lkZSBBdmUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCReRITOaFBNrEfYIdn32q_Z5EDIqFAoSCbX3hi2aFBNrEVAN-EfyrgSS",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337594"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 110, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337615"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86894064,
+     -34.58931878
+    ]
+   },
+   "properties": {
+    "name": "38 QUAYSIDE AVENUE SHELL COVE 2529",
+    "locID": "Ei8zOCBRdWF5c2lkZSBBdmUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCReRITOaFBNrEdCJufXkPQfoECYqFAoSCbX3hi2aFBNrEVAN-EfyrgSS",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337620"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 313, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337630"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 509, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337642"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 504, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337643"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 402, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337644"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 212, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337645"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337647"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337680"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 109, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 104, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 410, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 312, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337925"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 309, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337926"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86894064,
+     -34.58931878
+    ]
+   },
+   "properties": {
+    "name": "42 QUAYSIDE AVENUE SHELL COVE 2529",
+    "locID": "Ei80MiBRdWF5c2lkZSBBdmUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCReRITOaFBNrEdCJufXkPQfoECoqFAoSCbX3hi2aFBNrEVAN-EfyrgSS",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337927"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 103, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337929"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 107, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337975"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 204, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337982"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 507, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338012"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 506, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86894064,
+     -34.58931878
+    ]
+   },
+   "properties": {
+    "name": "46 QUAYSIDE AVENUE SHELL COVE 2529",
+    "locID": "Ei80NiBRdWF5c2lkZSBBdmUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCReRITOaFBNrEfYIdn32q_Z5EC4qFAoSCbX3hi2aFBNrEVAN-EfyrgSS",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338014"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87454666,
+     -34.59049169
+    ]
+   },
+   "properties": {
+    "name": "269 OCEANFRONT DRIVE SHELL COVE 2529",
+    "locID": "ChIJ5dre7pAUE2sRFU69dzgg1GY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338061"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 95 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sRQ0Kqv6AWSLI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338079"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 102, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338082"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 103, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "99 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "LOC000169279773",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721338254"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 508, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 407, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338269"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "93 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "LOC000182709352",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721338270"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 108, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338272"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "91 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "LOC000182709306",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721338325"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 503, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "97 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "ChIJTRbN0WETE2sR8Wm9CJP3a5M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338342"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86894064,
+     -34.58931878
+    ]
+   },
+   "properties": {
+    "name": "52 QUAYSIDE AVENUE SHELL COVE 2529",
+    "locID": "Ei81MiBRdWF5c2lkZSBBdmUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCReRITOaFBNrEfYIdn32q_Z5EDQqFAoSCbX3hi2aFBNrEVAN-EfyrgSS",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338343"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338346"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 108, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 514, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338351"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 311, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338390"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86025676,
+     -34.59047835
+    ]
+   },
+   "properties": {
+    "name": "89 COVE BOULEVARD SHELL COVE 2529",
+    "locID": "LOC000182709283",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721338482"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 413, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 303, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 205, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 411, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 501, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 105, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338646"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 112, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338647"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 204, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338648"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338649"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 510, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338652"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 314, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338653"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 106, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 101, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 111, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86559259,
+     -34.58764284
+    ]
+   },
+   "properties": {
+    "name": "UNIT 202, 6 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJa8C7ZpwUE2sRWI8aph8EPGc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338665"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 310, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338678"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 307, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338679"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 213, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338680"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 206, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 203, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86894064,
+     -34.58931878
+    ]
+   },
+   "properties": {
+    "name": "48 QUAYSIDE AVENUE SHELL COVE 2529",
+    "locID": "Ei80OCBRdWF5c2lkZSBBdmUsIFNoZWxsIENvdmUgTlNXIDI1MjksIEF1c3RyYWxpYSIwEi4KFAoSCReRITOaFBNrEfYIdn32q_Z5EDAqFAoSCbX3hi2aFBNrEVAN-EfyrgSS",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338683"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 107, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338690"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86517152,
+     -34.58751101
+    ]
+   },
+   "properties": {
+    "name": "UNIT 110, 5 CIVIC AVENUE SHELL COVE 2529",
+    "locID": "ChIJ7Q3bXZwUE2sR_AP69bnKmHw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721338691"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T21:37:36.205590",
+ "generated": "2023-09-03T18:10:06.706752",
  "suburb": "WENTWORTH FALLS",
  "features": [
   {
@@ -56149,7 +56149,7 @@
    "properties": {
     "name": "92 FLETCHER STREET WENTWORTH FALLS 2782",
     "locID": "LOC000152081395",
-    "tech": "SATELLITE",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717670606"
    }
@@ -57206,6 +57206,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717893930"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.38880421,
+     -33.7035892
+    ]
+   },
+   "properties": {
+    "name": "51 LAWSON VIEW PARADE WENTWORTH FALLS 2782",
+    "locID": "LOC000104418320",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717893931"
    }
   },
   {
@@ -64319,23 +64336,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.388017,
-     -33.70497113
-    ]
-   },
-   "properties": {
-    "name": "13 LEES AVENUE WENTWORTH FALLS 2782",
-    "locID": "LOC000189646357",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719876054"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.37012067,
      -33.7135529
     ]
@@ -65509,8 +65509,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.38861286,
-     -33.70486689
+     150.38801701,
+     -33.70497113
     ]
    },
    "properties": {
@@ -65577,8 +65577,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.3884532,
-     -33.70349082
+     150.38855798,
+     -33.70488328
     ]
    },
    "properties": {
@@ -65621,23 +65621,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721122949"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.38855798,
-     -33.70488327
-    ]
-   },
-   "properties": {
-    "name": "17 LEES AVENUE WENTWORTH FALLS 2782",
-    "locID": "LOC000189646357",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721127839"
    }
   },
   {
@@ -65740,6 +65723,57 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721248487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.39468426,
+     -33.69654875
+    ]
+   },
+   "properties": {
+    "name": "25 REDFERN STREET WENTWORTH FALLS 2782",
+    "locID": "ChIJZUOlp_VvEmsRGKeNfiVyWjE",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316907"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.39464773,
+     -33.69672746
+    ]
+   },
+   "properties": {
+    "name": "23 REDFERN STREET WENTWORTH FALLS 2782",
+    "locID": "ChIJbQU_CPVvEmsR_TZ4BFaUzEA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721321377"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.38880421,
+     -33.7035892
+    ]
+   },
+   "properties": {
+    "name": "49 LAWSON VIEW PARADE WENTWORTH FALLS 2782",
+    "locID": "LOC000104418320",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331542"
    }
   }
  ]
