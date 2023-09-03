@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T18:03:44.669397",
+ "generated": "2023-09-03T14:45:23.338785",
  "suburb": "MITCHELL",
  "features": [
   {
@@ -219,8 +219,8 @@
    "properties": {
     "name": "364 STEWART STREET MITCHELL 2795",
     "locID": "LOC000041513175",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705383737"
    }
   },
@@ -3306,8 +3306,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     149.56474736,
-     -33.43063491
+     149.56105769,
+     -33.43146383
     ]
    },
    "properties": {
@@ -3826,6 +3826,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720845872"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.56626347,
+     -33.43203126
+    ]
+   },
+   "properties": {
+    "name": "25 LEENA STREET MITCHELL 2795",
+    "locID": "ChIJNfSSxNjlEWsRWQ4mFpsp4J0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318790"
    }
   }
  ]
