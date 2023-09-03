@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T02:38:06.539611",
+ "generated": "2023-09-03T22:51:37.295429",
  "suburb": "SINGLETON HEIGHTS",
  "features": [
   {
@@ -2192,7 +2192,7 @@
     "name": "117 GARDNER CIRCUIT SINGLETON HEIGHTS 2330",
     "locID": "LOC000027194607",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705882133"
    }
   },
@@ -23067,8 +23067,8 @@
    "properties": {
     "name": "38 LLOYD JONES DRIVE SINGLETON HEIGHTS 2330",
     "locID": "LOC000109603612",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705954193"
    }
   },
@@ -26076,8 +26076,8 @@
    "properties": {
     "name": "6 RHODES PLACE SINGLETON HEIGHTS 2330",
     "locID": "LOC000080365501",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW710093360"
    }
   },
@@ -29316,8 +29316,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.15995319,
-     -32.54945219
+     151.1613595,
+     -32.54961704
     ]
    },
    "properties": {
@@ -31398,7 +31398,7 @@
     "name": "13B BEH CLOSE SINGLETON HEIGHTS 2330",
     "locID": "LOC000046003841",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716853461"
    }
   },
@@ -32537,7 +32537,7 @@
     "name": "UNIT 1, 13B BEH CLOSE SINGLETON HEIGHTS 2330",
     "locID": "LOC000046003841",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717654127"
    }
   },
@@ -39254,6 +39254,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721179389"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.15894121,
+     -32.54946572
+    ]
+   },
+   "properties": {
+    "name": "99 DORSMAN DRIVE SINGLETON HEIGHTS 2330",
+    "locID": "ChIJE19uFOavDGsRJSi3L88lWvg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721324989"
    }
   }
  ]

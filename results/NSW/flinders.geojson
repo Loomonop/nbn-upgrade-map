@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T03:22:41.505347",
+ "generated": "2023-09-03T23:29:23.230352",
  "suburb": "FLINDERS",
  "features": [
   {
@@ -6577,8 +6577,8 @@
    "properties": {
     "name": "14 MUMMUGA CLOSE FLINDERS 2529",
     "locID": "LOC000018042577",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704778292"
    }
   },
@@ -6645,8 +6645,8 @@
    "properties": {
     "name": "22 MUMMUGA CLOSE FLINDERS 2529",
     "locID": "LOC000016810168",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704778296"
    }
   },
@@ -6849,8 +6849,8 @@
    "properties": {
     "name": "UNIT 3, 4 NARRAN WAY FLINDERS 2529",
     "locID": "LOC000070921421",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704778339"
    }
   },
@@ -8685,8 +8685,8 @@
    "properties": {
     "name": "7 URANA WAY FLINDERS 2529",
     "locID": "LOC000030544006",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704787590"
    }
   },
@@ -9128,7 +9128,7 @@
     "name": "113 WATTLE ROAD FLINDERS 2529",
     "locID": "LOC000036976846",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704790225"
    }
   },
@@ -9349,7 +9349,7 @@
     "name": "53 WATTLE ROAD FLINDERS 2529",
     "locID": "LOC000099725176",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704790239"
    }
   },
@@ -9858,8 +9858,8 @@
    "properties": {
     "name": "16 WILLINGA ROAD FLINDERS 2529",
     "locID": "LOC000015458911",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704793512"
    }
   },
@@ -16437,8 +16437,8 @@
    "properties": {
     "name": "26 TYRREL STREET FLINDERS 2529",
     "locID": "LOC000005610435",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712419816"
    }
   },
@@ -19820,8 +19820,8 @@
    "properties": {
     "name": "1 MUNGO PLACE FLINDERS 2529",
     "locID": "LOC000029539492",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712445215"
    }
   },
@@ -19871,8 +19871,8 @@
    "properties": {
     "name": "UNIT 3, 8 WALLIS CLOSE FLINDERS 2529",
     "locID": "LOC000007340939",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712445226"
    }
   },
@@ -20194,8 +20194,8 @@
    "properties": {
     "name": "1 CATHIE CLOSE FLINDERS 2529",
     "locID": "LOC000080178597",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712445492"
    }
   },
@@ -45466,8 +45466,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84084608,
-     -34.574675
+     150.84080617,
+     -34.5746766
     ]
    },
    "properties": {
@@ -46333,8 +46333,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84595546,
-     -34.58723235
+     150.84595547,
+     -34.58723236
     ]
    },
    "properties": {
@@ -46367,8 +46367,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84660245,
-     -34.58758766
+     150.84589415,
+     -34.58713049
     ]
    },
    "properties": {
@@ -48458,8 +48458,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84084608,
-     -34.574675
+     150.84088351,
+     -34.57467351
     ]
    },
    "properties": {
@@ -48638,6 +48638,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721242354"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.84008492,
+     -34.57808622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 28 FISCHER ROAD FLINDERS 2529",
+    "locID": "LOC000144599364",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329434"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.8469771,
+     -34.57652599
+    ]
+   },
+   "properties": {
+    "name": "15A CONJOLA CLOSE FLINDERS 2529",
+    "locID": "ChIJQdyv5XATE2sRtpp-HPualq4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.84008492,
+     -34.57808622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 28 FISCHER ROAD FLINDERS 2529",
+    "locID": "LOC000144599364",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.84008492,
+     -34.57808622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 28 FISCHER ROAD FLINDERS 2529",
+    "locID": "LOC000144599364",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331567"
    }
   }
  ]
