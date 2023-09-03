@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T19:28:44.134941",
+ "generated": "2023-09-03T16:10:55.006509",
  "suburb": "DUNDAS VALLEY",
  "features": [
   {
@@ -1011,23 +1011,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.05344601,
-     -33.78939211
-    ]
-   },
-   "properties": {
-    "name": "29 NEPTUNE STREET DUNDAS VALLEY 2117",
-    "locID": "LOC000021501677",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704611907"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.05254097,
      -33.7917595
     ]
@@ -1461,7 +1444,7 @@
     "name": "41 PERRY STREET DUNDAS VALLEY 2117",
     "locID": "LOC000042208201",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704611951"
    }
   },
@@ -2667,8 +2650,8 @@
    "properties": {
     "name": "28 KING STREET DUNDAS VALLEY 2117",
     "locID": "LOC000064370725",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704616767"
    }
   },
@@ -6264,8 +6247,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06249647,
-     -33.79562171
+     151.062492,
+     -33.79558807
     ]
    },
    "properties": {
@@ -7903,8 +7886,8 @@
    "properties": {
     "name": "1 DOBSON CRESCENT DUNDAS VALLEY 2117",
     "locID": "LOC000092858892",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704631623"
    }
   },
@@ -8015,8 +7998,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06247824,
-     -33.79548716
+     151.06247372,
+     -33.79545352
     ]
    },
    "properties": {
@@ -11457,7 +11440,7 @@
     "name": "6 BAIN PLACE DUNDAS VALLEY 2117",
     "locID": "LOC000036852989",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706544423"
    }
   },
@@ -13377,8 +13360,8 @@
    "properties": {
     "name": "28 BAIN PLACE DUNDAS VALLEY 2117",
     "locID": "LOC000087218676",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706572151"
    }
   },
@@ -17356,7 +17339,7 @@
     "name": "10 RYAN STREET DUNDAS VALLEY 2117",
     "locID": "LOC000031987386",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707490885"
    }
   },
@@ -18990,6 +18973,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707525030"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.05073662,
+     -33.79374743
+    ]
+   },
+   "properties": {
+    "name": "103 MOFFATTS DRIVE DUNDAS VALLEY 2117",
+    "locID": "LOC000193527130",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW707525031"
    }
   },
   {
@@ -21122,8 +21122,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06221478,
-     -33.79320088
+     151.06217308,
+     -33.7932109
     ]
    },
    "properties": {
@@ -21793,7 +21793,7 @@
     "name": "2 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332267",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710891431"
    }
   },
@@ -22482,8 +22482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.04795861,
-     -33.7908217
+     151.04797464,
+     -33.79087252
     ]
    },
    "properties": {
@@ -27369,7 +27369,7 @@
     "name": "22 MANNING PARADE DUNDAS VALLEY 2117",
     "locID": "LOC000010471656",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717084009"
    }
   },
@@ -34203,7 +34203,7 @@
     "name": "UNIT 10, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204222"
    }
   },
@@ -34220,7 +34220,7 @@
     "name": "UNIT 11, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332222",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204223"
    }
   },
@@ -34237,7 +34237,7 @@
     "name": "UNIT 12, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332233",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204224"
    }
   },
@@ -34254,7 +34254,7 @@
     "name": "UNIT 13, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332246",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204225"
    }
   },
@@ -34271,7 +34271,7 @@
     "name": "UNIT 14, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332251",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204226"
    }
   },
@@ -34288,7 +34288,7 @@
     "name": "UNIT 1, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204227"
    }
   },
@@ -34305,7 +34305,7 @@
     "name": "UNIT 2, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204228"
    }
   },
@@ -34322,7 +34322,7 @@
     "name": "UNIT 3, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332279",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204229"
    }
   },
@@ -34339,7 +34339,7 @@
     "name": "UNIT 4, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332280",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204230"
    }
   },
@@ -34356,7 +34356,7 @@
     "name": "UNIT 5, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332298",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204231"
    }
   },
@@ -34373,7 +34373,7 @@
     "name": "UNIT 6, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332308",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204232"
    }
   },
@@ -34390,7 +34390,7 @@
     "name": "UNIT 7, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332312",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204233"
    }
   },
@@ -34407,7 +34407,7 @@
     "name": "UNIT 8, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332320",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204234"
    }
   },
@@ -34424,7 +34424,7 @@
     "name": "UNIT 9, 4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204235"
    }
   },
@@ -34441,7 +34441,7 @@
     "name": "4-10 QUARRY ROAD DUNDAS VALLEY 2117",
     "locID": "LOC000115332214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718204236"
    }
   },
@@ -36940,7 +36940,7 @@
     "name": "10A RYAN STREET DUNDAS VALLEY 2117",
     "locID": "LOC000188037054",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719255063"
    }
   },
@@ -37534,8 +37534,8 @@
    "properties": {
     "name": "44 TILLEY STREET DUNDAS VALLEY 2117",
     "locID": "LOC000179702705",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW719690324"
    }
   },
@@ -40458,8 +40458,8 @@
    "properties": {
     "name": "24A DOBSON CRESCENT DUNDAS VALLEY 2117",
     "locID": "LOC000186909938",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721174519"
    }
   },
@@ -40604,8 +40604,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06221478,
-     -33.79320088
+     151.06225644,
+     -33.79319089
     ]
    },
    "properties": {
@@ -40614,6 +40614,74 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721261123"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06022699,
+     -33.79400329
+    ]
+   },
+   "properties": {
+    "name": "28A BAIN PLACE DUNDAS VALLEY 2117",
+    "locID": "LOC100078511335",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322179"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06250086,
+     -33.79565471
+    ]
+   },
+   "properties": {
+    "name": "19A DOBSON CRESCENT DUNDAS VALLEY 2117",
+    "locID": "LOC000191092372",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324393"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.04792087,
+     -33.79080241
+    ]
+   },
+   "properties": {
+    "name": "11A BRAND STREET DUNDAS VALLEY 2117",
+    "locID": "LOC000191870726",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06248286,
+     -33.79552144
+    ]
+   },
+   "properties": {
+    "name": "17A DOBSON CRESCENT DUNDAS VALLEY 2117",
+    "locID": "LOC000191092355",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721327274"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-14T19:02:11.818018",
+ "generated": "2023-09-03T15:46:18.157968",
  "suburb": "BASIN VIEW",
  "features": [
   {
@@ -15,8 +15,8 @@
    "properties": {
     "name": "145 BASIN VIEW PARADE BASIN VIEW 2540",
     "locID": "LOC000022143446",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704018470"
    }
   },
@@ -338,8 +338,8 @@
    "properties": {
     "name": "76 WATERPARK ROAD BASIN VIEW 2540",
     "locID": "LOC000049528668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704019595"
    }
   },
@@ -458,7 +458,7 @@
     "name": "3 ELANORA PARADE BASIN VIEW 2540",
     "locID": "LOC000052766162",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704019747"
    }
   },
@@ -1613,8 +1613,8 @@
    "properties": {
     "name": "14 TALLYAN POINT ROAD BASIN VIEW 2540",
     "locID": "LOC000074632104",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704020337"
    }
   },
@@ -3500,8 +3500,8 @@
    "properties": {
     "name": "23 WINN AVENUE BASIN VIEW 2540",
     "locID": "LOC000081791531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704022874"
    }
   },
@@ -4283,7 +4283,7 @@
     "name": "39 WINN AVENUE BASIN VIEW 2540",
     "locID": "LOC000030443923",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704023707"
    }
   },
@@ -5354,7 +5354,7 @@
     "name": "18 JOHN STREET BASIN VIEW 2540",
     "locID": "LOC000036139905",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704025482"
    }
   },
@@ -5558,7 +5558,7 @@
     "name": "29 JOHN STREET BASIN VIEW 2540",
     "locID": "LOC000047627156",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704026268"
    }
   },
@@ -7240,8 +7240,8 @@
    "properties": {
     "name": "4 CLARENDON CRESCENT BASIN VIEW 2540",
     "locID": "LOC000033212736",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704028126"
    }
   },
@@ -9025,8 +9025,8 @@
    "properties": {
     "name": "2 DOROTHY AVENUE BASIN VIEW 2540",
     "locID": "LOC000022292466",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704030565"
    }
   },
@@ -9130,6 +9130,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704030599"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.55411611,
+     -35.07873496
+    ]
+   },
+   "properties": {
+    "name": "D2205 PRINCES HIGHWAY BASIN VIEW 2540",
+    "locID": "ChIJYfNjWz9iFGsRKlKJp5FIpVg",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW704030600"
    }
   },
   {
@@ -9314,8 +9331,8 @@
    "properties": {
     "name": "25 DOROTHY AVENUE BASIN VIEW 2540",
     "locID": "LOC000064993075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704031359"
    }
   },
@@ -10915,40 +10932,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716378247"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.55411611,
-     -35.07873496
-    ]
-   },
-   "properties": {
-    "name": "2205 PRINCES HIGHWAY BASIN VIEW 2540",
-    "locID": "ChIJV-G6Xz9iFGsRHDhsLHjc4OE",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW716740560"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.55079803,
-     -35.07988719
-    ]
-   },
-   "properties": {
-    "name": "2245 PRINCES HIGHWAY BASIN VIEW 2540",
-    "locID": "ChIJ9UFbKD9iFGsRW9vroIiaB0A",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW716740561"
    }
   },
   {
@@ -13156,8 +13139,8 @@
    "properties": {
     "name": "21 RIVERSIDE ESPLANADE SOUTH BASIN VIEW 2540",
     "locID": "LOC000077947188",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718036942"
    }
   },
@@ -13377,8 +13360,8 @@
    "properties": {
     "name": "9 RIVERSIDE ESPLANADE SOUTH BASIN VIEW 2540",
     "locID": "LOC000072378662",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718036955"
    }
   },
@@ -13686,6 +13669,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718134387"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.55079803,
+     -35.07988719
+    ]
+   },
+   "properties": {
+    "name": "D2245 PRINCES HIGHWAY BASIN VIEW 2540",
+    "locID": "LOC000121287445",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718326057"
    }
   },
   {
