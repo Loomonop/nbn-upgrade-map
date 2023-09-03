@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T00:44:38.514069",
+ "generated": "2023-09-03T21:03:17.608100",
  "suburb": "PRIMBEE",
  "features": [
   {
@@ -4622,8 +4622,8 @@
    "properties": {
     "name": "134 WINDANG ROAD PRIMBEE 2502",
     "locID": "LOC000098421546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705718305"
    }
   },
@@ -6441,8 +6441,8 @@
    "properties": {
     "name": "83 LAKEVIEW PARADE PRIMBEE 2502",
     "locID": "LOC000042513465",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705725533"
    }
   },
@@ -8311,8 +8311,8 @@
    "properties": {
     "name": "13 JAMES AVENUE PRIMBEE 2502",
     "locID": "LOC000107412075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705735468"
    }
   },
@@ -11415,8 +11415,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.88758622,
-     -34.49965654
+     150.88668485,
+     -34.50095237
     ]
    },
    "properties": {
@@ -14859,6 +14859,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721184646"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.8845493,
+     -34.5028058
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 23 KORRONGULLA CRESCENT PRIMBEE 2502",
+    "locID": "LOC000020954743",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331348"
    }
   }
  ]
