@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T05:50:03.412421",
+ "generated": "2023-09-04T23:12:28.036726",
  "suburb": "SHOALHAVEN HEADS",
  "features": [
   {
@@ -3501,7 +3501,7 @@
     "name": "4 HEARD AVENUE SHOALHAVEN HEADS 2535",
     "locID": "LOC000008349532",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705864848"
    }
   },
@@ -8100,6 +8100,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.73938798,
+     -34.85207579
+    ]
+   },
+   "properties": {
+    "name": "39 DAVENPORT ROAD SHOALHAVEN HEADS 2535",
+    "locID": "LOC000193589153",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705874764"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.73588714,
      -34.85182813
     ]
@@ -9086,8 +9103,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74276214,
-     -34.84703118
+     150.74254143,
+     -34.84699083
     ]
    },
    "properties": {
@@ -13727,23 +13744,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74585228,
-     -34.84731739
-    ]
-   },
-   "properties": {
-    "name": "154 SCOTT STREET SHOALHAVEN HEADS 2535",
-    "locID": "ChIJ21KNDcB8E2sRHQRGuCPCohk",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW705888348"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.74633412,
      -34.84693977
     ]
@@ -17127,8 +17127,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.73249673,
-     -34.85610852
+     150.73382778,
+     -34.85770157
     ]
    },
    "properties": {
@@ -23706,8 +23706,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.7406752,
-     -34.850715
+     150.74028191,
+     -34.85075829
     ]
    },
    "properties": {
@@ -23978,8 +23978,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.73900218,
-     -34.84255517
+     150.73900859,
+     -34.84255382
     ]
    },
    "properties": {
@@ -24930,8 +24930,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.73900218,
-     -34.84255517
+     150.73900859,
+     -34.84255382
     ]
    },
    "properties": {
@@ -26300,40 +26300,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712492287"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.74218233,
-     -34.85296745
-    ]
-   },
-   "properties": {
-    "name": "12 MCINTOSH STREET SHOALHAVEN HEADS 2535",
-    "locID": "LOC000048330821",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW712494688"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.74280344,
-     -34.85285652
-    ]
-   },
-   "properties": {
-    "name": "14 MCINTOSH STREET SHOALHAVEN HEADS 2535",
-    "locID": "LOC000160781138",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW712494689"
    }
   },
   {
@@ -29554,8 +29520,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74069788,
-     -34.85070025
+     150.74034744,
+     -34.85060174
     ]
    },
    "properties": {
@@ -30166,8 +30132,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.74098511,
-     -34.85185668
+     150.74100208,
+     -34.85186945
     ]
    },
    "properties": {
@@ -31050,6 +31016,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7373673,
+     -34.85465893
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 31 RENOWN AVENUE SHOALHAVEN HEADS 2535",
+    "locID": "LOC000160786225",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718383366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.7373673,
+     -34.85465893
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 31 RENOWN AVENUE SHOALHAVEN HEADS 2535",
+    "locID": "LOC000160786225",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718383367"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.73823941,
      -34.84138157
     ]
@@ -31058,7 +31058,7 @@
     "name": "12 SCOTT STREET SHOALHAVEN HEADS 2535",
     "locID": "LOC000175255139",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718423262"
    }
   },
@@ -31067,8 +31067,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.73736729,
-     -34.85465892
+     150.73736062,
+     -34.85465433
     ]
    },
    "properties": {
