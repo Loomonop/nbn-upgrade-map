@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T05:01:47.701397",
+ "generated": "2023-09-04T00:58:48.999943",
  "suburb": "PARKLEA",
  "features": [
   {
@@ -627,8 +627,8 @@
    "properties": {
     "name": "16 CANDLENUT GROVE PARKLEA 2768",
     "locID": "LOC000089767189",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705662138"
    }
   },
@@ -933,8 +933,8 @@
    "properties": {
     "name": "7 CANDLENUT GROVE PARKLEA 2768",
     "locID": "LOC000089767189",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705672437"
    }
   },
@@ -1273,8 +1273,8 @@
    "properties": {
     "name": "14 BROMLY GROVE PARKLEA 2768",
     "locID": "LOC000100360113",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705682736"
    }
   },
@@ -1290,8 +1290,8 @@
    "properties": {
     "name": "15 BROMLY GROVE PARKLEA 2768",
     "locID": "LOC000055952291",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705682737"
    }
   },
@@ -1545,8 +1545,8 @@
    "properties": {
     "name": "27 ROSEWOOD STREET PARKLEA 2768",
     "locID": "LOC000089178780",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705685956"
    }
   },
@@ -3619,8 +3619,8 @@
    "properties": {
     "name": "14 TOMKO GROVE PARKLEA 2768",
     "locID": "LOC000086286697",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW715690964"
    }
   },
@@ -4724,8 +4724,8 @@
    "properties": {
     "name": "3 MARDY COURT PARKLEA 2768",
     "locID": "LOC000040935809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715966281"
    }
   },
@@ -6390,8 +6390,8 @@
    "properties": {
     "name": "3 FAIRWAY STREET PARKLEA 2768",
     "locID": "LOC000049411363",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716857973"
    }
   },
@@ -7019,8 +7019,8 @@
    "properties": {
     "name": "15 BOW AVENUE PARKLEA 2768",
     "locID": "LOC000013139251",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716891304"
    }
   },
@@ -8941,7 +8941,7 @@
     "name": "61 DAMIEN DRIVE PARKLEA 2768",
     "locID": "LOC000078739293",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716893037"
    }
   },
@@ -9229,8 +9229,8 @@
    "properties": {
     "name": "78 DAMIEN DRIVE PARKLEA 2768",
     "locID": "LOC000107473012",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716893054"
    }
   },
@@ -12510,8 +12510,8 @@
    "properties": {
     "name": "46B BOW AVENUE PARKLEA 2768",
     "locID": "LOC000154953772",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718744763"
    }
   },
@@ -12564,6 +12564,40 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721260108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91407972,
+     -33.72691497
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 7 TOMKO GROVE PARKLEA 2768",
+    "locID": "LOC000189855084",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721319400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91407972,
+     -33.72691497
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 7 TOMKO GROVE PARKLEA 2768",
+    "locID": "LOC000189855084",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721325149"
    }
   }
  ]
