@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T14:32:52.418216",
+ "generated": "2023-09-04T09:12:58.982272",
  "suburb": "BOLWARRA HEIGHTS",
  "features": [
   {
@@ -9025,8 +9025,8 @@
    "properties": {
     "name": "34 DALVEEN ROAD BOLWARRA HEIGHTS 2320",
     "locID": "LOC000069419730",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704177110"
    }
   },
@@ -9077,7 +9077,7 @@
     "name": "40 DALVEEN ROAD BOLWARRA HEIGHTS 2320",
     "locID": "LOC000065212776",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704177113"
    }
   },
@@ -11952,6 +11952,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715672617"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.58102433,
+     -32.69643524
+    ]
+   },
+   "properties": {
+    "name": "2 BERRINDA CLOSE BOLWARRA HEIGHTS 2320",
+    "locID": "LOC000054024360",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW715672618"
    }
   },
   {
@@ -15376,23 +15393,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.58102328,
-     -32.69645762
-    ]
-   },
-   "properties": {
-    "name": "2A BERRINDA CLOSE BOLWARRA HEIGHTS 2320",
-    "locID": "LOC000054024360",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717293515"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.57620433,
      -32.69874196
     ]
@@ -15417,8 +15417,8 @@
    "properties": {
     "name": "1 HUNTERGLEN DRIVE BOLWARRA HEIGHTS 2320",
     "locID": "LOC000029530884",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717300715"
    }
   },
@@ -17355,8 +17355,8 @@
    "properties": {
     "name": "193 BOLWARRA PARK DRIVE BOLWARRA HEIGHTS 2320",
     "locID": "LOC000115393702",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718224001"
    }
   },
@@ -18461,7 +18461,7 @@
     "name": "146 BOLWARRA PARK DRIVE BOLWARRA HEIGHTS 2320",
     "locID": "LOC000150603292",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718555052"
    }
   },
@@ -18631,7 +18631,7 @@
     "name": "161 BOLWARRA PARK DRIVE BOLWARRA HEIGHTS 2320",
     "locID": "LOC000150518057",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718555062"
    }
   },
@@ -20323,8 +20323,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.59514762,
-     -32.70004713
+     151.59514152,
+     -32.70009046
     ]
    },
    "properties": {
