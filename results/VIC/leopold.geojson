@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T02:39:11.851191",
+ "generated": "2023-09-04T20:28:17.887104",
  "suburb": "LEOPOLD",
  "features": [
   {
@@ -1759,6 +1759,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.46726096,
+     -38.19846102
+    ]
+   },
+   "properties": {
+    "name": "127 ASH ROAD LEOPOLD 3224",
+    "locID": "LOC000124209989",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC411735049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.46594403,
      -38.18878551
     ]
@@ -1810,8 +1827,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.49145606,
-     -38.19500267
+     144.49145609,
+     -38.19500255
     ]
    },
    "properties": {
@@ -1885,8 +1902,8 @@
    "properties": {
     "name": "40 THE COURT LEOPOLD 3224",
     "locID": "LOC000023519390",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC411735914"
    }
   },
@@ -4625,23 +4642,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411759303"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.46243557,
-     -38.17717228
-    ]
-   },
-   "properties": {
-    "name": "10 MOSS ROAD LEOPOLD 3224",
-    "locID": "LOC000114613009",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC411759319"
    }
   },
   {
@@ -9960,8 +9960,8 @@
    "properties": {
     "name": "22 CARMICHAEL COURT LEOPOLD 3224",
     "locID": "LOC000041314220",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419645389"
    }
   },
@@ -11099,8 +11099,8 @@
    "properties": {
     "name": "14 CRESTA STREET LEOPOLD 3224",
     "locID": "LOC000069962360",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419647141"
    }
   },
@@ -16182,8 +16182,8 @@
    "properties": {
     "name": "8 CREDO COURT LEOPOLD 3224",
     "locID": "LOC000102051004",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419947210"
    }
   },
@@ -23867,7 +23867,7 @@
     "name": "8 ROSEWORTH CLOSE LEOPOLD 3224",
     "locID": "LOC000079276379",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420337182"
    }
   },
@@ -24631,8 +24631,8 @@
    "properties": {
     "name": "28 CARMICHAEL COURT LEOPOLD 3224",
     "locID": "LOC000154043742",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420443843"
    }
   },
@@ -25226,8 +25226,8 @@
    "properties": {
     "name": "33 MYUNA STREET LEOPOLD 3224",
     "locID": "LOC000028853035",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420538178"
    }
   },
@@ -25550,7 +25550,7 @@
     "name": "783 BELLARINE HIGHWAY LEOPOLD 3224",
     "locID": "LOC000092006663",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420539294"
    }
   },
@@ -25702,8 +25702,8 @@
    "properties": {
     "name": "3 GRANGE COURT LEOPOLD 3224",
     "locID": "LOC000079249921",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420540130"
    }
   },
@@ -26620,8 +26620,8 @@
    "properties": {
     "name": "10 LONGVIEW AVENUE LEOPOLD 3224",
     "locID": "LOC000072020185",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420542720"
    }
   },
@@ -29187,8 +29187,8 @@
    "properties": {
     "name": "5 GLENGARWYN ROAD LEOPOLD 3224",
     "locID": "LOC000040674893",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420555728"
    }
   },
@@ -31772,7 +31772,7 @@
     "name": "21 WARRAWEE ROAD LEOPOLD 3224",
     "locID": "LOC000107860587",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420832828"
    }
   },
@@ -37331,7 +37331,7 @@
     "name": "12 HEYWOOD COURT LEOPOLD 3224",
     "locID": "LOC000008028249",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420964382"
    }
   },
@@ -47853,8 +47853,8 @@
    "properties": {
     "name": "18 CRESTA STREET LEOPOLD 3224",
     "locID": "LOC000047211402",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421475607"
    }
   },
@@ -53548,8 +53548,8 @@
    "properties": {
     "name": "4 KANOWNA COURT LEOPOLD 3224",
     "locID": "LOC000035177070",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421766627"
    }
   },
@@ -55282,8 +55282,8 @@
    "properties": {
     "name": "32 NORTHVIEW DRIVE LEOPOLD 3224",
     "locID": "LOC000051745451",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421952690"
    }
   },
@@ -66342,23 +66342,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.46227687,
-     -38.17751386
-    ]
-   },
-   "properties": {
-    "name": "2-10 MOSS ROAD LEOPOLD 3224",
-    "locID": "LOC000114613009",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424362426"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.47763417,
      -38.17478642
     ]
@@ -72724,8 +72707,8 @@
    "properties": {
     "name": "19 EBBTIDE DRIVE LEOPOLD 3224",
     "locID": "LOC000114270476",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424715147"
    }
   },
@@ -75971,8 +75954,8 @@
    "properties": {
     "name": "8 SHOALING DRIVE LEOPOLD 3224",
     "locID": "LOC000114993839",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424722015"
    }
   },
@@ -78946,8 +78929,8 @@
    "properties": {
     "name": "15 TISPA DRIVE LEOPOLD 3224",
     "locID": "LOC000114945115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424796061"
    }
   },
@@ -79847,8 +79830,8 @@
    "properties": {
     "name": "17 BARNEY GROVE LEOPOLD 3224",
     "locID": "LOC000124161189",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424872673"
    }
   },
@@ -100587,8 +100570,8 @@
    "properties": {
     "name": "UNIT 1, 3 GRANGE COURT LEOPOLD 3224",
     "locID": "LOC000079249921",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719748584"
    }
   },
@@ -110185,16 +110168,16 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.45600924,
-     -38.18731636
+     144.47088627,
+     -38.19941749
     ]
    },
    "properties": {
-    "name": "SHOP 5, 670-678 BELLARINE HIGHWAY LEOPOLD 3224",
-    "locID": "LOC000114386314",
-    "tech": "FTTN",
+    "name": "103-109 ASH ROAD LEOPOLD 3224",
+    "locID": "LOC000124209989",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721254657"
+    "gnaf_pid": "GAVIC721286172"
    }
   },
   {
@@ -110202,16 +110185,16 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.45600924,
-     -38.18731636
+     144.46427347,
+     -38.20043204
     ]
    },
    "properties": {
-    "name": "670-678 BELLARINE HIGHWAY LEOPOLD 3224",
-    "locID": "LOC000191296125",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255699"
+    "name": "10A ELDORIS AVENUE LEOPOLD 3224",
+    "locID": "ChIJAxsFYEI-1GoRqNWx1KpF-e0",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293702"
    }
   },
   {
@@ -110219,16 +110202,985 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.45600924,
-     -38.18731636
+     144.46709152,
+     -38.19929147
     ]
    },
    "properties": {
-    "name": "SHOP 1, 670-678 BELLARINE HIGHWAY LEOPOLD 3224",
-    "locID": "LOC000191296187",
+    "name": "111-127 ASH ROAD LEOPOLD 3224",
+    "locID": "ChIJtxPO4Wc-1GoRCC43XHwZQT4",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328284"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 49, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328285"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328360"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 29, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328361"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 23, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328362"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 57, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328363"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 17, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328386"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328397"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 22, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328422"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 41, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 27, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 38, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328434"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 35, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328502"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 55, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328503"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 31, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 52, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328555"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 54, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 15, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 62, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328631"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 58, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328647"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 48, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328648"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 50, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328649"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 20, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 21, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328652"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 18, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328653"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 30, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.47556603,
+     -38.19465722
+    ]
+   },
+   "properties": {
+    "name": "97 OPAL DRIVE LEOPOLD 3224",
+    "locID": "LOC000190776708",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256724"
+    "gnaf_pid": "GAVIC721328786"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 33, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328787"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 34, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328788"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 14, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 60, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 26, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328791"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 32, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 16, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328853"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.47556603,
+     -38.19465722
+    ]
+   },
+   "properties": {
+    "name": "99 OPAL DRIVE LEOPOLD 3224",
+    "locID": "LOC000190776708",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721328936"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 59, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328937"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 37, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328938"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 36, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328939"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 19, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328940"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 39, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328941"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 56, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 53, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328949"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329047"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 24, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329048"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329111"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329112"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 47, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 40, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329207"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 25, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329228"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329308"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 61, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.46293951,
+     -38.17464692
+    ]
+   },
+   "properties": {
+    "name": "UNIT 51, 711 PORTARLINGTON ROAD LEOPOLD 3224",
+    "locID": "ChIJ3WNltts91GoR_wLrptf0v1A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721329311"
    }
   }
  ]
