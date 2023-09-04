@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T07:13:48.112603",
+ "generated": "2023-09-04T03:12:53.462582",
  "suburb": "KANWAL",
  "features": [
   {
@@ -13004,7 +13004,7 @@
     "name": "65 WALKER AVENUE KANWAL 2259",
     "locID": "LOC000010989737",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705052690"
    }
   },
@@ -13870,8 +13870,8 @@
    "properties": {
     "name": "12 DEAN AVENUE KANWAL 2259",
     "locID": "LOC000029702212",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705054243"
    }
   },
@@ -15740,8 +15740,8 @@
    "properties": {
     "name": "57 AVONDALE DRIVE KANWAL 2259",
     "locID": "LOC000104104332",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705055642"
    }
   },
@@ -19379,7 +19379,7 @@
     "name": "1 GIBSON CLOSE KANWAL 2259",
     "locID": "LOC000015023790",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705062823"
    }
   },
@@ -38574,6 +38574,91 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721261260"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.49318342,
+     -33.26145465
+    ]
+   },
+   "properties": {
+    "name": "5A DONALD AVENUE KANWAL 2259",
+    "locID": "ChIJ_Xt5YorQcmsRhtkXvj7ER1Q",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721327011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.49144755,
+     -33.26048369
+    ]
+   },
+   "properties": {
+    "name": "17A PHYLLIS AVENUE KANWAL 2259",
+    "locID": "ChIJF0TrwIrQcmsRrovGVlVll-w",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721327998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.48122598,
+     -33.26703111
+    ]
+   },
+   "properties": {
+    "name": "UNIT 124, 2 PEARCE ROAD KANWAL 2259",
+    "locID": "LOC000144267797",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.48734533,
+     -33.2652592
+    ]
+   },
+   "properties": {
+    "name": "56A SWAN STREET KANWAL 2259",
+    "locID": "ChIJ7TOfYl7QcmsRZ7yVI2fBi1I",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329736"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.49312678,
+     -33.25735413
+    ]
+   },
+   "properties": {
+    "name": "63A PHYLLIS AVENUE KANWAL 2259",
+    "locID": "ChIJtaZnf4vQcmsRdkEOZ2nR3U0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331803"
    }
   }
  ]

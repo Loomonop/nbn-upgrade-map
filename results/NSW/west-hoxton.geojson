@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T07:24:29.643614",
+ "generated": "2023-09-04T03:23:23.929736",
  "suburb": "WEST HOXTON",
  "features": [
   {
@@ -1494,8 +1494,8 @@
    "properties": {
     "name": "5 FOSTER CLOSE WEST HOXTON 2171",
     "locID": "LOC000007283245",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706244271"
    }
   },
@@ -2378,8 +2378,8 @@
    "properties": {
     "name": "8 BICHENO CLOSE WEST HOXTON 2171",
     "locID": "LOC000032266146",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706244547"
    }
   },
@@ -2719,7 +2719,7 @@
     "name": "57 GREENWAY DRIVE WEST HOXTON 2171",
     "locID": "LOC000095797752",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706244579"
    }
   },
@@ -9688,8 +9688,8 @@
    "properties": {
     "name": "27 LAUDERDALE STREET WEST HOXTON 2171",
     "locID": "LOC000080009907",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706254226"
    }
   },
@@ -12698,7 +12698,7 @@
     "name": "1 GRETNA CLOSE WEST HOXTON 2171",
     "locID": "LOC000070274770",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706254795"
    }
   },
@@ -13377,8 +13377,8 @@
    "properties": {
     "name": "5 REDPA CLOSE WEST HOXTON 2171",
     "locID": "LOC000026382100",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706258110"
    }
   },
@@ -14891,7 +14891,7 @@
     "name": "9 DOWLING STREET WEST HOXTON 2171",
     "locID": "LOC000032928975",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706258385"
    }
   },
@@ -17237,7 +17237,7 @@
     "name": "130 CARMICHAEL DRIVE WEST HOXTON 2171",
     "locID": "LOC000060914178",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706262159"
    }
   },
@@ -20364,8 +20364,8 @@
    "properties": {
     "name": "12 ST HELENS CLOSE WEST HOXTON 2171",
     "locID": "LOC000101134196",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706267287"
    }
   },
@@ -24019,8 +24019,8 @@
    "properties": {
     "name": "12 SALISBURY COURT WEST HOXTON 2171",
     "locID": "LOC000062847134",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706276415"
    }
   },
@@ -24648,8 +24648,8 @@
    "properties": {
     "name": "5 ALT CLOSE WEST HOXTON 2171",
     "locID": "LOC000036735314",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706278314"
    }
   },
@@ -25464,8 +25464,8 @@
    "properties": {
     "name": "14 HERRICK CLOSE WEST HOXTON 2171",
     "locID": "LOC000056129003",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706278363"
    }
   },
@@ -27164,8 +27164,8 @@
    "properties": {
     "name": "24 ST MARYS STREET WEST HOXTON 2171",
     "locID": "LOC000003899116",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706282144"
    }
   },
@@ -29357,8 +29357,8 @@
    "properties": {
     "name": "7 JULIA CLOSE WEST HOXTON 2171",
     "locID": "LOC000055991462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706288339"
    }
   },
@@ -30006,6 +30006,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706288561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.84010338,
+     -33.93685743
+    ]
+   },
+   "properties": {
+    "name": "2 ARCHER WAY WEST HOXTON 2171",
+    "locID": "LOC000039554425",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW706288562"
    }
   },
   {
@@ -30904,8 +30921,8 @@
    "properties": {
     "name": "22 GREENWAY DRIVE WEST HOXTON 2171",
     "locID": "LOC000106081430",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706288618"
    }
   },
@@ -31363,8 +31380,8 @@
    "properties": {
     "name": "20 MITCHELL DRIVE WEST HOXTON 2171",
     "locID": "LOC000092106205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706288669"
    }
   },
@@ -32078,7 +32095,7 @@
     "name": "10 CASCADES CLOSE WEST HOXTON 2171",
     "locID": "LOC000087293188",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706292153"
    }
   },
@@ -33199,8 +33216,8 @@
    "properties": {
     "name": "14 SWANSEA PLACE WEST HOXTON 2171",
     "locID": "LOC000083660444",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706292426"
    }
   },
@@ -33574,7 +33591,7 @@
     "name": "4 TENCH WAY WEST HOXTON 2171",
     "locID": "LOC000003753168",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706292452"
    }
   },
@@ -40866,8 +40883,8 @@
    "properties": {
     "name": "8 WINGATE AVENUE WEST HOXTON 2171",
     "locID": "LOC000061304644",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716766197"
    }
   },
@@ -42022,8 +42039,8 @@
    "properties": {
     "name": "27 WINGATE AVENUE WEST HOXTON 2171",
     "locID": "LOC000086574646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716889273"
    }
   },
@@ -43365,8 +43382,8 @@
    "properties": {
     "name": "226 CARMICHAEL DRIVE WEST HOXTON 2171",
     "locID": "LOC000079178960",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716989884"
    }
   },
@@ -44470,8 +44487,8 @@
    "properties": {
     "name": "20 PROUT STREET WEST HOXTON 2171",
     "locID": "LOC000024024358",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717131721"
    }
   },
@@ -46391,8 +46408,8 @@
    "properties": {
     "name": "59 WAINEWRIGHT AVENUE WEST HOXTON 2171",
     "locID": "LOC000062973748",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717664246"
    }
   },
@@ -51229,142 +51246,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "68 BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "ChIJ7bfmfi2TEmsRe75hciskVmw",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW719387909"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "64A BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "ChIJ7bfmfi2TEmsRES9JCvXaB2A",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW719388495"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "36 BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "LOC000192701721",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719388498"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "10 BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "ChIJ7bfmfi2TEmsRW-Vg34Ox4bw",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW719390211"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "90 BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "Ei85MCBCcmluZ2VsbHkgUmQsIExlcHBpbmd0b24gTlNXIDIxNzksIEF1c3RyYWxpYSIwEi4KFAoSCU__HuwzkxJrESPB8HydAVyEEFoqFAoSCQMy73pL7RJrEbJTJtK1uw7f",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW719390738"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "70 BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "Ei83MCBCcmluZ2VsbHkgUmQsIExlcHBpbmd0b24gTlNXIDIxNzksIEF1c3RyYWxpYSIwEi4KFAoSCU__HuwzkxJrESPB8HydAVyEEEYqFAoSCQMy73pL7RJrEbJTJtK1uw7f",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW719391253"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "14 BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "LOC000120355880",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW719392275"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.82578811,
-     -33.95194516
-    ]
-   },
-   "properties": {
-    "name": "30 BRINGELLY ROAD WEST HOXTON 2171",
-    "locID": "LOC000073589347",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW719392331"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.83698586,
      -33.93385109
     ]
@@ -51654,8 +51535,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.84481179,
-     -33.93039544
+     150.84482758,
+     -33.93032022
     ]
    },
    "properties": {
@@ -51732,6 +51613,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721006785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.8447545,
+     -33.93067927
+    ]
+   },
+   "properties": {
+    "name": "101 CARMICHAEL DRIVE WEST HOXTON 2171",
+    "locID": "LOC000191895608",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323099"
    }
   }
  ]
