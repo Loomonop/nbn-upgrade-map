@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T13:07:59.810637",
+ "generated": "2023-09-04T07:48:22.367016",
  "suburb": "ELEEBANA",
  "features": [
   {
@@ -3602,8 +3602,8 @@
    "properties": {
     "name": "4 DWYER CHASE ELEEBANA 2282",
     "locID": "LOC000108325730",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704666328"
    }
   },
@@ -3619,8 +3619,8 @@
    "properties": {
     "name": "5 DWYER CHASE ELEEBANA 2282",
     "locID": "LOC000062107897",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704666329"
    }
   },
@@ -3799,8 +3799,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.63988701,
-     -32.98805269
+     151.63988828,
+     -32.9879864
     ]
    },
    "properties": {
@@ -9383,7 +9383,7 @@
     "name": "8 HERMITAGE CLOSE ELEEBANA 2282",
     "locID": "LOC000082250764",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704670507"
    }
   },
@@ -12357,8 +12357,8 @@
    "properties": {
     "name": "9 CLARE CLOSE ELEEBANA 2282",
     "locID": "LOC000098396522",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704672738"
    }
   },
@@ -13819,8 +13819,8 @@
    "properties": {
     "name": "65 SEAVIEW CLOSE ELEEBANA 2282",
     "locID": "LOC000023797240",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704673814"
    }
   },
@@ -14244,8 +14244,8 @@
    "properties": {
     "name": "4 CIMARRON CLOSE ELEEBANA 2282",
     "locID": "LOC000074704777",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704673841"
    }
   },
@@ -15808,8 +15808,8 @@
    "properties": {
     "name": "6 YALUMBA CLOSE ELEEBANA 2282",
     "locID": "LOC000055836391",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704674166"
    }
   },
@@ -18851,8 +18851,8 @@
    "properties": {
     "name": "23 RIDGEWOOD CRESCENT ELEEBANA 2282",
     "locID": "LOC000013705985",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704677908"
    }
   },
@@ -19463,8 +19463,8 @@
    "properties": {
     "name": "4 TOOHEY COVE ELEEBANA 2282",
     "locID": "LOC000100809063",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704678195"
    }
   },
@@ -22558,7 +22558,7 @@
     "name": "25 GROVELAKE CLOSE ELEEBANA 2282",
     "locID": "LOC000068842986",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704680452"
    }
   },
@@ -25498,8 +25498,8 @@
    "properties": {
     "name": "117 GLAD GUNSON DRIVE ELEEBANA 2282",
     "locID": "LOC000109889387",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704682013"
    }
   },
@@ -31448,8 +31448,8 @@
    "properties": {
     "name": "30 SEAVIEW CLOSE ELEEBANA 2282",
     "locID": "LOC000049121391",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704686341"
    }
   },
@@ -33522,8 +33522,8 @@
    "properties": {
     "name": "75 SEAVIEW CLOSE ELEEBANA 2282",
     "locID": "LOC000107458568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704688954"
    }
   },
@@ -34637,8 +34637,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.65679245,
-     -32.98840848
+     151.65676555,
+     -32.98831309
     ]
    },
    "properties": {
@@ -34654,8 +34654,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.65679245,
-     -32.98840848
+     151.65671797,
+     -32.98851296
     ]
    },
    "properties": {
@@ -43810,6 +43810,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721262536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.63741869,
+     -32.9890187
+    ]
+   },
+   "properties": {
+    "name": "630 MACQUARIE DRIVE ELEEBANA 2282",
+    "locID": "ChIJzeXoE8I8c2sRaRqJYnfxTfM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316524"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.6508635,
+     -32.9865825
+    ]
+   },
+   "properties": {
+    "name": "68A JONATHAN STREET ELEEBANA 2282",
+    "locID": "LOC000191089608",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331102"
    }
   }
  ]

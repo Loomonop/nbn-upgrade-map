@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T13:11:28.198082",
+ "generated": "2023-09-04T07:52:09.076729",
  "suburb": "FINGAL BAY",
  "features": [
   {
@@ -1664,8 +1664,8 @@
    "properties": {
     "name": "15 AMAROO CRESCENT FINGAL BAY 2315",
     "locID": "LOC000089021904",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704744352"
    }
   },
@@ -19226,7 +19226,7 @@
     "name": "14 FARM ROAD FINGAL BAY 2315",
     "locID": "LOC000030554509",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716313385"
    }
   },
@@ -31621,6 +31621,57 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721178684"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.16966558,
+     -32.75143223
+    ]
+   },
+   "properties": {
+    "name": "44D SQUIRE STREET FINGAL BAY 2315",
+    "locID": "ChIJ9fzAMXaEc2sRi3byGRc3x-Y",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318471"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.16979841,
+     -32.75142651
+    ]
+   },
+   "properties": {
+    "name": "44C SQUIRE STREET FINGAL BAY 2315",
+    "locID": "ChIJzbMFMXaEc2sRD4s-f9JikW0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721324684"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.1695293,
+     -32.75149023
+    ]
+   },
+   "properties": {
+    "name": "44E SQUIRE STREET FINGAL BAY 2315",
+    "locID": "ChIJ0zEILnaEc2sRE3d4xim_uXE",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326401"
    }
   }
  ]

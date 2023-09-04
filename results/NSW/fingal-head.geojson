@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T12:42:17.550526",
+ "generated": "2023-09-04T07:21:23.033318",
  "suburb": "FINGAL HEAD",
  "features": [
   {
@@ -83,8 +83,8 @@
    "properties": {
     "name": "31 FINGAL ROAD FINGAL HEAD 2487",
     "locID": "LOC000028071052",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704744485"
    }
   },
@@ -661,8 +661,8 @@
    "properties": {
     "name": "44 MAIN ROAD FINGAL HEAD 2487",
     "locID": "LOC000048365365",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704758495"
    }
   },
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "16 QUEEN STREET FINGAL HEAD 2487",
     "locID": "LOC000101374530",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704762893"
    }
   },
@@ -1733,7 +1733,7 @@
     "name": "35 FINGAL ROAD FINGAL HEAD 2487",
     "locID": "LOC000113378989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704763320"
    }
   },
@@ -2191,8 +2191,8 @@
    "properties": {
     "name": "59 FINGAL ROAD FINGAL HEAD 2487",
     "locID": "LOC000032291302",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704763347"
    }
   },
@@ -3085,6 +3085,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.56663887,
+     -28.20551456
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 20 LAGOON ROAD FINGAL HEAD 2487",
+    "locID": "LOC000098395597",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW704765965"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56663887,
+     -28.20551456
+    ]
+   },
+   "properties": {
+    "name": "22 LAGOON ROAD FINGAL HEAD 2487",
+    "locID": "LOC000193539119",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704765966"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.56662043,
      -28.20572183
     ]
@@ -3755,8 +3789,8 @@
    "properties": {
     "name": "2 CHITTICKS LANE FINGAL HEAD 2487",
     "locID": "LOC000018058198",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704769268"
    }
   },
@@ -3908,8 +3942,8 @@
    "properties": {
     "name": "12 DUNE STREET FINGAL HEAD 2487",
     "locID": "LOC000062055426",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704769277"
    }
   },
@@ -4149,6 +4183,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704769322"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56663887,
+     -28.20551456
+    ]
+   },
+   "properties": {
+    "name": "20 LAGOON ROAD FINGAL HEAD 2487",
+    "locID": "LOC000098395597",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW707509263"
    }
   },
   {
@@ -4752,7 +4803,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -5065,7 +5116,7 @@
     "name": "UNIT 2, 35 FINGAL ROAD FINGAL HEAD 2487",
     "locID": "LOC000113378989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717625525"
    }
   },
@@ -5227,8 +5278,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.56648928,
-     -28.19979412
+     153.56648929,
+     -28.19979413
     ]
    },
    "properties": {
@@ -5550,8 +5601,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.5670878,
-     -28.20206798
+     153.56701213,
+     -28.2018746
     ]
    },
    "properties": {
@@ -5584,8 +5635,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.5670878,
-     -28.20206798
+     153.56701213,
+     -28.2018746
     ]
    },
    "properties": {
@@ -5857,7 +5908,7 @@
     "type": "Point",
     "coordinates": [
      153.56701213,
-     -28.20187459
+     -28.2018746
     ]
    },
    "properties": {
@@ -5874,7 +5925,7 @@
     "type": "Point",
     "coordinates": [
      153.56701213,
-     -28.20187459
+     -28.2018746
     ]
    },
    "properties": {
@@ -5891,7 +5942,7 @@
     "type": "Point",
     "coordinates": [
      153.56701213,
-     -28.20187459
+     -28.2018746
     ]
    },
    "properties": {
@@ -5982,8 +6033,8 @@
    "properties": {
     "name": "3 BAMBERY STREET FINGAL HEAD 2487",
     "locID": "LOC000044061014",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717999634"
    }
   },
@@ -6119,7 +6170,7 @@
     "name": "UNIT 1, 35 FINGAL ROAD FINGAL HEAD 2487",
     "locID": "LOC000113378989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718176934"
    }
   },
@@ -6323,7 +6374,7 @@
     "name": "UNIT 3, 35 FINGAL ROAD FINGAL HEAD 2487",
     "locID": "LOC000113378989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718777607"
    }
   },
@@ -6340,7 +6391,7 @@
     "name": "UNIT 4, 35 FINGAL ROAD FINGAL HEAD 2487",
     "locID": "LOC000113378989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718777608"
    }
   },
@@ -6469,7 +6520,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6486,7 +6537,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6503,7 +6554,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6520,7 +6571,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6537,7 +6588,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6554,7 +6605,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6571,7 +6622,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6588,7 +6639,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6605,7 +6656,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6622,7 +6673,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6639,7 +6690,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6656,7 +6707,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6673,7 +6724,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6690,7 +6741,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6707,7 +6758,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6724,7 +6775,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6741,7 +6792,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6758,7 +6809,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6775,7 +6826,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6792,7 +6843,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6809,7 +6860,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6826,7 +6877,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6843,7 +6894,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6860,7 +6911,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6877,7 +6928,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6894,7 +6945,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6911,7 +6962,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -6928,7 +6979,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -7132,7 +7183,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -7183,7 +7234,7 @@
     "type": "Point",
     "coordinates": [
      153.56534315,
-     -28.19588312
+     -28.19588313
     ]
    },
    "properties": {
@@ -7192,6 +7243,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721261590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.56724457,
+     -28.20206041
+    ]
+   },
+   "properties": {
+    "name": "12A BAMBERY STREET FINGAL HEAD 2487",
+    "locID": "ChIJJdxAve3_kGsRf_Wv68-iySc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316099"
    }
   }
  ]
