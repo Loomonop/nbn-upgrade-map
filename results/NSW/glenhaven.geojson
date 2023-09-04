@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T21:40:36.847260",
+ "generated": "2023-09-04T15:57:25.656262",
  "suburb": "GLENHAVEN",
  "features": [
   {
@@ -7496,7 +7496,7 @@
     "name": "422 OLD NORTHERN ROAD GLENHAVEN 2156",
     "locID": "LOC000040074645",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704826219"
    }
   },
@@ -33991,23 +33991,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.01149692,
-     -33.70567852
-    ]
-   },
-   "properties": {
-    "name": "444 OLD NORTHERN ROAD GLENHAVEN 2156",
-    "locID": "ChIJ2X7EGvCgEmsR__oTP3RHMdE",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW717581220"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.01242331,
      -33.71067401
     ]
@@ -43086,6 +43069,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.01149692,
+     -33.70567853
+    ]
+   },
+   "properties": {
+    "name": "R444 OLD NORTHERN ROAD GLENHAVEN 2156",
+    "locID": "ChIJJ9zbB_CgEmsRbdMsQaQHZOM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW720262156"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.00553817,
      -33.70234754
     ]
@@ -43810,6 +43810,40 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721044133"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.00091898,
+     -33.69458219
+    ]
+   },
+   "properties": {
+    "name": "3A OLD GLENHAVEN ROAD GLENHAVEN 2156",
+    "locID": "ChIJqbOAY_WgEmsRCvQZ3su2khk",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.99033419,
+     -33.69848814
+    ]
+   },
+   "properties": {
+    "name": "2B TEMORA ROAD GLENHAVEN 2156",
+    "locID": "ChIJBY2vwlqgEmsR7Mdp7SFB01I",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330496"
    }
   }
  ]
