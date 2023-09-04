@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T23:41:43.327911",
+ "generated": "2023-09-04T17:47:58.289436",
  "suburb": "WEST WYALONG",
  "features": [
   {
@@ -10862,7 +10862,7 @@
     "name": "141 MAIN STREET WEST WYALONG 2671",
     "locID": "LOC000060036338",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706286947"
    }
   },
@@ -17348,8 +17348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.21809441,
-     -33.90989445
+     147.22151247,
+     -33.9094067
     ]
    },
    "properties": {
@@ -33862,7 +33862,7 @@
    "properties": {
     "name": "201 WINTERS LANE WEST WYALONG 2671",
     "locID": "ChIJKY37Ap1aGWsRLGK9PQt0vvE",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718365064"
    }
@@ -36908,6 +36908,40 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721240454"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.19601562,
+     -33.91617057
+    ]
+   },
+   "properties": {
+    "name": "70A UNGARIE ROAD WEST WYALONG 2671",
+    "locID": "ChIJLW5MClRfGWsR-tSiLdW4igs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316460"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.2194352,
+     -33.93280566
+    ]
+   },
+   "properties": {
+    "name": "68-74 CENTRAL ROAD WEST WYALONG 2671",
+    "locID": "ChIJddnTU2lfGWsRw1TkSkL1BSA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323763"
    }
   }
  ]
