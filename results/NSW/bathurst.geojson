@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T09:13:43.872121",
+ "generated": "2023-09-04T05:05:10.065761",
  "suburb": "BATHURST",
  "features": [
   {
@@ -2565,8 +2565,8 @@
    "properties": {
     "name": "171 HOWICK STREET BATHURST 2795",
     "locID": "LOC000098564574",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704032270"
    }
   },
@@ -13004,7 +13004,7 @@
     "name": "347 RUSSELL STREET BATHURST 2795",
     "locID": "LOC000037318169",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704034573"
    }
   },
@@ -16166,7 +16166,7 @@
     "name": "169 SEYMOUR STREET BATHURST 2795",
     "locID": "LOC000046498753",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704035078"
    }
   },
@@ -16335,8 +16335,8 @@
    "properties": {
     "name": "139 STEWART STREET BATHURST 2795",
     "locID": "LOC000059459280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704035134"
    }
   },
@@ -21479,8 +21479,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     149.57571249,
-     -33.42734698
+     149.57575841,
+     -33.42738326
     ]
    },
    "properties": {
@@ -21639,8 +21639,8 @@
    "properties": {
     "name": "214 SEYMOUR STREET BATHURST 2795",
     "locID": "LOC000003181554",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704035869"
    }
   },
@@ -36344,7 +36344,7 @@
    "properties": {
     "name": "350 STEWART STREET BATHURST 2795",
     "locID": "LOC000191712320",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704038592"
    }
@@ -56931,8 +56931,8 @@
    "properties": {
     "name": "127 STEWART STREET BATHURST 2795",
     "locID": "LOC000068555042",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704044871"
    }
   },
@@ -57323,7 +57323,7 @@
     "name": "196 BRILLIANT STREET BATHURST 2795",
     "locID": "LOC000016330867",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704044941"
    }
   },
@@ -95277,7 +95277,7 @@
     "type": "Point",
     "coordinates": [
      149.57152731,
-     -33.42308511
+     -33.42308512
     ]
    },
    "properties": {
@@ -95294,7 +95294,7 @@
     "type": "Point",
     "coordinates": [
      149.57152731,
-     -33.42308511
+     -33.42308512
     ]
    },
    "properties": {
@@ -102273,6 +102273,74 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721270371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.57561938,
+     -33.42727872
+    ]
+   },
+   "properties": {
+    "name": "184A SEYMOUR STREET BATHURST 2795",
+    "locID": "LOC000037198365",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316202"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.58218939,
+     -33.40834971
+    ]
+   },
+   "properties": {
+    "name": "33A STEWART STREET BATHURST 2795",
+    "locID": "LOC000192264317",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721320746"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.57550643,
+     -33.4164317
+    ]
+   },
+   "properties": {
+    "name": "158A RANKIN STREET BATHURST 2795",
+    "locID": "LOC000185226656",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.58086995,
+     -33.42274818
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 37 KEPPEL STREET BATHURST 2795",
+    "locID": "LOC000082696505",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721330407"
    }
   }
  ]
