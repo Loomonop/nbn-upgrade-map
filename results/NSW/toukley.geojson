@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T11:47:08.845854",
+ "generated": "2023-09-04T06:29:36.568682",
  "suburb": "TOUKLEY",
  "features": [
   {
@@ -4095,8 +4095,8 @@
    "properties": {
     "name": "73 LEONARD AVENUE TOUKLEY 2263",
     "locID": "LOC000047235992",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706081802"
    }
   },
@@ -10181,8 +10181,8 @@
    "properties": {
     "name": "14 VICTORIA AVENUE TOUKLEY 2263",
     "locID": "LOC000057122734",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706087968"
    }
   },
@@ -16073,23 +16073,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.54228268,
-     -33.26491841
-    ]
-   },
-   "properties": {
-    "name": "43-45 VICTORIA AVENUE TOUKLEY 2263",
-    "locID": "ChIJp8GjpVzacmsRvcXVmLEF5iM",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW706094719"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.54168333,
      -33.26531387
     ]
@@ -17484,8 +17467,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.54652895,
-     -33.25949084
+     151.54660505,
+     -33.25950468
     ]
    },
    "properties": {
@@ -19838,7 +19821,7 @@
     "name": "18 BEACHCOMBER PARADE TOUKLEY 2263",
     "locID": "LOC000013969761",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706104835"
    }
   },
@@ -21367,8 +21350,8 @@
    "properties": {
     "name": "30 VICTORIA AVENUE TOUKLEY 2263",
     "locID": "LOC000092468409",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706105000"
    }
   },
@@ -22227,8 +22210,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.5391767,
-     -33.26640805
+     151.53917127,
+     -33.26643796
     ]
    },
    "properties": {
@@ -28966,8 +28949,8 @@
    "properties": {
     "name": "10 EIGHTH AVENUE TOUKLEY 2263",
     "locID": "LOC000013158339",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706118411"
    }
   },
@@ -32978,8 +32961,8 @@
    "properties": {
     "name": "1 ELDEN STREET TOUKLEY 2263",
     "locID": "LOC000120599032",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706125172"
    }
   },
@@ -49690,7 +49673,7 @@
     "name": "18 YARALLA ROAD TOUKLEY 2263",
     "locID": "LOC000043415675",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718078593"
    }
   },
@@ -54561,23 +54544,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.54660504,
-     -33.25950467
-    ]
-   },
-   "properties": {
-    "name": "22B SECOND AVENUE TOUKLEY 2263",
-    "locID": "LOC000076232147",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721171567"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.54643068,
      -33.25948147
     ]
@@ -54673,6 +54639,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721261522"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.54228251,
+     -33.26491839
+    ]
+   },
+   "properties": {
+    "name": "47 VICTORIA AVENUE TOUKLEY 2263",
+    "locID": "ChIJLX-ipVzacmsRwpt1H9JD8g4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721315700"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.53918258,
+     -33.26637268
+    ]
+   },
+   "properties": {
+    "name": "6A PEARCE AVENUE TOUKLEY 2263",
+    "locID": "LOC000193487716",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721321334"
    }
   }
  ]

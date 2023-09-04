@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T11:52:45.788156",
+ "generated": "2023-09-04T06:34:08.103078",
  "suburb": "BEVERLY HILLS",
  "features": [
   {
@@ -2888,8 +2888,8 @@
    "properties": {
     "name": "7 TOORAK AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000016812160",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704099430"
    }
   },
@@ -4554,7 +4554,7 @@
    "properties": {
     "name": "508-514 KING GEORGES ROAD BEVERLY HILLS 2209",
     "locID": "ChIJK1ev2G-5EmsRYJq1ZvUXIMA",
-    "tech": "FTTN",
+    "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704100065"
    }
@@ -14024,7 +14024,7 @@
     "name": "12 BERESFORD AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000065135729",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704102624"
    }
   },
@@ -18851,8 +18851,8 @@
    "properties": {
     "name": "13 EDGBASTON ROAD BEVERLY HILLS 2209",
     "locID": "LOC000053396299",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704104293"
    }
   },
@@ -20433,7 +20433,7 @@
     "name": "46 STONEY CREEK ROAD BEVERLY HILLS 2209",
     "locID": "LOC000078351919",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704104486"
    }
   },
@@ -23254,8 +23254,8 @@
    "properties": {
     "name": "38 ILLAWARRA PARADE BEVERLY HILLS 2209",
     "locID": "LOC000055971553",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704105782"
    }
   },
@@ -25210,7 +25210,7 @@
     "name": "33 JORDAN AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000019949081",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704106605"
    }
   },
@@ -25542,8 +25542,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.07110005,
-     -33.95479078
+     151.07104842,
+     -33.95470861
     ]
    },
    "properties": {
@@ -32060,8 +32060,8 @@
    "properties": {
     "name": "395 KING GEORGES ROAD BEVERLY HILLS 2209",
     "locID": "LOC000095872108",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704108394"
    }
   },
@@ -40927,8 +40927,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09061898,
-     -33.94828109
+     151.09064943,
+     -33.94835166
     ]
    },
    "properties": {
@@ -43919,8 +43919,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.07948143,
-     -33.9533265
+     151.07953415,
+     -33.9534442
     ]
    },
    "properties": {
@@ -45167,8 +45167,8 @@
    "properties": {
     "name": "16 LOADER AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000066213190",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704111033"
    }
   },
@@ -55435,8 +55435,8 @@
    "properties": {
     "name": "72 MELVIN STREET BEVERLY HILLS 2209",
     "locID": "LOC000074534599",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711471858"
    }
   },
@@ -68032,8 +68032,8 @@
    "properties": {
     "name": "29A MOUNTVIEW AVENUE BEVERLY HILLS 2209",
     "locID": "LOC000070220352",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717997005"
    }
   },
@@ -76423,8 +76423,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09064942,
-     -33.94835166
+     151.09061899,
+     -33.9482811
     ]
    },
    "properties": {
@@ -76457,8 +76457,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.07109961,
-     -33.95479135
+     151.07111552,
+     -33.95470718
     ]
    },
    "properties": {
@@ -77800,8 +77800,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.07947681,
-     -33.95332378
+     151.07959363,
+     -33.95341802
     ]
    },
    "properties": {
@@ -79833,6 +79833,108 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721248272"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.07819667,
+     -33.94473353
+    ]
+   },
+   "properties": {
+    "name": "1C PALLAMANA PARADE BEVERLY HILLS 2209",
+    "locID": "ChIJWzoQT2S5EmsR2-784yEWKzU",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721315379"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.07819667,
+     -33.94473353
+    ]
+   },
+   "properties": {
+    "name": "1B PALLAMANA PARADE BEVERLY HILLS 2209",
+    "locID": "LOC000088111097",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721317694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.08821707,
+     -33.94724741
+    ]
+   },
+   "properties": {
+    "name": "158A MORGAN STREET BEVERLY HILLS 2209",
+    "locID": "LOC000189872324",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329833"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.07872109,
+     -33.94510735
+    ]
+   },
+   "properties": {
+    "name": "30A TARRILLI STREET BEVERLY HILLS 2209",
+    "locID": "ChIJNXDmU2S5EmsRF-PinMwNnEs",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331090"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.07863868,
+     -33.9458969
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 424 KING GEORGES ROAD BEVERLY HILLS 2209",
+    "locID": "LOC000080179780",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331834"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.07705162,
+     -33.94596665
+    ]
+   },
+   "properties": {
+    "name": "23A JORDAN AVENUE BEVERLY HILLS 2209",
+    "locID": "ChIJiydDw2W5EmsRLjTQYApvEjM",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331976"
    }
   }
  ]
