@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T22:30:52.421654",
+ "generated": "2023-09-04T16:41:40.631374",
  "suburb": "PICTON",
  "features": [
   {
@@ -10752,23 +10752,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.60868693,
-     -34.17871086
-    ]
-   },
-   "properties": {
-    "name": "280 ARGYLE STREET PICTON 2571",
-    "locID": "LOC000046936631",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705667345"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.60867932,
      -34.17889891
     ]
@@ -17831,8 +17814,8 @@
    "properties": {
     "name": "16 HEATHCOTE STREET PICTON 2571",
     "locID": "LOC000072239808",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705683641"
    }
   },
@@ -17848,8 +17831,8 @@
    "properties": {
     "name": "17 HEATHCOTE STREET PICTON 2571",
     "locID": "LOC000045255477",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705683642"
    }
   },
@@ -18070,7 +18053,7 @@
     "name": "13 HEATHCOTE STREET PICTON 2571",
     "locID": "LOC000035500431",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705684004"
    }
   },
@@ -39278,8 +39261,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.6134941,
-     -34.17230577
+     150.61354629,
+     -34.17237643
     ]
    },
    "properties": {
@@ -46622,8 +46605,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.61443158,
-     -34.1661226
+     150.61429721,
+     -34.16603003
     ]
    },
    "properties": {
@@ -49148,6 +49131,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721248197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.61365097,
+     -34.17255392
+    ]
+   },
+   "properties": {
+    "name": "89-95 MENANGLE STREET PICTON 2571",
+    "locID": "ChIJBfHTtRH_EmsRHNQ38fRWoFI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721317518"
    }
   }
  ]

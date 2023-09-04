@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T22:37:50.081358",
+ "generated": "2023-09-04T16:48:31.600520",
  "suburb": "LONG BEACH",
  "features": [
   {
@@ -19582,8 +19582,8 @@
    "properties": {
     "name": "38 COURTENAY CRESCENT LONG BEACH 2536",
     "locID": "LOC000052522922",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717889186"
    }
   },
@@ -20330,8 +20330,8 @@
    "properties": {
     "name": "77 COURTENAY CRESCENT LONG BEACH 2536",
     "locID": "LOC000066489148",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717889230"
    }
   },
@@ -20433,7 +20433,7 @@
     "name": "83 COURTENAY CRESCENT LONG BEACH 2536",
     "locID": "LOC000027355591",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717889236"
    }
   },
@@ -23427,6 +23427,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721051125"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.22095922,
+     -35.68605648
+    ]
+   },
+   "properties": {
+    "name": "30 CLYDE VIEW DRIVE LONG BEACH 2536",
+    "locID": "EjAzMCBDbHlkZSBWaWV3IERyLCBMb25nIEJlYWNoIE5TVyAyNTM2LCBBdXN0cmFsaWEiMBIuChQKEgn1g1WNDb8VaxGwj5N0tAkGExAeKhQKEglJctsPDb8VaxE5ek4-Hb0i1Q",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721122682"
    }
   },
   {
