@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T16:15:10.544138",
+ "generated": "2023-09-04T10:50:07.070347",
  "suburb": "SMITHFIELD",
  "features": [
   {
@@ -1392,8 +1392,8 @@
    "properties": {
     "name": "145 NEVILLE STREET SMITHFIELD 2164",
     "locID": "LOC000180841577",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705861818"
    }
   },
@@ -5149,8 +5149,8 @@
    "properties": {
     "name": "194 NEVILLE STREET SMITHFIELD 2164",
     "locID": "LOC000053831029",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705875321"
    }
   },
@@ -11167,8 +11167,8 @@
    "properties": {
     "name": "49 JANE STREET SMITHFIELD 2164",
     "locID": "LOC000099060856",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705885593"
    }
   },
@@ -31669,8 +31669,8 @@
    "properties": {
     "name": "38 EYRE STREET SMITHFIELD 2164",
     "locID": "LOC000102140064",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705923498"
    }
   },
@@ -55589,7 +55589,7 @@
     "name": "UNIT 3, 17-19 PAVESI STREET SMITHFIELD 2164",
     "locID": "LOC000012192830",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706543316"
    }
   },
@@ -55606,7 +55606,7 @@
     "name": "UNIT 2, 17-19 PAVESI STREET SMITHFIELD 2164",
     "locID": "LOC000012241377",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706543317"
    }
   },
@@ -55623,7 +55623,7 @@
     "name": "UNIT 1, 17-19 PAVESI STREET SMITHFIELD 2164",
     "locID": "LOC000012241377",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706543318"
    }
   },
@@ -56390,6 +56390,176 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708378295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000016276349",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378307"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000039029483",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378308"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000016696895",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000016690432",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000016338925",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000016276349",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000016271181",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378313"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000040224640",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378314"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000039624376",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378315"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94099642,
+     -33.85948409
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 16 ALEXANDER STREET SMITHFIELD 2164",
+    "locID": "LOC000040085578",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708378316"
    }
   },
   {
@@ -60766,23 +60936,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000016696895",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711205009"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.93994511,
      -33.85869795
     ]
@@ -61930,7 +62083,7 @@
     "name": "101 WARREN ROAD SMITHFIELD 2164",
     "locID": "LOC000023351390",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711209080"
    }
   },
@@ -61966,159 +62119,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711209085"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 9, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000040085578",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209093"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000040224640",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209099"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000016276349",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209102"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 8, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000039624376",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209105"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 10, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000039029483",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209112"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000016690432",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209121"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000016271181",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209122"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000016338925",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209123"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.94099642,
-     -33.85948409
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 14 ALEXANDER STREET SMITHFIELD 2164",
-    "locID": "LOC000016797692",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW711209125"
    }
   },
   {
@@ -69002,7 +69002,7 @@
     "name": "UNIT 2A, 106 WOODPARK ROAD SMITHFIELD 2164",
     "locID": "LOC000167939814",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711232169"
    }
   },
@@ -73167,7 +73167,7 @@
     "name": "17-19 PAVESI STREET SMITHFIELD 2164",
     "locID": "LOC000012241377",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715242384"
    }
   },
@@ -75309,7 +75309,7 @@
     "name": "UNIT 1, 101 WARREN ROAD SMITHFIELD 2164",
     "locID": "LOC000023351390",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716168921"
    }
   },
@@ -81421,8 +81421,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.93751146,
-     -33.85337233
+     150.93752961,
+     -33.85329082
     ]
    },
    "properties": {
@@ -84319,7 +84319,7 @@
     "name": "UNIT 2, 101 WARREN ROAD SMITHFIELD 2164",
     "locID": "LOC000023203369",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716948030"
    }
   },
@@ -93236,8 +93236,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.93751146,
-     -33.85337233
+     150.93748777,
+     -33.85349684
     ]
    },
    "properties": {
@@ -98210,23 +98210,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718577783"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.93189301,
-     -33.86104097
-    ]
-   },
-   "properties": {
-    "name": "368A POLDING STREET SMITHFIELD 2164",
-    "locID": "ChIJ6RTqbTWWEmsRy-Du3N_XzGA",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW718578078"
    }
   },
   {
@@ -104089,8 +104072,8 @@
    "properties": {
     "name": "14A GALTON STREET SMITHFIELD 2164",
     "locID": "LOC000184494059",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719461319"
    }
   },
@@ -106079,7 +106062,7 @@
     "name": "861A THE HORSLEY DRIVE SMITHFIELD 2164",
     "locID": "LOC000186394251",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719882384"
    }
   },
@@ -112014,6 +111997,346 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721262244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91981353,
+     -33.85179174
+    ]
+   },
+   "properties": {
+    "name": "16A BRONSDON STREET SMITHFIELD 2164",
+    "locID": "LOC000193402089",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316767"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91759787,
+     -33.85608831
+    ]
+   },
+   "properties": {
+    "name": "85A CHARLES STREET SMITHFIELD 2164",
+    "locID": "ChIJgz4YyFKWEmsRaa82Gl7Kj0o",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319978"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92343529,
+     -33.85677402
+    ]
+   },
+   "properties": {
+    "name": "39A CHARLES STREET SMITHFIELD 2164",
+    "locID": "ChIJAXr0NbOXEmsR5ORJ0xm0iC0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323642"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94811252,
+     -33.85881674
+    ]
+   },
+   "properties": {
+    "name": "22A LANG STREET SMITHFIELD 2164",
+    "locID": "LOC000193233537",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94308772,
+     -33.85986832
+    ]
+   },
+   "properties": {
+    "name": "36A BARTON STREET SMITHFIELD 2164",
+    "locID": "LOC000193360217",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721327118"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92932508,
+     -33.85259223
+    ]
+   },
+   "properties": {
+    "name": "33A ROWLEY STREET SMITHFIELD 2164",
+    "locID": "ChIJY7g6E7aXEmsRvAqvHlip3gw",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329437"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.9305547,
+     -33.84618208
+    ]
+   },
+   "properties": {
+    "name": "25A NUNDLE STREET SMITHFIELD 2164",
+    "locID": "ChIJHe20f7iXEmsRjBkNYWRsurU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329574"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91889893,
+     -33.85494338
+    ]
+   },
+   "properties": {
+    "name": "16B BEAUMONT STREET SMITHFIELD 2164",
+    "locID": "LOC000175341987",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721329634"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92577821,
+     -33.85770861
+    ]
+   },
+   "properties": {
+    "name": "20A CHARLES STREET SMITHFIELD 2164",
+    "locID": "LOC000179587613",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329779"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92227963,
+     -33.85691939
+    ]
+   },
+   "properties": {
+    "name": "27A CHARLES STREET SMITHFIELD 2164",
+    "locID": "ChIJLZln1EyWEmsRxce700M73OA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329874"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.93800981,
+     -33.857991
+    ]
+   },
+   "properties": {
+    "name": "41B OXFORD STREET SMITHFIELD 2164",
+    "locID": "LOC000191483813",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721330080"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92263858,
+     -33.85037117
+    ]
+   },
+   "properties": {
+    "name": "1A HASSALL STREET SMITHFIELD 2164",
+    "locID": "ChIJ059ADbGXEmsRhhkffFq_t00",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92367397,
+     -33.85879757
+    ]
+   },
+   "properties": {
+    "name": "14A DUBLIN STREET SMITHFIELD 2164",
+    "locID": "ChIJmwylk0yWEmsRVOfkDMS5bvc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330465"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92989671,
+     -33.85327407
+    ]
+   },
+   "properties": {
+    "name": "22A ROWLEY STREET SMITHFIELD 2164",
+    "locID": "ChIJabDLCLaXEmsRORuHTvAlTeE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331046"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94493125,
+     -33.8588564
+    ]
+   },
+   "properties": {
+    "name": "74B BRENAN STREET SMITHFIELD 2164",
+    "locID": "ChIJyzYpStKXEmsRNNRhhVDWn2I",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331237"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91855534,
+     -33.84980919
+    ]
+   },
+   "properties": {
+    "name": "113A WETHERILL STREET SMITHFIELD 2164",
+    "locID": "LOC000176933450",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331451"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.93728322,
+     -33.85747722
+    ]
+   },
+   "properties": {
+    "name": "151A BRENAN STREET SMITHFIELD 2164",
+    "locID": "ChIJY3o1ZcyXEmsR5tr-hBHkjbo",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331489"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.9413499,
+     -33.86056775
+    ]
+   },
+   "properties": {
+    "name": "26B ROSSITER STREET SMITHFIELD 2164",
+    "locID": "LOC000189926572",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.94493125,
+     -33.8588564
+    ]
+   },
+   "properties": {
+    "name": "74A BRENAN STREET SMITHFIELD 2164",
+    "locID": "ChIJyzYpStKXEmsRQcCcKKGSNbk",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331874"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92530614,
+     -33.84898114
+    ]
+   },
+   "properties": {
+    "name": "168A VICTORIA STREET SMITHFIELD 2164",
+    "locID": "LOC000173922440",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331940"
    }
   }
  ]
