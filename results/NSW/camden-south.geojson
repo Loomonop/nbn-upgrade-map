@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T20:30:30.871637",
+ "generated": "2023-09-04T14:48:29.967256",
  "suburb": "CAMDEN SOUTH",
  "features": [
   {
@@ -3687,8 +3687,8 @@
    "properties": {
     "name": "21 THOMPSON PLACE CAMDEN SOUTH 2570",
     "locID": "LOC000084051782",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704275542"
    }
   },
@@ -4622,8 +4622,8 @@
    "properties": {
     "name": "18 WENTWORTH DRIVE CAMDEN SOUTH 2570",
     "locID": "LOC000063944012",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704275635"
    }
   },
@@ -4861,7 +4861,7 @@
     "name": "72 BERALLIER DRIVE CAMDEN SOUTH 2570",
     "locID": "LOC000009172013",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704277409"
    }
   },
@@ -8124,8 +8124,8 @@
    "properties": {
     "name": "35 FLINDERS AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000014021063",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704278870"
    }
   },
@@ -8991,8 +8991,8 @@
    "properties": {
     "name": "33 BLIGH AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000034987681",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704280060"
    }
   },
@@ -9110,8 +9110,8 @@
    "properties": {
     "name": "5 BLIGH AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000082551791",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704280069"
    }
   },
@@ -10538,8 +10538,8 @@
    "properties": {
     "name": "39 ARNDELL STREET CAMDEN SOUTH 2570",
     "locID": "LOC000029670618",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704280745"
    }
   },
@@ -10878,8 +10878,8 @@
    "properties": {
     "name": "3 KING ROAD CAMDEN SOUTH 2570",
     "locID": "LOC000103410209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704280789"
    }
   },
@@ -14602,7 +14602,7 @@
     "name": "32 BARRATT AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000024766042",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704284048"
    }
   },
@@ -15689,8 +15689,8 @@
    "properties": {
     "name": "16 GREENAWAY AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000064878386",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704284115"
    }
   },
@@ -18698,8 +18698,8 @@
    "properties": {
     "name": "16 COOLALIE AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000049795231",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704289134"
    }
   },
@@ -23509,8 +23509,8 @@
    "properties": {
     "name": "16 CROOKSTON DRIVE CAMDEN SOUTH 2570",
     "locID": "LOC000045361215",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704295135"
    }
   },
@@ -24224,7 +24224,7 @@
     "name": "10 SELKIRK PLACE CAMDEN SOUTH 2570",
     "locID": "LOC000030406206",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704296523"
    }
   },
@@ -27232,8 +27232,8 @@
    "properties": {
     "name": "18A COOLALIE AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000018889610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712632339"
    }
   },
@@ -29800,7 +29800,7 @@
     "name": "12 BOWMAN AVENUE CAMDEN SOUTH 2570",
     "locID": "LOC000192236103",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719360761"
    }
   },
@@ -30890,6 +30890,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721260274"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.69829543,
+     -34.08463672
+    ]
+   },
+   "properties": {
+    "name": "7A KYLIE PLACE CAMDEN SOUTH 2570",
+    "locID": "ChIJU18WU3X6EmsRD54fN-P6l1A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331462"
    }
   }
  ]

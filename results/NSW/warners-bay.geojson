@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-15T20:56:00.447154",
+ "generated": "2023-09-04T15:09:00.320734",
  "suburb": "WARNERS BAY",
  "features": [
   {
@@ -11279,8 +11279,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.65362707,
-     -32.98265574
+     151.65355863,
+     -32.98270184
     ]
    },
    "properties": {
@@ -22074,23 +22074,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.64691139,
-     -32.97232296
-    ]
-   },
-   "properties": {
-    "name": "75 ALBERT STREET WARNERS BAY 2282",
-    "locID": "LOC000092370210",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706210137"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.64803859,
      -32.9726656
     ]
@@ -22152,23 +22135,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706210141"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.64699766,
-     -32.97244055
-    ]
-   },
-   "properties": {
-    "name": "77 ALBERT STREET WARNERS BAY 2282",
-    "locID": "LOC000094726988",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706210142"
    }
   },
   {
@@ -26569,8 +26535,8 @@
    "properties": {
     "name": "7 NEBRASKA CLOSE WARNERS BAY 2282",
     "locID": "LOC000088542576",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706213782"
    }
   },
@@ -31900,8 +31866,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.64385998,
-     -32.97274787
+     151.64367148,
+     -32.97246947
     ]
    },
    "properties": {
@@ -35290,8 +35256,8 @@
    "properties": {
     "name": "61A MYLES AVENUE WARNERS BAY 2282",
     "locID": "LOC000069482456",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706223525"
    }
   },
@@ -38462,15 +38428,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.6594871,
-     -32.96872473
+     151.65953591,
+     -32.96875328
     ]
    },
    "properties": {
     "name": "UNIT 1, 15 MINNESOTA WAY WARNERS BAY 2282",
     "locID": "LOC000086595776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706224781"
    }
   },
@@ -38479,15 +38445,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.6594871,
-     -32.96872473
+     151.65943882,
+     -32.96870331
     ]
    },
    "properties": {
     "name": "UNIT 2, 15 MINNESOTA WAY WARNERS BAY 2282",
     "locID": "LOC000086595776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706224782"
    }
   },
@@ -38503,8 +38469,8 @@
    "properties": {
     "name": "15 MINNESOTA WAY WARNERS BAY 2282",
     "locID": "LOC000086595776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706224783"
    }
   },
@@ -38744,6 +38710,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706224949"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.6497126,
+     -32.97378329
+    ]
+   },
+   "properties": {
+    "name": "59 YORSTON STREET WARNERS BAY 2282",
+    "locID": "LOC000193528559",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706224950"
    }
   },
   {
@@ -39591,8 +39574,8 @@
    "properties": {
     "name": "UNIT 2, 2 COLORADO CLOSE WARNERS BAY 2282",
     "locID": "LOC000013955081",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706227130"
    }
   },
@@ -39608,8 +39591,8 @@
    "properties": {
     "name": "2 COLORADO CLOSE WARNERS BAY 2282",
     "locID": "LOC000013955081",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706227131"
    }
   },
@@ -54552,7 +54535,7 @@
     "name": "458 THE ESPLANADE WARNERS BAY 2282",
     "locID": "LOC000120794334",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711838722"
    }
   },
@@ -57298,8 +57281,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.65362707,
-     -32.98265574
+     151.65355863,
+     -32.98270184
     ]
    },
    "properties": {
@@ -57315,8 +57298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.65362707,
-     -32.98265574
+     151.65355863,
+     -32.98270184
     ]
    },
    "properties": {
@@ -57332,8 +57315,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.65362707,
-     -32.98265574
+     151.65355863,
+     -32.98270184
     ]
    },
    "properties": {
@@ -57349,8 +57332,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.65362707,
-     -32.98265574
+     151.65355863,
+     -32.98270184
     ]
    },
    "properties": {
@@ -62167,8 +62150,8 @@
    "properties": {
     "name": "12 BIDDABAH AVENUE WARNERS BAY 2282",
     "locID": "LOC000066287666",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW715590508"
    }
   },
@@ -74662,8 +74645,8 @@
    "properties": {
     "name": "6 KANANGRA STREET WARNERS BAY 2282",
     "locID": "LOC000145326592",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718460271"
    }
   },
@@ -74782,7 +74765,7 @@
     "name": "1 YURUGA STREET WARNERS BAY 2282",
     "locID": "LOC000145326782",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718468160"
    }
   },
@@ -76039,8 +76022,8 @@
    "properties": {
     "name": "17 GRASMERE WAY WARNERS BAY 2282",
     "locID": "LOC000145326516",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718688468"
    }
   },
@@ -87412,7 +87395,7 @@
    "properties": {
     "name": "24B FAIRFAX ROAD WARNERS BAY 2282",
     "locID": "ChIJk6mVh1g8c2sRWJ-s4Cl_aN8",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720938919"
    }
@@ -87463,7 +87446,7 @@
    "properties": {
     "name": "24A FAIRFAX ROAD WARNERS BAY 2282",
     "locID": "ChIJk6mVh1g8c2sRUUe9voauwfo",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720939489"
    }
@@ -87942,6 +87925,40 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721245658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.6537868,
+     -32.98261006
+    ]
+   },
+   "properties": {
+    "name": "1A DELMA PARADE WARNERS BAY 2282",
+    "locID": "ChIJ53t_p-I8c2sRoxzTbEMenyY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318083"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.65647401,
+     -32.976572
+    ]
+   },
+   "properties": {
+    "name": "87A BAYVIEW STREET WARNERS BAY 2282",
+    "locID": "ChIJi8fsnAE9c2sRA1H7JHDv4YY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330592"
    }
   }
  ]
