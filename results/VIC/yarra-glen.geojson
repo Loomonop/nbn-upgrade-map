@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T15:26:29.862233",
+ "generated": "2023-09-05T09:23:41.713168",
  "suburb": "YARRA GLEN",
  "features": [
   {
@@ -2073,7 +2073,7 @@
     "name": "27 FRANCES AVENUE YARRA GLEN 3775",
     "locID": "LOC000007022297",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC412684871"
    }
   },
@@ -11949,8 +11949,8 @@
    "properties": {
     "name": "3 ANZAC AVENUE YARRA GLEN 3775",
     "locID": "LOC000016053360",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421266401"
    }
   },
@@ -13004,7 +13004,7 @@
     "name": "18 FARRELL AVENUE YARRA GLEN 3775",
     "locID": "LOC000016869249",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421420605"
    }
   },
@@ -14466,7 +14466,7 @@
     "name": "67 YARRAVIEW ROAD YARRA GLEN 3775",
     "locID": "LOC000113265079",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421885104"
    }
   },
@@ -15145,8 +15145,8 @@
    "properties": {
     "name": "45 PINOAK DRIVE YARRA GLEN 3775",
     "locID": "LOC000071811987",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421985570"
    }
   },
@@ -17832,7 +17832,7 @@
     "name": "6 FOREST STREET YARRA GLEN 3775",
     "locID": "LOC000115820394",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423456503"
    }
   },
@@ -18393,7 +18393,7 @@
     "name": "9 PINOAK DRIVE YARRA GLEN 3775",
     "locID": "LOC000028528630",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423481368"
    }
   },
@@ -19789,23 +19789,6 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424075155"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.37418432,
-     -37.65776556
-    ]
-   },
-   "properties": {
-    "name": "33B-33C BELL STREET YARRA GLEN 3775",
-    "locID": "LOC000035991842",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424078022"
    }
   },
   {
@@ -21452,7 +21435,7 @@
    "properties": {
     "name": "1159B HEALESVILLE-YARRA GLEN ROAD YARRA GLEN 3775",
     "locID": "LOC100081965043",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424716730"
    }
@@ -23808,8 +23791,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.36887469,
-     -37.65694018
+     145.3688747,
+     -37.65694019
     ]
    },
    "properties": {
@@ -24529,7 +24512,7 @@
    "properties": {
     "name": "1159 HEALESVILLE-YARRA GLEN ROAD YARRA GLEN 3775",
     "locID": "LOC100081965043",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425822650"
    }
@@ -25152,7 +25135,7 @@
     "type": "Point",
     "coordinates": [
      145.3688747,
-     -37.65694018
+     -37.65694019
     ]
    },
    "properties": {
@@ -26215,6 +26198,40 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721224182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.3719034,
+     -37.65822927
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 16 SAYLE STREET YARRA GLEN 3775",
+    "locID": "LOC000101469441",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721294743"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.37160993,
+     -37.65813341
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 16 SAYLE STREET YARRA GLEN 3775",
+    "locID": "LOC000101469441",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721302967"
    }
   }
  ]
