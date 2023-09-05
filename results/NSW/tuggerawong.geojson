@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T06:06:31.043910",
+ "generated": "2023-09-04T23:32:55.221575",
  "suburb": "TUGGERAWONG",
  "features": [
   {
@@ -134,8 +134,8 @@
    "properties": {
     "name": "425 TUGGERAWONG ROAD TUGGERAWONG 2259",
     "locID": "LOC000102395671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706077961"
    }
   },
@@ -491,8 +491,8 @@
    "properties": {
     "name": "445 TUGGERAWONG ROAD TUGGERAWONG 2259",
     "locID": "LOC000002434926",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706077982"
    }
   },
@@ -11595,6 +11595,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720806216"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.48392141,
+     -33.28007856
+    ]
+   },
+   "properties": {
+    "name": "27A CADONIA ROAD TUGGERAWONG 2259",
+    "locID": "ChIJtU67UUfQcmsRkehoHUzMX44",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331165"
    }
   }
  ]
