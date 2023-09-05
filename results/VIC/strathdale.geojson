@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T20:38:54.594540",
+ "generated": "2023-09-05T14:38:26.003015",
  "suburb": "STRATHDALE",
  "features": [
   {
@@ -6271,8 +6271,8 @@
    "properties": {
     "name": "207 NORTH HARLEY STREET STRATHDALE 3550",
     "locID": "LOC000044823291",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419832070"
    }
   },
@@ -19541,23 +19541,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.3198269,
-     -36.75528088
-    ]
-   },
-   "properties": {
-    "name": "241 NORTH HARLEY STREET STRATHDALE 3550",
-    "locID": "LOC000030133716",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC420719002"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.319853,
      -36.7556
     ]
@@ -22744,8 +22727,8 @@
    "properties": {
     "name": "10 HASKER COURT STRATHDALE 3550",
     "locID": "LOC000094318797",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420913039"
    }
   },
@@ -28296,8 +28279,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.3086042,
-     -36.75677331
+     144.30861119,
+     -36.75679855
     ]
    },
    "properties": {
@@ -30166,8 +30149,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.31966913,
-     -36.76298489
+     144.3196434,
+     -36.76283557
     ]
    },
    "properties": {
@@ -34807,8 +34790,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.30992921,
-     -36.7598976
+     144.30993326,
+     -36.75985393
     ]
    },
    "properties": {
@@ -46809,23 +46792,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.305632,
-     -36.7580846
-    ]
-   },
-   "properties": {
-    "name": "2-4 HARPIN STREET STRATHDALE 3550",
-    "locID": "ChIJfRKiTApZ12oR7DX2eoxGvf4",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC424095068"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.31535285,
      -36.75837116
     ]
@@ -53728,8 +53694,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.31964339,
-     -36.76283556
+     144.3196434,
+     -36.76283557
     ]
    },
    "properties": {
@@ -53738,6 +53704,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721224395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.30904808,
+     -36.75674543
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 17 BEISCHER STREET STRATHDALE 3550",
+    "locID": "LOC000101423528",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721285504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.30883032,
+     -36.75678745
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 17 BEISCHER STREET STRATHDALE 3550",
+    "locID": "LOC000101423528",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721295426"
    }
   }
  ]

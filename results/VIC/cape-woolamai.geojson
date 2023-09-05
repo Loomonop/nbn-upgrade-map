@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T21:00:32.195936",
+ "generated": "2023-09-05T14:59:30.950526",
  "suburb": "CAPE WOOLAMAI",
  "features": [
   {
@@ -5115,8 +5115,8 @@
    "properties": {
     "name": "34 PRINCETON AVENUE CAPE WOOLAMAI 3925",
     "locID": "LOC000025213446",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420008069"
    }
   },
@@ -7488,8 +7488,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.3373057,
-     -38.53065088
+     145.33721428,
+     -38.5306584
     ]
    },
    "properties": {
@@ -8278,7 +8278,7 @@
     "name": "25 PALM BEACH AVENUE CAPE WOOLAMAI 3925",
     "locID": "LOC000036493566",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420294665"
    }
   },
@@ -9416,8 +9416,8 @@
    "properties": {
     "name": "4 CLEARWATER AVENUE CAPE WOOLAMAI 3925",
     "locID": "LOC000103265834",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420314819"
    }
   },
@@ -13870,8 +13870,8 @@
    "properties": {
     "name": "99 VISTA DRIVE CAPE WOOLAMAI 3925",
     "locID": "LOC000045319490",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420628793"
    }
   },
@@ -16574,7 +16574,7 @@
     "name": "40 PRINCETON AVENUE CAPE WOOLAMAI 3925",
     "locID": "LOC000184061521",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420921016"
    }
   },
@@ -19313,6 +19313,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421202681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.32521925,
+     -38.52933618
+    ]
+   },
+   "properties": {
+    "name": "50-52 BERESFORD DRIVE CAPE WOOLAMAI 3925",
+    "locID": "ChIJWejjJpjy1WoRfvRrwNQL280",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421202683"
    }
   },
   {
@@ -25039,7 +25056,7 @@
    "properties": {
     "name": "68 LANTANA ROAD CAPE WOOLAMAI 3925",
     "locID": "ChIJheiCAJHy1WoRfVc3lfC3PlQ",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421596003"
    }
@@ -32279,7 +32296,7 @@
     ]
    },
    "properties": {
-    "name": "SHOP 6, 18 VISTA PLACE CAPE WOOLAMAI 3925",
+    "name": "UNIT 6, 18 VISTA PLACE CAPE WOOLAMAI 3925",
     "locID": "LOC000151753223",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
@@ -32352,40 +32369,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425531332"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.33189701,
-     -38.52895405
-    ]
-   },
-   "properties": {
-    "name": "36-38 PRINCETON AVENUE CAPE WOOLAMAI 3925",
-    "locID": "LOC000063744171",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC425621595"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.34152628,
-     -38.52491363
-    ]
-   },
-   "properties": {
-    "name": "49-51 SEASPRAY AVENUE CAPE WOOLAMAI 3925",
-    "locID": "LOC000051830817",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC425623160"
    }
   },
   {
