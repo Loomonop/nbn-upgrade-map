@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T12:32:17.580238",
+ "generated": "2023-09-05T06:17:55.330770",
  "suburb": "HOPE ISLAND",
  "features": [
   {
@@ -1817,8 +1817,8 @@
    "properties": {
     "name": "33 PINNAROO STREET HOPE ISLAND 4212",
     "locID": "LOC000019132731",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155405461"
    }
   },
@@ -2072,8 +2072,8 @@
    "properties": {
     "name": "99 CRESCENT AVENUE HOPE ISLAND 4212",
     "locID": "LOC000072648831",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155407821"
    }
   },
@@ -5813,7 +5813,7 @@
     "name": "19A BALLYBUNYON CRESCENT HOPE ISLAND 4212",
     "locID": "LOC000093640744",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156662662"
    }
   },
@@ -6648,23 +6648,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156666983"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156667008"
    }
   },
   {
@@ -12833,8 +12816,8 @@
    "properties": {
     "name": "2136 BEAUFORT WAY HOPE ISLAND 4212",
     "locID": "LOC000041931040",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD158052708"
    }
   },
@@ -21759,7 +21742,7 @@
     "name": "1647 RIVERDALE COURT HOPE ISLAND 4212",
     "locID": "LOC000104158744",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159610413"
    }
   },
@@ -35494,8 +35477,8 @@
    "properties": {
     "name": "4799 THE PARKWAY HOPE ISLAND 4212",
     "locID": "LOC000035406877",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160988074"
    }
   },
@@ -42413,8 +42396,8 @@
    "properties": {
     "name": "8035 KEY WATERS HOPE ISLAND 4212",
     "locID": "LOC000156684465",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161199397"
    }
   },
@@ -44439,23 +44422,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161291940"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.3758544,
-     -27.85802929
-    ]
-   },
-   "properties": {
-    "name": "LOT 57 RIVERSIDE DRIVE HOPE ISLAND 4212",
-    "locID": "LOC000156690739",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD161291941"
    }
   },
   {
@@ -55894,8 +55860,8 @@
    "properties": {
     "name": "6194 BOLSENA CIRCUIT HOPE ISLAND 4212",
     "locID": "LOC000043782380",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162011343"
    }
   },
@@ -63355,6 +63321,57 @@
     ]
    },
    "properties": {
+    "name": "46 JOHN LUND DRIVE HOPE ISLAND 4212",
+    "locID": "EjA0NiBKb2huIEx1bmQgRHIsIEhvcGUgSXNsYW5kIFFMRCA0MjEyLCBBdXN0cmFsaWEiMBIuChQKEgn3VwcRERKRaxFhgANFbPA2FxAuKhQKEglJjHUsERKRaxF4ddz7ARrU1Q",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162231543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.37433399,
+     -27.86971179
+    ]
+   },
+   "properties": {
+    "name": "53 JOHN LUND DRIVE HOPE ISLAND 4212",
+    "locID": "EjA1MyBKb2huIEx1bmQgRHIsIEhvcGUgSXNsYW5kIFFMRCA0MjEyLCBBdXN0cmFsaWEiMBIuChQKEgn3VwcRERKRaxFhgANFbPA2FxA1KhQKEglJjHUsERKRaxF4ddz7ARrU1Q",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162231544"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.37433399,
+     -27.86971179
+    ]
+   },
+   "properties": {
+    "name": "54 JOHN LUND DRIVE HOPE ISLAND 4212",
+    "locID": "EjA1NCBKb2huIEx1bmQgRHIsIEhvcGUgSXNsYW5kIFFMRCA0MjEyLCBBdXN0cmFsaWEiMBIuChQKEgn3VwcRERKRaxFhgANFbPA2FxA2KhQKEglJjHUsERKRaxF4ddz7ARrU1Q",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162231545"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.37433399,
+     -27.86971179
+    ]
+   },
+   "properties": {
     "name": "55 JOHN LUND DRIVE HOPE ISLAND 4212",
     "locID": "LOC000085796729",
     "tech": "FTTC",
@@ -70116,8 +70133,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70150,8 +70167,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70167,8 +70184,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70184,8 +70201,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70201,8 +70218,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70218,8 +70235,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70235,8 +70252,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70252,8 +70269,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70269,8 +70286,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70286,8 +70303,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70303,8 +70320,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70337,8 +70354,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70354,8 +70371,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70371,8 +70388,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70388,8 +70405,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70405,8 +70422,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70422,8 +70439,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70439,8 +70456,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70456,8 +70473,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70473,8 +70490,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70490,8 +70507,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -70524,8 +70541,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36455363,
-     -27.88207601
+     153.36456692,
+     -27.8820984
     ]
    },
    "properties": {
@@ -81353,23 +81370,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37654382,
-     -27.85938973
-    ]
-   },
-   "properties": {
-    "name": "LOT 5 THE PARKWAY HOPE ISLAND 4212",
-    "locID": "LOC000093529467",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162833932"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37127756,
      -27.85619478
     ]
@@ -81703,23 +81703,6 @@
     "tech": "FTTB",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162848179"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 226, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162850045"
    }
   },
   {
@@ -85171,23 +85154,6 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162929981"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 217, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162929982"
    }
   },
   {
@@ -90050,23 +90016,6 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163025407"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 224, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163025408"
    }
   },
   {
@@ -98659,23 +98608,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 234, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163181382"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37194382,
      -27.87024643
     ]
@@ -99339,1655 +99271,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 111, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192516"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 112, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192517"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 113, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192518"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 114, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192519"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 115, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192520"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 116, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192521"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 117, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192522"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 121, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192523"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 122, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192524"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 123, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192525"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 124, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192526"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 125, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192527"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 126, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192528"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 127, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192529"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 131, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192530"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 132, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192531"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 133, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192532"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 134, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192533"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 135, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192534"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 136, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192535"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 137, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192536"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 211, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192537"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 212, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192538"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 213, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192539"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 214, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192540"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 215, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192541"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 216, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192542"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 221, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192543"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 222, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192544"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 223, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192545"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 225, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192546"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 227, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192547"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 231, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192548"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 232, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192549"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 233, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192550"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 235, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192551"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 236, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192552"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 237, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192553"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 311, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192554"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 312, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192555"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 313, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192556"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 314, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192557"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 315, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192558"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 316, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192559"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 317, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192560"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 321, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192561"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 322, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192562"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 323, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192563"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 324, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192564"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 325, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192565"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 326, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192566"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 327, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192567"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 331, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192568"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 332, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192569"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 333, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192570"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 334, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192571"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 335, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192572"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 336, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192573"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 337, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192574"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 411, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192575"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 412, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192576"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 413, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192577"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 414, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192578"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 415, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192579"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 416, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192580"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 417, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192581"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 421, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192582"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 422, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192583"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 423, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192584"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 424, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192585"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 425, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192586"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 426, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192587"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 427, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192588"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 431, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192589"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 432, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192590"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 433, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192591"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 434, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192592"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 435, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192593"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 436, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192594"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 437, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192595"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 911, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192596"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 912, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192597"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 913, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192598"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 921, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192599"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 922, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192600"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 923, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192601"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 924, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192602"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 925, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192603"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 926, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192604"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 927, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192605"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 931, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192606"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 932, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192607"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 933, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192608"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 934, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192609"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 935, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192610"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 936, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192611"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 937, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163192612"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.36005179,
      -27.87106716
     ]
@@ -101114,8 +99397,8 @@
    "properties": {
     "name": "6 FLYBRIDGE WAY HOPE ISLAND 4212",
     "locID": "LOC000111347752",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163215194"
    }
   },
@@ -101362,23 +99645,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 531, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163229283"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37454705,
      -27.87045928
     ]
@@ -101396,23 +99662,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 615, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163229285"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37454705,
      -27.87045928
     ]
@@ -101423,23 +99672,6 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163229286"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 626, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163229287"
    }
   },
   {
@@ -101481,23 +99713,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 717, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163229290"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37454705,
      -27.87045928
     ]
@@ -101525,23 +99740,6 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163229292"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 815, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163229293"
    }
   },
   {
@@ -102834,57 +101032,6 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163256156"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 627, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163256947"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 634, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163256948"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 823, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163256949"
    }
   },
   {
@@ -106207,1315 +104354,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 511, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371021"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 512, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371022"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 513, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371023"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 514, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371024"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 515, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371025"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 516, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371026"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 517, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371027"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 521, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371029"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 522, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371030"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 523, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371031"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 524, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371032"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 525, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371033"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 526, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371034"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 527, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371035"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 532, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371037"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 533, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371038"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 534, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371039"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 535, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371040"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 536, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371041"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 537, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371042"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 611, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371052"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 612, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371053"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 613, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371054"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 614, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371055"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 616, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371056"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 617, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371057"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 621, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371059"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 622, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371060"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 623, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371061"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 624, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371062"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 625, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371063"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 631, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371065"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 632, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371066"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 633, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371067"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 635, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371068"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 636, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371069"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 637, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371070"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 711, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371080"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 712, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371081"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 713, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371082"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 714, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371083"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 715, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371084"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 716, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371085"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 721, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000035769200",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371087"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 722, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371088"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 723, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371089"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 724, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371090"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 725, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371091"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 726, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371092"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 727, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371093"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 731, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371095"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 732, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371096"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 733, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371097"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 734, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371098"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 735, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371099"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 736, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371100"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 737, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371101"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 811, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371111"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 812, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371112"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 813, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371113"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 814, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371114"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 816, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371115"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 817, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371116"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 821, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371118"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 822, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371119"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 824, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371120"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 825, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371121"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 826, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371122"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 827, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371123"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 831, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371125"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 832, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371126"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 833, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371127"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 834, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371128"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 835, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371129"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 836, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371130"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 837, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371131"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37223886,
-     -27.8706477
-    ]
-   },
-   "properties": {
-    "name": "UNIT 914, 64 SICKLE AVENUE HOPE ISLAND 4212",
-    "locID": "LOC000173552116",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163371141"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37883645,
      -27.87047546
     ]
@@ -108798,8 +105636,8 @@
    "properties": {
     "name": "12 MARINER AVENUE HOPE ISLAND 4212",
     "locID": "LOC000127239408",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424990892"
    }
   },
@@ -111596,23 +108434,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.35992644,
-     -27.86078436
-    ]
-   },
-   "properties": {
-    "name": "2291 VARDON LANE HOPE ISLAND 4212",
-    "locID": "LOC000156690328",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425219915"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.35982081,
      -27.86061474
     ]
@@ -112590,7 +109411,7 @@
     "name": "8 SPINNAKER WAY HOPE ISLAND 4212",
     "locID": "LOC000176158639",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425334016"
    }
   },
@@ -114646,8 +111467,8 @@
    "properties": {
     "name": "67 COVA BOULEVARD HOPE ISLAND 4212",
     "locID": "LOC000176140195",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425587346"
    }
   },
@@ -152991,23 +149812,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37383749,
-     -27.85842654
-    ]
-   },
-   "properties": {
-    "name": "LOT 98 SPYGLASS HILL HOPE ISLAND 4212",
-    "locID": "LOC000026763679",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD720675134"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.3748516,
      -27.87232912
     ]
@@ -167349,6 +164153,1026 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721267048"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36619864,
+     -27.87657635
+    ]
+   },
+   "properties": {
+    "name": "29 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143715",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721304968"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.3665626,
+     -27.87661985
+    ]
+   },
+   "properties": {
+    "name": "33 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143758",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36485822,
+     -27.87657035
+    ]
+   },
+   "properties": {
+    "name": "15 BRONTE CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143575",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305019"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36579975,
+     -27.87683181
+    ]
+   },
+   "properties": {
+    "name": "70 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144135",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.3662764,
+     -27.87674411
+    ]
+   },
+   "properties": {
+    "name": "22 MARINA QUAYS BOULEVARD HOPE ISLAND 4212",
+    "locID": "LOC000192636242",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305839"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36682604,
+     -27.87666572
+    ]
+   },
+   "properties": {
+    "name": "36 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143789",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306131"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36648744,
+     -27.87686387
+    ]
+   },
+   "properties": {
+    "name": "62 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144055",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306270"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36560678,
+     -27.87684481
+    ]
+   },
+   "properties": {
+    "name": "73 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144161",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36508868,
+     -27.87656488
+    ]
+   },
+   "properties": {
+    "name": "18 BRONTE CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143608",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306322"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36682084,
+     -27.87690727
+    ]
+   },
+   "properties": {
+    "name": "58 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144017",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36584266,
+     -27.87654889
+    ]
+   },
+   "properties": {
+    "name": "25 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143677",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36656664,
+     -27.87688033
+    ]
+   },
+   "properties": {
+    "name": "61 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144040",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36604303,
+     -27.87655026
+    ]
+   },
+   "properties": {
+    "name": "27 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143696",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307493"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36627237,
+     -27.87657718
+    ]
+   },
+   "properties": {
+    "name": "30 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143727",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307521"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36735465,
+     -27.8773928
+    ]
+   },
+   "properties": {
+    "name": "47 BURGESS LANE HOPE ISLAND 4212",
+    "locID": "LOC000190143893",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36724541,
+     -27.876701
+    ]
+   },
+   "properties": {
+    "name": "41 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143838",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307614"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36596175,
+     -27.87683108
+    ]
+   },
+   "properties": {
+    "name": "68 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "ChIJy52ehSESkWsRw9kD4xjRM5k",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36690214,
+     -27.87666041
+    ]
+   },
+   "properties": {
+    "name": "37 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143791",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307705"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36664098,
+     -27.87687963
+    ]
+   },
+   "properties": {
+    "name": "60 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144038",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36709334,
+     -27.87667613
+    ]
+   },
+   "properties": {
+    "name": "39 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143817",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307729"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36596904,
+     -27.8765485
+    ]
+   },
+   "properties": {
+    "name": "26 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143683",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.3643377,
+     -27.87686517
+    ]
+   },
+   "properties": {
+    "name": "8 MARINA QUAYS BOULEVARD HOPE ISLAND 4212",
+    "locID": "LOC000179301105",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36589875,
+     -27.8768317
+    ]
+   },
+   "properties": {
+    "name": "69 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144126",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36552614,
+     -27.87656456
+    ]
+   },
+   "properties": {
+    "name": "21 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143631",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308872"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36568458,
+     -27.87656163
+    ]
+   },
+   "properties": {
+    "name": "23 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143654",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308908"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36717298,
+     -27.87670103
+    ]
+   },
+   "properties": {
+    "name": "40 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143829",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308918"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36666801,
+     -27.87663325
+    ]
+   },
+   "properties": {
+    "name": "34 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143762",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308957"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36648307,
+     -27.8766098
+    ]
+   },
+   "properties": {
+    "name": "32 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143743",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308991"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36560687,
+     -27.87656204
+    ]
+   },
+   "properties": {
+    "name": "22 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143649",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36576509,
+     -27.87654914
+    ]
+   },
+   "properties": {
+    "name": "24 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143665",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309044"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36566006,
+     -27.87641242
+    ]
+   },
+   "properties": {
+    "name": "LOT 900 MARINA QUAYS BOULEVARD HOPE ISLAND 4212",
+    "locID": "EjJNYXJpbmEgUXVheXMgQmx2ZCwgSG9wZSBJc2xhbmQgUUxEIDQyMTIsIEF1c3RyYWxpYSIuKiwKFAoSCZujYlIfEpFrETul22A7hGvQEhQKEgmlSOMlwBGRaxGAo97zWqMCBQ",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721309283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36397378,
+     -27.87648073
+    ]
+   },
+   "properties": {
+    "name": "LOT 105 MARINA QUAYS BOULEVARD HOPE ISLAND 4212",
+    "locID": "EjYxMDUgTWFyaW5hIFF1YXlzIEJsdmQsIEhvcGUgSXNsYW5kIFFMRCA0MjEyLCBBdXN0cmFsaWEiMBIuChQKEgl1knVwGRKRaxHEg3OeeBte7BBpKhQKEgmbo2JSHxKRaxE7pdtgO4Rr0A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721309618"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.35992644,
+     -27.86078436
+    ]
+   },
+   "properties": {
+    "name": "2291 BANKSIA LAKES DRIVE HOPE ISLAND 4212",
+    "locID": "ChIJwbaO8DgSkWsR0TfuFaSizv4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721310001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36493262,
+     -27.87656482
+    ]
+   },
+   "properties": {
+    "name": "16 BRONTE CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143581",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36701944,
+     -27.87667163
+    ]
+   },
+   "properties": {
+    "name": "38 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143801",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310226"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36697438,
+     -27.87692303
+    ]
+   },
+   "properties": {
+    "name": "56 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143990",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36544837,
+     -27.87656508
+    ]
+   },
+   "properties": {
+    "name": "20 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143620",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310246"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36674385,
+     -27.87663762
+    ]
+   },
+   "properties": {
+    "name": "35 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143770",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310291"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36738623,
+     -27.87752036
+    ]
+   },
+   "properties": {
+    "name": "45 BURGESS LANE HOPE ISLAND 4212",
+    "locID": "LOC000190143872",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36516283,
+     -27.8765596
+    ]
+   },
+   "properties": {
+    "name": "19 BRONTE CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143612",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36566988,
+     -27.87684459
+    ]
+   },
+   "properties": {
+    "name": "72 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144157",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311579"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36740378,
+     -27.87759144
+    ]
+   },
+   "properties": {
+    "name": "44 BURGESS LANE HOPE ISLAND 4212",
+    "locID": "LOC000190143864",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36501198,
+     -27.87656453
+    ]
+   },
+   "properties": {
+    "name": "17 BRONTE CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143599",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312169"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36690005,
+     -27.87692374
+    ]
+   },
+   "properties": {
+    "name": "57 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144001",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312687"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36547676,
+     -27.87684543
+    ]
+   },
+   "properties": {
+    "name": "75 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144188",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36737239,
+     -27.87746441
+    ]
+   },
+   "properties": {
+    "name": "46 BURGESS LANE HOPE ISLAND 4212",
+    "locID": "LOC000190143886",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312737"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36553964,
+     -27.87684492
+    ]
+   },
+   "properties": {
+    "name": "74 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144174",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312740"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36641432,
+     -27.87686446
+    ]
+   },
+   "properties": {
+    "name": "63 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144064",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312788"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36611936,
+     -27.87655019
+    ]
+   },
+   "properties": {
+    "name": "28 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143704",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36674772,
+     -27.87690786
+    ]
+   },
+   "properties": {
+    "name": "59 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144029",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312873"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36573683,
+     -27.87683183
+    ]
+   },
+   "properties": {
+    "name": "71 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144142",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312911"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36609252,
+     -27.87684343
+    ]
+   },
+   "properties": {
+    "name": "66 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144093",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314044"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36732456,
+     -27.87671198
+    ]
+   },
+   "properties": {
+    "name": "42 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143840",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314083"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.3673987,
+     -27.87672279
+    ]
+   },
+   "properties": {
+    "name": "43 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143855",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.3664074,
+     -27.87660417
+    ]
+   },
+   "properties": {
+    "name": "31 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190143736",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314094"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36615976,
+     -27.87684318
+    ]
+   },
+   "properties": {
+    "name": "65 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144086",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314158"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36602904,
+     -27.87684359
+    ]
+   },
+   "properties": {
+    "name": "67 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144103",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314174"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36138056,
+     -27.87488392
+    ]
+   },
+   "properties": {
+    "name": "UNIT 130, 3 PENDRAAT PARADE HOPE ISLAND 4212",
+    "locID": "LOC000068652918",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335284"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.37223886,
+     -27.8706477
+    ]
+   },
+   "properties": {
+    "name": "UNIT 914, 64-68 SICKLE AVENUE HOPE ISLAND 4212",
+    "locID": "LOC000035769200",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721339271"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36642226,
+     -27.87673888
+    ]
+   },
+   "properties": {
+    "name": "64 DELTA CIRCUIT HOPE ISLAND 4212",
+    "locID": "LOC000190144072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721339837"
    }
   }
  ]
