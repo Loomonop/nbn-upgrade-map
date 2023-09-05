@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T08:10:33.962859",
+ "generated": "2023-09-05T01:32:56.655532",
  "suburb": "HUNTERS HILL",
  "features": [
   {
@@ -322,7 +322,7 @@
     "name": "14 ASTON STREET HUNTERS HILL 2110",
     "locID": "LOC000108428799",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704972106"
    }
   },
@@ -373,7 +373,7 @@
     "name": "18 ASTON STREET HUNTERS HILL 2110",
     "locID": "LOC000065519325",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704972109"
    }
   },
@@ -3698,7 +3698,7 @@
     "type": "Point",
     "coordinates": [
      151.14063386,
-     -33.83353757
+     -33.83353758
     ]
    },
    "properties": {
@@ -11728,8 +11728,8 @@
    "properties": {
     "name": "2 FARNELL STREET HUNTERS HILL 2110",
     "locID": "LOC000075190558",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704985954"
    }
   },
@@ -15172,8 +15172,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14068371,
-     -33.82141244
+     151.14068367,
+     -33.82141264
     ]
    },
    "properties": {
@@ -16029,8 +16029,8 @@
    "properties": {
     "name": "24 PARK ROAD HUNTERS HILL 2110",
     "locID": "LOC000001532030",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704988160"
    }
   },
@@ -17321,8 +17321,8 @@
    "properties": {
     "name": "18 FARNELL STREET HUNTERS HILL 2110",
     "locID": "LOC000015529354",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704988565"
    }
   },
@@ -18087,7 +18087,7 @@
     "name": "1 FARNELL STREET HUNTERS HILL 2110",
     "locID": "LOC000007197558",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704988612"
    }
   },
@@ -20875,7 +20875,7 @@
     "name": "123 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000014195298",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704990848"
    }
   },
@@ -23493,7 +23493,7 @@
     "name": "40 FARNELL STREET HUNTERS HILL 2110",
     "locID": "LOC000057372887",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704991829"
    }
   },
@@ -23561,7 +23561,7 @@
     "name": "44 FARNELL STREET HUNTERS HILL 2110",
     "locID": "LOC000190918037",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704991833"
    }
   },
@@ -26026,7 +26026,7 @@
     "name": "113 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000187948208",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704993440"
    }
   },
@@ -27777,7 +27777,7 @@
     "name": "97A PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000090416021",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704994139"
    }
   },
@@ -30455,8 +30455,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.13860567,
-     -33.81875316
+     151.13860319,
+     -33.8187529
     ]
    },
    "properties": {
@@ -30822,6 +30822,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704996398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.13690757,
+     -33.82869937
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 39-41 AUGUSTINE STREET HUNTERS HILL 2110",
+    "locID": "LOC000044489720",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704996405"
    }
   },
   {
@@ -31704,7 +31721,7 @@
     "name": "45 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000006404004",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704996713"
    }
   },
@@ -36065,8 +36082,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.15788589,
-     -33.84013059
+     151.1579454,
+     -33.84013609
     ]
    },
    "properties": {
@@ -36082,8 +36099,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.15791189,
-     -33.8402411
+     151.15759978,
+     -33.84013447
     ]
    },
    "properties": {
@@ -36099,8 +36116,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.15796786,
-     -33.8403004
+     151.15768886,
+     -33.8402865
     ]
    },
    "properties": {
@@ -43026,7 +43043,7 @@
     "name": "62 BLAXLAND STREET HUNTERS HILL 2110",
     "locID": "LOC000025048773",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706539826"
    }
   },
@@ -44181,8 +44198,8 @@
    "properties": {
     "name": "21 PRINCES STREET HUNTERS HILL 2110",
     "locID": "LOC000065094888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706578576"
    }
   },
@@ -45202,7 +45219,7 @@
     "name": "30A BLAXLAND STREET HUNTERS HILL 2110",
     "locID": "LOC000042059028",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706636579"
    }
   },
@@ -46411,6 +46428,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708100845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.13690757,
+     -33.82869937
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 39 AUGUSTINE STREET HUNTERS HILL 2110",
+    "locID": "LOC000044489720",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708101159"
    }
   },
   {
@@ -47939,7 +47973,7 @@
     "name": "UNIT 1, 101 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000043346697",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710845261"
    }
   },
@@ -49486,7 +49520,7 @@
     "name": "62A BLAXLAND STREET HUNTERS HILL 2110",
     "locID": "LOC000024632978",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710847028"
    }
   },
@@ -54578,8 +54612,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14052296,
-     -33.83401456
+     151.14052297,
+     -33.83401457
     ]
    },
    "properties": {
@@ -54596,7 +54630,7 @@
     "type": "Point",
     "coordinates": [
      151.14061411,
-     -33.83402107
+     -33.83402108
     ]
    },
    "properties": {
@@ -54612,8 +54646,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14058016,
-     -33.83417129
+     151.14058017,
+     -33.8341713
     ]
    },
    "properties": {
@@ -54629,7 +54663,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14048575,
+     151.14048576,
      -33.83415455
     ]
    },
@@ -54664,7 +54698,7 @@
     "type": "Point",
     "coordinates": [
      151.14027374,
-     -33.83389588
+     -33.83389589
     ]
    },
    "properties": {
@@ -54680,8 +54714,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14023478,
-     -33.83405756
+     151.14023479,
+     -33.83405757
     ]
    },
    "properties": {
@@ -54698,7 +54732,7 @@
     "type": "Point",
     "coordinates": [
      151.14013646,
-     -33.83404736
+     -33.83404737
     ]
    },
    "properties": {
@@ -54790,7 +54824,7 @@
     "name": "UNIT 1, 45 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000006404004",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710858676"
    }
   },
@@ -56405,7 +56439,7 @@
     "name": "UNIT 2, 45 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000006404004",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710862636"
    }
   },
@@ -57781,8 +57815,8 @@
    "properties": {
     "name": "14 PARK ROAD HUNTERS HILL 2110",
     "locID": "LOC000019708368",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW710865594"
    }
   },
@@ -57917,8 +57951,8 @@
    "properties": {
     "name": "21C FARNELL STREET HUNTERS HILL 2110",
     "locID": "LOC000032258884",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW710865719"
    }
   },
@@ -58454,7 +58488,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14016354,
+     151.14016355,
      -33.83360693
     ]
    },
@@ -58472,7 +58506,7 @@
     "type": "Point",
     "coordinates": [
      151.1402206,
-     -33.83353219
+     -33.8335322
     ]
    },
    "properties": {
@@ -58505,8 +58539,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14032226,
-     -33.83367885
+     151.14032227,
+     -33.83367886
     ]
    },
    "properties": {
@@ -59372,8 +59406,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.1406448,
-     -33.83389225
+     151.14064481,
+     -33.83389226
     ]
    },
    "properties": {
@@ -59389,8 +59423,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14054295,
-     -33.83387829
+     151.14054296,
+     -33.8338783
     ]
    },
    "properties": {
@@ -64514,7 +64548,7 @@
     "name": "UNIT 1, 28 EARL STREET HUNTERS HILL 2110",
     "locID": "LOC000097929603",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717846802"
    }
   },
@@ -64973,7 +65007,7 @@
     "name": "UNIT 1, 123 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000014195298",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717975051"
    }
   },
@@ -64990,7 +65024,7 @@
     "name": "UNIT 2, 123 PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000013896226",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717975052"
    }
   },
@@ -65517,7 +65551,7 @@
     "name": "14A ASTON STREET HUNTERS HILL 2110",
     "locID": "LOC000113545906",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718175325"
    }
   },
@@ -65738,7 +65772,7 @@
     "name": "UNIT 2, 28 EARL STREET HUNTERS HILL 2110",
     "locID": "LOC000097929603",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718192082"
    }
   },
@@ -66145,8 +66179,8 @@
    "properties": {
     "name": "UNIT 1, 14 PARK ROAD HUNTERS HILL 2110",
     "locID": "LOC000019708368",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718202982"
    }
   },
@@ -66162,8 +66196,8 @@
    "properties": {
     "name": "UNIT 2, 14 PARK ROAD HUNTERS HILL 2110",
     "locID": "LOC000019708368",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718202983"
    }
   },
@@ -66282,7 +66316,7 @@
     "name": "28 EARL STREET HUNTERS HILL 2110",
     "locID": "LOC000097929603",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718289385"
    }
   },
@@ -67438,7 +67472,7 @@
     "name": "REAR 1, 97A PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000090416021",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718707946"
    }
   },
@@ -67974,8 +68008,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14058016,
-     -33.83417129
+     151.14058017,
+     -33.8341713
     ]
    },
    "properties": {
@@ -68366,7 +68400,7 @@
     "type": "Point",
     "coordinates": [
      151.14013646,
-     -33.83404736
+     -33.83404737
     ]
    },
    "properties": {
@@ -68790,7 +68824,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14016354,
+     151.14016355,
      -33.83360693
     ]
    },
@@ -70821,7 +70855,7 @@
     "name": "18A ASTON STREET HUNTERS HILL 2110",
     "locID": "LOC000153142318",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718856594"
    }
   },
@@ -71637,7 +71671,7 @@
     "name": "UNIT 2, 97A PITTWATER ROAD HUNTERS HILL 2110",
     "locID": "LOC000090416021",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719165169"
    }
   },
@@ -72564,8 +72598,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.13860567,
-     -33.81875316
+     151.13860319,
+     -33.8187529
     ]
    },
    "properties": {
@@ -72623,7 +72657,7 @@
     "name": "44A FARNELL STREET HUNTERS HILL 2110",
     "locID": "LOC000190918044",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721248116"
    }
   },
@@ -72642,6 +72676,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721262682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.14068367,
+     -33.82141264
+    ]
+   },
+   "properties": {
+    "name": "92A HIGH STREET HUNTERS HILL 2110",
+    "locID": "LOC000193615984",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318557"
    }
   }
  ]
