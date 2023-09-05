@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T05:10:57.187107",
+ "generated": "2023-09-05T23:10:14.766905",
  "suburb": "SHEARWATER",
  "features": [
   {
@@ -900,7 +900,7 @@
     "name": "77 ALEXANDER STREET SHEARWATER 7307",
     "locID": "LOC000015889496",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702184324"
    }
   },
@@ -2871,8 +2871,8 @@
    "properties": {
     "name": "44 CLUB DRIVE SHEARWATER 7307",
     "locID": "LOC000011294257",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702226594"
    }
   },
@@ -4180,8 +4180,8 @@
    "properties": {
     "name": "3 GULL COURT SHEARWATER 7307",
     "locID": "LOC000077284703",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702253520"
    }
   },
@@ -23876,8 +23876,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     146.53415276,
-     -41.15585358
+     146.53417642,
+     -41.15592294
     ]
    },
    "properties": {
@@ -23893,8 +23893,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     146.53415276,
-     -41.15585358
+     146.53418924,
+     -41.15580145
     ]
    },
    "properties": {
@@ -23903,6 +23903,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS721209092"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.53409686,
+     -41.15700459
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 76 ALEXANDER STREET SHEARWATER 7307",
+    "locID": "LOC000065838613",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GATAS721272755"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.53434685,
+     -41.15702614
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 76 ALEXANDER STREET SHEARWATER 7307",
+    "locID": "LOC000065838613",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GATAS721272867"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.53370825,
+     -41.15357148
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 12 BANKSIA RISE SHEARWATER 7307",
+    "locID": "LOC000193442078",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273256"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.53346445,
+     -41.15355405
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 12 BANKSIA RISE SHEARWATER 7307",
+    "locID": "LOC000193442078",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273339"
    }
   }
  ]

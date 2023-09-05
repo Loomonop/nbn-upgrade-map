@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T05:27:30.488896",
+ "generated": "2023-09-05T23:26:08.833066",
  "suburb": "TRANMERE",
  "features": [
   {
@@ -406,8 +406,8 @@
    "properties": {
     "name": "304 CARELLA STREET TRANMERE 7018",
     "locID": "LOC000049630868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702209975"
    }
   },
@@ -815,7 +815,7 @@
     "name": "343 CARELLA STREET TRANMERE 7018",
     "locID": "LOC000011247854",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702213076"
    }
   },
@@ -3602,8 +3602,8 @@
    "properties": {
     "name": "214 TRANMERE ROAD TRANMERE 7018",
     "locID": "LOC000058801148",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702345289"
    }
   },
@@ -4996,8 +4996,8 @@
    "properties": {
     "name": "240 TRANMERE ROAD TRANMERE 7018",
     "locID": "LOC000023499631",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702360523"
    }
   },
@@ -5472,8 +5472,8 @@
    "properties": {
     "name": "20 VAUGHAN COURT TRANMERE 7018",
     "locID": "LOC000093300466",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702363920"
    }
   },
@@ -7512,8 +7512,8 @@
    "properties": {
     "name": "953 OCEANA DRIVE TRANMERE 7018",
     "locID": "LOC000048033510",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS716241391"
    }
   },
@@ -7920,8 +7920,8 @@
    "properties": {
     "name": "17 ARLUNYA STREET TRANMERE 7018",
     "locID": "LOC000020036476",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716458394"
    }
   },
@@ -9399,8 +9399,8 @@
    "properties": {
     "name": "969 OCEANA DRIVE TRANMERE 7018",
     "locID": "LOC000021725831",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS716621599"
    }
   },
@@ -9451,7 +9451,7 @@
     "name": "975 OCEANA DRIVE TRANMERE 7018",
     "locID": "LOC000133582527",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716621602"
    }
   },
@@ -10079,8 +10079,8 @@
    "properties": {
     "name": "14 INTRIGUE COURT TRANMERE 7018",
     "locID": "LOC000042346281",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716847446"
    }
   },
@@ -10165,7 +10165,7 @@
     "name": "9 INTRIGUE COURT TRANMERE 7018",
     "locID": "LOC000073874025",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716847451"
    }
   },
@@ -10606,8 +10606,8 @@
    "properties": {
     "name": "633 OCEANA DRIVE TRANMERE 7018",
     "locID": "LOC000133636914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717233827"
    }
   },
@@ -11014,8 +11014,8 @@
    "properties": {
     "name": "728 OCEANA DRIVE TRANMERE 7018",
     "locID": "LOC000133578044",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717318422"
    }
   },
@@ -11286,8 +11286,8 @@
    "properties": {
     "name": "53 SPINNAKER CRESCENT TRANMERE 7018",
     "locID": "LOC000006288093",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717413576"
    }
   },
@@ -14108,8 +14108,8 @@
    "properties": {
     "name": "1 REGATTA PLACE TRANMERE 7018",
     "locID": "LOC000148895307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS718482097"
    }
   },
@@ -19211,6 +19211,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS721193805"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.41324878,
+     -42.92655688
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 3 YACHTSMANS WAY TRANMERE 7018",
+    "locID": "LOC000177082541",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721272843"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.41330377,
+     -42.92667864
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 3 YACHTSMANS WAY TRANMERE 7018",
+    "locID": "LOC000190604370",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273338"
    }
   }
  ]

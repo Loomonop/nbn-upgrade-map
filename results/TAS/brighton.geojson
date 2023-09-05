@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T04:44:37.355666",
+ "generated": "2023-09-05T22:49:31.969936",
  "suburb": "BRIGHTON",
  "features": [
   {
@@ -1120,8 +1120,8 @@
    "properties": {
     "name": "56 ANDREW STREET BRIGHTON 7030",
     "locID": "LOC000073650798",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702186929"
    }
   },
@@ -2830,8 +2830,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.2547261,
-     -42.6986343
+     147.25476278,
+     -42.69864022
     ]
    },
    "properties": {
@@ -5184,7 +5184,7 @@
     "name": "7 ERIN CLOSE BRIGHTON 7030",
     "locID": "LOC000082625721",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702246866"
    }
   },
@@ -11143,8 +11143,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.25214879,
-     -42.70284575
+     147.25222876,
+     -42.70284018
     ]
    },
    "properties": {
@@ -11762,7 +11762,7 @@
    "properties": {
     "name": "230 TEA TREE ROAD BRIGHTON 7030",
     "locID": "LOC000193544991",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702358342"
    }
@@ -15614,8 +15614,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.26861252,
-     -42.69769556
+     147.26859096,
+     -42.69789736
     ]
    },
    "properties": {
@@ -19949,8 +19949,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.2684264,
-     -42.69859121
+     147.26839156,
+     -42.69882562
     ]
    },
    "properties": {
@@ -20296,8 +20296,8 @@
    "properties": {
     "name": "22 ALICE PLACE BRIGHTON 7030",
     "locID": "LOC000034349097",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS717238977"
    }
   },
@@ -26603,8 +26603,8 @@
    "properties": {
     "name": "6 DOLLERY COURT BRIGHTON 7030",
     "locID": "LOC000113393030",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718093430"
    }
   },
@@ -29425,8 +29425,8 @@
    "properties": {
     "name": "1A BEDFORD STREET BRIGHTON 7030",
     "locID": "LOC000144594161",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS718479031"
    }
   },
@@ -35512,7 +35512,7 @@
     "name": "30 FREDRICK DRIVE BRIGHTON 7030",
     "locID": "LOC000078413477",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718875158"
    }
   },
@@ -40740,8 +40740,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.25121933,
-     -42.69073521
+     147.25121934,
+     -42.69073522
     ]
    },
    "properties": {
@@ -41896,8 +41896,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.23735559,
-     -42.68003286
+     147.23780889,
+     -42.6799885
     ]
    },
    "properties": {
@@ -43477,8 +43477,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.2547261,
-     -42.6986343
+     147.2546627,
+     -42.69862059
     ]
    },
    "properties": {
@@ -43494,8 +43494,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.2547261,
-     -42.6986343
+     147.25485299,
+     -42.69871043
     ]
    },
    "properties": {
@@ -44252,6 +44252,57 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GATAS721209097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.23699908,
+     -42.68006693
+    ]
+   },
+   "properties": {
+    "name": "65C LACHLAN COURT BRIGHTON 7030",
+    "locID": "ChIJV1QFd-YQbqoR1tcx4xwaios",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721272761"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.26865515,
+     -42.69746294
+    ]
+   },
+   "properties": {
+    "name": "179 TEA TREE ROAD BRIGHTON 7030",
+    "locID": "ChIJOb2TO0sQbqoRi4GN8_RzLTg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721273283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.24031598,
+     -42.70007969
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 6 BROOKE STREET BRIGHTON 7030",
+    "locID": "LOC000188068497",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273652"
    }
   }
  ]

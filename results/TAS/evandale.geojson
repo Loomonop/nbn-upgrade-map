@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T05:12:38.594611",
+ "generated": "2023-09-05T23:11:41.519304",
  "suburb": "EVANDALE",
  "features": [
   {
@@ -1665,7 +1665,7 @@
     "name": "5 COLLINS STREET EVANDALE 7212",
     "locID": "LOC000099605018",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702209789"
    }
   },
@@ -2270,7 +2270,7 @@
     "type": "Point",
     "coordinates": [
      147.28945534,
-     -41.54116915
+     -41.54116916
     ]
    },
    "properties": {
@@ -8032,8 +8032,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.26111101,
-     -41.57367387
+     147.26111102,
+     -41.57367388
     ]
    },
    "properties": {
@@ -10480,8 +10480,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.24691025,
-     -41.56570389
+     147.24686398,
+     -41.56565855
     ]
    },
    "properties": {
@@ -11586,7 +11586,7 @@
     "type": "Point",
     "coordinates": [
      147.28945534,
-     -41.54116915
+     -41.54116916
     ]
    },
    "properties": {
@@ -12632,6 +12632,57 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS721209551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.26281168,
+     -41.5726138
+    ]
+   },
+   "properties": {
+    "name": "50A LOGAN ROAD EVANDALE 7212",
+    "locID": "ChIJlSSuNhyWcKoRLcpBf-2JQlA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721272760"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.24699355,
+     -41.56575674
+    ]
+   },
+   "properties": {
+    "name": "1A GLOVER COURT EVANDALE 7212",
+    "locID": "ChIJC-GP6yeWcKoRZhNTM4te8Qc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721273497"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.24924648,
+     -41.57122858
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 10 RUSSELL STREET EVANDALE 7212",
+    "locID": "LOC000185831554",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273626"
    }
   }
  ]
