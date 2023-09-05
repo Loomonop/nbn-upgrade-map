@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T21:50:45.854197",
+ "generated": "2023-09-05T15:51:09.226275",
  "suburb": "KALIMNA",
  "features": [
   {
@@ -662,7 +662,7 @@
     "name": "157 ALBATROSS ROAD KALIMNA 3909",
     "locID": "LOC000018554143",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419758150"
    }
   },
@@ -3085,8 +3085,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.9672965,
-     -37.87875495
+     147.9674463,
+     -37.87881992
     ]
    },
    "properties": {
@@ -6247,23 +6247,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.96795957,
-     -37.87992911
-    ]
-   },
-   "properties": {
-    "name": "3 SEAVIEW PARADE KALIMNA 3909",
-    "locID": "LOC000029342577",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421574130"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      147.9670584,
      -37.87738884
     ]
@@ -6356,8 +6339,8 @@
    "properties": {
     "name": "50 CREIGHTON STREET KALIMNA 3909",
     "locID": "LOC000100762457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421577701"
    }
   },
@@ -14492,23 +14475,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.96744662,
-     -37.87882006
-    ]
-   },
-   "properties": {
-    "name": "13 POINT ROAD KALIMNA 3909",
-    "locID": "ChIJeWyShzFgJWsRYF-cU389CTY",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721087043"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      147.96551914,
      -37.87408633
     ]
@@ -14764,8 +14730,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.96774261,
-     -37.87983553
+     147.96787254,
+     -37.87992294
     ]
    },
    "properties": {
@@ -14774,6 +14740,108 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721249999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.97501939,
+     -37.88037048
+    ]
+   },
+   "properties": {
+    "name": "19 MARINE PARADE KALIMNA 3909",
+    "locID": "ChIJ-f92WTpgJWsRckaav9A2tEY",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.96784392,
+     -37.87691167
+    ]
+   },
+   "properties": {
+    "name": "37 POINT ROAD KALIMNA 3909",
+    "locID": "LOC000193191050",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721290141"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.96780854,
+     -37.87709506
+    ]
+   },
+   "properties": {
+    "name": "35A POINT ROAD KALIMNA 3909",
+    "locID": "ChIJJcrMXTFgJWsRlzAGkBt151E",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.98201419,
+     -37.87878017
+    ]
+   },
+   "properties": {
+    "name": "241 MARINE PARADE KALIMNA 3909",
+    "locID": "ChIJw6nDWz5gJWsRY5nMYcPHaMg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.96782621,
+     -37.87700345
+    ]
+   },
+   "properties": {
+    "name": "35B POINT ROAD KALIMNA 3909",
+    "locID": "ChIJpXcTXDFgJWsRU8YqRUL0K18",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297990"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.95735479,
+     -37.86959391
+    ]
+   },
+   "properties": {
+    "name": "UNIT 68, 3192 PRINCES HIGHWAY KALIMNA 3909",
+    "locID": "LOC000114389146",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721329040"
    }
   }
  ]

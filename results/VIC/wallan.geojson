@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T22:49:25.995678",
+ "generated": "2023-09-05T16:47:43.569535",
  "suburb": "WALLAN",
  "features": [
   {
@@ -1565,23 +1565,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412559117"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 43 ROWES LANE WALLAN 3756",
-    "locID": "ChIJM6-2BNiv12oRkZDTId7qc-Y",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC412694134"
    }
   },
   {
@@ -3925,8 +3908,8 @@
    "properties": {
     "name": "50-52 STANLEY STREET WALLAN 3756",
     "locID": "LOC000054117107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419697845"
    }
   },
@@ -8889,8 +8872,8 @@
    "properties": {
     "name": "68 WEDDING DRIVE WALLAN 3756",
     "locID": "LOC000068143995",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420016251"
    }
   },
@@ -9246,8 +9229,8 @@
    "properties": {
     "name": "106 QUEEN STREET WALLAN 3756",
     "locID": "LOC000063459891",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420033193"
    }
   },
@@ -10735,23 +10718,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.96316807,
-     -37.41904675
-    ]
-   },
-   "properties": {
-    "name": "165 ROWES LANE WALLAN 3756",
-    "locID": "ChIJkQw1KdWx12oRVItApyk5QY8",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC420269179"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.98078553,
      -37.40977817
     ]
@@ -10776,8 +10742,8 @@
    "properties": {
     "name": "29 STATION STREET WALLAN 3756",
     "locID": "LOC000071590403",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420281054"
    }
   },
@@ -11048,8 +11014,8 @@
    "properties": {
     "name": "50 WEDDING DRIVE WALLAN 3756",
     "locID": "LOC000066911862",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420283037"
    }
   },
@@ -14254,8 +14220,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.95787839,
-     -37.40020315
+     144.9578784,
+     -37.40020316
     ]
    },
    "properties": {
@@ -15095,7 +15061,7 @@
     "name": "6 BENJAMIN COURT WALLAN 3756",
     "locID": "LOC000073759226",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420592391"
    }
   },
@@ -16114,8 +16080,8 @@
    "properties": {
     "name": "3 WEDDING DRIVE WALLAN 3756",
     "locID": "LOC000092530198",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420612543"
    }
   },
@@ -16676,7 +16642,7 @@
     "name": "39 TOSCANA WAY WALLAN 3756",
     "locID": "LOC000088754800",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420624023"
    }
   },
@@ -18817,8 +18783,8 @@
    "properties": {
     "name": "33 WEDDING DRIVE WALLAN 3756",
     "locID": "LOC000028463036",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420894251"
    }
   },
@@ -20143,8 +20109,8 @@
    "properties": {
     "name": "5 MUNROE COURT WALLAN 3756",
     "locID": "LOC000098323613",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420902142"
    }
   },
@@ -24478,8 +24444,8 @@
    "properties": {
     "name": "69 DUKE STREET WALLAN 3756",
     "locID": "LOC000002032347",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421211629"
    }
   },
@@ -26808,7 +26774,7 @@
     "name": "61 WELLINGTON STREET WALLAN 3756",
     "locID": "LOC000097038488",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421356225"
    }
   },
@@ -27167,6 +27133,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421486883"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9821926,
+     -37.41743296
+    ]
+   },
+   "properties": {
+    "name": "16 WINDHAM STREET WALLAN 3756",
+    "locID": "LOC000193541777",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421490290"
    }
   },
   {
@@ -29027,8 +29010,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97381952,
-     -37.40899081
+     144.97383159,
+     -37.40882535
     ]
    },
    "properties": {
@@ -30649,8 +30632,8 @@
    "properties": {
     "name": "6 LYONS WAY WALLAN 3756",
     "locID": "LOC000088827731",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421633289"
    }
   },
@@ -31329,8 +31312,8 @@
    "properties": {
     "name": "12 DANAHER AVENUE WALLAN 3756",
     "locID": "LOC000073742187",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421773068"
    }
   },
@@ -41444,8 +41427,8 @@
    "properties": {
     "name": "23 ALEXANDER AVENUE WALLAN 3756",
     "locID": "LOC000184534899",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423055777"
    }
   },
@@ -43110,8 +43093,8 @@
    "properties": {
     "name": "4 PAMELA COURT WALLAN 3756",
     "locID": "LOC000091434504",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423085887"
    }
   },
@@ -43927,7 +43910,7 @@
     "name": "49 CRAIG PARRY DRIVE WALLAN 3756",
     "locID": "LOC000095033702",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423137476"
    }
   },
@@ -43995,7 +43978,7 @@
     "name": "57 CRAIG PARRY DRIVE WALLAN 3756",
     "locID": "LOC000040140244",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423137480"
    }
   },
@@ -44718,6 +44701,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.97999206,
+     -37.41131772
+    ]
+   },
+   "properties": {
+    "name": "102 HIGH STREET WALLAN 3756",
+    "locID": "LOC000193502975",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC423383625"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.97057725,
      -37.4105306
     ]
@@ -45262,91 +45262,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 1 ROWES LANE WALLAN 3756",
-    "locID": "EiYxIFJvd2VzIExuLCBXYWxsYW4gVklDIDM3NTYsIEF1c3RyYWxpYSIwEi4KFAoSCfE2I4TYr9dqEXgfReeZm7UDEAEqFAoSCds19S7Tr9dqEWAkzAxRjq1s",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423407967"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 2 ROWES LANE WALLAN 3756",
-    "locID": "EiYyIFJvd2VzIExuLCBXYWxsYW4gVklDIDM3NTYsIEF1c3RyYWxpYSIwEi4KFAoSCfE2I4TYr9dqEXgfReeZm7UDEAIqFAoSCds19S7Tr9dqEWAkzAxRjq1s",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423407968"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 39 ROWES LANE WALLAN 3756",
-    "locID": "EiczOSBSb3dlcyBMbiwgV2FsbGFuIFZJQyAzNzU2LCBBdXN0cmFsaWEiMBIuChQKEgl3oelx2K_XahHaxmkZhqyFhhAnKhQKEgnbNfUu06_XahFgJMwMUY6tbA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423407969"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 40 ROWES LANE WALLAN 3756",
-    "locID": "ChIJ-5gjbdiv12oRj31tMxjNmpA",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423407970"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 41 ROWES LANE WALLAN 3756",
-    "locID": "Eic0MSBSb3dlcyBMbiwgV2FsbGFuIFZJQyAzNzU2LCBBdXN0cmFsaWEiMBIuChQKEgl3oelx2K_XahHaxmkZhqyFhhApKhQKEgnbNfUu06_XahFgJMwMUY6tbA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423407971"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.96051806,
      -37.40852282
     ]
@@ -45357,40 +45272,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423407972"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 44 ROWES LANE WALLAN 3756",
-    "locID": "ChIJkb21E9iv12oRZL5edrkDRF4",
-    "tech": "SATELLITE",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423407973"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9589408,
-     -37.41644898
-    ]
-   },
-   "properties": {
-    "name": "LOT 45 ROWES LANE WALLAN 3756",
-    "locID": "Eic0NSBSb3dlcyBMbiwgV2FsbGFuIFZJQyAzNzU2LCBBdXN0cmFsaWEiMBIuChQKEgl3oelx2K_XahHaxmkZhqyFhhAtKhQKEgnbNfUu06_XahFgJMwMUY6tbA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423407974"
    }
   },
   {
@@ -49223,8 +49104,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94395844,
-     -37.3957935
+     144.94414072,
+     -37.39596923
     ]
    },
    "properties": {
@@ -49536,8 +49417,8 @@
    "properties": {
     "name": "1 AUSTRALIS DRIVE WALLAN 3756",
     "locID": "LOC000023759152",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423872940"
    }
   },
@@ -50556,8 +50437,8 @@
    "properties": {
     "name": "35 PRETTY SALLY DRIVE WALLAN 3756",
     "locID": "LOC000092818045",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423892350"
    }
   },
@@ -52018,8 +51899,8 @@
    "properties": {
     "name": "32 CRAIG PARRY DRIVE WALLAN 3756",
     "locID": "LOC000114243116",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424061381"
    }
   },
@@ -55537,7 +55418,7 @@
    "properties": {
     "name": "UNIT 1, 50-52 STANLEY STREET WALLAN 3756",
     "locID": "LOC000054336669",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424454746"
    }
@@ -55554,8 +55435,8 @@
    "properties": {
     "name": "UNIT 2, 50-52 STANLEY STREET WALLAN 3756",
     "locID": "LOC000054117107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424454747"
    }
   },
@@ -55571,8 +55452,8 @@
    "properties": {
     "name": "UNIT 3, 50-52 STANLEY STREET WALLAN 3756",
     "locID": "LOC000054117107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424454748"
    }
   },
@@ -55588,8 +55469,8 @@
    "properties": {
     "name": "UNIT 4, 50-52 STANLEY STREET WALLAN 3756",
     "locID": "LOC000054316955",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424454749"
    }
   },
@@ -55605,8 +55486,8 @@
    "properties": {
     "name": "UNIT 5, 50-52 STANLEY STREET WALLAN 3756",
     "locID": "LOC000054117107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424454750"
    }
   },
@@ -56079,7 +55960,7 @@
     ]
    },
    "properties": {
-    "name": "UNIT 9, 81-99 HIGH STREET WALLAN 3756",
+    "name": "SHOP 9, 81-99 HIGH STREET WALLAN 3756",
     "locID": "LOC000191754708",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
@@ -58240,8 +58121,8 @@
    "properties": {
     "name": "3 JACOB STREET WALLAN 3756",
     "locID": "LOC000081962515",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424583386"
    }
   },
@@ -60035,8 +59916,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.95787839,
-     -37.40020315
+     144.9578784,
+     -37.40020316
     ]
    },
    "properties": {
@@ -61810,8 +61691,8 @@
    "properties": {
     "name": "3 WORONORA WAY WALLAN 3756",
     "locID": "LOC000114976915",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424682160"
    }
   },
@@ -66434,8 +66315,8 @@
    "properties": {
     "name": "30 SPRINGRIDGE BOULEVARD WALLAN 3756",
     "locID": "LOC000125132509",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424788750"
    }
   },
@@ -71620,7 +71501,7 @@
     "name": "20 QUEEN STREET WALLAN 3756",
     "locID": "LOC000125175441",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424970729"
    }
   },
@@ -84294,8 +84175,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97624436,
-     -37.41807206
+     144.9769275,
+     -37.41836179
     ]
    },
    "properties": {
@@ -86987,8 +86868,8 @@
    "properties": {
     "name": "31B STANLEY STREET WALLAN 3756",
     "locID": "LOC000149881704",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425690045"
    }
   },
@@ -92760,8 +92641,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.973531,
-     -37.417822
+     144.97352602,
+     -37.41789278
     ]
    },
    "properties": {
@@ -93661,8 +93542,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97395415,
-     -37.39313985
+     144.97396695,
+     -37.39315267
     ]
    },
    "properties": {
@@ -95956,8 +95837,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.96006484,
-     -37.39238348
+     144.97565221,
+     -37.39461162
     ]
    },
    "properties": {
@@ -97401,6 +97282,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.96574456,
+     -37.39214726
+    ]
+   },
+   "properties": {
+    "name": "39 DAFFODIL CRESCENT WALLAN 3756",
+    "locID": "ChIJsYJCTgOw12oRYsycyEpA9Lw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719909532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.99728399,
      -37.42577076
     ]
@@ -97877,8 +97775,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.96969041,
-     -37.39394101
+     144.96966355,
+     -37.3939419
     ]
    },
    "properties": {
@@ -103266,23 +103164,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.96013354,
-     -37.42020106
-    ]
-   },
-   "properties": {
-    "name": "4 SUNDEW AVENUE WALLAN 3756",
-    "locID": "ChIJV_QAjCqu12oR2_b00MwVcfI",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC720054489"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.96026506,
      -37.42055258
     ]
@@ -107533,6 +107414,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.00054989,
+     -37.43042432
+    ]
+   },
+   "properties": {
+    "name": "42 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJwYpjl1Sw12oR1hS6N5i8dzg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720125993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.00160432,
      -37.42083568
     ]
@@ -107941,6 +107839,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.99848632,
+     -37.43040184
+    ]
+   },
+   "properties": {
+    "name": "112 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "Ei4xMTIgTmV3YnJpZGdlIEJsdmQsIFdhbGxhbiBWSUMgMzc1NiwgQXVzdHJhbGlhIjASLgoUChIJMRip_lOw12oR_FQPas09nMIQcCoUChIJ4ztMw1mw12oRK5eezOHu_cU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720127309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.99994946,
      -37.42643727
     ]
@@ -107951,6 +107866,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720127324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99850426,
+     -37.43029921
+    ]
+   },
+   "properties": {
+    "name": "110 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "Ei4xMTAgTmV3YnJpZGdlIEJsdmQsIFdhbGxhbiBWSUMgMzc1NiwgQXVzdHJhbGlhIjASLgoUChIJMRip_lOw12oR_FQPas09nMIQbioUChIJ4ztMw1mw12oRK5eezOHu_cU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720127492"
    }
   },
   {
@@ -108002,6 +107934,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720127775"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9980609,
+     -37.43133469
+    ]
+   },
+   "properties": {
+    "name": "124 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJXfU3yayx12oRh6q2kyXjAuk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720127812"
    }
   },
   {
@@ -108315,6 +108264,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.00082965,
+     -37.43045542
+    ]
+   },
+   "properties": {
+    "name": "38 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJMy-vllSw12oRbxEnlCUkoP0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720128946"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.96268173,
      -37.41807025
     ]
@@ -108359,6 +108325,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720129056"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.00027013,
+     -37.43039323
+    ]
+   },
+   "properties": {
+    "name": "46 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJwaPemFSw12oRDYiFmr7pOZw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720129229"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99983453,
+     -37.43032425
+    ]
+   },
+   "properties": {
+    "name": "52 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJ4WFlnlSw12oRfOs0RHM6mvs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720129384"
    }
   },
   {
@@ -108502,6 +108502,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.99810526,
+     -37.43133963
+    ]
+   },
+   "properties": {
+    "name": "128 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJyw4zzqyx12oR7dFGTRT2cpo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720129892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.99944674,
      -37.42760054
     ]
@@ -108563,6 +108580,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720130095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99846994,
+     -37.43049554
+    ]
+   },
+   "properties": {
+    "name": "114 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "Ei4xMTQgTmV3YnJpZGdlIEJsdmQsIFdhbGxhbiBWSUMgMzc1NiwgQXVzdHJhbGlhIjASLgoUChIJMRip_lOw12oR_FQPas09nMIQcioUChIJ4ztMw1mw12oRK5eezOHu_cU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720130201"
    }
   },
   {
@@ -108672,6 +108706,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.99782635,
+     -37.43130862
+    ]
+   },
+   "properties": {
+    "name": "132 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJA_S70Kyx12oRJyKNlrQyhqs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720130371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.00006213,
      -37.42999781
     ]
@@ -108740,6 +108791,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.00013025,
+     -37.43037768
+    ]
+   },
+   "properties": {
+    "name": "48 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJT8c9n1Sw12oRVVeh6NOZ8HU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720130746"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.99948423,
      -37.43030587
     ]
@@ -108801,6 +108869,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720131120"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99834397,
+     -37.43121914
+    ]
+   },
+   "properties": {
+    "name": "126 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "Ei4xMjYgTmV3YnJpZGdlIEJsdmQsIFdhbGxhbiBWSUMgMzc1NiwgQXVzdHJhbGlhIjASLgoUChIJMRip_lOw12oR_FQPas09nMIQfioUChIJ4ztMw1mw12oRK5eezOHu_cU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720131157"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.00110941,
+     -37.43048652
+    ]
+   },
+   "properties": {
+    "name": "34 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJZ35Fk1Sw12oRKxyBxmEtXxE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720131294"
    }
   },
   {
@@ -108903,6 +109005,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720131690"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.00041001,
+     -37.43040878
+    ]
+   },
+   "properties": {
+    "name": "44 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJ_wSymVSw12oRp0EMgYEJOeY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720131741"
    }
   },
   {
@@ -109182,6 +109301,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.99999038,
+     -37.43036213
+    ]
+   },
+   "properties": {
+    "name": "50 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJ_023n1Sw12oRYHx89XMRZH0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720132866"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.99957874,
      -37.42969571
     ]
@@ -109396,6 +109532,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720133654"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99852376,
+     -37.43018766
+    ]
+   },
+   "properties": {
+    "name": "108 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "LOC000185979214",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720133762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.00096953,
+     -37.43047097
+    ]
+   },
+   "properties": {
+    "name": "36 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJ8-GGk1Sw12oRhgeJpVFeE20",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720133817"
    }
   },
   {
@@ -109726,6 +109896,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.9998629,
+     -37.43016192
+    ]
+   },
+   "properties": {
+    "name": "21 IVANHOE ROAD WALLAN 3756",
+    "locID": "ChIJJ46rnVSw12oRNgH9-UvG91w",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720134974"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.96177986,
      -37.41750255
     ]
@@ -110015,6 +110202,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.00068977,
+     -37.43043987
+    ]
+   },
+   "properties": {
+    "name": "40 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJ4aohl1Sw12oRkWo4t4CrL5A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720136180"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99856236,
+     -37.42996678
+    ]
+   },
+   "properties": {
+    "name": "103 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "LOC000185979163",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720136204"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.96296722,
      -37.41914713
     ]
@@ -110083,6 +110304,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.99829322,
+     -37.4312964
+    ]
+   },
+   "properties": {
+    "name": "122 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "Ei4xMjIgTmV3YnJpZGdlIEJsdmQsIFdhbGxhbiBWSUMgMzc1NiwgQXVzdHJhbGlhIjASLgoUChIJMRip_lOw12oR_FQPas09nMIQeioUChIJ4ztMw1mw12oRK5eezOHu_cU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720136823"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.99948843,
      -37.4273619
     ]
@@ -110093,6 +110331,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720136868"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99796623,
+     -37.43132417
+    ]
+   },
+   "properties": {
+    "name": "130 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJncpI0Kyx12oRkfc-cu_V9TI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720136880"
    }
   },
   {
@@ -110229,6 +110484,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720137374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99854326,
+     -37.43007611
+    ]
+   },
+   "properties": {
+    "name": "106 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "LOC000185979192",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720137429"
    }
   },
   {
@@ -111426,6 +111698,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.99856393,
+     -37.42995787
+    ]
+   },
+   "properties": {
+    "name": "104 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "LOC000185979171",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720141693"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.00315457,
      -37.38183768
     ]
@@ -112293,6 +112582,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.00138078,
+     -37.43051668
+    ]
+   },
+   "properties": {
+    "name": "30 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJTw1I7FSw12oR8kZal-Vlw2A",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720144882"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.96300581,
      -37.41832574
     ]
@@ -112575,6 +112881,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720146195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.0012493,
+     -37.43050207
+    ]
+   },
+   "properties": {
+    "name": "32 JUNIPERINA CIRCUIT WALLAN 3756",
+    "locID": "ChIJ9Wjr7FSw12oR7rvS0C6fJAs",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720146220"
    }
   },
   {
@@ -112895,7 +113218,7 @@
    "properties": {
     "name": "52 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357842",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720213189"
    }
@@ -113439,7 +113762,7 @@
    "properties": {
     "name": "62 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357890",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720217399"
    }
@@ -113626,7 +113949,7 @@
    "properties": {
     "name": "60 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357888",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720218384"
    }
@@ -113881,7 +114204,7 @@
    "properties": {
     "name": "54 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357857",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720220321"
    }
@@ -114204,7 +114527,7 @@
    "properties": {
     "name": "46 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357819",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720222148"
    }
@@ -114357,7 +114680,7 @@
    "properties": {
     "name": "53 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357928",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720222685"
    }
@@ -114459,7 +114782,7 @@
    "properties": {
     "name": "50 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357835",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720223448"
    }
@@ -114680,7 +115003,7 @@
    "properties": {
     "name": "51 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357937",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720224708"
    }
@@ -114714,7 +115037,7 @@
    "properties": {
     "name": "48 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357826",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720224888"
    }
@@ -114765,7 +115088,7 @@
    "properties": {
     "name": "45 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357944",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720225383"
    }
@@ -115258,7 +115581,7 @@
    "properties": {
     "name": "56 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357861",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720228266"
    }
@@ -116040,7 +116363,7 @@
    "properties": {
     "name": "58 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357874",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720233550"
    }
@@ -123581,40 +123904,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97302041,
-     -37.40857466
-    ]
-   },
-   "properties": {
-    "name": "UNIT 16, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513577",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720647282"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97384042,
-     -37.40870422
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513680",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720647682"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.00194979,
      -37.41560766
     ]
@@ -123632,40 +123921,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97341268,
-     -37.40835474
-    ]
-   },
-   "properties": {
-    "name": "UNIT 8, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513577",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720648689"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97332838,
-     -37.40894133
-    ]
-   },
-   "properties": {
-    "name": "30 KING STREET WALLAN 3756",
-    "locID": "LOC000192513842",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720648735"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.00284444,
      -37.41653465
     ]
@@ -123676,40 +123931,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720648784"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97349051,
-     -37.40866705
-    ]
-   },
-   "properties": {
-    "name": "UNIT 9, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513622",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720648894"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97304768,
-     -37.40845312
-    ]
-   },
-   "properties": {
-    "name": "UNIT 14, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513554",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720648944"
    }
   },
   {
@@ -123768,91 +123989,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9733395,
-     -37.40865608
-    ]
-   },
-   "properties": {
-    "name": "UNIT 13, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513605",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720650054"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97366658,
-     -37.40838323
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513508",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720650145"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97319215,
-     -37.40892706
-    ]
-   },
-   "properties": {
-    "name": "28 KING STREET WALLAN 3756",
-    "locID": "LOC000192513826",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720650599"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.00112172,
-     -37.41456952
-    ]
-   },
-   "properties": {
-    "name": "16 FREEWAY DRIVE WALLAN 3756",
-    "locID": "LOC000186512619",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720650660"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97383159,
-     -37.40882535
-    ]
-   },
-   "properties": {
-    "name": "129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513680",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720650806"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.00141278,
      -37.41554798
     ]
@@ -123887,40 +124023,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97360017,
-     -37.40897175
-    ]
-   },
-   "properties": {
-    "name": "34 KING STREET WALLAN 3756",
-    "locID": "LOC000192513861",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720651527"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97386166,
-     -37.40841295
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513499",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720651659"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.97295031,
      -37.40891329
     ]
@@ -123931,23 +124033,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720652095"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97326781,
-     -37.40864485
-    ]
-   },
-   "properties": {
-    "name": "UNIT 15, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513596",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720652212"
    }
   },
   {
@@ -124006,23 +124091,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97373627,
-     -37.40870063
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513680",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720654055"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.00114428,
      -37.41551814
     ]
@@ -124033,23 +124101,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720654275"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97366527,
-     -37.40868937
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513667",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720654520"
    }
   },
   {
@@ -124074,23 +124125,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97353975,
-     -37.40836899
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513512",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720654892"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.00057651,
      -37.41439051
     ]
@@ -124101,40 +124135,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720655081"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97328648,
-     -37.40834057
-    ]
-   },
-   "properties": {
-    "name": "UNIT 10, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513596",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720656193"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97346435,
-     -37.4089564
-    ]
-   },
-   "properties": {
-    "name": "32 KING STREET WALLAN 3756",
-    "locID": "LOC000192513857",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720656733"
    }
   },
   {
@@ -124210,40 +124210,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97311186,
-     -37.40828682
-    ]
-   },
-   "properties": {
-    "name": "UNIT 12, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513680",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720660711"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97358664,
-     -37.40867765
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513583",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720660894"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.00292138,
      -37.41609406
     ]
@@ -124271,23 +124237,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720661363"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.97299654,
-     -37.40869904
-    ]
-   },
-   "properties": {
-    "name": "UNIT 18, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513583",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720662480"
    }
   },
   {
@@ -124329,23 +124278,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.97341148,
-     -37.40866118
-    ]
-   },
-   "properties": {
-    "name": "UNIT 11, 129 DUDLEY STREET WALLAN 3756",
-    "locID": "LOC000192513605",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720662868"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.00060727,
      -37.41545847
     ]
@@ -124363,8 +124295,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99629344,
-     -37.42772601
+     144.99615343,
+     -37.42770164
     ]
    },
    "properties": {
@@ -124380,8 +124312,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99597734,
-     -37.42769087
+     144.99581152,
+     -37.42767006
     ]
    },
    "properties": {
@@ -124431,8 +124363,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99492195,
-     -37.42694461
+     144.9949442,
+     -37.42685936
     ]
    },
    "properties": {
@@ -124533,8 +124465,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99614518,
-     -37.42770953
+     144.99598453,
+     -37.42768791
     ]
    },
    "properties": {
@@ -124635,8 +124567,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99507266,
-     -37.42759819
+     144.99478717,
+     -37.42757257
     ]
    },
    "properties": {
@@ -124686,8 +124618,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99499216,
-     -37.42654305
+     144.99501611,
+     -37.42644181
     ]
    },
    "properties": {
@@ -124720,8 +124652,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99505652,
-     -37.42617496
+     144.99506715,
+     -37.42614489
     ]
    },
    "properties": {
@@ -124839,8 +124771,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99552138,
-     -37.42764016
+     144.99538173,
+     -37.42762338
     ]
    },
    "properties": {
@@ -125043,8 +124975,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99478423,
-     -37.42758548
+     144.99463338,
+     -37.4275712
     ]
    },
    "properties": {
@@ -125094,8 +125026,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.994904,
-     -37.42704723
+     144.99492796,
+     -37.42695447
     ]
    },
    "properties": {
@@ -125213,8 +125145,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99657316,
-     -37.42775712
+     144.99643903,
+     -37.42773048
     ]
    },
    "properties": {
@@ -125366,8 +125298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99757312,
-     -37.4280561
+     144.99718876,
+     -37.42792409
     ]
    },
    "properties": {
@@ -125417,8 +125349,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99523323,
-     -37.42760812
+     144.99507827,
+     -37.42759454
     ]
    },
    "properties": {
@@ -125468,8 +125400,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99719497,
-     -37.42793731
+     144.99705145,
+     -37.42787466
     ]
    },
    "properties": {
@@ -125621,8 +125553,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99538151,
-     -37.42762461
+     144.99523343,
+     -37.4276069
     ]
    },
    "properties": {
@@ -125757,8 +125689,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99492231,
-     -37.42759511
+     144.99521399,
+     -37.42736207
     ]
    },
    "properties": {
@@ -125910,8 +125842,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99772457,
-     -37.42810312
+     144.99757186,
+     -37.42804355
     ]
    },
    "properties": {
@@ -126080,8 +126012,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99497266,
-     -37.42665459
+     144.99500451,
+     -37.42654156
     ]
    },
    "properties": {
@@ -126097,8 +126029,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99486385,
-     -37.42727685
+     144.99489549,
+     -37.42717484
     ]
    },
    "properties": {
@@ -126216,8 +126148,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9948845,
-     -37.42715877
+     144.99490709,
+     -37.42707277
     ]
    },
    "properties": {
@@ -126250,8 +126182,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99503467,
-     -37.42629989
+     144.99504627,
+     -37.4262516
     ]
    },
    "properties": {
@@ -126284,8 +126216,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99688115,
-     -37.42783872
+     144.99672602,
+     -37.42778266
     ]
    },
    "properties": {
@@ -126294,6 +126226,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720757961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99960034,
+     -37.43057349
+    ]
+   },
+   "properties": {
+    "name": "119 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "Ei4xMTkgTmV3YnJpZGdlIEJsdmQsIFdhbGxhbiBWSUMgMzc1NiwgQXVzdHJhbGlhIjASLgoUChIJMRip_lOw12oR_FQPas09nMIQdyoUChIJ4ztMw1mw12oRK5eezOHu_cU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720758141"
    }
   },
   {
@@ -126318,8 +126267,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99704335,
-     -37.42788968
+     144.99688805,
+     -37.42782523
     ]
    },
    "properties": {
@@ -126335,8 +126284,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99501283,
-     -37.42642482
+     144.99503467,
+     -37.42635598
     ]
    },
    "properties": {
@@ -126386,8 +126335,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99566125,
-     -37.42765572
+     144.99552454,
+     -37.42763848
     ]
    },
    "properties": {
@@ -126539,23 +126488,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99521398,
-     -37.42736207
-    ]
-   },
-   "properties": {
-    "name": "71 BUCKLAND HILL DRIVE WALLAN 3756",
-    "locID": "ChIJpZ0IZFKw12oREOUmOEtFB4M",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC720760674"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.97695037,
      -37.40936147
     ]
@@ -126590,8 +126522,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99643331,
-     -37.42774157
+     144.99630172,
+     -37.42771675
     ]
    },
    "properties": {
@@ -126607,8 +126539,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99495471,
-     -37.42675721
+     144.99498364,
+     -37.42665755
     ]
    },
    "properties": {
@@ -126777,8 +126709,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99493833,
-     -37.42685091
+     144.9949558,
+     -37.42676425
     ]
    },
    "properties": {
@@ -126804,23 +126736,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720762058"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9953557,
-     -37.42655138
-    ]
-   },
-   "properties": {
-    "name": "56 NEWBRIDGE BOULEVARD WALLAN 3756",
-    "locID": "LOC000185140509",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720762390"
    }
   },
   {
@@ -126998,8 +126913,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9958095,
-     -37.4276722
+     144.99566185,
+     -37.42765221
     ]
    },
    "properties": {
@@ -127372,8 +127287,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99671903,
-     -37.42778779
+     144.99658047,
+     -37.42774696
     ]
    },
    "properties": {
@@ -130126,8 +130041,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.99462758,
-     -37.42756806
+     144.99487917,
+     -37.4272595
     ]
    },
    "properties": {
@@ -130388,7 +130303,7 @@
    "properties": {
     "name": "55 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357916",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720954900"
    }
@@ -130473,7 +130388,7 @@
    "properties": {
     "name": "57 LUCCA WAY WALLAN 3756",
     "locID": "LOC000191357900",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720961234"
    }
@@ -130806,8 +130721,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9877747,
-     -37.43813822
+     144.99039548,
+     -37.43291835
     ]
    },
    "properties": {
@@ -133543,8 +133458,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9906296,
-     -37.3943493
+     144.99018433,
+     -37.39468703
     ]
    },
    "properties": {
@@ -134614,8 +134529,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9906296,
-     -37.3943493
+     144.99052999,
+     -37.39403328
     ]
    },
    "properties": {
@@ -134658,6 +134573,2879 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721271986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98872511,
+     -37.43669141
+    ]
+   },
+   "properties": {
+    "name": "273 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJFwRLrbCx12oRH0ZI5o_sroc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721283690"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98545418,
+     -37.43723958
+    ]
+   },
+   "properties": {
+    "name": "28 FLEECE STREET WALLAN 3756",
+    "locID": "ChIJRfoyNrix12oRy3Z0CuZUTHo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721283793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99101834,
+     -37.39386869
+    ]
+   },
+   "properties": {
+    "name": "1 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJVdUV-3aw12oRtM3VgyZh_24",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284142"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97384042,
+     -37.40870422
+    ]
+   },
+   "properties": {
+    "name": "127 DUDLEY STREET WALLAN 3756",
+    "locID": "ChIJD7rhYTuw12oR3ZIj90fNq-Q",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284158"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99095667,
+     -37.39411593
+    ]
+   },
+   "properties": {
+    "name": "7 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJkVpN5Haw12oRDXstlTypzfo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284181"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99066684,
+     -37.3937338
+    ]
+   },
+   "properties": {
+    "name": "4 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJNVtE8Haw12oRz9NAgdUV05Q",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284749"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98369878,
+     -37.43555408
+    ]
+   },
+   "properties": {
+    "name": "63 BARTON RISE WALLAN 3756",
+    "locID": "ChIJE7FkArix12oRAh4aU7luR7Y",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98890921,
+     -37.43562241
+    ]
+   },
+   "properties": {
+    "name": "261 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJxwqmzbCx12oRvZIQ5pKtLi8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98541623,
+     -37.43745998
+    ]
+   },
+   "properties": {
+    "name": "32 FLEECE STREET WALLAN 3756",
+    "locID": "ChIJL-_kSLix12oR-xME4w-PFxk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285070"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98639691,
+     -37.43546775
+    ]
+   },
+   "properties": {
+    "name": "22 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ28e_c7ex12oRRVTJD7q716o",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285282"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98839197,
+     -37.43524907
+    ]
+   },
+   "properties": {
+    "name": "238 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJG1TZLbex12oRNktonn_QfSw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98326435,
+     -37.43595767
+    ]
+   },
+   "properties": {
+    "name": "4 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJXdoJCLix12oRfKKJ9WOv9yw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285843"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98412951,
+     -37.43596736
+    ]
+   },
+   "properties": {
+    "name": "8 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJGW-JG7ix12oRcaWScv2aiJ0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98862437,
+     -37.43727608
+    ]
+   },
+   "properties": {
+    "name": "283 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJgcK9_7mx12oRxODG8KcIAYI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285886"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98371698,
+     -37.43646556
+    ]
+   },
+   "properties": {
+    "name": "13 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJD-Q0DLix12oR1Yz1djh1IgY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285979"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97341149,
+     -37.40866118
+    ]
+   },
+   "properties": {
+    "name": "11 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "ChIJWSOmXzuw12oRGR2ceMNrTZY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721286054"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98876445,
+     -37.43414782
+    ]
+   },
+   "properties": {
+    "name": "226 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJx3TYMrGx12oRLoXQIS0lGDw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721286150"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98853915,
+     -37.43453783
+    ]
+   },
+   "properties": {
+    "name": "230 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJ55591Lax12oRkpAq7G4c0sI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721286230"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99090617,
+     -37.39422096
+    ]
+   },
+   "properties": {
+    "name": "9 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJ20F35naw12oRxINdwsuyjHQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721286407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98403042,
+     -37.43649991
+    ]
+   },
+   "properties": {
+    "name": "9 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJhcqHEbix12oRAqdJHxMLug8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721286420"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.983878,
+     -37.43557372
+    ]
+   },
+   "properties": {
+    "name": "61 BARTON RISE WALLAN 3756",
+    "locID": "ChIJB7sA-Lex12oRb8YqwsDAXhk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721286750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98062441,
+     -37.41137827
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 107 BENTINCK STREET WALLAN 3756",
+    "locID": "LOC000193502981",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721286912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98844098,
+     -37.4349645
+    ]
+   },
+   "properties": {
+    "name": "236 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJ-4rGK7ex12oRUvqa_KLdz0s",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98319331,
+     -37.43511666
+    ]
+   },
+   "properties": {
+    "name": "50 BARTON RISE WALLAN 3756",
+    "locID": "ChIJmePgAcix12oRpG0JmxL3ccg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98513193,
+     -37.43532916
+    ]
+   },
+   "properties": {
+    "name": "38 BARTON RISE WALLAN 3756",
+    "locID": "ChIJewNJkLex12oRUdfZoHXkwwc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98479861,
+     -37.4360134
+    ]
+   },
+   "properties": {
+    "name": "8 SAMBAR ROAD WALLAN 3756",
+    "locID": "ChIJM0z7ILix12oR4mLxvQOMoRs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287483"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98544537,
+     -37.43536351
+    ]
+   },
+   "properties": {
+    "name": "34 BARTON RISE WALLAN 3756",
+    "locID": "ChIJsSqrm7ex12oRqLbYY2Nmebo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287628"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97328649,
+     -37.40834057
+    ]
+   },
+   "properties": {
+    "name": "10 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513531",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721287724"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98321973,
+     -37.43621654
+    ]
+   },
+   "properties": {
+    "name": "8 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJO4L-Cbix12oRG5_xlmGQeKc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287972"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98543395,
+     -37.43735733
+    ]
+   },
+   "properties": {
+    "name": "30 FLEECE STREET WALLAN 3756",
+    "locID": "ChIJvVdKSLix12oR8A_FAc90Es0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97381952,
+     -37.40899082
+    ]
+   },
+   "properties": {
+    "name": "125 DUDLEY STREET WALLAN 3756",
+    "locID": "ChIJ3-7KZjuw12oRLaT6Gfxpdm8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288370"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9835938,
+     -37.43616102
+    ]
+   },
+   "properties": {
+    "name": "10 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJ3agwD7ix12oRUUjlB0Vn5mE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288455"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98230263,
+     -37.43539838
+    ]
+   },
+   "properties": {
+    "name": "67 BARTON RISE WALLAN 3756",
+    "locID": "ChIJbZxo5Mex12oRHY0bpivxes8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288515"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98414874,
+     -37.43585578
+    ]
+   },
+   "properties": {
+    "name": "6 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJJ8BHHLix12oR3WsNx0Hfvc4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288523"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98354694,
+     -37.43644692
+    ]
+   },
+   "properties": {
+    "name": "15 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJyzWIC7ix12oRRFSXS4jfn9Q",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288575"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98411028,
+     -37.43607894
+    ]
+   },
+   "properties": {
+    "name": "10 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJu_mtG7ix12oRGk0sGzE002c",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98836724,
+     -37.4353926
+    ]
+   },
+   "properties": {
+    "name": "240 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJdev1Mbex12oRHdjjdEJ8LYk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288839"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99050352,
+     -37.39413579
+    ]
+   },
+   "properties": {
+    "name": "10 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJS4JB6Xaw12oRZczdrpmp4n0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98476631,
+     -37.43620085
+    ]
+   },
+   "properties": {
+    "name": "12 SAMBAR ROAD WALLAN 3756",
+    "locID": "ChIJJ_fSI7ix12oRA_i_PjK_4lI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289054"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98578119,
+     -37.43540031
+    ]
+   },
+   "properties": {
+    "name": "30 BARTON RISE WALLAN 3756",
+    "locID": "ChIJGfI0nLex12oRsVwi6cc2fU4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98079377,
+     -37.40733787
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 140 HIGH STREET WALLAN 3756",
+    "locID": "ChIJhWzYyz-w12oRBhkh2RwbdDw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289203"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99073179,
+     -37.39452131
+    ]
+   },
+   "properties": {
+    "name": "15 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJ37vHwnaw12oRtZujgHkhoKs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289292"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97353975,
+     -37.40836899
+    ]
+   },
+   "properties": {
+    "name": "6 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513512",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721289447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98072265,
+     -37.41151565
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 107 BENTINCK STREET WALLAN 3756",
+    "locID": "LOC000193503007",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721289652"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99080208,
+     -37.39442793
+    ]
+   },
+   "properties": {
+    "name": "13 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJF1Tj53aw12oRgSJF-JBmRpQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289664"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98768275,
+     -37.43560864
+    ]
+   },
+   "properties": {
+    "name": "8 BARTON RISE WALLAN 3756",
+    "locID": "ChIJRy01P7ex12oR3Jbyh1tXjKk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98474855,
+     -37.43630388
+    ]
+   },
+   "properties": {
+    "name": "14 SAMBAR ROAD WALLAN 3756",
+    "locID": "ChIJLQVVIrix12oRMBlXA1h1eb0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289815"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98860399,
+     -37.43739436
+    ]
+   },
+   "properties": {
+    "name": "285 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJaR4W_7mx12oRtGDDkhcUHTY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98446003,
+     -37.43616729
+    ]
+   },
+   "properties": {
+    "name": "11 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJrXXvGLix12oRPfUFlz2QuLc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290330"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98239671,
+     -37.43502721
+    ]
+   },
+   "properties": {
+    "name": "52 BARTON RISE WALLAN 3756",
+    "locID": "ChIJoUQ6CMix12oRoEebG44Yt08",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290444"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98899418,
+     -37.43512923
+    ]
+   },
+   "properties": {
+    "name": "253 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJV8k21LCx12oRyi34oczFTqM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99085533,
+     -37.39432509
+    ]
+   },
+   "properties": {
+    "name": "11 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJEU405naw12oRHOeelIseg48",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98895112,
+     -37.43537917
+    ]
+   },
+   "properties": {
+    "name": "257 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJMWez07Cx12oRnRdQJ_eDDfU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290838"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98317665,
+     -37.43646647
+    ]
+   },
+   "properties": {
+    "name": "12 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJBaxb9cex12oRGCUGlV4kSAA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290887"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99113141,
+     -37.39389867
+    ]
+   },
+   "properties": {
+    "name": "3 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJsXSe_Haw12oR2muccXrnHX8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98447619,
+     -37.43607356
+    ]
+   },
+   "properties": {
+    "name": "9 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJe6nMGLix12oRKehOOE22eu0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98469695,
+     -37.43657296
+    ]
+   },
+   "properties": {
+    "name": "1 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJV0AJPbix12oRUhVfLRR7qQE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98868435,
+     -37.43692795
+    ]
+   },
+   "properties": {
+    "name": "277 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJhdauVLex12oRXuiBAmwAF7U",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97366527,
+     -37.40868937
+    ]
+   },
+   "properties": {
+    "name": "5 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "ChIJXbU9YDuw12oRlzK24DQIyGk",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291869"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98361658,
+     -37.43603165
+    ]
+   },
+   "properties": {
+    "name": "9 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJ9dftBbix12oRzCFiaPUG3jQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291984"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97326782,
+     -37.40864485
+    ]
+   },
+   "properties": {
+    "name": "15 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "ChIJbdgnXzuw12oRW47iaBY8tsc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98607784,
+     -37.43543281
+    ]
+   },
+   "properties": {
+    "name": "26 BARTON RISE WALLAN 3756",
+    "locID": "ChIJjfrYdbex12oRBwqYWJsH3bw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292173"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97302042,
+     -37.40857466
+    ]
+   },
+   "properties": {
+    "name": "16 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513577",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721292201"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98434386,
+     -37.43653426
+    ]
+   },
+   "properties": {
+    "name": "5 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJ_3HrFrix12oRtgtKyyEkFbs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98528865,
+     -37.43534633
+    ]
+   },
+   "properties": {
+    "name": "36 BARTON RISE WALLAN 3756",
+    "locID": "ChIJhaGDmrex12oReHbqEjwq3e4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292523"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99035992,
+     -37.3944148
+    ]
+   },
+   "properties": {
+    "name": "16 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJf1qWwXaw12oReJwOibyDZIg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292646"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98365659,
+     -37.43579957
+    ]
+   },
+   "properties": {
+    "name": "5 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJCeh1BLix12oRjJ22u1q9p9Y",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292737"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98418714,
+     -37.43651709
+    ]
+   },
+   "properties": {
+    "name": "7 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJzQNFEbix12oRnWAJm1ARz_s",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292855"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98444222,
+     -37.43627066
+    ]
+   },
+   "properties": {
+    "name": "13 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJBwZJGLix12oRm5ZyIvYks6Y",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98416798,
+     -37.4357442
+    ]
+   },
+   "properties": {
+    "name": "4 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJk2jqHbix12oRcMvEs0rw250",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292967"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98867944,
+     -37.43426303
+    ]
+   },
+   "properties": {
+    "name": "228 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJodxXzbax12oRUku0Q2wJvuU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293090"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.987971,
+     -37.43564022
+    ]
+   },
+   "properties": {
+    "name": "4 BARTON RISE WALLAN 3756",
+    "locID": "ChIJZS0zOLex12oRo9It447yWNw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99077336,
+     -37.39377552
+    ]
+   },
+   "properties": {
+    "name": "2 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJA3p28Haw12oR9myjZlP2rWk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99048378,
+     -37.39495194
+    ]
+   },
+   "properties": {
+    "name": "23 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJXzpYz3aw12oRvOv2EkdqjM4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99123788,
+     -37.39394048
+    ]
+   },
+   "properties": {
+    "name": "5 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJjW3p_Haw12oR0efmqx5EwqI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293655"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98367697,
+     -37.43568129
+    ]
+   },
+   "properties": {
+    "name": "3 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJz86xA7ix12oRVDCuKEd9XBs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.986229,
+     -37.43544935
+    ]
+   },
+   "properties": {
+    "name": "24 BARTON RISE WALLAN 3756",
+    "locID": "ChIJN6IXdLex12oR9ihOz8ZW_B8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97366658,
+     -37.40838324
+    ]
+   },
+   "properties": {
+    "name": "4 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513508",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721294197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99768644,
+     -37.43129306
+    ]
+   },
+   "properties": {
+    "name": "134 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJdbLUz6yx12oRiTJTRb-4dgI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294326"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9873861,
+     -37.43557613
+    ]
+   },
+   "properties": {
+    "name": "12 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ82v3P7ex12oRjP28FhztbkQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294607"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98377338,
+     -37.4361807
+    ]
+   },
+   "properties": {
+    "name": "8 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJFcaQD7ix12oRzreUhKVkhXk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294735"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98724617,
+     -37.4355608
+    ]
+   },
+   "properties": {
+    "name": "14 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ74vJarex12oR4Fp9kXAZ9ig",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294749"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98917717,
+     -37.43449357
+    ]
+   },
+   "properties": {
+    "name": "243 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJhws5LrGx12oRHYrlR1hRd74",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294811"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98886859,
+     -37.43403239
+    ]
+   },
+   "properties": {
+    "name": "224 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJp_GBNLGx12oRtnV1ozW6n5Q",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294873"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98858476,
+     -37.43750594
+    ]
+   },
+   "properties": {
+    "name": "287 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJA9Ha-Lmx12oR8qmElNSEKDk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295099"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98846567,
+     -37.4348213
+    ]
+   },
+   "properties": {
+    "name": "234 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJoRJtKrex12oRmrriadjyMes",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98877279,
+     -37.43641469
+    ]
+   },
+   "properties": {
+    "name": "269 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJG-NGs7Cx12oR-nu51P62cf8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99753748,
+     -37.431281
+    ]
+   },
+   "properties": {
+    "name": "136 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJD7Ja0Kyx12oRx9H193JvMrg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295482"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97373628,
+     -37.40870064
+    ]
+   },
+   "properties": {
+    "name": "3 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513512",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721295673"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98782268,
+     -37.43562397
+    ]
+   },
+   "properties": {
+    "name": "6 BARTON RISE WALLAN 3756",
+    "locID": "ChIJCYj6OLex12oR-hs1csgvKuI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295696"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97358665,
+     -37.40867765
+    ]
+   },
+   "properties": {
+    "name": "7 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513583",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721295717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98079377,
+     -37.40733787
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 140 HIGH STREET WALLAN 3756",
+    "locID": "ChIJhWzYyz-w12oRBhkh2RwbdDw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295735"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98910481,
+     -37.43463154
+    ]
+   },
+   "properties": {
+    "name": "245 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJE069LrGx12oRm4Y9DUAM5BY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295761"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98537926,
+     -37.4376742
+    ]
+   },
+   "properties": {
+    "name": "36 FLEECE STREET WALLAN 3756",
+    "locID": "ChIJHyQMT7ix12oR6Cv11fV441o",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98402372,
+     -37.43520769
+    ]
+   },
+   "properties": {
+    "name": "48 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ3aPw8Lex12oRu1mjCnn2DsQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296053"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98978139,
+     -37.43216815
+    ]
+   },
+   "properties": {
+    "name": "54 BARTON RISE WALLAN 3756",
+    "locID": "ChIJP_3Q6LOx12oR2-cRBCotDN4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296054"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9831185,
+     -37.43574514
+    ]
+   },
+   "properties": {
+    "name": "3 NASSELLA ROAD WALLAN 3756",
+    "locID": "ChIJ9bn0-Mex12oRo1wMLKNoYmY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296092"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98710625,
+     -37.43554547
+    ]
+   },
+   "properties": {
+    "name": "16 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ6es7a7ex12oR17sXKkuMpZU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98903378,
+     -37.43489937
+    ]
+   },
+   "properties": {
+    "name": "249 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJm6EYKrGx12oRnlsDSNqJUGE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296409"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99007935,
+     -37.39491961
+    ]
+   },
+   "properties": {
+    "name": "22 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJOWPXt3aw12oRR0lVg9eyxF8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297109"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98483554,
+     -37.43579917
+    ]
+   },
+   "properties": {
+    "name": "4 SAMBAR ROAD WALLAN 3756",
+    "locID": "ChIJE6dHirex12oR_aEtDNzNJPw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98324127,
+     -37.43609157
+    ]
+   },
+   "properties": {
+    "name": "6 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJByQtCLix12oRdZvHyzII3xw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98920207,
+     -37.43604147
+    ]
+   },
+   "properties": {
+    "name": "295 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJtY0GybCx12oRSSGSLm6dB-g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98870473,
+     -37.43680968
+    ]
+   },
+   "properties": {
+    "name": "275 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJC2AyU7ex12oRHiEshWENA0I",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9660038,
+     -37.39638642
+    ]
+   },
+   "properties": {
+    "name": "80 SPRINGRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJkeJSAxyw12oRew010yoBgF4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98419079,
+     -37.43561182
+    ]
+   },
+   "properties": {
+    "name": "2 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJY8YS9rex12oRspn4bt7UufA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297812"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98561328,
+     -37.43538191
+    ]
+   },
+   "properties": {
+    "name": "32 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ08iJm7ex12oRgEHjUVrTOkE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98866397,
+     -37.43704623
+    ]
+   },
+   "properties": {
+    "name": "279 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJGXvYVLex12oRSQhLjOj3TQQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298280"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98481631,
+     -37.43591075
+    ]
+   },
+   "properties": {
+    "name": "6 SAMBAR ROAD WALLAN 3756",
+    "locID": "ChIJ6QycILix12oRHiebIBI9YAg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298321"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98852363,
+     -37.43786076
+    ]
+   },
+   "properties": {
+    "name": "293 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJT68G97mx12oRxth492kkOrg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298370"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98657884,
+     -37.43586967
+    ]
+   },
+   "properties": {
+    "name": "1 FLEECE STREET WALLAN 3756",
+    "locID": "ChIJqZYNcLex12oRvP4sUj-orSg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298570"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97299655,
+     -37.40869905
+    ]
+   },
+   "properties": {
+    "name": "18 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513583",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721298573"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99055454,
+     -37.39485882
+    ]
+   },
+   "properties": {
+    "name": "21 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJlYGwxXaw12oR_et4WTDIAyc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98438193,
+     -37.43524696
+    ]
+   },
+   "properties": {
+    "name": "44 BARTON RISE WALLAN 3756",
+    "locID": "ChIJj11c8rex12oRZDoiJCTpZQE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299100"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98901456,
+     -37.43501095
+    ]
+   },
+   "properties": {
+    "name": "251 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJyYLv1bCx12oRxIQTRB2t4oI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299190"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98854401,
+     -37.43774249
+    ]
+   },
+   "properties": {
+    "name": "291 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJ9QGA97mx12oRU0SULt1GXmg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99055372,
+     -37.39370392
+    ]
+   },
+   "properties": {
+    "name": "6 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJmXu58Xaw12oRy1OW5J1f7uY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299329"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9953557,
+     -37.42655139
+    ]
+   },
+   "properties": {
+    "name": "45 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJJ1Q0a1Kw12oRBuiOvu5zhoI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299512"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98420283,
+     -37.43522732
+    ]
+   },
+   "properties": {
+    "name": "46 BARTON RISE WALLAN 3756",
+    "locID": "ChIJnZ-E8bex12oRf8b8d86ZaZA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9901423,
+     -37.39479226
+    ]
+   },
+   "properties": {
+    "name": "20 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJl4vvx3aw12oR7QUBTATLttI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299693"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98079377,
+     -37.40733787
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 140 HIGH STREET WALLAN 3756",
+    "locID": "ChIJhWzYyz-w12oRBhkh2RwbdDw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299725"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97349051,
+     -37.40866706
+    ]
+   },
+   "properties": {
+    "name": "9 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513554",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721299817"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99041143,
+     -37.39431897
+    ]
+   },
+   "properties": {
+    "name": "14 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJw74G6naw12oRhA2RsudM1xE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299843"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98455048,
+     -37.4356425
+    ]
+   },
+   "properties": {
+    "name": "1 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJkSPX9Lex12oRBS0ZBZTtWeQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98478246,
+     -37.43610713
+    ]
+   },
+   "properties": {
+    "name": "10 SAMBAR ROAD WALLAN 3756",
+    "locID": "ChIJ40FzIbix12oRM7JvUWINHTQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98078899,
+     -37.41138448
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 107 BENTINCK STREET WALLAN 3756",
+    "locID": "LOC000193502999",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721300119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98874818,
+     -37.43655751
+    ]
+   },
+   "properties": {
+    "name": "271 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJS0vIsrCx12oRMjoB5-5_tFY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300172"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9883434,
+     -37.43553095
+    ]
+   },
+   "properties": {
+    "name": "242 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJC5RmMbex12oRtAXKwj25t4c",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300355"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98905883,
+     -37.43476787
+    ]
+   },
+   "properties": {
+    "name": "247 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJn4bfK7Gx12oRBDSUfJ6GKV0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98849365,
+     -37.43467856
+    ]
+   },
+   "properties": {
+    "name": "232 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJYXaw1bax12oR4CgVDgepqeA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300552"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98879586,
+     -37.43628079
+    ]
+   },
+   "properties": {
+    "name": "267 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJy0HAtLCx12oRjbDUN6q21TM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98936145,
+     -37.43362773
+    ]
+   },
+   "properties": {
+    "name": "222 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJAYqtSLGx12oR9B7JjCFclV0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300857"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.00215117,
+     -37.41563004
+    ]
+   },
+   "properties": {
+    "name": "12B INNOVATION DRIVE WALLAN 3756",
+    "locID": "LOC000192628072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721300890"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98451003,
+     -37.43587718
+    ]
+   },
+   "properties": {
+    "name": "5 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJZ0qUH7ix12oRAKjgLWfyqrM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300905"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98892959,
+     -37.43550414
+    ]
+   },
+   "properties": {
+    "name": "259 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJBwR60rCx12oRHP9AkaWzvPM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300987"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98452927,
+     -37.43576561
+    ]
+   },
+   "properties": {
+    "name": "3 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJSRlb9bex12oRydRMUh9kQks",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301172"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98897265,
+     -37.4352542
+    ]
+   },
+   "properties": {
+    "name": "255 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJiymL07Cx12oR7_cMte3AE0Q",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301222"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98592952,
+     -37.43541656
+    ]
+   },
+   "properties": {
+    "name": "28 BARTON RISE WALLAN 3756",
+    "locID": "ChIJe6r7nbex12oR6K-ay53NV8M",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301230"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98408752,
+     -37.43621097
+    ]
+   },
+   "properties": {
+    "name": "12 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJ8XJ8Grix12oRez9mFn-vHeY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301362"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97341269,
+     -37.40835475
+    ]
+   },
+   "properties": {
+    "name": "8 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513520",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721301613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98927968,
+     -37.43435807
+    ]
+   },
+   "properties": {
+    "name": "241 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJQUtFMLGx12oR8Nfo1ckNAks",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301689"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98456213,
+     -37.43526671
+    ]
+   },
+   "properties": {
+    "name": "42 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ24Gx8rex12oREe9-r2eqBC4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98856439,
+     -37.43762421
+    ]
+   },
+   "properties": {
+    "name": "289 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJk-BT-Lmx12oRh4knL4Yqgj8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301923"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98864475,
+     -37.43715781
+    ]
+   },
+   "properties": {
+    "name": "281 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJPexcVbex12oRR50KAhXvzIE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301940"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98451178,
+     -37.43655267
+    ]
+   },
+   "properties": {
+    "name": "3 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJ1wI3Frix12oR7ISEK-REr60",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301957"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98955711,
+     -37.43411791
+    ]
+   },
+   "properties": {
+    "name": "239 WALLARA WATERS BOULEVARD WALLAN 3756",
+    "locID": "ChIJg6NUOLGx12oR8MtP0a4xZyQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301980"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98527948,
+     -37.43680311
+    ]
+   },
+   "properties": {
+    "name": "53 BARTON RISE WALLAN 3756",
+    "locID": "ChIJ5yCCMLix12oRO29xnD4qqY4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302176"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97333951,
+     -37.40865608
+    ]
+   },
+   "properties": {
+    "name": "13 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "ChIJK48bXzuw12oRtW_34NvR2IE",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302193"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98539851,
+     -37.43756263
+    ]
+   },
+   "properties": {
+    "name": "34 FLEECE STREET WALLAN 3756",
+    "locID": "ChIJ670yT7ix12oR91_984HXNYc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302330"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98824062,
+     -37.43566975
+    ]
+   },
+   "properties": {
+    "name": "2 BARTON RISE WALLAN 3756",
+    "locID": "ChIJUSTmNrex12oRMZ8hNSkE_HQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302406"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.00228543,
+     -37.41564496
+    ]
+   },
+   "properties": {
+    "name": "12A INNOVATION DRIVE WALLAN 3756",
+    "locID": "ChIJsVaEU16w12oRMLNXZE1Nj78",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97997649,
+     -37.41150012
+    ]
+   },
+   "properties": {
+    "name": "100 HIGH STREET WALLAN 3756",
+    "locID": "LOC000193502968",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721302548"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97311186,
+     -37.40828682
+    ]
+   },
+   "properties": {
+    "name": "12 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513549",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721302554"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99061754,
+     -37.39476076
+    ]
+   },
+   "properties": {
+    "name": "19 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJi1eKxHaw12oRgK_yo8sJqtU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302740"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98334389,
+     -37.43549626
+    ]
+   },
+   "properties": {
+    "name": "65 BARTON RISE WALLAN 3756",
+    "locID": "ChIJqQlPALix12oRoDmObQn34Ak",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99737933,
+     -37.43128696
+    ]
+   },
+   "properties": {
+    "name": "138 NEWBRIDGE BOULEVARD WALLAN 3756",
+    "locID": "ChIJL7C70Kyx12oR8vwkDpOl72Q",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302834"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97304768,
+     -37.40845312
+    ]
+   },
+   "properties": {
+    "name": "14 WALLFLOWER TERRACE WALLAN 3756",
+    "locID": "LOC000192513554",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721302880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98329808,
+     -37.43576482
+    ]
+   },
+   "properties": {
+    "name": "1 NASSELLA ROAD WALLAN 3756",
+    "locID": "ChIJbaEUB7ix12oRnxfULzKGI3w",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303294"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98319819,
+     -37.43634151
+    ]
+   },
+   "properties": {
+    "name": "10 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJjcmH9cex12oR5Sfy0XvkscA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303509"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98449234,
+     -37.43597984
+    ]
+   },
+   "properties": {
+    "name": "7 CIRCUS WAY WALLAN 3756",
+    "locID": "ChIJARcTH7ix12oR8TZNoIqcFho",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303544"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9836362,
+     -37.43591784
+    ]
+   },
+   "properties": {
+    "name": "7 LATHAM STREET WALLAN 3756",
+    "locID": "ChIJC_w1BLix12oRoEwN5Ej3bf0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303725"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.99067048,
+     -37.39465821
+    ]
+   },
+   "properties": {
+    "name": "17 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJoxtsw3aw12oRKU0AbkMQFOY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303819"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98079377,
+     -37.40733787
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 140 HIGH STREET WALLAN 3756",
+    "locID": "ChIJhWzYyz-w12oRBhkh2RwbdDw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9904662,
+     -37.39421658
+    ]
+   },
+   "properties": {
+    "name": "12 CARRARA WAY WALLAN 3756",
+    "locID": "ChIJgbCD6Xaw12oRH4OgV0Lld9k",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303893"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98485681,
+     -37.43567572
+    ]
+   },
+   "properties": {
+    "name": "2 SAMBAR ROAD WALLAN 3756",
+    "locID": "ChIJjbrri7ex12oRxHHIv9IEHus",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303927"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98753442,
+     -37.43559239
+    ]
+   },
+   "properties": {
+    "name": "10 BARTON RISE WALLAN 3756",
+    "locID": "ChIJAylxP7ex12oRVY_nULqaWqQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721304023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9838737,
+     -37.43648274
+    ]
+   },
+   "properties": {
+    "name": "11 SPEEDWELL ROAD WALLAN 3756",
+    "locID": "ChIJ-9T7Dbix12oRfpkeOCO2h8I",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721304070"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98079377,
+     -37.40733787
+    ]
+   },
+   "properties": {
+    "name": "140 HIGH STREET WALLAN 3756",
+    "locID": "ChIJhWzYyz-w12oRBhkh2RwbdDw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721341826"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98072265,
+     -37.41151565
+    ]
+   },
+   "properties": {
+    "name": "107 BENTINCK STREET WALLAN 3756",
+    "locID": "LOC000193503007",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721341869"
    }
   }
  ]
