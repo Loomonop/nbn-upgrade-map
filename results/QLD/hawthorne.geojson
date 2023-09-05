@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T10:15:31.478236",
+ "generated": "2023-09-05T03:44:29.805850",
  "suburb": "HAWTHORNE",
  "features": [
   {
@@ -3654,7 +3654,7 @@
     "name": "92 GORDON STREET HAWTHORNE 4171",
     "locID": "LOC000180385810",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155374864"
    }
   },
@@ -4266,7 +4266,7 @@
     "name": "60 LINDSAY STREET HAWTHORNE 4171",
     "locID": "LOC000026905761",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155375403"
    }
   },
@@ -10538,8 +10538,8 @@
    "properties": {
     "name": "1 LEURA AVENUE HAWTHORNE 4171",
     "locID": "LOC000015330271",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155385425"
    }
   },
@@ -11372,7 +11372,7 @@
     "name": "292 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000060117976",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156620407"
    }
   },
@@ -11440,7 +11440,7 @@
     "name": "297 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000159981689",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156620412"
    }
   },
@@ -13735,7 +13735,7 @@
     "name": "285 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000126936437",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156633256"
    }
   },
@@ -13786,7 +13786,7 @@
     "name": "290 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000189395995",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156633260"
    }
   },
@@ -14832,6 +14832,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.06025174,
+     -27.47100653
+    ]
+   },
+   "properties": {
+    "name": "23 PHILIP STREET HAWTHORNE 4171",
+    "locID": "LOC000193483727",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156634403"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.05938911,
      -27.47097184
     ]
@@ -15706,8 +15723,8 @@
    "properties": {
     "name": "45 JENOLAN AVENUE HAWTHORNE 4171",
     "locID": "LOC000037237116",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156636124"
    }
   },
@@ -17994,8 +18011,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06210545,
+     -27.46610656
     ]
    },
    "properties": {
@@ -22898,7 +22915,7 @@
     "name": "25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156640815"
    }
   },
@@ -25873,7 +25890,7 @@
     "name": "48 ORCHARD STREET HAWTHORNE 4171",
     "locID": "LOC000180385708",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156642658"
    }
   },
@@ -28932,8 +28949,8 @@
    "properties": {
     "name": "5 PARK STREET HAWTHORNE 4171",
     "locID": "LOC000041570878",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156646524"
    }
   },
@@ -30123,7 +30140,7 @@
     "name": "19 MCDONALD STREET HAWTHORNE 4171",
     "locID": "LOC000159982581",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156652609"
    }
   },
@@ -32520,7 +32537,7 @@
     "name": "UNIT 1, 92 GORDON STREET HAWTHORNE 4171",
     "locID": "LOC000180385810",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158004643"
    }
   },
@@ -41343,7 +41360,7 @@
     "name": "UNIT 1, 6 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161020242"
    }
   },
@@ -41360,7 +41377,7 @@
     "name": "UNIT 5, 6 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161020245"
    }
   },
@@ -41581,7 +41598,7 @@
     "name": "UNIT 1, 46 JENOLAN AVENUE HAWTHORNE 4171",
     "locID": "LOC000068311530",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161368397"
    }
   },
@@ -41598,7 +41615,7 @@
     "name": "UNIT 2, 46 JENOLAN AVENUE HAWTHORNE 4171",
     "locID": "LOC000071256065",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161368398"
    }
   },
@@ -41615,7 +41632,7 @@
     "name": "UNIT 3, 46 JENOLAN AVENUE HAWTHORNE 4171",
     "locID": "LOC000068713475",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161368399"
    }
   },
@@ -41632,7 +41649,7 @@
     "name": "UNIT 2, 6 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161392875"
    }
   },
@@ -41649,7 +41666,7 @@
     "name": "UNIT 3, 6 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161392876"
    }
   },
@@ -41666,7 +41683,7 @@
     "name": "UNIT 4, 6 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161392877"
    }
   },
@@ -41683,7 +41700,7 @@
     "name": "UNIT 6, 6 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161392878"
    }
   },
@@ -41819,7 +41836,7 @@
     "name": "46 JENOLAN AVENUE HAWTHORNE 4171",
     "locID": "LOC000071256065",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161695889"
    }
   },
@@ -42652,7 +42669,7 @@
     "name": "6 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162475159"
    }
   },
@@ -45661,7 +45678,7 @@
     "name": "SHOP 1, 285 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000126936437",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425498652"
    }
   },
@@ -45678,7 +45695,7 @@
     "name": "SHOP 2, 285 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000126936437",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425498653"
    }
   },
@@ -46052,7 +46069,7 @@
     "name": "UNIT 1, 297 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000159981670",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425552397"
    }
   },
@@ -46069,7 +46086,7 @@
     "name": "UNIT 2, 297 HAWTHORNE ROAD HAWTHORNE 4171",
     "locID": "LOC000159981689",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425552398"
    }
   },
@@ -46307,7 +46324,7 @@
     "name": "UNIT 1, 25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982817",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425759411"
    }
   },
@@ -46324,7 +46341,7 @@
     "name": "UNIT 2, 25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425759412"
    }
   },
@@ -46341,7 +46358,7 @@
     "name": "UNIT 3, 25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425759413"
    }
   },
@@ -46358,7 +46375,7 @@
     "name": "UNIT 4, 25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425759414"
    }
   },
@@ -46375,7 +46392,7 @@
     "name": "UNIT 5, 25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982872",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425759415"
    }
   },
@@ -46392,7 +46409,7 @@
     "name": "UNIT 6, 25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425759416"
    }
   },
@@ -46409,7 +46426,7 @@
     "name": "UNIT 7, 25 MULLENS STREET HAWTHORNE 4171",
     "locID": "LOC000159982903",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425759417"
    }
   },
@@ -46953,7 +46970,7 @@
     "name": "UNIT 1, 19 MCDONALD STREET HAWTHORNE 4171",
     "locID": "LOC000159982581",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425860468"
    }
   },
@@ -46970,7 +46987,7 @@
     "name": "UNIT 2, 19 MCDONALD STREET HAWTHORNE 4171",
     "locID": "LOC000159982581",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425860469"
    }
   },
@@ -46987,7 +47004,7 @@
     "name": "UNIT 3, 19 MCDONALD STREET HAWTHORNE 4171",
     "locID": "LOC000159982608",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425860470"
    }
   },
@@ -47004,7 +47021,7 @@
     "name": "UNIT 4, 19 MCDONALD STREET HAWTHORNE 4171",
     "locID": "LOC000159917646",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425860471"
    }
   },
@@ -47820,7 +47837,7 @@
     "name": "83 FORBES STREET HAWTHORNE 4171",
     "locID": "LOC100074581790",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD720183043"
    }
   },
@@ -48730,8 +48747,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48747,8 +48764,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48764,8 +48781,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48781,8 +48798,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48798,8 +48815,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48866,8 +48883,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48900,8 +48917,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48917,8 +48934,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48968,8 +48985,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -48985,8 +49002,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -49002,8 +49019,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
@@ -49070,8 +49087,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.06193864,
-     -27.4662082
+     153.06206411,
+     -27.46624729
     ]
    },
    "properties": {
