@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-16T10:54:46.199568",
+ "generated": "2023-09-05T04:28:02.716346",
  "suburb": "HIGHVALE",
  "features": [
   {
@@ -100,8 +100,8 @@
    "properties": {
     "name": "4 HOUSEWOOD COURT HIGHVALE 4520",
     "locID": "LOC000105108825",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155373017"
    }
   },
@@ -3296,7 +3296,7 @@
    "properties": {
     "name": "62 SMALLS ROAD HIGHVALE 4520",
     "locID": "LOC000016569481",
-    "tech": "SATELLITE",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158021157"
    }
@@ -4656,8 +4656,8 @@
    "properties": {
     "name": "53 SMALLS ROAD HIGHVALE 4520",
     "locID": "LOC000001755613",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158064296"
    }
   },
@@ -4724,8 +4724,8 @@
    "properties": {
     "name": "747 MOUNT GLORIOUS ROAD HIGHVALE 4520",
     "locID": "LOC000085949258",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158064328"
    }
   },
@@ -11704,23 +11704,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.82460546,
-     -27.38394661
-    ]
-   },
-   "properties": {
-    "name": "LOT 12 HULCOMBE ROAD HIGHVALE 4520",
-    "locID": "LOC000025873520",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD720465976"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.82360499,
      -27.38424096
     ]
@@ -12071,6 +12054,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721117071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.82460546,
+     -27.38394661
+    ]
+   },
+   "properties": {
+    "name": "72 HULCOMBE ROAD HIGHVALE 4520",
+    "locID": "ChIJPxHenSyrlmsRBqvDNjWzcQs",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311775"
    }
   }
  ]
