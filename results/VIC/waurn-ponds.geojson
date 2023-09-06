@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T11:43:44.958014",
+ "generated": "2023-09-06T06:18:05.777512",
  "suburb": "WAURN PONDS",
  "features": [
   {
@@ -902,6 +902,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412575847"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.30099358,
+     -38.21220199
+    ]
+   },
+   "properties": {
+    "name": "7 BRENTWOOD WAY WAURN PONDS 3216",
+    "locID": "LOC000013064074",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC412575975"
    }
   },
   {
@@ -4503,8 +4520,8 @@
    "properties": {
     "name": "12 MONTEREY DRIVE WAURN PONDS 3216",
     "locID": "LOC000024369199",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420240942"
    }
   },
@@ -7971,8 +7988,8 @@
    "properties": {
     "name": "4 VINTAGE COURT WAURN PONDS 3216",
     "locID": "LOC000009357306",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421096052"
    }
   },
@@ -8618,7 +8635,7 @@
     "name": "31 IRONBARK STREET WAURN PONDS 3216",
     "locID": "LOC000081333263",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421262406"
    }
   },
@@ -13038,7 +13055,7 @@
     "name": "15-16 BAROSSA COURT WAURN PONDS 3216",
     "locID": "LOC000014363595",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422276296"
    }
   },
@@ -13516,23 +13533,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422376512"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30099358,
-     -38.21220199
-    ]
-   },
-   "properties": {
-    "name": "5 BRENTWOOD WAY WAURN PONDS 3216",
-    "locID": "LOC000013064074",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC422382342"
    }
   },
   {
@@ -15366,8 +15366,8 @@
    "properties": {
     "name": "6 REWARD COURT WAURN PONDS 3216",
     "locID": "LOC000058007738",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423232928"
    }
   },
@@ -17644,8 +17644,8 @@
    "properties": {
     "name": "UNIT 2, 27 IRONBARK STREET WAURN PONDS 3216",
     "locID": "LOC000091262110",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423720421"
    }
   },
@@ -18954,7 +18954,7 @@
     "name": "16 BAROSSA COURT WAURN PONDS 3216",
     "locID": "LOC000014363595",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423846421"
    }
   },
@@ -19361,8 +19361,8 @@
    "properties": {
     "name": "3 CORK PLACE WAURN PONDS 3216",
     "locID": "LOC000007789626",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423966408"
    }
   },
@@ -26348,8 +26348,8 @@
    "properties": {
     "name": "4 HUON COURT WAURN PONDS 3216",
     "locID": "LOC000149656132",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425401372"
    }
   },
@@ -26657,40 +26657,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425469959"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 115, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425487312"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 202, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425531980"
    }
   },
   {
@@ -27531,40 +27497,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1007, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425627703"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425627704"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.29938584,
      -38.20819855
     ]
@@ -28199,176 +28131,6 @@
     ]
    },
    "properties": {
-    "name": "UNIT 103, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703243"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 108, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703244"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 109, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703245"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 121, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703246"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 126, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703247"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 127, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703248"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 201, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703249"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 204, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703250"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 207, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703251"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 210, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703252"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
     "name": "UNIT 4, 75 PIGDONS ROAD WAURN PONDS 3216",
     "locID": "LOC000023911126",
     "tech": "FTTN",
@@ -28551,23 +28313,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 116, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425851206"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.30235876,
      -38.2077007
     ]
@@ -28646,23 +28391,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719005222"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 106, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719043074"
    }
   },
   {
@@ -29010,23 +28738,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 215, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719226843"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.29940329,
      -38.20864141
     ]
@@ -29071,23 +28782,6 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719459287"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 120, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719537962"
    }
   },
   {
@@ -29156,57 +28850,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719796769"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 113, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719801693"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 208, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719937698"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 119, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720001536"
    }
   },
   {
@@ -29860,23 +29503,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 111, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720975539"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.29373151,
      -38.21483623
     ]
@@ -29904,23 +29530,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721018359"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.29699517,
-     -38.21622351
-    ]
-   },
-   "properties": {
-    "name": "1 DANAHER AVENUE WAURN PONDS 3216",
-    "locID": "ChIJr0EpyBht1GoRoqHjRg5bqn4",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721018497"
    }
   },
   {
@@ -30421,23 +30030,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.29556744,
-     -38.21491742
-    ]
-   },
-   "properties": {
-    "name": "6A BANROCK COURT WAURN PONDS 3216",
-    "locID": "ChIJ4fk_mxht1GoRZfLwmH_uAlg",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721026579"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.2978259,
      -38.21674641
     ]
@@ -30482,23 +30074,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721026868"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.29683311,
-     -38.21620441
-    ]
-   },
-   "properties": {
-    "name": "3 DANAHER AVENUE WAURN PONDS 3216",
-    "locID": "LOC100021159793",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721027315"
    }
   },
   {
@@ -30778,23 +30353,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.29448524,
-     -38.21518941
-    ]
-   },
-   "properties": {
-    "name": "7-9 BANROCK COURT WAURN PONDS 3216",
-    "locID": "LOC100056464995",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721033126"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.29407584,
      -38.21487692
     ]
@@ -30856,40 +30414,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721033851"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.29387735,
-     -38.21537149
-    ]
-   },
-   "properties": {
-    "name": "21A BANROCK COURT WAURN PONDS 3216",
-    "locID": "ChIJCXGSQxht1GoRltHwGJRu_OI",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721034064"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.29349733,
-     -38.21549328
-    ]
-   },
-   "properties": {
-    "name": "21B BANROCK COURT WAURN PONDS 3216",
-    "locID": "ChIJxbLsRxht1GoRn5hwXCiMoco",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721035452"
    }
   },
   {
@@ -31135,74 +30659,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 218, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721052830"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 105, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721053132"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 122, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721053428"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.30413009,
-     -38.19849807
-    ]
-   },
-   "properties": {
-    "name": "UNIT 114, 75 PIGDONS ROAD WAURN PONDS 3216",
-    "locID": "LOC000023911126",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721053734"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.30408419,
      -38.20935874
     ]
@@ -31264,6 +30720,57 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721169366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.29556744,
+     -38.21491742
+    ]
+   },
+   "properties": {
+    "name": "6A DANAHER AVENUE WAURN PONDS 3216",
+    "locID": "ChIJ4fk_mxht1GoRE68fu-sAThU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288877"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.29699517,
+     -38.2162235
+    ]
+   },
+   "properties": {
+    "name": "78 DANAHER AVENUE WAURN PONDS 3216",
+    "locID": "LOC000109715906",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721290098"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.29683312,
+     -38.2162044
+    ]
+   },
+   "properties": {
+    "name": "76 DANAHER AVENUE WAURN PONDS 3216",
+    "locID": "LOC000016031274",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721292519"
    }
   }
  ]
