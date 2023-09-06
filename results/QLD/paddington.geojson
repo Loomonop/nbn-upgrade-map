@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T23:28:02.637530",
+ "generated": "2023-09-06T18:49:17.322209",
  "suburb": "PADDINGTON",
  "features": [
   {
@@ -33386,8 +33386,8 @@
    "properties": {
     "name": "11 MARTHA STREET PADDINGTON 4064",
     "locID": "LOC000080613554",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156943249"
    }
   },
@@ -33743,8 +33743,8 @@
    "properties": {
     "name": "3A MARTHA STREET PADDINGTON 4064",
     "locID": "LOC000156126680",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156943465"
    }
   },
@@ -81904,8 +81904,8 @@
    "properties": {
     "name": "UNIT 2, 41 RANLEY GROVE PADDINGTON 4064",
     "locID": "LOC000004143227",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162362414"
    }
   },
@@ -82312,8 +82312,8 @@
    "properties": {
     "name": "35 RANLEY GROVE PADDINGTON 4064",
     "locID": "LOC000038631827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162362440"
    }
   },
@@ -82380,8 +82380,8 @@
    "properties": {
     "name": "39 RANLEY GROVE PADDINGTON 4064",
     "locID": "LOC000093197107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162362444"
    }
   },
@@ -82397,8 +82397,8 @@
    "properties": {
     "name": "41 RANLEY GROVE PADDINGTON 4064",
     "locID": "LOC000004143227",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162362445"
    }
   },
@@ -93858,6 +93858,40 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721264641"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00154025,
+     -27.45988727
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 24 LATROBE TERRACE PADDINGTON 4064",
+    "locID": "LOC000175648360",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334777"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00454696,
+     -27.4609426
+    ]
+   },
+   "properties": {
+    "name": "LEVEL 2, 251 GIVEN TERRACE PADDINGTON 4064",
+    "locID": "LOC000185336110",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721339980"
    }
   }
  ]
