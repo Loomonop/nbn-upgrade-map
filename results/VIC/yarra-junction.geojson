@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T14:13:23.563260",
+ "generated": "2023-09-06T09:01:38.789028",
  "suburb": "YARRA JUNCTION",
  "features": [
   {
@@ -814,7 +814,7 @@
    "properties": {
     "name": "2552 WARBURTON HIGHWAY YARRA JUNCTION 3797",
     "locID": "ChIJAUYdgQLTKWsRG3XTK7yp5Xc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC412669188"
    }
@@ -12256,7 +12256,7 @@
     "name": "31 UPPER CRESCENT ROAD YARRA JUNCTION 3797",
     "locID": "LOC000093968411",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421368145"
    }
   },
@@ -13931,8 +13931,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.620557,
-     -37.788091
+     145.62059848,
+     -37.78805032
     ]
    },
    "properties": {
@@ -23060,8 +23060,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.6109066,
-     -37.78277861
+     145.61089551,
+     -37.78268277
     ]
    },
    "properties": {
@@ -26110,7 +26110,7 @@
    "properties": {
     "name": "UNIT 7, 2550 WARBURTON HIGHWAY YARRA JUNCTION 3797",
     "locID": "LOC000189317513",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720526455"
    }
@@ -26742,6 +26742,176 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721040283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.61020001,
+     -37.7842569
+    ]
+   },
+   "properties": {
+    "name": "12A HERBERT STREET YARRA JUNCTION 3797",
+    "locID": "ChIJL5xXrgnTKWsRV1D3ecqV-Cg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285076"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62083763,
+     -37.79203166
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721285298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62142539,
+     -37.79268068
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721289385"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62115753,
+     -37.792212
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721290263"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62136697,
+     -37.79234109
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721291353"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62071088,
+     -37.79223366
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721295879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62158409,
+     -37.79246065
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721300691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62119272,
+     -37.79253949
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721301701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62098009,
+     -37.79241351
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 7 MILNERS ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000035927072",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721301872"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.62420672,
+     -37.78760489
+    ]
+   },
+   "properties": {
+    "name": "32A RIVERSDALE ROAD YARRA JUNCTION 3797",
+    "locID": "LOC000193092880",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721303914"
    }
   }
  ]
