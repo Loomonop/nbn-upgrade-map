@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T06:02:41.849295",
+ "generated": "2023-09-06T00:08:38.307254",
  "suburb": "LEGANA",
  "features": [
   {
@@ -151,8 +151,8 @@
    "properties": {
     "name": "34 ACROPOLIS DRIVE LEGANA 7277",
     "locID": "LOC000056191287",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702181253"
    }
   },
@@ -219,8 +219,8 @@
    "properties": {
     "name": "23 ACROPOLIS DRIVE LEGANA 7277",
     "locID": "LOC000009325307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702181257"
    }
   },
@@ -1359,7 +1359,7 @@
     "name": "42 BEACH ROAD LEGANA 7277",
     "locID": "LOC000054117195",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702197244"
    }
   },
@@ -2157,8 +2157,8 @@
    "properties": {
     "name": "4 BEVAN COURT LEGANA 7277",
     "locID": "LOC000050994758",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702199560"
    }
   },
@@ -2813,7 +2813,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.03944533,
+     147.03944534,
      -41.35785557
     ]
    },
@@ -4445,8 +4445,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.04996147,
-     -41.35829814
+     147.04991331,
+     -41.35824495
     ]
    },
    "properties": {
@@ -4938,8 +4938,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.04974645,
-     -41.35853244
+     147.04967211,
+     -41.35848966
     ]
    },
    "properties": {
@@ -7699,8 +7699,8 @@
    "properties": {
     "name": "3 GRIFFITHS LANE LEGANA 7277",
     "locID": "LOC000070646337",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702263595"
    }
   },
@@ -8311,8 +8311,8 @@
    "properties": {
     "name": "2B KOORINGAL AVENUE LEGANA 7277",
     "locID": "LOC000106813157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702275607"
    }
   },
@@ -8362,8 +8362,8 @@
    "properties": {
     "name": "32 KOORINGAL AVENUE LEGANA 7277",
     "locID": "LOC000037114276",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702275610"
    }
   },
@@ -8739,6 +8739,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GATAS702277934"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.04541263,
+     -41.35027934
+    ]
+   },
+   "properties": {
+    "name": "61 JETTY ROAD LEGANA 7277",
+    "locID": "ChIJPe_S0VQPeqoRQRgTN_sYDg0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS702278158"
    }
   },
   {
@@ -16556,8 +16573,8 @@
    "properties": {
     "name": "10 WONGARRA AVENUE LEGANA 7277",
     "locID": "LOC000050035683",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702375204"
    }
   },
@@ -18164,8 +18181,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.05014157,
-     -41.35701799
+     147.05016996,
+     -41.35693807
     ]
    },
    "properties": {
@@ -18385,7 +18402,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.0260893,
+     147.02608931,
      -41.36284155
     ]
    },
@@ -18555,8 +18572,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.05014157,
-     -41.35701799
+     147.05014104,
+     -41.35705739
     ]
    },
    "properties": {
@@ -18851,7 +18868,7 @@
    "properties": {
     "name": "148 FRESHWATER POINT ROAD LEGANA 7277",
     "locID": "ChIJafXbNKYIeqoRawnJPqqhxEo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702487586"
    }
@@ -20102,7 +20119,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.05449362,
+     147.05449363,
      -41.37224961
     ]
    },
@@ -22557,8 +22574,8 @@
    "properties": {
     "name": "17 HENRY GROVE LEGANA 7277",
     "locID": "LOC000023404610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS716977331"
    }
   },
@@ -23213,8 +23230,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.04860298,
-     -41.35730145
+     147.04858636,
+     -41.35729454
     ]
    },
    "properties": {
@@ -23230,8 +23247,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.04879044,
-     -41.35729058
+     147.04876181,
+     -41.35729223
     ]
    },
    "properties": {
@@ -23849,8 +23866,8 @@
    "properties": {
     "name": "UNIT 1, 17 HENRY GROVE LEGANA 7277",
     "locID": "LOC000023404610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS717240227"
    }
   },
@@ -23866,8 +23883,8 @@
    "properties": {
     "name": "UNIT 2, 17 HENRY GROVE LEGANA 7277",
     "locID": "LOC000023404610",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS717240228"
    }
   },
@@ -24880,7 +24897,7 @@
     "type": "Point",
     "coordinates": [
      147.05730031,
-     -41.3654983
+     -41.36549831
     ]
    },
    "properties": {
@@ -25651,8 +25668,8 @@
    "properties": {
     "name": "17 DALMATIAN COURT LEGANA 7277",
     "locID": "LOC000133759088",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717912328"
    }
   },
@@ -26334,23 +26351,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717932826"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     147.04833556,
-     -41.36354557
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1B, 15 LOVELY BANKS COURT LEGANA 7277",
-    "locID": "LOC000038607028",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GATAS717932850"
    }
   },
   {
@@ -28331,7 +28331,7 @@
     "type": "Point",
     "coordinates": [
      147.05730031,
-     -41.3654983
+     -41.36549831
     ]
    },
    "properties": {
@@ -28348,7 +28348,7 @@
     "type": "Point",
     "coordinates": [
      147.05730031,
-     -41.3654983
+     -41.36549831
     ]
    },
    "properties": {
@@ -31635,8 +31635,8 @@
    "properties": {
     "name": "18 DOWERIN DRIVE LEGANA 7277",
     "locID": "LOC000149582255",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718752661"
    }
   },
@@ -33590,8 +33590,8 @@
    "properties": {
     "name": "UNIT 1, 2 BRIGALOW STREET LEGANA 7277",
     "locID": "LOC000164580990",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS719065625"
    }
   },
@@ -39176,8 +39176,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.0429686,
-     -41.35330002
+     147.04296861,
+     -41.35330003
     ]
    },
    "properties": {
@@ -39567,8 +39567,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.0520861,
-     -41.34403268
+     147.05207809,
+     -41.34394653
     ]
    },
    "properties": {
@@ -41566,6 +41566,40 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721209553"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.04310187,
+     -41.35324371
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 20 MONTAGUE PARK AVENUE LEGANA 7277",
+    "locID": "LOC000189864441",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.03992384,
+     -41.36764439
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 9 OUTREACH DRIVE LEGANA 7277",
+    "locID": "LOC000147859433",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273204"
    }
   }
  ]

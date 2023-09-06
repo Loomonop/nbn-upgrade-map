@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T06:08:47.845570",
+ "generated": "2023-09-06T00:13:56.020234",
  "suburb": "KUREELPA",
  "features": [
   {
@@ -756,8 +756,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.89022476,
-     -26.60700224
+     152.89028845,
+     -26.60687616
     ]
    },
    "properties": {
@@ -2634,7 +2634,7 @@
     "name": "127 SHAMLEY HEATH ROAD KUREELPA 4560",
     "locID": "LOC100075411237",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156740256"
    }
   },
@@ -3331,7 +3331,7 @@
     "name": "22 VINCES WAY KUREELPA 4560",
     "locID": "LOC000076696516",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156747296"
    }
   },
@@ -4198,7 +4198,7 @@
     "name": "114 SHAMLEY HEATH ROAD KUREELPA 4560",
     "locID": "LOC000099118023",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158155465"
    }
   },
@@ -4419,7 +4419,7 @@
     "name": "6 AMELIA PLACE KUREELPA 4560",
     "locID": "LOC000049086252",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158166388"
    }
   },
@@ -5713,6 +5713,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161964097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.91280887,
+     -26.62561154
+    ]
+   },
+   "properties": {
+    "name": "LOT 5 DULONG ROAD KUREELPA 4560",
+    "locID": "LOC000047171868",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162139403"
    }
   },
   {
@@ -7328,6 +7345,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721070031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.89012629,
+     -26.60728645
+    ]
+   },
+   "properties": {
+    "name": "123 SHAMLEY HEATH ROAD KUREELPA 4560",
+    "locID": "ChIJrx6xzON-k2sR8-gfSD90wLk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721309198"
    }
   }
  ]

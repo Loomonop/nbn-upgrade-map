@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T06:20:28.900998",
+ "generated": "2023-09-06T00:20:38.306677",
  "suburb": "PORT SORELL",
  "features": [
   {
@@ -3511,7 +3511,7 @@
     "type": "Point",
     "coordinates": [
      146.5533405,
-     -41.16172555
+     -41.16172556
     ]
    },
    "properties": {
@@ -12545,7 +12545,7 @@
     "name": "16 ARCHER STREET PORT SORELL 7307",
     "locID": "LOC000100532335",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702537725"
    }
   },
@@ -18427,7 +18427,7 @@
     "name": "UNIT 2, 16 ARCHER STREET PORT SORELL 7307",
     "locID": "LOC000100532335",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718062159"
    }
   },
@@ -22747,6 +22747,91 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS721190834"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.55156172,
+     -41.16779371
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 14 PONSONBY COURT PORT SORELL 7307",
+    "locID": "LOC000191856047",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GATAS721272800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.55150375,
+     -41.16803561
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 14 PONSONBY COURT PORT SORELL 7307",
+    "locID": "LOC000191856068",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GATAS721272999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.55086662,
+     -41.1634747
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 6 PITCAIRN STREET PORT SORELL 7307",
+    "locID": "LOC000066887474",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273170"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.55095174,
+     -41.16325661
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 6 PITCAIRN STREET PORT SORELL 7307",
+    "locID": "LOC000066887474",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273176"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.55153376,
+     -41.16790578
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 14 PONSONBY COURT PORT SORELL 7307",
+    "locID": "LOC000191856052",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721273190"
    }
   }
  ]
