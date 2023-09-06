@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T21:17:17.770896",
+ "generated": "2023-09-06T16:35:07.367593",
  "suburb": "JONES HILL",
  "features": [
   {
@@ -4078,8 +4078,8 @@
    "properties": {
     "name": "13 PREMIER AVENUE JONES HILL 4570",
     "locID": "LOC000096479868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162518799"
    }
   },
@@ -5625,8 +5625,8 @@
    "properties": {
     "name": "20 PRINCIPAL PLACE JONES HILL 4570",
     "locID": "LOC000085917973",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162831475"
    }
   },
@@ -5965,8 +5965,8 @@
    "properties": {
     "name": "21 JUDICIAL CIRCUIT JONES HILL 4570",
     "locID": "LOC000110372550",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163167147"
    }
   },
@@ -7427,8 +7427,8 @@
    "properties": {
     "name": "10 SUPREMACY PLACE JONES HILL 4570",
     "locID": "LOC000110532923",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163175119"
    }
   },
@@ -7512,8 +7512,8 @@
    "properties": {
     "name": "6 SUPREMACY PLACE JONES HILL 4570",
     "locID": "LOC000112118806",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163175124"
    }
   },
@@ -11034,6 +11034,40 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721264294"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.658673,
+     -26.23432666
+    ]
+   },
+   "properties": {
+    "name": "31 CARDINAL CIRCUIT JONES HILL 4570",
+    "locID": "ChIJkYvi9sCilGsRrXNpUi6P6I4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306482"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.65905504,
+     -26.23404724
+    ]
+   },
+   "properties": {
+    "name": "32 CARDINAL CIRCUIT JONES HILL 4570",
+    "locID": "LOC000190262767",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310548"
    }
   }
  ]

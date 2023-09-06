@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T20:55:44.399308",
+ "generated": "2023-09-06T16:09:13.384753",
  "suburb": "DEERAGUN",
  "features": [
   {
@@ -23696,8 +23696,8 @@
    "properties": {
     "name": "46 MARYLAND DRIVE DEERAGUN 4818",
     "locID": "LOC000066172791",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163227668"
    }
   },
@@ -23884,7 +23884,7 @@
     "name": "10 MONTANA STREET DEERAGUN 4818",
     "locID": "LOC000082683964",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163227793"
    }
   },
@@ -33865,6 +33865,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721263842"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.65313981,
+     -19.24286794
+    ]
+   },
+   "properties": {
+    "name": "93-97 VEALES ROAD DEERAGUN 4818",
+    "locID": "LOC000018328857",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335375"
    }
   }
  ]
