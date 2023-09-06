@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-17T09:39:33.946243",
+ "generated": "2023-09-06T03:57:17.074973",
  "suburb": "SEVILLE",
  "features": [
   {
@@ -790,7 +790,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.44509065,
+     145.44509066,
      -37.78430392
     ]
    },
@@ -994,8 +994,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.46595717,
-     -37.77068293
+     145.46595715,
+     -37.77068292
     ]
    },
    "properties": {
@@ -5091,6 +5091,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.47529043,
+     -37.81939089
+    ]
+   },
+   "properties": {
+    "name": "20 CARTERS LANE SEVILLE 3139",
+    "locID": "LOC000125513514",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC413522297"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.44957901,
      -37.79225606
     ]
@@ -6272,7 +6289,7 @@
     "name": "10 RALEIGH STREET SEVILLE 3139",
     "locID": "LOC000034454814",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419569765"
    }
   },
@@ -9264,7 +9281,7 @@
     "name": "6 DALE COURT SEVILLE 3139",
     "locID": "LOC000088897864",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420458211"
    }
   },
@@ -12197,7 +12214,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.48491537,
+     145.48491534,
      -37.81473666
     ]
    },
@@ -15094,8 +15111,8 @@
    "properties": {
     "name": "3A LANNING CRESCENT SEVILLE 3139",
     "locID": "LOC000006881311",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC422303445"
    }
   },
@@ -16447,23 +16464,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.45320521,
-     -37.77532413
-    ]
-   },
-   "properties": {
-    "name": "8-10 TILANBI CLOSE SEVILLE 3139",
-    "locID": "LOC000032693313",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC424270989"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.455591,
      -37.771258
     ]
@@ -16855,8 +16855,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.44509065,
-     -37.78430391
+     145.44509066,
+     -37.78430392
     ]
    },
    "properties": {
@@ -19286,8 +19286,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.46595717,
-     -37.77068293
+     145.46595715,
+     -37.77068292
     ]
    },
    "properties": {
@@ -20367,6 +20367,40 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721225365"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.47921416,
+     -37.81651209
+    ]
+   },
+   "properties": {
+    "name": "22 CARTERS LANE SEVILLE 3139",
+    "locID": "LOC000125513514",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721284390"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.45682715,
+     -37.77684972
+    ]
+   },
+   "properties": {
+    "name": "15A LINK ROAD SEVILLE 3139",
+    "locID": "ChIJc96rcoYp1moRxAH4UfRuAQ8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302056"
    }
   }
  ]
