@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T04:19:02.404533",
+ "generated": "2023-09-07T02:39:23.097268",
  "suburb": "MACLEAY ISLAND",
  "features": [
   {
@@ -2109,23 +2109,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155503795"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.36196985,
-     -27.6295904
-    ]
-   },
-   "properties": {
-    "name": "24 CLIFF TERRACE MACLEAY ISLAND 4184",
-    "locID": "ChIJM7z0c45vkWsRnqU6XZC3Y0A",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD155503797"
    }
   },
   {
@@ -4520,8 +4503,8 @@
    "properties": {
     "name": "14 COAST ROAD MACLEAY ISLAND 4184",
     "locID": "LOC000100670118",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155504881"
    }
   },
@@ -4897,23 +4880,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155505171"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.36095908,
-     -27.5977293
-    ]
-   },
-   "properties": {
-    "name": "37 BARACOOTA STREET MACLEAY ISLAND 4184",
-    "locID": "LOC000127079315",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD155505174"
    }
   },
   {
@@ -9705,8 +9671,8 @@
    "properties": {
     "name": "13 BENOWA STREET MACLEAY ISLAND 4184",
     "locID": "LOC000015767820",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155508287"
    }
   },
@@ -10371,6 +10337,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155508411"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36447078,
+     -27.62692646
+    ]
+   },
+   "properties": {
+    "name": "6 HEATH STREET MACLEAY ISLAND 4184",
+    "locID": "ChIJ3du7eoxvkWsRSwaQ7-jU6ZY",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155508413"
    }
   },
   {
@@ -15605,7 +15588,7 @@
     "name": "26-30 RUSSELL TERRACE MACLEAY ISLAND 4184",
     "locID": "LOC000127054761",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155511974"
    }
   },
@@ -16506,7 +16489,7 @@
     "name": "145-155 HIGH CENTRAL ROAD MACLEAY ISLAND 4184",
     "locID": "LOC000052301759",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155512305"
    }
   },
@@ -30207,8 +30190,8 @@
    "properties": {
     "name": "1 BENOWA STREET MACLEAY ISLAND 4184",
     "locID": "LOC000015767820",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156763408"
    }
   },
@@ -31900,23 +31883,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37469863,
-     -27.61798521
-    ]
-   },
-   "properties": {
-    "name": "12 BOAT HARBOUR AVENUE MACLEAY ISLAND 4184",
-    "locID": "LOC000039383351",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD156766633"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37461848,
      -27.61770741
     ]
@@ -33525,6 +33491,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156767198"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36444144,
+     -27.62707548
+    ]
+   },
+   "properties": {
+    "name": "4 HEATH STREET MACLEAY ISLAND 4184",
+    "locID": "LOC000039409930",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD156767202"
    }
   },
   {
@@ -41088,7 +41071,7 @@
     "name": "16 NOOGIE STREET MACLEAY ISLAND 4184",
     "locID": "LOC000014279069",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156780784"
    }
   },
@@ -44522,7 +44505,7 @@
     "name": "35-37 KOONWARRA PARADE MACLEAY ISLAND 4184",
     "locID": "LOC000166263993",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156787867"
    }
   },
@@ -45525,7 +45508,7 @@
     "name": "76 WESTERN ROAD MACLEAY ISLAND 4184",
     "locID": "LOC000127045771",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156788669"
    }
   },
@@ -50658,8 +50641,8 @@
    "properties": {
     "name": "4 QUAIL PLACE MACLEAY ISLAND 4184",
     "locID": "LOC000010662161",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156798825"
    }
   },
@@ -52759,8 +52742,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36803827,
-     -27.62763746
+     153.36783752,
+     -27.62760609
     ]
    },
    "properties": {
@@ -53364,6 +53347,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156802908"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.35959934,
+     -27.59657177
+    ]
+   },
+   "properties": {
+    "name": "20 TUKKERI STREET MACLEAY ISLAND 4184",
+    "locID": "LOC000127098624",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156802912"
    }
   },
   {
@@ -54765,23 +54765,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.37248107,
-     -27.61921216
-    ]
-   },
-   "properties": {
-    "name": "2 COTTON TREE AVENUE MACLEAY ISLAND 4184",
-    "locID": "LOC000086861838",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD156808838"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37402701,
      -27.61955749
     ]
@@ -54792,23 +54775,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156808839"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.37248107,
-     -27.61921216
-    ]
-   },
-   "properties": {
-    "name": "4 COTTON TREE AVENUE MACLEAY ISLAND 4184",
-    "locID": "LOC000166257161",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD156808841"
    }
   },
   {
@@ -67753,23 +67719,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36058415,
-     -27.59769183
-    ]
-   },
-   "properties": {
-    "name": "33-35 BARACOOTA STREET MACLEAY ISLAND 4184",
-    "locID": "ChIJpbdcNxNlkWsRtoEaYoMBl68",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162007909"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.3556847,
      -27.59815432
     ]
@@ -68934,7 +68883,7 @@
     "name": "14-16 BRIGHTON ROAD MACLEAY ISLAND 4184",
     "locID": "LOC100071873691",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162653937"
    }
   },
@@ -71357,23 +71306,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36803827,
-     -27.62763746
-    ]
-   },
-   "properties": {
-    "name": "73-75 EASTBOURNE TERRACE MACLEAY ISLAND 4184",
-    "locID": "LOC000110232625",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD719127695"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.35965464,
      -27.58891672
     ]
@@ -72122,6 +72054,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.35959934,
+     -27.59657177
+    ]
+   },
+   "properties": {
+    "name": "18 TUKKERI STREET MACLEAY ISLAND 4184",
+    "locID": "LOC000127098624",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719564256"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.36815428,
      -27.62149509
     ]
@@ -72149,23 +72098,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719625905"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.35897308,
-     -27.59432524
-    ]
-   },
-   "properties": {
-    "name": "6-8 CATHY STREET MACLEAY ISLAND 4184",
-    "locID": "ChIJJeG7ThJlkWsRm8k0up9C3ss",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719628222"
    }
   },
   {
@@ -72657,7 +72589,7 @@
     "name": "16-20 NOOGIE STREET MACLEAY ISLAND 4184",
     "locID": "LOC000014279069",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720113748"
    }
   },
@@ -73677,7 +73609,7 @@
     "name": "16-22 NOOGIE STREET MACLEAY ISLAND 4184",
     "locID": "LOC000014279069",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720861066"
    }
   },
@@ -74051,7 +73983,7 @@
     "name": "1 BRIGHTON ROAD MACLEAY ISLAND 4184",
     "locID": "LOC000183217252",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD721066144"
    }
   },
@@ -74128,8 +74060,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.35236321,
-     -27.61372537
+     153.35230473,
+     -27.61390097
     ]
    },
    "properties": {
@@ -74196,16 +74128,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.36474198,
-     -27.5908986
+     153.37469863,
+     -27.61798521
     ]
    },
    "properties": {
-    "name": "2 COORONG STREET MACLEAY ISLAND 4184",
-    "locID": "LOC000043145694",
+    "name": "12-13 BOAT HARBOUR AVENUE MACLEAY ISLAND 4184",
+    "locID": "LOC000039383351",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721305233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.36279438,
+     -27.58508021
+    ]
+   },
+   "properties": {
+    "name": "97-99 BEELONG STREET MACLEAY ISLAND 4184",
+    "locID": "ChIJZcJPeBllkWsRWBQAW0wNO24",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721264052"
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721339080"
    }
   }
  ]

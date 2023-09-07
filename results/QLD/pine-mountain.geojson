@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T05:10:46.778727",
+ "generated": "2023-09-07T03:24:27.466925",
  "suburb": "PINE MOUNTAIN",
  "features": [
   {
@@ -236,8 +236,8 @@
    "properties": {
     "name": "2 CALOOLA COURT PINE MOUNTAIN 4306",
     "locID": "LOC000004909750",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155717384"
    }
   },
@@ -440,8 +440,8 @@
    "properties": {
     "name": "80 BAYLEY ROAD PINE MOUNTAIN 4306",
     "locID": "LOC000065817266",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155718419"
    }
   },
@@ -1256,8 +1256,8 @@
    "properties": {
     "name": "41 WAIRUNA COURT PINE MOUNTAIN 4306",
     "locID": "LOC000031586167",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156994697"
    }
   },
@@ -1817,8 +1817,8 @@
    "properties": {
     "name": "15 GABBINBAR COURT PINE MOUNTAIN 4306",
     "locID": "LOC000063286825",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157033784"
    }
   },
@@ -2568,6 +2568,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158529692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.69194449,
+     -27.54195086
+    ]
+   },
+   "properties": {
+    "name": "90 JAMES ROAD PINE MOUNTAIN 4306",
+    "locID": "LOC000127579518",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD158529694"
    }
   },
   {
@@ -3721,8 +3738,8 @@
    "properties": {
     "name": "LOT 1 VELVET STREET PINE MOUNTAIN 4306",
     "locID": "LOC000186842122",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161339894"
    }
   },
@@ -5387,8 +5404,8 @@
    "properties": {
     "name": "12 CABERNET CRESCENT PINE MOUNTAIN 4306",
     "locID": "LOC000041816270",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162664070"
    }
   },
@@ -6203,8 +6220,8 @@
    "properties": {
     "name": "63 CABERNET CRESCENT PINE MOUNTAIN 4306",
     "locID": "LOC000029060458",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162884429"
    }
   },
@@ -6221,7 +6238,7 @@
     "name": "67 CABERNET CRESCENT PINE MOUNTAIN 4306",
     "locID": "LOC000017476580",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162884430"
    }
   },
@@ -6373,8 +6390,8 @@
    "properties": {
     "name": "19 MERLOT PLACE PINE MOUNTAIN 4306",
     "locID": "LOC000086994182",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162905672"
    }
   },
@@ -8712,23 +8729,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.69173062,
-     -27.54216164
-    ]
-   },
-   "properties": {
-    "name": "90-94 JAMES ROAD PINE MOUNTAIN 4306",
-    "locID": "LOC000127579518",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163310591"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.71031435,
      -27.56581865
     ]
@@ -10742,8 +10742,8 @@
    "properties": {
     "name": "92-96 VELVET STREET PINE MOUNTAIN 4306",
     "locID": "LOC000127583600",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163320606"
    }
   },
@@ -11031,7 +11031,7 @@
    "properties": {
     "name": "105 CHESTNUT DRIVE PINE MOUNTAIN 4306",
     "locID": "LOC100055345968",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425586868"
    }
@@ -11915,8 +11915,8 @@
    "properties": {
     "name": "1 VELVET STREET PINE MOUNTAIN 4306",
     "locID": "LOC000186842122",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720732475"
    }
   },
