@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T00:55:10.922015",
+ "generated": "2023-09-07T22:21:42.018927",
  "suburb": "CASHMERE",
  "features": [
   {
@@ -508,8 +508,8 @@
    "properties": {
     "name": "6 CORMORANT CLOSE CASHMERE 4500",
     "locID": "LOC000006538261",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155139147"
    }
   },
@@ -3059,7 +3059,7 @@
     "name": "3 AMAMOOR COURT CASHMERE 4500",
     "locID": "LOC000082634408",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155157037"
    }
   },
@@ -5353,8 +5353,8 @@
    "properties": {
     "name": "24 PEPPERMINT DRIVE CASHMERE 4500",
     "locID": "LOC000052548764",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155163701"
    }
   },
@@ -15196,8 +15196,8 @@
    "properties": {
     "name": "87 IRA BUCKBY ROAD WEST CASHMERE 4500",
     "locID": "LOC000031559903",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159987728"
    }
   },
@@ -15247,8 +15247,8 @@
    "properties": {
     "name": "127-129 IRA BUCKBY ROAD WEST CASHMERE 4500",
     "locID": "LOC000039146925",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD159987736"
    }
   },
@@ -18426,8 +18426,8 @@
    "properties": {
     "name": "LOT 999 IRA BUCKBY ROAD WEST CASHMERE 4500",
     "locID": "LOC000128101744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161187496"
    }
   },
@@ -22880,8 +22880,8 @@
    "properties": {
     "name": "1 LOTTIE PLACE CASHMERE 4500",
     "locID": "LOC000128145841",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162166572"
    }
   },
@@ -23612,7 +23612,7 @@
     "name": "10 ELLE COURT CASHMERE 4500",
     "locID": "LOC000060257580",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162505280"
    }
   },
@@ -25839,7 +25839,7 @@
     "name": "UNIT 1, 10 ELLE COURT CASHMERE 4500",
     "locID": "LOC000060257580",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163123110"
    }
   },
@@ -25906,8 +25906,8 @@
    "properties": {
     "name": "6 HUGH PLACE CASHMERE 4500",
     "locID": "LOC000021777008",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163124356"
    }
   },
@@ -27861,8 +27861,8 @@
    "properties": {
     "name": "8A FOREST ROAD CASHMERE 4500",
     "locID": "LOC000143857111",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425179155"
    }
   },
@@ -29581,6 +29581,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721257260"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.93878549,
+     -27.29427712
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1B, 1A FRANZIN DRIVE CASHMERE 4500",
+    "locID": "LOC000185159649",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335723"
    }
   }
  ]
