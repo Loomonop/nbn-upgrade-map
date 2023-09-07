@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T19:26:20.862244",
+ "generated": "2023-09-07T16:40:18.801662",
  "suburb": "BURLEIGH HEADS",
  "features": [
   {
@@ -440,8 +440,8 @@
    "properties": {
     "name": "19 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000098482671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154945179"
    }
   },
@@ -474,8 +474,8 @@
    "properties": {
     "name": "28 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000127362973",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154945185"
    }
   },
@@ -569,8 +569,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.43295573,
-     -28.10316771
+     153.43308594,
+     -28.1032388
     ]
    },
    "properties": {
@@ -695,8 +695,8 @@
    "properties": {
     "name": "5 STEVENSON COURT BURLEIGH HEADS 4220",
     "locID": "LOC000027715280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154948426"
    }
   },
@@ -1181,23 +1181,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.43107017,
-     -28.10436532
-    ]
-   },
-   "properties": {
-    "name": "5 FLAGSTONE DRIVE BURLEIGH HEADS 4220",
-    "locID": "LOC000004982302",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD154950898"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.43168017,
      -28.10440116
     ]
@@ -1205,8 +1188,8 @@
    "properties": {
     "name": "9 FLAGSTONE DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000087120320",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154950901"
    }
   },
@@ -1453,8 +1436,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41479881,
+     -28.10456233
     ]
    },
    "properties": {
@@ -2225,8 +2208,8 @@
    "properties": {
     "name": "13 RAMLY DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000019124818",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154957536"
    }
   },
@@ -2344,8 +2327,8 @@
    "properties": {
     "name": "63-65 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000089518115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154958319"
    }
   },
@@ -2361,8 +2344,8 @@
    "properties": {
     "name": "71-73 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000066043319",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154958323"
    }
   },
@@ -3568,8 +3551,8 @@
    "properties": {
     "name": "18 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000078333010",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155092766"
    }
   },
@@ -4173,8 +4156,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.44949443,
-     -28.09251876
+     153.44951647,
+     -28.09241576
     ]
    },
    "properties": {
@@ -9246,8 +9229,8 @@
    "properties": {
     "name": "24 TOWNSHIP DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000073726552",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155098216"
    }
   },
@@ -10225,8 +10208,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.45390308,
-     -28.09886783
+     153.45382126,
+     -28.09877345
     ]
    },
    "properties": {
@@ -10643,6 +10626,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155099221"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.44763499,
+     -28.08352805
+    ]
+   },
+   "properties": {
+    "name": "1812 GOLD COAST HIGHWAY BURLEIGH HEADS 4220",
+    "locID": "ChIJ_RKRKZsDkWsRA_xcQW_i848",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155099222"
    }
   },
   {
@@ -11466,8 +11466,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.44439738,
-     -28.10840654
+     153.44271316,
+     -28.10774084
     ]
    },
    "properties": {
@@ -20595,8 +20595,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.45194904,
-     -28.09791161
+     153.45198698,
+     -28.09798063
     ]
    },
    "properties": {
@@ -21486,8 +21486,8 @@
    "properties": {
     "name": "66 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000160924115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156357186"
    }
   },
@@ -24104,8 +24104,8 @@
    "properties": {
     "name": "9 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000160926305",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156358887"
    }
   },
@@ -24665,8 +24665,8 @@
    "properties": {
     "name": "98 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000127393762",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156359736"
    }
   },
@@ -25583,8 +25583,8 @@
    "properties": {
     "name": "SHED 2, 48 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000055224716",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156360481"
    }
   },
@@ -25600,8 +25600,8 @@
    "properties": {
     "name": "SHED 3, 48 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000055399327",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156360482"
    }
   },
@@ -25651,8 +25651,8 @@
    "properties": {
     "name": "58 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000041530929",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156360487"
    }
   },
@@ -27939,8 +27939,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.44463646,
-     -28.09077165
+     153.44463638,
+     -28.09075232
     ]
    },
    "properties": {
@@ -40050,8 +40050,8 @@
    "properties": {
     "name": "23-25 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000127398995",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156370042"
    }
   },
@@ -40339,8 +40339,8 @@
    "properties": {
     "name": "21 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000093263937",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156370123"
    }
   },
@@ -47829,8 +47829,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.45390308,
-     -28.09886783
+     153.45389014,
+     -28.0988692
     ]
    },
    "properties": {
@@ -51705,8 +51705,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.45390308,
-     -28.09886783
+     153.45383582,
+     -28.09882814
     ]
    },
    "properties": {
@@ -57893,8 +57893,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.44064108,
-     -28.10927799
+     153.44016407,
+     -28.10921628
     ]
    },
    "properties": {
@@ -59790,23 +59790,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157652080"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.44949443,
-     -28.09251876
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 28 HILL AVENUE BURLEIGH HEADS 4220",
-    "locID": "LOC000039392557",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157652081"
    }
   },
   {
@@ -69300,8 +69283,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.45390308,
-     -28.09886783
+     153.45394289,
+     -28.09891052
     ]
    },
    "properties": {
@@ -70694,8 +70677,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.44950616,
-     -28.09242745
+     153.44951647,
+     -28.09241576
     ]
    },
    "properties": {
@@ -75998,8 +75981,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42286581,
-     -28.10102491
+     153.42341599,
+     -28.1010783
     ]
    },
    "properties": {
@@ -77025,8 +77008,8 @@
    "properties": {
     "name": "UNIT 1, 63 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000089518115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160685609"
    }
   },
@@ -77348,8 +77331,8 @@
    "properties": {
     "name": "UNIT 3, 63 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000089350761",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160688628"
    }
   },
@@ -80544,8 +80527,8 @@
    "properties": {
     "name": "82-84 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000081673229",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160897481"
    }
   },
@@ -80952,8 +80935,8 @@
    "properties": {
     "name": "UNIT 2, 9 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000035793693",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160897514"
    }
   },
@@ -82550,8 +82533,8 @@
    "properties": {
     "name": "FACTORY 1, 5 STEVENSON COURT BURLEIGH HEADS 4220",
     "locID": "LOC000027715280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160897718"
    }
   },
@@ -82737,8 +82720,8 @@
    "properties": {
     "name": "SHED 2, 71 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000066043319",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160897748"
    }
   },
@@ -83604,8 +83587,8 @@
    "properties": {
     "name": "SHED 1, 5 FORTITUDE CRESCENT BURLEIGH HEADS 4220",
     "locID": "LOC000022589772",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160897899"
    }
   },
@@ -83638,8 +83621,8 @@
    "properties": {
     "name": "SHED 2, 5 FORTITUDE CRESCENT BURLEIGH HEADS 4220",
     "locID": "LOC000022589772",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160897901"
    }
   },
@@ -83852,8 +83835,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41481754,
+     -28.1047074
     ]
    },
    "properties": {
@@ -83869,8 +83852,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41491991,
+     -28.10472166
     ]
    },
    "properties": {
@@ -83886,8 +83869,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41502228,
+     -28.10473592
     ]
    },
    "properties": {
@@ -83903,8 +83886,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41520473,
+     -28.10451855
     ]
    },
    "properties": {
@@ -83920,8 +83903,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41421216,
+     -28.1043766
     ]
    },
    "properties": {
@@ -84005,8 +83988,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.4143085,
+     -28.10463649
     ]
    },
    "properties": {
@@ -84056,8 +84039,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41461203,
+     -28.10467877
     ]
    },
    "properties": {
@@ -84073,8 +84056,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41471472,
+     -28.10469308
     ]
    },
    "properties": {
@@ -84294,8 +84277,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41450977,
+     -28.10466453
     ]
    },
    "properties": {
@@ -84549,8 +84532,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41516671,
+     -28.10480668
     ]
    },
    "properties": {
@@ -84726,8 +84709,8 @@
    "properties": {
     "name": "SHOP 3, 12 RAMLY DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000097477682",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160903087"
    }
   },
@@ -85212,8 +85195,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41462918,
+     -28.10444003
     ]
    },
    "properties": {
@@ -85841,8 +85824,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41518282,
+     -28.10470989
     ]
    },
    "properties": {
@@ -86086,8 +86069,8 @@
    "properties": {
     "name": "SHED 1, 71 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000066043319",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160909501"
    }
   },
@@ -86147,8 +86130,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41440824,
+     -28.10465039
     ]
    },
    "properties": {
@@ -86198,8 +86181,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41519911,
+     -28.10461213
     ]
    },
    "properties": {
@@ -86681,8 +86664,8 @@
    "properties": {
     "name": "FACTORY 2, 5 STEVENSON COURT BURLEIGH HEADS 4220",
     "locID": "LOC000027715280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160910233"
    }
   },
@@ -90917,125 +90900,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160973019"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160973030"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160973041"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160973043"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160973045"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160973047"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160973049"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160973051"
    }
   },
   {
@@ -96116,8 +95980,8 @@
    "properties": {
     "name": "SHED 1, 46 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000106161355",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160976586"
    }
   },
@@ -96133,8 +95997,8 @@
    "properties": {
     "name": "SHOP 1, 66 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000160924115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160976587"
    }
   },
@@ -96473,8 +96337,8 @@
    "properties": {
     "name": "SHOP 2, 66 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000160924115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160976607"
    }
   },
@@ -96592,8 +96456,8 @@
    "properties": {
     "name": "SHED 3, 14 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000065017639",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160976614"
    }
   },
@@ -96864,8 +96728,8 @@
    "properties": {
     "name": "SHOP 4, 66 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000160924115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160976630"
    }
   },
@@ -98635,6 +98499,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160983488"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42127935,
+     -28.10198707
+    ]
+   },
+   "properties": {
+    "name": "10 RUDMAN PARADE BURLEIGH HEADS 4220",
+    "locID": "LOC000056926614",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD160983540"
    }
   },
   {
@@ -102933,8 +102814,8 @@
    "properties": {
     "name": "30-32 TOWNSHIP DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000067143783",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160988830"
    }
   },
@@ -104262,23 +104143,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161297416"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.42127935,
-     -28.10198707
-    ]
-   },
-   "properties": {
-    "name": "2-10 RUDMAN PARADE BURLEIGH HEADS 4220",
-    "locID": "LOC000056926614",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161297417"
    }
   },
   {
@@ -122330,8 +122194,8 @@
    "properties": {
     "name": "UNIT 2, 46 TOWNSHIP DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000039521784",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162071737"
    }
   },
@@ -122364,8 +122228,8 @@
    "properties": {
     "name": "UNIT 2, 64 TOWNSHIP DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000020158717",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162071740"
    }
   },
@@ -122534,8 +122398,8 @@
    "properties": {
     "name": "UNIT 3, 46 TOWNSHIP DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000039884746",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162071750"
    }
   },
@@ -124618,8 +124482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41727805,
-     -28.10416377
+     153.41712802,
+     -28.10419105
     ]
    },
    "properties": {
@@ -126087,8 +125951,8 @@
    "properties": {
     "name": "68-70 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000127384695",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162284382"
    }
   },
@@ -126777,23 +126641,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
-    ]
-   },
-   "properties": {
-    "name": "2 KIMBERLEY ROAD BURLEIGH HEADS 4220",
-    "locID": "LOC000014238483",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162287705"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.43618295,
      -28.1029459
     ]
@@ -126801,8 +126648,8 @@
    "properties": {
     "name": "52 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000127512104",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162287810"
    }
   },
@@ -126818,8 +126665,8 @@
    "properties": {
     "name": "54 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000127512115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162287811"
    }
   },
@@ -126981,8 +126828,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.44474892,
-     -28.09090879
+     153.4447474,
+     -28.090909
     ]
    },
    "properties": {
@@ -139884,23 +139731,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.45462404,
-     -28.09426446
-    ]
-   },
-   "properties": {
-    "name": "141 GEORGE STREET EAST BURLEIGH HEADS 4220",
-    "locID": "ChIJOQ2wOZYDkWsRQyR8Bc5g9eI",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162468081"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.44519252,
      -28.07710997
     ]
@@ -141183,8 +141013,8 @@
    "properties": {
     "name": "18A KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000078013571",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162471911"
    }
   },
@@ -141285,8 +141115,8 @@
    "properties": {
     "name": "UNIT 2, 2 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000078657637",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162472368"
    }
   },
@@ -144855,8 +144685,8 @@
    "properties": {
     "name": "UNIT 1, 63-65 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000089518115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162504633"
    }
   },
@@ -144906,8 +144736,8 @@
    "properties": {
     "name": "UNIT 2, 40-42 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000159006289",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162504637"
    }
   },
@@ -145127,8 +144957,8 @@
    "properties": {
     "name": "UNIT 3, 63-65 DOVER DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000089350761",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162504651"
    }
   },
@@ -148850,8 +148680,8 @@
    "properties": {
     "name": "8A KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000060529618",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162630016"
    }
   },
@@ -148901,8 +148731,8 @@
    "properties": {
     "name": "UNIT 3, 9 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000035754676",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162630202"
    }
   },
@@ -149564,8 +149394,8 @@
    "properties": {
     "name": "UNIT 1, 49 TOWNSHIP DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000030793117",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162635342"
    }
   },
@@ -149870,8 +149700,8 @@
    "properties": {
     "name": "UNIT 2, 49 TOWNSHIP DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000030749418",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162635362"
    }
   },
@@ -152403,8 +152233,8 @@
    "properties": {
     "name": "SHED 1, 2 HAWKINS STREET BURLEIGH HEADS 4220",
     "locID": "LOC000160902307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162673999"
    }
   },
@@ -152420,8 +152250,8 @@
    "properties": {
     "name": "SHED 2, 2 HAWKINS STREET BURLEIGH HEADS 4220",
     "locID": "LOC000160902307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162674000"
    }
   },
@@ -152437,8 +152267,8 @@
    "properties": {
     "name": "SHED 3, 2 HAWKINS STREET BURLEIGH HEADS 4220",
     "locID": "LOC000160902307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162674001"
    }
   },
@@ -152454,8 +152284,8 @@
    "properties": {
     "name": "2 HAWKINS STREET BURLEIGH HEADS 4220",
     "locID": "LOC000160902307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162674002"
    }
   },
@@ -158006,8 +157836,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.450009,
-     -28.09275003
+     153.44949047,
+     -28.09255467
     ]
    },
    "properties": {
@@ -158346,8 +158176,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42286581,
-     -28.10102491
+     153.42341599,
+     -28.1010783
     ]
    },
    "properties": {
@@ -165775,8 +165605,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41419514,
+     -28.10447266
     ]
    },
    "properties": {
@@ -165792,8 +165622,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41417792,
+     -28.10456983
     ]
    },
    "properties": {
@@ -165809,8 +165639,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.4141608,
+     -28.10466649
     ]
    },
    "properties": {
@@ -166183,8 +166013,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.41468937,
-     -28.10455452
+     153.41478008,
+     -28.10446105
     ]
    },
    "properties": {
@@ -167125,8 +166955,8 @@
    "properties": {
     "name": "SHOP 1, 86-88 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000160924266",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425649686"
    }
   },
@@ -167142,8 +166972,8 @@
    "properties": {
     "name": "SHED 1, 19 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000098482671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425649962"
    }
   },
@@ -167176,8 +167006,8 @@
    "properties": {
     "name": "SHED 2, 19 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000098482671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425649964"
    }
   },
@@ -174683,8 +174513,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -174700,8 +174530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -174734,8 +174564,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -174751,8 +174581,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -174768,8 +174598,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -174989,8 +174819,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175006,8 +174836,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175023,8 +174853,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175040,8 +174870,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175057,8 +174887,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175074,8 +174904,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175108,8 +174938,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175142,8 +174972,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175159,8 +174989,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175176,8 +175006,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175193,8 +175023,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175210,8 +175040,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175227,8 +175057,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175244,8 +175074,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175261,8 +175091,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175278,8 +175108,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175295,8 +175125,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175312,8 +175142,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175329,8 +175159,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175346,8 +175176,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175363,8 +175193,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175380,8 +175210,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175397,8 +175227,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175414,8 +175244,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175431,8 +175261,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175448,8 +175278,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175465,8 +175295,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175482,8 +175312,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175499,8 +175329,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175516,8 +175346,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175533,8 +175363,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175550,8 +175380,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175584,8 +175414,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175601,8 +175431,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175618,8 +175448,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175635,8 +175465,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -175652,8 +175482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -176417,8 +176247,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -176451,8 +176281,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -176689,8 +176519,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -176706,8 +176536,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -177913,8 +177743,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -179001,8 +178831,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -179018,8 +178848,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42969811,
+     -28.11793434
     ]
    },
    "properties": {
@@ -181925,16 +181755,1648 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.42978599,
-     -28.11795917
+     153.42405413,
+     -28.10840614
     ]
    },
    "properties": {
-    "name": "95-101 COWELL DRIVE BURLEIGH HEADS 4220",
-    "locID": "EjA5NSBDb3dlbGwgRHIsIEJ1cmxlaWdoIEhlYWRzIFFMRCA0MjIwLCBBdXN0cmFsaWEiMBIuChQKEgnDZ8Gv5AKRaxG0-uFaPNIGkRBfKhQKEgn7BvQS5QKRaxFRfOycmQL77g",
+    "name": "UNIT 9, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000001699729",
     "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721304879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42128481,
+     -28.10190661
+    ]
+   },
+   "properties": {
+    "name": "UNIT 21, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805375",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305222"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42086646,
+     -28.1018066
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805220",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305255"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42109331,
+     -28.10191357
+    ]
+   },
+   "properties": {
+    "name": "314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805231",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305284"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42137972,
+     -28.10223871
+    ]
+   },
+   "properties": {
+    "name": "UNIT 26, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805427",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305382"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42413662,
+     -28.10828494
+    ]
+   },
+   "properties": {
+    "name": "1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000001699729",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305423"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43025794,
+     -28.11827578
+    ]
+   },
+   "properties": {
+    "name": "95 COWELL DRIVE BURLEIGH HEADS 4220",
+    "locID": "ChIJncQMnfsCkWsR2IgXzW0-neQ",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD721263380"
+    "gnaf_pid": "GAQLD721305438"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42142294,
+     -28.10202541
+    ]
+   },
+   "properties": {
+    "name": "UNIT 23, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805399",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305467"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.4212514,
+     -28.10207151
+    ]
+   },
+   "properties": {
+    "name": "UNIT 19, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805352",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305656"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42391506,
+     -28.10827368
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000070144084",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305704"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42183272,
+     -28.10204557
+    ]
+   },
+   "properties": {
+    "name": "UNIT 31, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805470",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43294745,
+     -28.10340626
+    ]
+   },
+   "properties": {
+    "name": "UNIT 17, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777309",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42120815,
+     -28.10228497
+    ]
+   },
+   "properties": {
+    "name": "UNIT 16, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805323",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42419175,
+     -28.10817009
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000088936849",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305858"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42095305,
+     -28.10153216
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805208",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42131175,
+     -28.10258067
+    ]
+   },
+   "properties": {
+    "name": "UNIT 43, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805594",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306043"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42176515,
+     -28.10237377
+    ]
+   },
+   "properties": {
+    "name": "UNIT 35, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805518",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306088"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43323009,
+     -28.10296204
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777223",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306256"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42085045,
+     -28.10188192
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805231",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42126581,
+     -28.10200038
+    ]
+   },
+   "properties": {
+    "name": "UNIT 20, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805368",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42139413,
+     -28.10216758
+    ]
+   },
+   "properties": {
+    "name": "UNIT 25, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805415",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306732"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43320381,
+     -28.10325902
+    ]
+   },
+   "properties": {
+    "name": "UNIT 14, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777275",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306840"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.4520597,
+     -28.09791702
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 13 TABILBAN STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000191591336",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43266688,
+     -28.10305075
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777140",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306973"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43319675,
+     -28.10288401
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777210",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42181677,
+     -28.1016731
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805161",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307028"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42178295,
+     -28.10229201
+    ]
+   },
+   "properties": {
+    "name": "UNIT 34, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805502",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42163436,
+     -28.10263201
+    ]
+   },
+   "properties": {
+    "name": "UNIT 40, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805560",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42411795,
+     -28.10847259
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000157493370",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.4331991,
+     -28.10333342
+    ]
+   },
+   "properties": {
+    "name": "UNIT 15, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777281",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307254"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.4209898,
+     -28.10252945
+    ]
+   },
+   "properties": {
+    "name": "UNIT 46, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805628",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307264"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42181609,
+     -28.10212793
+    ]
+   },
+   "properties": {
+    "name": "UNIT 32, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805489",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307348"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43266799,
+     -28.10320469
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777138",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307798"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43319414,
+     -28.10340968
+    ]
+   },
+   "properties": {
+    "name": "UNIT 16, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777299",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307895"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43321791,
+     -28.10303668
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777234",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307899"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42174992,
+     -28.10244917
+    ]
+   },
+   "properties": {
+    "name": "UNIT 36, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805525",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42426737,
+     -28.10838833
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000157493370",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307920"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42138024,
+     -28.10164842
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805174",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42136528,
+     -28.10231
+    ]
+   },
+   "properties": {
+    "name": "UNIT 27, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805436",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308048"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42141891,
+     -28.10259773
+    ]
+   },
+   "properties": {
+    "name": "UNIT 42, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805587",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43321322,
+     -28.10311084
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777247",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308346"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43320853,
+     -28.10318472
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777252",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308519"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43267089,
+     -28.10298827
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777155",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309081"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42399219,
+     -28.1083502
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000088936849",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309261"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42406382,
+     -28.10809156
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000001699729",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43304452,
+     -28.10287622
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777193",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.4239358,
+     -28.10821063
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000070007497",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309674"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.45189142,
+     -28.09792147
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 13 TABILBAN STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000191591336",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721309706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43291932,
+     -28.10286997
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777186",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310172"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43267012,
+     -28.10328971
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777117",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42083512,
+     -28.1019576
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805249",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310415"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.45399582,
+     -28.09895188
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 24 BULLIMAH AVENUE BURLEIGH HEADS 4220",
+    "locID": "LOC000190209423",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43295894,
+     -28.1032268
+    ]
+   },
+   "properties": {
+    "name": "UNIT 20, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777345",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43295132,
+     -28.10334643
+    ]
+   },
+   "properties": {
+    "name": "UNIT 18, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777321",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42414218,
+     -28.10812052
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000059866270",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310994"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43296655,
+     -28.10310691
+    ]
+   },
+   "properties": {
+    "name": "UNIT 22, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777378",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311271"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42126296,
+     -28.10161623
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805188",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43267785,
+     -28.10288808
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777164",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42420188,
+     -28.10843824
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000147144585",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42144141,
+     -28.10193191
+    ]
+   },
+   "properties": {
+    "name": "UNIT 22, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805381",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42174117,
+     -28.102649
+    ]
+   },
+   "properties": {
+    "name": "UNIT 39, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805556",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42401215,
+     -28.10818062
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000069900283",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311810"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43297033,
+     -28.10304704
+    ]
+   },
+   "properties": {
+    "name": "UNIT 23, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777384",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42169618,
+     -28.10251155
+    ]
+   },
+   "properties": {
+    "name": "UNIT 37, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805539",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311935"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42114586,
+     -28.1015835
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805190",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311942"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43295514,
+     -28.10328668
+    ]
+   },
+   "properties": {
+    "name": "UNIT 19, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777332",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311969"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42077397,
+     -28.10225939
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805283",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311997"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42078929,
+     -28.10218378
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805277",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312044"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42109694,
+     -28.1025465
+    ]
+   },
+   "properties": {
+    "name": "UNIT 45, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805616",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312183"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42075863,
+     -28.1023351
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805296",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42120435,
+     -28.10256359
+    ]
+   },
+   "properties": {
+    "name": "UNIT 44, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805600",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42140853,
+     -28.10209654
+    ]
+   },
+   "properties": {
+    "name": "UNIT 24, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805404",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312329"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43062253,
+     -28.1184968
+    ]
+   },
+   "properties": {
+    "name": "101 COWELL DRIVE BURLEIGH HEADS 4220",
+    "locID": "ChIJCYDCm_sCkWsRbajO4tQeUzI",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43043376,
+     -28.11842162
+    ]
+   },
+   "properties": {
+    "name": "99 COWELL DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000155804489",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312436"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42186595,
+     -28.10188106
+    ]
+   },
+   "properties": {
+    "name": "UNIT 29, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805458",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42074333,
+     -28.1024106
+    ]
+   },
+   "properties": {
+    "name": "UNIT 14, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805306",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43296275,
+     -28.10316684
+    ]
+   },
+   "properties": {
+    "name": "UNIT 21, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777366",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313135"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42433029,
+     -28.10835756
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000147144603",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42123701,
+     -28.10214255
+    ]
+   },
+   "properties": {
+    "name": "UNIT 18, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805347",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313251"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42119246,
+     -28.10236243
+    ]
+   },
+   "properties": {
+    "name": "UNIT 15, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805310",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313264"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43297417,
+     -28.10298749
+    ]
+   },
+   "properties": {
+    "name": "UNIT 24, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777397",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42438261,
+     -28.10832251
+    ]
+   },
+   "properties": {
+    "name": "UNIT 14, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000070233988",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313296"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42184938,
+     -28.10196309
+    ]
+   },
+   "properties": {
+    "name": "UNIT 30, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805462",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42423977,
+     -28.10821396
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 1 FREMANTLE STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000001699729",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314209"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42177737,
+     -28.10252445
+    ]
+   },
+   "properties": {
+    "name": "UNIT 38, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805541",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314385"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43279786,
+     -28.10285997
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 49 LEDA DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000189777172",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314409"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.4212226,
+     -28.10221368
+    ]
+   },
+   "properties": {
+    "name": "UNIT 17, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805334",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314413"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42152648,
+     -28.10261484
+    ]
+   },
+   "properties": {
+    "name": "UNIT 41, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805573",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42081992,
+     -28.10203256
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805254",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42179947,
+     -28.10221022
+    ]
+   },
+   "properties": {
+    "name": "UNIT 33, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805491",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314573"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42134959,
+     -28.10238747
+    ]
+   },
+   "properties": {
+    "name": "UNIT 28, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805443",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42080463,
+     -28.10210802
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 314 BURLEIGH CONNECTION ROAD BURLEIGH HEADS 4220",
+    "locID": "LOC000189805265",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314958"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.44878323,
+     -28.09048606
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 13 WEST STREET BURLEIGH HEADS 4220",
+    "locID": "LOC000189806604",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.44488659,
+     -28.10008914
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 4 FLEAY COURT BURLEIGH HEADS 4220",
+    "locID": "LOC000159007353",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.44622206,
+     -28.07951424
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 1864-1866 GOLD COAST HIGHWAY BURLEIGH HEADS 4220",
+    "locID": "LOC000173380823",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334862"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.42969811,
+     -28.11793434
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 57 COWELL DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000181295233",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335163"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.44498164,
+     -28.09245315
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 141 GEORGE STREET WEST BURLEIGH HEADS 4220",
+    "locID": "LOC000072290375",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721339327"
    }
   }
  ]
