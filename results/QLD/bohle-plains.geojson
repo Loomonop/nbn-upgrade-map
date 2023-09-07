@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T06:11:12.572817",
+ "generated": "2023-09-07T04:32:41.558695",
  "suburb": "BOHLE PLAINS",
  "features": [
   {
@@ -2293,8 +2293,8 @@
    "properties": {
     "name": "21 TEREK WALK BOHLE PLAINS 4817",
     "locID": "LOC000064127157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162716263"
    }
   },
@@ -4214,8 +4214,8 @@
    "properties": {
     "name": "8 BELL MINER WAY BOHLE PLAINS 4817",
     "locID": "LOC000029059449",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162923201"
    }
   },
@@ -4333,8 +4333,8 @@
    "properties": {
     "name": "15 KALYNDA PARADE BOHLE PLAINS 4817",
     "locID": "LOC000015174555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162927026"
    }
   },
@@ -5183,8 +5183,8 @@
    "properties": {
     "name": "22 BRONZEWING CRESCENT BOHLE PLAINS 4817",
     "locID": "LOC000001727084",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162934557"
    }
   },
@@ -5439,7 +5439,7 @@
     "name": "10 KALYNDA PARADE BOHLE PLAINS 4817",
     "locID": "LOC000062735624",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162940414"
    }
   },
@@ -7138,8 +7138,8 @@
    "properties": {
     "name": "2 SCRUBWREN CIRCUIT BOHLE PLAINS 4817",
     "locID": "LOC000082114075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162946405"
    }
   },
@@ -9790,8 +9790,8 @@
    "properties": {
     "name": "7 WOONGAROO AVENUE BOHLE PLAINS 4817",
     "locID": "LOC000031859116",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163072542"
    }
   },
@@ -10691,8 +10691,8 @@
    "properties": {
     "name": "16 MEURIBAH AVENUE BOHLE PLAINS 4817",
     "locID": "LOC000008397006",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163140944"
    }
   },
@@ -11235,8 +11235,8 @@
    "properties": {
     "name": "43 SHOALHAVEN CIRCUIT BOHLE PLAINS 4817",
     "locID": "LOC000036143143",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163146036"
    }
   },
@@ -11592,8 +11592,8 @@
    "properties": {
     "name": "4 DRYSDALE STREET BOHLE PLAINS 4817",
     "locID": "LOC000011589624",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163185464"
    }
   },
@@ -25406,6 +25406,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.69688045,
+     -19.31189411
+    ]
+   },
+   "properties": {
+    "name": "2 BROADMEADOWS CRESCENT BOHLE PLAINS 4817",
+    "locID": "LOC000184698552",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720374438"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.69724111,
      -19.31299293
     ]
@@ -30829,8 +30846,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     146.69842756,
-     -19.3020481
+     146.69841684,
+     -19.30204615
     ]
    },
    "properties": {
@@ -31621,6 +31638,346 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721235615"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69637783,
+     -19.30123855
+    ]
+   },
+   "properties": {
+    "name": "22 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJSaYTfd_w1WsRYWjJQ17dOpU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721305505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69638406,
+     -19.30075284
+    ]
+   },
+   "properties": {
+    "name": "7 BRUSHWOOD COURT BOHLE PLAINS 4817",
+    "locID": "ChIJbcyTYd_w1WsREYktlH-U-Ug",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69699296,
+     -19.3014072
+    ]
+   },
+   "properties": {
+    "name": "15 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJc_l-cN_w1WsR1o7EDCZ9Ocg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306059"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69637478,
+     -19.30147576
+    ]
+   },
+   "properties": {
+    "name": "26 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJ_Xxzft_w1WsRbrqoVFsB6_k",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306610"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69693546,
+     -19.30061422
+    ]
+   },
+   "properties": {
+    "name": "8 BRUSHWOOD COURT BOHLE PLAINS 4817",
+    "locID": "ChIJ96jwZ9_w1WsR-vs1OH0_IQo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721306877"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69885796,
+     -19.30258249
+    ]
+   },
+   "properties": {
+    "name": "43 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJT6WPq9_w1WsRoVbJ-XtaRWM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307954"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69637957,
+     -19.301103
+    ]
+   },
+   "properties": {
+    "name": "1 BRUSHWOOD COURT BOHLE PLAINS 4817",
+    "locID": "ChIJ_Q3JYt_w1WsR8OZnkEswlvc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69637623,
+     -19.30136281
+    ]
+   },
+   "properties": {
+    "name": "24 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJ5VS-fd_w1WsRuxHC22YiWRw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308520"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69678157,
+     -19.30096144
+    ]
+   },
+   "properties": {
+    "name": "18 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJGXQ2ZN_w1WsRrKmV4CtvZAg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308668"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69693773,
+     -19.30098265
+    ]
+   },
+   "properties": {
+    "name": "16 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJzw7yZd_w1WsRvqP7x5dR2RU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721309668"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69679167,
+     -19.30146396
+    ]
+   },
+   "properties": {
+    "name": "23 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJnV3Ke9_w1WsR2oqD_jbcquI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721310627"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69638239,
+     -19.30060393
+    ]
+   },
+   "properties": {
+    "name": "9 BRUSHWOOD COURT BOHLE PLAINS 4817",
+    "locID": "ChIJL5ZIYN_w1WsRhMwXp_ggxVE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721310801"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69705618,
+     -19.30099329
+    ]
+   },
+   "properties": {
+    "name": "14 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJf1VGb9_w1WsRqgeSYERmac4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311962"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69690493,
+     -19.30076296
+    ]
+   },
+   "properties": {
+    "name": "6 BRUSHWOOD COURT BOHLE PLAINS 4817",
+    "locID": "ChIJb0k0Zt_w1WsRlC4YLCIpe1o",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69638261,
+     -19.30086579
+    ]
+   },
+   "properties": {
+    "name": "5 BRUSHWOOD COURT BOHLE PLAINS 4817",
+    "locID": "ChIJGaA-Yt_w1WsRa2pgPWjsKA8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69638117,
+     -19.30097875
+    ]
+   },
+   "properties": {
+    "name": "3 BRUSHWOOD COURT BOHLE PLAINS 4817",
+    "locID": "LOC000191035891",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69885796,
+     -19.30258249
+    ]
+   },
+   "properties": {
+    "name": "28 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJT6WPq9_w1WsRb1NXxFN0byo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312529"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69717463,
+     -19.30100393
+    ]
+   },
+   "properties": {
+    "name": "12 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJ80XXbt_w1WsRomB4jkMmP-g",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721313267"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69680239,
+     -19.30132283
+    ]
+   },
+   "properties": {
+    "name": "21 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJ8fIde9_w1WsRGMaxv9oGACA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721313287"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.69712326,
+     -19.3014189
+    ]
+   },
+   "properties": {
+    "name": "13 LIRIOPE CRESCENT BOHLE PLAINS 4817",
+    "locID": "ChIJ-R5RcN_w1WsRhECVXOcwNic",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314444"
    }
   }
  ]

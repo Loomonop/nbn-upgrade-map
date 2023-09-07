@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T05:48:40.270464",
+ "generated": "2023-09-07T04:08:19.877348",
  "suburb": "LOWOOD",
  "features": [
   {
@@ -21776,7 +21776,7 @@
     "name": "24 PAT SLATTERY PLACE LOWOOD 4311",
     "locID": "LOC000096440150",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162969952"
    }
   },
@@ -25193,7 +25193,7 @@
     "name": "8 RED ASH COURT LOWOOD 4311",
     "locID": "LOC000081900667",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163058961"
    }
   },
@@ -26817,8 +26817,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.55445123,
-     -27.47947379
+     152.55445194,
+     -27.47946642
     ]
    },
    "properties": {
@@ -27167,40 +27167,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163159232"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.56715416,
-     -27.46648862
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 1 CURRAWONG STREET LOWOOD 4311",
-    "locID": "LOC000088256861",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163161388"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.56715416,
-     -27.46648862
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 1 CURRAWONG STREET LOWOOD 4311",
-    "locID": "LOC000088256861",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163161389"
    }
   },
   {
@@ -34909,40 +34875,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.56183752,
-     -27.46648269
-    ]
-   },
-   "properties": {
-    "name": "LOT 103 KINGFISHER WAY LOWOOD 4311",
-    "locID": "Ei4xMDMgS2luZ2Zpc2hlciBXYXksIExvd29vZCBRTEQgNDMxMSwgQXVzdHJhbGlhIjASLgoUChIJVXJCgUa7lmsRJl8l7bI8-wUQZyoUChIJXxyBKUS7lmsRnwgPDdJEZWA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719272843"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.56230104,
-     -27.4665416
-    ]
-   },
-   "properties": {
-    "name": "LOT 104 KINGFISHER WAY LOWOOD 4311",
-    "locID": "LOC000191119847",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719274593"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.56201425,
      -27.46587945
     ]
@@ -36898,8 +36830,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.57330717,
-     -27.48293673
+     152.56793211,
+     -27.49202488
     ]
    },
    "properties": {
@@ -36908,6 +36840,74 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721264380"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.5517358,
+     -27.47829349
+    ]
+   },
+   "properties": {
+    "name": "29 KLIBBE ROAD LOWOOD 4311",
+    "locID": "ChIJOTxyImS7lmsR0d_kRzQwmfs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721304924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.55214755,
+     -27.47871772
+    ]
+   },
+   "properties": {
+    "name": "33 KLIBBE ROAD LOWOOD 4311",
+    "locID": "ChIJ32xrO2S7lmsRXZ5I8OxBL9M",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308664"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.55264542,
+     -27.47878269
+    ]
+   },
+   "properties": {
+    "name": "39 KLIBBE ROAD LOWOOD 4311",
+    "locID": "ChIJl8TOMWS7lmsREB2r1lUby40",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721313515"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.56230104,
+     -27.4665416
+    ]
+   },
+   "properties": {
+    "name": "11 KINGFISHER WAY LOWOOD 4311",
+    "locID": "ChIJMSMFfka7lmsRgJ1x1owlOZg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314351"
    }
   }
  ]

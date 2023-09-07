@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T05:24:15.831982",
+ "generated": "2023-09-07T03:47:15.633920",
  "suburb": "PETRIE",
  "features": [
   {
@@ -54126,8 +54126,8 @@
    "properties": {
     "name": "LOT 4 YOUNGS CROSSING ROAD PETRIE 4502",
     "locID": "LOC000003409027",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161363161"
    }
   },
@@ -56438,8 +56438,8 @@
    "properties": {
     "name": "LOT 940 YOUNGS CROSSING ROAD PETRIE 4502",
     "locID": "LOC000003409027",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163020233"
    }
   },
@@ -61218,6 +61218,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425197430"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.96244635,
+     -27.25341989
+    ]
+   },
+   "properties": {
+    "name": "134 BEEVILLE ROAD PETRIE 4502",
+    "locID": "ChIJY5S7iKH7k2sRoWQbGTsNfLA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425198502"
    }
   },
   {
@@ -66420,6 +66437,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721266682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.96244635,
+     -27.25341989
+    ]
+   },
+   "properties": {
+    "name": "1 KURWONGBAH DRIVE PETRIE 4502",
+    "locID": "LOC000099153101",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314582"
    }
   }
  ]
