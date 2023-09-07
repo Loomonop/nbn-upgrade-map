@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T06:29:46.485801",
+ "generated": "2023-09-07T05:01:22.908396",
  "suburb": "MANLY",
  "features": [
   {
@@ -543,7 +543,7 @@
     "name": "87 BOSWELL TERRACE MANLY 4179",
     "locID": "LOC000064279097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155504217"
    }
   },
@@ -933,8 +933,8 @@
    "properties": {
     "name": "103 MOUNTJOY TERRACE MANLY 4179",
     "locID": "LOC000087659229",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155505289"
    }
   },
@@ -11729,7 +11729,7 @@
     "name": "368 UPPER ESPLANADE MANLY 4179",
     "locID": "LOC000086889550",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156764185"
    }
   },
@@ -12052,7 +12052,7 @@
     "name": "129 CARLTON TERRACE MANLY 4179",
     "locID": "LOC000079507505",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156767341"
    }
   },
@@ -12765,8 +12765,8 @@
    "properties": {
     "name": "87 KINGSLEY TERRACE MANLY 4179",
     "locID": "LOC000064208307",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156770501"
    }
   },
@@ -16940,8 +16940,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.18178138,
-     -27.45853416
+     153.18199659,
+     -27.45850959
     ]
    },
    "properties": {
@@ -18650,23 +18650,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156784467"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.18259694,
-     -27.4583658
-    ]
-   },
-   "properties": {
-    "name": "97 ERNEST STREET MANLY 4179",
-    "locID": "LOC000127098412",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156784557"
    }
   },
   {
@@ -24022,6 +24005,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156791925"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.19214982,
+     -27.46053578
+    ]
+   },
+   "properties": {
+    "name": "578 ROYAL ESPLANADE MANLY 4179",
+    "locID": "LOC000193221755",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156791930"
    }
   },
   {
@@ -33829,7 +33829,7 @@
     "name": "UNIT 1, 87 BOSWELL TERRACE MANLY 4179",
     "locID": "LOC000064279097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158205793"
    }
   },
@@ -34203,7 +34203,7 @@
     "name": "UNIT 2, 87 BOSWELL TERRACE MANLY 4179",
     "locID": "LOC000064275641",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158210258"
    }
   },
@@ -39329,6 +39329,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.19376015,
+     -27.45460034
+    ]
+   },
+   "properties": {
+    "name": "578B ROYAL ESPLANADE MANLY 4179",
+    "locID": "LOC000193221755",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162997285"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.19025592,
      -27.46131878
     ]
@@ -42185,23 +42202,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.18172858,
-     -27.45657428
-    ]
-   },
-   "properties": {
-    "name": "129B MOUNTJOY TERRACE MANLY 4179",
-    "locID": "LOC000019109140",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD721233823"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.18183395,
      -27.45656573
     ]
@@ -42236,8 +42236,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.18183395,
-     -27.45656573
+     153.18172858,
+     -27.45657428
     ]
    },
    "properties": {
@@ -42246,6 +42246,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721266485"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18199659,
+     -27.45850959
+    ]
+   },
+   "properties": {
+    "name": "30 BARRINIA STREET MANLY 4179",
+    "locID": "ChIJqR-leTZekWsRX4ZUnAW39qE",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721313459"
    }
   }
  ]
