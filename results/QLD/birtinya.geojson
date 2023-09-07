@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-18T02:58:06.070494",
+ "generated": "2023-09-07T00:56:00.959255",
  "suburb": "BIRTINYA",
  "features": [
   {
@@ -1147,8 +1147,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.1206502,
-     -26.73911953
+     153.12175568,
+     -26.73808823
     ]
    },
    "properties": {
@@ -1334,8 +1334,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.12014775,
-     -26.74054912
+     153.1201475,
+     -26.74054948
     ]
    },
    "properties": {
@@ -4639,8 +4639,8 @@
    "properties": {
     "name": "7 BLADE COURT BIRTINYA 4575",
     "locID": "LOC000110843029",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163292887"
    }
   },
@@ -4878,7 +4878,7 @@
     "name": "13 SWEEP COURT BIRTINYA 4575",
     "locID": "LOC000110267100",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163299707"
    }
   },
@@ -5047,8 +5047,8 @@
    "properties": {
     "name": "10 TOMKINS ESPLANADE BIRTINYA 4575",
     "locID": "LOC000111354651",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163299928"
    }
   },
@@ -5234,8 +5234,8 @@
    "properties": {
     "name": "3 TOMKINS ESPLANADE BIRTINYA 4575",
     "locID": "LOC000113525509",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163299939"
    }
   },
@@ -5924,8 +5924,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.11808903,
-     -26.75377574
+     153.1180109,
+     -26.7538142
     ]
    },
    "properties": {
@@ -6084,8 +6084,8 @@
    "properties": {
     "name": "16 MACON STREET BIRTINYA 4575",
     "locID": "LOC000116079221",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163312599"
    }
   },
@@ -6577,8 +6577,8 @@
    "properties": {
     "name": "36 PANGALI CIRCUIT BIRTINYA 4575",
     "locID": "LOC000110451317",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163315647"
    }
   },
@@ -7376,8 +7376,8 @@
    "properties": {
     "name": "12 BURUWANG STREET BIRTINYA 4575",
     "locID": "LOC000116075553",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424853912"
    }
   },
@@ -8073,8 +8073,8 @@
    "properties": {
     "name": "DUPLEX 1, 36 PANGALI CIRCUIT BIRTINYA 4575",
     "locID": "LOC000110451317",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424992804"
    }
   },
@@ -8107,8 +8107,8 @@
    "properties": {
     "name": "DUPLEX 2, 36 PANGALI CIRCUIT BIRTINYA 4575",
     "locID": "LOC000110451317",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425000282"
    }
   },
@@ -16940,8 +16940,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.11729518,
-     -26.75605861
+     153.11736478,
+     -26.75594315
     ]
    },
    "properties": {
@@ -35878,8 +35878,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.11730251,
-     -26.7561022
+     153.11734278,
+     -26.75603192
     ]
    },
    "properties": {
@@ -45558,8 +45558,8 @@
    "properties": {
     "name": "4 BANYANDAH CLOSE BIRTINYA 4575",
     "locID": "LOC000116080439",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD720979884"
    }
   },
@@ -47421,8 +47421,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.11951035,
-     -26.74229146
+     153.11951404,
+     -26.74227615
     ]
    },
    "properties": {
@@ -47591,8 +47591,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.11729518,
-     -26.75605861
+     153.11736478,
+     -26.75594315
     ]
    },
    "properties": {
@@ -49420,6 +49420,57 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721257858"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11518343,
+     -26.74174478
+    ]
+   },
+   "properties": {
+    "name": "7 DISCOVERY COURT BIRTINYA 4575",
+    "locID": "ChIJgWAC3n2ek2sRpgM-n5gkSd0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308979"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11469971,
+     -26.75124422
+    ]
+   },
+   "properties": {
+    "name": "UNIT 601, 3 REFLECTION CRESCENT BIRTINYA 4575",
+    "locID": "LOC000171410232",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334926"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.11469971,
+     -26.75124422
+    ]
+   },
+   "properties": {
+    "name": "UNIT 313, 3 REFLECTION CRESCENT BIRTINYA 4575",
+    "locID": "LOC000178457992",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335393"
    }
   }
  ]
