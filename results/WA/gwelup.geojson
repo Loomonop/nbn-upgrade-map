@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T23:29:48.563504",
+ "generated": "2023-09-08T22:48:34.813905",
  "suburb": "GWELUP",
  "features": [
   {
@@ -1137,8 +1137,8 @@
    "properties": {
     "name": "722 NORTH BEACH ROAD GWELUP 6018",
     "locID": "LOC000190308924",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146585798"
    }
   },
@@ -2735,8 +2735,8 @@
    "properties": {
     "name": "33 VALANCE WAY GWELUP 6018",
     "locID": "LOC000079472541",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146591695"
    }
   },
@@ -3501,7 +3501,7 @@
     "name": "13 LYNDALE STREET GWELUP 6018",
     "locID": "LOC000065760437",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146597543"
    }
   },
@@ -3602,8 +3602,8 @@
    "properties": {
     "name": "19 LYNDALE STREET GWELUP 6018",
     "locID": "LOC000072827518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146597549"
    }
   },
@@ -5353,8 +5353,8 @@
    "properties": {
     "name": "2 WATERSIDE CRESCENT GWELUP 6018",
     "locID": "LOC000081260191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147096073"
    }
   },
@@ -14211,7 +14211,7 @@
     "name": "UNIT 3, 3 PORONGURUP WAY GWELUP 6018",
     "locID": "LOC000054950650",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147270003"
    }
   },
@@ -14891,7 +14891,7 @@
     "name": "UNIT 2, 3 PORONGURUP WAY GWELUP 6018",
     "locID": "LOC000054940271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147280706"
    }
   },
@@ -18665,7 +18665,7 @@
     "name": "UNIT 1, 3 PORONGURUP WAY GWELUP 6018",
     "locID": "LOC000054950650",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147751790"
    }
   },
@@ -21741,8 +21741,8 @@
    "properties": {
     "name": "47 SEGRAVE STREET GWELUP 6018",
     "locID": "LOC000098619668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161423131"
    }
   },
@@ -21877,8 +21877,8 @@
    "properties": {
     "name": "7 O'RYAN CLOSE GWELUP 6018",
     "locID": "LOC000071886987",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_161514697"
    }
   },
@@ -23288,8 +23288,8 @@
    "properties": {
     "name": "47B SEGRAVE STREET GWELUP 6018",
     "locID": "LOC000098619668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162395827"
    }
   },
@@ -23374,7 +23374,7 @@
     "name": "3 PORONGURUP WAY GWELUP 6018",
     "locID": "LOC000054940271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162414175"
    }
   },
@@ -29527,8 +29527,8 @@
    "properties": {
     "name": "2 COUCAL STREET GWELUP 6018",
     "locID": "LOC100074888338",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718521083"
    }
   },
@@ -32087,23 +32087,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78786633,
-     -31.8810676
-    ]
-   },
-   "properties": {
-    "name": "72 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJzbtKAOSuMioRe-j4R2VXIO4",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719034864"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.79982118,
      -31.86384166
     ]
@@ -33321,1927 +33304,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719151291"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 76, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173129"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 95, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173132"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 100, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173133"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 104, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173134"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 107, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173135"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 14, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173136"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 34, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173137"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 55, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173138"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 68, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173139"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 73, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173140"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 90, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173141"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 47, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173161"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 84, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173162"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 66, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173169"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 39, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173191"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 51, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173194"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 16, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173195"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 26, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173226"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 97, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173331"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 8, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173332"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 44, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173333"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 52, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173334"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 65, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173335"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 93, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173360"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 105, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173361"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 54, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173383"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 33, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173386"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 45, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173389"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 21, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173421"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 98, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173430"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 106, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173431"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 112, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173517"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 17, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173518"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 50, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173519"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 60, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173520"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 64, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173521"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 108, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173548"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 111, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173549"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 81, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173550"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 59, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173583"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 36, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173587"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 56, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173588"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 22, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173591"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 31, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173601"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 35, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173611"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 46, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173708"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 61, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173709"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 62, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173710"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 82, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173711"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 70, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173712"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 37, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173729"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 103, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173732"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 102, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173734"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 63, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173736"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 87, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173739"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 48, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173758"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 10, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173760"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 79, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173772"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 94, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173786"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 29, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173859"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 110, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173866"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173867"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 99, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173885"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 75, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173886"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 72, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173888"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 25, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173913"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 13, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173915"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 74, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173930"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173951"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 101, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173953"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173954"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173975"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 24, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719173995"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 9, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174025"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 11, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174026"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 41, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174027"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 53, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174028"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 67, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174029"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 80, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174030"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 86, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174031"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 96, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174034"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 69, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174049"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174078"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 88, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174083"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 28, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174103"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 20, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174195"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 23, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174196"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 15, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174199"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174202"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 18, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174203"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 40, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174204"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 77, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174205"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 91, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174227"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 78, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174231"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 19, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174255"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 42, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174259"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 71, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174284"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 85, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174285"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174308"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 109, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174310"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 32, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174337"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 27, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174379"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 12, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174385"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 38, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174386"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 43, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174387"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 49, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174388"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 57, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174389"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 58, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174390"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 30, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174443"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174449"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 89, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174465"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 92, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174466"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78786952,
-     -31.88116467
-    ]
-   },
-   "properties": {
-    "name": "UNIT 83, 74 HUNTRISS ROAD GWELUP 6018",
-    "locID": "ChIJb5_eBuSuMioR5cWvpfvMyAo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_719174552"
    }
   },
   {
@@ -36497,8 +34559,8 @@
    "properties": {
     "name": "43 SEGRAVE STREET GWELUP 6018",
     "locID": "LOC000185290128",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719967169"
    }
   },
@@ -36568,6 +34630,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719969187"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79112239,
+     -31.88168945
+    ]
+   },
+   "properties": {
+    "name": "41 SEGRAVE STREET GWELUP 6018",
+    "locID": "ChIJTdb2FOOuMioRs-UnVTsDxz4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_719969677"
    }
   },
   {
@@ -37282,6 +35361,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721014772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79371517,
+     -31.87454743
+    ]
+   },
+   "properties": {
+    "name": "6A TEALE COURT GWELUP 6018",
+    "locID": "ChIJw2B8qPquMioRWCX1tD3QspQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.79162194,
+     -31.88169151
+    ]
+   },
+   "properties": {
+    "name": "45 SEGRAVE STREET GWELUP 6018",
+    "locID": "ChIJSQA4PuOuMioR_qm8rzxrXhI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279503"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7937251,
+     -31.87443644
+    ]
+   },
+   "properties": {
+    "name": "6B TEALE COURT GWELUP 6018",
+    "locID": "ChIJuf8FqPquMioRCcY82YYIxCU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280446"
    }
   }
  ]

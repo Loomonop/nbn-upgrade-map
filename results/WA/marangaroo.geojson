@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T22:46:00.935815",
+ "generated": "2023-09-08T22:06:07.672635",
  "suburb": "MARANGAROO",
  "features": [
   {
@@ -36277,7 +36277,7 @@
     "name": "52 MONASH CIRCLE MARANGAROO 6064",
     "locID": "LOC000072692211",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147090701"
    }
   },
@@ -37381,8 +37381,8 @@
    "properties": {
     "name": "35 ADELPHI COURT MARANGAROO 6064",
     "locID": "LOC000008644505",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147100831"
    }
   },
@@ -47700,8 +47700,8 @@
    "properties": {
     "name": "12 MONASH CIRCLE MARANGAROO 6064",
     "locID": "LOC000063345070",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147267430"
    }
   },
@@ -53004,8 +53004,8 @@
    "properties": {
     "name": "VILLA 3, 59 BERKLEY ROAD MARANGAROO 6064",
     "locID": "LOC000043645101",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147309002"
    }
   },
@@ -54755,8 +54755,8 @@
    "properties": {
     "name": "VILLA 4, 59 BERKLEY ROAD MARANGAROO 6064",
     "locID": "LOC000043645101",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147318132"
    }
   },
@@ -65686,8 +65686,8 @@
    "properties": {
     "name": "59 BERKLEY ROAD MARANGAROO 6064",
     "locID": "LOC000043645101",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162398380"
    }
   },
@@ -68800,6 +68800,40 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721209630"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.82353791,
+     -31.83360278
+    ]
+   },
+   "properties": {
+    "name": "33B MEREWORTH WAY MARANGAROO 6064",
+    "locID": "ChIJ9ZofJ9-tMioRwdsPuR1P0mU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278273"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.8235175,
+     -31.83378392
+    ]
+   },
+   "properties": {
+    "name": "33A MEREWORTH WAY MARANGAROO 6064",
+    "locID": "ChIJKdkqJN-tMioR85X9mVQoek8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281889"
    }
   }
  ]
