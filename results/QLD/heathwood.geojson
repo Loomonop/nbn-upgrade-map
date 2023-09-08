@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T06:46:33.251436",
+ "generated": "2023-09-08T04:45:56.053312",
  "suburb": "HEATHWOOD",
  "features": [
   {
@@ -1698,8 +1698,8 @@
    "properties": {
     "name": "1 PAPERBARK CRESCENT HEATHWOOD 4110",
     "locID": "LOC000093653420",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161980568"
    }
   },
@@ -1835,7 +1835,7 @@
     "name": "160 STRADBROKE STREET HEATHWOOD 4110",
     "locID": "LOC000051182828",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161982641"
    }
   },
@@ -1936,8 +1936,8 @@
    "properties": {
     "name": "22 STRINGYBARK PLACE HEATHWOOD 4110",
     "locID": "LOC000031883227",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161982648"
    }
   },
@@ -2157,8 +2157,8 @@
    "properties": {
     "name": "18 BOTTLEBRUSH STREET HEATHWOOD 4110",
     "locID": "LOC000106515441",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162081708"
    }
   },
@@ -3330,8 +3330,8 @@
    "properties": {
     "name": "37 BOTTLEBRUSH STREET HEATHWOOD 4110",
     "locID": "LOC000096064694",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162314347"
    }
   },
@@ -3500,8 +3500,8 @@
    "properties": {
     "name": "3 HAZEL STREET HEATHWOOD 4110",
     "locID": "LOC000081948668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162318138"
    }
   },
@@ -4231,8 +4231,8 @@
    "properties": {
     "name": "47 PAPERBARK CRESCENT HEATHWOOD 4110",
     "locID": "LOC000074096278",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162321058"
    }
   },
@@ -4639,8 +4639,8 @@
    "properties": {
     "name": "35 LAUREL STREET HEATHWOOD 4110",
     "locID": "LOC000069938158",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162472293"
    }
   },
@@ -11235,8 +11235,8 @@
    "properties": {
     "name": "11 BIGNONIA CLOSE HEATHWOOD 4110",
     "locID": "LOC000062544336",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163259389"
    }
   },
@@ -11609,8 +11609,8 @@
    "properties": {
     "name": "6 GEIJERA CLOSE HEATHWOOD 4110",
     "locID": "LOC000078133975",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163262291"
    }
   },
@@ -12561,8 +12561,8 @@
    "properties": {
     "name": "210 STAPYLTON ROAD HEATHWOOD 4110",
     "locID": "LOC000115116010",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163299534"
    }
   },
@@ -13258,8 +13258,8 @@
    "properties": {
     "name": "40 OLD BLUNDER ROAD HEATHWOOD 4110",
     "locID": "LOC000126427886",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425039600"
    }
   },
@@ -13309,8 +13309,8 @@
    "properties": {
     "name": "100 FALKLAND STREET WEST HEATHWOOD 4110",
     "locID": "LOC000146168444",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425329578"
    }
   },
@@ -13397,6 +13397,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425329585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98171354,
+     -27.62589252
+    ]
+   },
+   "properties": {
+    "name": "31 FALKLAND STREET WEST HEATHWOOD 4110",
+    "locID": "ChIJs2DLjTJPkWsRyTu2M2_KYI4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425329586"
    }
   },
   {
@@ -13533,6 +13550,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425329594"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98527281,
+     -27.62719253
+    ]
+   },
+   "properties": {
+    "name": "81 FALKLAND STREET WEST HEATHWOOD 4110",
+    "locID": "ChIJBSf9gTRPkWsRzRqzwggvtDo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD425329595"
    }
   },
   {
