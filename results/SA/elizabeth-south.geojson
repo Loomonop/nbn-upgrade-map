@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T11:45:54.517959",
+ "generated": "2023-09-08T10:07:45.161132",
  "suburb": "ELIZABETH SOUTH",
  "features": [
   {
@@ -732,23 +732,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415011220"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.65352059,
-     -34.75611087
-    ]
-   },
-   "properties": {
-    "name": "LOT 14 PORTER STREET ELIZABETH SOUTH 5112",
-    "locID": "EjAxNCBQb3J0ZXIgU3QsIEVsaXphYmV0aCBTb3V0aCBTQSA1MTEyLCBBdXN0cmFsaWEiMBIuChQKEgnv6T65MrKwahEr5Ld6mNpjjBAOKhQKEgkd_CBKM7KwahH1puMcIsMW0A",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_415011221"
    }
   },
   {
@@ -8243,8 +8226,8 @@
    "properties": {
     "name": "LOT 2 KETTERING ROAD ELIZABETH SOUTH 5112",
     "locID": "LOC000162142331",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415232631"
    }
   },
@@ -15981,23 +15964,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415254080"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.66468484,
-     -34.72951922
-    ]
-   },
-   "properties": {
-    "name": "71 PHILIP HIGHWAY ELIZABETH SOUTH 5112",
-    "locID": "LOC000060761905",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415254081"
    }
   },
   {
@@ -26443,23 +26409,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.64505311,
-     -34.74888084
-    ]
-   },
-   "properties": {
-    "name": "10 KETTERING ROAD ELIZABETH SOUTH 5112",
-    "locID": "ChIJn0JVAS2ysGoRbq72gZv4mEU",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_425065114"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.66295565,
      -34.73331298
     ]
@@ -26912,23 +26861,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425357233"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.64548948,
-     -34.75114776
-    ]
-   },
-   "properties": {
-    "name": "149-205 COMMERCIAL ROAD ELIZABETH SOUTH 5112",
-    "locID": "ChIJ8akb8CyysGoRetS_qM0FZsY",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_425359518"
    }
   },
   {
@@ -28250,7 +28182,7 @@
     ]
    },
    "properties": {
-    "name": "UNIT 9, 183 PHILIP HIGHWAY ELIZABETH SOUTH 5112",
+    "name": "SHOP 9, 183 PHILIP HIGHWAY ELIZABETH SOUTH 5112",
     "locID": "LOC000022555530",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
@@ -28267,7 +28199,7 @@
     ]
    },
    "properties": {
-    "name": "UNIT 7, 183 PHILIP HIGHWAY ELIZABETH SOUTH 5112",
+    "name": "SHOP 7, 183 PHILIP HIGHWAY ELIZABETH SOUTH 5112",
     "locID": "LOC000022555530",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
@@ -28284,7 +28216,7 @@
     ]
    },
    "properties": {
-    "name": "UNIT 8, 183 PHILIP HIGHWAY ELIZABETH SOUTH 5112",
+    "name": "SHOP 8, 183 PHILIP HIGHWAY ELIZABETH SOUTH 5112",
     "locID": "LOC000022555530",
     "tech": "FTTN",
     "upgrade": "NULL_NA",
@@ -29017,8 +28949,8 @@
    "properties": {
     "name": "5 KETTERING ROAD ELIZABETH SOUTH 5112",
     "locID": "LOC000162142331",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720186936"
    }
   },
@@ -29459,7 +29391,7 @@
    "properties": {
     "name": "26 MARK ROAD ELIZABETH SOUTH 5112",
     "locID": "ChIJt0ZN9S2zsGoRZJVmvi_NbKc",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721201484"
    }
@@ -29493,9 +29425,94 @@
    "properties": {
     "name": "26A MARK ROAD ELIZABETH SOUTH 5112",
     "locID": "Ei0yNiBNYXJrIFJkLCBFbGl6YWJldGggVmFsZSBTQSA1MTEyLCBBdXN0cmFsaWEiMBIuChQKEgnJsy1NRrKwahFBFRwnsoCpqxAaKhQKEglhdZj4RrKwahG0gTHnmVMfAQ",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721267213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66471025,
+     -34.72947902
+    ]
+   },
+   "properties": {
+    "name": "71A PHILIP HIGHWAY ELIZABETH SOUTH 5112",
+    "locID": "ChIJW9H7RHGysGoRtnez6oxjanM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274360"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.64548948,
+     -34.75114776
+    ]
+   },
+   "properties": {
+    "name": "205 COMMERCIAL ROAD ELIZABETH SOUTH 5112",
+    "locID": "EjUyMDUgQ29tbWVyY2lhbCBSZCwgRWxpemFiZXRoIFNvdXRoIFNBIDUxMTIsIEF1c3RyYWxpYSIxEi8KFAoSCb3kXmMrsrBqEeSnJs_SS1uuEM0BKhQKEgmBmzVT0bOwahGYB3R4f_5-vw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65352067,
+     -34.75611076
+    ]
+   },
+   "properties": {
+    "name": "44 PORTER STREET ELIZABETH SOUTH 5112",
+    "locID": "ChIJDWWYUzOysGoRdfalNLlBETI",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66465943,
+     -34.7295594
+    ]
+   },
+   "properties": {
+    "name": "71B PHILIP HIGHWAY ELIZABETH SOUTH 5112",
+    "locID": "ChIJFzGfRHGysGoRlj_4lYzGwNQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276327"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.64801601,
+     -34.74357918
+    ]
+   },
+   "properties": {
+    "name": "LOT 11 COMMERCIAL ROAD ELIZABETH SOUTH 5112",
+    "locID": "LOC000130514665",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721277654"
    }
   }
  ]
