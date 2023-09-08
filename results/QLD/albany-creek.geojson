@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T06:08:31.349884",
+ "generated": "2023-09-08T04:07:07.129064",
  "suburb": "ALBANY CREEK",
  "features": [
   {
@@ -6917,8 +6917,8 @@
    "properties": {
     "name": "34 CRESSBROOK DRIVE ALBANY CREEK 4035",
     "locID": "LOC000097780894",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD154925189"
    }
   },
@@ -27582,8 +27582,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96890049,
-     -27.34255985
+     152.96881299,
+     -27.34243537
     ]
    },
    "properties": {
@@ -34491,8 +34491,8 @@
    "properties": {
     "name": "3 TURPENTINE COURT ALBANY CREEK 4035",
     "locID": "LOC000014218359",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD154930002"
    }
   },
@@ -34576,7 +34576,7 @@
    "properties": {
     "name": "30 WIVENHOE AVENUE ALBANY CREEK 4035",
     "locID": "ChIJm_Be1oT9k2sR2JYXWqv009o",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD154930031"
    }
@@ -67744,7 +67744,7 @@
     "name": "5 ALDER COURT ALBANY CREEK 4035",
     "locID": "LOC000085823474",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157410016"
    }
   },
@@ -67981,8 +67981,8 @@
    "properties": {
     "name": "4 ALDER COURT ALBANY CREEK 4035",
     "locID": "LOC000018284099",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157410528"
    }
   },
@@ -69018,8 +69018,8 @@
    "properties": {
     "name": "18 HAVENWOOD COURT ALBANY CREEK 4035",
     "locID": "LOC000028167584",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157411969"
    }
   },
@@ -70327,8 +70327,8 @@
    "properties": {
     "name": "20 HAVENWOOD COURT ALBANY CREEK 4035",
     "locID": "LOC000094440531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157412788"
    }
   },
@@ -80544,8 +80544,8 @@
    "properties": {
     "name": "8 LEOPARDWOOD COURT ALBANY CREEK 4035",
     "locID": "LOC000044959563",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157417962"
    }
   },
@@ -91723,6 +91723,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.96724344,
+     -27.34979348
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161375880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.96713053,
+     -27.34967937
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161375881"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96132187,
      -27.34957404
     ]
@@ -100757,8 +100791,8 @@
    "properties": {
     "name": "100A CRESSBROOK DRIVE ALBANY CREEK 4035",
     "locID": "LOC000154831757",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425202345"
    }
   },
@@ -100774,8 +100808,8 @@
    "properties": {
     "name": "22 CRESSBROOK DRIVE ALBANY CREEK 4035",
     "locID": "LOC000154565320",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425202346"
    }
   },
@@ -102239,23 +102273,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425213282"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.97273533,
-     -27.35617578
-    ]
-   },
-   "properties": {
-    "name": "34-44 OLD NORTHERN ROAD ALBANY CREEK 4035",
-    "locID": "ChIJjfnJv3n9k2sRCGeIuBSmOBA",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD425213283"
    }
   },
   {
@@ -105425,8 +105442,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.97845357,
-     -27.33997018
+     152.9786773,
+     -27.3400763
     ]
    },
    "properties": {
@@ -115523,40 +115540,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96834043,
-     -27.34938368
-    ]
-   },
-   "properties": {
-    "name": "UNIT 23, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
-    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720976473"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.96680644,
-     -27.34821706
-    ]
-   },
-   "properties": {
-    "name": "UNIT 19, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
-    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720976669"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.96741211,
      -27.34831271
     ]
@@ -115669,23 +115652,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720977537"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.96701472,
-     -27.34876263
-    ]
-   },
-   "properties": {
-    "name": "UNIT 10, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
-    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720977786"
    }
   },
   {
@@ -115829,23 +115795,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96848424,
-     -27.34898552
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
-    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720978726"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.96794733,
      -27.34865474
     ]
@@ -115948,23 +115897,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96662352,
-     -27.34924036
-    ]
-   },
-   "properties": {
-    "name": "UNIT 9, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
-    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720980092"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.96807342,
      -27.34866972
     ]
@@ -115982,16 +115914,16 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96801012,
-     -27.34986607
+     152.96812426,
+     -27.34908638
     ]
    },
    "properties": {
-    "name": "UNIT 3, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "name": "UNIT 19, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
     "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
     "tech": "HFC",
     "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720980417"
+    "gnaf_pid": "GAQLD720980345"
    }
   },
   {
@@ -116016,8 +115948,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96810546,
-     -27.34840828
+     152.96770241,
+     -27.34930664
     ]
    },
    "properties": {
@@ -116025,7 +115957,7 @@
     "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
     "tech": "HFC",
     "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720980646"
+    "gnaf_pid": "GAQLD720980710"
    }
   },
   {
@@ -116271,6 +116203,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.96841305,
+     -27.34956074
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720982022"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96730737,
      -27.34881539
     ]
@@ -116298,6 +116247,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720982151"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.96743059,
+     -27.3491236
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720982388"
    }
   },
   {
@@ -116339,16 +116305,16 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96849795,
-     -27.34887147
+     152.96659375,
+     -27.34914083
     ]
    },
    "properties": {
-    "name": "UNIT 1, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "name": "UNIT 10, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
     "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
     "tech": "HFC",
     "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720982929"
+    "gnaf_pid": "GAQLD720982818"
    }
   },
   {
@@ -116356,16 +116322,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96671215,
-     -27.34943617
+     152.96690958,
+     -27.34874546
     ]
    },
    "properties": {
-    "name": "UNIT 7, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "name": "UNIT 9, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
     "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
     "tech": "HFC",
     "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD720982931"
+    "gnaf_pid": "GAQLD720982839"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.967301,
+     -27.34829561
+    ]
+   },
+   "properties": {
+    "name": "UNIT 23, 24 FAHEYS ROAD EAST ALBANY CREEK 4035",
+    "locID": "ChIJV7ZbAHb9k2sRnV8jsxNl_l0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720982861"
    }
   },
   {
@@ -117206,8 +117189,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.96884505,
-     -27.34248379
+     152.96881299,
+     -27.34243537
     ]
    },
    "properties": {
@@ -117505,6 +117488,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721266678"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97273533,
+     -27.35617578
+    ]
+   },
+   "properties": {
+    "name": "34 OLD NORTHERN ROAD ALBANY CREEK 4035",
+    "locID": "ChIJjfnJv3n9k2sRIPNx_0VaTbQ",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721305031"
    }
   }
  ]
