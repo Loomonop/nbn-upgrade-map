@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T13:32:44.425390",
+ "generated": "2023-09-08T12:06:17.305525",
  "suburb": "MERRIMAC",
  "features": [
   {
@@ -22336,8 +22336,8 @@
    "properties": {
     "name": "6 RONA COURT MERRIMAC 4226",
     "locID": "LOC000074847272",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156864074"
    }
   },
@@ -22404,8 +22404,8 @@
    "properties": {
     "name": "18 RUSHTON COURT MERRIMAC 4226",
     "locID": "LOC000099526792",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156864080"
    }
   },
@@ -28950,7 +28950,7 @@
     "name": "28-30 JONDIQUE AVENUE MERRIMAC 4226",
     "locID": "LOC000127372992",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160755344"
    }
   },
@@ -34970,6 +34970,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161287298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.38930909,
+     -28.05057793
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 ROBINA PARKWAY MERRIMAC 4226",
+    "locID": "EilSb2JpbmEgUGt3eSwgTWVycmltYWMgUUxEIDQyMjYsIEF1c3RyYWxpYSIuKiwKFAoSCTNUqZZVG5FrEUYyyTtFuXZoEhQKEgmlH6IVQxuRaxFQpN7zWqMCBQ",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161292945"
    }
   },
   {
