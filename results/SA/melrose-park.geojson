@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T21:10:07.858514",
+ "generated": "2023-09-08T20:11:01.952675",
  "suburb": "MELROSE PARK",
  "features": [
   {
@@ -3527,8 +3527,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.57684977,
-     -34.98554286
+     138.57690428,
+     -34.9855401
     ]
    },
    "properties": {
@@ -8314,23 +8314,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415098007"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.57670933,
-     -34.98101092
-    ]
-   },
-   "properties": {
-    "name": "1 BRETT STREET MELROSE PARK 5039",
-    "locID": "LOC000018284567",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415098008"
    }
   },
   {
@@ -13378,7 +13361,7 @@
     "name": "983 SOUTH ROAD MELROSE PARK 5039",
     "locID": "LOC000043738508",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415401946"
    }
   },
@@ -21028,7 +21011,7 @@
     "name": "11 BENNET AVENUE MELROSE PARK 5039",
     "locID": "LOC000024186228",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423597310"
    }
   },
@@ -26103,40 +26086,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.57679436,
-     -34.98554467
-    ]
-   },
-   "properties": {
-    "name": "LOT 100 AYERS AVENUE MELROSE PARK 5039",
-    "locID": "LOC000190014830",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_721002320"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.57690428,
-     -34.9855401
-    ]
-   },
-   "properties": {
-    "name": "LOT 101 AYERS AVENUE MELROSE PARK 5039",
-    "locID": "LOC000093996516",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_721002594"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.57702802,
      -34.99025201
     ]
@@ -26181,6 +26130,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721251795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.57671269,
+     -34.98105545
+    ]
+   },
+   "properties": {
+    "name": "1A BRETT STREET MELROSE PARK 5039",
+    "locID": "LOC000193648194",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721274138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.57679436,
+     -34.98554467
+    ]
+   },
+   "properties": {
+    "name": "164 AYERS AVENUE MELROSE PARK 5039",
+    "locID": "ChIJ0b-kLR_QsGoRlOO_h-2uCZA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274393"
    }
   }
  ]
