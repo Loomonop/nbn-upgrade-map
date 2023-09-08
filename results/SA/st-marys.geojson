@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T18:00:04.746763",
+ "generated": "2023-09-08T16:51:45.871262",
  "suburb": "ST MARYS",
  "features": [
   {
@@ -32,8 +32,8 @@
    "properties": {
     "name": "1A RAGLESS STREET ST MARYS 5042",
     "locID": "LOC000043036375",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414950611"
    }
   },
@@ -950,8 +950,8 @@
    "properties": {
     "name": "10 MERRITON AVENUE ST MARYS 5042",
     "locID": "LOC000097452827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415046370"
    }
   },
@@ -984,8 +984,8 @@
    "properties": {
     "name": "1 RAGLESS STREET ST MARYS 5042",
     "locID": "LOC100080284440",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415046372"
    }
   },
@@ -1052,8 +1052,8 @@
    "properties": {
     "name": "14 BAILEY STREET ST MARYS 5042",
     "locID": "LOC000034174320",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415046376"
    }
   },
@@ -1086,8 +1086,8 @@
    "properties": {
     "name": "11 DENIS STREET ST MARYS 5042",
     "locID": "LOC000103720390",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415047958"
    }
   },
@@ -1324,8 +1324,8 @@
    "properties": {
     "name": "18 WALSH AVENUE ST MARYS 5042",
     "locID": "LOC000067095034",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415051666"
    }
   },
@@ -1409,8 +1409,8 @@
    "properties": {
     "name": "11 PARK ROAD ST MARYS 5042",
     "locID": "LOC000187379434",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415051671"
    }
   },
@@ -1477,8 +1477,8 @@
    "properties": {
     "name": "3 PARK ROAD ST MARYS 5042",
     "locID": "LOC000091103569",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415051675"
    }
   },
@@ -1579,8 +1579,8 @@
    "properties": {
     "name": "34 WALSH AVENUE ST MARYS 5042",
     "locID": "LOC000031223437",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415051681"
    }
   },
@@ -1749,8 +1749,8 @@
    "properties": {
     "name": "33 THURLES STREET ST MARYS 5042",
     "locID": "LOC100080280263",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415051691"
    }
   },
@@ -1834,8 +1834,8 @@
    "properties": {
     "name": "11 THURLES STREET ST MARYS 5042",
     "locID": "LOC000102606141",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415051696"
    }
   },
@@ -2021,8 +2021,8 @@
    "properties": {
     "name": "22 RAGLESS STREET ST MARYS 5042",
     "locID": "LOC000146550738",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415052621"
    }
   },
@@ -2140,8 +2140,8 @@
    "properties": {
     "name": "19 ROTHESAY AVENUE ST MARYS 5042",
     "locID": "LOC000109925383",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415052633"
    }
   },
@@ -2208,8 +2208,8 @@
    "properties": {
     "name": "69 DORENE STREET ST MARYS 5042",
     "locID": "LOC000053295162",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415054103"
    }
   },
@@ -3146,6 +3146,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415064311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.58116534,
+     -35.00975776
+    ]
+   },
+   "properties": {
+    "name": "32 NORMAN STREET ST MARYS 5042",
+    "locID": "LOC000130352336",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415064312"
    }
   },
   {
@@ -4299,8 +4316,8 @@
    "properties": {
     "name": "18 PINN STREET ST MARYS 5042",
     "locID": "LOC000130348959",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415073055"
    }
   },
@@ -4350,8 +4367,8 @@
    "properties": {
     "name": "7 PINN STREET ST MARYS 5042",
     "locID": "LOC000102553454",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415073059"
    }
   },
@@ -4401,8 +4418,8 @@
    "properties": {
     "name": "17 PINN STREET ST MARYS 5042",
     "locID": "LOC000094140460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415073063"
    }
   },
@@ -4996,8 +5013,8 @@
    "properties": {
     "name": "19 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000023332981",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415093380"
    }
   },
@@ -5081,8 +5098,8 @@
    "properties": {
     "name": "9 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000053254834",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415093385"
    }
   },
@@ -5217,8 +5234,8 @@
    "properties": {
     "name": "10 LLOYD STREET ST MARYS 5042",
     "locID": "LOC000018380899",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415093526"
    }
   },
@@ -5251,8 +5268,8 @@
    "properties": {
     "name": "14 LLOYD STREET ST MARYS 5042",
     "locID": "LOC000024219821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415093528"
    }
   },
@@ -5404,8 +5421,8 @@
    "properties": {
     "name": "72 DORENE STREET ST MARYS 5042",
     "locID": "LOC000069861345",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415094595"
    }
   },
@@ -5727,8 +5744,8 @@
    "properties": {
     "name": "6 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000022519783",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415098777"
    }
   },
@@ -5761,8 +5778,8 @@
    "properties": {
     "name": "10 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000012548870",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415098779"
    }
   },
@@ -5812,8 +5829,8 @@
    "properties": {
     "name": "18 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000094469063",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415098783"
    }
   },
@@ -5829,8 +5846,8 @@
    "properties": {
     "name": "20 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000067091213",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415098784"
    }
   },
@@ -6033,8 +6050,8 @@
    "properties": {
     "name": "50 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000094117159",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415099598"
    }
   },
@@ -6118,8 +6135,8 @@
    "properties": {
     "name": "6 OSBORNE STREET ST MARYS 5042",
     "locID": "LOC000047535668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415099603"
    }
   },
@@ -6424,8 +6441,8 @@
    "properties": {
     "name": "25 LLOYD STREET ST MARYS 5042",
     "locID": "LOC000067108853",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415102500"
    }
   },
@@ -7359,8 +7376,8 @@
    "properties": {
     "name": "34 DONALD STREET ST MARYS 5042",
     "locID": "LOC000050300539",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415108475"
    }
   },
@@ -8464,8 +8481,8 @@
    "properties": {
     "name": "11 MANSE TERRACE ST MARYS 5042",
     "locID": "LOC000014246942",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415111372"
    }
   },
@@ -9297,8 +9314,8 @@
    "properties": {
     "name": "18 STYLES AVENUE ST MARYS 5042",
     "locID": "LOC000035103688",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415124488"
    }
   },
@@ -10453,8 +10470,8 @@
    "properties": {
     "name": "27 KILEY COURT ST MARYS 5042",
     "locID": "LOC000031646887",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415211824"
    }
   },
@@ -11337,8 +11354,8 @@
    "properties": {
     "name": "52 TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC000029117054",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415240295"
    }
   },
@@ -11406,7 +11423,7 @@
     "name": "31 LLOYD STREET ST MARYS 5042",
     "locID": "LOC000021696911",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415240299"
    }
   },
@@ -11677,8 +11694,8 @@
    "properties": {
     "name": "58 LLOYD STREET ST MARYS 5042",
     "locID": "LOC000090841123",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415243007"
    }
   },
@@ -12935,8 +12952,8 @@
    "properties": {
     "name": "12 PARK ROAD ST MARYS 5042",
     "locID": "LOC000090998158",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415413444"
    }
   },
@@ -13581,8 +13598,8 @@
    "properties": {
     "name": "26 MERRITON AVENUE ST MARYS 5042",
     "locID": "LOC000087693743",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415425832"
    }
   },
@@ -13666,8 +13683,8 @@
    "properties": {
     "name": "12 STYLES AVENUE ST MARYS 5042",
     "locID": "LOC000031650979",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415425837"
    }
   },
@@ -14261,8 +14278,8 @@
    "properties": {
     "name": "28 RAGLESS STREET ST MARYS 5042",
     "locID": "LOC000011708799",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415433503"
    }
   },
@@ -14278,8 +14295,8 @@
    "properties": {
     "name": "30-34 RAGLESS STREET ST MARYS 5042",
     "locID": "LOC000088626339",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415433504"
    }
   },
@@ -14975,8 +14992,8 @@
    "properties": {
     "name": "60 LLOYD STREET ST MARYS 5042",
     "locID": "LOC000079535623",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415442872"
    }
   },
@@ -15162,8 +15179,8 @@
    "properties": {
     "name": "98 CASHEL STREET ST MARYS 5042",
     "locID": "LOC000109838654",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415444531"
    }
   },
@@ -15332,8 +15349,8 @@
    "properties": {
     "name": "38 RAGLESS STREET ST MARYS 5042",
     "locID": "LOC000070384113",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415447452"
    }
   },
@@ -15485,8 +15502,8 @@
    "properties": {
     "name": "10 BAILEY STREET ST MARYS 5042",
     "locID": "LOC000018681154",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415447461"
    }
   },
@@ -16981,8 +16998,8 @@
    "properties": {
     "name": "UNIT 2, 1B DAY DRIVE ST MARYS 5042",
     "locID": "LOC000130338484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415626280"
    }
   },
@@ -20245,8 +20262,8 @@
    "properties": {
     "name": "UNIT 2, 1A SOUTHERN AVENUE ST MARYS 5042",
     "locID": "LOC000146575152",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415684269"
    }
   },
@@ -21401,8 +21418,8 @@
    "properties": {
     "name": "UNIT 3, 5 MANSE TERRACE ST MARYS 5042",
     "locID": "LOC000030323198",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416349865"
    }
   },
@@ -21605,8 +21622,8 @@
    "properties": {
     "name": "25 KILEY COURT ST MARYS 5042",
     "locID": "LOC000090879723",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416352395"
    }
   },
@@ -21639,8 +21656,8 @@
    "properties": {
     "name": "UNIT 2, 22 RAGLESS STREET ST MARYS 5042",
     "locID": "LOC000146550738",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416352427"
    }
   },
@@ -22234,8 +22251,8 @@
    "properties": {
     "name": "UNIT 2, 5 MANSE TERRACE ST MARYS 5042",
     "locID": "LOC000030327970",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416365222"
    }
   },
@@ -23084,8 +23101,8 @@
    "properties": {
     "name": "14A DENIS STREET ST MARYS 5042",
     "locID": "LOC000079246497",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416608709"
    }
   },
@@ -23322,8 +23339,8 @@
    "properties": {
     "name": "2 ROTHESAY AVENUE ST MARYS 5042",
     "locID": "LOC000093284776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_422039015"
    }
   },
@@ -23883,8 +23900,8 @@
    "properties": {
     "name": "1133 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000130345478",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_422270377"
    }
   },
@@ -24002,8 +24019,8 @@
    "properties": {
     "name": "1213 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000084818318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_422270394"
    }
   },
@@ -24070,8 +24087,8 @@
    "properties": {
     "name": "1239 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000146541179",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_422270400"
    }
   },
@@ -24291,8 +24308,8 @@
    "properties": {
     "name": "UNIT 1, 1213 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000084818318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_422368609"
    }
   },
@@ -24325,8 +24342,8 @@
    "properties": {
     "name": "1215 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000056511751",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_422368612"
    }
   },
@@ -24427,8 +24444,8 @@
    "properties": {
     "name": "1143 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000093331796",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_422374742"
    }
   },
@@ -25022,8 +25039,8 @@
    "properties": {
     "name": "UNIT 2, 1 RAGLESS STREET ST MARYS 5042",
     "locID": "LOC100080284440",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_423619439"
    }
   },
@@ -25889,8 +25906,8 @@
    "properties": {
     "name": "SHOP 1, 1239 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000146541179",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424148629"
    }
   },
@@ -26178,8 +26195,8 @@
    "properties": {
     "name": "1B DAY DRIVE ST MARYS 5042",
     "locID": "LOC000130338484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424413506"
    }
   },
@@ -26297,8 +26314,8 @@
    "properties": {
     "name": "1A SOUTHERN AVENUE ST MARYS 5042",
     "locID": "LOC000146575152",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424416164"
    }
   },
@@ -29102,8 +29119,8 @@
    "properties": {
     "name": "UNIT 5, 1213 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000084818318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_718983259"
    }
   },
@@ -29119,8 +29136,8 @@
    "properties": {
     "name": "SHOP 3, 1239 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000146541179",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_718983457"
    }
   },
@@ -29221,8 +29238,8 @@
    "properties": {
     "name": "UNIT 6, 1213 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000084818318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_718986159"
    }
   },
@@ -29255,8 +29272,8 @@
    "properties": {
     "name": "UNIT 4, 1213 SOUTH ROAD ST MARYS 5042",
     "locID": "LOC000084818318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_718986667"
    }
   },
@@ -29697,8 +29714,8 @@
    "properties": {
     "name": "47A LLOYD STREET ST MARYS 5042",
     "locID": "LOC000188836037",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719393148"
    }
   },
@@ -30598,8 +30615,8 @@
    "properties": {
     "name": "2B MERRITON AVENUE ST MARYS 5042",
     "locID": "LOC000146504918",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719864700"
    }
   },
@@ -30666,8 +30683,8 @@
    "properties": {
     "name": "46A DORENE STREET ST MARYS 5042",
     "locID": "LOC100080277859",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719964795"
    }
   },
@@ -30905,7 +30922,7 @@
     "name": "57A TOBRUK AVENUE ST MARYS 5042",
     "locID": "LOC100073140561",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720303145"
    }
   },
@@ -30972,8 +30989,8 @@
    "properties": {
     "name": "11A PARK ROAD ST MARYS 5042",
     "locID": "LOC000187379452",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720415827"
    }
   },
@@ -31791,6 +31808,108 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721259913"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.58100672,
+     -35.00975412
+    ]
+   },
+   "properties": {
+    "name": "LOT 7 NORMAN COURT ST MARYS 5042",
+    "locID": "ChIJ81MkzEPQsGoRMjAoQdaRlz0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274184"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.58641165,
+     -35.01707983
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 AYLIFFES ROAD ST MARYS 5042",
+    "locID": "ChIJI8IDN13QsGoRTvEV1u9MBUY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.58125576,
+     -35.00984074
+    ]
+   },
+   "properties": {
+    "name": "LOT 6 NORMAN COURT ST MARYS 5042",
+    "locID": "Eis2IE5vcm1hbiBTdCwgU2FpbnQgTWFyeXMgU0EgNTA0MiwgQXVzdHJhbGlhIjASLgoUChIJO59MM0LQsGoRhA-vr1wZTQsQBioUChIJjyiuykPQsGoRgrNJ0a0RKRo",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275139"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.58124338,
+     -35.00966781
+    ]
+   },
+   "properties": {
+    "name": "LOT 5 NORMAN COURT ST MARYS 5042",
+    "locID": "ChIJ2eCNzUPQsGoRzXzZ9TcAvuU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275435"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5812932,
+     -35.00699239
+    ]
+   },
+   "properties": {
+    "name": "32B NORMAN STREET ST MARYS 5042",
+    "locID": "ChIJI45k10LQsGoR3ByH8nr7yQ8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5812932,
+     -35.00699239
+    ]
+   },
+   "properties": {
+    "name": "32A NORMAN STREET ST MARYS 5042",
+    "locID": "ChIJI45k10LQsGoR3ByH8nr7yQ8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304601"
    }
   }
  ]
