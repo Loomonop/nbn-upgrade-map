@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T04:08:14.021906",
+ "generated": "2023-09-08T01:49:02.988230",
  "suburb": "MAREEBA",
  "features": [
   {
@@ -44725,8 +44725,8 @@
    "properties": {
     "name": "15 BASALT STREET MAREEBA 4880",
     "locID": "LOC000081272792",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158233398"
    }
   },
@@ -53209,7 +53209,7 @@
     "name": "LOT 8 CATERINA CLOSE MAREEBA 4880",
     "locID": "LOC000006813112",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158955909"
    }
   },
@@ -63901,8 +63901,8 @@
    "properties": {
     "name": "196-198 BYRNES STREET MAREEBA 4880",
     "locID": "LOC000093606700",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD161429507"
    }
   },
@@ -64225,7 +64225,7 @@
     "name": "8 CATERINA CLOSE MAREEBA 4880",
     "locID": "LOC000006813112",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161430276"
    }
   },
@@ -68858,8 +68858,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.46049901,
-     -16.99844437
+     145.47405084,
+     -16.98201607
     ]
    },
    "properties": {
@@ -77681,8 +77681,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.41329754,
-     -17.01694853
+     145.41329659,
+     -17.01696279
     ]
    },
    "properties": {
@@ -77732,8 +77732,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.41329754,
-     -17.01694853
+     145.41329659,
+     -17.01696279
     ]
    },
    "properties": {
@@ -81353,8 +81353,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.41329754,
-     -17.01694853
+     145.41329659,
+     -17.01696279
     ]
    },
    "properties": {
@@ -81948,8 +81948,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.41329754,
-     -17.01694853
+     145.41329659,
+     -17.01696279
     ]
    },
    "properties": {
@@ -83248,7 +83248,7 @@
     "name": "10 ELI CLOSE MAREEBA 4880",
     "locID": "LOC000039539760",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162854170"
    }
   },
@@ -86861,8 +86861,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.47415406,
-     -16.98221517
+     145.47774997,
+     -16.97492035
     ]
    },
    "properties": {
@@ -93022,7 +93022,7 @@
    "properties": {
     "name": "16 THORA CLELAND DRIVE MAREEBA 4880",
     "locID": "ChIJK3Al0gl-gmkRYstS6Ufsq6o",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163175511"
    }
@@ -96238,6 +96238,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163258701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43921227,
+     -17.00081601
+    ]
+   },
+   "properties": {
+    "name": "UNIT 67, 36 ANZAC AVENUE MAREEBA 4880",
+    "locID": "LOC000039322683",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163258702"
    }
   },
   {
@@ -103725,23 +103742,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.44469506,
-     -16.99180876
-    ]
-   },
-   "properties": {
-    "name": "LOT 31 HOOLAHAN DRIVE MAREEBA 4880",
-    "locID": "LOC000186711697",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425589812"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.44520618,
      -16.99494831
     ]
@@ -108240,23 +108240,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719140971"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.41233489,
-     -17.01585232
-    ]
-   },
-   "properties": {
-    "name": "LOT 100 TILSE STREET MAREEBA 4880",
-    "locID": "EikxMDAgVGlsc2UgU3QsIE1hcmVlYmEgUUxEIDQ4ODAsIEF1c3RyYWxpYSIwEi4KFAoSCdG_kCaFfoJpEdB2z1jx7gATEGQqFAoSCXsqtgSFfoJpEaCIvJbR98dQ",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719141124"
    }
   },
   {
@@ -116645,23 +116628,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.4377643,
-     -16.99035363
-    ]
-   },
-   "properties": {
-    "name": "67 KAROBEAN DRIVE MAREEBA 4880",
-    "locID": "Eis2NyBLYXJvYmVhbiBEciwgTWFyZWViYSBRTEQgNDg4MCwgQXVzdHJhbGlhIjASLgoUChIJA7nGFUl-gmkRkoLh_RZx7uMQQyoUChIJpUOVjU5-gmkRyrsUepqXzUQ",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD721139219"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.43817216,
      -16.99039309
     ]
@@ -116757,23 +116723,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721139910"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.43835574,
-     -16.99098142
-    ]
-   },
-   "properties": {
-    "name": "61 KAROBEAN DRIVE MAREEBA 4880",
-    "locID": "Eis2MSBLYXJvYmVhbiBEciwgTWFyZWViYSBRTEQgNDg4MCwgQXVzdHJhbGlhIjASLgoUChIJA7nGFUl-gmkRkoLh_RZx7uMQPSoUChIJpUOVjU5-gmkRyrsUepqXzUQ",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD721140051"
    }
   },
   {
@@ -117267,6 +117216,108 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721233087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.44469506,
+     -16.99180876
+    ]
+   },
+   "properties": {
+    "name": "87 HOOLAHAN DRIVE MAREEBA 4880",
+    "locID": "ChIJrSdy9Ep-gmkRu0JIXZqGBUk",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308240"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.4357973,
+     -17.0121688
+    ]
+   },
+   "properties": {
+    "name": "28 SUMMER STREET MAREEBA 4880",
+    "locID": "ChIJSfa5fPd-gmkRUKyDMq0pZv4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721311790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.42455242,
+     -16.98158297
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 21 WALSH STREET MAREEBA 4880",
+    "locID": "LOC000041759957",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.42537313,
+     -16.99961837
+    ]
+   },
+   "properties": {
+    "name": "UNIT 15, 16 HERBERTON STREET MAREEBA 4880",
+    "locID": "LOC000039649042",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43826217,
+     -16.99492819
+    ]
+   },
+   "properties": {
+    "name": "269 HASTIE ROAD MAREEBA 4880",
+    "locID": "LOC100080962079",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335260"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.43837668,
+     -17.06716267
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 65 ELLERY ROAD MAREEBA 4880",
+    "locID": "LOC000115070150",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335371"
    }
   }
  ]

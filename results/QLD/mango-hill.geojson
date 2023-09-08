@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-19T03:35:04.815923",
+ "generated": "2023-09-08T01:19:23.827989",
  "suburb": "MANGO HILL",
  "features": [
   {
@@ -15,8 +15,8 @@
    "properties": {
     "name": "1 CAMMERAY PLACE MANGO HILL 4509",
     "locID": "LOC000036693561",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155503226"
    }
   },
@@ -491,8 +491,8 @@
    "properties": {
     "name": "26 PERIDOT CRESCENT MANGO HILL 4509",
     "locID": "LOC000078236419",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155503972"
    }
   },
@@ -1902,8 +1902,8 @@
    "properties": {
     "name": "24 TOPAZ DRIVE MANGO HILL 4509",
     "locID": "LOC000099692407",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155510592"
    }
   },
@@ -2038,8 +2038,8 @@
    "properties": {
     "name": "23 JABIRU DRIVE MANGO HILL 4509",
     "locID": "LOC000066001157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155510986"
    }
   },
@@ -2498,7 +2498,7 @@
     "name": "4 VINE CRESCENT MANGO HILL 4509",
     "locID": "LOC000043830390",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155512385"
    }
   },
@@ -2531,8 +2531,8 @@
    "properties": {
     "name": "12 VISTA COURT MANGO HILL 4509",
     "locID": "LOC000095675993",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155512390"
    }
   },
@@ -2548,8 +2548,8 @@
    "properties": {
     "name": "14 VISTA COURT MANGO HILL 4509",
     "locID": "LOC000061576767",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155512391"
    }
   },
@@ -2599,8 +2599,8 @@
    "properties": {
     "name": "12 WATTLEBIRD STREET MANGO HILL 4509",
     "locID": "LOC000059721838",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155512396"
    }
   },
@@ -4265,8 +4265,8 @@
    "properties": {
     "name": "3 MYAL COURT MANGO HILL 4509",
     "locID": "LOC000045179912",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155521511"
    }
   },
@@ -5669,23 +5669,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02138207,
-     -27.24322439
-    ]
-   },
-   "properties": {
-    "name": "1737 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000052384205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD156778019"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.02182832,
      -27.242937
     ]
@@ -6255,7 +6238,7 @@
     "name": "16 WATTLEBIRD STREET MANGO HILL 4509",
     "locID": "LOC000101050063",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156795426"
    }
   },
@@ -6832,8 +6815,8 @@
    "properties": {
     "name": "22 LAPWING CRESCENT MANGO HILL 4509",
     "locID": "LOC000107153021",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158187574"
    }
   },
@@ -7156,7 +7139,7 @@
     "name": "19 LAPWING CRESCENT MANGO HILL 4509",
     "locID": "LOC000040076815",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158203286"
    }
   },
@@ -7410,8 +7393,8 @@
    "properties": {
     "name": "14 BELLONGIA STREET MANGO HILL 4509",
     "locID": "LOC000033433951",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158206483"
    }
   },
@@ -7631,8 +7614,8 @@
    "properties": {
     "name": "22 LIMOSA COURT MANGO HILL 4509",
     "locID": "LOC000062833304",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158207212"
    }
   },
@@ -7767,8 +7750,8 @@
    "properties": {
     "name": "11 JABIRU DRIVE MANGO HILL 4509",
     "locID": "LOC000077974636",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158208525"
    }
   },
@@ -7818,8 +7801,8 @@
    "properties": {
     "name": "4 CASTELL PLACE MANGO HILL 4509",
     "locID": "LOC000085758700",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158208841"
    }
   },
@@ -8073,8 +8056,8 @@
    "properties": {
     "name": "8 WHISTLER STREET MANGO HILL 4509",
     "locID": "LOC000081648609",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158209642"
    }
   },
@@ -8855,8 +8838,8 @@
    "properties": {
     "name": "23 AKUNA WAY MANGO HILL 4509",
     "locID": "LOC000097062411",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158216768"
    }
   },
@@ -8872,8 +8855,8 @@
    "properties": {
     "name": "26 LIMOSA COURT MANGO HILL 4509",
     "locID": "LOC000056733137",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158216771"
    }
   },
@@ -9283,23 +9266,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158219734"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.02840175,
-     -27.24109741
-    ]
-   },
-   "properties": {
-    "name": "1799 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000155226111",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD158219760"
    }
   },
   {
@@ -10786,23 +10752,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0311107,
-     -27.22288489
-    ]
-   },
-   "properties": {
-    "name": "55-57 KINSELLAS ROAD WEST MANGO HILL 4509",
-    "locID": "ChIJYcUA3Ublk2sRIfwK62pg9pk",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD160687745"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.02564227,
      -27.24575759
     ]
@@ -10966,23 +10915,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161050528"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04178468,
-     -27.22841377
-    ]
-   },
-   "properties": {
-    "name": "LOT 2 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000160877264",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161050530"
    }
   },
   {
@@ -11474,7 +11406,7 @@
     "name": "37 PERIDOT CRESCENT MANGO HILL 4509",
     "locID": "LOC000079287632",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161379594"
    }
   },
@@ -11542,7 +11474,7 @@
     "name": "44 PERIDOT CRESCENT MANGO HILL 4509",
     "locID": "LOC000094277268",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161379598"
    }
   },
@@ -11677,8 +11609,8 @@
    "properties": {
     "name": "3 SATURN COURT MANGO HILL 4509",
     "locID": "LOC000087940916",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161380468"
    }
   },
@@ -12000,8 +11932,8 @@
    "properties": {
     "name": "6 VENTURA COURT MANGO HILL 4509",
     "locID": "LOC000046503830",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161381814"
    }
   },
@@ -12052,7 +11984,7 @@
     "name": "9 VENTURA COURT MANGO HILL 4509",
     "locID": "LOC000061374305",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161381817"
    }
   },
@@ -12663,8 +12595,8 @@
    "properties": {
     "name": "12 ARIEL COURT MANGO HILL 4509",
     "locID": "LOC000190040631",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161804646"
    }
   },
@@ -12952,8 +12884,8 @@
    "properties": {
     "name": "34 MERCURY PARADE MANGO HILL 4509",
     "locID": "LOC000003464886",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161851026"
    }
   },
@@ -13734,8 +13666,8 @@
    "properties": {
     "name": "16 GRACE COURT MANGO HILL 4509",
     "locID": "LOC000020793678",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161976920"
    }
   },
@@ -14380,8 +14312,8 @@
    "properties": {
     "name": "4 TATTLER STREET MANGO HILL 4509",
     "locID": "LOC000075963106",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161982952"
    }
   },
@@ -15393,23 +15325,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04428442,
-     -27.22645718
-    ]
-   },
-   "properties": {
-    "name": "LOT 23 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000069968703",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162117560"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.04415727,
      -27.22709712
     ]
@@ -16013,7 +15928,7 @@
     "name": "18 NEPTUNE COURT MANGO HILL 4509",
     "locID": "LOC000077435461",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162178378"
    }
   },
@@ -17049,8 +16964,8 @@
    "properties": {
     "name": "5 OSPREY COURT MANGO HILL 4509",
     "locID": "LOC000102385077",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162476280"
    }
   },
@@ -17084,7 +16999,7 @@
     "name": "7 OSPREY COURT MANGO HILL 4509",
     "locID": "LOC000107125928",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162476282"
    }
   },
@@ -17151,8 +17066,8 @@
    "properties": {
     "name": "1 PIPIT CLOSE MANGO HILL 4509",
     "locID": "LOC000065983802",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162477350"
    }
   },
@@ -18188,8 +18103,8 @@
    "properties": {
     "name": "2 HOBBY COURT MANGO HILL 4509",
     "locID": "LOC000068719446",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162604272"
    }
   },
@@ -18565,23 +18480,6 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162657734"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03603029,
-     -27.24132466
-    ]
-   },
-   "properties": {
-    "name": "96 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "ChIJQR8zOCLlk2sRq46psFpu70A",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162657735"
    }
   },
   {
@@ -18987,8 +18885,8 @@
    "properties": {
     "name": "38 TOPAZ DRIVE MANGO HILL 4509",
     "locID": "LOC000090975316",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162834140"
    }
   },
@@ -19293,8 +19191,8 @@
    "properties": {
     "name": "49 TOPAZ DRIVE MANGO HILL 4509",
     "locID": "LOC000025851705",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162930933"
    }
   },
@@ -19650,8 +19548,8 @@
    "properties": {
     "name": "20 SUNSTONE CIRCUIT MANGO HILL 4509",
     "locID": "LOC000007517962",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162947319"
    }
   },
@@ -20942,8 +20840,8 @@
    "properties": {
     "name": "1 BOTTLE TREE CRESCENT MANGO HILL 4509",
     "locID": "LOC000020752529",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163121097"
    }
   },
@@ -21112,8 +21010,8 @@
    "properties": {
     "name": "3 BOTTLE TREE CRESCENT MANGO HILL 4509",
     "locID": "LOC000147417041",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163121108"
    }
   },
@@ -22608,8 +22506,8 @@
    "properties": {
     "name": "8 TOURMALINE CIRCUIT MANGO HILL 4509",
     "locID": "LOC000128358312",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163229807"
    }
   },
@@ -22880,8 +22778,8 @@
    "properties": {
     "name": "8 ZIRCON PLACE MANGO HILL 4509",
     "locID": "LOC000049257668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163230077"
    }
   },
@@ -25379,8 +25277,8 @@
    "properties": {
     "name": "5 CRAKE PLACE MANGO HILL 4509",
     "locID": "LOC000189166950",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163366349"
    }
   },
@@ -26834,8 +26732,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -27470,8 +27368,8 @@
    "properties": {
     "name": "UNIT 1, 8 TOURMALINE CIRCUIT MANGO HILL 4509",
     "locID": "LOC000128358312",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425052818"
    }
   },
@@ -33556,8 +33454,8 @@
    "properties": {
     "name": "23-27 HALPINE DRIVE MANGO HILL 4509",
     "locID": "LOC000147416863",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425330284"
    }
   },
@@ -39149,8 +39047,8 @@
    "properties": {
     "name": "3B BOTTLE TREE CRESCENT MANGO HILL 4509",
     "locID": "LOC000147417041",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425424431"
    }
   },
@@ -49129,7 +49027,7 @@
     "name": "UNIT 2, 17 MALLARD STREET MANGO HILL 4509",
     "locID": "LOC000147420080",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425645941"
    }
   },
@@ -60103,8 +60001,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02966874,
-     -27.21893109
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60120,8 +60018,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02966874,
-     -27.21893109
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60256,8 +60154,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60273,8 +60171,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60290,8 +60188,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60307,8 +60205,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60324,8 +60222,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60341,8 +60239,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60358,8 +60256,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60375,8 +60273,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60392,8 +60290,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60409,8 +60307,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60426,8 +60324,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -60443,8 +60341,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.0299998,
-     -27.2192137
+     153.02956524,
+     -27.21871877
     ]
    },
    "properties": {
@@ -79177,227 +79075,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.02922591,
-     -27.24453492
-    ]
-   },
-   "properties": {
-    "name": "LOT 131 FRESHWATER CREEK ROAD MANGO HILL 4509",
-    "locID": "EjcxMzEgRnJlc2h3YXRlciBDcmVlayBSZCwgTWFuZ28gSGlsbCBRTEQgNDUwOSwgQXVzdHJhbGlhIjESLwoUChIJ8Z1Ud9jkk2sREmSHjmsZ8YYQgwEqFAoSCaH3PWnY5JNrEY5LNtm-VEjh",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719622647"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03999174,
-     -27.22962686
-    ]
-   },
-   "properties": {
-    "name": "LOT 155 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000053663013",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719623360"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03997543,
-     -27.22978318
-    ]
-   },
-   "properties": {
-    "name": "LOT 19 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000052384205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD719623361"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03207103,
-     -27.23946075
-    ]
-   },
-   "properties": {
-    "name": "LOT 142 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "ChIJUTbUXDjlk2sRP9rCEcBGaLk",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719623425"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03158373,
-     -27.2403418
-    ]
-   },
-   "properties": {
-    "name": "LOT 141 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "EjIxNDEgS2luc2VsbGFzIFJkIEUsIE1hbmdvIEhpbGwgUUxEIDQ1MDksIEF1c3RyYWxpYSIxEi8KFAoSCbGnRaYY5ZNrEaG9micnzLYhEI0BKhQKEgmJshv0IuWTaxG0eOy787DM3Q",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719623582"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04386933,
-     -27.22654239
-    ]
-   },
-   "properties": {
-    "name": "LOT 158 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000175314489",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719624289"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03274778,
-     -27.23820999
-    ]
-   },
-   "properties": {
-    "name": "LOT 147 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "EjIxNDcgS2luc2VsbGFzIFJkIEUsIE1hbmdvIEhpbGwgUUxEIDQ1MDksIEF1c3RyYWxpYSIxEi8KFAoSCbGnRaYY5ZNrEaG9micnzLYhEJMBKhQKEgmJshv0IuWTaxG0eOy787DM3Q",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719624494"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.0389354,
-     -27.23047248
-    ]
-   },
-   "properties": {
-    "name": "LOT 154 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000014393542",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719624619"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04083172,
-     -27.22896235
-    ]
-   },
-   "properties": {
-    "name": "LOT 156 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000175314489",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719624688"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.02475569,
-     -27.2482135
-    ]
-   },
-   "properties": {
-    "name": "LOT 127 FRESHWATER CREEK ROAD MANGO HILL 4509",
-    "locID": "LOC000089968797",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD719624816"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03781094,
-     -27.23158945
-    ]
-   },
-   "properties": {
-    "name": "LOT 904 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "EjI5MDQgS2luc2VsbGFzIFJkIEUsIE1hbmdvIEhpbGwgUUxEIDQ1MDksIEF1c3RyYWxpYSIxEi8KFAoSCXe-5Dsj5ZNrEW_JXSIUytyfEIgHKhQKEgmJshv0IuWTaxG0eOy787DM3Q",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719625479"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04082138,
-     -27.22912493
-    ]
-   },
-   "properties": {
-    "name": "LOT 907 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "Ei05MDcgQW56YWMgQXZlLCBNYW5nbyBIaWxsIFFMRCA0NTA5LCBBdXN0cmFsaWEiMRIvChQKEglXfRmE1eSTaxFfGQd4Q4DpBBCLByoUChIJ2Vdz-Rrlk2sRJXUDSyOjtp8",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719626203"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.02707882,
-     -27.24666549
-    ]
-   },
-   "properties": {
-    "name": "LOT 130 FRESHWATER CREEK ROAD MANGO HILL 4509",
-    "locID": "EjcxMzAgRnJlc2h3YXRlciBDcmVlayBSZCwgTWFuZ28gSGlsbCBRTEQgNDUwOSwgQXVzdHJhbGlhIjESLwoUChIJ8Z1Ud9jkk2sREmSHjmsZ8YYQggEqFAoSCaH3PWnY5JNrEY5LNtm-VEjh",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719626209"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.03662621,
      -27.22794595
     ]
@@ -79432,91 +79109,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.03240687,
-     -27.23882318
-    ]
-   },
-   "properties": {
-    "name": "LOT 143 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "EjIxNDMgS2luc2VsbGFzIFJkIFcsIE1hbmdvIEhpbGwgUUxEIDQ1MDksIEF1c3RyYWxpYSIxEi8KFAoSCT_SL1445ZNrEXCuHXW0PF2EEI8BKhQKEgnHTS-dR-WTaxGxd2lm1lKglA",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719626610"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.0366811,
-     -27.23252108
-    ]
-   },
-   "properties": {
-    "name": "LOT 152 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000011678329",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719626718"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03256951,
-     -27.23850642
-    ]
-   },
-   "properties": {
-    "name": "LOT 146 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "ChIJrVPvaTjlk2sRQFCQp2c6OnA",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719627217"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03500286,
-     -27.23458594
-    ]
-   },
-   "properties": {
-    "name": "LOT 150 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "EjIxNTAgS2luc2VsbGFzIFJkIEUsIE1hbmdvIEhpbGwgUUxEIDQ1MDksIEF1c3RyYWxpYSIxEi8KFAoSCbGnRaYY5ZNrEaG9micnzLYhEJYBKhQKEgmJshv0IuWTaxG0eOy787DM3Q",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719627218"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.0389906,
-     -27.23060563
-    ]
-   },
-   "properties": {
-    "name": "LOT 905 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "Ei05MDUgQW56YWMgQXZlLCBNYW5nbyBIaWxsIFFMRCA0NTA5LCBBdXN0cmFsaWEiMRIvChQKEglXfRmE1eSTaxFfGQd4Q4DpBBCJByoUChIJ2Vdz-Rrlk2sRJXUDSyOjtp8",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719627355"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.02820706,
      -27.22825791
     ]
@@ -79527,40 +79119,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719628053"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.03739956,
-     -27.23179471
-    ]
-   },
-   "properties": {
-    "name": "LOT 153 KINSELLAS ROAD EAST MANGO HILL 4509",
-    "locID": "EjIxNTMgS2luc2VsbGFzIFJkIEUsIE1hbmdvIEhpbGwgUUxEIDQ1MDksIEF1c3RyYWxpYSIxEi8KFAoSCbGnRaYY5ZNrEaG9micnzLYhEJkBKhQKEgmJshv0IuWTaxG0eOy787DM3Q",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD719629011"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04202339,
-     -27.22798348
-    ]
-   },
-   "properties": {
-    "name": "LOT 157 ANZAC AVENUE MANGO HILL 4509",
-    "locID": "LOC000061484564",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719629923"
    }
   },
   {
@@ -98982,6 +98540,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.02956524,
+     -27.21871877
+    ]
+   },
+   "properties": {
+    "name": "23-25 CHERMSIDE ROAD MANGO HILL 4509",
+    "locID": "ChIJV4M9sUXlk2sRBTLPNiz5w08",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720670287"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.04033995,
      -27.22998874
     ]
@@ -113051,6 +112626,550 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721257802"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03066815,
+     -27.22262545
+    ]
+   },
+   "properties": {
+    "name": "7 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401906",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721304829"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0311655,
+     -27.2226968
+    ]
+   },
+   "properties": {
+    "name": "8 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401865",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03202219,
+     -27.22282364
+    ]
+   },
+   "properties": {
+    "name": "45 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401779",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721305237"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02956524,
+     -27.21871877
+    ]
+   },
+   "properties": {
+    "name": "2-26 MARY STREET EAST MANGO HILL 4509",
+    "locID": "LOC000177837674",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306511"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03063057,
+     -27.22283484
+    ]
+   },
+   "properties": {
+    "name": "3 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401923",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721307627"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03143959,
+     -27.22307695
+    ]
+   },
+   "properties": {
+    "name": "64 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401854",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308322"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02840175,
+     -27.24109741
+    ]
+   },
+   "properties": {
+    "name": "1805 ANZAC AVENUE MANGO HILL 4509",
+    "locID": "ChIJf3mYxCXlk2sR8_yqpAv2ENc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721308442"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03114711,
+     -27.22279926
+    ]
+   },
+   "properties": {
+    "name": "6 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401877",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721308789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0319619,
+     -27.22303867
+    ]
+   },
+   "properties": {
+    "name": "49 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401798",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310129"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03111769,
+     -27.2230113
+    ]
+   },
+   "properties": {
+    "name": "2 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401896",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310365"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03198557,
+     -27.2229319
+    ]
+   },
+   "properties": {
+    "name": "47 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401780",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721310894"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03060918,
+     -27.22294211
+    ]
+   },
+   "properties": {
+    "name": "1 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401934",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311480"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03194716,
+     -27.22314515
+    ]
+   },
+   "properties": {
+    "name": "51 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401808",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03194716,
+     -27.22314515
+    ]
+   },
+   "properties": {
+    "name": "24 MACADAMIA STREET MANGO HILL 4509",
+    "locID": "ChIJY6IU0Ublk2sR9mZ3v6sY0iQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721312352"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03064895,
+     -27.22273237
+    ]
+   },
+   "properties": {
+    "name": "5 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401910",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312672"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03112872,
+     -27.22290173
+    ]
+   },
+   "properties": {
+    "name": "4 ALMOND STREET MANGO HILL 4509",
+    "locID": "LOC000192401883",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312807"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02956524,
+     -27.21871877
+    ]
+   },
+   "properties": {
+    "name": "2 KINSELLAS ROAD WEST MANGO HILL 4509",
+    "locID": "LOC000134304794",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313269"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03143959,
+     -27.22307695
+    ]
+   },
+   "properties": {
+    "name": "26 MACADAMIA STREET MANGO HILL 4509",
+    "locID": "ChIJIWzG20blk2sRzWpzT5IeaRU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721313274"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03111769,
+     -27.2230113
+    ]
+   },
+   "properties": {
+    "name": "28 MACADAMIA STREET MANGO HILL 4509",
+    "locID": "ChIJB2bL3Ublk2sRLTCO8rE8cFY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721313427"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03147261,
+     -27.22290536
+    ]
+   },
+   "properties": {
+    "name": "60 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401831",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721313509"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03152371,
+     -27.22273669
+    ]
+   },
+   "properties": {
+    "name": "56 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401812",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314224"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03060918,
+     -27.22294211
+    ]
+   },
+   "properties": {
+    "name": "30 MACADAMIA STREET MANGO HILL 4509",
+    "locID": "ChIJFVGu5kblk2sRGg5x1QvmMkA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03145726,
+     -27.2229909
+    ]
+   },
+   "properties": {
+    "name": "62 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401849",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721314928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03149489,
+     -27.22282025
+    ]
+   },
+   "properties": {
+    "name": "58 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000192401820",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721315055"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0311107,
+     -27.22288489
+    ]
+   },
+   "properties": {
+    "name": "55A KINSELLAS ROAD WEST MANGO HILL 4509",
+    "locID": "LOC000192401975",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334627"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0311107,
+     -27.22288489
+    ]
+   },
+   "properties": {
+    "name": "55B KINSELLAS ROAD WEST MANGO HILL 4509",
+    "locID": "LOC000192401968",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334883"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03192624,
+     -27.22160941
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 40 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000182442491",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335034"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0311107,
+     -27.22288489
+    ]
+   },
+   "properties": {
+    "name": "57A KINSELLAS ROAD WEST MANGO HILL 4509",
+    "locID": "LOC000192401947",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335059"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02667129,
+     -27.21908801
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 56 JOHN STREET MANGO HILL 4509",
+    "locID": "LOC000182134742",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335209"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0311107,
+     -27.22288489
+    ]
+   },
+   "properties": {
+    "name": "55 KINSELLAS ROAD WEST MANGO HILL 4509",
+    "locID": "LOC000192401981",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335264"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0311107,
+     -27.22288489
+    ]
+   },
+   "properties": {
+    "name": "57 KINSELLAS ROAD WEST MANGO HILL 4509",
+    "locID": "LOC000192401952",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335288"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03192624,
+     -27.22160941
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 40 AMARANTHINE STREET MANGO HILL 4509",
+    "locID": "LOC000188501343",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335362"
    }
   }
  ]
