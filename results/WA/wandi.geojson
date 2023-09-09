@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T16:32:51.269805",
+ "generated": "2023-09-09T16:58:47.336287",
  "suburb": "WANDI",
  "features": [
   {
@@ -5081,8 +5081,8 @@
    "properties": {
     "name": "LOT 8000 LYON ROAD WANDI 6167",
     "locID": "LOC000067535882",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163339877"
    }
   },
@@ -5098,8 +5098,8 @@
    "properties": {
     "name": "LOT 8001 LYON ROAD WANDI 6167",
     "locID": "LOC000067535882",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163339878"
    }
   },
@@ -5200,8 +5200,8 @@
    "properties": {
     "name": "14 BRUNY MEANDER WANDI 6167",
     "locID": "LOC000113370659",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163377553"
    }
   },
@@ -5880,8 +5880,8 @@
    "properties": {
     "name": "7 FORTIS PASS WANDI 6167",
     "locID": "LOC000113651043",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163379293"
    }
   },
@@ -6730,8 +6730,8 @@
    "properties": {
     "name": "41 DRYSDALE GARDENS WANDI 6167",
     "locID": "LOC000133018640",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718214836"
    }
   },
@@ -26416,8 +26416,8 @@
    "properties": {
     "name": "12 MORWELL ENTRANCE WANDI 6167",
     "locID": "LOC100079038089",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719198316"
    }
   },
@@ -26654,8 +26654,8 @@
    "properties": {
     "name": "14 MORWELL ENTRANCE WANDI 6167",
     "locID": "LOC100079038210",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719198975"
    }
   },
@@ -32403,6 +32403,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721207121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.88794193,
+     -32.1868258
+    ]
+   },
+   "properties": {
+    "name": "237 WANDI DRIVE WANDI 6167",
+    "locID": "LOC000133018849",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAWA_721279202"
    }
   }
  ]
