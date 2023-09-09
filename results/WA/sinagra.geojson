@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T19:38:45.581499",
+ "generated": "2023-09-09T20:20:11.837341",
  "suburb": "SINAGRA",
  "features": [
   {
@@ -151,7 +151,7 @@
    "properties": {
     "name": "80 VINCENT ROAD SINAGRA 6065",
     "locID": "ChIJuyrUrtlSzSsRhEdgor95zek",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146537442"
    }
@@ -5132,8 +5132,8 @@
    "properties": {
     "name": "7 TORTORICI AVENUE SINAGRA 6065",
     "locID": "LOC000050644549",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161033268"
    }
   },
@@ -9501,8 +9501,8 @@
    "properties": {
     "name": "42 VINCENT ROAD SINAGRA 6065",
     "locID": "LOC000092726109",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162393069"
    }
   },
@@ -10488,7 +10488,7 @@
     "name": "2 RADICI LINK SINAGRA 6065",
     "locID": "LOC000116424101",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162690895"
    }
   },
@@ -11049,7 +11049,7 @@
     "name": "12 CETARA CHASE SINAGRA 6065",
     "locID": "LOC000087554719",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163008124"
    }
   },
@@ -11082,8 +11082,8 @@
    "properties": {
     "name": "10 CORTONA GROVE SINAGRA 6065",
     "locID": "LOC000013813074",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_163046905"
    }
   },
@@ -11184,8 +11184,8 @@
    "properties": {
     "name": "3 CORTONA GROVE SINAGRA 6065",
     "locID": "LOC000005694728",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163046911"
    }
   },
@@ -13293,7 +13293,7 @@
     "name": "26 RADICI LINK SINAGRA 6065",
     "locID": "LOC000116424101",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163341683"
    }
   },
@@ -13965,8 +13965,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.79879691,
-     -31.74181855
+     115.7988293,
+     -31.74176942
     ]
    },
    "properties": {
@@ -14500,7 +14500,7 @@
     "name": "UNIT 1, 26 RADICI LINK SINAGRA 6065",
     "locID": "LOC000116423177",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718220298"
    }
   },
@@ -14517,7 +14517,7 @@
     "name": "UNIT 2, 26 RADICI LINK SINAGRA 6065",
     "locID": "LOC000116424101",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718220299"
    }
   },
@@ -14534,7 +14534,7 @@
     "name": "UNIT 3, 26 RADICI LINK SINAGRA 6065",
     "locID": "LOC000116424117",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718220300"
    }
   },
@@ -14551,7 +14551,7 @@
     "name": "UNIT 4, 26 RADICI LINK SINAGRA 6065",
     "locID": "LOC000116424129",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718220301"
    }
   },
@@ -14568,7 +14568,7 @@
     "name": "UNIT 5, 26 RADICI LINK SINAGRA 6065",
     "locID": "LOC000116424138",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718220302"
    }
   },
@@ -19252,23 +19252,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80440682,
-     -31.73667429
-    ]
-   },
-   "properties": {
-    "name": "23 LIMARI PLACE SINAGRA 6065",
-    "locID": "LOC000145525559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_719198830"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.80451236,
      -31.73667404
     ]
@@ -20212,7 +20195,7 @@
     "name": "51 DUNDEBAR ROAD SINAGRA 6065",
     "locID": "LOC000177788241",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719501655"
    }
   },
@@ -23937,6 +23920,244 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721207782"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80552551,
+     -31.74214922
+    ]
+   },
+   "properties": {
+    "name": "17 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJXQZFe9hSzSsRdv9I0V9MyAc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80524848,
+     -31.7421498
+    ]
+   },
+   "properties": {
+    "name": "21 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJy68HfNhSzSsRd4ZcVDSoPss",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278641"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80656765,
+     -31.74214703
+    ]
+   },
+   "properties": {
+    "name": "3 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJ0WvEXNhSzSsRNqI3Yfwd2Xw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278695"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80678443,
+     -31.7420796
+    ]
+   },
+   "properties": {
+    "name": "18 NASTURTIUM ROAD SINAGRA 6065",
+    "locID": "ChIJc_M_W9hSzSsR82SJJz-z6aA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279060"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80539359,
+     -31.7421495
+    ]
+   },
+   "properties": {
+    "name": "19 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJ3wSCe9hSzSsRPTy81gRFKOw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80596582,
+     -31.74262234
+    ]
+   },
+   "properties": {
+    "name": "22 NASTURTIUM ROAD SINAGRA 6065",
+    "locID": "ChIJVZBNadhSzSsR-SegAKoS7Jw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279634"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80598722,
+     -31.74214825
+    ]
+   },
+   "properties": {
+    "name": "11 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJH2eGZthSzSsROSp2oy0-3oc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80582892,
+     -31.74214858
+    ]
+   },
+   "properties": {
+    "name": "13 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJRbZFZNhSzSsR7IXeiAmikNk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280166"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80613232,
+     -31.74214794
+    ]
+   },
+   "properties": {
+    "name": "9 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJS8ZUZthSzSsRebDyFPwKC7M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280275"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80626424,
+     -31.74214767
+    ]
+   },
+   "properties": {
+    "name": "7 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJi3uQZ9hSzSsRug6Je_qMjcw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80567062,
+     -31.74214892
+    ]
+   },
+   "properties": {
+    "name": "15 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJ5_m_ZNhSzSsRwboyVv18Qnk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281085"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80509025,
+     -31.74215013
+    ]
+   },
+   "properties": {
+    "name": "23 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJw_TFfthSzSsRvBZe2j3HRm8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281386"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.8067863,
+     -31.74221421
+    ]
+   },
+   "properties": {
+    "name": "20 NASTURTIUM ROAD SINAGRA 6065",
+    "locID": "ChIJtWnHRNhSzSsRoA-IFqYRtFQ",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281402"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80640935,
+     -31.74214736
+    ]
+   },
+   "properties": {
+    "name": "5 AGERATUM ROAD SINAGRA 6065",
+    "locID": "ChIJNdpqXdhSzSsRe_Pzjr9A3Oo",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281868"
    }
   }
  ]
