@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T04:39:56.730383",
+ "generated": "2023-09-09T04:22:11.574099",
  "suburb": "WOODBRIDGE",
  "features": [
   {
@@ -161,8 +161,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.99315,
-     -31.89346
+     115.99314371,
+     -31.89341452
     ]
    },
    "properties": {
@@ -2813,8 +2813,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.99583,
-     -31.8887
+     115.99582789,
+     -31.88871668
     ]
    },
    "properties": {
@@ -8889,8 +8889,8 @@
    "properties": {
     "name": "12 HEBE LANE WOODBRIDGE 6056",
     "locID": "LOC000042073944",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162329675"
    }
   },
@@ -9314,8 +9314,8 @@
    "properties": {
     "name": "10 MUJA LANE WOODBRIDGE 6056",
     "locID": "LOC000086195826",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162578224"
    }
   },
@@ -9740,7 +9740,7 @@
     "name": "30 WALLSEND ROAD WOODBRIDGE 6056",
     "locID": "LOC000017068129",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162590756"
    }
   },
@@ -11762,8 +11762,8 @@
    "properties": {
     "name": "16A MUJA LANE WOODBRIDGE 6056",
     "locID": "LOC000116401735",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718233435"
    }
   },
@@ -13601,6 +13601,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721209287"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.99391902,
+     -31.89325211
+    ]
+   },
+   "properties": {
+    "name": "21A HOLMESDALE ROAD WOODBRIDGE 6056",
+    "locID": "LOC000187674717",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281950"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.99265741,
+     -31.89026013
+    ]
+   },
+   "properties": {
+    "name": "18 FIRST AVENUE WOODBRIDGE 6056",
+    "locID": "ChIJfWJZDiy5MioRH5b87tlX7no",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721283438"
    }
   }
  ]
