@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T18:44:09.744607",
+ "generated": "2023-09-09T19:25:27.868763",
  "suburb": "TAPPING",
  "features": [
   {
@@ -3670,8 +3670,8 @@
    "properties": {
     "name": "40 CLARAFIELD MEANDER TAPPING 6065",
     "locID": "LOC000038848186",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147241220"
    }
   },
@@ -17661,8 +17661,8 @@
    "properties": {
     "name": "18 KARTNER ROAD TAPPING 6065",
     "locID": "LOC000032923703",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161421977"
    }
   },
@@ -27249,8 +27249,8 @@
    "properties": {
     "name": "36 CONTI ROAD TAPPING 6065",
     "locID": "LOC000033801185",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161922944"
    }
   },
@@ -29392,7 +29392,7 @@
     "name": "87 ST STEPHENS CRESCENT TAPPING 6065",
     "locID": "LOC000065281967",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_161925472"
    }
   },
@@ -32825,8 +32825,8 @@
    "properties": {
     "name": "23 TINTORETTO BEND TAPPING 6065",
     "locID": "LOC000070603736",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161995329"
    }
   },
@@ -35062,414 +35062,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78528072,
-     -31.71757676
-    ]
-   },
-   "properties": {
-    "name": "26 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJV3cAcgpTzSsR6dPemjnueWM",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253789"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78559277,
-     -31.71763736
-    ]
-   },
-   "properties": {
-    "name": "28 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJZU0rbQpTzSsR3NWi_0Mqe_M",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253790"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78586369,
-     -31.71765379
-    ]
-   },
-   "properties": {
-    "name": "30 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJb0PEEwpTzSsR3SCUrwROAgE",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253791"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78606943,
-     -31.71765118
-    ]
-   },
-   "properties": {
-    "name": "32 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJLyI-EQpTzSsRzUCGyr7iQ9M",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253792"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78637234,
-     -31.71762502
-    ]
-   },
-   "properties": {
-    "name": "34 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJoWg7GgpTzSsR15Dr9B-69tE",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253793"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78664326,
-     -31.71756311
-    ]
-   },
-   "properties": {
-    "name": "36 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJx8jpGwpTzSsRxhXv7Uzw2qY",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253794"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78695179,
-     -31.71745122
-    ]
-   },
-   "properties": {
-    "name": "38 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJOd-2HQpTzSsRuEZjJbmLJ2I",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253795"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.7872368,
-     -31.71730347
-    ]
-   },
-   "properties": {
-    "name": "40 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJex-y9wlTzSsR1FanA1A3rpE",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253796"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78741401,
-     -31.71718121
-    ]
-   },
-   "properties": {
-    "name": "42 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJ3_tK9wlTzSsRjU13-Hsqwd0",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253797"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78754421,
-     -31.71708627
-    ]
-   },
-   "properties": {
-    "name": "44 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJX7C08AlTzSsRE4-NXrwQK7I",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253798"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78767442,
-     -31.71699132
-    ]
-   },
-   "properties": {
-    "name": "46 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJe6-L-glTzSsR-4F-BxJ8zuc",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253799"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78780463,
-     -31.71689637
-    ]
-   },
-   "properties": {
-    "name": "48 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJZ43Q-glTzSsRA7gdI4kWiEU",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253800"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78798527,
-     -31.71671594
-    ]
-   },
-   "properties": {
-    "name": "52 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJnz2O5AlTzSsRGWBqwKAwdQ0",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253801"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78817964,
-     -31.71657433
-    ]
-   },
-   "properties": {
-    "name": "54 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJEw9e4QlTzSsRBkVi9qaiLTY",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253802"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78841755,
-     -31.71642856
-    ]
-   },
-   "properties": {
-    "name": "56 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJJxka4QlTzSsR021hB9IRmP8",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253803"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78862944,
-     -31.71632721
-    ]
-   },
-   "properties": {
-    "name": "58 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJm4O33wlTzSsRYhrLc2adfsk",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253804"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78879794,
-     -31.71627006
-    ]
-   },
-   "properties": {
-    "name": "60 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "LOC000103446372",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162253805"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78902126,
-     -31.71622109
-    ]
-   },
-   "properties": {
-    "name": "62 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJ31vd2AlTzSsRrPqLAhDmf_8",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253806"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78924639,
-     -31.71619557
-    ]
-   },
-   "properties": {
-    "name": "64 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJ1e0t2AlTzSsRG6xVjLiB1VA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253807"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78955026,
-     -31.71617671
-    ]
-   },
-   "properties": {
-    "name": "66 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJN__-1glTzSsRTyODoVXs5Lo",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253808"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78972419,
-     -31.71618204
-    ]
-   },
-   "properties": {
-    "name": "68 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJI4Uj1AlTzSsRuPO7NUa5gdU",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253809"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.78990864,
-     -31.71621723
-    ]
-   },
-   "properties": {
-    "name": "70 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJO12E1AlTzSsRVwUx4mOiYwA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253810"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.79022375,
-     -31.71630904
-    ]
-   },
-   "properties": {
-    "name": "72 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJN4f5LAhTzSsRDyiIlKGjmIY",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253811"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.79049893,
-     -31.71639199
-    ]
-   },
-   "properties": {
-    "name": "74 ST STEPHENS CRESCENT TAPPING 6065",
-    "locID": "ChIJ6zYRLghTzSsRF3PAjlfgWmw",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162253812"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.801681,
      -31.724448
     ]
@@ -35648,7 +35240,7 @@
     "name": "5 AGASSE WAY TAPPING 6065",
     "locID": "LOC000071525086",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162258359"
    }
   },
@@ -35698,8 +35290,8 @@
    "properties": {
     "name": "8 AGASSE WAY TAPPING 6065",
     "locID": "LOC000107519689",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162258362"
    }
   },
@@ -40424,8 +40016,8 @@
    "properties": {
     "name": "8 BOLDINI WAY TAPPING 6065",
     "locID": "LOC000059265708",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162390067"
    }
   },
@@ -47089,7 +46681,7 @@
     "name": "125 WALDBURG DRIVE TAPPING 6065",
     "locID": "LOC000054442317",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162590618"
    }
   },
@@ -48499,8 +48091,8 @@
    "properties": {
     "name": "8 STINT PASS TAPPING 6065",
     "locID": "LOC000061270292",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162645909"
    }
   },
