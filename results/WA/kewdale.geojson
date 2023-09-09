@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T15:27:01.497448",
+ "generated": "2023-09-09T15:51:05.269445",
  "suburb": "KEWDALE",
  "features": [
   {
@@ -101,7 +101,7 @@
     "name": "22 HAZELHURST STREET KEWDALE 6105",
     "locID": "LOC000056619068",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146599276"
    }
   },
@@ -7649,7 +7649,7 @@
     "name": "7 BALLANTYNE ROAD KEWDALE 6105",
     "locID": "LOC000086455898",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146670608"
    }
   },
@@ -8899,7 +8899,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.93142439,
+     115.93142435,
      -31.96579034
     ]
    },
@@ -9757,7 +9757,7 @@
     "name": "15 GLASSFORD ROAD KEWDALE 6105",
     "locID": "LOC000071123143",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146672216"
    }
   },
@@ -10565,8 +10565,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.9366,
-     -31.97996
+     115.93652753,
+     -31.98000397
     ]
    },
    "properties": {
@@ -10692,7 +10692,7 @@
     "name": "65 CHISHOLM CRESCENT KEWDALE 6105",
     "locID": "LOC000038762805",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146672966"
    }
   },
@@ -10709,7 +10709,7 @@
     "name": "63 CHISHOLM CRESCENT KEWDALE 6105",
     "locID": "LOC000055041877",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146672967"
    }
   },
@@ -13973,7 +13973,7 @@
     "name": "531 ABERNETHY ROAD KEWDALE 6105",
     "locID": "LOC100065663152",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146675684"
    }
   },
@@ -20671,7 +20671,7 @@
     "name": "2 FENTON STREET KEWDALE 6105",
     "locID": "LOC000045738611",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146679573"
    }
   },
@@ -23451,8 +23451,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.92768,
-     -31.97033
+     115.92768359,
+     -31.97033147
     ]
    },
    "properties": {
@@ -26919,8 +26919,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.92626,
-     -31.97133
+     115.92633788,
+     -31.97126134
     ]
    },
    "properties": {
@@ -27828,7 +27828,7 @@
     "name": "135 CHISHOLM CRESCENT KEWDALE 6105",
     "locID": "LOC000046253286",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146685013"
    }
   },
@@ -30038,7 +30038,7 @@
     "name": "135 KEWDALE ROAD KEWDALE 6105",
     "locID": "LOC000065831808",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147078151"
    }
   },
@@ -31075,7 +31075,7 @@
     "name": "1 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000059928577",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147119029"
    }
   },
@@ -32435,7 +32435,7 @@
     "name": "500 ABERNETHY ROAD KEWDALE 6105",
     "locID": "LOC000047998141",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147175198"
    }
   },
@@ -37697,23 +37697,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.93029395,
-     -31.97669475
-    ]
-   },
-   "properties": {
-    "name": "9 HARROW STREET KEWDALE 6105",
-    "locID": "LOC000081172089",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147309427"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.93032,
      -31.97657
     ]
@@ -38945,8 +38928,8 @@
    "properties": {
     "name": "13 FERGUSON STREET KEWDALE 6105",
     "locID": "LOC000028658971",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147327466"
    }
   },
@@ -38963,7 +38946,7 @@
     "name": "11 FERGUSON STREET KEWDALE 6105",
     "locID": "LOC000064204593",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147327467"
    }
   },
@@ -38997,7 +38980,7 @@
     "name": "512 ABERNETHY ROAD KEWDALE 6105",
     "locID": "LOC000111984761",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147327471"
    }
   },
@@ -39575,7 +39558,7 @@
     "name": "UNIT 4, 1 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000059986386",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147815547"
    }
   },
@@ -39609,7 +39592,7 @@
     "name": "UNIT 2, 5 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000011524851",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147815554"
    }
   },
@@ -39677,7 +39660,7 @@
     "name": "UNIT 1, 1 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000059928577",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147815892"
    }
   },
@@ -39694,7 +39677,7 @@
     "name": "UNIT 4, 5 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000011185835",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147815897"
    }
   },
@@ -39711,7 +39694,7 @@
     "name": "UNIT 1, 5 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000011144332",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147818273"
    }
   },
@@ -40272,7 +40255,7 @@
     "name": "UNIT 2, 1 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000060190156",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147828832"
    }
   },
@@ -42108,7 +42091,7 @@
     "name": "UNIT 3, 5 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000011146221",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147831793"
    }
   },
@@ -42465,7 +42448,7 @@
     "name": "UNIT 5, 1 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000059630915",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147832126"
    }
   },
@@ -44335,7 +44318,7 @@
     "name": "UNIT 3, 1 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000060195986",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147836776"
    }
   },
@@ -46732,7 +46715,7 @@
     "name": "UNIT 6, 1 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000059928577",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148698185"
    }
   },
@@ -46751,40 +46734,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148698472"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.93050979,
-     -31.97683139
-    ]
-   },
-   "properties": {
-    "name": "7B HARROW STREET KEWDALE 6105",
-    "locID": "ChIJE0gCSvG7MioRRttd8Z1kTyQ",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_148698477"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.93050979,
-     -31.97683139
-    ]
-   },
-   "properties": {
-    "name": "7A HARROW STREET KEWDALE 6105",
-    "locID": "ChIJE0gCSvG7MioReUKw9rjrVSU",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_148698480"
    }
   },
   {
@@ -46868,7 +46817,7 @@
     "name": "9 WHARTON ROAD KEWDALE 6105",
     "locID": "LOC000012007280",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148699182"
    }
   },
@@ -46953,7 +46902,7 @@
     "name": "UNIT 1, 65 CHISHOLM CRESCENT KEWDALE 6105",
     "locID": "LOC000038591515",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148699482"
    }
   },
@@ -47055,7 +47004,7 @@
     "name": "533 ABERNETHY ROAD KEWDALE 6105",
     "locID": "LOC000132464166",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148701007"
    }
   },
@@ -48007,7 +47956,7 @@
     "name": "166 KEWDALE ROAD KEWDALE 6105",
     "locID": "LOC000168124767",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148707777"
    }
   },
@@ -49138,8 +49087,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.92739,
-     -31.96725
+     115.92738566,
+     -31.9672431
     ]
    },
    "properties": {
@@ -50302,7 +50251,7 @@
     "name": "UNIT 1, 11 FERGUSON STREET KEWDALE 6105",
     "locID": "LOC000110795822",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161421349"
    }
   },
@@ -50319,7 +50268,7 @@
     "name": "UNIT 2, 11 FERGUSON STREET KEWDALE 6105",
     "locID": "LOC000064204593",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161421350"
    }
   },
@@ -53889,7 +53838,7 @@
     "name": "UNIT 1, 63 CHISHOLM CRESCENT KEWDALE 6105",
     "locID": "LOC000055041877",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162493983"
    }
   },
@@ -55827,7 +55776,7 @@
     "name": "UNIT 2, 63 CHISHOLM CRESCENT KEWDALE 6105",
     "locID": "LOC000055355276",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162696028"
    }
   },
@@ -57255,7 +57204,7 @@
     "name": "12 WHARTON ROAD KEWDALE 6105",
     "locID": "LOC000089468856",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162873109"
    }
   },
@@ -57306,7 +57255,7 @@
     "name": "4 WHARTON ROAD KEWDALE 6105",
     "locID": "LOC000110626415",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162873113"
    }
   },
@@ -58105,7 +58054,7 @@
     "name": "UNIT 1, 7 BALLANTYNE ROAD KEWDALE 6105",
     "locID": "LOC000086566479",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163053595"
    }
   },
@@ -58122,7 +58071,7 @@
     "name": "UNIT 2, 7 BALLANTYNE ROAD KEWDALE 6105",
     "locID": "LOC000086455898",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163053596"
    }
   },
@@ -58139,7 +58088,7 @@
     "name": "UNIT 3, 7 BALLANTYNE ROAD KEWDALE 6105",
     "locID": "LOC000086455898",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163053597"
    }
   },
@@ -58207,7 +58156,7 @@
     "name": "UNIT 1, 135 KEWDALE ROAD KEWDALE 6105",
     "locID": "LOC000065675662",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163054101"
    }
   },
@@ -60638,7 +60587,7 @@
     "name": "116 KEWDALE ROAD KEWDALE 6105",
     "locID": "LOC000176048036",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718303037"
    }
   },
@@ -72982,6 +72931,686 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721209291"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730772",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278101"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730793",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730740",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278308"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730729",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278612"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92768359,
+     -31.97033147
+    ]
+   },
+   "properties": {
+    "name": "229A ARMADALE ROAD KEWDALE 6105",
+    "locID": "LOC000190754078",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278634"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730755",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278737"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730803",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278904"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730764",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721279002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730717",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721279363"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92768359,
+     -31.97033147
+    ]
+   },
+   "properties": {
+    "name": "229C ARMADALE ROAD KEWDALE 6105",
+    "locID": "LOC000190754124",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721279730"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 14, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730819",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721279799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93545085,
+     -31.97333082
+    ]
+   },
+   "properties": {
+    "name": "28 ASHLEY AVENUE KEWDALE 6105",
+    "locID": "ChIJA6gQh_q7MioRRe9iYTXy4w8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730701",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721279896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92614781,
+     -31.97142268
+    ]
+   },
+   "properties": {
+    "name": "19B KESTAL PLACE KEWDALE 6105",
+    "locID": "ChIJjQ9toO27MioR1tO4oHM5-Tg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.95059651,
+     -31.98147828
+    ]
+   },
+   "properties": {
+    "name": "21 MILES ROAD KEWDALE 6105",
+    "locID": "ChIJa0b756u-MioRnozDuzGjCJg",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92633788,
+     -31.97126134
+    ]
+   },
+   "properties": {
+    "name": "19A KESTAL PLACE KEWDALE 6105",
+    "locID": "ChIJi4kGoe27MioRPqqo1ntJDLU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280373"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730786",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280548"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730738",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280615"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92738566,
+     -31.9672431
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 227 ST KILDA ROAD KEWDALE 6105",
+    "locID": "LOC000186788410",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280952"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730698",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281075"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93142435,
+     -31.96579034
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 175 WRIGHT STREET KEWDALE 6105",
+    "locID": "LOC000189730740",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92738566,
+     -31.9672431
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 227 ST KILDA ROAD KEWDALE 6105",
+    "locID": "LOC000186788410",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281361"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92738566,
+     -31.9672431
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 227 ST KILDA ROAD KEWDALE 6105",
+    "locID": "LOC000186788410",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281401"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92768359,
+     -31.97033147
+    ]
+   },
+   "properties": {
+    "name": "229B ARMADALE ROAD KEWDALE 6105",
+    "locID": "LOC000190754107",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92738566,
+     -31.9672431
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 227 ST KILDA ROAD KEWDALE 6105",
+    "locID": "LOC000186788410",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721282106"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282558"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282563"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 14, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282615"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282660"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282668"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282723"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282729"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282730"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721282731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.92730294,
+     -31.96962138
+    ]
+   },
+   "properties": {
+    "name": "75 WRIGHT STREET KEWDALE 6105",
+    "locID": "ChIJ_WfeS-y7MioR8ahgEfHvfxs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721341976"
    }
   }
  ]
