@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T08:46:34.315502",
+ "generated": "2023-09-09T08:50:26.238925",
  "suburb": "BANKSIA GROVE",
  "features": [
   {
@@ -18104,7 +18104,7 @@
     "name": "14 VIRIDIAN DRIVE BANKSIA GROVE 6031",
     "locID": "LOC000008723832",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162590386"
    }
   },
@@ -20466,8 +20466,8 @@
    "properties": {
     "name": "17 ABBEY GREEN ROAD BANKSIA GROVE 6031",
     "locID": "LOC000050839783",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162978487"
    }
   },
@@ -21860,8 +21860,8 @@
    "properties": {
     "name": "34 TUSSOCK ELBOW BANKSIA GROVE 6031",
     "locID": "LOC000024704558",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162987019"
    }
   },
@@ -32111,8 +32111,8 @@
    "properties": {
     "name": "14 CARBINE LOOP BANKSIA GROVE 6031",
     "locID": "LOC000112507546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163336135"
    }
   },
@@ -69130,8 +69130,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80034922,
-     -31.70498171
+     115.80034935,
+     -31.70498155
     ]
    },
    "properties": {
@@ -74995,8 +74995,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.81565261,
-     -31.69460041
+     115.81565273,
+     -31.69460028
     ]
    },
    "properties": {
@@ -75063,8 +75063,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80034922,
-     -31.70498171
+     115.80034935,
+     -31.70498155
     ]
    },
    "properties": {
@@ -75828,8 +75828,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80034922,
-     -31.70498171
+     115.80034935,
+     -31.70498155
     ]
    },
    "properties": {
@@ -75838,23 +75838,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720561502"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.80034922,
-     -31.70498171
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 7 JEWEL WAY BANKSIA GROVE 6031",
-    "locID": "LOC000181910920",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_720561510"
    }
   },
   {
@@ -76066,8 +76049,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80034922,
-     -31.70498171
+     115.80034935,
+     -31.70498155
     ]
    },
    "properties": {
@@ -76134,8 +76117,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80034922,
-     -31.70498171
+     115.80034935,
+     -31.70498155
     ]
    },
    "properties": {
@@ -76474,8 +76457,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80034922,
-     -31.70498171
+     115.80034935,
+     -31.70498155
     ]
    },
    "properties": {
@@ -76763,8 +76746,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80034922,
-     -31.70498171
+     115.80034935,
+     -31.70498155
     ]
    },
    "properties": {
@@ -82536,6 +82519,40 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721198675"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81565273,
+     -31.69460028
+    ]
+   },
+   "properties": {
+    "name": "32 BLUEBILL ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJQ7pgTE9SzSsRrfbt8Z4vFkk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278690"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81698557,
+     -31.68963536
+    ]
+   },
+   "properties": {
+    "name": "22 DANCING ROAD BANKSIA GROVE 6031",
+    "locID": "ChIJRat340dSzSsRvsTIBI7WmX4",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280293"
    }
   }
  ]
