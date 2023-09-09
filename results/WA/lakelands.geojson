@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T03:32:34.804947",
+ "generated": "2023-09-09T03:13:18.165333",
  "suburb": "LAKELANDS",
  "features": [
   {
@@ -100,8 +100,8 @@
    "properties": {
     "name": "6 DYER LANE LAKELANDS 6180",
     "locID": "LOC000009606244",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_160656731"
    }
   },
@@ -661,8 +661,8 @@
    "properties": {
     "name": "36 NULLEWA PARKWAY LAKELANDS 6180",
     "locID": "LOC000050207037",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160665313"
    }
   },
@@ -1137,8 +1137,8 @@
    "properties": {
     "name": "1 COHEN VISTA LAKELANDS 6180",
     "locID": "LOC000084588551",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160672188"
    }
   },
@@ -1239,8 +1239,8 @@
    "properties": {
     "name": "6 WIRRA LANE LAKELANDS 6180",
     "locID": "LOC000092836531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160673021"
    }
   },
@@ -1324,8 +1324,8 @@
    "properties": {
     "name": "14 COHEN VISTA LAKELANDS 6180",
     "locID": "LOC000084588551",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160673037"
    }
   },
@@ -1443,8 +1443,8 @@
    "properties": {
     "name": "5 MADDOX VISTA LAKELANDS 6180",
     "locID": "LOC000185354654",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160673797"
    }
   },
@@ -1562,8 +1562,8 @@
    "properties": {
     "name": "12 MADDOX VISTA LAKELANDS 6180",
     "locID": "LOC000055035959",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160673804"
    }
   },
@@ -1579,8 +1579,8 @@
    "properties": {
     "name": "13 MADDOX VISTA LAKELANDS 6180",
     "locID": "LOC000069308692",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160673805"
    }
   },
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "14 MADDOX VISTA LAKELANDS 6180",
     "locID": "LOC000073102060",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160673806"
    }
   },
@@ -1783,8 +1783,8 @@
    "properties": {
     "name": "1 BALLARD MEANDER LAKELANDS 6180",
     "locID": "LOC000030539091",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160912518"
    }
   },
@@ -2123,8 +2123,8 @@
    "properties": {
     "name": "67 BALLARD MEANDER LAKELANDS 6180",
     "locID": "LOC000004795477",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160912539"
    }
   },
@@ -2174,8 +2174,8 @@
    "properties": {
     "name": "7 BALLARD MEANDER LAKELANDS 6180",
     "locID": "LOC000076606052",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160912542"
    }
   },
@@ -2191,8 +2191,8 @@
    "properties": {
     "name": "8 BALLARD MEANDER LAKELANDS 6180",
     "locID": "LOC000094697443",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160912543"
    }
   },
@@ -2694,23 +2694,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.76746679,
-     -32.47226741
-    ]
-   },
-   "properties": {
-    "name": "24 KERKERI HEIGHTS LAKELANDS 6180",
-    "locID": "ChIJlxsEmtp9MioRAeTk6qjLiY8",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_160916695"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.768606,
      -32.471872
     ]
@@ -2721,23 +2704,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_160916696"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76787501,
-     -32.47234182
-    ]
-   },
-   "properties": {
-    "name": "26 KERKERI HEIGHTS LAKELANDS 6180",
-    "locID": "ChIJW9V4otp9MioRXS97PcvyqQc",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_160916697"
    }
   },
   {
@@ -2762,23 +2728,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.76809836,
-     -32.47231932
-    ]
-   },
-   "properties": {
-    "name": "28 KERKERI HEIGHTS LAKELANDS 6180",
-    "locID": "ChIJ_Za6o9p9MioRnAgF4OdM1UY",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_160916699"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.768925,
      -32.471829
     ]
@@ -2789,23 +2738,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_160916700"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76832766,
-     -32.47230031
-    ]
-   },
-   "properties": {
-    "name": "30 KERKERI HEIGHTS LAKELANDS 6180",
-    "locID": "ChIJaxlApNp9MioR7otMkkvMTU0",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_160916701"
    }
   },
   {
@@ -3143,8 +3075,8 @@
    "properties": {
     "name": "13 ARGYLE FAIRWAY LAKELANDS 6180",
     "locID": "LOC000055938985",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161511055"
    }
   },
@@ -3279,8 +3211,8 @@
    "properties": {
     "name": "14 ROYSTON WAY LAKELANDS 6180",
     "locID": "LOC000079060214",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161519964"
    }
   },
@@ -3483,8 +3415,8 @@
    "properties": {
     "name": "17 ROYSTON WAY LAKELANDS 6180",
     "locID": "LOC000079432804",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161609666"
    }
   },
@@ -3840,8 +3772,8 @@
    "properties": {
     "name": "7 TEAGUE WAY LAKELANDS 6180",
     "locID": "LOC000007863506",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161894023"
    }
   },
@@ -3908,8 +3840,8 @@
    "properties": {
     "name": "2 ARGYLE FAIRWAY LAKELANDS 6180",
     "locID": "LOC000050182485",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161894842"
    }
   },
@@ -4044,8 +3976,8 @@
    "properties": {
     "name": "21 MALATA RIDGE LAKELANDS 6180",
     "locID": "LOC000063056393",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161896549"
    }
   },
@@ -4198,7 +4130,7 @@
     "name": "15 ALBINA CHASE LAKELANDS 6180",
     "locID": "LOC000094378007",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161926153"
    }
   },
@@ -5285,8 +5217,8 @@
    "properties": {
     "name": "39 MALATA RIDGE LAKELANDS 6180",
     "locID": "LOC000013621885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161992851"
    }
   },
@@ -5812,8 +5744,8 @@
    "properties": {
     "name": "28 TEAGUE WAY LAKELANDS 6180",
     "locID": "LOC000067699142",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162002867"
    }
   },
@@ -5864,7 +5796,7 @@
     "name": "31 TEAGUE WAY LAKELANDS 6180",
     "locID": "LOC000086243507",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162002870"
    }
   },
@@ -6509,8 +6441,8 @@
    "properties": {
     "name": "5 BALICUP WAY LAKELANDS 6180",
     "locID": "LOC000055336367",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162254430"
    }
   },
@@ -6713,8 +6645,8 @@
    "properties": {
     "name": "7 MAWSON GRANGE LAKELANDS 6180",
     "locID": "LOC000100950740",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162256530"
    }
   },
@@ -6764,8 +6696,8 @@
    "properties": {
     "name": "11 PRENTICE WAY LAKELANDS 6180",
     "locID": "LOC000017227486",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162257155"
    }
   },
@@ -6900,8 +6832,8 @@
    "properties": {
     "name": "20 PRENTICE WAY LAKELANDS 6180",
     "locID": "LOC000098109768",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162257163"
    }
   },
@@ -6917,8 +6849,8 @@
    "properties": {
     "name": "3 PRENTICE WAY LAKELANDS 6180",
     "locID": "LOC000049292981",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162257165"
    }
   },
@@ -7002,8 +6934,8 @@
    "properties": {
     "name": "8 PRENTICE WAY LAKELANDS 6180",
     "locID": "LOC000031990173",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162257170"
    }
   },
@@ -7223,8 +7155,8 @@
    "properties": {
     "name": "27 LORETTA PARKWAY LAKELANDS 6180",
     "locID": "LOC000019513441",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162265926"
    }
   },
@@ -7240,8 +7172,8 @@
    "properties": {
     "name": "3 LORETTA PARKWAY LAKELANDS 6180",
     "locID": "LOC000089250134",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162265927"
    }
   },
@@ -7546,8 +7478,8 @@
    "properties": {
     "name": "12 LISMORE RIDGE LAKELANDS 6180",
     "locID": "LOC000058039601",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162330620"
    }
   },
@@ -7750,8 +7682,8 @@
    "properties": {
     "name": "3 MURRIN LOOP LAKELANDS 6180",
     "locID": "LOC000092590944",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162331144"
    }
   },
@@ -8192,8 +8124,8 @@
    "properties": {
     "name": "138 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000031903903",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162393323"
    }
   },
@@ -8396,8 +8328,8 @@
    "properties": {
     "name": "18 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000010379672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162393335"
    }
   },
@@ -8464,8 +8396,8 @@
    "properties": {
     "name": "23 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000080652221",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162393339"
    }
   },
@@ -8685,8 +8617,8 @@
    "properties": {
     "name": "43 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000073544278",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162393352"
    }
   },
@@ -8702,8 +8634,8 @@
    "properties": {
     "name": "44 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000132794908",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162393353"
    }
   },
@@ -9314,8 +9246,8 @@
    "properties": {
     "name": "27 LISMORE RIDGE LAKELANDS 6180",
     "locID": "LOC000054958869",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162395053"
    }
   },
@@ -9518,8 +9450,8 @@
    "properties": {
     "name": "9 LISMORE RIDGE LAKELANDS 6180",
     "locID": "LOC000077851351",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162395065"
    }
   },
@@ -9722,8 +9654,8 @@
    "properties": {
     "name": "31 ALBINA CHASE LAKELANDS 6180",
     "locID": "LOC000103448237",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162484884"
    }
   },
@@ -9773,8 +9705,8 @@
    "properties": {
     "name": "36 ALBINA CHASE LAKELANDS 6180",
     "locID": "LOC000007035338",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162484887"
    }
   },
@@ -10164,8 +10096,8 @@
    "properties": {
     "name": "11 COHEN VISTA LAKELANDS 6180",
     "locID": "LOC000098418336",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162485927"
    }
   },
@@ -10487,8 +10419,8 @@
    "properties": {
     "name": "24 JASPER WAY LAKELANDS 6180",
     "locID": "LOC000084060263",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162487379"
    }
   },
@@ -10572,8 +10504,8 @@
    "properties": {
     "name": "23 BANKSIADALE GATE LAKELANDS 6180",
     "locID": "LOC000089677301",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162554406"
    }
   },
@@ -11524,8 +11456,8 @@
    "properties": {
     "name": "28 SALOME CRESCENT LAKELANDS 6180",
     "locID": "LOC000049525480",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162584659"
    }
   },
@@ -11592,8 +11524,8 @@
    "properties": {
     "name": "8 SALOME CRESCENT LAKELANDS 6180",
     "locID": "LOC000100249913",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162584663"
    }
   },
@@ -12153,8 +12085,8 @@
    "properties": {
     "name": "2 RAYNER PROMENADE LAKELANDS 6180",
     "locID": "LOC000063486827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162644732"
    }
   },
@@ -12289,8 +12221,8 @@
    "properties": {
     "name": "16 TANDURE HEIGHTS LAKELANDS 6180",
     "locID": "LOC000095717172",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162646231"
    }
   },
@@ -12510,8 +12442,8 @@
    "properties": {
     "name": "9 TANDURE HEIGHTS LAKELANDS 6180",
     "locID": "LOC000050442003",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162646244"
    }
   },
@@ -12918,8 +12850,8 @@
    "properties": {
     "name": "29 KARRI KARRI PASS LAKELANDS 6180",
     "locID": "LOC000037645798",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_162687817"
    }
   },
@@ -13020,8 +12952,8 @@
    "properties": {
     "name": "3 KARRI KARRI PASS LAKELANDS 6180",
     "locID": "LOC000050818179",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162687823"
    }
   },
@@ -13275,8 +13207,8 @@
    "properties": {
     "name": "7 NUCHEA VISTA LAKELANDS 6180",
     "locID": "LOC000105126227",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162689994"
    }
   },
@@ -13292,8 +13224,8 @@
    "properties": {
     "name": "8 NUCHEA VISTA LAKELANDS 6180",
     "locID": "LOC000042507503",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162689995"
    }
   },
@@ -13394,8 +13326,8 @@
    "properties": {
     "name": "15 ARRAMALL TRAIL LAKELANDS 6180",
     "locID": "LOC000100860441",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162718047"
    }
   },
@@ -14244,8 +14176,8 @@
    "properties": {
     "name": "6 BADGERUP AVENUE LAKELANDS 6180",
     "locID": "LOC000038610053",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_162753884"
    }
   },
@@ -14414,8 +14346,8 @@
    "properties": {
     "name": "15 COILA BEND LAKELANDS 6180",
     "locID": "LOC000066150469",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162756012"
    }
   },
@@ -14499,8 +14431,8 @@
    "properties": {
     "name": "4 COILA BEND LAKELANDS 6180",
     "locID": "LOC000003697995",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162756017"
    }
   },
@@ -16430,74 +16362,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.76549926,
-     -32.47716163
-    ]
-   },
-   "properties": {
-    "name": "59 CAWANA PARKWAY LAKELANDS 6180",
-    "locID": "ChIJL7bkEtF9MioR1Y1N0liCkR0",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162873926"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76550129,
-     -32.47706883
-    ]
-   },
-   "properties": {
-    "name": "61 CAWANA PARKWAY LAKELANDS 6180",
-    "locID": "LOC000084232267",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_162873927"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76550332,
-     -32.47697604
-    ]
-   },
-   "properties": {
-    "name": "63 CAWANA PARKWAY LAKELANDS 6180",
-    "locID": "ChIJcdouEtF9MioRUR-ytC6oidw",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162873928"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76551088,
-     -32.47686268
-    ]
-   },
-   "properties": {
-    "name": "65 CAWANA PARKWAY LAKELANDS 6180",
-    "locID": "ChIJfeqiEdF9MioRw5DQhy0NrJ8",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_162873929"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.76254329,
      -32.47943396
     ]
@@ -16862,8 +16726,8 @@
    "properties": {
     "name": "50 CAWANA PARKWAY LAKELANDS 6180",
     "locID": "LOC000051119006",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162875633"
    }
   },
@@ -17355,8 +17219,8 @@
    "properties": {
     "name": "78 BADGERUP AVENUE LAKELANDS 6180",
     "locID": "LOC000013732500",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162978917"
    }
   },
@@ -17372,8 +17236,8 @@
    "properties": {
     "name": "80 BADGERUP AVENUE LAKELANDS 6180",
     "locID": "LOC000017206524",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162978918"
    }
   },
@@ -17389,8 +17253,8 @@
    "properties": {
     "name": "82 BADGERUP AVENUE LAKELANDS 6180",
     "locID": "LOC000050837171",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162978919"
    }
   },
@@ -17797,8 +17661,8 @@
    "properties": {
     "name": "152 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000019833825",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163005914"
    }
   },
@@ -17916,8 +17780,8 @@
    "properties": {
     "name": "160 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000027098988",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163005921"
    }
   },
@@ -21435,8 +21299,8 @@
    "properties": {
     "name": "30 COBAKI BRACE LAKELANDS 6180",
     "locID": "LOC000093012460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163046712"
    }
   },
@@ -21690,8 +21554,8 @@
    "properties": {
     "name": "29 JASPER WAY LAKELANDS 6180",
     "locID": "LOC000098941553",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163048763"
    }
   },
@@ -22404,8 +22268,8 @@
    "properties": {
     "name": "21 CATALINA DRIVE LAKELANDS 6180",
     "locID": "LOC000054865498",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163196730"
    }
   },
@@ -22421,8 +22285,8 @@
    "properties": {
     "name": "23 CATALINA DRIVE LAKELANDS 6180",
     "locID": "LOC000044815622",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163196731"
    }
   },
@@ -23050,8 +22914,8 @@
    "properties": {
     "name": "116 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000002937097",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163245103"
    }
   },
@@ -23135,8 +22999,8 @@
    "properties": {
     "name": "94 YINDANA BOULEVARD LAKELANDS 6180",
     "locID": "LOC000054371081",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163245108"
    }
   },
@@ -23187,7 +23051,7 @@
     "name": "1 CAWANA PARKWAY LAKELANDS 6180",
     "locID": "LOC000090695404",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163245289"
    }
   },
@@ -23359,23 +23223,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163245312"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76552451,
-     -32.47677059
-    ]
-   },
-   "properties": {
-    "name": "67 CAWANA PARKWAY LAKELANDS 6180",
-    "locID": "ChIJ76RNENF9MioRh6U79-cPxMg",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_163245313"
    }
   },
   {
@@ -24138,8 +23985,8 @@
    "properties": {
     "name": "5 INDOON WAY LAKELANDS 6180",
     "locID": "LOC000110889989",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163273691"
    }
   },
@@ -24411,7 +24258,7 @@
     "name": "10 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116425907",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213142"
    }
   },
@@ -24428,7 +24275,7 @@
     "name": "11 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116426910",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213143"
    }
   },
@@ -24445,7 +24292,7 @@
     "name": "12 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116426999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213144"
    }
   },
@@ -24462,7 +24309,7 @@
     "name": "14 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116427099",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213145"
    }
   },
@@ -24479,7 +24326,7 @@
     "name": "15 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116430822",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213146"
    }
   },
@@ -24496,7 +24343,7 @@
     "name": "16 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116431796",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213147"
    }
   },
@@ -24513,7 +24360,7 @@
     "name": "17 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116431875",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213148"
    }
   },
@@ -24530,7 +24377,7 @@
     "name": "18 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116431921",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213149"
    }
   },
@@ -24547,7 +24394,7 @@
     "name": "19 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116431984",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213150"
    }
   },
@@ -24564,7 +24411,7 @@
     "name": "1 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116441557",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213151"
    }
   },
@@ -24581,7 +24428,7 @@
     "name": "20 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116436760",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213152"
    }
   },
@@ -24598,7 +24445,7 @@
     "name": "21 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116436836",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213153"
    }
   },
@@ -24615,7 +24462,7 @@
     "name": "22 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116436870",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213154"
    }
   },
@@ -24632,7 +24479,7 @@
     "name": "23 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116436964",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213155"
    }
   },
@@ -24649,7 +24496,7 @@
     "name": "24 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116440713",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213156"
    }
   },
@@ -24666,7 +24513,7 @@
     "name": "25 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116440778",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213157"
    }
   },
@@ -24683,7 +24530,7 @@
     "name": "26 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116441751",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213158"
    }
   },
@@ -24700,7 +24547,7 @@
     "name": "27 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116441820",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213159"
    }
   },
@@ -24717,7 +24564,7 @@
     "name": "28 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116441906",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213160"
    }
   },
@@ -24734,7 +24581,7 @@
     "name": "29 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116426209",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213161"
    }
   },
@@ -24751,7 +24598,7 @@
     "name": "2 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116435755",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213162"
    }
   },
@@ -24768,7 +24615,7 @@
     "name": "30 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116427372",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213163"
    }
   },
@@ -24785,7 +24632,7 @@
     "name": "31 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116432360",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213164"
    }
   },
@@ -24802,7 +24649,7 @@
     "name": "32 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116435861",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213165"
    }
   },
@@ -24819,7 +24666,7 @@
     "name": "34 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116435937",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213166"
    }
   },
@@ -24836,7 +24683,7 @@
     "name": "36 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116435971",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213167"
    }
   },
@@ -24853,7 +24700,7 @@
     "name": "38 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116436005",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213168"
    }
   },
@@ -24870,7 +24717,7 @@
     "name": "3 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116427236",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213169"
    }
   },
@@ -24887,7 +24734,7 @@
     "name": "40 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116437399",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213170"
    }
   },
@@ -24904,7 +24751,7 @@
     "name": "42 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116430898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213171"
    }
   },
@@ -24921,7 +24768,7 @@
     "name": "44 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116430920",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213172"
    }
   },
@@ -24938,7 +24785,7 @@
     "name": "4 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116437283",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213173"
    }
   },
@@ -24955,7 +24802,7 @@
     "name": "5 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116430983",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213174"
    }
   },
@@ -24972,7 +24819,7 @@
     "name": "6 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116443281",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213175"
    }
   },
@@ -24989,7 +24836,7 @@
     "name": "7 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116443402",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213176"
    }
   },
@@ -25006,7 +24853,7 @@
     "name": "8 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000116428732",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213177"
    }
   },
@@ -25023,7 +24870,7 @@
     "name": "9 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000176026203",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718213178"
    }
   },
@@ -25108,7 +24955,7 @@
     "name": "80 HIGHCLIFFE CIRCLE LAKELANDS 6180",
     "locID": "LOC000116428824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718216637"
    }
   },
@@ -25125,7 +24972,7 @@
     "name": "82 HIGHCLIFFE CIRCLE LAKELANDS 6180",
     "locID": "LOC000116428830",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718216638"
    }
   },
@@ -25142,7 +24989,7 @@
     "name": "84 HIGHCLIFFE CIRCLE LAKELANDS 6180",
     "locID": "LOC000116428848",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718216639"
    }
   },
@@ -25159,7 +25006,7 @@
     "name": "86 HIGHCLIFFE CIRCLE LAKELANDS 6180",
     "locID": "LOC000116428853",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718216640"
    }
   },
@@ -25601,7 +25448,7 @@
     "name": "1 LARK LANE LAKELANDS 6180",
     "locID": "LOC000116441601",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718217677"
    }
   },
@@ -25618,7 +25465,7 @@
     "name": "3 LARK LANE LAKELANDS 6180",
     "locID": "LOC000116427291",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718217678"
    }
   },
@@ -25635,7 +25482,7 @@
     "name": "4 LARK LANE LAKELANDS 6180",
     "locID": "LOC000176026226",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718217679"
    }
   },
@@ -25652,7 +25499,7 @@
     "name": "5 LARK LANE LAKELANDS 6180",
     "locID": "LOC000116431028",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718217680"
    }
   },
@@ -25669,7 +25516,7 @@
     "name": "7 LARK LANE LAKELANDS 6180",
     "locID": "LOC000116443460",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718217681"
    }
   },
@@ -26332,7 +26179,7 @@
     "name": "10 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116425948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221021"
    }
   },
@@ -26349,7 +26196,7 @@
     "name": "1 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116441638",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221022"
    }
   },
@@ -26366,7 +26213,7 @@
     "name": "2 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116435793",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221023"
    }
   },
@@ -26383,7 +26230,7 @@
     "name": "3 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116427329",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221024"
    }
   },
@@ -26400,7 +26247,7 @@
     "name": "4 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116437368",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221025"
    }
   },
@@ -26417,7 +26264,7 @@
     "name": "5 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116431059",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221026"
    }
   },
@@ -26434,7 +26281,7 @@
     "name": "6 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116443366",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221027"
    }
   },
@@ -26451,7 +26298,7 @@
     "name": "7 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116443494",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221028"
    }
   },
@@ -26468,7 +26315,7 @@
     "name": "8 SIREN GROVE LAKELANDS 6180",
     "locID": "LOC000116428784",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221029"
    }
   },
@@ -26485,7 +26332,7 @@
     "name": "1 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116425884",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221330"
    }
   },
@@ -26502,7 +26349,7 @@
     "name": "2 STILT COURT LAKELANDS 6180",
     "locID": "LOC000176026235",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221331"
    }
   },
@@ -26519,7 +26366,7 @@
     "name": "3 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116427340",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221332"
    }
   },
@@ -26536,7 +26383,7 @@
     "name": "4 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116437381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221333"
    }
   },
@@ -26553,7 +26400,7 @@
     "name": "5 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116442287",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221334"
    }
   },
@@ -26570,7 +26417,7 @@
     "name": "6 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116443384",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221335"
    }
   },
@@ -26587,7 +26434,7 @@
     "name": "7 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116427757",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221336"
    }
   },
@@ -26604,7 +26451,7 @@
     "name": "8 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116428807",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221337"
    }
   },
@@ -26621,7 +26468,7 @@
     "name": "9 STILT COURT LAKELANDS 6180",
     "locID": "LOC000116428922",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718221338"
    }
   },
@@ -26723,7 +26570,7 @@
     "name": "UNIT 18, 9 BROADWATER LOOP LAKELANDS 6180",
     "locID": "LOC000176026203",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718231950"
    }
   },
@@ -26757,7 +26604,7 @@
     "name": "UNIT 82, 2 STILT COURT LAKELANDS 6180",
     "locID": "LOC000176026235",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718233871"
    }
   },
@@ -26910,7 +26757,7 @@
     "name": "2 CAREY RETREAT LAKELANDS 6180",
     "locID": "LOC000132817895",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718295874"
    }
   },
@@ -26927,7 +26774,7 @@
     "name": "4 CAREY RETREAT LAKELANDS 6180",
     "locID": "LOC000132782684",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718295875"
    }
   },
@@ -26944,7 +26791,7 @@
     "name": "6 CAREY RETREAT LAKELANDS 6180",
     "locID": "LOC000132822692",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718295876"
    }
   },
@@ -26961,7 +26808,7 @@
     "name": "8 CAREY RETREAT LAKELANDS 6180",
     "locID": "LOC000132798905",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718295877"
    }
   },
@@ -27371,74 +27218,6 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718303249"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76236476,
-     -32.47441407
-    ]
-   },
-   "properties": {
-    "name": "3A SALT LANE LAKELANDS 6180",
-    "locID": "ChIJB_DyW9d9MioRwHjI2PTAXHs",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_718342696"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76236476,
-     -32.47441407
-    ]
-   },
-   "properties": {
-    "name": "3B SALT LANE LAKELANDS 6180",
-    "locID": "ChIJB_DyW9d9MioRg0oQ9cckajM",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_718342697"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76236476,
-     -32.47441407
-    ]
-   },
-   "properties": {
-    "name": "3C SALT LANE LAKELANDS 6180",
-    "locID": "ChIJB_DyW9d9MioRNxFTke3Lxj0",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_718342698"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76236476,
-     -32.47441407
-    ]
-   },
-   "properties": {
-    "name": "3D SALT LANE LAKELANDS 6180",
-    "locID": "ChIJB_DyW9d9MioRFVD0DjXkXoE",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_718342699"
    }
   },
   {
@@ -42933,108 +42712,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.76684155,
-     -32.4651966
-    ]
-   },
-   "properties": {
-    "name": "9 PICTON ROAD LAKELANDS 6180",
-    "locID": "ChIJM9zq_dx9MioRwy0QFt5dEHw",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720246952"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76684283,
-     -32.46540462
-    ]
-   },
-   "properties": {
-    "name": "7 PICTON ROAD LAKELANDS 6180",
-    "locID": "LOC000169898459",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_720247247"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76684125,
-     -32.46561037
-    ]
-   },
-   "properties": {
-    "name": "5 PICTON ROAD LAKELANDS 6180",
-    "locID": "LOC000169898561",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_720247248"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76683889,
-     -32.46581838
-    ]
-   },
-   "properties": {
-    "name": "3 PICTON ROAD LAKELANDS 6180",
-    "locID": "EikzIFBpY3RvbiBSZCwgTGFrZWxhbmRzIFdBIDYxODAsIEF1c3RyYWxpYSIwEi4KFAoSCaXZv_HcfTIqEYdAK3b3VqlyEAMqFAoSCfUqvPHcfTIqER6dAbNPmmF0",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720247309"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76684027,
-     -32.46498858
-    ]
-   },
-   "properties": {
-    "name": "11 PICTON ROAD LAKELANDS 6180",
-    "locID": "ChIJV0o2At19MioRPTIW41UVdzo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720247377"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76683992,
-     -32.46477903
-    ]
-   },
-   "properties": {
-    "name": "13 PICTON ROAD LAKELANDS 6180",
-    "locID": "EioxMyBQaWN0b24gUmQsIExha2VsYW5kcyBXQSA2MTgwLCBBdXN0cmFsaWEiMBIuChQKEgnddRX93H0yKhHSRswtmrehzRANKhQKEgn1Krzx3H0yKhEenQGzT5phdA",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720247435"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.7799665,
      -32.46806969
     ]
@@ -50209,8 +49886,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78255036,
-     -32.46784656
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -50532,8 +50209,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.7821421,
-     -32.46767555
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -50600,8 +50277,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78260801,
-     -32.46756885
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -50974,8 +50651,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78259501,
-     -32.46745102
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -51212,8 +50889,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78209994,
-     -32.46724712
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -51246,8 +50923,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78209975,
-     -32.46751539
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -51331,8 +51008,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78208407,
-     -32.46713214
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -51365,8 +51042,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.7825951,
-     -32.46732578
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -51382,8 +51059,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78209986,
-     -32.46737111
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -51535,8 +51212,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78260266,
-     -32.46769668
+     115.78193402,
+     -32.46843274
     ]
    },
    "properties": {
@@ -51654,8 +51331,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.76192277,
-     -32.46963281
+     115.76183401,
+     -32.46976687
     ]
    },
    "properties": {
@@ -51834,6 +51511,397 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721207551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76549501,
+     -32.46361396
+    ]
+   },
+   "properties": {
+    "name": "49 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "LOC000177690162",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76456389,
+     -32.46346021
+    ]
+   },
+   "properties": {
+    "name": "35 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJlerT8919MioRj40jonTZXXo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278125"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76589857,
+     -32.46359769
+    ]
+   },
+   "properties": {
+    "name": "55 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJ61THm919MioRShTpl161p0M",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278364"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76521939,
+     -32.46355413
+    ]
+   },
+   "properties": {
+    "name": "45 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJoecQkt19MioRPpzU98PjJr8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278514"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76893415,
+     -32.463611
+    ]
+   },
+   "properties": {
+    "name": "87 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJW2-jNt19MioRKCRo7aYIrbc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278676"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76508828,
+     -32.46353535
+    ]
+   },
+   "properties": {
+    "name": "43 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJ83uAkt19MioRxRaHXleYEIc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278811"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76576561,
+     -32.46359762
+    ]
+   },
+   "properties": {
+    "name": "53 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJcWhEmt19MioRWMCnLotlEBE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278816"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76620438,
+     -32.46359789
+    ]
+   },
+   "properties": {
+    "name": "59 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJDcHUnd19MioRKidWav0r1aY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721278910"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7687744,
+     -32.46355887
+    ]
+   },
+   "properties": {
+    "name": "85 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJCw8BN919MioRz_amh9uwnC0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76828122,
+     -32.46357661
+    ]
+   },
+   "properties": {
+    "name": "79 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJ093HON19MioRyOSjd-jfw7M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279640"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76909053,
+     -32.46363784
+    ]
+   },
+   "properties": {
+    "name": "89 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJkw52NN19MioRIhq8I80H_3E",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279710"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76858701,
+     -32.46357775
+    ]
+   },
+   "properties": {
+    "name": "83 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJEwwrON19MioRfYLx7MgcpnM",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279821"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76495719,
+     -32.46351656
+    ]
+   },
+   "properties": {
+    "name": "41 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJ-cdajd19MioROFQ8xHb5OWc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279881"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76443541,
+     -32.46344181
+    ]
+   },
+   "properties": {
+    "name": "33 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJxZ0U8d19MioR46wDEQI0Tqc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76842747,
+     -32.46357671
+    ]
+   },
+   "properties": {
+    "name": "81 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJ7zBYON19MioRC-qB2tZKazY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721279999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76535049,
+     -32.46357292
+    ]
+   },
+   "properties": {
+    "name": "47 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "LOC000177689918",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76604482,
+     -32.46359779
+    ]
+   },
+   "properties": {
+    "name": "57 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJhRkPnN19MioRTeAILhxahAA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280209"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76482609,
+     -32.46349778
+    ]
+   },
+   "properties": {
+    "name": "39 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJ647A8t19MioRWm2lt1eDgDk",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76563266,
+     -32.46359754
+    ]
+   },
+   "properties": {
+    "name": "51 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "LOC000177690297",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76814825,
+     -32.46357654
+    ]
+   },
+   "properties": {
+    "name": "77 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJWztCP919MioR9di4Jg6ErAU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76469499,
+     -32.463479
+    ]
+   },
+   "properties": {
+    "name": "37 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "LOC000172670832",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280853"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.768002,
+     -32.46357644
+    ]
+   },
+   "properties": {
+    "name": "75 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJ9WGPP919MioRRP4tfQixBSE",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721280934"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76784245,
+     -32.46357635
+    ]
+   },
+   "properties": {
+    "name": "73 ALVERSTONE BOULEVARD LAKELANDS 6180",
+    "locID": "ChIJJXurat19MioRKo1PjqGkc1w",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281357"
    }
   }
  ]
