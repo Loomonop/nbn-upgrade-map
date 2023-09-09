@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T21:22:20.698402",
+ "generated": "2023-09-09T21:53:43.778877",
  "suburb": "GREENACRE",
  "features": [
   {
@@ -16897,7 +16897,7 @@
     "name": "3 TENNYSON ROAD GREENACRE 2190",
     "locID": "LOC000014912591",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704868727"
    }
   },
@@ -20551,8 +20551,8 @@
    "properties": {
     "name": "10 LATVIA AVENUE GREENACRE 2190",
     "locID": "LOC000096763435",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704870536"
    }
   },
@@ -22193,7 +22193,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06411302,
+     151.06411303,
      -33.90358994
     ]
    },
@@ -38844,7 +38844,7 @@
     "name": "17 NARELLE CRESCENT GREENACRE 2190",
     "locID": "LOC000072678611",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704876495"
    }
   },
@@ -40645,8 +40645,8 @@
    "properties": {
     "name": "10 HEWITT STREET GREENACRE 2190",
     "locID": "LOC000008096175",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704878396"
    }
   },
@@ -43603,8 +43603,8 @@
    "properties": {
     "name": "49 REA STREET GREENACRE 2190",
     "locID": "LOC000008972093",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704879241"
    }
   },
@@ -66213,8 +66213,8 @@
    "properties": {
     "name": "5 SHELLCOTE ROAD GREENACRE 2190",
     "locID": "LOC000070160335",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704884104"
    }
   },
@@ -71517,8 +71517,8 @@
    "properties": {
     "name": "6 IRONBARK GROVE GREENACRE 2190",
     "locID": "LOC000031393647",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704885695"
    }
   },
@@ -72127,62 +72127,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 1, 77 GREENACRE ROAD GREENACRE 2190",
-    "locID": "LOC000060955304",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704885872"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.05041614,
-     -33.91135073
-    ]
-   },
-   "properties": {
     "name": "UNIT 2, 77 GREENACRE ROAD GREENACRE 2190",
     "locID": "LOC000060891878",
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704885873"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.05041614,
-     -33.91135073
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 77 GREENACRE ROAD GREENACRE 2190",
-    "locID": "LOC000059936028",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704885874"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.05041614,
-     -33.91135073
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 77 GREENACRE ROAD GREENACRE 2190",
-    "locID": "LOC000060798156",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704885875"
    }
   },
   {
@@ -82125,8 +82074,8 @@
    "properties": {
     "name": "96 NORTHCOTE ROAD GREENACRE 2190",
     "locID": "LOC000001406205",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704889303"
    }
   },
@@ -84287,23 +84236,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704890083"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.0582397,
-     -33.9025503
-    ]
-   },
-   "properties": {
-    "name": "247-249 WATERLOO ROAD GREENACRE 2190",
-    "locID": "LOC000052973518",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704890084"
    }
   },
   {
@@ -96449,7 +96381,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06998416,
+     151.06998417,
      -33.90535025
     ]
    },
@@ -103137,8 +103069,8 @@
    "properties": {
     "name": "101 NORFOLK ROAD GREENACRE 2190",
     "locID": "LOC000065427587",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706587612"
    }
   },
@@ -119450,8 +119382,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.0386905,
-     -33.90309789
+     151.03869986,
+     -33.9030438
     ]
    },
    "properties": {
@@ -130738,8 +130670,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.0386905,
-     -33.90309789
+     151.0386844,
+     -33.90314968
     ]
    },
    "properties": {
@@ -140259,7 +140191,7 @@
     "type": "Point",
     "coordinates": [
      151.05623764,
-     -33.9070227
+     -33.90702271
     ]
    },
    "properties": {
@@ -140378,7 +140310,7 @@
     "type": "Point",
     "coordinates": [
      151.05623764,
-     -33.9070227
+     -33.90702271
     ]
    },
    "properties": {
@@ -152352,8 +152284,8 @@
    "properties": {
     "name": "11 BELLFROG STREET GREENACRE 2190",
     "locID": "LOC000156626385",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW718473191"
    }
   },
@@ -159910,8 +159842,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06027042,
-     -33.91624992
+     151.0602704,
+     -33.91625042
     ]
    },
    "properties": {
@@ -161610,8 +161542,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06643842,
-     -33.9087385
+     151.0663937,
+     -33.90873085
     ]
    },
    "properties": {
@@ -163905,7 +163837,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.06411302,
+     151.06411303,
      -33.90358994
     ]
    },
@@ -173503,6 +173435,261 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721268634"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06125934,
+     -33.91390794
+    ]
+   },
+   "properties": {
+    "name": "2D LASCELLES AVENUE GREENACRE 2190",
+    "locID": "ChIJq13PI-27EmsRKVGlN6iqJ54",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721315184"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06125934,
+     -33.91390794
+    ]
+   },
+   "properties": {
+    "name": "2C LASCELLES AVENUE GREENACRE 2190",
+    "locID": "ChIJq13PI-27EmsRgTG3IczD12s",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721315283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.04707933,
+     -33.90706255
+    ]
+   },
+   "properties": {
+    "name": "111A BANKSIA ROAD GREENACRE 2190",
+    "locID": "ChIJF_WRfXW8EmsRwQfuuHtF3oc",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316251"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06623962,
+     -33.88787487
+    ]
+   },
+   "properties": {
+    "name": "19A MARGARET STREET GREENACRE 2190",
+    "locID": "ChIJ27BiknO7EmsRxw8h7kZqMmo",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721317398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0616254,
+     -33.89884635
+    ]
+   },
+   "properties": {
+    "name": "3A BUCKLAND STREET GREENACRE 2190",
+    "locID": "LOC000190543093",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06125934,
+     -33.91390794
+    ]
+   },
+   "properties": {
+    "name": "5A LASCELLES LANE GREENACRE 2190",
+    "locID": "ChIJq13PI-27EmsR3Zilc1XzrBA",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721318745"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06575401,
+     -33.88809513
+    ]
+   },
+   "properties": {
+    "name": "28A WESLEY STREET GREENACRE 2190",
+    "locID": "ChIJt7v283O7EmsRO3FutNaue70",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721321302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06998417,
+     -33.90535025
+    ]
+   },
+   "properties": {
+    "name": "5A POMONA STREET GREENACRE 2190",
+    "locID": "ChIJxchz-5e7EmsRHQ1NCiIHtl4",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322127"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06125934,
+     -33.91390794
+    ]
+   },
+   "properties": {
+    "name": "5 LASCELLES LANE GREENACRE 2190",
+    "locID": "ChIJq13PI-27EmsRWdh7heFBG10",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721325843"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.04707933,
+     -33.90706255
+    ]
+   },
+   "properties": {
+    "name": "111B BANKSIA ROAD GREENACRE 2190",
+    "locID": "ChIJF_WRfXW8EmsR7Sv0fxq1Jr0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06623962,
+     -33.88787487
+    ]
+   },
+   "properties": {
+    "name": "19B MARGARET STREET GREENACRE 2190",
+    "locID": "ChIJ27BiknO7EmsRfoMdL72YzN4",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.05617452,
+     -33.89385055
+    ]
+   },
+   "properties": {
+    "name": "7A LOCKWOOD AVENUE GREENACRE 2190",
+    "locID": "ChIJxbtvAYO7EmsRKaabXcwsT1I",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721327008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06957365,
+     -33.90710322
+    ]
+   },
+   "properties": {
+    "name": "31A POMONA STREET GREENACRE 2190",
+    "locID": "LOC000176607895",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06182324,
+     -33.90346661
+    ]
+   },
+   "properties": {
+    "name": "23B RAWSON ROAD GREENACRE 2190",
+    "locID": "ChIJldhniJC7EmsRElCY0YuoKfM",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329918"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.04122861,
+     -33.90683287
+    ]
+   },
+   "properties": {
+    "name": "196A BANKSIA ROAD GREENACRE 2190",
+    "locID": "ChIJ81eUWHO8EmsRVhejAkAzAWA",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331620"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T21:33:15.258590",
+ "generated": "2023-09-09T22:03:57.978911",
  "suburb": "PRATTEN",
  "features": [
   {
@@ -372,7 +372,7 @@
    "properties": {
     "name": "LOT 100 AHERN LANE PRATTEN 4370",
     "locID": "EikxMDAgQWhlcm4gTG4sIFByYXR0ZW4gUUxEIDQzNzAsIEF1c3RyYWxpYSIwEi4KFAoSCVk1q-a_vpdrEa2leRobvir-EGQqFAoSCUPUF13qvpdrEZHXZW87EHuo",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161044195"
    }
@@ -1970,7 +1970,7 @@
    "properties": {
     "name": "LOT 73 AHERN LANE PRATTEN 4370",
     "locID": "Eig3MyBBaGVybiBMbiwgUHJhdHRlbiBRTEQgNDM3MCwgQXVzdHJhbGlhIjASLgoUChIJWTWr5r--l2sRraV5Ghu-Kv4QSSoUChIJQ9QXXeq-l2sRkddlbzsQe6g",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161971631"
    }
@@ -2330,23 +2330,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162141224"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.78331798,
-     -28.08485654
-    ]
-   },
-   "properties": {
-    "name": "LOT 809 ELLIOT STREET PRATTEN 4370",
-    "locID": "LOC000127917085",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162141228"
    }
   },
   {
@@ -4710,6 +4693,40 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721230549"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.78331798,
+     -28.08485654
+    ]
+   },
+   "properties": {
+    "name": "54 ELLIOT STREET PRATTEN 4370",
+    "locID": "ChIJTzMLw5m-l2sRsm1kFW-12eY",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314788"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.78234498,
+     -28.08669447
+    ]
+   },
+   "properties": {
+    "name": "1278 ELLIOT STREET PRATTEN 4370",
+    "locID": "LOC000127917085",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721334950"
    }
   }
  ]
