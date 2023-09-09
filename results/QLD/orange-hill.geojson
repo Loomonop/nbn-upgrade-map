@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T05:18:03.168235",
+ "generated": "2023-09-09T05:02:52.373808",
  "suburb": "ORANGE HILL",
  "features": [
   {
@@ -304,8 +304,8 @@
    "properties": {
     "name": "32 CAMERONS LANE ORANGE HILL 4455",
     "locID": "LOC000005891464",
-    "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD161747191"
    }
   },
@@ -365,8 +365,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     148.78978092,
-     -26.47746401
+     148.7944659,
+     -26.48024224
     ]
    },
    "properties": {
@@ -1667,6 +1667,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721228898"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.78978092,
+     -26.47746401
+    ]
+   },
+   "properties": {
+    "name": "85 GLADSTONE ROAD ORANGE HILL 4455",
+    "locID": "ChIJhUcm6QUhumsRPTQ44_5V3nA",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721307241"
    }
   }
  ]
