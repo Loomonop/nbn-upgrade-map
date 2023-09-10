@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T07:28:45.734109",
+ "generated": "2023-09-10T06:16:24.259877",
  "suburb": "TINBEERWAH",
  "features": [
   {
@@ -2140,8 +2140,8 @@
    "properties": {
     "name": "25 BRUSHTAIL LANE TINBEERWAH 4563",
     "locID": "LOC000063005189",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155911221"
    }
   },
@@ -3398,7 +3398,7 @@
    "properties": {
     "name": "609 COOROY - NOOSA ROAD TINBEERWAH 4563",
     "locID": "LOC000038227051",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156481105"
    }
@@ -4571,8 +4571,8 @@
    "properties": {
     "name": "21 BRUSHTAIL LANE TINBEERWAH 4563",
     "locID": "LOC000050238563",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157242647"
    }
   },
@@ -8583,8 +8583,8 @@
    "properties": {
     "name": "401 SUNRISE ROAD TINBEERWAH 4563",
     "locID": "LOC000149687645",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425267283"
    }
   },
@@ -8600,8 +8600,8 @@
    "properties": {
     "name": "403 SUNRISE ROAD TINBEERWAH 4563",
     "locID": "LOC000149687632",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425267284"
    }
   },
@@ -8617,8 +8617,8 @@
    "properties": {
     "name": "413 SUNRISE ROAD TINBEERWAH 4563",
     "locID": "LOC000149687650",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425267285"
    }
   },
@@ -8634,8 +8634,8 @@
    "properties": {
     "name": "415 SUNRISE ROAD TINBEERWAH 4563",
     "locID": "LOC000149687759",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425267286"
    }
   },
@@ -8651,8 +8651,8 @@
    "properties": {
     "name": "419 SUNRISE ROAD TINBEERWAH 4563",
     "locID": "LOC000149687744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425267287"
    }
   },
@@ -10371,6 +10371,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720468867"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98060645,
+     -26.39176627
+    ]
+   },
+   "properties": {
+    "name": "22 TINBEERWAH ROAD TINBEERWAH 4563",
+    "locID": "LOC000189433575",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721335046"
    }
   }
  ]
