@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T10:29:13.837142",
+ "generated": "2023-09-10T09:13:00.249751",
  "suburb": "WILLOW VALE",
  "features": [
   {
@@ -185,8 +185,8 @@
    "properties": {
     "name": "379A RUFFLES ROAD WILLOW VALE 4209",
     "locID": "LOC000050081829",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155958609"
    }
   },
@@ -3518,7 +3518,7 @@
     "name": "11 CRYSTAL CREEK ROAD WILLOW VALE 4209",
     "locID": "LOC000170185472",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160946783"
    }
   },
@@ -3756,7 +3756,7 @@
     "name": "423 RUFFLES ROAD WILLOW VALE 4209",
     "locID": "LOC000187168678",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160960275"
    }
   },
@@ -4554,8 +4554,8 @@
    "properties": {
     "name": "262 ROSEMOUNT DRIVE WILLOW VALE 4209",
     "locID": "LOC000031539110",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161295428"
    }
   },
@@ -4812,6 +4812,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161297443"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.27019836,
+     -27.86729544
+    ]
+   },
+   "properties": {
+    "name": "LOT 99 RUFFLES ROAD WILLOW VALE 4209",
+    "locID": "Ei45OSBSdWZmbGVzIFJkLCBXaWxsb3cgVmFsZSBRTEQgNDIwOSwgQXVzdHJhbGlhIjASLgoUChIJM3lUUT4UkWsRJl0avE6CV1UQYyoUChIJZ86VSiMUkWsR98lf86di8dg",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161297444"
    }
   },
   {
