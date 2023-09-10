@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T06:05:46.207697",
+ "generated": "2023-09-10T05:01:34.582524",
  "suburb": "TARINGA",
  "features": [
   {
@@ -781,7 +781,7 @@
     "name": "24 OXFORD TERRACE TARINGA 4068",
     "locID": "LOC000068300777",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155876495"
    }
   },
@@ -798,7 +798,7 @@
     "name": "23 STANLEY TERRACE TARINGA 4068",
     "locID": "LOC000034272595",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155876644"
    }
   },
@@ -849,7 +849,7 @@
     "name": "117 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000087456668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155876655"
    }
   },
@@ -1886,7 +1886,7 @@
     "name": "12 UNION STREET TARINGA 4068",
     "locID": "LOC000157995858",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155880180"
    }
   },
@@ -2260,7 +2260,7 @@
     "name": "20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416368",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155882138"
    }
   },
@@ -2617,7 +2617,7 @@
     "name": "33 BROOMFIELD STREET TARINGA 4068",
     "locID": "LOC000064899614",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155884061"
    }
   },
@@ -3493,6 +3493,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98398069,
+     -27.49620365
+    ]
+   },
+   "properties": {
+    "name": "92 BEATRICE STREET TARINGA 4068",
+    "locID": "LOC000099216877",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD157152924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.98327436,
      -27.49587652
     ]
@@ -4351,7 +4368,7 @@
     "name": "88 OXFORD TERRACE TARINGA 4068",
     "locID": "LOC000053326739",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157153009"
    }
   },
@@ -4385,7 +4402,7 @@
     "name": "90 OXFORD TERRACE TARINGA 4068",
     "locID": "LOC000024837632",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157153011"
    }
   },
@@ -5490,7 +5507,7 @@
     "name": "127 SWANN ROAD TARINGA 4068",
     "locID": "LOC000034718330",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157153311"
    }
   },
@@ -5948,7 +5965,7 @@
    "properties": {
     "name": "18 ADSETT STREET TARINGA 4068",
     "locID": "LOC000191908977",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157159750"
    }
@@ -6136,7 +6153,7 @@
     "name": "UNIT 2, 203 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000157983476",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157159801"
    }
   },
@@ -6918,7 +6935,7 @@
     "name": "25 BELLEVUE PARADE TARINGA 4068",
     "locID": "LOC000157967938",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157159971"
    }
   },
@@ -7053,8 +7070,8 @@
    "properties": {
     "name": "5 BELLEVUE PARADE TARINGA 4068",
     "locID": "LOC000088064578",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157159981"
    }
   },
@@ -7615,7 +7632,7 @@
     "name": "103 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000030824111",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157160021"
    }
   },
@@ -7989,7 +8006,7 @@
     "name": "10 PRINCESS STREET TARINGA 4068",
     "locID": "LOC000015798720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157160068"
    }
   },
@@ -8329,7 +8346,7 @@
     "name": "7 PRINCESS STREET TARINGA 4068",
     "locID": "LOC000016190790",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157160120"
    }
   },
@@ -8380,7 +8397,7 @@
     "name": "14 UNION STREET TARINGA 4068",
     "locID": "LOC000098831508",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157160124"
    }
   },
@@ -8651,7 +8668,7 @@
    "properties": {
     "name": "15 ADSETT STREET TARINGA 4068",
     "locID": "LOC000191908949",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157166787"
    }
@@ -8685,7 +8702,7 @@
    "properties": {
     "name": "19 ADSETT STREET TARINGA 4068",
     "locID": "LOC000191908983",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157166798"
    }
@@ -11100,7 +11117,7 @@
     "name": "16 BRASTED STREET TARINGA 4068",
     "locID": "LOC000157968658",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157167125"
    }
   },
@@ -11185,7 +11202,7 @@
     "name": "UNIT 16, 2 BRASTED STREET TARINGA 4068",
     "locID": "LOC000157968691",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157167130"
    }
   },
@@ -11610,7 +11627,7 @@
     "name": "32 UNION STREET TARINGA 4068",
     "locID": "LOC000157996052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157167161"
    }
   },
@@ -12868,7 +12885,7 @@
     "name": "15 MOORAK STREET TARINGA 4068",
     "locID": "LOC000034028426",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157173977"
    }
   },
@@ -13922,7 +13939,7 @@
     "name": "33 ELLERSLIE CRESCENT TARINGA 4068",
     "locID": "LOC000043719398",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174247"
    }
   },
@@ -13973,7 +13990,7 @@
     "name": "36 ELLERSLIE CRESCENT TARINGA 4068",
     "locID": "LOC000043719398",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174250"
    }
   },
@@ -14670,7 +14687,7 @@
     "name": "UNIT 1, 117 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000087456668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174294"
    }
   },
@@ -14687,7 +14704,7 @@
     "name": "UNIT 2, 117 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000087820824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174295"
    }
   },
@@ -14704,7 +14721,7 @@
     "name": "UNIT 3, 117 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000087799190",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174296"
    }
   },
@@ -14721,7 +14738,7 @@
     "name": "UNIT 4, 117 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000087456668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174297"
    }
   },
@@ -14738,7 +14755,7 @@
     "name": "UNIT 5, 117 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000087975182",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174298"
    }
   },
@@ -15231,7 +15248,7 @@
     "name": "83 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000094985657",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157174364"
    }
   },
@@ -16132,7 +16149,7 @@
     "name": "6 MOORAK STREET TARINGA 4068",
     "locID": "LOC000014072153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177332"
    }
   },
@@ -17900,7 +17917,7 @@
     "name": "UNIT 1, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416368",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177560"
    }
   },
@@ -17917,7 +17934,7 @@
     "name": "UNIT 2, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177561"
    }
   },
@@ -17934,7 +17951,7 @@
     "name": "UNIT 3, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416616",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177562"
    }
   },
@@ -17951,7 +17968,7 @@
     "name": "UNIT 4, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416628",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177563"
    }
   },
@@ -17968,7 +17985,7 @@
     "name": "UNIT 5, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416659",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177564"
    }
   },
@@ -17985,7 +18002,7 @@
     "name": "UNIT 6, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416671",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177565"
    }
   },
@@ -18002,7 +18019,7 @@
     "name": "UNIT 7, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416692",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177566"
    }
   },
@@ -18019,7 +18036,7 @@
     "name": "UNIT 8, 20 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416721",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157177567"
    }
   },
@@ -18801,7 +18818,7 @@
     "name": "7 MAGOR STREET TARINGA 4068",
     "locID": "LOC000099285340",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157181324"
    }
   },
@@ -20824,7 +20841,7 @@
     "name": "14 GOLDSBROUGH ROAD TARINGA 4068",
     "locID": "LOC000102794435",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184372"
    }
   },
@@ -21538,7 +21555,7 @@
     "name": "207 SWANN ROAD TARINGA 4068",
     "locID": "LOC000079707447",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184429"
    }
   },
@@ -21810,7 +21827,7 @@
     "name": "12 GREGORY STREET TARINGA 4068",
     "locID": "LOC000029852159",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184447"
    }
   },
@@ -22592,7 +22609,7 @@
     "name": "245 SWANN ROAD TARINGA 4068",
     "locID": "LOC000017421350",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184540"
    }
   },
@@ -22762,7 +22779,7 @@
     "name": "4 BRIGGS STREET TARINGA 4068",
     "locID": "LOC000053441729",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184575"
    }
   },
@@ -23510,7 +23527,7 @@
     "name": "73 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000068861605",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184638"
    }
   },
@@ -23561,7 +23578,7 @@
     "name": "77 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000078258625",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184641"
    }
   },
@@ -23986,7 +24003,7 @@
     "name": "7 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416692",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157184681"
    }
   },
@@ -24989,7 +25006,7 @@
     "name": "11 KINGS ROAD TARINGA 4068",
     "locID": "LOC000015751576",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157188082"
    }
   },
@@ -27293,6 +27310,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.9780789,
+     -27.49097138
+    ]
+   },
+   "properties": {
+    "name": "42 MARMION PARADE TARINGA 4068",
+    "locID": "LOC000193425536",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157188468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97796534,
      -27.49028218
     ]
@@ -28457,7 +28491,7 @@
     "name": "12 KOBADA STREET TARINGA 4068",
     "locID": "LOC000157980199",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191354"
    }
   },
@@ -28729,7 +28763,7 @@
     "name": "74 ALPHA STREET TARINGA 4068",
     "locID": "LOC000050420313",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191503"
    }
   },
@@ -29834,7 +29868,7 @@
     "name": "UNIT 3, 33 BROOMFIELD STREET TARINGA 4068",
     "locID": "LOC000064981353",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191689"
    }
   },
@@ -29851,7 +29885,7 @@
     "name": "UNIT 4, 33 BROOMFIELD STREET TARINGA 4068",
     "locID": "LOC000064628053",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191690"
    }
   },
@@ -30429,7 +30463,7 @@
     "name": "10 SEVEN OAKS STREET TARINGA 4068",
     "locID": "LOC000013573470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191731"
    }
   },
@@ -30463,7 +30497,7 @@
     "name": "UNIT 1, 12 SEVEN OAKS STREET TARINGA 4068",
     "locID": "LOC000087734936",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191733"
    }
   },
@@ -30480,7 +30514,7 @@
     "name": "UNIT 2, 12 SEVEN OAKS STREET TARINGA 4068",
     "locID": "LOC000087734936",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191734"
    }
   },
@@ -32571,7 +32605,7 @@
     "name": "30 WOODSTOCK AVENUE TARINGA 4068",
     "locID": "LOC000157976948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157191876"
    }
   },
@@ -36294,7 +36328,7 @@
     "name": "48 ADA STREET TARINGA 4068",
     "locID": "LOC000032377223",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157198468"
    }
   },
@@ -36412,7 +36446,7 @@
    "properties": {
     "name": "1 ADSETT STREET TARINGA 4068",
     "locID": "LOC000191908782",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157198476"
    }
@@ -36446,7 +36480,7 @@
    "properties": {
     "name": "UNIT 1, 11 ADSETT STREET TARINGA 4068",
     "locID": "LOC000191908898",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157198478"
    }
@@ -37280,7 +37314,7 @@
     "name": "22 FREDERICK STREET TARINGA 4068",
     "locID": "LOC000047154914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157198896"
    }
   },
@@ -37620,7 +37654,7 @@
     "name": "UNIT 3, 1 SUNDRIDGE STREET TARINGA 4068",
     "locID": "LOC100074710809",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157198916"
    }
   },
@@ -38232,7 +38266,7 @@
     "name": "115 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000181654970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157198971"
    }
   },
@@ -38419,7 +38453,7 @@
     "name": "173 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000104754948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157198983"
    }
   },
@@ -39881,7 +39915,7 @@
     "name": "22 HILLSDON ROAD TARINGA 4068",
     "locID": "LOC000054797250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157201936"
    }
   },
@@ -41309,7 +41343,7 @@
     "name": "82 SWANN ROAD TARINGA 4068",
     "locID": "LOC000178912010",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157202045"
    }
   },
@@ -42431,7 +42465,7 @@
     "name": "9 MCINROY STREET TARINGA 4068",
     "locID": "LOC000037411898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157206015"
    }
   },
@@ -44624,7 +44658,7 @@
     "name": "UNIT 1, 83 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000096765736",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158708242"
    }
   },
@@ -44743,7 +44777,7 @@
     "name": "50 MARMION PARADE TARINGA 4068",
     "locID": "LOC000072128609",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158708324"
    }
   },
@@ -44862,7 +44896,7 @@
     "name": "UNIT 1, 14 UNION STREET TARINGA 4068",
     "locID": "LOC000098831508",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158709682"
    }
   },
@@ -45049,7 +45083,7 @@
     "name": "UNIT 1, 3 WOOLLEY STREET TARINGA 4068",
     "locID": "LOC000052177103",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158712125"
    }
   },
@@ -45202,7 +45236,7 @@
     "name": "UNIT 2, 83 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000094985657",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158715465"
    }
   },
@@ -46409,7 +46443,7 @@
     "name": "UNIT 2, 103 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000030806829",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158716691"
    }
   },
@@ -47327,7 +47361,7 @@
     "name": "UNIT 2, 88 OXFORD TERRACE TARINGA 4068",
     "locID": "LOC000053067066",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158719417"
    }
   },
@@ -50778,7 +50812,7 @@
     "name": "UNIT 1, 22 HILLSDON ROAD TARINGA 4068",
     "locID": "LOC000054797250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158725570"
    }
   },
@@ -52155,7 +52189,7 @@
     "name": "UNIT 2, 65 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000104767457",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158728598"
    }
   },
@@ -53668,7 +53702,7 @@
     "name": "UNIT 2, 115 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000181654970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158730659"
    }
   },
@@ -53685,7 +53719,7 @@
     "name": "UNIT 3, 115 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000181654970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158730662"
    }
   },
@@ -54212,7 +54246,7 @@
     "name": "UNIT 2, 22 HILLSDON ROAD TARINGA 4068",
     "locID": "LOC000054797250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158731441"
    }
   },
@@ -55130,7 +55164,7 @@
     "name": "UNIT 4, 115 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000181654970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158732658"
    }
   },
@@ -55555,7 +55589,7 @@
     "name": "UNIT 2, 14 UNION STREET TARINGA 4068",
     "locID": "LOC000098716107",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158732747"
    }
   },
@@ -57918,7 +57952,7 @@
     "name": "UNIT 1, 115 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000181654970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158735469"
    }
   },
@@ -58173,7 +58207,7 @@
     "name": "UNIT 1, 88 OXFORD TERRACE TARINGA 4068",
     "locID": "LOC000053326739",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158736780"
    }
   },
@@ -58955,7 +58989,7 @@
     "name": "UNIT 2, 33 BROOMFIELD STREET TARINGA 4068",
     "locID": "LOC000064775640",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158737311"
    }
   },
@@ -58972,7 +59006,7 @@
     "name": "UNIT 1, 33 BROOMFIELD STREET TARINGA 4068",
     "locID": "LOC000064899614",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158737312"
    }
   },
@@ -62287,7 +62321,7 @@
     "name": "UNIT 3, 65 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000105075793",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158740682"
    }
   },
@@ -63851,7 +63885,7 @@
     "name": "UNIT 1, 65 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000104791819",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158743581"
    }
   },
@@ -65126,7 +65160,7 @@
     "name": "UNIT 1, 103 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000030824111",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158747825"
    }
   },
@@ -65959,7 +65993,7 @@
     "name": "UNIT 1, 24 OXFORD TERRACE TARINGA 4068",
     "locID": "LOC000068300777",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158751598"
    }
   },
@@ -67404,7 +67438,7 @@
     "name": "UNIT 4, 65 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000105079924",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158756190"
    }
   },
@@ -67421,7 +67455,7 @@
     "name": "UNIT 5, 65 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000105134643",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158756191"
    }
   },
@@ -67438,7 +67472,7 @@
     "name": "UNIT 6, 65 INDOOROOPILLY ROAD TARINGA 4068",
     "locID": "LOC000104954431",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158756192"
    }
   },
@@ -68543,7 +68577,7 @@
     "name": "UNIT 1, 9 SUNDRIDGE STREET TARINGA 4068",
     "locID": "LOC000015844597",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159183107"
    }
   },
@@ -70056,7 +70090,7 @@
     "name": "134 WHITMORE STREET TARINGA 4068",
     "locID": "LOC000183197344",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159196318"
    }
   },
@@ -71126,7 +71160,7 @@
    "properties": {
     "name": "11 ADSETT STREET TARINGA 4068",
     "locID": "LOC000191908898",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD159200314"
    }
@@ -72827,7 +72861,7 @@
     "name": "118 MOGGILL ROAD TARINGA 4068",
     "locID": "LOC000043608741",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159205086"
    }
   },
@@ -73048,7 +73082,7 @@
     "name": "SUITE 1, 9 MCINROY STREET TARINGA 4068",
     "locID": "LOC000037411898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159206395"
    }
   },
@@ -73065,7 +73099,7 @@
     "name": "SUITE 2, 9 MCINROY STREET TARINGA 4068",
     "locID": "LOC000037411898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159206396"
    }
   },
@@ -73150,7 +73184,7 @@
     "name": "UNIT 1, 15 MOORAK STREET TARINGA 4068",
     "locID": "LOC000034028426",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159206504"
    }
   },
@@ -73473,7 +73507,7 @@
     "name": "UNIT 1, 4 BRIGGS STREET TARINGA 4068",
     "locID": "LOC000053441729",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159207449"
    }
   },
@@ -73490,7 +73524,7 @@
     "name": "UNIT 2, 4 BRIGGS STREET TARINGA 4068",
     "locID": "LOC000053441729",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159207451"
    }
   },
@@ -75122,7 +75156,7 @@
     "name": "UNIT 2, 23 STANLEY TERRACE TARINGA 4068",
     "locID": "LOC000034272595",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160726445"
    }
   },
@@ -75139,7 +75173,7 @@
     "name": "12 SEVEN OAKS STREET TARINGA 4068",
     "locID": "LOC000087734936",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160726446"
    }
   },
@@ -77400,7 +77434,7 @@
     "name": "LOT 9999 MARMION PARADE TARINGA 4068",
     "locID": "LOC000072128609",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161227233"
    }
   },
@@ -78558,6 +78592,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161322628"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.96674897,
+     -27.48782837
+    ]
+   },
+   "properties": {
+    "name": "224 TARINGA PARADE TARINGA 4068",
+    "locID": "Ei8yMjQgVGFyaW5nYSBQYXJhZGUsIFRhcmluZ2EgUUxEIDQwNjgsIEF1c3RyYWxpYSIxEi8KFAoSCWOIfnYCUZFrEV_oTSVONWaYEOABKhQKEgnbEt0gAFGRaxGtbOuX1pCwLQ",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161325503"
    }
   },
   {
@@ -79848,7 +79899,7 @@
     "name": "UNIT 1, 12 GREGORY STREET TARINGA 4068",
     "locID": "LOC000029898307",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161955651"
    }
   },
@@ -79865,7 +79916,7 @@
     "name": "UNIT 2, 12 GREGORY STREET TARINGA 4068",
     "locID": "LOC000029863670",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161955652"
    }
   },
@@ -79882,7 +79933,7 @@
     "name": "UNIT 3, 12 GREGORY STREET TARINGA 4068",
     "locID": "LOC000029928567",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161955653"
    }
   },
@@ -79899,7 +79950,7 @@
     "name": "UNIT 4, 12 GREGORY STREET TARINGA 4068",
     "locID": "LOC000029944526",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161955654"
    }
   },
@@ -79916,7 +79967,7 @@
     "name": "UNIT 5, 12 GREGORY STREET TARINGA 4068",
     "locID": "LOC000029852159",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161955655"
    }
   },
@@ -80222,7 +80273,7 @@
     "name": "7-13 ROKEBY TERRACE TARINGA 4068",
     "locID": "LOC000170416692",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161965127"
    }
   },
@@ -81174,7 +81225,7 @@
     "name": "UNIT 1, 10 SEVEN OAKS STREET TARINGA 4068",
     "locID": "LOC000013593169",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162194315"
    }
   },
@@ -81191,7 +81242,7 @@
     "name": "UNIT 2, 10 SEVEN OAKS STREET TARINGA 4068",
     "locID": "LOC000013573470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162194320"
    }
   },
@@ -82619,7 +82670,7 @@
     "name": "UNIT 1, 74 ALPHA STREET TARINGA 4068",
     "locID": "LOC000050447218",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162450782"
    }
   },
@@ -82636,7 +82687,7 @@
     "name": "UNIT 2, 74 ALPHA STREET TARINGA 4068",
     "locID": "LOC000050420313",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162450783"
    }
   },
@@ -82653,7 +82704,7 @@
     "name": "UNIT 3, 74 ALPHA STREET TARINGA 4068",
     "locID": "LOC000050357496",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162450784"
    }
   },
@@ -82670,7 +82721,7 @@
     "name": "UNIT 4, 74 ALPHA STREET TARINGA 4068",
     "locID": "LOC000050846793",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162450785"
    }
   },
@@ -82687,7 +82738,7 @@
     "name": "UNIT 5, 74 ALPHA STREET TARINGA 4068",
     "locID": "LOC000050175933",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162450786"
    }
   },
@@ -85780,7 +85831,7 @@
    "properties": {
     "name": "UNIT 1, 15 ADSETT STREET TARINGA 4068",
     "locID": "LOC000191908949",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163177649"
    }
@@ -86512,7 +86563,7 @@
     "name": "UNIT 1, 16 BRASTED STREET TARINGA 4068",
     "locID": "LOC000188155018",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD424936963"
    }
   },
@@ -86529,7 +86580,7 @@
     "name": "UNIT 2, 16 BRASTED STREET TARINGA 4068",
     "locID": "LOC000157968691",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD424936964"
    }
   },
@@ -86546,7 +86597,7 @@
     "name": "UNIT 3, 16 BRASTED STREET TARINGA 4068",
     "locID": "LOC000157968720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD424936965"
    }
   },
@@ -86563,7 +86614,7 @@
     "name": "UNIT 4, 16 BRASTED STREET TARINGA 4068",
     "locID": "LOC000188155018",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD424936966"
    }
   },
@@ -88263,7 +88314,7 @@
     "name": "UNIT 1, 14 GOLDSBROUGH ROAD TARINGA 4068",
     "locID": "LOC000102794435",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425407601"
    }
   },
@@ -88280,7 +88331,7 @@
     "name": "UNIT 2, 14 GOLDSBROUGH ROAD TARINGA 4068",
     "locID": "LOC000102794435",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425407602"
    }
   },
@@ -88297,7 +88348,7 @@
     "name": "UNIT 3, 14 GOLDSBROUGH ROAD TARINGA 4068",
     "locID": "LOC000102794435",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425407603"
    }
   },
@@ -88314,7 +88365,7 @@
     "name": "UNIT 4, 14 GOLDSBROUGH ROAD TARINGA 4068",
     "locID": "LOC000102794435",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425407604"
    }
   },
@@ -88433,7 +88484,7 @@
     "name": "UNIT 1, 32 UNION STREET TARINGA 4068",
     "locID": "LOC000157996052",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425493387"
    }
   },
@@ -88450,7 +88501,7 @@
     "name": "UNIT 2, 32 UNION STREET TARINGA 4068",
     "locID": "LOC000157996075",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425493388"
    }
   },
@@ -90082,7 +90133,7 @@
     "name": "UNIT 1, 30 WOODSTOCK AVENUE TARINGA 4068",
     "locID": "LOC000157976911",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425651977"
    }
   },
@@ -90099,7 +90150,7 @@
     "name": "UNIT 2, 30 WOODSTOCK AVENUE TARINGA 4068",
     "locID": "LOC000157976948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425651978"
    }
   },
@@ -90116,7 +90167,7 @@
     "name": "UNIT 3, 30 WOODSTOCK AVENUE TARINGA 4068",
     "locID": "LOC000157976948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425651979"
    }
   },
@@ -94094,7 +94145,7 @@
     "name": "21 BELLEVUE PARADE TARINGA 4068",
     "locID": "LOC000157968037",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719731140"
    }
   },
@@ -94111,7 +94162,7 @@
     "name": "23 BELLEVUE PARADE TARINGA 4068",
     "locID": "LOC000157967972",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719732276"
    }
   },
@@ -96967,7 +97018,7 @@
     "name": "UNIT 3, 37 SUNDRIDGE STREET TARINGA 4068",
     "locID": "LOC100074710813",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD720619606"
    }
   },
@@ -97137,7 +97188,7 @@
     "name": "UNIT 1, 37 SUNDRIDGE STREET TARINGA 4068",
     "locID": "LOC100074710809",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD720695918"
    }
   },
@@ -97154,7 +97205,7 @@
     "name": "UNIT 2, 37 SUNDRIDGE STREET TARINGA 4068",
     "locID": "LOC100074710813",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD720696673"
    }
   },
@@ -97683,6 +97734,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721234656"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98711409,
+     -27.49906627
+    ]
+   },
+   "properties": {
+    "name": "UNIT A, 13 KOBADA STREET TARINGA 4068",
+    "locID": "LOC000033332532",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD721334532"
    }
   }
  ]
