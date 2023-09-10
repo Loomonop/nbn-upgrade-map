@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T18:03:22.943002",
+ "generated": "2023-09-10T16:25:37.661070",
  "suburb": "CROYDON",
  "features": [
   {
@@ -168,8 +168,8 @@
    "properties": {
     "name": "37A ROBERT STREET CROYDON 5008",
     "locID": "LOC000064838949",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414946498"
    }
   },
@@ -2123,8 +2123,8 @@
    "properties": {
     "name": "8 ROBERT STREET CROYDON 5008",
     "locID": "LOC000096945292",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_414965141"
    }
   },
@@ -2226,7 +2226,7 @@
     "name": "9 ELIZABETH STREET CROYDON 5008",
     "locID": "LOC000040879965",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414965282"
    }
   },
@@ -3263,7 +3263,7 @@
     "name": "43 PRINCES STREET CROYDON 5008",
     "locID": "LOC000060316519",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414971847"
    }
   },
@@ -3858,7 +3858,7 @@
     "name": "10 QUEEN STREET CROYDON 5008",
     "locID": "LOC000058540294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414995006"
    }
   },
@@ -5490,7 +5490,7 @@
     "name": "1 QUEEN STREET CROYDON 5008",
     "locID": "LOC000058540294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415422097"
    }
   },
@@ -5694,7 +5694,7 @@
     "name": "421 PORT ROAD CROYDON 5008",
     "locID": "LOC000165853748",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415424870"
    }
   },
@@ -8090,8 +8090,8 @@
    "properties": {
     "name": "12A HENRY STREET CROYDON 5008",
     "locID": "LOC000064572946",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415563615"
    }
   },
@@ -8227,7 +8227,7 @@
     "name": "UNIT 1, 5 KING STREET CROYDON 5008",
     "locID": "LOC000034248280",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415634002"
    }
   },
@@ -8244,7 +8244,7 @@
     "name": "UNIT 2, 5 KING STREET CROYDON 5008",
     "locID": "LOC000034233389",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415634003"
    }
   },
@@ -8297,40 +8297,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415648407"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.56233566,
-     -34.89631957
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 30 EUSTON TERRACE CROYDON 5008",
-    "locID": "LOC000087124179",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415648408"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.5622657,
-     -34.89639592
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 30 EUSTON TERRACE CROYDON 5008",
-    "locID": "LOC000087124179",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415648409"
    }
   },
   {
@@ -8814,8 +8780,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.5622657,
-     -34.89639592
+     138.56233566,
+     -34.89631957
     ]
    },
    "properties": {
@@ -8831,8 +8797,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.5622657,
-     -34.89639592
+     138.56233566,
+     -34.89631957
     ]
    },
    "properties": {
@@ -9196,7 +9162,7 @@
     "name": "UNIT 1, 10 QUEEN STREET CROYDON 5008",
     "locID": "LOC000058540294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415947116"
    }
   },
@@ -9213,7 +9179,7 @@
     "name": "UNIT 2, 10 QUEEN STREET CROYDON 5008",
     "locID": "LOC000058813879",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415947117"
    }
   },
@@ -9553,7 +9519,7 @@
     "name": "UNIT 2, 9 ELIZABETH STREET CROYDON 5008",
     "locID": "LOC000040803968",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415953279"
    }
   },
@@ -10412,8 +10378,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.5622657,
-     -34.89639592
+     138.56233566,
+     -34.89631957
     ]
    },
    "properties": {
@@ -10624,7 +10590,7 @@
     "name": "UNIT 1, 9 ELIZABETH STREET CROYDON 5008",
     "locID": "LOC000040879965",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423611334"
    }
   },
@@ -10913,7 +10879,7 @@
     "name": "5 KING STREET CROYDON 5008",
     "locID": "LOC000034248280",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424932002"
    }
   },
@@ -11629,6 +11595,40 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721111406"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5622657,
+     -34.89639592
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 32 EUSTON TERRACE CROYDON 5008",
+    "locID": "LOC000006754551",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721277198"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.56233566,
+     -34.89631957
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 32 EUSTON TERRACE CROYDON 5008",
+    "locID": "LOC000165853657",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721277900"
    }
   }
  ]
