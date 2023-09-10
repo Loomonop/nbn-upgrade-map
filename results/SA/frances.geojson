@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T20:06:22.353913",
+ "generated": "2023-09-10T18:24:12.085733",
  "suburb": "FRANCES",
  "features": [
   {
@@ -1087,7 +1087,7 @@
     "name": "LOT 2 GAP ROAD FRANCES 5262",
     "locID": "LOC000022981714",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424820782"
    }
   },
@@ -1344,6 +1344,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425136961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.96279322,
+     -36.74149649
+    ]
+   },
+   "properties": {
+    "name": "10 CONKAR ROAD FRANCES 5262",
+    "locID": "LOC000155204096",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_425137688"
    }
   },
   {
@@ -2432,6 +2449,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720416822"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.95592151,
+     -36.71229545
+    ]
+   },
+   "properties": {
+    "name": "LOT 10 SECOND STREET FRANCES 5262",
+    "locID": "EigxMCBTZWNvbmQgU3QsIEZyYW5jZXMgU0EgNTI2MiwgQXVzdHJhbGlhIjASLgoUChIJCeQbMuTey2oRwFQ-SVQ2AxMQCioUChIJB-TmN-Tey2oRNgoCU46h_pw",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275530"
    }
   }
  ]
