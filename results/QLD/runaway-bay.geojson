@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-20T23:52:31.095960",
+ "generated": "2023-09-10T00:23:54.395790",
  "suburb": "RUNAWAY BAY",
  "features": [
   {
@@ -797,8 +797,8 @@
    "properties": {
     "name": "82 POINSETTIA AVENUE RUNAWAY BAY 4216",
     "locID": "LOC000083721477",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155395984"
    }
   },
@@ -20551,8 +20551,8 @@
    "properties": {
     "name": "18 GIRUA AVENUE RUNAWAY BAY 4216",
     "locID": "LOC000064071439",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157044170"
    }
   },
@@ -24631,8 +24631,8 @@
    "properties": {
     "name": "39 DARU AVENUE RUNAWAY BAY 4216",
     "locID": "LOC000031603513",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157054416"
    }
   },
@@ -30540,8 +30540,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.40590992,
-     -27.91857843
+     153.40608145,
+     -27.91853207
     ]
    },
    "properties": {
@@ -32468,8 +32468,8 @@
    "properties": {
     "name": "11 KIKORI CRESCENT RUNAWAY BAY 4216",
     "locID": "LOC000002598010",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157071693"
    }
   },
@@ -46486,8 +46486,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.40571402,
-     -27.90443012
+     153.40571415,
+     -27.9045513
     ]
    },
    "properties": {
@@ -50957,8 +50957,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.40571402,
-     -27.90443012
+     153.40565995,
+     -27.90453665
     ]
    },
    "properties": {
@@ -88187,8 +88187,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.4058251,
-     -27.91886784
+     153.405879,
+     -27.91890696
     ]
    },
    "properties": {
@@ -101474,6 +101474,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721258287"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.40580485,
+     -27.91857139
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 15 CANAL AVENUE RUNAWAY BAY 4216",
+    "locID": "LOC000190151760",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306475"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.40600959,
+     -27.91859262
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 15 CANAL AVENUE RUNAWAY BAY 4216",
+    "locID": "LOC000190151773",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721306726"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.40593722,
+     -27.91858628
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 15 CANAL AVENUE RUNAWAY BAY 4216",
+    "locID": "LOC000190151760",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721311718"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.40587101,
+     -27.91857912
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 15 CANAL AVENUE RUNAWAY BAY 4216",
+    "locID": "LOC000190151756",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721312519"
    }
   }
  ]
