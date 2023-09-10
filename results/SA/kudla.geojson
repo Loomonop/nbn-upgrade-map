@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-22T00:28:08.728813",
+ "generated": "2023-09-10T22:34:46.359165",
  "suburb": "KUDLA",
  "features": [
   {
@@ -16,7 +16,7 @@
     "name": "LOT 2 COVENTRY ROAD KUDLA 5115",
     "locID": "LOC000093804507",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424149594"
    }
   },
@@ -151,8 +151,8 @@
    "properties": {
     "name": "LOT 16 COVENTRY ROAD KUDLA 5115",
     "locID": "LOC000078238724",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424164899"
    }
   },
@@ -169,7 +169,7 @@
     "name": "LOT 37 COVENTRY ROAD KUDLA 5115",
     "locID": "LOC000091112986",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424164909"
    }
   },
@@ -186,7 +186,7 @@
     "name": "LOT 76 COVENTRY ROAD KUDLA 5115",
     "locID": "LOC000091112986",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424164919"
    }
   },
@@ -2235,6 +2235,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.70384256,
+     -34.65128059
+    ]
+   },
+   "properties": {
+    "name": "18 DANIEL ROAD KUDLA 5115",
+    "locID": "LOC000108231460",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424923553"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.705095,
      -34.64980139
     ]
@@ -3187,8 +3204,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.71157999,
-     -34.64030647
+     138.71233776,
+     -34.64143673
     ]
    },
    "properties": {
@@ -4003,40 +4020,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.70045262,
-     -34.63749102
-    ]
-   },
-   "properties": {
-    "name": "LOT 301 ATHOL ROAD KUDLA 5115",
-    "locID": "LOC000130519250",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425843695"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.70398494,
-     -34.64820537
-    ]
-   },
-   "properties": {
-    "name": "LOT 62 PIGGOTT ROAD KUDLA 5115",
-    "locID": "ChIJAxMnrjirsGoRO3m-hFtnRtU",
-    "tech": "WIRELESS",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_718980652"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.7050744,
      -34.64608709
     ]
@@ -4045,7 +4028,7 @@
     "name": "LOT 31 COVENTRY ROAD KUDLA 5115",
     "locID": "LOC000091112986",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_718983705"
    }
   },
@@ -4778,6 +4761,40 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721251337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.700773,
+     -34.63684
+    ]
+   },
+   "properties": {
+    "name": "80 ATHOL ROAD KUDLA 5115",
+    "locID": "ChIJDc5ewiKrsGoRO3EaG6hmXjg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276137"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.704725,
+     -34.64801
+    ]
+   },
+   "properties": {
+    "name": "20 PIGGOTT ROAD KUDLA 5115",
+    "locID": "ChIJBSuBujirsGoRDA2olajJ1EA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277193"
    }
   }
  ]
