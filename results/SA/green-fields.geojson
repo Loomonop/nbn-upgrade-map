@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T21:15:28.857693",
+ "generated": "2023-09-10T19:34:32.739222",
  "suburb": "GREEN FIELDS",
  "features": [
   {
@@ -1189,7 +1189,7 @@
     "name": "8 WATERVALE DRIVE GREEN FIELDS 5107",
     "locID": "LOC000018367845",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415133887"
    }
   },
@@ -1240,7 +1240,7 @@
     "name": "25 GEORGE STREET GREEN FIELDS 5107",
     "locID": "LOC000107157521",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415485393"
    }
   },
@@ -1291,7 +1291,7 @@
     "name": "UNIT 2, 391 MARTINS ROAD GREEN FIELDS 5107",
     "locID": "LOC000152564071",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415617801"
    }
   },
@@ -1376,7 +1376,7 @@
     "name": "5 GEORGE STREET GREEN FIELDS 5107",
     "locID": "LOC000152554605",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416812400"
    }
   },
@@ -1546,7 +1546,7 @@
     "name": "UNIT 1, 10 WATERVALE DRIVE GREEN FIELDS 5107",
     "locID": "LOC000044822157",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416816960"
    }
   },
@@ -1563,7 +1563,7 @@
     "name": "UNIT 2, 10 WATERVALE DRIVE GREEN FIELDS 5107",
     "locID": "LOC000044822157",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416816961"
    }
   },
@@ -1868,8 +1868,8 @@
    "properties": {
     "name": "39 GEORGE STREET GREEN FIELDS 5107",
     "locID": "LOC000072216065",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_422263363"
    }
   },
@@ -2107,7 +2107,7 @@
     "name": "8 NUCERA COURT GREEN FIELDS 5107",
     "locID": "LOC000157103918",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423953877"
    }
   },
@@ -2124,7 +2124,7 @@
     "name": "132 RYANS ROAD GREEN FIELDS 5107",
     "locID": "LOC000055662324",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423955530"
    }
   },
@@ -2260,7 +2260,7 @@
     "name": "4 NUCERA COURT GREEN FIELDS 5107",
     "locID": "LOC000130252840",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424013605"
    }
   },
@@ -2354,8 +2354,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.60371028,
-     -34.79223716
+     138.60858268,
+     -34.79540963
     ]
    },
    "properties": {
@@ -2685,7 +2685,7 @@
     "name": "5-9 GEORGE STREET GREEN FIELDS 5107",
     "locID": "LOC000152554605",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425438161"
    }
   },
@@ -2923,7 +2923,7 @@
     "name": "UNIT 1, 4 NUCERA COURT GREEN FIELDS 5107",
     "locID": "LOC000130252840",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425507128"
    }
   },
@@ -2940,7 +2940,7 @@
     "name": "UNIT 2, 4 NUCERA COURT GREEN FIELDS 5107",
     "locID": "LOC000152553845",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425507129"
    }
   },
@@ -3042,7 +3042,7 @@
     "name": "27 GEORGE STREET GREEN FIELDS 5107",
     "locID": "LOC000107157521",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425598583"
    }
   },
@@ -3195,7 +3195,7 @@
     "name": "UNIT 2, 5 NUCERA COURT GREEN FIELDS 5107",
     "locID": "LOC000152553845",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425599366"
    }
   },
@@ -3612,23 +3612,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.60807608,
-     -34.79503649
-    ]
-   },
-   "properties": {
-    "name": "LOT 1001 SALISBURY HIGHWAY GREEN FIELDS 5107",
-    "locID": "LOC000152560304",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_719965576"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.60733825,
      -34.7962423
     ]
@@ -3909,7 +3892,7 @@
     "name": "391-401 MARTINS ROAD GREEN FIELDS 5107",
     "locID": "LOC000002678433",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_720849172"
    }
   },
@@ -3962,6 +3945,40 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720851881"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.60523605,
+     -34.79320911
+    ]
+   },
+   "properties": {
+    "name": "LOT 2001 RYANS ROAD GREEN FIELDS 5107",
+    "locID": "LOC000008372510",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721275838"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.60858268,
+     -34.79540963
+    ]
+   },
+   "properties": {
+    "name": "2-50 RYANS ROAD GREEN FIELDS 5107",
+    "locID": "LOC000077448830",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721276908"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T20:59:03.520819",
+ "generated": "2023-09-10T19:18:49.109900",
  "suburb": "GLENSIDE",
  "features": [
   {
@@ -9654,8 +9654,8 @@
    "properties": {
     "name": "47 L'ESTRANGE STREET GLENSIDE 5065",
     "locID": "LOC000095141771",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415482144"
    }
   },
@@ -9961,7 +9961,7 @@
     "name": "3 CRANWELL STREET GLENSIDE 5065",
     "locID": "LOC000020087096",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415487414"
    }
   },
@@ -26909,8 +26909,8 @@
    "properties": {
     "name": "UNIT 2, 13 FLEMINGTON STREET GLENSIDE 5065",
     "locID": "LOC000130240187",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424425872"
    }
   },
@@ -30846,8 +30846,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.62535872,
-     -34.94397876
+     138.62541487,
+     -34.94426195
     ]
    },
    "properties": {
@@ -33107,23 +33107,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.62621343,
-     -34.94610468
-    ]
-   },
-   "properties": {
-    "name": "LOT 7500 BANKSIA STREET GLENSIDE 5065",
-    "locID": "EidCYW5rc2lhIFN0LCBHbGVuc2lkZSBTQSA1MDY1LCBBdXN0cmFsaWEiLiosChQKEgmH-_wAvc6wahEvbbKKfy-S1RIUChIJVSb2DrrOsGoRsLGOYlQ2AwU",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721001423"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.62822794,
      -34.94212596
     ]
@@ -34263,8 +34246,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.62562312,
-     -34.94512218
+     138.62558962,
+     -34.94536421
     ]
    },
    "properties": {
@@ -34307,6 +34290,856 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721267162"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62558962,
+     -34.94536421
+    ]
+   },
+   "properties": {
+    "name": "UNIT 607, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721273884"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62546442,
+     -34.94519338
+    ]
+   },
+   "properties": {
+    "name": "UNIT 110, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721273960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6255741,
+     -34.94511654
+    ]
+   },
+   "properties": {
+    "name": "UNIT 605, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274189"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62556789,
+     -34.94503862
+    ]
+   },
+   "properties": {
+    "name": "UNIT 304, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274269"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62558549,
+     -34.94526134
+    ]
+   },
+   "properties": {
+    "name": "UNIT 407, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274271"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62558549,
+     -34.94526134
+    ]
+   },
+   "properties": {
+    "name": "UNIT 507, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274423"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6255741,
+     -34.94511654
+    ]
+   },
+   "properties": {
+    "name": "UNIT 405, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274463"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62579279,
+     -34.94499673
+    ]
+   },
+   "properties": {
+    "name": "UNIT 203, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274521"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62567853,
+     -34.94505606
+    ]
+   },
+   "properties": {
+    "name": "UNIT 401, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274862"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62557959,
+     -34.94518333
+    ]
+   },
+   "properties": {
+    "name": "UNIT 406, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275085"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62569187,
+     -34.94525033
+    ]
+   },
+   "properties": {
+    "name": "UNIT 308, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62566918,
+     -34.9449241
+    ]
+   },
+   "properties": {
+    "name": "UNIT 302, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62579771,
+     -34.94505769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 202, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275383"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62576837,
+     -34.94523115
+    ]
+   },
+   "properties": {
+    "name": "UNIT 601, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62556789,
+     -34.94503862
+    ]
+   },
+   "properties": {
+    "name": "UNIT 604, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275655"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62573971,
+     -34.94523212
+    ]
+   },
+   "properties": {
+    "name": "UNIT 603, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62566918,
+     -34.9449241
+    ]
+   },
+   "properties": {
+    "name": "UNIT 502, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275742"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62555989,
+     -34.94490967
+    ]
+   },
+   "properties": {
+    "name": "UNIT 303, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275820"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.625566,
+     -34.94489921
+    ]
+   },
+   "properties": {
+    "name": "UNIT 106, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275830"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62566918,
+     -34.9449241
+    ]
+   },
+   "properties": {
+    "name": "UNIT 402, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275831"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62555989,
+     -34.94490967
+    ]
+   },
+   "properties": {
+    "name": "UNIT 503, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275862"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62565965,
+     -34.94489486
+    ]
+   },
+   "properties": {
+    "name": "UNIT 105, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275987"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62556789,
+     -34.94503862
+    ]
+   },
+   "properties": {
+    "name": "UNIT 504, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62545097,
+     -34.94510367
+    ]
+   },
+   "properties": {
+    "name": "UNIT 209, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62580162,
+     -34.94512055
+    ]
+   },
+   "properties": {
+    "name": "UNIT 201, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62569367,
+     -34.94508297
+    ]
+   },
+   "properties": {
+    "name": "UNIT 602, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276125"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62557255,
+     -34.94524176
+    ]
+   },
+   "properties": {
+    "name": "UNIT 606, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62567853,
+     -34.94505606
+    ]
+   },
+   "properties": {
+    "name": "UNIT 501, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6255741,
+     -34.94511654
+    ]
+   },
+   "properties": {
+    "name": "UNIT 505, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276299"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62545821,
+     -34.94511241
+    ]
+   },
+   "properties": {
+    "name": "UNIT 109, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62544962,
+     -34.94504348
+    ]
+   },
+   "properties": {
+    "name": "UNIT 108, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62567853,
+     -34.94505606
+    ]
+   },
+   "properties": {
+    "name": "UNIT 301, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62579771,
+     -34.94505769
+    ]
+   },
+   "properties": {
+    "name": "UNIT 102, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62559532,
+     -34.94533449
+    ]
+   },
+   "properties": {
+    "name": "UNIT 107, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276484"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6257841,
+     -34.94489864
+    ]
+   },
+   "properties": {
+    "name": "UNIT 104, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276601"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62580162,
+     -34.94512055
+    ]
+   },
+   "properties": {
+    "name": "UNIT 101, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276618"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62545081,
+     -34.94494187
+    ]
+   },
+   "properties": {
+    "name": "UNIT 207, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276652"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62555989,
+     -34.94490967
+    ]
+   },
+   "properties": {
+    "name": "UNIT 403, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276740"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62565965,
+     -34.94489486
+    ]
+   },
+   "properties": {
+    "name": "UNIT 205, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6255741,
+     -34.94511654
+    ]
+   },
+   "properties": {
+    "name": "UNIT 305, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276870"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62558549,
+     -34.94526134
+    ]
+   },
+   "properties": {
+    "name": "UNIT 307, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276918"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.625566,
+     -34.94489921
+    ]
+   },
+   "properties": {
+    "name": "UNIT 206, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721276977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62557959,
+     -34.94518333
+    ]
+   },
+   "properties": {
+    "name": "UNIT 506, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62579279,
+     -34.94499673
+    ]
+   },
+   "properties": {
+    "name": "UNIT 103, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277125"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62556789,
+     -34.94503862
+    ]
+   },
+   "properties": {
+    "name": "UNIT 404, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277271"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62569187,
+     -34.94525033
+    ]
+   },
+   "properties": {
+    "name": "UNIT 408, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277287"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62544962,
+     -34.94504348
+    ]
+   },
+   "properties": {
+    "name": "UNIT 208, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6257841,
+     -34.94489864
+    ]
+   },
+   "properties": {
+    "name": "UNIT 204, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277524"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62557959,
+     -34.94518333
+    ]
+   },
+   "properties": {
+    "name": "UNIT 306, 7 BANKSIA STREET GLENSIDE 5065",
+    "locID": "ChIJ6YRITbzOsGoRLLNKKlGsqKE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721277738"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.62695509,
+     -34.94514552
+    ]
+   },
+   "properties": {
+    "name": "2 KARRAYARTA DRIVE GLENSIDE 5065",
+    "locID": "ChIJAZspBb3OsGoRKKTMIgVFp1A",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721283003"
    }
   }
  ]
