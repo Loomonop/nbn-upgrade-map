@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-21T16:31:57.343699",
+ "generated": "2023-09-10T15:02:41.331964",
  "suburb": "CAMPBELLTOWN",
  "features": [
   {
@@ -16,7 +16,7 @@
     "name": "4 JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096636971",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414893526"
    }
   },
@@ -33,7 +33,7 @@
     "name": "UNIT 3, 4 JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096086025",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414893528"
    }
   },
@@ -50,7 +50,7 @@
     "name": "UNIT 4, 4 JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096636971",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414893529"
    }
   },
@@ -399,8 +399,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65762043,
-     -34.87310741
+     138.65766951,
+     -34.87298342
     ]
    },
    "properties": {
@@ -5303,7 +5303,7 @@
     "name": "80 CRESDEE ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179781942",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415075853"
    }
   },
@@ -6272,7 +6272,7 @@
     "name": "5 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256354",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415084652"
    }
   },
@@ -6561,7 +6561,7 @@
     "name": "6 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256365",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415087962"
    }
   },
@@ -6850,7 +6850,7 @@
     "name": "586 LOWER NORTH EAST ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000083217322",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415091716"
    }
   },
@@ -7938,7 +7938,7 @@
     "name": "28 MEADOW AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000184763402",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415105635"
    }
   },
@@ -10879,7 +10879,7 @@
     "name": "2 JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096755502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415161188"
    }
   },
@@ -15656,7 +15656,7 @@
     "name": "623A LOWER NORTH EAST ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000063751030",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415243433"
    }
   },
@@ -15673,7 +15673,7 @@
     "name": "623 LOWER NORTH EAST ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000063625753",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415243434"
    }
   },
@@ -16166,7 +16166,7 @@
     "name": "1 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000057534425",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415245947"
    }
   },
@@ -17696,7 +17696,7 @@
     "name": "7 PORCHESTER STREET CAMPBELLTOWN 5074",
     "locID": "LOC000179783165",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415255590"
    }
   },
@@ -17713,7 +17713,7 @@
     "name": "8 DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000179782351",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415255591"
    }
   },
@@ -17868,6 +17868,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415256763"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65246836,
+     -34.87451655
+    ]
+   },
+   "properties": {
+    "name": "7 BURNIE AVENUE CAMPBELLTOWN 5074",
+    "locID": "LOC000193503011",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415256764"
    }
   },
   {
@@ -18497,23 +18514,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415264240"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.6692094,
-     -34.88689967
-    ]
-   },
-   "properties": {
-    "name": "44 HANCOCK AVENUE CAMPBELLTOWN 5074",
-    "locID": "ChIJuesYAWbKsGoRmDJ77_ZkIvw",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_415264242"
    }
   },
   {
@@ -22159,8 +22159,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65968773,
-     -34.87397165
+     138.65975852,
+     -34.87401054
     ]
    },
    "properties": {
@@ -22303,7 +22303,7 @@
     "name": "68 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000014190031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415285370"
    }
   },
@@ -26708,6 +26708,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415316358"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66059692,
+     -34.88129332
+    ]
+   },
+   "properties": {
+    "name": "26 DEANS ROAD CAMPBELLTOWN 5074",
+    "locID": "ChIJwRGK5WzKsGoRinoeL24Hi50",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_415316359"
    }
   },
   {
@@ -37824,7 +37841,7 @@
     "name": "68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415536773"
    }
   },
@@ -37841,7 +37858,7 @@
     "name": "70 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256365",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415536774"
    }
   },
@@ -38521,7 +38538,7 @@
     "name": "UNIT 1, 4 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000026668201",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415616704"
    }
   },
@@ -38538,7 +38555,7 @@
     "name": "UNIT 2, 4 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000026757720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415616705"
    }
   },
@@ -38555,7 +38572,7 @@
     "name": "UNIT 3, 6 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000130177398",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415616706"
    }
   },
@@ -38572,7 +38589,7 @@
     "name": "UNIT 4, 6 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000082618548",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415616707"
    }
   },
@@ -38793,7 +38810,7 @@
     "name": "UNIT 2, 19 DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000010847086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624655"
    }
   },
@@ -38810,7 +38827,7 @@
     "name": "UNIT 3, 19 DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000010770616",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415624656"
    }
   },
@@ -38946,7 +38963,7 @@
     "name": "UNIT 1, 19 DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000010770616",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415626496"
    }
   },
@@ -39133,7 +39150,7 @@
     "name": "UNIT 1, 31 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000048383121",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415637567"
    }
   },
@@ -39150,7 +39167,7 @@
     "name": "UNIT 2, 31 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000048483838",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415637568"
    }
   },
@@ -39167,7 +39184,7 @@
     "name": "UNIT 3, 31 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000048383121",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415637569"
    }
   },
@@ -39371,7 +39388,7 @@
     "name": "UNIT 1, 6 ROMA GROVE CAMPBELLTOWN 5074",
     "locID": "LOC000083462585",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415650822"
    }
   },
@@ -39388,7 +39405,7 @@
     "name": "UNIT 2, 6 ROMA GROVE CAMPBELLTOWN 5074",
     "locID": "LOC000083731642",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415650823"
    }
   },
@@ -40867,7 +40884,7 @@
     "name": "UNIT 2, 12 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000077959250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415676683"
    }
   },
@@ -40935,7 +40952,7 @@
     "name": "UNIT 4, 3 CORONATION AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000024215391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415678208"
    }
   },
@@ -40952,7 +40969,7 @@
     "name": "UNIT 5, 3 CORONATION AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000024204822",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415678210"
    }
   },
@@ -41054,7 +41071,7 @@
     "name": "UNIT 1, 3 CORONATION AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000024463177",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415680861"
    }
   },
@@ -41071,7 +41088,7 @@
     "name": "UNIT 2, 3 CORONATION AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000024284557",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415680862"
    }
   },
@@ -41088,7 +41105,7 @@
     "name": "UNIT 3, 3 CORONATION AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000024204822",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415680863"
    }
   },
@@ -41190,7 +41207,7 @@
     "name": "UNIT 3, 12 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000077509401",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415684621"
    }
   },
@@ -41207,7 +41224,7 @@
     "name": "UNIT 4, 12 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000077601180",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415684622"
    }
   },
@@ -41224,7 +41241,7 @@
     "name": "UNIT 5, 12 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000077851627",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415684623"
    }
   },
@@ -41241,7 +41258,7 @@
     "name": "UNIT 6, 12 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000078125090",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415684624"
    }
   },
@@ -41258,7 +41275,7 @@
     "name": "UNIT 1, 49 ALEXANDER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000093520394",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415685378"
    }
   },
@@ -41275,7 +41292,7 @@
     "name": "UNIT 2, 49 ALEXANDER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000093165667",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415685379"
    }
   },
@@ -44556,7 +44573,7 @@
     "name": "UNIT 2, 4 JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096755502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415913150"
    }
   },
@@ -44607,7 +44624,7 @@
     "name": "UNIT 1, 4 JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096529749",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415913157"
    }
   },
@@ -46817,7 +46834,7 @@
     "name": "UNIT 4, 68 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000014190031",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415914838"
    }
   },
@@ -49350,7 +49367,7 @@
     "name": "UNIT 2, 74 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000092214932",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415917879"
    }
   },
@@ -49911,7 +49928,7 @@
     "name": "2B JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096755502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415919462"
    }
   },
@@ -51033,7 +51050,7 @@
     "name": "UNIT 1, 74 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000091922555",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415923034"
    }
   },
@@ -51151,8 +51168,8 @@
    "properties": {
     "name": "1 PARK STREET CAMPBELLTOWN 5074",
     "locID": "LOC000092282940",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415923781"
    }
   },
@@ -52495,7 +52512,7 @@
     "name": "19 DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000010770616",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416712195"
    }
   },
@@ -52869,7 +52886,7 @@
     "name": "36E HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782501",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416715368"
    }
   },
@@ -52886,7 +52903,7 @@
     "name": "36 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416715371"
    }
   },
@@ -53957,7 +53974,7 @@
     "name": "6 ROMA GROVE CAMPBELLTOWN 5074",
     "locID": "LOC000083462585",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416726685"
    }
   },
@@ -55011,7 +55028,7 @@
     "name": "UNIT 6, 3 CORONATION AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000024199647",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416735341"
    }
   },
@@ -55266,7 +55283,7 @@
     "name": "36B HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416739815"
    }
   },
@@ -55470,7 +55487,7 @@
     "name": "UNIT 1, 68 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000014194155",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_421968464"
    }
   },
@@ -55487,7 +55504,7 @@
     "name": "UNIT 2, 68 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000014239486",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_421968465"
    }
   },
@@ -56082,7 +56099,7 @@
     "name": "UNIT 5, 68 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000014237086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_421975871"
    }
   },
@@ -56115,8 +56132,8 @@
    "properties": {
     "name": "52B HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000085869658",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_421976021"
    }
   },
@@ -56167,7 +56184,7 @@
     "name": "UNIT 3, 68 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000014221599",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_421976030"
    }
   },
@@ -56422,7 +56439,7 @@
     "name": "3 CORONATION AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000024204822",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422040999"
    }
   },
@@ -56490,7 +56507,7 @@
     "name": "31 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000048383121",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422041139"
    }
   },
@@ -56541,7 +56558,7 @@
     "name": "12 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000077601180",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422046020"
    }
   },
@@ -56575,7 +56592,7 @@
     "name": "7 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000057549506",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422048420"
    }
   },
@@ -57034,7 +57051,7 @@
     "name": "18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422053087"
    }
   },
@@ -58802,7 +58819,7 @@
     "name": "UNIT 10, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617034"
    }
   },
@@ -58819,7 +58836,7 @@
     "name": "UNIT 11, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617035"
    }
   },
@@ -58836,7 +58853,7 @@
     "name": "UNIT 12, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617036"
    }
   },
@@ -58853,7 +58870,7 @@
     "name": "UNIT 13, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617037"
    }
   },
@@ -58870,7 +58887,7 @@
     "name": "UNIT 14, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617038"
    }
   },
@@ -58887,7 +58904,7 @@
     "name": "UNIT 15, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617039"
    }
   },
@@ -58904,7 +58921,7 @@
     "name": "UNIT 16, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617040"
    }
   },
@@ -58921,7 +58938,7 @@
     "name": "UNIT 17, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617041"
    }
   },
@@ -58938,7 +58955,7 @@
     "name": "UNIT 18, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617042"
    }
   },
@@ -58955,7 +58972,7 @@
     "name": "UNIT 19, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617043"
    }
   },
@@ -58972,7 +58989,7 @@
     "name": "UNIT 1, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617044"
    }
   },
@@ -58989,7 +59006,7 @@
     "name": "UNIT 20, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617045"
    }
   },
@@ -59006,7 +59023,7 @@
     "name": "UNIT 2, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617046"
    }
   },
@@ -59023,7 +59040,7 @@
     "name": "UNIT 3, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617047"
    }
   },
@@ -59040,7 +59057,7 @@
     "name": "UNIT 4, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617048"
    }
   },
@@ -59057,7 +59074,7 @@
     "name": "UNIT 5, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617049"
    }
   },
@@ -59074,7 +59091,7 @@
     "name": "UNIT 6, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617050"
    }
   },
@@ -59091,7 +59108,7 @@
     "name": "UNIT 7, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617051"
    }
   },
@@ -59108,7 +59125,7 @@
     "name": "UNIT 8, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617052"
    }
   },
@@ -59125,7 +59142,7 @@
     "name": "UNIT 9, 18 ALAN AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000172833391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423617053"
    }
   },
@@ -60723,7 +60740,7 @@
     "name": "49 ALEXANDER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000093165667",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423862527"
    }
   },
@@ -60859,7 +60876,7 @@
     "name": "4 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000026668201",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423864623"
    }
   },
@@ -60876,7 +60893,7 @@
     "name": "6 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000082618548",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423864624"
    }
   },
@@ -61131,7 +61148,7 @@
     "name": "74 NEWTON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000092214932",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_423868602"
    }
   },
@@ -65398,7 +65415,7 @@
     "name": "SHOP 2, 623 LOWER NORTH EAST ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000063625753",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424346792"
    }
   },
@@ -65857,7 +65874,7 @@
     "name": "4-6 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000082618548",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424413603"
    }
   },
@@ -70090,7 +70107,7 @@
     "name": "LOT 3 DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000010770616",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425062692"
    }
   },
@@ -70583,7 +70600,7 @@
     "name": "SHOP 6, 36 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425195208"
    }
   },
@@ -73609,7 +73626,7 @@
     "name": "UNIT 2, 2B JANET STREET CAMPBELLTOWN 5074",
     "locID": "LOC000096755502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425582373"
    }
   },
@@ -76176,7 +76193,7 @@
     "name": "UNIT 6, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719046685"
    }
   },
@@ -76193,7 +76210,7 @@
     "name": "UNIT 1, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256312",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719046686"
    }
   },
@@ -76312,7 +76329,7 @@
     "name": "UNIT 2, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256320",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719047036"
    }
   },
@@ -76346,7 +76363,7 @@
     "name": "UNIT 7, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256377",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719047389"
    }
   },
@@ -76363,7 +76380,7 @@
     "name": "UNIT 8, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256383",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719047390"
    }
   },
@@ -76448,7 +76465,7 @@
     "name": "UNIT 4, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256349",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719047731"
    }
   },
@@ -76567,7 +76584,7 @@
     "name": "UNIT 10, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256312",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719048077"
    }
   },
@@ -76652,7 +76669,7 @@
     "name": "UNIT 5, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719048418"
    }
   },
@@ -76720,7 +76737,7 @@
     "name": "UNIT 3, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719048753"
    }
   },
@@ -76737,7 +76754,7 @@
     "name": "UNIT 9, 68 HANCOCK AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000165256396",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719048754"
    }
   },
@@ -76805,7 +76822,7 @@
     "name": "LOT 6 DOWNER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000082618548",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719185068"
    }
   },
@@ -77230,7 +77247,7 @@
     "name": "28B MEADOW AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000184763402",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719196061"
    }
   },
@@ -79933,7 +79950,7 @@
     "name": "7A PORCHESTER STREET CAMPBELLTOWN 5074",
     "locID": "LOC000179783154",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719494099"
    }
   },
@@ -80103,7 +80120,7 @@
     "name": "8D DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000179782367",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719495098"
    }
   },
@@ -80154,7 +80171,7 @@
     "name": "8C DENMEAD AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000179782351",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719495339"
    }
   },
@@ -80273,7 +80290,7 @@
     "name": "UNIT 3, 80 CRESDEE ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179781942",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719536118"
    }
   },
@@ -80307,7 +80324,7 @@
     "name": "UNIT 1, 80 CRESDEE ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179781926",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719536177"
    }
   },
@@ -80426,7 +80443,7 @@
     "name": "UNIT 2, 80 CRESDEE ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179781935",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719536297"
    }
   },
@@ -80800,7 +80817,7 @@
     "name": "UNIT 4, 80 CRESDEE ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179781957",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719536826"
    }
   },
@@ -80834,7 +80851,7 @@
     "name": "UNIT 3, 2 AUSTIN STREET CAMPBELLTOWN 5074",
     "locID": "LOC000179782314",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719549316"
    }
   },
@@ -80868,7 +80885,7 @@
     "name": "UNIT 2, 2 AUSTIN STREET CAMPBELLTOWN 5074",
     "locID": "LOC000179782071",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719549882"
    }
   },
@@ -80885,7 +80902,7 @@
     "name": "UNIT 1, 2 AUSTIN STREET CAMPBELLTOWN 5074",
     "locID": "LOC000076073754",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719549922"
    }
   },
@@ -81888,7 +81905,7 @@
     "name": "54B ALEXANDER AVENUE CAMPBELLTOWN 5074",
     "locID": "LOC000184607238",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719703254"
    }
   },
@@ -82296,7 +82313,7 @@
     "name": "SHOP 5, 36 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719772271"
    }
   },
@@ -82398,7 +82415,7 @@
     "name": "SHOP 1, 36 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719773081"
    }
   },
@@ -82585,7 +82602,7 @@
     "name": "SHOP 4, 36 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719777673"
    }
   },
@@ -82636,7 +82653,7 @@
     "name": "SHOP 3, 36 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719778022"
    }
   },
@@ -82704,7 +82721,7 @@
     "name": "SHOP 2, 36 HAMBLEDON ROAD CAMPBELLTOWN 5074",
     "locID": "LOC000179782419",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719778898"
    }
   },
@@ -85375,6 +85392,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720091398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67260287,
+     -34.8820582
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 ALBION TERRACE CAMPBELLTOWN 5074",
+    "locID": "LOC000020136133",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_720187024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67270965,
+     -34.88205248
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 ALBION TERRACE CAMPBELLTOWN 5074",
+    "locID": "LOC000165253648",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720187426"
    }
   },
   {
@@ -88459,8 +88510,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65968773,
-     -34.87397165
+     138.65975852,
+     -34.87401054
     ]
    },
    "properties": {
@@ -90839,8 +90890,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66919855,
-     -34.88447191
+     138.66919118,
+     -34.88662589
     ]
    },
    "properties": {
@@ -90873,8 +90924,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66919855,
-     -34.88447191
+     138.66919789,
+     -34.88671705
     ]
    },
    "properties": {
@@ -90890,8 +90941,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66919855,
-     -34.88447191
+     138.6692094,
+     -34.88689967
     ]
    },
    "properties": {
@@ -90924,8 +90975,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66919855,
-     -34.88447191
+     138.66920373,
+     -34.88680572
     ]
    },
    "properties": {
@@ -91519,8 +91570,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65762043,
-     -34.87310741
+     138.65757633,
+     -34.87310012
     ]
    },
    "properties": {
@@ -91638,8 +91689,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65762043,
-     -34.87310741
+     138.65749899,
+     -34.8732182
     ]
    },
    "properties": {
@@ -91655,8 +91706,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65762043,
-     -34.87310741
+     138.65753722,
+     -34.87315883
     ]
    },
    "properties": {
@@ -91672,8 +91723,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65762043,
-     -34.87310741
+     138.65762791,
+     -34.8730459
     ]
    },
    "properties": {
@@ -91723,8 +91774,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.65762043,
-     -34.87310741
+     138.65766951,
+     -34.87298342
     ]
    },
    "properties": {
@@ -91808,8 +91859,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.66199822,
-     -34.87776898
+     138.66168462,
+     -34.87788659
     ]
    },
    "properties": {
@@ -91961,8 +92012,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67262088,
-     -34.8838336
+     138.6727205,
+     -34.88371559
     ]
    },
    "properties": {
@@ -92029,8 +92080,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67262088,
-     -34.8838336
+     138.67285928,
+     -34.88370845
     ]
    },
    "properties": {
@@ -92080,8 +92131,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67230561,
-     -34.88383325
+     138.67250486,
+     -34.8837266
     ]
    },
    "properties": {
@@ -92097,8 +92148,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.67230561,
-     -34.88383325
+     138.67236569,
+     -34.88373389
     ]
    },
    "properties": {
@@ -92199,6 +92250,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.66937853,
+     -34.88430544
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 WYN STREET CAMPBELLTOWN 5074",
+    "locID": "LOC000185857935",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721072948"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.667649,
      -34.88540441
     ]
@@ -92216,6 +92284,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.66939774,
+     -34.88453721
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 WYN STREET CAMPBELLTOWN 5074",
+    "locID": "LOC000060075330",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721073986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.65697628,
      -34.87606471
     ]
@@ -92226,6 +92311,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721074918"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66938724,
+     -34.88442218
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 WYN STREET CAMPBELLTOWN 5074",
+    "locID": "LOC000193484283",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721075443"
    }
   },
   {
@@ -93365,6 +93467,244 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721267551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65655175,
+     -34.87142711
+    ]
+   },
+   "properties": {
+    "name": "LOT 60 VICTOR ROAD CAMPBELLTOWN 5074",
+    "locID": "Ei02MCBWaWN0b3IgUmQsIENhbXBiZWxsdG93biBTQSA1MDc0LCBBdXN0cmFsaWEiMBIuChQKEgm_FTGxDcqwahHRyQZJVDYDExA8KhQKEgnRctH1DMqwahFZPLCYOhEz-A",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275109"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65747518,
+     -34.88133742
+    ]
+   },
+   "properties": {
+    "name": "7B KALIMNA AVENUE CAMPBELLTOWN 5074",
+    "locID": "ChIJR7TvZhPKsGoRqaB8CQysvAs",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65756988,
+     -34.88137793
+    ]
+   },
+   "properties": {
+    "name": "7A KALIMNA AVENUE CAMPBELLTOWN 5074",
+    "locID": "ChIJA1AQZxPKsGoRiv0rXeB_2yc",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721275836"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66199822,
+     -34.87776898
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 ANN STREET CAMPBELLTOWN 5074",
+    "locID": "LOC000187451234",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721275971"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67034077,
+     -34.88193348
+    ]
+   },
+   "properties": {
+    "name": "6B ALBION TERRACE CAMPBELLTOWN 5074",
+    "locID": "ChIJxXBmyHrKsGoRGe19A-SBF18",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721282995"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66740388,
+     -34.8804437
+    ]
+   },
+   "properties": {
+    "name": "33A BRAEMORE TERRACE CAMPBELLTOWN 5074",
+    "locID": "ChIJNfkKPHDKsGoRP6sr4LJRK5c",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721283049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67034077,
+     -34.88193348
+    ]
+   },
+   "properties": {
+    "name": "6A ALBION TERRACE CAMPBELLTOWN 5074",
+    "locID": "ChIJxXBmyHrKsGoRngtd0xo5Pww",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721283060"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66740388,
+     -34.8804437
+    ]
+   },
+   "properties": {
+    "name": "33B BRAEMORE TERRACE CAMPBELLTOWN 5074",
+    "locID": "ChIJNfkKPHDKsGoRaFSFNooiDIk",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721283123"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.67114224,
+     -34.87721436
+    ]
+   },
+   "properties": {
+    "name": "UNIT 39, 98 NEWTON ROAD CAMPBELLTOWN 5074",
+    "locID": "LOC000042023676",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721283167"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66269788,
+     -34.8826438
+    ]
+   },
+   "properties": {
+    "name": "12C LENNOX STREET CAMPBELLTOWN 5074",
+    "locID": "ChIJ5e2JP2zKsGoRYYOmIR1yKTI",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304273"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65972524,
+     -34.8800844
+    ]
+   },
+   "properties": {
+    "name": "37 CHAPEL STREET CAMPBELLTOWN 5074",
+    "locID": "ChIJt1aAJm3KsGoRZOcjdRepr9w",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304290"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.65972524,
+     -34.8800844
+    ]
+   },
+   "properties": {
+    "name": "35 CHAPEL STREET CAMPBELLTOWN 5074",
+    "locID": "ChIJt1aAJm3KsGoR-DdEwnVmK2U",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304517"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66269788,
+     -34.8826438
+    ]
+   },
+   "properties": {
+    "name": "12B LENNOX STREET CAMPBELLTOWN 5074",
+    "locID": "ChIJ5e2JP2zKsGoRR24SikUomgw",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304616"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66269788,
+     -34.8826438
+    ]
+   },
+   "properties": {
+    "name": "12A LENNOX STREET CAMPBELLTOWN 5074",
+    "locID": "ChIJ5e2JP2zKsGoRAQwb2FyRlsY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304700"
    }
   }
  ]
