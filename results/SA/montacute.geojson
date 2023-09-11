@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-22T04:51:40.333036",
+ "generated": "2023-09-11T01:53:14.337380",
  "suburb": "MONTACUTE",
  "features": [
   {
@@ -390,7 +390,7 @@
     "name": "LOT 18 MONTACUTE ROAD MONTACUTE 5134",
     "locID": "LOC000095012644",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424192800"
    }
   },
@@ -747,7 +747,7 @@
     "name": "LOT 1 GORGE ROAD MONTACUTE 5134",
     "locID": "LOC000083203452",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424304446"
    }
   },
@@ -2966,6 +2966,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.75023248,
+     -34.88379255
+    ]
+   },
+   "properties": {
+    "name": "224 CORKSCREW ROAD MONTACUTE 5134",
+    "locID": "ChIJoT76GfJKt2oRgAw2cclvJsY",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424900685"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.76395647,
      -34.9010201
     ]
@@ -3537,6 +3554,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_721001632"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71791254,
+     -34.90179893
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 MOORES ROAD MONTACUTE 5134",
+    "locID": "LOC000114494989",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721276412"
    }
   }
  ]
