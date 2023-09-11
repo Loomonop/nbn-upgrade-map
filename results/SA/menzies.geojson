@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-22T03:48:01.732168",
+ "generated": "2023-09-11T00:51:44.116345",
  "suburb": "MENZIES",
  "features": [
   {
@@ -407,7 +407,7 @@
     "name": "LOT 269 GAP ROAD MENZIES 5223",
     "locID": "LOC000065576475",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424560718"
    }
   },
@@ -433,8 +433,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     137.48527662,
-     -35.68200164
+     137.49168498,
+     -35.68190631
     ]
    },
    "properties": {
@@ -1215,8 +1215,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     137.48991363,
-     -35.65448232
+     137.489914,
+     -35.654482
     ]
    },
    "properties": {
@@ -1395,6 +1395,40 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_720723480"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.50279796,
+     -35.66750231
+    ]
+   },
+   "properties": {
+    "name": "LOT 255 SPRINGS ROAD MENZIES 5223",
+    "locID": "EioyNTUgU3ByaW5ncyBSZCwgTWVuemllcyBTQSA1MjIzLCBBdXN0cmFsaWEiMRIvChQKEglrnKeo1nCyahH93qNpKK0_HxD_ASoUChIJoeW84_yHrWoRmxtLuUqBF6k",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274662"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.48174063,
+     -35.67917956
+    ]
+   },
+   "properties": {
+    "name": "LOT 892 GAP ROAD MENZIES 5223",
+    "locID": "EiY4OTIgR2FwIFJkLCBNZW56aWVzIFNBIDUyMjMsIEF1c3RyYWxpYSIxEi8KFAoSCZMtItaFd7JqESHTxyydHSkUEPwGKhQKEgn7BPm09HayahHEYJrQ_AeNcw",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721274995"
    }
   }
  ]
