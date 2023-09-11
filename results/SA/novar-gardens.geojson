@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-22T07:13:55.382490",
+ "generated": "2023-09-11T04:12:00.808958",
  "suburb": "NOVAR GARDENS",
  "features": [
   {
@@ -1069,8 +1069,8 @@
    "properties": {
     "name": "47 BARTLETT DRIVE NOVAR GARDENS 5040",
     "locID": "LOC000007552276",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414994099"
    }
   },
@@ -1443,8 +1443,8 @@
    "properties": {
     "name": "42 BARTLETT DRIVE NOVAR GARDENS 5040",
     "locID": "LOC000036167165",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415002302"
    }
   },
@@ -2259,8 +2259,8 @@
    "properties": {
     "name": "61 STANFORD AVENUE NOVAR GARDENS 5040",
     "locID": "LOC000096404622",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415174643"
    }
   },
@@ -19823,6 +19823,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721253799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53036752,
+     -34.97371612
+    ]
+   },
+   "properties": {
+    "name": "LOT 1571 SANDISON TERRACE NOVAR GARDENS 5040",
+    "locID": "LOC000005944928",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721276138"
    }
   }
  ]

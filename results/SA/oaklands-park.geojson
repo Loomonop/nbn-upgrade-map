@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-22T07:23:10.459343",
+ "generated": "2023-09-11T04:21:57.209167",
  "suburb": "OAKLANDS PARK",
  "features": [
   {
@@ -7937,8 +7937,8 @@
    "properties": {
     "name": "4 PEMBERTON STREET OAKLANDS PARK 5046",
     "locID": "LOC000060493827",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415172991"
    }
   },
@@ -39506,8 +39506,8 @@
    "properties": {
     "name": "4A PEMBERTON STREET OAKLANDS PARK 5046",
     "locID": "LOC000111992376",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424804928"
    }
   },
@@ -42311,8 +42311,8 @@
    "properties": {
     "name": "237-265 OAKLANDS ROAD OAKLANDS PARK 5046",
     "locID": "LOC000148473568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425446920"
    }
   },
@@ -48458,6 +48458,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.54884455,
+     -35.00649402
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 MASTERS AVENUE OAKLANDS PARK 5046",
+    "locID": "LOC000062540435",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721001554"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.54857679,
      -35.01361405
     ]
@@ -48492,6 +48509,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.54883746,
+     -35.00638002
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 MASTERS AVENUE OAKLANDS PARK 5046",
+    "locID": "LOC000008298486",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721003049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.54348188,
      -35.00367932
     ]
@@ -48519,6 +48553,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721003241"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.54882876,
+     -35.00626999
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 MASTERS AVENUE OAKLANDS PARK 5046",
+    "locID": "LOC000058515143",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721003440"
    }
   },
   {
@@ -49539,6 +49590,57 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721254255"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.549006,
+     -35.00621155
+    ]
+   },
+   "properties": {
+    "name": "3 VIVONNE WAY OAKLANDS PARK 5046",
+    "locID": "ChIJ6ddZ_4fasGoR14BxnmNeiLw",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304267"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.549006,
+     -35.00621155
+    ]
+   },
+   "properties": {
+    "name": "7 VIVONNE WAY OAKLANDS PARK 5046",
+    "locID": "ChIJ6ddZ_4fasGoRx49u5cRwUSk",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721304655"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.549006,
+     -35.00621155
+    ]
+   },
+   "properties": {
+    "name": "5 VIVONNE WAY OAKLANDS PARK 5046",
+    "locID": "LOC000060870902",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721304757"
    }
   }
  ]
