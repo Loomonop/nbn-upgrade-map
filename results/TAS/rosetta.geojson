@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-23T04:28:55.522969",
+ "generated": "2023-09-12T03:34:36.721708",
  "suburb": "ROSETTA",
  "features": [
   {
@@ -2837,8 +2837,8 @@
    "properties": {
     "name": "3 DOOLEYS AVENUE ROSETTA 7010",
     "locID": "LOC000091275927",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702227160"
    }
   },
@@ -2905,8 +2905,8 @@
    "properties": {
     "name": "15 DOOLEYS AVENUE ROSETTA 7010",
     "locID": "LOC000104511611",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GATAS702227164"
    }
   },
@@ -2984,7 +2984,7 @@
     "type": "Point",
     "coordinates": [
      147.24651409,
-     -42.82195924
+     -42.82195925
     ]
    },
    "properties": {
@@ -16872,23 +16872,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.24651409,
-     -42.82195924
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 13 CORDELIA COURT ROSETTA 7010",
-    "locID": "LOC000069901278",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702555561"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      147.23934439,
      -42.81755162
     ]
@@ -17239,23 +17222,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702559514"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     147.24651409,
-     -42.82195924
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 13 CORDELIA COURT ROSETTA 7010",
-    "locID": "LOC000069901278",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702559760"
    }
   },
   {
@@ -23383,8 +23349,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     147.24345137,
-     -42.81914825
+     147.24345138,
+     -42.81914826
     ]
    },
    "properties": {
@@ -24991,6 +24957,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS721209545"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.26193969,
+     -42.81803938
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 15 STRATHAVEN DRIVE ROSETTA 7010",
+    "locID": "LOC000145623869",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS721273660"
    }
   }
  ]
