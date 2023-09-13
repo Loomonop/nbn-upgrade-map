@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-23T19:18:40.558333",
+ "generated": "2023-09-13T06:37:56.585775",
  "suburb": "BUNINYONG",
  "features": [
   {
@@ -10827,7 +10827,7 @@
    "properties": {
     "name": "2-4 CORNISH STREET BUNINYONG 3357",
     "locID": "LOC000124424906",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421030937"
    }
@@ -23111,8 +23111,25 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.88184715,
-     -37.64578116
+     143.88195948,
+     -37.64580491
+    ]
+   },
+   "properties": {
+    "name": "502 PALMERSTON STREET BUNINYONG 3357",
+    "locID": "LOC000023560323",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424075243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.8817385,
+     -37.64575826
     ]
    },
    "properties": {
@@ -23546,23 +23563,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424268147"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     143.88184715,
-     -37.64578116
-    ]
-   },
-   "properties": {
-    "name": "502-504 PALMERSTON STREET BUNINYONG 3357",
-    "locID": "LOC000023560323",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424268492"
    }
   },
   {
@@ -30404,8 +30404,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.93467822,
-     -37.6455583
+     143.93485853,
+     -37.64455173
     ]
    },
    "properties": {
@@ -30523,8 +30523,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     143.91685247,
-     -37.64134861
+     143.91771582,
+     -37.64123045
     ]
    },
    "properties": {
@@ -31298,6 +31298,91 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721218137"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.89241116,
+     -37.64556381
+    ]
+   },
+   "properties": {
+    "name": "106 RUSSELL STREET BUNINYONG 3357",
+    "locID": "ChIJtZIeQ4pa0WoRlmKwJBhFcyo",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721283789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.8921788,
+     -37.64551464
+    ]
+   },
+   "properties": {
+    "name": "108 RUSSELL STREET BUNINYONG 3357",
+    "locID": "LOC000187507454",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721288972"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.8922972,
+     -37.6455397
+    ]
+   },
+   "properties": {
+    "name": "109A ELIZABETH STREET BUNINYONG 3357",
+    "locID": "ChIJWV0qXYpa0WoR_qrk0wgoT1g",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.89041351,
+     -37.64636899
+    ]
+   },
+   "properties": {
+    "name": "200 BARKLY STREET BUNINYONG 3357",
+    "locID": "ChIJj0-kIWBa0WoRY2H_rQ0yuD8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.92024191,
+     -37.64289127
+    ]
+   },
+   "properties": {
+    "name": "43 WHITES ROAD BUNINYONG 3357",
+    "locID": "ChIJG9TxB5NR0WoRBe3xZNX6md4",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303637"
    }
   }
  ]
