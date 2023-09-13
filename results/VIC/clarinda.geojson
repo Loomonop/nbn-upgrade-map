@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-23T23:10:40.182993",
+ "generated": "2023-09-13T10:50:15.507636",
  "suburb": "CLARINDA",
  "features": [
   {
@@ -135,7 +135,7 @@
     "name": "UNIT 2, 21 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000030196002",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411108429"
    }
   },
@@ -526,7 +526,7 @@
     "name": "UNIT 2, 46 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000060504826",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411115171"
    }
   },
@@ -560,7 +560,7 @@
     "name": "UNIT 2, 12 ELDER STREET CLARINDA 3169",
     "locID": "LOC000174395270",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411115179"
    }
   },
@@ -594,7 +594,7 @@
     "name": "UNIT 1, 12 ELDER STREET CLARINDA 3169",
     "locID": "LOC000174395270",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411115182"
    }
   },
@@ -696,7 +696,7 @@
     "name": "UNIT 2, 34 THE PARADE CLARINDA 3169",
     "locID": "LOC000047698672",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411116069"
    }
   },
@@ -764,7 +764,7 @@
     "name": "UNIT 1, 40 MELALEUCA DRIVE CLARINDA 3169",
     "locID": "LOC000050972795",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411116142"
    }
   },
@@ -1019,7 +1019,7 @@
     "name": "UNIT 1, 18 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000042335877",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411119852"
    }
   },
@@ -1172,7 +1172,7 @@
     "name": "UNIT 2, 40 MELALEUCA DRIVE CLARINDA 3169",
     "locID": "LOC000050553197",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411121183"
    }
   },
@@ -2158,7 +2158,7 @@
     "name": "28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395431",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413740441"
    }
   },
@@ -2296,40 +2296,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC413760940"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.108704,
-     -37.928997
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 6 CORAL COURT CLARINDA 3169",
-    "locID": "LOC000095536598",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC413763435"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.108704,
-     -37.928997
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 6 CORAL COURT CLARINDA 3169",
-    "locID": "LOC000184904694",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC413763436"
    }
   },
   {
@@ -2498,7 +2464,7 @@
     "name": "UNIT 2, 39 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000074002761",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419621709"
    }
   },
@@ -4436,7 +4402,7 @@
     "name": "38 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000094925831",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419657566"
    }
   },
@@ -5660,7 +5626,7 @@
     "name": "44 SPRINGS ROAD CLARINDA 3169",
     "locID": "LOC000100464163",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419664565"
    }
   },
@@ -6611,8 +6577,8 @@
    "properties": {
     "name": "28 ELDER STREET CLARINDA 3169",
     "locID": "LOC000057644409",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC419674949"
    }
   },
@@ -6799,7 +6765,7 @@
     "name": "4 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397845",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419676661"
    }
   },
@@ -8125,7 +8091,7 @@
     "name": "UNIT 3, 39 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000074433660",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419926398"
    }
   },
@@ -9332,7 +9298,7 @@
     "name": "1172 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000100548874",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419951983"
    }
   },
@@ -10335,7 +10301,7 @@
     "name": "1 BOREE AVENUE CLARINDA 3169",
     "locID": "LOC000062532227",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419965530"
    }
   },
@@ -12749,7 +12715,7 @@
     "name": "42 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000017706499",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420008889"
    }
   },
@@ -12766,7 +12732,7 @@
     "name": "UNIT 2, 1176 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000066519641",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420019689"
    }
   },
@@ -12851,7 +12817,7 @@
     "name": "UNIT 2, 6 ELDER STREET CLARINDA 3169",
     "locID": "LOC000174395355",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420023442"
    }
   },
@@ -14092,7 +14058,7 @@
     "name": "24 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000039216141",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420254217"
    }
   },
@@ -15945,7 +15911,7 @@
     "name": "21 THE PARADE CLARINDA 3169",
     "locID": "LOC000074193958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420265319"
    }
   },
@@ -15996,7 +15962,7 @@
     "name": "20 ELDER STREET CLARINDA 3169",
     "locID": "LOC000174395301",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420265428"
    }
   },
@@ -16982,7 +16948,7 @@
     "name": "1240 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000107452467",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420272966"
    }
   },
@@ -17016,7 +16982,7 @@
     "name": "13 ELDER STREET CLARINDA 3169",
     "locID": "LOC000123826559",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273138"
    }
   },
@@ -17815,7 +17781,7 @@
     "name": "49 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420277857"
    }
   },
@@ -18444,7 +18410,7 @@
     "name": "UNIT 2, 38 ELDER STREET CLARINDA 3169",
     "locID": "LOC000039819515",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420308692"
    }
   },
@@ -19124,7 +19090,7 @@
     "name": "74 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000090900795",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420413614"
    }
   },
@@ -21759,7 +21725,7 @@
     "name": "4 SPRINGS ROAD CLARINDA 3169",
     "locID": "LOC100074637408",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420571243"
    }
   },
@@ -22422,7 +22388,7 @@
     "name": "1 MELALEUCA DRIVE CLARINDA 3169",
     "locID": "LOC000174397440",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420576486"
    }
   },
@@ -22541,7 +22507,7 @@
     "name": "12 ELDER STREET CLARINDA 3169",
     "locID": "LOC000174395270",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420576668"
    }
   },
@@ -23782,7 +23748,7 @@
     "name": "UNIT 2, 42 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000017741201",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420613191"
    }
   },
@@ -23901,7 +23867,7 @@
     "name": "UNIT 1, 11 WANDOO AVENUE CLARINDA 3169",
     "locID": "LOC000100174240",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420620194"
    }
   },
@@ -23986,7 +23952,7 @@
     "name": "UNIT 3, 1176 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000066519641",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420630262"
    }
   },
@@ -29392,7 +29358,7 @@
     "name": "1176 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000066519641",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420922999"
    }
   },
@@ -29409,7 +29375,7 @@
     "name": "UNIT 1, 1176 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000066519641",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420923000"
    }
   },
@@ -29511,7 +29477,7 @@
     "name": "UNIT 1, 3 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000101492402",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420924945"
    }
   },
@@ -29664,7 +29630,7 @@
     "name": "UNIT 1, 19 THE PARADE CLARINDA 3169",
     "locID": "LOC000038632429",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420935741"
    }
   },
@@ -29885,7 +29851,7 @@
     "name": "UNIT 1, 9 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000073686914",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421005923"
    }
   },
@@ -29902,7 +29868,7 @@
     "name": "UNIT 2, 18 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000042685975",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421005925"
    }
   },
@@ -30004,7 +29970,7 @@
     "name": "UNIT 2, 34 WANDOO AVENUE CLARINDA 3169",
     "locID": "LOC000078891909",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421019157"
    }
   },
@@ -30021,7 +29987,7 @@
     "name": "739-743 CLAYTON ROAD CLARINDA 3169",
     "locID": "LOC000123831087",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421096027"
    }
   },
@@ -30565,7 +30531,7 @@
     "name": "UNIT 1, 21 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000030216764",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421140647"
    }
   },
@@ -31322,8 +31288,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.100858,
-     -37.931024
+     145.10086208,
+     -37.93106305
     ]
    },
    "properties": {
@@ -31662,8 +31628,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.1053708,
-     -37.9476419
+     145.10532601,
+     -37.94752326
     ]
    },
    "properties": {
@@ -31866,8 +31832,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.10078,
-     -37.931428
+     145.10080132,
+     -37.93138737
     ]
    },
    "properties": {
@@ -33455,7 +33421,7 @@
     "name": "24 ELDER STREET CLARINDA 3169",
     "locID": "LOC000123834862",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421182549"
    }
   },
@@ -33607,8 +33573,8 @@
    "properties": {
     "name": "12 WANDOO AVENUE CLARINDA 3169",
     "locID": "LOC000070023935",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421183763"
    }
   },
@@ -34033,7 +33999,7 @@
     "name": "34 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000174394964",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421189589"
    }
   },
@@ -34917,7 +34883,7 @@
     "name": "3 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000101647350",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421224921"
    }
   },
@@ -34934,7 +34900,7 @@
     "name": "UNIT 2, 3 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000101652169",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421224922"
    }
   },
@@ -35053,7 +35019,7 @@
     "name": "UNIT 4, 1176 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000066518994",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421227504"
    }
   },
@@ -35359,7 +35325,7 @@
     "name": "40 MELALEUCA DRIVE CLARINDA 3169",
     "locID": "LOC000050972795",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421271933"
    }
   },
@@ -35376,7 +35342,7 @@
     "name": "30 WANDOO AVENUE CLARINDA 3169",
     "locID": "LOC000050938373",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421287106"
    }
   },
@@ -35495,7 +35461,7 @@
     "name": "UNIT 1, 54 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000051342410",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421317409"
    }
   },
@@ -35512,7 +35478,7 @@
     "name": "UNIT 2, 54 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000051953153",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421317410"
    }
   },
@@ -38164,7 +38130,7 @@
     "name": "UNIT 1, 20 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000024267553",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421459244"
    }
   },
@@ -40663,7 +40629,7 @@
     "name": "19 THE PARADE CLARINDA 3169",
     "locID": "LOC000038632429",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421526565"
    }
   },
@@ -40680,7 +40646,7 @@
     "name": "UNIT 2, 19 THE PARADE CLARINDA 3169",
     "locID": "LOC000038495452",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421526566"
    }
   },
@@ -40833,7 +40799,7 @@
     "name": "UNIT 1, 42 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000017706499",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421533569"
    }
   },
@@ -41190,7 +41156,7 @@
     "name": "23 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397809",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421719698"
    }
   },
@@ -41258,7 +41224,7 @@
     "name": "UNIT 2, 20 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000024197053",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421724308"
    }
   },
@@ -41802,7 +41768,7 @@
     "name": "UNIT 1, 39 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000074631857",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421744404"
    }
   },
@@ -43332,7 +43298,7 @@
     "name": "14 BOTANY COURT CLARINDA 3169",
     "locID": "LOC000080204284",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421774611"
    }
   },
@@ -44743,7 +44709,7 @@
     "name": "9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023860373",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421811654"
    }
   },
@@ -45304,7 +45270,7 @@
     "name": "46 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000060504826",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421821353"
    }
   },
@@ -45491,7 +45457,7 @@
     "name": "37 RALEIGH STREET CLARINDA 3169",
     "locID": "LOC000035564880",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421823260"
    }
   },
@@ -45933,7 +45899,7 @@
     "name": "11 WANDOO AVENUE CLARINDA 3169",
     "locID": "LOC000100174240",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421872386"
    }
   },
@@ -45950,7 +45916,7 @@
     "name": "UNIT 2, 11 WANDOO AVENUE CLARINDA 3169",
     "locID": "LOC000100312147",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421872387"
    }
   },
@@ -46035,7 +46001,7 @@
     "name": "316-332 KINGSTON ROAD CLARINDA 3169",
     "locID": "LOC000123814512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421926107"
    }
   },
@@ -46103,7 +46069,7 @@
     "name": "18 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000042335877",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421930573"
    }
   },
@@ -46239,7 +46205,7 @@
     "name": "21 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000030196002",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422022246"
    }
   },
@@ -46324,7 +46290,7 @@
     "name": "54 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000051953153",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422086190"
    }
   },
@@ -46443,7 +46409,7 @@
     "name": "20 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000024267553",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422090271"
    }
   },
@@ -46460,7 +46426,7 @@
     "name": "39 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000074631857",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422090272"
    }
   },
@@ -46868,7 +46834,7 @@
     "name": "UNIT 1, 1 BOREE AVENUE CLARINDA 3169",
     "locID": "LOC000062532227",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422278622"
    }
   },
@@ -46885,7 +46851,7 @@
     "name": "UNIT 2, 1 BOREE AVENUE CLARINDA 3169",
     "locID": "LOC000062437073",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422278623"
    }
   },
@@ -46902,7 +46868,7 @@
     "name": "UNIT 1, 20 ELDER STREET CLARINDA 3169",
     "locID": "LOC000174395301",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422289256"
    }
   },
@@ -46919,7 +46885,7 @@
     "name": "UNIT 2, 20 ELDER STREET CLARINDA 3169",
     "locID": "LOC000174395317",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422289257"
    }
   },
@@ -47123,7 +47089,7 @@
     "name": "UNIT 1, 1172 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000100548874",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423135833"
    }
   },
@@ -47140,7 +47106,7 @@
     "name": "UNIT 2, 1172 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000100871144",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423135836"
    }
   },
@@ -47174,7 +47140,7 @@
     "name": "UNIT 3, 3 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000101647350",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423144752"
    }
   },
@@ -47259,7 +47225,7 @@
     "name": "UNIT 1, 74 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000090896629",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423381040"
    }
   },
@@ -47276,7 +47242,7 @@
     "name": "UNIT 2, 74 CLARINDA ROAD CLARINDA 3169",
     "locID": "LOC000090900795",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423381041"
    }
   },
@@ -47327,7 +47293,7 @@
     "name": "UNIT 1, 38 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000094925831",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423437220"
    }
   },
@@ -47344,7 +47310,7 @@
     "name": "UNIT 2, 38 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000095071779",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423437222"
    }
   },
@@ -47463,7 +47429,7 @@
     "name": "2 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000030196002",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423718256"
    }
   },
@@ -47837,7 +47803,7 @@
     "name": "UNIT 1, 14 BOTANY COURT CLARINDA 3169",
     "locID": "LOC000080204284",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423918665"
    }
   },
@@ -47888,7 +47854,7 @@
     "name": "UNIT 1, 24 ELDER STREET CLARINDA 3169",
     "locID": "LOC000123834862",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424025340"
    }
   },
@@ -47905,7 +47871,7 @@
     "name": "UNIT 2, 24 ELDER STREET CLARINDA 3169",
     "locID": "LOC000123834870",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424025341"
    }
   },
@@ -48364,7 +48330,7 @@
     "name": "UNIT 1, 44 SPRINGS ROAD CLARINDA 3169",
     "locID": "LOC000100139007",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424088937"
    }
   },
@@ -48381,7 +48347,7 @@
     "name": "UNIT 2, 44 SPRINGS ROAD CLARINDA 3169",
     "locID": "LOC000100464163",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424088938"
    }
   },
@@ -48670,7 +48636,7 @@
     "name": "UNIT 1, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023860373",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240302"
    }
   },
@@ -48687,7 +48653,7 @@
     "name": "UNIT 2, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023513512",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240303"
    }
   },
@@ -48704,7 +48670,7 @@
     "name": "UNIT 3, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023860373",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240304"
    }
   },
@@ -48721,7 +48687,7 @@
     "name": "UNIT 4, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023771664",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240305"
    }
   },
@@ -48738,7 +48704,7 @@
     "name": "UNIT 5, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023451325",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240306"
    }
   },
@@ -48755,7 +48721,7 @@
     "name": "UNIT 6, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023515369",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240307"
    }
   },
@@ -48772,7 +48738,7 @@
     "name": "UNIT 7, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023397623",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240308"
    }
   },
@@ -48789,7 +48755,7 @@
     "name": "UNIT 8, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023853869",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240309"
    }
   },
@@ -48806,7 +48772,7 @@
     "name": "UNIT 9, 9-11 INVERNESS STREET CLARINDA 3169",
     "locID": "LOC000023860373",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240310"
    }
   },
@@ -48908,7 +48874,7 @@
     "name": "UNIT 3, 44 SPRINGS ROAD CLARINDA 3169",
     "locID": "LOC000100464163",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424258293"
    }
   },
@@ -49282,7 +49248,7 @@
     "name": "UNIT 2, 21 THE PARADE CLARINDA 3169",
     "locID": "LOC000074193958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424546764"
    }
   },
@@ -49333,7 +49299,7 @@
     "name": "UNIT 2, 10 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000010662750",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424576411"
    }
   },
@@ -49384,7 +49350,7 @@
     "name": "UNIT 2, 24 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000039216141",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424593224"
    }
   },
@@ -49486,7 +49452,7 @@
     "name": "UNIT 1, 1240 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000107452467",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424613261"
    }
   },
@@ -49503,7 +49469,7 @@
     "name": "UNIT 2, 1240 CENTRE ROAD CLARINDA 3169",
     "locID": "LOC000107633735",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424613262"
    }
   },
@@ -49741,7 +49707,7 @@
     "name": "UNIT 1, 37 RALEIGH STREET CLARINDA 3169",
     "locID": "LOC000035564880",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424628737"
    }
   },
@@ -49758,7 +49724,7 @@
     "name": "UNIT 2, 37 RALEIGH STREET CLARINDA 3169",
     "locID": "LOC000035347401",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424628738"
    }
   },
@@ -49877,7 +49843,7 @@
     "name": "UNIT 1, 13 ELDER STREET CLARINDA 3169",
     "locID": "LOC000123826559",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424715258"
    }
   },
@@ -49894,7 +49860,7 @@
     "name": "UNIT 2, 13 ELDER STREET CLARINDA 3169",
     "locID": "LOC000123826559",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424715259"
    }
   },
@@ -50064,7 +50030,7 @@
     "name": "UNIT 2, 34 ARUNTA CRESCENT CLARINDA 3169",
     "locID": "LOC000114945780",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424778562"
    }
   },
@@ -50132,7 +50098,7 @@
     "name": "UNIT 2, 22 THE PARADE CLARINDA 3169",
     "locID": "LOC000115761490",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424891023"
    }
   },
@@ -50216,8 +50182,8 @@
    "properties": {
     "name": "1B THE PARADE CLARINDA 3169",
     "locID": "LOC000123806019",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC424918759"
    }
   },
@@ -50659,7 +50625,7 @@
     "name": "UNIT 1, 49 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395477",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425400519"
    }
   },
@@ -50676,7 +50642,7 @@
     "name": "UNIT 2, 49 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425400520"
    }
   },
@@ -50693,7 +50659,7 @@
     "name": "UNIT 3, 49 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395496",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425400521"
    }
   },
@@ -50710,7 +50676,7 @@
     "name": "UNIT 4, 49 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395505",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425400522"
    }
   },
@@ -50846,7 +50812,7 @@
     "name": "UNIT 1, 4 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397845",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425423483"
    }
   },
@@ -50863,7 +50829,7 @@
     "name": "UNIT 2, 10 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397775",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425423484"
    }
   },
@@ -50880,7 +50846,7 @@
     "name": "UNIT 2, 4 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397845",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425423485"
    }
   },
@@ -50914,7 +50880,7 @@
     "name": "UNIT 1, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395386",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494706"
    }
   },
@@ -50931,7 +50897,7 @@
     "name": "UNIT 2, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395393",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494707"
    }
   },
@@ -50948,7 +50914,7 @@
     "name": "UNIT 3, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395408",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494708"
    }
   },
@@ -50965,7 +50931,7 @@
     "name": "UNIT 4, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494709"
    }
   },
@@ -50982,7 +50948,7 @@
     "name": "UNIT 5, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494710"
    }
   },
@@ -50999,7 +50965,7 @@
     "name": "UNIT 6, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395431",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494711"
    }
   },
@@ -51033,7 +50999,7 @@
     "name": "UNIT 8, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395454",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494713"
    }
   },
@@ -51050,7 +51016,7 @@
     "name": "UNIT 9, 28 EULINGA ROAD CLARINDA 3169",
     "locID": "LOC000174395465",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494714"
    }
   },
@@ -51152,7 +51118,7 @@
     "name": "UNIT 1, 1 MELALEUCA DRIVE CLARINDA 3169",
     "locID": "LOC000174397440",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425538480"
    }
   },
@@ -51169,7 +51135,7 @@
     "name": "UNIT 2, 1 MELALEUCA DRIVE CLARINDA 3169",
     "locID": "LOC000174397455",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425538481"
    }
   },
@@ -51186,7 +51152,7 @@
     "name": "UNIT 3, 1 MELALEUCA DRIVE CLARINDA 3169",
     "locID": "LOC000174397440",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425538482"
    }
   },
@@ -51424,7 +51390,7 @@
     "name": "UNIT 1, 34 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000174394940",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719105383"
    }
   },
@@ -51441,7 +51407,7 @@
     "name": "UNIT 4, 34 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000174395178",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719107298"
    }
   },
@@ -51458,7 +51424,7 @@
     "name": "UNIT 3, 34 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000174394964",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719114235"
    }
   },
@@ -51475,7 +51441,7 @@
     "name": "UNIT 2, 34 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC000174394955",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719114346"
    }
   },
@@ -51492,7 +51458,7 @@
     "name": "UNIT 1, 18 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC100069257983",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719212978"
    }
   },
@@ -51509,7 +51475,7 @@
     "name": "UNIT 2, 18 CRAWFORD ROAD CLARINDA 3169",
     "locID": "LOC100069257983",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719223648"
    }
   },
@@ -51526,7 +51492,7 @@
     "name": "UNIT 2, 4 SPRINGS ROAD CLARINDA 3169",
     "locID": "LOC100074637408",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719309454"
    }
   },
@@ -51560,7 +51526,7 @@
     "name": "36 WANDOO AVENUE CLARINDA 3169",
     "locID": "LOC100069257814",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719317358"
    }
   },
@@ -51577,7 +51543,7 @@
     "name": "UNIT 1, 4 SPRINGS ROAD CLARINDA 3169",
     "locID": "LOC000061165919",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719319992"
    }
   },
@@ -51781,7 +51747,7 @@
     "name": "UNIT 3, 23 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397809",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719751749"
    }
   },
@@ -51798,7 +51764,7 @@
     "name": "UNIT 4, 23 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397809",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719751795"
    }
   },
@@ -51849,7 +51815,7 @@
     "name": "UNIT 5, 23 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397821",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719756592"
    }
   },
@@ -51866,7 +51832,7 @@
     "name": "UNIT 1, 23 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397781",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719760441"
    }
   },
@@ -51883,7 +51849,7 @@
     "name": "UNIT 2, 23 THE PARADE CLARINDA 3169",
     "locID": "LOC000174397809",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719761184"
    }
   },
