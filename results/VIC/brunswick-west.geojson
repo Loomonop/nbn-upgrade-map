@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-23T18:17:00.876409",
+ "generated": "2023-09-13T05:31:03.187912",
  "suburb": "BRUNSWICK WEST",
  "features": [
   {
@@ -696,7 +696,7 @@
     "name": "UNIT 3, 10 COOPER STREET BRUNSWICK WEST 3055",
     "locID": "LOC000022665729",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410987566"
    }
   },
@@ -1198,6 +1198,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.943383,
+     -37.761059
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 7 CUMMING STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000057394529",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC410991328"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.94404347,
      -37.75379481
     ]
@@ -1419,8 +1436,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93602158,
-     -37.75576163
+     144.93602159,
+     -37.75576164
     ]
    },
    "properties": {
@@ -1436,8 +1453,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93602158,
-     -37.75576163
+     144.93602159,
+     -37.75576164
     ]
    },
    "properties": {
@@ -1980,23 +1997,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.948886,
-     -37.767054
-    ]
-   },
-   "properties": {
-    "name": "33 PEARSON STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000123034301",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC410995826"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.949064,
      -37.768143
     ]
@@ -2209,7 +2209,7 @@
     "name": "UNIT 2, 11 MATTINGLEY CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000013570656",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410996781"
    }
   },
@@ -2320,8 +2320,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -2354,8 +2354,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -4912,7 +4912,7 @@
     "name": "UNIT 5, 388 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000048689087",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411006573"
    }
   },
@@ -5031,7 +5031,7 @@
     "name": "UNIT 1, 390 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000035305136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC411006718"
    }
   },
@@ -5261,23 +5261,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94029935,
-     -37.76151569
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 302 HOPE STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000092934941",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC413029166"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.9409407,
      -37.75907055
     ]
@@ -5397,23 +5380,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94824524,
-     -37.75371485
-    ]
-   },
-   "properties": {
-    "name": "382-386 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000102316138",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC413031637"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.93975806,
      -37.77475899
     ]
@@ -5492,40 +5458,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC413033984"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.948886,
-     -37.767054
-    ]
-   },
-   "properties": {
-    "name": "31 PEARSON STREET BRUNSWICK WEST 3055",
-    "locID": "ChIJhd-2uLlc1moRmtDe-g0lyDo",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC413034061"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94943095,
-     -37.7646547
-    ]
-   },
-   "properties": {
-    "name": "144 PEARSON STREET BRUNSWICK WEST 3055",
-    "locID": "EjIxNDQgUGVhcnNvbiBTdCwgQnJ1bnN3aWNrIFdlc3QgVklDIDMwNTUsIEF1c3RyYWxpYSIxEi8KFAoSCWXDiomvXNZqERrOl1Z96Q9VEJABKhQKEgmNw0NtulzWahH7p2qNITY5yw",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC413034084"
    }
   },
   {
@@ -5788,23 +5720,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94560879,
-     -37.75383112
-    ]
-   },
-   "properties": {
-    "name": "229 MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000113033456",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC413035294"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.94351424,
      -37.76511353
     ]
@@ -5968,23 +5883,6 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC413037585"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.945258,
-     -37.764855
-    ]
-   },
-   "properties": {
-    "name": "509 VICTORIA STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000173620406",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC413037608"
    }
   },
   {
@@ -6221,7 +6119,7 @@
     "name": "388 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000048597143",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413038787"
    }
   },
@@ -6281,23 +6179,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94492706,
-     -37.75946405
-    ]
-   },
-   "properties": {
-    "name": "140A MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "ChIJeb7qq6Rc1moRo9I60viNgrc",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC413038951"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.94455706,
      -37.75948096
     ]
@@ -6342,40 +6223,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC413038960"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.945278,
-     -37.757574
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 178 MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000032596436",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC413038964"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94348755,
-     -37.76525725
-    ]
-   },
-   "properties": {
-    "name": "39B MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "ChIJ-ccMwb5c1moRelfeeh2HXf0",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC413038965"
    }
   },
   {
@@ -6461,23 +6308,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC413039457"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94122309,
-     -37.75292249
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 476 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000086327164",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC413039747"
    }
   },
   {
@@ -6901,7 +6731,7 @@
     "name": "UNIT 3, 68 CORNWALL STREET BRUNSWICK WEST 3055",
     "locID": "LOC000098153303",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419609941"
    }
   },
@@ -6918,7 +6748,7 @@
     "name": "UNIT 4, 68 CORNWALL STREET BRUNSWICK WEST 3055",
     "locID": "LOC000098267229",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419610779"
    }
   },
@@ -6944,8 +6774,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93855999,
-     -37.75422123
+     144.93856,
+     -37.75422124
     ]
    },
    "properties": {
@@ -7471,8 +7301,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94950627,
-     -37.76308095
+     144.94950628,
+     -37.76308096
     ]
    },
    "properties": {
@@ -8491,8 +8321,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -8508,8 +8338,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -9273,8 +9103,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -9290,8 +9120,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -9307,8 +9137,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -9324,8 +9154,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -9341,8 +9171,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -9358,8 +9188,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -9375,8 +9205,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -9562,8 +9392,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -11007,8 +10837,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -11024,8 +10854,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -11857,8 +11687,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -20110,7 +19940,7 @@
     "name": "UNIT 1, 11 MATTINGLEY CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000013779965",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419806703"
    }
   },
@@ -21079,7 +20909,7 @@
     "name": "UNIT 2, 68 CORNWALL STREET BRUNSWICK WEST 3055",
     "locID": "LOC000097872358",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419908623"
    }
   },
@@ -23128,8 +22958,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9395941,
-     -37.75649811
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -25219,8 +25049,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -25236,8 +25066,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -25253,8 +25083,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -25805,7 +25635,7 @@
     "name": "UNIT 2, 388 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000048597143",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420024357"
    }
   },
@@ -28942,8 +28772,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938557,
-     -37.757619
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -28959,8 +28789,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938491,
-     -37.757518
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -28976,8 +28806,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938438,
-     -37.757391
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -30771,23 +30601,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420096178"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94348755,
-     -37.76525725
-    ]
-   },
-   "properties": {
-    "name": "39A MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000015138890",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420096179"
    }
   },
   {
@@ -33787,23 +33600,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94455706,
-     -37.75948096
-    ]
-   },
-   "properties": {
-    "name": "125A MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000032688400",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420105041"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.945107,
      -37.763338
     ]
@@ -35589,7 +35385,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93574044,
+     144.93574045,
      -37.75747061
     ]
    },
@@ -37051,8 +36847,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -37068,8 +36864,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -38717,8 +38513,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -38734,8 +38530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -38751,8 +38547,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -39473,7 +39269,7 @@
     "name": "UNIT 3, 388 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000048597143",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420313222"
    }
   },
@@ -40723,8 +40519,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -47540,8 +47336,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938611,
-     -37.757719
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -47608,8 +47404,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9507212,
-     -37.7547954
+     144.95072874,
+     -37.75476167
     ]
    },
    "properties": {
@@ -49138,8 +48934,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94950627,
-     -37.76308095
+     144.94950628,
+     -37.76308096
     ]
    },
    "properties": {
@@ -51127,8 +50923,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -51144,8 +50940,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -51161,8 +50957,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -51178,8 +50974,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -53226,7 +53022,7 @@
     "name": "UNIT 2, 10 COOPER STREET BRUNSWICK WEST 3055",
     "locID": "LOC000022665729",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420623466"
    }
   },
@@ -53252,8 +53048,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -56167,7 +55963,7 @@
     "name": "30 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000153807675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420694027"
    }
   },
@@ -58131,8 +57927,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94038423,
-     -37.75264822
+     144.9403854,
+     -37.75264836
     ]
    },
    "properties": {
@@ -60715,8 +60511,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938464,
-     -37.757266
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -61964,7 +61760,7 @@
     "name": "UNIT 1, 68 CORNWALL STREET BRUNSWICK WEST 3055",
     "locID": "LOC000098257308",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420808584"
    }
   },
@@ -62534,8 +62330,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -65254,8 +65050,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -65271,8 +65067,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -66622,7 +66418,7 @@
     "name": "10 COOPER STREET BRUNSWICK WEST 3055",
     "locID": "LOC000022665729",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420930002"
    }
   },
@@ -66852,8 +66648,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -66869,8 +66665,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -66886,8 +66682,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -73941,8 +73737,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938531,
-     -37.756915
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -74884,7 +74680,7 @@
     "name": "68 CORNWALL STREET BRUNSWICK WEST 3055",
     "locID": "LOC000097872358",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421117673"
    }
   },
@@ -75726,8 +75522,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94950627,
-     -37.76308095
+     144.94950628,
+     -37.76308096
     ]
    },
    "properties": {
@@ -75743,8 +75539,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94950627,
-     -37.76308095
+     144.94950628,
+     -37.76308096
     ]
    },
    "properties": {
@@ -77681,8 +77477,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -77910,7 +77706,7 @@
     "name": "UNIT 1, 388 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000048895279",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421210076"
    }
   },
@@ -79755,8 +79551,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -79772,8 +79568,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -79789,8 +79585,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -80273,7 +80069,7 @@
     "name": "UNIT 1, 10 COOPER STREET BRUNSWICK WEST 3055",
     "locID": "LOC000022665729",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421246721"
    }
   },
@@ -82186,8 +81982,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938523,
-     -37.756798
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -82349,23 +82145,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421294214"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93619,
-     -37.755784
-    ]
-   },
-   "properties": {
-    "name": "5 MCCOLL COURT BRUNSWICK WEST 3055",
-    "locID": "LOC000096448724",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421294224"
    }
   },
   {
@@ -87184,8 +86963,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.942929,
-     -37.773114
+     144.94263508,
+     -37.77304229
     ]
    },
    "properties": {
@@ -88161,7 +87940,7 @@
     "name": "24 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000122998766",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421326387"
    }
   },
@@ -89683,8 +89462,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -89734,8 +89513,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94366142,
-     -37.75865364
+     144.94366143,
+     -37.75865365
     ]
    },
    "properties": {
@@ -89997,7 +89776,7 @@
     "name": "UNIT 4, 388 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000048559767",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421494983"
    }
   },
@@ -90652,8 +90431,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -90669,8 +90448,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93602158,
-     -37.75576163
+     144.93602159,
+     -37.75576164
     ]
    },
    "properties": {
@@ -91349,8 +91128,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94950627,
-     -37.76308095
+     144.94950628,
+     -37.76308096
     ]
    },
    "properties": {
@@ -91502,8 +91281,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -91519,8 +91298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -91536,8 +91315,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -92505,8 +92284,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -92522,8 +92301,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -94808,7 +94587,7 @@
     "name": "390 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000035305136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421572187"
    }
   },
@@ -97265,8 +97044,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938479,
-     -37.757149
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -98217,8 +97996,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.948084,
-     -37.768158
+     144.94811657,
+     -37.76818524
     ]
    },
    "properties": {
@@ -98635,23 +98414,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421623651"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.95272504,
-     -37.75426259
-    ]
-   },
-   "properties": {
-    "name": "316 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000043487328",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC421623653"
    }
   },
   {
@@ -100808,8 +100570,8 @@
    "properties": {
     "name": "17 MATTINGLEY CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000075080013",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421638576"
    }
   },
@@ -102807,8 +102569,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -103062,8 +102824,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -103419,8 +103181,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -103436,8 +103198,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -103453,8 +103215,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94166298,
-     -37.77374159
+     144.94166224,
+     -37.7737378
     ]
    },
    "properties": {
@@ -108502,8 +108264,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -108519,8 +108281,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -108536,8 +108298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -108553,8 +108315,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93483366,
-     -37.75519279
+     144.93483202,
+     -37.75518933
     ]
    },
    "properties": {
@@ -115659,8 +115421,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.938505,
-     -37.757023
+     144.93854134,
+     -37.75682279
     ]
    },
    "properties": {
@@ -116279,7 +116041,7 @@
     "name": "15 PERRETT STREET BRUNSWICK WEST 3055",
     "locID": "LOC000177926281",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421941736"
    }
   },
@@ -116755,7 +116517,7 @@
     "name": "UNIT 2, 390 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000035328560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421999769"
    }
   },
@@ -116806,7 +116568,7 @@
     "name": "11 MATTINGLEY CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000013779965",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422022517"
    }
   },
@@ -118039,23 +117801,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94836158,
-     -37.77288061
-    ]
-   },
-   "properties": {
-    "name": "159 UNION STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000025078967",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC422117951"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.94867527,
      -37.77258667
     ]
@@ -118243,8 +117988,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -118338,6 +118083,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422180889"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94836158,
+     -37.77288061
+    ]
+   },
+   "properties": {
+    "name": "159-163 UNION STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000025078967",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC422330377"
    }
   },
   {
@@ -118610,23 +118372,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422445394"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94074918,
-     -37.76463704
-    ]
-   },
-   "properties": {
-    "name": "536B VICTORIA STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000077315746",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC422455145"
    }
   },
   {
@@ -118965,7 +118710,7 @@
     "name": "UNIT 3, 390 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000035305136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423106046"
    }
   },
@@ -119654,8 +119399,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -119732,108 +119477,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423542901"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93395085,
-     -37.75205188
-    ]
-   },
-   "properties": {
-    "name": "UNIT 25, 556 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC100026071062",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423561700"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93395085,
-     -37.75205188
-    ]
-   },
-   "properties": {
-    "name": "UNIT 26, 556 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC100026071062",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423561701"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93395085,
-     -37.75205188
-    ]
-   },
-   "properties": {
-    "name": "UNIT 27, 556 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC100026071062",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423561702"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93395085,
-     -37.75205188
-    ]
-   },
-   "properties": {
-    "name": "UNIT 28, 556 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC100026071062",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423561703"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93395085,
-     -37.75205188
-    ]
-   },
-   "properties": {
-    "name": "UNIT 29, 556 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC100026071062",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423561704"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93395085,
-     -37.75205188
-    ]
-   },
-   "properties": {
-    "name": "UNIT 30, 556 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000086450336",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423561705"
    }
   },
   {
@@ -120531,23 +120174,6 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423800905"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94966685,
-     -37.77270845
-    ]
-   },
-   "properties": {
-    "name": "180B UNION STREET BRUNSWICK WEST 3055",
-    "locID": "ChIJZ8fK0Mdc1moRLObIYH0YDCg",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC423800906"
    }
   },
   {
@@ -121534,40 +121160,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423940581"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94305886,
-     -37.77576593
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 921 PARK STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000019499190",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423941589"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94305886,
-     -37.77576593
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 921 PARK STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000019499190",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423941590"
    }
   },
   {
@@ -123683,6 +123275,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.949092,
+     -37.767815
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 36 PEARSON STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000079446702",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424458876"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.94382599,
      -37.76335132
     ]
@@ -123897,74 +123506,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424494913"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94561065,
-     -37.75631929
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 180 MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000022808080",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424499232"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94570765,
-     -37.75633184
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 180 MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000023036549",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424499233"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.945293,
-     -37.7574484
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 180 MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000022806971",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424499234"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.945293,
-     -37.7574484
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 180 MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000022806182",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424499235"
    }
   },
   {
@@ -124203,23 +123744,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424554994"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.93981564,
-     -37.75619593
-    ]
-   },
-   "properties": {
-    "name": "22C PEACOCK STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000041945114",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424555527"
    }
   },
   {
@@ -124720,8 +124244,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94417727,
-     -37.76500141
+     144.94417728,
+     -37.76500142
     ]
    },
    "properties": {
@@ -126930,8 +126454,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -126947,8 +126471,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.941475,
-     -37.758391
+     144.94147947,
+     -37.75838908
     ]
    },
    "properties": {
@@ -128179,7 +127703,7 @@
     "name": "UNIT 1, 24 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000122998766",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425019318"
    }
   },
@@ -128196,7 +127720,7 @@
     "name": "UNIT 2, 24 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000122998778",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425019319"
    }
   },
@@ -128213,7 +127737,7 @@
     "name": "UNIT 3, 24 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000122998784",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425019320"
    }
   },
@@ -128230,7 +127754,7 @@
     "name": "UNIT 4, 24 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000122998797",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425019321"
    }
   },
@@ -128247,7 +127771,7 @@
     "name": "UNIT 5, 24 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000122998807",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425019322"
    }
   },
@@ -129199,7 +128723,7 @@
     "name": "UNIT 1, 30 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000153807647",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425084954"
    }
   },
@@ -129216,7 +128740,7 @@
     "name": "UNIT 2, 30 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000153807652",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425084955"
    }
   },
@@ -129233,7 +128757,7 @@
     "name": "UNIT 3, 30 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000153807675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425084956"
    }
   },
@@ -129250,7 +128774,7 @@
     "name": "UNIT 4, 30 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000153807675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425084957"
    }
   },
@@ -129267,7 +128791,7 @@
     "name": "UNIT 5, 30 IRVINE CRESCENT BRUNSWICK WEST 3055",
     "locID": "LOC000153807681",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425084958"
    }
   },
@@ -131190,23 +130714,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425283037"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.9490224,
-     -37.76625494
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 49 PEARSON STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000104185161",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425283110"
    }
   },
   {
@@ -134563,23 +134070,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94864811,
-     -37.7753709
-    ]
-   },
-   "properties": {
-    "name": "UNIT 29A, 1 GRANTHAM STREET BRUNSWICK WEST 3055",
-    "locID": "LOC000009748107",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425703013"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.940136,
      -37.7626795
     ]
@@ -137327,23 +136817,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719042889"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94463363,
-     -37.75880563
-    ]
-   },
-   "properties": {
-    "name": "UNIT 25, 137 MELVILLE ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000080210094",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719049279"
    }
   },
   {
@@ -157547,8 +157020,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9507212,
-     -37.7547954
+     144.95072874,
+     -37.75476167
     ]
    },
    "properties": {
@@ -158737,8 +158210,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94663445,
-     -37.7655694
+     144.94671535,
+     -37.76560511
     ]
    },
    "properties": {
@@ -158788,8 +158261,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.94671534,
-     -37.76560511
+     144.94663446,
+     -37.76556941
     ]
    },
    "properties": {
@@ -158997,45 +158470,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 17, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721254580"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
     "name": "UNIT 12, 446 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000175037559",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721254581"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 18, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721254681"
    }
   },
   {
@@ -159065,130 +158504,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 26, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721254757"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 44, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721254874"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 22, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721254965"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 43, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721254966"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
     "name": "UNIT 9, 446 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000175037635",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721255006"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 28, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255040"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 38, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255149"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 54, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255269"
    }
   },
   {
@@ -159218,28 +158538,11 @@
     ]
    },
    "properties": {
-    "name": "OFFICE 1, 446 MORELAND ROAD BRUNSWICK WEST 3055",
+    "name": "UNIT 1, 446 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000175037559",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721255281"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 52, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255282"
    }
   },
   {
@@ -159257,74 +158560,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721255320"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 41, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255442"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 35, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255443"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 30, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175038111",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255535"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 48, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255581"
    }
   },
   {
@@ -159371,23 +158606,6 @@
     ]
    },
    "properties": {
-    "name": "UNIT 27, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255623"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
     "name": "UNIT 13, 446 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000175037559",
     "tech": "FTTP",
@@ -159405,96 +158623,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 45, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255632"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
     "name": "UNIT 10, 446 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000175037769",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721255663"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 23, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255742"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 32, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255743"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 42, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255812"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 49, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255842"
    }
   },
   {
@@ -159541,334 +158674,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 55, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255931"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 20, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037965",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256044"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 24, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256055"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 47, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256056"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 39, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256057"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 33, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256058"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 29, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256059"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 37, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256150"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 50, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256222"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 31, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256336"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 19, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256337"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 46, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256465"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 40, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256466"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 34, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256467"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 25, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256547"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
     "name": "UNIT 14, 446 MORELAND ROAD BRUNSWICK WEST 3055",
     "locID": "LOC000175037559",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721256548"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 53, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256549"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 51, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256550"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 21, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175038066",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256666"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.94395498,
-     -37.75323242
-    ]
-   },
-   "properties": {
-    "name": "UNIT 36, 446 MORELAND ROAD BRUNSWICK WEST 3055",
-    "locID": "LOC000175037559",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721256667"
    }
   },
   {
@@ -159937,6 +158747,193 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721271983"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94696058,
+     -37.76504792
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 467 VICTORIA STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000192912388",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721289128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94696058,
+     -37.76504792
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 467 VICTORIA STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000192912390",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721298677"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94696058,
+     -37.76504792
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 467 VICTORIA STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000192912388",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721299768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94696058,
+     -37.76504792
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 467 VICTORIA STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000192912326",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721301795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94696058,
+     -37.76504792
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 467 VICTORIA STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000192912335",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721302010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94696058,
+     -37.76504792
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 467 VICTORIA STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000192912388",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721303124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94693278,
+     -37.76704603
+    ]
+   },
+   "properties": {
+    "name": "UNIT 906, 288 ALBERT STREET BRUNSWICK WEST 3055",
+    "locID": "ChIJB3NmBLlc1moRETDq3H59NG0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721328457"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.943446,
+     -37.761011
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 5 CUMMING STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000057457342",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721328873"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.949092,
+     -37.767815
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 38 PEARSON STREET BRUNSWICK WEST 3055",
+    "locID": "LOC000079446702",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721329131"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94560879,
+     -37.75383112
+    ]
+   },
+   "properties": {
+    "name": "229-231A MELVILLE ROAD BRUNSWICK WEST 3055",
+    "locID": "LOC000113033456",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721333111"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94693278,
+     -37.76704603
+    ]
+   },
+   "properties": {
+    "name": "288 ALBERT STREET BRUNSWICK WEST 3055",
+    "locID": "ChIJB3NmBLlc1moRETDq3H59NG0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721341809"
    }
   }
  ]
