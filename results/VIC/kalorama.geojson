@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-24T17:55:32.759511",
+ "generated": "2023-09-14T04:37:25.109061",
  "suburb": "KALORAMA",
  "features": [
   {
@@ -1019,7 +1019,7 @@
     "name": "2 CHILDS ROAD KALORAMA 3766",
     "locID": "LOC000024815525",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC414543368"
    }
   },
@@ -3059,7 +3059,7 @@
     "name": "8A ERITH LANE KALORAMA 3766",
     "locID": "LOC000027063434",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420093714"
    }
   },
@@ -4963,7 +4963,7 @@
     "name": "33 FALLS ROAD KALORAMA 3766",
     "locID": "LOC000167714688",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420689757"
    }
   },
@@ -8516,7 +8516,7 @@
     "name": "8 ERITH LANE KALORAMA 3766",
     "locID": "LOC000026872169",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421951632"
    }
   },
@@ -11032,7 +11032,7 @@
     "name": "1190-1192 MOUNT DANDENONG TOURIST ROAD KALORAMA 3766",
     "locID": "LOC100063282792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423927616"
    }
   },
@@ -11270,7 +11270,7 @@
     "name": "UNIT 1, 1190-1192 MOUNT DANDENONG TOURIST ROAD KALORAMA 3766",
     "locID": "LOC000125113846",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424719498"
    }
   },
@@ -11287,7 +11287,7 @@
     "name": "UNIT 2, 1190-1192 MOUNT DANDENONG TOURIST ROAD KALORAMA 3766",
     "locID": "LOC100063282792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424719499"
    }
   },
@@ -11313,8 +11313,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.36799393,
-     -37.82009954
+     145.36796366,
+     -37.82008723
     ]
    },
    "properties": {
@@ -11680,6 +11680,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720293198"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.37652724,
+     -37.81284679
+    ]
+   },
+   "properties": {
+    "name": "9 WILLIAM STREET KALORAMA 3766",
+    "locID": "LOC000063784198",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721333982"
    }
   }
  ]
