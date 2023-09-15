@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-26T03:19:00.840928",
+ "generated": "2023-09-15T14:28:24.648760",
  "suburb": "WONGA PARK",
  "features": [
   {
@@ -457,8 +457,8 @@
    "properties": {
     "name": "19 GLENPARK DRIVE WONGA PARK 3115",
     "locID": "LOC000101599014",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC412619312"
    }
   },
@@ -858,23 +858,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.28601052,
-     -37.74890779
-    ]
-   },
-   "properties": {
-    "name": "50 BRUSHY PARK ROAD WONGA PARK 3115",
-    "locID": "LOC000030164290",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC412648301"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.28438207,
      -37.72725913
     ]
@@ -985,7 +968,7 @@
     "name": "3 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000037844932",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412657707"
    }
   },
@@ -1002,7 +985,7 @@
     "name": "172 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000167215025",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412659175"
    }
   },
@@ -1087,7 +1070,7 @@
     "name": "3 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000002038849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412671399"
    }
   },
@@ -1376,7 +1359,7 @@
     "name": "8 KENILWORTH AVENUE WONGA PARK 3115",
     "locID": "LOC000088592013",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412679982"
    }
   },
@@ -1599,40 +1582,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC413338868"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.272593,
-     -37.732367
-    ]
-   },
-   "properties": {
-    "name": "29 DUDLEY ROAD WONGA PARK 3115",
-    "locID": "ChIJCVDY_qAx1moRhepmKjQ-9u8",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC413343279"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.27281621,
-     -37.73488267
-    ]
-   },
-   "properties": {
-    "name": "8-10 DUDLEY ROAD WONGA PARK 3115",
-    "locID": "ChIJA-QQKqcx1moR0rTIdFV1EoA",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC413348439"
    }
   },
   {
@@ -1988,7 +1937,7 @@
     "name": "4 JAMIESON ROAD WONGA PARK 3115",
     "locID": "LOC000079381227",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419564238"
    }
   },
@@ -2022,7 +1971,7 @@
     "name": "8 JAMIESON ROAD WONGA PARK 3115",
     "locID": "LOC000096443530",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419564240"
    }
   },
@@ -2889,7 +2838,7 @@
     "name": "15 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000048377083",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419569674"
    }
   },
@@ -2906,7 +2855,7 @@
     "name": "28 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000084026540",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419569675"
    }
   },
@@ -3331,7 +3280,7 @@
     "name": "2 FREYNE STREET WONGA PARK 3115",
     "locID": "LOC000008892111",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419574985"
    }
   },
@@ -3399,7 +3348,7 @@
     "name": "6 DAWES ROAD WONGA PARK 3115",
     "locID": "LOC000014742083",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419575021"
    }
   },
@@ -3501,7 +3450,7 @@
     "name": "16 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000068055547",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419575289"
    }
   },
@@ -3518,7 +3467,7 @@
     "name": "15 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000045327475",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419575290"
    }
   },
@@ -3552,7 +3501,7 @@
     "name": "20 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000088465966",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419575292"
    }
   },
@@ -3654,7 +3603,7 @@
     "name": "178 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000037817739",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419575911"
    }
   },
@@ -4146,7 +4095,7 @@
    "properties": {
     "name": "UNIT 3, 4 LAUNDERS AVENUE WONGA PARK 3115",
     "locID": "LOC000190231017",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419716595"
    }
@@ -4163,7 +4112,7 @@
    "properties": {
     "name": "UNIT 5, 4 LAUNDERS AVENUE WONGA PARK 3115",
     "locID": "LOC000190231017",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419716597"
    }
@@ -4334,7 +4283,7 @@
     "name": "139-141 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000074753921",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419741548"
    }
   },
@@ -4742,7 +4691,7 @@
     "name": "135-137 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000065872305",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419865192"
    }
   },
@@ -5592,7 +5541,7 @@
     "name": "180 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000026212316",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419873101"
    }
   },
@@ -5745,7 +5694,7 @@
     "name": "20 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000044093104",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419874987"
    }
   },
@@ -6153,7 +6102,7 @@
     "name": "27 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000052917327",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419915857"
    }
   },
@@ -6305,7 +6254,7 @@
    "properties": {
     "name": "UNIT 4, 4 LAUNDERS AVENUE WONGA PARK 3115",
     "locID": "LOC000190231017",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420027676"
    }
@@ -6391,7 +6340,7 @@
     "name": "8 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000034910461",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420038398"
    }
   },
@@ -7665,8 +7614,8 @@
    "properties": {
     "name": "2 LEISHA COURT WONGA PARK 3115",
     "locID": "LOC000087146920",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420176320"
    }
   },
@@ -7989,7 +7938,7 @@
     "name": "170 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000086421136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420183051"
    }
   },
@@ -8006,7 +7955,7 @@
     "name": "5 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000060197266",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420183114"
    }
   },
@@ -8380,7 +8329,7 @@
     "name": "34 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000062227050",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420189383"
    }
   },
@@ -8397,7 +8346,7 @@
     "name": "11 KENILWORTH AVENUE WONGA PARK 3115",
     "locID": "LOC000065699564",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420189441"
    }
   },
@@ -8414,7 +8363,7 @@
     "name": "13 KENILWORTH AVENUE WONGA PARK 3115",
     "locID": "LOC000020991659",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420189442"
    }
   },
@@ -8652,7 +8601,7 @@
     "name": "256A YARRA ROAD WONGA PARK 3115",
     "locID": "LOC000123483847",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420338075"
    }
   },
@@ -8685,7 +8634,7 @@
    "properties": {
     "name": "UNIT 1, 4 LAUNDERS AVENUE WONGA PARK 3115",
     "locID": "LOC000190231017",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420347815"
    }
@@ -8702,7 +8651,7 @@
    "properties": {
     "name": "UNIT 2, 4 LAUNDERS AVENUE WONGA PARK 3115",
     "locID": "LOC000190231017",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420347816"
    }
@@ -9111,7 +9060,7 @@
     "name": "295-297 YARRA ROAD WONGA PARK 3115",
     "locID": "LOC000166211911",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420467808"
    }
   },
@@ -9978,7 +9927,7 @@
     "name": "12 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000017777220",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420482932"
    }
   },
@@ -9995,7 +9944,7 @@
     "name": "18 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000018527627",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420482933"
    }
   },
@@ -10063,7 +10012,7 @@
     "name": "10-12 KENILWORTH AVENUE WONGA PARK 3115",
     "locID": "LOC000104298535",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420483668"
    }
   },
@@ -10827,7 +10776,7 @@
    "properties": {
     "name": "UNIT 6, 4 LAUNDERS AVENUE WONGA PARK 3115",
     "locID": "LOC000190231017",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420619036"
    }
@@ -10946,8 +10895,8 @@
    "properties": {
     "name": "9 MOSER ROAD WONGA PARK 3115",
     "locID": "LOC000015212324",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420643262"
    }
   },
@@ -11202,7 +11151,7 @@
     "name": "40 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000040977159",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420751233"
    }
   },
@@ -11219,7 +11168,7 @@
     "name": "42 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000029736961",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420751234"
    }
   },
@@ -11287,7 +11236,7 @@
     "name": "5 JAMIESON ROAD WONGA PARK 3115",
     "locID": "LOC000036869328",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420751904"
    }
   },
@@ -11338,7 +11287,7 @@
     "name": "13 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000095017048",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420754768"
    }
   },
@@ -11355,7 +11304,7 @@
     "name": "26 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000003924783",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420754769"
    }
   },
@@ -11457,7 +11406,7 @@
     "name": "7 HOMESTEAD ROAD WONGA PARK 3115",
     "locID": "LOC000010150539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420762007"
    }
   },
@@ -12205,7 +12154,7 @@
     "name": "14-16 KENILWORTH AVENUE WONGA PARK 3115",
     "locID": "LOC000015964544",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420774546"
    }
   },
@@ -12749,7 +12698,7 @@
     "name": "4 FREYNE STREET WONGA PARK 3115",
     "locID": "LOC000004389728",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420785937"
    }
   },
@@ -12868,7 +12817,7 @@
     "name": "17 DUDLEY ROAD WONGA PARK 3115",
     "locID": "LOC000045826988",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420791058"
    }
   },
@@ -14160,7 +14109,7 @@
     "name": "176 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000076030084",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421077765"
    }
   },
@@ -14177,7 +14126,7 @@
     "name": "182 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000094338796",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421077766"
    }
   },
@@ -14466,7 +14415,7 @@
     "name": "6 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000049075462",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421085944"
    }
   },
@@ -14483,7 +14432,7 @@
     "name": "7 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000033658945",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421085945"
    }
   },
@@ -14636,7 +14585,7 @@
     "name": "19 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000049937983",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421086653"
    }
   },
@@ -14653,7 +14602,7 @@
     "name": "21 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000051679923",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421086654"
    }
   },
@@ -14670,7 +14619,7 @@
     "name": "23 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000064388158",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421086655"
    }
   },
@@ -15384,7 +15333,7 @@
     "name": "5 FREYNE STREET WONGA PARK 3115",
     "locID": "LOC000032102036",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421100393"
    }
   },
@@ -15486,7 +15435,7 @@
     "name": "23 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000048644781",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421105881"
    }
   },
@@ -15638,8 +15587,8 @@
    "properties": {
     "name": "6 GISSARA COURT WONGA PARK 3115",
     "locID": "LOC000103605226",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421129039"
    }
   },
@@ -15673,7 +15622,7 @@
     "name": "3-5 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000037844932",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421224376"
    }
   },
@@ -15962,7 +15911,7 @@
     "name": "157-159 BRYSONS ROAD WONGA PARK 3115",
     "locID": "LOC000004421545",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421342108"
    }
   },
@@ -16217,7 +16166,7 @@
     "name": "41 DUDLEY ROAD WONGA PARK 3115",
     "locID": "LOC000071769871",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421375009"
    }
   },
@@ -16863,7 +16812,7 @@
     "name": "5 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000048737672",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421395413"
    }
   },
@@ -16914,7 +16863,7 @@
     "name": "24 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000096501144",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421395416"
    }
   },
@@ -17237,7 +17186,7 @@
     "name": "9 KENILWORTH AVENUE WONGA PARK 3115",
     "locID": "LOC000038866481",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421404022"
    }
   },
@@ -17492,7 +17441,7 @@
     "name": "25 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000094721382",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421409820"
    }
   },
@@ -17509,7 +17458,7 @@
     "name": "29 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000075138228",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421409821"
    }
   },
@@ -17577,7 +17526,7 @@
     "name": "10 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000039166330",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421410589"
    }
   },
@@ -17627,8 +17576,8 @@
    "properties": {
     "name": "31 GATTERS ROAD WONGA PARK 3115",
     "locID": "LOC000068293452",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421410922"
    }
   },
@@ -17832,7 +17781,7 @@
     "name": "10 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000079422752",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421419471"
    }
   },
@@ -17866,7 +17815,7 @@
     "name": "5 LANTANA DRIVE WONGA PARK 3115",
     "locID": "LOC000003661421",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421419474"
    }
   },
@@ -18172,7 +18121,7 @@
     "name": "9-11 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000008662245",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421551565"
    }
   },
@@ -18461,7 +18410,7 @@
     "name": "6 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000016434078",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421616485"
    }
   },
@@ -18529,7 +18478,7 @@
     "name": "8 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000034934385",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421648288"
    }
   },
@@ -18733,7 +18682,7 @@
     "name": "21 HARTLEY ROAD WONGA PARK 3115",
     "locID": "LOC000042526120",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421659761"
    }
   },
@@ -18903,7 +18852,7 @@
     "name": "17 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000052071542",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421660413"
    }
   },
@@ -18937,7 +18886,7 @@
     "name": "5 HOMESTEAD ROAD WONGA PARK 3115",
     "locID": "LOC000066797781",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421662880"
    }
   },
@@ -19515,7 +19464,7 @@
     "name": "4 EDGAR AVENUE WONGA PARK 3115",
     "locID": "LOC000038933465",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421684187"
    }
   },
@@ -19735,8 +19684,8 @@
    "properties": {
     "name": "8 ROYMAR COURT WONGA PARK 3115",
     "locID": "LOC000054166735",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421688437"
    }
   },
@@ -20059,7 +20008,7 @@
     "name": "3 JAMIESON ROAD WONGA PARK 3115",
     "locID": "LOC000018498868",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421698792"
    }
   },
@@ -20093,7 +20042,7 @@
     "name": "7 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000079377735",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421698821"
    }
   },
@@ -20110,7 +20059,7 @@
     "name": "17 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000061417814",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421698822"
    }
   },
@@ -20127,7 +20076,7 @@
     "name": "22 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000037906584",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421698823"
    }
   },
@@ -20144,7 +20093,7 @@
     "name": "30 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000066031961",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421698825"
    }
   },
@@ -20161,7 +20110,7 @@
     "name": "32 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000058222408",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421698826"
    }
   },
@@ -20178,7 +20127,7 @@
     "name": "36 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000002038849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421698827"
    }
   },
@@ -21622,7 +21571,7 @@
    "properties": {
     "name": "4 LAUNDERS AVENUE WONGA PARK 3115",
     "locID": "LOC000190231017",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422099375"
    }
@@ -21810,7 +21759,7 @@
     "name": "2 HOOPER ROAD WONGA PARK 3115",
     "locID": "LOC000034308153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422400732"
    }
   },
@@ -22966,7 +22915,7 @@
     "name": "18 JUMPING CREEK ROAD WONGA PARK 3115",
     "locID": "LOC000054292900",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424240688"
    }
   },
@@ -23135,8 +23084,8 @@
    "properties": {
     "name": "10 WONGA MEWS WONGA PARK 3115",
     "locID": "LOC000113307865",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424682092"
    }
   },
@@ -23152,8 +23101,8 @@
    "properties": {
     "name": "11 WONGA MEWS WONGA PARK 3115",
     "locID": "LOC000114577890",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424682093"
    }
   },
@@ -23595,7 +23544,7 @@
     "name": "1 JAMIESON ROAD WONGA PARK 3115",
     "locID": "LOC000123476356",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424928810"
    }
   },
@@ -24896,8 +24845,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.27817996,
-     -37.7246708
+     145.27832923,
+     -37.7266752
     ]
    },
    "properties": {
@@ -25107,8 +25056,8 @@
    "properties": {
     "name": "8A ROYMAR COURT WONGA PARK 3115",
     "locID": "LOC000054166735",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721224679"
    }
   }
