@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-25T18:42:28.465162",
+ "generated": "2023-09-15T05:17:53.855442",
  "suburb": "STRATHMORE",
  "features": [
   {
@@ -67,7 +67,7 @@
     "name": "UNIT 2, 144 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000065522549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412382493"
    }
   },
@@ -84,7 +84,7 @@
     "name": "UNIT 1, 54 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000093869628",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412382494"
    }
   },
@@ -237,7 +237,7 @@
     "name": "UNIT 11, 28 MELISSA STREET STRATHMORE 3041",
     "locID": "LOC000104647747",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412398275"
    }
   },
@@ -458,7 +458,7 @@
     "name": "UNIT 2, 54 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000094374577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412407435"
    }
   },
@@ -492,7 +492,7 @@
     "name": "9 ELDORADO STREET STRATHMORE 3041",
     "locID": "LOC000184443053",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412408700"
    }
   },
@@ -509,7 +509,7 @@
     "name": "UNIT 1, 3 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000079538727",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412409410"
    }
   },
@@ -560,7 +560,7 @@
     "name": "UNIT 2, 345 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000086688851",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412410375"
    }
   },
@@ -603,7 +603,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.90632582,
+     144.90632583,
      -37.73752796
     ]
    },
@@ -747,7 +747,7 @@
     "name": "UNIT 1, 144 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000065634432",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412418379"
    }
   },
@@ -756,8 +756,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.92775941,
-     -37.73928357
+     144.92797627,
+     -37.73964522
     ]
    },
    "properties": {
@@ -866,7 +866,7 @@
     "name": "UNIT 1, 6 ORR STREET STRATHMORE 3041",
     "locID": "LOC000010220976",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412421941"
    }
   },
@@ -900,7 +900,7 @@
     "name": "UNIT 2, 8 WOODLAND STREET STRATHMORE 3041",
     "locID": "LOC000095266673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412428160"
    }
   },
@@ -951,7 +951,7 @@
     "name": "30 BULLA ROAD STRATHMORE 3041",
     "locID": "LOC000083029845",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412942507"
    }
   },
@@ -970,23 +970,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412942510"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.91873388,
-     -37.73511945
-    ]
-   },
-   "properties": {
-    "name": "335R NAPIER STREET STRATHMORE 3041",
-    "locID": "ChIJC6m67Xhb1moRebVLgXqHWtk",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC412943228"
    }
   },
   {
@@ -1123,6 +1106,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412955900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.906516,
+     -37.737831
+    ]
+   },
+   "properties": {
+    "name": "66A BULLA ROAD STRATHMORE 3041",
+    "locID": "ChIJxV-lBHhc1moROKM9ffhHvM8",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC412956547"
    }
   },
   {
@@ -1291,7 +1291,7 @@
     "name": "UNIT 2, 44 UPLAND ROAD STRATHMORE 3041",
     "locID": "LOC000051851964",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412960173"
    }
   },
@@ -1402,57 +1402,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91966762,
-     -37.73865058
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 259 NAPIER STREET STRATHMORE 3041",
-    "locID": "LOC000077038648",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC412965659"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.91966762,
-     -37.73865058
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 259 NAPIER STREET STRATHMORE 3041",
-    "locID": "LOC000077038648",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC412965660"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.919462,
-     -37.73624
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 290 NAPIER STREET STRATHMORE 3041",
-    "locID": "LOC000002840927",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAVIC412965661"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.915363,
      -37.727435
     ]
@@ -1546,7 +1495,7 @@
     "name": "9 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000026868469",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412969541"
    }
   },
@@ -1818,7 +1767,7 @@
     "name": "8 ELDORADO STREET STRATHMORE 3041",
     "locID": "LOC000051465276",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419537732"
    }
   },
@@ -2379,7 +2328,7 @@
     "name": "UNIT 1, 45 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000034830849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419538748"
    }
   },
@@ -2838,7 +2787,7 @@
     "name": "32 STRELDON AVENUE STRATHMORE 3041",
     "locID": "LOC000039049002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419538970"
    }
   },
@@ -3416,7 +3365,7 @@
     "name": "1 ROSLYN STREET STRATHMORE 3041",
     "locID": "LOC000070551789",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419539178"
    }
   },
@@ -3875,7 +3824,7 @@
     "name": "349 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000013482545",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419539544"
    }
   },
@@ -5159,8 +5108,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.90870228,
-     -37.72398204
+     144.90861669,
+     -37.72393711
     ]
    },
    "properties": {
@@ -5218,7 +5167,7 @@
     "name": "173 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000074904786",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419540318"
    }
   },
@@ -5252,7 +5201,7 @@
     "name": "179 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000029587631",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419540320"
    }
   },
@@ -5269,7 +5218,7 @@
     "name": "183 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000059116136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419540321"
    }
   },
@@ -5745,7 +5694,7 @@
     "name": "39 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000074750780",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419540439"
    }
   },
@@ -5813,7 +5762,7 @@
     "name": "11 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000088376000",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419540525"
    }
   },
@@ -6119,7 +6068,7 @@
     "name": "6 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000086692270",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419541273"
    }
   },
@@ -6391,7 +6340,7 @@
     "name": "UNIT 2, 6 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000004477237",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419607503"
    }
   },
@@ -6442,7 +6391,7 @@
     "name": "UNIT 1, 65 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000104522870",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419614161"
    }
   },
@@ -6493,7 +6442,7 @@
     "name": "UNIT 1, 12 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000091109696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419618188"
    }
   },
@@ -6646,7 +6595,7 @@
     "name": "UNIT 3, 88 WOODLAND STREET STRATHMORE 3041",
     "locID": "LOC000096106157",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419655631"
    }
   },
@@ -6663,7 +6612,7 @@
     "name": "UNIT 2, 88 WOODLAND STREET STRATHMORE 3041",
     "locID": "LOC000095266673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419655761"
    }
   },
@@ -6918,7 +6867,7 @@
     "name": "11 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000071656311",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419713451"
    }
   },
@@ -7037,7 +6986,7 @@
     "name": "UNIT 1, 28 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000108930182",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419727332"
    }
   },
@@ -7207,7 +7156,7 @@
     "name": "5 AMAR STREET STRATHMORE 3041",
     "locID": "LOC000030089142",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419809537"
    }
   },
@@ -8797,8 +8746,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.92775941,
-     -37.73928357
+     144.92797627,
+     -37.73964522
     ]
    },
    "properties": {
@@ -8924,7 +8873,7 @@
     "name": "3 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000062301522",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419837497"
    }
   },
@@ -9077,7 +9026,7 @@
     "name": "400 PASCOE VALE ROAD STRATHMORE 3041",
     "locID": "LOC100059961691",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419838426"
    }
   },
@@ -9511,15 +9460,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9113551,
-     -37.72312009
+     144.91137264,
+     -37.72310277
     ]
    },
    "properties": {
     "name": "131 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000048402234",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419840104"
    }
   },
@@ -9570,7 +9519,7 @@
     "name": "155 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000016163039",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419840107"
    }
   },
@@ -9604,7 +9553,7 @@
     "name": "177 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000042312689",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419840110"
    }
   },
@@ -9723,7 +9672,7 @@
     "name": "21 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000065562201",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419840218"
    }
   },
@@ -9740,7 +9689,7 @@
     "name": "23 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000040624668",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419840219"
    }
   },
@@ -9774,7 +9723,7 @@
     "name": "25 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000074476713",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419840221"
    }
   },
@@ -10361,8 +10310,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.910147,
-     -37.738617
+     144.91019148,
+     -37.7386135
     ]
    },
    "properties": {
@@ -11847,8 +11796,8 @@
    "properties": {
     "name": "55 HILLSYDE PARADE STRATHMORE 3041",
     "locID": "LOC000102368567",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419846549"
    }
   },
@@ -12154,7 +12103,7 @@
     "name": "6 TALBOT ROAD STRATHMORE 3041",
     "locID": "LOC000081388068",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419847430"
    }
   },
@@ -12800,7 +12749,7 @@
     "name": "5 MADEL AVENUE STRATHMORE 3041",
     "locID": "LOC000058091115",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419849988"
    }
   },
@@ -13276,7 +13225,7 @@
     "name": "UNIT 1, 11 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000071869488",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419927573"
    }
   },
@@ -13395,7 +13344,7 @@
     "name": "UNIT 2, 49 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000079739127",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419949846"
    }
   },
@@ -13616,7 +13565,7 @@
     "name": "UNIT 3, 9 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000026868469",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420007584"
    }
   },
@@ -13820,7 +13769,7 @@
     "name": "UNIT 3, 71 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000081107703",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420023684"
    }
   },
@@ -13837,7 +13786,7 @@
     "name": "UNIT 1, 351 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000024260359",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420024111"
    }
   },
@@ -13854,7 +13803,7 @@
     "name": "UNIT 2, 351 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000024783631",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420024112"
    }
   },
@@ -14033,23 +13982,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.9187075,
-     -37.73501902
-    ]
-   },
-   "properties": {
-    "name": "337 NAPIER STREET STRATHMORE 3041",
-    "locID": "LOC000077353547",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC420042544"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.918228,
      -37.732234
     ]
@@ -14160,7 +14092,7 @@
     "name": "244 WOODLAND STREET STRATHMORE 3041",
     "locID": "LOC000162812879",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420109954"
    }
   },
@@ -15002,8 +14934,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91529599,
-     -37.73430163
+     144.91534832,
+     -37.73429105
     ]
    },
    "properties": {
@@ -15400,8 +15332,8 @@
    "properties": {
     "name": "7 ROSEBANK AVENUE STRATHMORE 3041",
     "locID": "LOC000031942631",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420139039"
    }
   },
@@ -16455,7 +16387,7 @@
     "name": "147 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000068050975",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420144516"
    }
   },
@@ -16489,7 +16421,7 @@
     "name": "149 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000095160212",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420144518"
    }
   },
@@ -16566,8 +16498,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.914394,
-     -37.738944
+     144.91438595,
+     -37.73892866
     ]
    },
    "properties": {
@@ -16965,7 +16897,7 @@
     "name": "12 KERNAN STREET STRATHMORE 3041",
     "locID": "LOC000054213765",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420146947"
    }
   },
@@ -17441,7 +17373,7 @@
     "name": "43 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000095716991",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420149885"
    }
   },
@@ -17458,7 +17390,7 @@
     "name": "45 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000028678352",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420149886"
    }
   },
@@ -19107,7 +19039,7 @@
     "name": "279 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000095094905",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420180190"
    }
   },
@@ -19294,7 +19226,7 @@
     "name": "UNIT 2, 36 TALBOT ROAD STRATHMORE 3041",
     "locID": "LOC000001963952",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420207332"
    }
   },
@@ -19600,7 +19532,7 @@
     "name": "UNIT 3, 78 WOODLAND STREET STRATHMORE 3041",
     "locID": "LOC000106530480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420268833"
    }
   },
@@ -19617,7 +19549,7 @@
     "name": "UNIT 3, 310 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000095308896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420288681"
    }
   },
@@ -19736,7 +19668,7 @@
     "name": "UNIT 1, 9 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000026929140",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420309014"
    }
   },
@@ -20025,7 +19957,7 @@
     "name": "71 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000081107703",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420342293"
    }
   },
@@ -20399,7 +20331,7 @@
     "name": "146 ARVON ROAD STRATHMORE 3041",
     "locID": "LOC000151633653",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420422392"
    }
   },
@@ -20637,7 +20569,7 @@
     "name": "133 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000077401100",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420422484"
    }
   },
@@ -20671,7 +20603,7 @@
     "name": "141 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000071121868",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420422486"
    }
   },
@@ -22201,7 +22133,7 @@
     "name": "50 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000151624153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420432207"
    }
   },
@@ -22966,7 +22898,7 @@
     "name": "5 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000009339039",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420435819"
    }
   },
@@ -23969,7 +23901,7 @@
     "name": "151 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000046007992",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420439416"
    }
   },
@@ -23986,7 +23918,7 @@
     "name": "153 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000055081202",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420439417"
    }
   },
@@ -25958,7 +25890,7 @@
     "name": "UNIT 3, 11 DAGONET STREET STRATHMORE 3041",
     "locID": "LOC000009370108",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420486017"
    }
   },
@@ -26638,7 +26570,7 @@
     "name": "UNIT 2, 2 KERNAN STREET STRATHMORE 3041",
     "locID": "LOC000079284489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420617460"
    }
   },
@@ -26655,7 +26587,7 @@
     "name": "UNIT 1, 11 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000071718788",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420617462"
    }
   },
@@ -26689,7 +26621,7 @@
     "name": "UNIT 2, 9 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000027129434",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420624697"
    }
   },
@@ -27361,8 +27293,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.909096,
-     -37.735642
+     144.90913967,
+     -37.73563548
     ]
    },
    "properties": {
@@ -28797,7 +28729,7 @@
     "name": "169 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000014355445",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420740061"
    }
   },
@@ -29375,7 +29307,7 @@
     "name": "7 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000050009551",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420741266"
    }
   },
@@ -29409,7 +29341,7 @@
     "name": "27 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000017717725",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420741268"
    }
   },
@@ -30242,7 +30174,7 @@
     "name": "6 ROSLYN STREET STRATHMORE 3041",
     "locID": "LOC000070551789",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420746577"
    }
   },
@@ -30251,8 +30183,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91627212,
-     -37.72942555
+     144.91625824,
+     -37.72951791
     ]
    },
    "properties": {
@@ -30982,8 +30914,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.913175,
-     -37.733443
+     144.91322114,
+     -37.73343757
     ]
    },
    "properties": {
@@ -31483,7 +31415,7 @@
     "name": "167 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000024322618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420756003"
    }
   },
@@ -33047,7 +32979,7 @@
     "name": "UNIT 2, 12 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000091061080",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420833568"
    }
   },
@@ -33183,7 +33115,7 @@
     "name": "UNIT 1, 345 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000086269162",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420890901"
    }
   },
@@ -33277,7 +33209,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.90632582,
+     144.90632583,
      -37.73752796
     ]
    },
@@ -33370,7 +33302,7 @@
     "name": "UNIT 9, 28 MELISSA STREET STRATHMORE 3041",
     "locID": "LOC000104483064",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420911939"
    }
   },
@@ -33472,7 +33404,7 @@
     "name": "UNIT 2, 43 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000091645148",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420923089"
    }
   },
@@ -33489,7 +33421,7 @@
     "name": "UNIT 1, 22 WINDSOR AVENUE STRATHMORE 3041",
     "locID": "LOC000102822459",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420923302"
    }
   },
@@ -33557,7 +33489,7 @@
     "name": "UNIT 2, 11 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000071656311",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420925719"
    }
   },
@@ -33778,7 +33710,7 @@
     "name": "UNIT 1, 64 CARNARVON ROAD STRATHMORE 3041",
     "locID": "LOC000071110362",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420947429"
    }
   },
@@ -33863,7 +33795,7 @@
     "name": "UNIT 1, 71 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000081107703",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420955811"
    }
   },
@@ -33880,7 +33812,7 @@
     "name": "UNIT 2, 71 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000081335141",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420955813"
    }
   },
@@ -33897,7 +33829,7 @@
     "name": "144 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000065634432",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420959011"
    }
   },
@@ -33931,7 +33863,7 @@
     "name": "64 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000075342881",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420959648"
    }
   },
@@ -34154,23 +34086,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421023750"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.913816,
-     -37.726389
-    ]
-   },
-   "properties": {
-    "name": "69 LEBANON STREET STRATHMORE 3041",
-    "locID": "ChIJj6IXOpxb1moRZNNzjZbvHiA",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC421024480"
    }
   },
   {
@@ -34781,7 +34696,7 @@
     "name": "6 ELDORADO STREET STRATHMORE 3041",
     "locID": "LOC000012973087",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421029065"
    }
   },
@@ -35104,7 +35019,7 @@
     "name": "24 LIND STREET STRATHMORE 3041",
     "locID": "LOC000061216424",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421036006"
    }
   },
@@ -35257,7 +35172,7 @@
     "name": "137 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000021895404",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421036878"
    }
   },
@@ -35274,7 +35189,7 @@
     "name": "157 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000001935397",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421036879"
    }
   },
@@ -35325,7 +35240,7 @@
     "name": "171 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000010204083",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421036882"
    }
   },
@@ -36830,8 +36745,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.927373,
-     -37.73984
+     144.92738301,
+     -37.73984254
     ]
    },
    "properties": {
@@ -38156,23 +38071,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91869257,
-     -37.73497452
-    ]
-   },
-   "properties": {
-    "name": "341 NAPIER STREET STRATHMORE 3041",
-    "locID": "LOC000025356541",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421055082"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.91838,
      -37.733572
     ]
@@ -38657,7 +38555,7 @@
     "name": "17 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000077309115",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421064973"
    }
   },
@@ -38674,7 +38572,7 @@
     "name": "19 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000104705005",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421064974"
    }
   },
@@ -38691,7 +38589,7 @@
     "name": "29 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000075598745",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421064975"
    }
   },
@@ -38708,7 +38606,7 @@
     "name": "31 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000042279040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421064976"
    }
   },
@@ -38878,7 +38776,7 @@
     "name": "44 STRELDON AVENUE STRATHMORE 3041",
     "locID": "LOC000058432017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421070796"
    }
   },
@@ -39201,7 +39099,7 @@
     "name": "UNIT 2, 44 STRELDON AVENUE STRATHMORE 3041",
     "locID": "LOC000058432017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421080514"
    }
   },
@@ -39507,7 +39405,7 @@
     "name": "UNIT 1, 30 BULLA ROAD STRATHMORE 3041",
     "locID": "LOC000083029845",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421119977"
    }
   },
@@ -39677,8 +39575,25 @@
     "name": "88 WOODLAND STREET STRATHMORE 3041",
     "locID": "LOC000096106157",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421137838"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.92455524,
+     -37.73070898
+    ]
+   },
+   "properties": {
+    "name": "492 PASCOE VALE ROAD STRATHMORE 3041",
+    "locID": "LOC000016151244",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421144986"
    }
   },
   {
@@ -40136,7 +40051,7 @@
     "name": "54 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000094374577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421258789"
    }
   },
@@ -40340,7 +40255,7 @@
     "name": "28 BULLA ROAD STRATHMORE 3041",
     "locID": "LOC000151631609",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421324067"
    }
   },
@@ -40527,7 +40442,7 @@
     "name": "37 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000036939896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421325054"
    }
   },
@@ -42754,7 +42669,7 @@
     "name": "31 FENACRE STREET STRATHMORE 3041",
     "locID": "LOC000066506601",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421345624"
    }
   },
@@ -43111,7 +43026,7 @@
     "name": "135 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000005194195",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421346615"
    }
   },
@@ -43145,7 +43060,7 @@
     "name": "145 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000019446259",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421346617"
    }
   },
@@ -43196,7 +43111,7 @@
     "name": "175 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000032737371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421346620"
    }
   },
@@ -44582,8 +44497,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.904435,
-     -37.719851
+     144.90448144,
+     -37.71989513
     ]
    },
    "properties": {
@@ -44794,7 +44709,7 @@
     "name": "13 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC100074201696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421361164"
    }
   },
@@ -44879,7 +44794,7 @@
     "name": "33 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000084464988",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421361169"
    }
   },
@@ -45831,7 +45746,7 @@
     "name": "UNIT 3, 44 STRELDON AVENUE STRATHMORE 3041",
     "locID": "LOC000058432017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421410576"
    }
   },
@@ -45848,7 +45763,7 @@
     "name": "4 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000062301522",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421410641"
    }
   },
@@ -45909,7 +45824,7 @@
     "type": "Point",
     "coordinates": [
      144.9099952,
-     -37.72464475
+     -37.72464476
     ]
    },
    "properties": {
@@ -45950,7 +45865,7 @@
     "name": "11 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000071869488",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421431800"
    }
   },
@@ -46188,7 +46103,7 @@
     "name": "UNIT 1, 6 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000004249636",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421481223"
    }
   },
@@ -46205,7 +46120,7 @@
     "name": "UNIT 1, 310 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000095120655",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421482731"
    }
   },
@@ -46290,7 +46205,7 @@
     "name": "2 KERNAN STREET STRATHMORE 3041",
     "locID": "LOC000079284489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421501692"
    }
   },
@@ -46732,7 +46647,7 @@
     "name": "UNIT 3, 351 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000024783631",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421550938"
    }
   },
@@ -47174,7 +47089,7 @@
     "name": "164 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000151635234",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421613170"
    }
   },
@@ -48619,7 +48534,7 @@
     "name": "139 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000077865026",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421632201"
    }
   },
@@ -50821,8 +50736,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91255728,
-     -37.73428296
+     144.91512868,
+     -37.73455227
     ]
    },
    "properties": {
@@ -51271,7 +51186,7 @@
     "name": "9 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000045491999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421673232"
    }
   },
@@ -51305,7 +51220,7 @@
     "name": "35 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000057148987",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421673234"
    }
   },
@@ -51339,7 +51254,7 @@
     "name": "2 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000151624153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421673241"
    }
   },
@@ -51475,7 +51390,7 @@
     "name": "6 FENACRE STREET STRATHMORE 3041",
     "locID": "LOC000060908661",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421687364"
    }
   },
@@ -52300,23 +52215,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.90642104,
-     -37.7376878
-    ]
-   },
-   "properties": {
-    "name": "68A BULLA ROAD STRATHMORE 3041",
-    "locID": "LOC000024412337",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421691250"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.9113,
      -37.740403
     ]
@@ -52478,7 +52376,7 @@
     "name": "37 WILLONGA STREET STRATHMORE 3041",
     "locID": "LOC000070750870",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421701955"
    }
   },
@@ -52767,7 +52665,7 @@
     "name": "UNIT 1, 49 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000079538727",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421726280"
    }
   },
@@ -52793,15 +52691,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.90890029,
-     -37.72410388
+     144.9087654,
+     -37.72401756
     ]
    },
    "properties": {
     "name": "150 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000094880328",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421729144"
    }
   },
@@ -52835,7 +52733,7 @@
     "name": "UNIT 2, 35 BALMORAL AVENUE STRATHMORE 3041",
     "locID": "LOC000036774677",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421731269"
    }
   },
@@ -52971,7 +52869,7 @@
     "name": "181 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000010669532",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421753471"
    }
   },
@@ -53116,7 +53014,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.90632582,
+     144.90632583,
      -37.73752796
     ]
    },
@@ -53328,7 +53226,7 @@
     "name": "351 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000024783631",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421837319"
    }
   },
@@ -53872,7 +53770,7 @@
     "name": "11 BALMANNO CRESCENT STRATHMORE 3041",
     "locID": "LOC000045985371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421916581"
    }
   },
@@ -54229,7 +54127,7 @@
     "name": "UNIT 2, 4 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000062536944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422001138"
    }
   },
@@ -54246,7 +54144,7 @@
     "name": "UNIT 1, 4 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000062324528",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422001139"
    }
   },
@@ -54314,7 +54212,7 @@
     "name": "12 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000091109696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422024385"
    }
   },
@@ -54416,7 +54314,7 @@
     "name": "64 CARNARVON ROAD STRATHMORE 3041",
     "locID": "LOC000071110362",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422083165"
    }
   },
@@ -54450,7 +54348,7 @@
     "name": "49 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000079538727",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422088368"
    }
   },
@@ -54467,7 +54365,7 @@
     "name": "6 DUBLIN AVENUE STRATHMORE 3041",
     "locID": "LOC000004477237",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422088370"
    }
   },
@@ -54637,7 +54535,7 @@
     "name": "45 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000034830849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422102616"
    }
   },
@@ -54654,7 +54552,7 @@
     "name": "345 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000086688851",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422105378"
    }
   },
@@ -54960,7 +54858,7 @@
     "name": "UNIT 1, 24 LIND STREET STRATHMORE 3041",
     "locID": "LOC000061216424",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422447261"
    }
   },
@@ -55045,7 +54943,7 @@
     "name": "UNIT 3, 4 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000062301522",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423109466"
    }
   },
@@ -55412,7 +55310,7 @@
     "type": "Point",
     "coordinates": [
      144.9099952,
-     -37.72464475
+     -37.72464476
     ]
    },
    "properties": {
@@ -55861,7 +55759,7 @@
     "name": "UNIT 1, 6 ROSLYN STREET STRATHMORE 3041",
     "locID": "LOC000070551789",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423855355"
    }
   },
@@ -55895,7 +55793,7 @@
     "name": "UNIT 3, 6 ROSLYN STREET STRATHMORE 3041",
     "locID": "LOC000070551789",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423855357"
    }
   },
@@ -55929,7 +55827,7 @@
     "name": "UNIT 1, 6 TALBOT ROAD STRATHMORE 3041",
     "locID": "LOC000081388068",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423992807"
    }
   },
@@ -56014,7 +55912,7 @@
     "name": "UNIT 1, 30 MELISSA STREET STRATHMORE 3041",
     "locID": "LOC000104647747",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424092100"
    }
   },
@@ -56244,23 +56142,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91874143,
-     -37.73515436
-    ]
-   },
-   "properties": {
-    "name": "SHOP 1, 333 NAPIER STREET STRATHMORE 3041",
-    "locID": "LOC000087550297",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC424257267"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.91967715,
      -37.73103545
     ]
@@ -56286,7 +56167,7 @@
     "name": "UNIT 2, 6 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000086692270",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424258764"
    }
   },
@@ -56473,7 +56354,7 @@
     "name": "UNIT 3, 6 WENDORA STREET STRATHMORE 3041",
     "locID": "LOC000086692270",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424369973"
    }
   },
@@ -56507,7 +56388,7 @@
     "name": "FLOOR 1, 279 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000095094905",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424473393"
    }
   },
@@ -56864,7 +56745,7 @@
     "name": "151A MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000045877461",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424554817"
    }
   },
@@ -56949,7 +56830,7 @@
     "name": "UNIT 1, 349 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000013482545",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424586016"
    }
   },
@@ -56966,7 +56847,7 @@
     "name": "UNIT 2, 349 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000013667121",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424586017"
    }
   },
@@ -56983,7 +56864,7 @@
     "name": "UNIT 3, 349 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000013482545",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424586018"
    }
   },
@@ -57000,7 +56881,7 @@
     "name": "UNIT 4, 349 NAPIER STREET STRATHMORE 3041",
     "locID": "LOC000013475291",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424586019"
    }
   },
@@ -57034,7 +56915,7 @@
     "name": "UNIT 1, 43 BROSNAN CRESCENT STRATHMORE 3041",
     "locID": "LOC000016947406",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424637000"
    }
   },
@@ -57068,7 +56949,7 @@
     "name": "UNIT 1, 51 ROLAND AVENUE STRATHMORE 3041",
     "locID": "LOC000114276603",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424677857"
    }
   },
@@ -57374,7 +57255,7 @@
     "name": "UNIT 3, 93 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000115658168",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424884319"
    }
   },
@@ -58020,7 +57901,7 @@
     "name": "UNIT 1, 50 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000162812193",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425086639"
    }
   },
@@ -58037,7 +57918,7 @@
     "name": "UNIT 2, 50 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000151624153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425086640"
    }
   },
@@ -58054,7 +57935,7 @@
     "name": "UNIT 3, 50 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000151624153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425086641"
    }
   },
@@ -59040,7 +58921,7 @@
     "name": "UNIT 3, 31 FENACRE STREET STRATHMORE 3041",
     "locID": "LOC000066506601",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425312014"
    }
   },
@@ -59193,7 +59074,7 @@
     "name": "UNIT 3, 12 DAGONET STREET STRATHMORE 3041",
     "locID": "LOC000068206678",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425337049"
    }
   },
@@ -59601,7 +59482,7 @@
     "name": "UNIT 1, 37 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000036939896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425421529"
    }
   },
@@ -59635,7 +59516,7 @@
     "name": "UNIT 2, 37 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000036939896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425421531"
    }
   },
@@ -59669,7 +59550,7 @@
     "name": "UNIT 3, 37 LLOYD STREET STRATHMORE 3041",
     "locID": "LOC000036939896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425421533"
    }
   },
@@ -59856,7 +59737,7 @@
     "name": "UNIT 1, 28 BULLA ROAD STRATHMORE 3041",
     "locID": "LOC000151631645",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425462395"
    }
   },
@@ -59890,7 +59771,7 @@
     "name": "UNIT 3, 28 BULLA ROAD STRATHMORE 3041",
     "locID": "LOC000151631609",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425462397"
    }
   },
@@ -59924,7 +59805,7 @@
     "name": "UNIT 5, 28 BULLA ROAD STRATHMORE 3041",
     "locID": "LOC000151631609",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425462399"
    }
   },
@@ -60145,7 +60026,7 @@
     "name": "UNIT 3, 19 LIND STREET STRATHMORE 3041",
     "locID": "LOC000151631744",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425521829"
    }
   },
@@ -60332,7 +60213,7 @@
     "name": "UNIT 1, 146 ARVON ROAD STRATHMORE 3041",
     "locID": "LOC000151633653",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425576965"
    }
   },
@@ -60349,7 +60230,7 @@
     "name": "UNIT 2, 146 ARVON ROAD STRATHMORE 3041",
     "locID": "LOC000151633653",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425576966"
    }
   },
@@ -60366,7 +60247,7 @@
     "name": "UNIT 3, 146 ARVON ROAD STRATHMORE 3041",
     "locID": "LOC000151633653",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425576967"
    }
   },
@@ -61131,7 +61012,7 @@
     "name": "UNIT 3, 12 LAMART STREET STRATHMORE 3041",
     "locID": "LOC000151638779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425679437"
    }
   },
@@ -61148,7 +61029,7 @@
     "name": "UNIT 4, 12 LAMART STREET STRATHMORE 3041",
     "locID": "LOC000151637360",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425679438"
    }
   },
@@ -61182,7 +61063,7 @@
     "name": "UNIT 6, 12 LAMART STREET STRATHMORE 3041",
     "locID": "LOC000151637387",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425679440"
    }
   },
@@ -61216,7 +61097,7 @@
     "name": "UNIT 8, 12 LAMART STREET STRATHMORE 3041",
     "locID": "LOC000151638808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425679442"
    }
   },
@@ -61233,7 +61114,7 @@
     "name": "12 LAMART STREET STRATHMORE 3041",
     "locID": "LOC000151638779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425679443"
    }
   },
@@ -61250,7 +61131,7 @@
     "name": "UNIT 1, 164 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000151635234",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425679791"
    }
   },
@@ -61267,7 +61148,7 @@
     "name": "UNIT 2, 164 LEBANON STREET STRATHMORE 3041",
     "locID": "LOC000151635234",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425679792"
    }
   },
@@ -61505,7 +61386,7 @@
     "name": "UNIT 1, 12 LAMART STREET STRATHMORE 3041",
     "locID": "LOC000151638779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425705354"
    }
   },
@@ -62746,7 +62627,7 @@
     "name": "UNIT 4, 6 FENACRE STREET STRATHMORE 3041",
     "locID": "LOC000175621204",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC718987949"
    }
   },
@@ -62831,7 +62712,7 @@
     "name": "UNIT 1, 6 FENACRE STREET STRATHMORE 3041",
     "locID": "LOC000060908661",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC718994219"
    }
   },
@@ -63018,7 +62899,7 @@
     "name": "UNIT 3, 6 FENACRE STREET STRATHMORE 3041",
     "locID": "LOC000060908661",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719016739"
    }
   },
@@ -63851,7 +63732,7 @@
     "name": "UNIT 3, 2 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000151624153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719312696"
    }
   },
@@ -63902,7 +63783,7 @@
     "name": "UNIT 5, 2 MAGDALA AVENUE STRATHMORE 3041",
     "locID": "LOC000151624153",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719314452"
    }
   },
@@ -64021,7 +63902,7 @@
     "name": "7 ELDORADO STREET STRATHMORE 3041",
     "locID": "LOC000175621145",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719327108"
    }
   },
@@ -64795,8 +64676,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93317529,
-     -37.74385423
+     144.93317637,
+     -37.74385436
     ]
    },
    "properties": {
@@ -64812,8 +64693,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.93304313,
-     -37.7436496
+     144.93304641,
+     -37.74364936
     ]
    },
    "properties": {
@@ -66393,7 +66274,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91350953,
+     144.91350954,
      -37.73622534
     ]
    },
@@ -66435,7 +66316,7 @@
     "name": "UNIT 6, 183 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000059116136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720508671"
    }
   },
@@ -66469,7 +66350,7 @@
     "name": "UNIT 3, 183 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000059116136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720511159"
    }
   },
@@ -66486,7 +66367,7 @@
     "name": "UNIT 1, 183 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000059116136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720511309"
    }
   },
@@ -66503,7 +66384,7 @@
     "name": "UNIT 2, 183 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000059116136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720512107"
    }
   },
@@ -66707,7 +66588,7 @@
     "name": "UNIT 5, 183 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000059116136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720526324"
    }
   },
@@ -66724,7 +66605,7 @@
     "name": "UNIT 4, 183 MASCOMA STREET STRATHMORE 3041",
     "locID": "LOC000059116136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720526463"
    }
   },
@@ -68093,7 +67974,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91350953,
+     144.91350954,
      -37.73622534
     ]
    },
@@ -68322,7 +68203,7 @@
     "name": "UNIT 1, 244 WOODLAND STREET STRATHMORE 3041",
     "locID": "LOC000162812879",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC720943673"
    }
   },
@@ -68467,8 +68348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91246622,
-     -37.73427447
+     144.91504293,
+     -37.73454329
     ]
    },
    "properties": {
@@ -68552,8 +68433,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.91529599,
-     -37.73430163
+     144.91526264,
+     -37.73428207
     ]
    },
    "properties": {
@@ -68849,7 +68730,7 @@
     "name": "376-378 PASCOE VALE ROAD STRATHMORE 3041",
     "locID": "LOC000004457945",
     "tech": "NULL",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC721090066"
    }
   },
@@ -68960,16 +68841,67 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.92455524,
-     -37.73070898
+     144.93285273,
+     -37.74381425
     ]
    },
    "properties": {
-    "name": "492-494 PASCOE VALE ROAD STRATHMORE 3041",
-    "locID": "LOC000016151244",
-    "tech": "FTTC",
+    "name": "10A WOODLAND STREET STRATHMORE 3041",
+    "locID": "LOC000191412782",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721255760"
+    "gnaf_pid": "GAVIC721289075"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.914283,
+     -37.726704
+    ]
+   },
+   "properties": {
+    "name": "63A LEBANON STREET STRATHMORE 3041",
+    "locID": "ChIJCzsUM5xb1moRI0HEH2HoxY0",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721333762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.927053,
+     -37.738294
+    ]
+   },
+   "properties": {
+    "name": "391A PASCOE VALE ROAD STRATHMORE 3041",
+    "locID": "ChIJZWgnP3tb1moRZMHFKA4a9vI",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721333854"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.92917299,
+     -37.74242055
+    ]
+   },
+   "properties": {
+    "name": "6A TALBOT ROAD STRATHMORE 3041",
+    "locID": "ChIJezqzJmNb1moRDdPFlHF_OAs",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721334167"
    }
   }
  ]
