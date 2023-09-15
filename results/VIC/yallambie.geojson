@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-26T04:16:36.478317",
+ "generated": "2023-09-15T15:31:57.473393",
  "suburb": "YALLAMBIE",
  "features": [
   {
@@ -739,8 +739,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.080532,
-     -37.730918
+     145.08053101,
+     -37.73070846
     ]
    },
    "properties": {
@@ -2446,8 +2446,8 @@
    "properties": {
     "name": "7 PERONNE WALK YALLAMBIE 3085",
     "locID": "LOC000101288406",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC419558866"
    }
   },
@@ -2616,8 +2616,8 @@
    "properties": {
     "name": "6 WILLAURA PLACE YALLAMBIE 3085",
     "locID": "LOC000028442709",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419560456"
    }
   },
@@ -2906,7 +2906,7 @@
     "name": "19 GOULBURN GROVE YALLAMBIE 3085",
     "locID": "LOC000098166175",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419751383"
    }
   },
@@ -3008,7 +3008,7 @@
     "name": "6 RED GUM WAY YALLAMBIE 3085",
     "locID": "LOC000028630560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419760458"
    }
   },
@@ -5779,7 +5779,7 @@
     "name": "5 RED GUM WAY YALLAMBIE 3085",
     "locID": "LOC000035284753",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420042725"
    }
   },
@@ -5796,7 +5796,7 @@
     "name": "1 RED GUM WAY YALLAMBIE 3085",
     "locID": "LOC000035154089",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420042730"
    }
   },
@@ -6101,8 +6101,8 @@
    "properties": {
     "name": "38 LONGACRES ROAD YALLAMBIE 3085",
     "locID": "LOC000096400984",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420141277"
    }
   },
@@ -8491,8 +8491,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.080778,
-     -37.729705
+     145.08064924,
+     -37.72952529
     ]
    },
    "properties": {
@@ -10344,8 +10344,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.081398,
-     -37.719775
+     145.08120394,
+     -37.72118959
     ]
    },
    "properties": {
@@ -11500,8 +11500,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.081109,
-     -37.730981
+     145.08116608,
+     -37.73100933
     ]
    },
    "properties": {
@@ -15095,7 +15095,7 @@
     "name": "4 RED GUM WAY YALLAMBIE 3085",
     "locID": "LOC000040566655",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420976124"
    }
   },
@@ -15996,7 +15996,7 @@
     "name": "8 RED GUM WAY YALLAMBIE 3085",
     "locID": "LOC000096693366",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421067776"
    }
   },
@@ -17781,7 +17781,7 @@
     "name": "2 RED GUM WAY YALLAMBIE 3085",
     "locID": "LOC000071346761",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421257940"
    }
   },
@@ -21564,8 +21564,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.080541,
-     -37.731413
+     145.08055677,
+     -37.73135454
     ]
    },
    "properties": {
@@ -24369,8 +24369,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.08796345,
-     -37.72717755
+     145.0828517,
+     -37.722406
     ]
    },
    "properties": {
@@ -24702,6 +24702,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721039536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.08168173,
+     -37.72245905
+    ]
+   },
+   "properties": {
+    "name": "180 GREENSBOROUGH ROAD YALLAMBIE 3085",
+    "locID": "ChIJ4Svw7ydG1moRXqGiRZ9Ft8g",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293485"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.08042676,
+     -37.72668329
+    ]
+   },
+   "properties": {
+    "name": "130 GREENSBOROUGH ROAD YALLAMBIE 3085",
+    "locID": "ChIJjWhKxSVG1moRbLOodlrU8p8",
+    "tech": "FTTB",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.08146235,
+     -37.7221671
+    ]
+   },
+   "properties": {
+    "name": "220 GREENSBOROUGH ROAD YALLAMBIE 3085",
+    "locID": "ChIJNSZz8SdG1moRg77VFQKvU8A",
+    "tech": "FTTB",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302072"
    }
   }
  ]
