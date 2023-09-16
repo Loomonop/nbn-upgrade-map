@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-26T23:08:26.050706",
+ "generated": "2023-09-16T11:35:35.134106",
  "suburb": "WEST SWAN",
  "features": [
   {
@@ -1767,7 +1767,7 @@
     "name": "1 COAST ROAD WEST SWAN 6055",
     "locID": "LOC000142954095",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146890357"
    }
   },
@@ -2209,7 +2209,7 @@
     "name": "52 HARROW STREET WEST SWAN 6055",
     "locID": "LOC000132091461",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147243127"
    }
   },
@@ -3110,7 +3110,7 @@
     "name": "65 COAST ROAD WEST SWAN 6055",
     "locID": "LOC000010491699",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148549381"
    }
   },
@@ -3416,7 +3416,7 @@
     "name": "137 MIDDLE SWAN ROAD WEST SWAN 6055",
     "locID": "LOC000063330052",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162266668"
    }
   },
@@ -3603,7 +3603,7 @@
     "name": "95 MIDDLE SWAN ROAD WEST SWAN 6055",
     "locID": "LOC000014497041",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162266679"
    }
   },
@@ -3792,23 +3792,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162779148"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98444619,
-     -31.85818681
-    ]
-   },
-   "properties": {
-    "name": "LOT 72 COAST ROAD WEST SWAN 6055",
-    "locID": "LOC000108970444",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_162779154"
    }
   },
   {
@@ -4761,6 +4744,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721205372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.9844462,
+     -31.85818678
+    ]
+   },
+   "properties": {
+    "name": "63 COAST ROAD WEST SWAN 6055",
+    "locID": "LOC000108970444",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAWA_721279997"
    }
   }
  ]

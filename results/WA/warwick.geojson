@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-26T22:10:36.842916",
+ "generated": "2023-09-16T10:46:04.155209",
  "suburb": "WARWICK",
  "features": [
   {
@@ -832,7 +832,7 @@
     "name": "316 ERINDALE ROAD WARWICK 6024",
     "locID": "LOC000066053013",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146556836"
    }
   },
@@ -1361,6 +1361,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146557223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80584554,
+     -31.83518917
+    ]
+   },
+   "properties": {
+    "name": "26 ACKWORTH CRESCENT WARWICK 6024",
+    "locID": "LOC000193604482",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146557224"
    }
   },
   {
@@ -7581,7 +7598,7 @@
     "name": "8 DEVON COURT WARWICK 6024",
     "locID": "LOC000158479000",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146559811"
    }
   },
@@ -8015,23 +8032,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80719,
-     -31.8414
-    ]
-   },
-   "properties": {
-    "name": "30 GLENMERE ROAD WARWICK 6024",
-    "locID": "LOC000024569919",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_146559885"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.81062,
      -31.83741
     ]
@@ -8430,8 +8430,8 @@
    "properties": {
     "name": "4 DIDCOT STREET WARWICK 6024",
     "locID": "LOC000053963355",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146560025"
    }
   },
@@ -9273,23 +9273,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80116,
-     -31.84453
-    ]
-   },
-   "properties": {
-    "name": "15 SPRINGVALE DRIVE WARWICK 6024",
-    "locID": "LOC000104097775",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146560683"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.80049,
      -31.84447
     ]
@@ -9909,8 +9892,8 @@
    "properties": {
     "name": "11 FERNLEA STREET WARWICK 6024",
     "locID": "LOC000082420543",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146561145"
    }
   },
@@ -12452,8 +12435,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80709,
-     -31.84179
+     115.80709154,
+     -31.84178916
     ]
    },
    "properties": {
@@ -17773,8 +17756,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.80669,
-     -31.84133
+     115.80669093,
+     -31.84133454
     ]
    },
    "properties": {
@@ -18002,7 +17985,7 @@
     "name": "8 MILLPORT DRIVE WARWICK 6024",
     "locID": "LOC000043792744",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146566638"
    }
   },
@@ -20399,7 +20382,7 @@
     "name": "6 FERNLEA STREET WARWICK 6024",
     "locID": "LOC000009596871",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146567875"
    }
   },
@@ -21266,7 +21249,7 @@
     "name": "37 EDDINGTON ROAD WARWICK 6024",
     "locID": "LOC000005629412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147135223"
    }
   },
@@ -21538,7 +21521,7 @@
     "name": "12 DUGDALE STREET WARWICK 6024",
     "locID": "LOC000079711233",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147167257"
    }
   },
@@ -24020,7 +24003,7 @@
     "name": "3B DEVON COURT WARWICK 6024",
     "locID": "LOC000020308606",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147318251"
    }
   },
@@ -24037,7 +24020,7 @@
     "name": "3A DEVON COURT WARWICK 6024",
     "locID": "LOC000020369380",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147318252"
    }
   },
@@ -25618,7 +25601,7 @@
     "name": "UNIT 2, 92 DORCHESTER AVENUE WARWICK 6024",
     "locID": "LOC000024512684",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148194215"
    }
   },
@@ -25856,7 +25839,7 @@
     "name": "UNIT 1, 92 DORCHESTER AVENUE WARWICK 6024",
     "locID": "LOC000024788747",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148204531"
    }
   },
@@ -28253,7 +28236,7 @@
     "name": "92 DORCHESTER AVENUE WARWICK 6024",
     "locID": "LOC000024788747",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162402891"
    }
   },
@@ -29086,7 +29069,7 @@
     "name": "UNIT 1, 8 DEVON COURT WARWICK 6024",
     "locID": "LOC000158479000",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718569435"
    }
   },
@@ -29103,7 +29086,7 @@
     "name": "UNIT 2, 8 DEVON COURT WARWICK 6024",
     "locID": "LOC000158479028",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718571736"
    }
   },
@@ -29120,7 +29103,7 @@
     "name": "UNIT 3, 8 DEVON COURT WARWICK 6024",
     "locID": "LOC000158479044",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718571737"
    }
   },
@@ -29137,7 +29120,7 @@
     "name": "UNIT 4, 8 DEVON COURT WARWICK 6024",
     "locID": "LOC000158479059",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718571738"
    }
   },
@@ -29154,7 +29137,7 @@
     "name": "UNIT 5, 8 DEVON COURT WARWICK 6024",
     "locID": "LOC000158479063",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718571739"
    }
   },
@@ -29630,7 +29613,7 @@
     "name": "11B DALBY STREET WARWICK 6024",
     "locID": "LOC000176728643",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719501806"
    }
   },
@@ -29647,7 +29630,7 @@
     "name": "11A DALBY STREET WARWICK 6024",
     "locID": "LOC000176728636",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719502443"
    }
   },
@@ -35259,6 +35242,91 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721206503"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80669093,
+     -31.84133454
+    ]
+   },
+   "properties": {
+    "name": "17B ADELA PLACE WARWICK 6024",
+    "locID": "LOC000187280940",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280429"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80669093,
+     -31.84133454
+    ]
+   },
+   "properties": {
+    "name": "17A ADELA PLACE WARWICK 6024",
+    "locID": "LOC000187280938",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280502"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80709154,
+     -31.84178916
+    ]
+   },
+   "properties": {
+    "name": "29B ADDISON WAY WARWICK 6024",
+    "locID": "LOC000192096450",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281473"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80669093,
+     -31.84133454
+    ]
+   },
+   "properties": {
+    "name": "17C ADELA PLACE WARWICK 6024",
+    "locID": "LOC000187280955",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281512"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80709154,
+     -31.84178916
+    ]
+   },
+   "properties": {
+    "name": "29A ADDISON WAY WARWICK 6024",
+    "locID": "LOC000192096421",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281877"
    }
   }
  ]

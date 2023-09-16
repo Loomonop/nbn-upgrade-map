@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-26T23:05:57.707700",
+ "generated": "2023-09-16T11:33:03.332762",
  "suburb": "WEST PINJARRA",
  "features": [
   {
@@ -848,7 +848,7 @@
    "properties": {
     "name": "7 MARSH ROAD WEST PINJARRA 6208",
     "locID": "Eiw3IE1hcnNoIFJkLCBXZXN0IFBpbmphcnJhIFdBIDYyMDgsIEF1c3RyYWxpYSIwEi4KFAoSCXE7MLuxcTIqEZ_MSVu0t-ciEAcqFAoSCc0KCnavcTIqEWOXqaE6fDOw",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160928522"
    }
@@ -1188,7 +1188,7 @@
    "properties": {
     "name": "LOT 143 MARSH ROAD WEST PINJARRA 6208",
     "locID": "Ei4xNDMgTWFyc2ggUmQsIFdlc3QgUGluamFycmEgV0EgNjIwOCwgQXVzdHJhbGlhIjESLwoUChIJz4X_SKVxMioRHvCOLjl3GpIQjwEqFAoSCc0KCnavcTIqEWOXqaE6fDOw",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161562593"
    }
@@ -2160,23 +2160,6 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718252652"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.83070022,
-     -32.62035534
-    ]
-   },
-   "properties": {
-    "name": "LOT 211 MEAD WAY WEST PINJARRA 6208",
-    "locID": "LOC000132850721",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718253529"
    }
   },
   {
@@ -3231,6 +3214,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721209302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.81513517,
+     -32.64646388
+    ]
+   },
+   "properties": {
+    "name": "14 PRIVADO CIRCUIT WEST PINJARRA 6208",
+    "locID": "LOC000185299400",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721278905"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.83070033,
+     -32.62035532
+    ]
+   },
+   "properties": {
+    "name": "10 MEAD WAY WEST PINJARRA 6208",
+    "locID": "LOC000132850721",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280831"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.83057236,
+     -32.62761539
+    ]
+   },
+   "properties": {
+    "name": "208 CURTIS LANE WEST PINJARRA 6208",
+    "locID": "LOC000132894341",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721281488"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.82909528,
+     -32.62974859
+    ]
+   },
+   "properties": {
+    "name": "16 ZARUMA WAY WEST PINJARRA 6208",
+    "locID": "ChIJNQGN3DdwMioR-vqE39uuFMs",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_721281974"
    }
   }
  ]
