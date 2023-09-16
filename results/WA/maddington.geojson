@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-26T14:53:44.627162",
+ "generated": "2023-09-16T03:35:12.406416",
  "suburb": "MADDINGTON",
  "features": [
   {
@@ -739,6 +739,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.98608511,
+     -32.05685206
+    ]
+   },
+   "properties": {
+    "name": "137 ATTFIELD STREET MADDINGTON 6109",
+    "locID": "ChIJFaOJGoeVMioRZfaLO3zf1Ag",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_146792169"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.98058,
      -32.05011
     ]
@@ -1079,6 +1096,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.98175,
+     -32.05124
+    ]
+   },
+   "properties": {
+    "name": "32 ORR STREET MADDINGTON 6109",
+    "locID": "LOC000193653337",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146793277"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.9818,
      -32.0506
     ]
@@ -1174,23 +1208,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146793283"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98232,
-     -32.05086
-    ]
-   },
-   "properties": {
-    "name": "1893 ALBANY HIGHWAY MADDINGTON 6109",
-    "locID": "LOC000035264280",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_146793284"
    }
   },
   {
@@ -1308,7 +1325,7 @@
     "name": "3 BINLEY PLACE MADDINGTON 6109",
     "locID": "LOC000065106265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146793380"
    }
   },
@@ -1376,7 +1393,7 @@
     "name": "72 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000030683898",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146793384"
    }
   },
@@ -1393,7 +1410,7 @@
     "name": "14 BLACKBURN STREET MADDINGTON 6109",
     "locID": "LOC000054716339",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146793385"
    }
   },
@@ -2090,7 +2107,7 @@
     "name": "1921 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000046429782",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146797761"
    }
   },
@@ -2413,7 +2430,7 @@
     "name": "40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729185",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146799619"
    }
   },
@@ -3620,7 +3637,7 @@
     "name": "20 THE CRESCENT MADDINGTON 6109",
     "locID": "LOC000023709674",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146803277"
    }
   },
@@ -3671,7 +3688,7 @@
     "name": "24 THE CRESCENT MADDINGTON 6109",
     "locID": "LOC000012803731",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146803280"
    }
   },
@@ -3688,7 +3705,7 @@
     "name": "30 THE CRESCENT MADDINGTON 6109",
     "locID": "LOC000093825054",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146803282"
    }
   },
@@ -4470,7 +4487,7 @@
     "name": "1 HOLLING STREET MADDINGTON 6109",
     "locID": "LOC000055696698",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146803494"
    }
   },
@@ -6374,7 +6391,7 @@
     "name": "58 WESTON STREET MADDINGTON 6109",
     "locID": "LOC000034578329",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146804279"
    }
   },
@@ -6391,7 +6408,7 @@
     "name": "56 WESTON STREET MADDINGTON 6109",
     "locID": "LOC000079427130",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146804280"
    }
   },
@@ -6781,8 +6798,8 @@
    "properties": {
     "name": "23 KELVIN ROAD MADDINGTON 6109",
     "locID": "LOC000031537827",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146804746"
    }
   },
@@ -6918,7 +6935,7 @@
     "name": "45 KELVIN ROAD MADDINGTON 6109",
     "locID": "LOC000079322714",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146804768"
    }
   },
@@ -7547,7 +7564,7 @@
     "name": "1 ELTON STREET MADDINGTON 6109",
     "locID": "LOC000037564100",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146804945"
    }
   },
@@ -9196,7 +9213,7 @@
     "name": "9 KITSON PLACE MADDINGTON 6109",
     "locID": "LOC000175898204",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146805594"
    }
   },
@@ -9740,7 +9757,7 @@
     "name": "22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042513902",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146806225"
    }
   },
@@ -9910,7 +9927,7 @@
     "name": "1934 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000017153934",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146806263"
    }
   },
@@ -9927,7 +9944,7 @@
     "name": "1950 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000055177178",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146806264"
    }
   },
@@ -10080,7 +10097,7 @@
     "name": "1982 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000081100744",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146806276"
    }
   },
@@ -11729,7 +11746,7 @@
     "name": "35 KELVIN ROAD MADDINGTON 6109",
     "locID": "LOC000036650324",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146808257"
    }
   },
@@ -12698,7 +12715,7 @@
     "name": "2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000053728508",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146809375"
    }
   },
@@ -13514,7 +13531,7 @@
     "name": "13 DAVISON STREET MADDINGTON 6109",
     "locID": "LOC000034520104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146810002"
    }
   },
@@ -13854,7 +13871,7 @@
     "name": "39 KELVIN ROAD MADDINGTON 6109",
     "locID": "LOC000097326969",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146810583"
    }
   },
@@ -14228,7 +14245,7 @@
     "name": "84 GOSNELLS ROAD WEST MADDINGTON 6109",
     "locID": "LOC000175333236",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146810702"
    }
   },
@@ -14823,7 +14840,7 @@
     "name": "207 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000071754681",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146811072"
    }
   },
@@ -14891,7 +14908,7 @@
     "name": "19 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000132474327",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146811133"
    }
   },
@@ -14925,7 +14942,7 @@
     "name": "17 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000016537950",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146811135"
    }
   },
@@ -14993,7 +15010,7 @@
     "name": "1858 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000132474273",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146811139"
    }
   },
@@ -15061,7 +15078,7 @@
     "name": "24 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000003703733",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146811146"
    }
   },
@@ -15384,7 +15401,7 @@
     "name": "63 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000071227678",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146811372"
    }
   },
@@ -15911,7 +15928,7 @@
     "name": "12 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000175898113",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146811930"
    }
   },
@@ -17263,8 +17280,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.00243333,
-     -32.05902203
+     116.00248267,
+     -32.05898257
     ]
    },
    "properties": {
@@ -17968,7 +17985,7 @@
     "name": "5 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000175898109",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146813562"
    }
   },
@@ -19668,7 +19685,7 @@
     "name": "17 DUNNELL STREET MADDINGTON 6109",
     "locID": "LOC000053934054",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146814957"
    }
   },
@@ -21249,7 +21266,7 @@
     "name": "220 MADDINGTON ROAD MADDINGTON 6109",
     "locID": "LOC000175383692",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146816221"
    }
   },
@@ -22320,7 +22337,7 @@
     "name": "32 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000077680355",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146817144"
    }
   },
@@ -22592,7 +22609,7 @@
     "name": "22 RANGEVIEW COURT MADDINGTON 6109",
     "locID": "LOC000102251362",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146817219"
    }
   },
@@ -24547,7 +24564,7 @@
     "name": "3 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000175898075",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146818492"
    }
   },
@@ -24666,7 +24683,7 @@
     "name": "15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084319788",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146818503"
    }
   },
@@ -24869,8 +24886,8 @@
    "properties": {
     "name": "3 CONIFER STREET MADDINGTON 6109",
     "locID": "LOC000021241025",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146818650"
    }
   },
@@ -25787,8 +25804,8 @@
    "properties": {
     "name": "50 WILLOW WAY MADDINGTON 6109",
     "locID": "LOC000038269554",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146819012"
    }
   },
@@ -25822,7 +25839,7 @@
     "name": "2030 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000069429973",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146819016"
    }
   },
@@ -28848,7 +28865,7 @@
     "name": "82 GOSNELLS ROAD WEST MADDINGTON 6109",
     "locID": "LOC000011958980",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146819977"
    }
   },
@@ -28882,7 +28899,7 @@
     "name": "74 GOSNELLS ROAD WEST MADDINGTON 6109",
     "locID": "LOC000081252396",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146819979"
    }
   },
@@ -29222,7 +29239,7 @@
     "name": "206 MADDINGTON ROAD MADDINGTON 6109",
     "locID": "LOC000175383685",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146820029"
    }
   },
@@ -34101,7 +34118,7 @@
     "name": "54 WESTON STREET MADDINGTON 6109",
     "locID": "LOC000083044849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146822150"
    }
   },
@@ -34985,7 +35002,7 @@
     "name": "61 DELLAR ROAD MADDINGTON 6109",
     "locID": "LOC000093135268",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146822827"
    }
   },
@@ -36328,7 +36345,7 @@
     "name": "3 MALCOLM ROAD MADDINGTON 6109",
     "locID": "LOC000021967104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146823623"
    }
   },
@@ -36736,7 +36753,7 @@
     "name": "20 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000026145995",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146823741"
    }
   },
@@ -36753,7 +36770,7 @@
     "name": "26 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000094225756",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146823744"
    }
   },
@@ -36787,7 +36804,7 @@
     "name": "20 WESTON STREET MADDINGTON 6109",
     "locID": "LOC000046267004",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146823746"
    }
   },
@@ -36821,7 +36838,7 @@
     "name": "36 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000054095563",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146823748"
    }
   },
@@ -36872,7 +36889,7 @@
     "name": "40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163726344",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146823752"
    }
   },
@@ -40373,8 +40390,8 @@
    "properties": {
     "name": "57 HILTON CRESCENT MADDINGTON 6109",
     "locID": "LOC000055490829",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146825711"
    }
   },
@@ -42771,7 +42788,7 @@
     "name": "25 WESTON STREET MADDINGTON 6109",
     "locID": "LOC000007062057",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146826528"
    }
   },
@@ -43706,7 +43723,7 @@
     "name": "77 PITCHFORD AVENUE MADDINGTON 6109",
     "locID": "LOC000132748170",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147045766"
    }
   },
@@ -45100,7 +45117,7 @@
     "name": "18 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000069475976",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147079378"
    }
   },
@@ -45763,7 +45780,7 @@
     "name": "37 EVA STREET MADDINGTON 6109",
     "locID": "LOC000072950792",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147088577"
    }
   },
@@ -45814,7 +45831,7 @@
     "name": "21 HANSON STREET MADDINGTON 6109",
     "locID": "LOC000132446626",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147089302"
    }
   },
@@ -46969,8 +46986,8 @@
    "properties": {
     "name": "15 KIRIN WAY MADDINGTON 6109",
     "locID": "LOC000038931293",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147096232"
    }
   },
@@ -49265,7 +49282,7 @@
     "name": "8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054976077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147111817"
    }
   },
@@ -50624,8 +50641,8 @@
    "properties": {
     "name": "12 ELLAMERE RETREAT MADDINGTON 6109",
     "locID": "LOC000093765573",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147142868"
    }
   },
@@ -53651,7 +53668,7 @@
     "name": "1869 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000044450449",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147172532"
    }
   },
@@ -54688,7 +54705,7 @@
     "name": "UNIT 5, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098545927",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147191200"
    }
   },
@@ -54705,7 +54722,7 @@
     "name": "12 BALTIC COURT MADDINGTON 6109",
     "locID": "LOC000087452445",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147191287"
    }
   },
@@ -54739,7 +54756,7 @@
     "name": "20 BALTIC COURT MADDINGTON 6109",
     "locID": "LOC000040080282",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147191289"
    }
   },
@@ -54875,7 +54892,7 @@
     "name": "1961 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000003789351",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147191855"
    }
   },
@@ -55402,7 +55419,7 @@
     "name": "UNIT 4, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098238179",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147210133"
    }
   },
@@ -55419,7 +55436,7 @@
     "name": "UNIT 14, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098253206",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147210137"
    }
   },
@@ -55436,7 +55453,7 @@
     "name": "UNIT 15, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098065260",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147210138"
    }
   },
@@ -55453,7 +55470,7 @@
     "name": "UNIT 16, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098303497",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147210139"
    }
   },
@@ -55470,7 +55487,7 @@
     "name": "UNIT 17, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098785932",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147210140"
    }
   },
@@ -55487,7 +55504,7 @@
     "name": "UNIT 18, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098323303",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147210141"
    }
   },
@@ -55606,7 +55623,7 @@
     "name": "8 SERENITY COURT MADDINGTON 6109",
     "locID": "LOC000032124441",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147217405"
    }
   },
@@ -56031,7 +56048,7 @@
     "name": "UNIT 1, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009508982",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219148"
    }
   },
@@ -56048,7 +56065,7 @@
     "name": "UNIT 2, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009604545",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219149"
    }
   },
@@ -56065,7 +56082,7 @@
     "name": "UNIT 3, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009793560",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219150"
    }
   },
@@ -56082,7 +56099,7 @@
     "name": "UNIT 9, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000075073581",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219206"
    }
   },
@@ -56099,7 +56116,7 @@
     "name": "UNIT 10, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074960845",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219207"
    }
   },
@@ -56116,7 +56133,7 @@
     "name": "UNIT 11, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074882241",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219208"
    }
   },
@@ -56133,7 +56150,7 @@
     "name": "UNIT 12, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000075003077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219209"
    }
   },
@@ -56150,7 +56167,7 @@
     "name": "UNIT 13, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074968120",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219210"
    }
   },
@@ -56167,7 +56184,7 @@
     "name": "UNIT 14, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074879321",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219211"
    }
   },
@@ -56184,7 +56201,7 @@
     "name": "UNIT 16, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074816808",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147219213"
    }
   },
@@ -56218,7 +56235,7 @@
     "name": "UNIT 6, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098238179",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225098"
    }
   },
@@ -56235,7 +56252,7 @@
     "name": "UNIT 7, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098162203",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225099"
    }
   },
@@ -56252,7 +56269,7 @@
     "name": "UNIT 8, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098091453",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225100"
    }
   },
@@ -56269,7 +56286,7 @@
     "name": "UNIT 9, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098043842",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225101"
    }
   },
@@ -56286,7 +56303,7 @@
     "name": "UNIT 10, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098593883",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225102"
    }
   },
@@ -56303,7 +56320,7 @@
     "name": "UNIT 11, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098515545",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225103"
    }
   },
@@ -56320,7 +56337,7 @@
     "name": "UNIT 12, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098527613",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225104"
    }
   },
@@ -56337,7 +56354,7 @@
     "name": "UNIT 13, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098177812",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147225105"
    }
   },
@@ -56558,7 +56575,7 @@
     "name": "1951 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000037661950",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147229681"
    }
   },
@@ -56779,7 +56796,7 @@
     "name": "UNIT 17, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000075118579",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234147"
    }
   },
@@ -56796,7 +56813,7 @@
     "name": "UNIT 18, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074877382",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234148"
    }
   },
@@ -56813,7 +56830,7 @@
     "name": "UNIT 19, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074847374",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234149"
    }
   },
@@ -56830,7 +56847,7 @@
     "name": "UNIT 1, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074960845",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234280"
    }
   },
@@ -56847,7 +56864,7 @@
     "name": "UNIT 2, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074693084",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234281"
    }
   },
@@ -56864,7 +56881,7 @@
     "name": "UNIT 3, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000075072503",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234282"
    }
   },
@@ -56881,7 +56898,7 @@
     "name": "UNIT 4, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074667041",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234283"
    }
   },
@@ -56898,7 +56915,7 @@
     "name": "UNIT 5, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074971686",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234284"
    }
   },
@@ -56915,7 +56932,7 @@
     "name": "UNIT 6, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074693084",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234285"
    }
   },
@@ -56932,7 +56949,7 @@
     "name": "UNIT 7, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000075068797",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234286"
    }
   },
@@ -56949,7 +56966,7 @@
     "name": "UNIT 8, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074701077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234287"
    }
   },
@@ -57136,7 +57153,7 @@
     "name": "UNIT 15, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009467683",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234921"
    }
   },
@@ -57153,7 +57170,7 @@
     "name": "UNIT 16, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009669897",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234922"
    }
   },
@@ -57170,7 +57187,7 @@
     "name": "UNIT 17, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009779666",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234923"
    }
   },
@@ -57187,7 +57204,7 @@
     "name": "UNIT 18, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009783792",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234924"
    }
   },
@@ -57204,7 +57221,7 @@
     "name": "UNIT 19, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009450689",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234925"
    }
   },
@@ -57221,7 +57238,7 @@
     "name": "UNIT 20, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009595532",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234926"
    }
   },
@@ -57238,7 +57255,7 @@
     "name": "UNIT 21, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009471022",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234927"
    }
   },
@@ -57255,7 +57272,7 @@
     "name": "UNIT 22, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009504458",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234928"
    }
   },
@@ -57272,7 +57289,7 @@
     "name": "UNIT 23, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009662478",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147234929"
    }
   },
@@ -57323,7 +57340,7 @@
     "name": "UNIT 1, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012918783",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147235915"
    }
   },
@@ -57340,7 +57357,7 @@
     "name": "UNIT 2, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012889233",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147235916"
    }
   },
@@ -57357,7 +57374,7 @@
     "name": "UNIT 3, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012955380",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147235917"
    }
   },
@@ -57374,7 +57391,7 @@
     "name": "UNIT 4, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012836674",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147235918"
    }
   },
@@ -57391,7 +57408,7 @@
     "name": "UNIT 5, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012856515",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147235919"
    }
   },
@@ -57408,7 +57425,7 @@
     "name": "UNIT 6, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012815967",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147235920"
    }
   },
@@ -57425,7 +57442,7 @@
     "name": "UNIT 7, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012772214",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147235921"
    }
   },
@@ -57442,7 +57459,7 @@
     "name": "UNIT 38, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009793560",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147236441"
    }
   },
@@ -57459,7 +57476,7 @@
     "name": "UNIT 39, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009676390",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147236442"
    }
   },
@@ -57476,7 +57493,7 @@
     "name": "UNIT 40, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009553518",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147236443"
    }
   },
@@ -57561,7 +57578,7 @@
     "name": "UNIT 24, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009541016",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237948"
    }
   },
@@ -57578,7 +57595,7 @@
     "name": "UNIT 25, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009784073",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237949"
    }
   },
@@ -57595,7 +57612,7 @@
     "name": "UNIT 26, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009754804",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237950"
    }
   },
@@ -57612,7 +57629,7 @@
     "name": "UNIT 27, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009584661",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237951"
    }
   },
@@ -57629,7 +57646,7 @@
     "name": "UNIT 28, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009604545",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237952"
    }
   },
@@ -57646,7 +57663,7 @@
     "name": "UNIT 29, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009576074",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237953"
    }
   },
@@ -57663,7 +57680,7 @@
     "name": "UNIT 30, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009610482",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237954"
    }
   },
@@ -57680,7 +57697,7 @@
     "name": "UNIT 31, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009532545",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237955"
    }
   },
@@ -57697,7 +57714,7 @@
     "name": "UNIT 32, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009670395",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237956"
    }
   },
@@ -57714,7 +57731,7 @@
     "name": "UNIT 33, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009591811",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237957"
    }
   },
@@ -57731,7 +57748,7 @@
     "name": "UNIT 34, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009450540",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147237958"
    }
   },
@@ -57850,7 +57867,7 @@
     "name": "UNIT 1, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098527613",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147239245"
    }
   },
@@ -57867,7 +57884,7 @@
     "name": "UNIT 2, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098307238",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147239246"
    }
   },
@@ -57884,7 +57901,7 @@
     "name": "UNIT 3, 4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000097887571",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147239247"
    }
   },
@@ -57901,7 +57918,7 @@
     "name": "UNIT 36, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009508656",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147239465"
    }
   },
@@ -57935,7 +57952,7 @@
     "name": "UNIT 8, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012933405",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147240963"
    }
   },
@@ -57952,7 +57969,7 @@
     "name": "UNIT 9, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012815967",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147240964"
    }
   },
@@ -57969,7 +57986,7 @@
     "name": "UNIT 10, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012868568",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147240965"
    }
   },
@@ -57986,7 +58003,7 @@
     "name": "UNIT 11, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012918783",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147240966"
    }
   },
@@ -58309,7 +58326,7 @@
     "name": "UNIT 4, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009512520",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147243849"
    }
   },
@@ -58326,7 +58343,7 @@
     "name": "UNIT 5, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009491267",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147243850"
    }
   },
@@ -58343,7 +58360,7 @@
     "name": "UNIT 6, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009595532",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147243851"
    }
   },
@@ -58360,7 +58377,7 @@
     "name": "25 EMERALD ROAD MADDINGTON 6109",
     "locID": "LOC000060238503",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147244402"
    }
   },
@@ -58394,7 +58411,7 @@
     "name": "UNIT 35, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009491279",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147247656"
    }
   },
@@ -58411,7 +58428,7 @@
     "name": "UNIT 7, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009579929",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147249609"
    }
   },
@@ -58428,7 +58445,7 @@
     "name": "UNIT 8, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009668598",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147249610"
    }
   },
@@ -58445,7 +58462,7 @@
     "name": "UNIT 9, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009501651",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147249611"
    }
   },
@@ -58462,7 +58479,7 @@
     "name": "UNIT 10, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009745506",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147249612"
    }
   },
@@ -58479,7 +58496,7 @@
     "name": "UNIT 12, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009519731",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147249613"
    }
   },
@@ -58496,7 +58513,7 @@
     "name": "UNIT 13, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009508982",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147249614"
    }
   },
@@ -58513,7 +58530,7 @@
     "name": "UNIT 14, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009755034",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147249615"
    }
   },
@@ -58768,7 +58785,7 @@
     "name": "5 BARCELONA WAY MADDINGTON 6109",
     "locID": "LOC000108843744",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147263857"
    }
   },
@@ -58972,7 +58989,7 @@
     "name": "17 MALCOLM ROAD MADDINGTON 6109",
     "locID": "LOC000105038456",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147268264"
    }
   },
@@ -59703,7 +59720,7 @@
     "name": "UNIT 14, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064377904",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147276102"
    }
   },
@@ -59720,7 +59737,7 @@
     "name": "UNIT 15, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064393332",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147276103"
    }
   },
@@ -59924,7 +59941,7 @@
     "name": "8 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089783395",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147279478"
    }
   },
@@ -60179,7 +60196,7 @@
     "name": "UNIT 10, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064438243",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147289267"
    }
   },
@@ -60196,7 +60213,7 @@
     "name": "UNIT 11, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064203338",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147289268"
    }
   },
@@ -60213,7 +60230,7 @@
     "name": "UNIT 9, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064481327",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147289269"
    }
   },
@@ -60230,7 +60247,7 @@
     "name": "UNIT 6, 12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000031481658",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147289270"
    }
   },
@@ -60264,7 +60281,7 @@
     "name": "UNIT 8, 12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000031481295",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147289272"
    }
   },
@@ -60281,7 +60298,7 @@
     "name": "UNIT 9, 12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000031072417",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147289273"
    }
   },
@@ -60298,7 +60315,7 @@
     "name": "UNIT 2, 12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000031458353",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147289275"
    }
   },
@@ -60587,7 +60604,7 @@
     "name": "UNIT 6, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064657340",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147291292"
    }
   },
@@ -60604,7 +60621,7 @@
     "name": "UNIT 7, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064373599",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147291293"
    }
   },
@@ -60621,7 +60638,7 @@
     "name": "UNIT 8, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064335181",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147291294"
    }
   },
@@ -60638,7 +60655,7 @@
     "name": "UNIT 3, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064174112",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147291295"
    }
   },
@@ -60655,7 +60672,7 @@
     "name": "UNIT 4, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064267434",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147291296"
    }
   },
@@ -60689,7 +60706,7 @@
     "name": "UNIT 16, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064188916",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292237"
    }
   },
@@ -60706,7 +60723,7 @@
     "name": "UNIT 17, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064350603",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292238"
    }
   },
@@ -60723,7 +60740,7 @@
     "name": "UNIT 18, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064794387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292239"
    }
   },
@@ -60740,7 +60757,7 @@
     "name": "UNIT 19, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064744624",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292240"
    }
   },
@@ -60757,7 +60774,7 @@
     "name": "UNIT 20, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064498021",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292241"
    }
   },
@@ -60774,7 +60791,7 @@
     "name": "UNIT 21, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064702044",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292242"
    }
   },
@@ -60791,7 +60808,7 @@
     "name": "UNIT 4, 6 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000071439493",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292243"
    }
   },
@@ -60808,7 +60825,7 @@
     "name": "UNIT 5, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064454803",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292271"
    }
   },
@@ -60825,7 +60842,7 @@
     "name": "UNIT 22, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064664240",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292272"
    }
   },
@@ -60842,7 +60859,7 @@
     "name": "9 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000093031815",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292273"
    }
   },
@@ -60859,7 +60876,7 @@
     "name": "UNIT 2, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064498021",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292275"
    }
   },
@@ -60876,7 +60893,7 @@
     "name": "UNIT 1, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064679637",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292276"
    }
   },
@@ -60893,7 +60910,7 @@
     "name": "UNIT 3, 12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000031481658",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292944"
    }
   },
@@ -60910,7 +60927,7 @@
     "name": "UNIT 4, 12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000031552850",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292945"
    }
   },
@@ -60927,7 +60944,7 @@
     "name": "UNIT 5, 12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000031171413",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292946"
    }
   },
@@ -60944,7 +60961,7 @@
     "name": "UNIT 12, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064616500",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292947"
    }
   },
@@ -60961,7 +60978,7 @@
     "name": "UNIT 13, 11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000064679637",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147292948"
    }
   },
@@ -61114,7 +61131,7 @@
     "name": "UNIT 1, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066080557",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147294904"
    }
   },
@@ -61131,7 +61148,7 @@
     "name": "UNIT 2, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066322170",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147294905"
    }
   },
@@ -61148,7 +61165,7 @@
     "name": "UNIT 3, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066377081",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147294906"
    }
   },
@@ -61199,7 +61216,7 @@
     "name": "15 CEDAR WAY MADDINGTON 6109",
     "locID": "LOC000069521534",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147295218"
    }
   },
@@ -61352,7 +61369,7 @@
     "name": "SHOP 1, 1895 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000132418713",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147295755"
    }
   },
@@ -61369,7 +61386,7 @@
     "name": "SHOP 2, 1895 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000132418713",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147295756"
    }
   },
@@ -61386,7 +61403,7 @@
     "name": "19 CEDAR WAY MADDINGTON 6109",
     "locID": "LOC000069331174",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147298232"
    }
   },
@@ -61437,7 +61454,7 @@
     "name": "1 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000084265682",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147299329"
    }
   },
@@ -61539,7 +61556,7 @@
     "name": "13 CEDAR WAY MADDINGTON 6109",
     "locID": "LOC000080372603",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147301220"
    }
   },
@@ -61555,8 +61572,8 @@
    "properties": {
     "name": "22A WARATAH COURT MADDINGTON 6109",
     "locID": "LOC000008619440",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147302062"
    }
   },
@@ -61573,7 +61590,7 @@
     "name": "UNIT 4, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066086168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147303372"
    }
   },
@@ -61590,7 +61607,7 @@
     "name": "UNIT 5, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066350213",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147303373"
    }
   },
@@ -61607,7 +61624,7 @@
     "name": "UNIT 6, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066080557",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147303374"
    }
   },
@@ -61624,7 +61641,7 @@
     "name": "UNIT 7, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066093082",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147303375"
    }
   },
@@ -61743,7 +61760,7 @@
     "name": "53 PITCHFORD AVENUE MADDINGTON 6109",
     "locID": "LOC000132454104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147304971"
    }
   },
@@ -62185,7 +62202,7 @@
     "name": "FACTORY 2, 20 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000069678420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147313137"
    }
   },
@@ -62202,7 +62219,7 @@
     "name": "FACTORY 3, 20 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000069678420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147313138"
    }
   },
@@ -62219,7 +62236,7 @@
     "name": "FACTORY 4, 20 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000069678420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147313139"
    }
   },
@@ -62457,7 +62474,7 @@
     "name": "FACTORY 1, 20 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000069678420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147313178"
    }
   },
@@ -63562,7 +63579,7 @@
     "name": "593 BICKLEY ROAD MADDINGTON 6109",
     "locID": "LOC000132454162",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147335622"
    }
   },
@@ -64497,7 +64514,7 @@
     "name": "UNIT 11, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009528730",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147380901"
    }
   },
@@ -64514,7 +64531,7 @@
     "name": "UNIT 37, 208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009550907",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147380902"
    }
   },
@@ -64871,7 +64888,7 @@
     "name": "UNIT 6, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007057206",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147857829"
    }
   },
@@ -64888,7 +64905,7 @@
     "name": "UNIT 11, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042533014",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147857837"
    }
   },
@@ -64905,7 +64922,7 @@
     "name": "UNIT 9, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069389552",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147857838"
    }
   },
@@ -64922,7 +64939,7 @@
     "name": "5 BRAMLING STREET MADDINGTON 6109",
     "locID": "LOC000065117435",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147857851"
    }
   },
@@ -65041,7 +65058,7 @@
     "name": "UNIT 3, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089734573",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147858016"
    }
   },
@@ -65075,7 +65092,7 @@
     "name": "7 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049259175",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147858778"
    }
   },
@@ -65177,7 +65194,7 @@
     "name": "UNIT 7, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089738897",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147859848"
    }
   },
@@ -65330,7 +65347,7 @@
     "name": "UNIT 1, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055289399",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147865156"
    }
   },
@@ -65398,7 +65415,7 @@
     "name": "UNIT 20, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055035153",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147865233"
    }
   },
@@ -65415,7 +65432,7 @@
     "name": "UNIT 18, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055001580",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147865234"
    }
   },
@@ -65500,7 +65517,7 @@
     "name": "UNIT 7, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007083468",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147867939"
    }
   },
@@ -65517,7 +65534,7 @@
     "name": "UNIT 22, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054879658",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147867941"
    }
   },
@@ -65534,7 +65551,7 @@
     "name": "UNIT 5, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000006992002",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147867967"
    }
   },
@@ -65568,7 +65585,7 @@
     "name": "UNIT 3, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069244738",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147867973"
    }
   },
@@ -65585,7 +65602,7 @@
     "name": "75 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000079552256",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147867977"
    }
   },
@@ -65704,7 +65721,7 @@
     "name": "UNIT 5, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000053991809",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147868055"
    }
   },
@@ -65772,7 +65789,7 @@
     "name": "UNIT 15, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042552366",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147868824"
    }
   },
@@ -65823,7 +65840,7 @@
     "name": "UNIT 6, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000053728508",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147868855"
    }
   },
@@ -65840,7 +65857,7 @@
     "name": "UNIT 7, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000053860203",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147868856"
    }
   },
@@ -65942,7 +65959,7 @@
     "name": "UNIT 5, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089743794",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147868959"
    }
   },
@@ -66010,7 +66027,7 @@
     "name": "UNIT 4, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000053876525",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147869644"
    }
   },
@@ -66044,7 +66061,7 @@
     "name": "UNIT 1, 198 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000029451947",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147869662"
    }
   },
@@ -66078,7 +66095,7 @@
     "name": "UNIT 11, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000093090582",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147869664"
    }
   },
@@ -66180,7 +66197,7 @@
     "name": "UNIT 1, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092971229",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147869848"
    }
   },
@@ -66350,7 +66367,7 @@
     "name": "UNIT 9, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089636704",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147871817"
    }
   },
@@ -66401,7 +66418,7 @@
     "name": "UNIT 5, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007041062",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147871825"
    }
   },
@@ -66605,7 +66622,7 @@
     "name": "UNIT 1, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000006971250",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147873124"
    }
   },
@@ -66622,7 +66639,7 @@
     "name": "UNIT 2, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000006911576",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147873128"
    }
   },
@@ -66656,7 +66673,7 @@
     "name": "UNIT 13, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055347478",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147873130"
    }
   },
@@ -66707,7 +66724,7 @@
     "name": "UNIT 8, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092975425",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147873133"
    }
   },
@@ -66741,7 +66758,7 @@
     "name": "UNIT 5, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000068876093",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147874048"
    }
   },
@@ -66860,7 +66877,7 @@
     "name": "UNIT 2, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049493239",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147874227"
    }
   },
@@ -66877,7 +66894,7 @@
     "name": "24 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000053913766",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147874905"
    }
   },
@@ -66928,7 +66945,7 @@
     "name": "UNIT 4, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007082528",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147874913"
    }
   },
@@ -66945,7 +66962,7 @@
     "name": "UNIT 12, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092971229",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147874914"
    }
   },
@@ -66996,7 +67013,7 @@
     "name": "UNIT 10, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089508736",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875060"
    }
   },
@@ -67030,7 +67047,7 @@
     "name": "UNIT 5, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092896325",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875152"
    }
   },
@@ -67047,7 +67064,7 @@
     "name": "16 THE CRESCENT MADDINGTON 6109",
     "locID": "LOC000078172233",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147875157"
    }
   },
@@ -67149,7 +67166,7 @@
     "name": "UNIT 12, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042905628",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875164"
    }
   },
@@ -67217,7 +67234,7 @@
     "name": "UNIT 18, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042478871",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875168"
    }
   },
@@ -67353,7 +67370,7 @@
     "name": "UNIT 7, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049259175",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875243"
    }
   },
@@ -67438,7 +67455,7 @@
     "name": "UNIT 6, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054976077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875786"
    }
   },
@@ -67455,7 +67472,7 @@
     "name": "UNIT 17, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055223705",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875799"
    }
   },
@@ -67489,7 +67506,7 @@
     "name": "UNIT 2, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055114793",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875802"
    }
   },
@@ -67506,7 +67523,7 @@
     "name": "UNIT 6, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092971229",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875805"
    }
   },
@@ -67523,7 +67540,7 @@
     "name": "UNIT 24, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000043152824",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875816"
    }
   },
@@ -67608,7 +67625,7 @@
     "name": "UNIT 2, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007447083",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875857"
    }
   },
@@ -67642,7 +67659,7 @@
     "name": "UNIT 3, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000093062680",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875866"
    }
   },
@@ -67744,7 +67761,7 @@
     "name": "UNIT 11, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089828381",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875958"
    }
   },
@@ -67761,7 +67778,7 @@
     "name": "UNIT 7, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069209620",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875962"
    }
   },
@@ -67812,7 +67829,7 @@
     "name": "UNIT 21, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055078186",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875966"
    }
   },
@@ -67829,7 +67846,7 @@
     "name": "UNIT 22, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042513902",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875967"
    }
   },
@@ -67846,7 +67863,7 @@
     "name": "UNIT 1, 17 DUNNELL STREET MADDINGTON 6109",
     "locID": "LOC000053934054",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147875971"
    }
   },
@@ -68220,7 +68237,7 @@
     "name": "UNIT 4, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000090067459",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147876720"
    }
   },
@@ -68305,7 +68322,7 @@
     "name": "UNIT 2, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000093088534",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147876830"
    }
   },
@@ -68339,7 +68356,7 @@
     "name": "UNIT 15, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055125379",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147876892"
    }
   },
@@ -68356,7 +68373,7 @@
     "name": "UNIT 17, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042684799",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147876893"
    }
   },
@@ -68696,7 +68713,7 @@
     "name": "UNIT 9, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007026247",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147877887"
    }
   },
@@ -68713,7 +68730,7 @@
     "name": "15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029495943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147877890"
    }
   },
@@ -68747,7 +68764,7 @@
     "name": "UNIT 9, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054913095",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147877896"
    }
   },
@@ -68764,7 +68781,7 @@
     "name": "UNIT 5, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055343483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147877898"
    }
   },
@@ -68798,7 +68815,7 @@
     "name": "UNIT 10, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007040251",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147877904"
    }
   },
@@ -68815,7 +68832,7 @@
     "name": "UNIT 2, 11 MULLINE COURT MADDINGTON 6109",
     "locID": "LOC000007861391",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147878144"
    }
   },
@@ -68968,7 +68985,7 @@
     "name": "UNIT 2, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089644024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147878750"
    }
   },
@@ -69172,7 +69189,7 @@
     "name": "UNIT 3, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000053920632",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879439"
    }
   },
@@ -69206,7 +69223,7 @@
     "name": "UNIT 3, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007088435",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879489"
    }
   },
@@ -69274,7 +69291,7 @@
     "name": "UNIT 10, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049306842",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879595"
    }
   },
@@ -69308,7 +69325,7 @@
     "name": "UNIT 20, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042773587",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879605"
    }
   },
@@ -69342,7 +69359,7 @@
     "name": "UNIT 4, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000068991570",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879607"
    }
   },
@@ -69359,7 +69376,7 @@
     "name": "UNIT 2, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069209620",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879608"
    }
   },
@@ -69427,7 +69444,7 @@
     "name": "UNIT 14, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055093564",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879768"
    }
   },
@@ -69461,7 +69478,7 @@
     "name": "UNIT 7, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092844596",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879772"
    }
   },
@@ -69478,7 +69495,7 @@
     "name": "UNIT 8, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007394659",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879775"
    }
   },
@@ -69495,7 +69512,7 @@
     "name": "UNIT 1, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007040251",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147879776"
    }
   },
@@ -69597,7 +69614,7 @@
     "name": "78 ALDINGTON STREET MADDINGTON 6109",
     "locID": "LOC000053967620",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147880306"
    }
   },
@@ -69750,7 +69767,7 @@
     "name": "UNIT 6, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089644024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147880649"
    }
   },
@@ -69835,7 +69852,7 @@
     "name": "UNIT 12, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089618105",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147881215"
    }
   },
@@ -69852,7 +69869,7 @@
     "name": "UNIT 8, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089783395",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147881217"
    }
   },
@@ -70039,7 +70056,7 @@
     "name": "UNIT 1, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000054139431",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147881858"
    }
   },
@@ -70056,7 +70073,7 @@
     "name": "UNIT 2, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000053728508",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147881859"
    }
   },
@@ -70260,7 +70277,7 @@
     "name": "UNIT 12, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092975425",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882381"
    }
   },
@@ -70294,7 +70311,7 @@
     "name": "UNIT 19, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055168140",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882383"
    }
   },
@@ -70328,7 +70345,7 @@
     "name": "UNIT 21, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042714664",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882388"
    }
   },
@@ -70362,7 +70379,7 @@
     "name": "UNIT 4, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054786485",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882391"
    }
   },
@@ -70379,7 +70396,7 @@
     "name": "UNIT 11, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007440261",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882395"
    }
   },
@@ -70396,7 +70413,7 @@
     "name": "UNIT 14, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042569136",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882403"
    }
   },
@@ -70430,7 +70447,7 @@
     "name": "UNIT 9, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049336689",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882411"
    }
   },
@@ -70464,7 +70481,7 @@
     "name": "UNIT 3, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049676283",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882426"
    }
   },
@@ -70498,7 +70515,7 @@
     "name": "UNIT 6, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069209620",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882457"
    }
   },
@@ -70515,7 +70532,7 @@
     "name": "UNIT 10, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092842012",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882458"
    }
   },
@@ -70549,7 +70566,7 @@
     "name": "UNIT 5, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049584476",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882474"
    }
   },
@@ -70634,7 +70651,7 @@
     "name": "UNIT 3, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055254504",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147882584"
    }
   },
@@ -70685,7 +70702,7 @@
     "name": "7 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000094815077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883086"
    }
   },
@@ -70702,7 +70719,7 @@
     "name": "10 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000077466412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883089"
    }
   },
@@ -70736,7 +70753,7 @@
     "name": "UNIT 1, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089611038",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883200"
    }
   },
@@ -70753,7 +70770,7 @@
     "name": "UNIT 2, 198 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000029451395",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883216"
    }
   },
@@ -70770,7 +70787,7 @@
     "name": "UNIT 8, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007049444",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883218"
    }
   },
@@ -70787,7 +70804,7 @@
     "name": "UNIT 13, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000006911374",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883220"
    }
   },
@@ -70821,7 +70838,7 @@
     "name": "26 THE CRESCENT MADDINGTON 6109",
     "locID": "LOC000022079428",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147883231"
    }
   },
@@ -70838,7 +70855,7 @@
     "name": "18 THE CRESCENT MADDINGTON 6109",
     "locID": "LOC000072035906",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147883233"
    }
   },
@@ -70957,7 +70974,7 @@
     "name": "UNIT 19, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042858683",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883376"
    }
   },
@@ -70991,7 +71008,7 @@
     "name": "UNIT 25, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042927827",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883380"
    }
   },
@@ -71008,7 +71025,7 @@
     "name": "UNIT 8, 2 BIRCH STREET MADDINGTON 6109",
     "locID": "LOC000054014223",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883398"
    }
   },
@@ -71076,7 +71093,7 @@
     "name": "UNIT 4, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049293893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883429"
    }
   },
@@ -71110,7 +71127,7 @@
     "name": "UNIT 1, 22 RANGEVIEW COURT MADDINGTON 6109",
     "locID": "LOC000102251362",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883431"
    }
   },
@@ -71161,7 +71178,7 @@
     "name": "UNIT 3, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007044341",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883538"
    }
   },
@@ -71178,7 +71195,7 @@
     "name": "UNIT 11, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055289399",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883546"
    }
   },
@@ -71195,7 +71212,7 @@
     "name": "UNIT 10, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007053658",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883547"
    }
   },
@@ -71212,7 +71229,7 @@
     "name": "UNIT 4, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007361769",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147883552"
    }
   },
@@ -71399,7 +71416,7 @@
     "name": "UNIT 1, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069043942",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884060"
    }
   },
@@ -71501,7 +71518,7 @@
     "name": "UNIT 6, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007447083",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884109"
    }
   },
@@ -71569,7 +71586,7 @@
     "name": "UNIT 7, 17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007073120",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884160"
    }
   },
@@ -71586,7 +71603,7 @@
     "name": "UNIT 9, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092925436",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884162"
    }
   },
@@ -71603,7 +71620,7 @@
     "name": "UNIT 4, 12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092946022",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884166"
    }
   },
@@ -71739,7 +71756,7 @@
     "name": "UNIT 6, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049493239",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884484"
    }
   },
@@ -71773,7 +71790,7 @@
     "name": "UNIT 12, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000006971250",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884987"
    }
   },
@@ -71790,7 +71807,7 @@
     "name": "UNIT 16, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042427206",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884989"
    }
   },
@@ -71807,7 +71824,7 @@
     "name": "1A HOLLING STREET MADDINGTON 6109",
     "locID": "LOC000055898595",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147884992"
    }
   },
@@ -71858,7 +71875,7 @@
     "name": "UNIT 2, 22 RANGEVIEW COURT MADDINGTON 6109",
     "locID": "LOC000102251362",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147885068"
    }
   },
@@ -72011,7 +72028,7 @@
     "name": "65 EVA STREET MADDINGTON 6109",
     "locID": "LOC000175389910",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147886051"
    }
   },
@@ -72079,7 +72096,7 @@
     "name": "UNIT 1, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049276387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147886115"
    }
   },
@@ -72096,7 +72113,7 @@
     "name": "UNIT 8, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049419855",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147886117"
    }
   },
@@ -72215,7 +72232,7 @@
     "name": "UNIT 13, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042594208",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147886223"
    }
   },
@@ -72249,7 +72266,7 @@
     "name": "UNIT 11, 30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049276387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147886824"
    }
   },
@@ -72300,7 +72317,7 @@
     "name": "UNIT 9, 16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007072173",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147886853"
    }
   },
@@ -72368,7 +72385,7 @@
     "name": "UNIT 13, 23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089759149",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147886963"
    }
   },
@@ -72470,7 +72487,7 @@
     "name": "UNIT 7, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054938672",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147887025"
    }
   },
@@ -72963,7 +72980,7 @@
     "name": "200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069209620",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148712685"
    }
   },
@@ -73031,7 +73048,7 @@
     "name": "UNIT 8, 200 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000069097696",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148712764"
    }
   },
@@ -73082,7 +73099,7 @@
     "name": "UNIT 2, 12 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000175898113",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148713593"
    }
   },
@@ -73099,7 +73116,7 @@
     "name": "18A CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000132474304",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148713596"
    }
   },
@@ -73252,7 +73269,7 @@
     "name": "208 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000009595532",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148726453"
    }
   },
@@ -73643,7 +73660,7 @@
     "name": "13B DAVISON STREET MADDINGTON 6109",
     "locID": "LOC000034451341",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148728600"
    }
   },
@@ -73949,7 +73966,7 @@
     "name": "UNIT 3, 12 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000175898113",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148729189"
    }
   },
@@ -74663,7 +74680,7 @@
     "name": "UNIT 1, 3 BINLEY PLACE MADDINGTON 6109",
     "locID": "LOC000064992778",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148729753"
    }
   },
@@ -74969,7 +74986,7 @@
     "name": "UNIT 2, 9 KITSON PLACE MADDINGTON 6109",
     "locID": "LOC000088730029",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148730325"
    }
   },
@@ -74986,7 +75003,7 @@
     "name": "UNIT 1, 9 KITSON PLACE MADDINGTON 6109",
     "locID": "LOC000175898204",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148730327"
    }
   },
@@ -75105,7 +75122,7 @@
     "name": "3 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132450291",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148730942"
    }
   },
@@ -75156,7 +75173,7 @@
     "name": "17 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000007041062",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148731004"
    }
   },
@@ -75224,7 +75241,7 @@
     "name": "12 ORCHARD ROAD MADDINGTON 6109",
     "locID": "LOC000132442820",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148731038"
    }
   },
@@ -75275,7 +75292,7 @@
     "name": "UNIT 3, 5 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000175898109",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148731066"
    }
   },
@@ -75292,7 +75309,7 @@
     "name": "UNIT 5, 4 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000043449056",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148731067"
    }
   },
@@ -75309,7 +75326,7 @@
     "name": "UNIT 4, 4 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000043016601",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148731068"
    }
   },
@@ -75326,7 +75343,7 @@
     "name": "UNIT 3, 4 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000043052144",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148731069"
    }
   },
@@ -75343,7 +75360,7 @@
     "name": "UNIT 2, 4 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000043354476",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_148731070"
    }
   },
@@ -75360,7 +75377,7 @@
     "name": "UNIT 1, 4 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000043114588",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_148731071"
    }
   },
@@ -75479,7 +75496,7 @@
     "name": "UNIT 3, 9 KITSON PLACE MADDINGTON 6109",
     "locID": "LOC000175898204",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148731268"
    }
   },
@@ -75629,113 +75646,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 1, 17 BLACKBURN STREET MADDINGTON 6109",
-    "locID": "LOC000163713197",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148731733"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98064858,
-     -32.05115424
-    ]
-   },
-   "properties": {
-    "name": "2 BLACKBURN STREET MADDINGTON 6109",
-    "locID": "LOC000034354978",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148731734"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98064858,
-     -32.05115424
-    ]
-   },
-   "properties": {
     "name": "16 BLACKBURN STREET MADDINGTON 6109",
     "locID": "LOC000163713184",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148731735"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98064858,
-     -32.05115424
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 17 BLACKBURN STREET MADDINGTON 6109",
-    "locID": "LOC000163713197",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148731736"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98064858,
-     -32.05115424
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 17 BLACKBURN STREET MADDINGTON 6109",
-    "locID": "LOC000163713197",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148731737"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98064858,
-     -32.05115424
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 17 BLACKBURN STREET MADDINGTON 6109",
-    "locID": "LOC000163713197",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148731738"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.98064858,
-     -32.05115424
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 17 BLACKBURN STREET MADDINGTON 6109",
-    "locID": "LOC000163713197",
-    "tech": "FTTB",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148731739"
    }
   },
   {
@@ -77230,7 +77145,7 @@
     "name": "21 RYELANE STREET MADDINGTON 6109",
     "locID": "LOC000042040278",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148732949"
    }
   },
@@ -77315,7 +77230,7 @@
     "name": "UNIT 1, 3 MALCOLM ROAD MADDINGTON 6109",
     "locID": "LOC000021931241",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148733069"
    }
   },
@@ -77332,7 +77247,7 @@
     "name": "UNIT 2, 3 MALCOLM ROAD MADDINGTON 6109",
     "locID": "LOC000021967104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148733070"
    }
   },
@@ -77349,7 +77264,7 @@
     "name": "UNIT 3, 3 MALCOLM ROAD MADDINGTON 6109",
     "locID": "LOC000021967104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148733071"
    }
   },
@@ -78046,7 +77961,7 @@
     "name": "13A DAVISON STREET MADDINGTON 6109",
     "locID": "LOC000034520104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148733772"
    }
   },
@@ -78250,7 +78165,7 @@
     "name": "UNIT 4, 5 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000043449056",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148733860"
    }
   },
@@ -79049,7 +78964,7 @@
     "name": "UNIT 2, 17 DUNNELL STREET MADDINGTON 6109",
     "locID": "LOC000053934054",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148734753"
    }
   },
@@ -79236,7 +79151,7 @@
     "name": "UNIT 23, 22 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000042507820",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148734938"
    }
   },
@@ -79338,7 +79253,7 @@
     "name": "UNIT 3, 6 MALCOLM ROAD MADDINGTON 6109",
     "locID": "LOC000021967104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148735006"
    }
   },
@@ -79525,7 +79440,7 @@
     "name": "16 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000007447083",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148736376"
    }
   },
@@ -79542,7 +79457,7 @@
     "name": "UNIT 12, 9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092925436",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148736377"
    }
   },
@@ -79610,7 +79525,7 @@
     "name": "158 MADDINGTON ROAD MADDINGTON 6109",
     "locID": "LOC000163721847",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148736833"
    }
   },
@@ -80137,7 +80052,7 @@
     "name": "UNIT 1, 12 CHURCH ROAD MADDINGTON 6109",
     "locID": "LOC000055250146",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148739226"
    }
   },
@@ -80290,7 +80205,7 @@
     "name": "UNIT 8, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054976077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148740135"
    }
   },
@@ -80307,7 +80222,7 @@
     "name": "UNIT 10, 8 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000055408153",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148740136"
    }
   },
@@ -80698,7 +80613,7 @@
     "name": "UNIT 1, 11 MULLINE COURT MADDINGTON 6109",
     "locID": "LOC000007861391",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148740463"
    }
   },
@@ -80800,7 +80715,7 @@
     "name": "79 PITCHFORD AVENUE MADDINGTON 6109",
     "locID": "LOC000098948638",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148741123"
    }
   },
@@ -81157,7 +81072,7 @@
     "name": "UNIT 15, 2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074854437",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_160792257"
    }
   },
@@ -81956,7 +81871,7 @@
     "name": "UNIT 1, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084319788",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486243"
    }
   },
@@ -81973,7 +81888,7 @@
     "name": "UNIT 1, 3 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084272988",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486244"
    }
   },
@@ -82007,7 +81922,7 @@
     "name": "UNIT 2, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084005501",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486246"
    }
   },
@@ -82024,7 +81939,7 @@
     "name": "UNIT 2, 3 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000069385306",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486247"
    }
   },
@@ -82058,7 +81973,7 @@
     "name": "UNIT 3, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084272988",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486249"
    }
   },
@@ -82075,7 +81990,7 @@
     "name": "UNIT 3, 3 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084272988",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486250"
    }
   },
@@ -82092,7 +82007,7 @@
     "name": "UNIT 4, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084421950",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486251"
    }
   },
@@ -82109,7 +82024,7 @@
     "name": "UNIT 4, 3 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000175898075",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486252"
    }
   },
@@ -82126,7 +82041,7 @@
     "name": "UNIT 5, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084111528",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486253"
    }
   },
@@ -82143,7 +82058,7 @@
     "name": "UNIT 5, 3 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000175898075",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486254"
    }
   },
@@ -82160,7 +82075,7 @@
     "name": "UNIT 6, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084319788",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486255"
    }
   },
@@ -82194,7 +82109,7 @@
     "name": "UNIT 7, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084146030",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161486257"
    }
   },
@@ -83292,14 +83207,14 @@
     "type": "Point",
     "coordinates": [
      115.98003653,
-     -32.05003556
+     -32.05003557
     ]
    },
    "properties": {
     "name": "UNIT 1, 1869 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000044450449",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161594728"
    }
   },
@@ -83316,7 +83231,7 @@
     "name": "UNIT 1, 1973 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000019551247",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161594729"
    }
   },
@@ -83326,14 +83241,14 @@
     "type": "Point",
     "coordinates": [
      115.98003653,
-     -32.05003556
+     -32.05003557
     ]
    },
    "properties": {
     "name": "UNIT 2, 1869 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000044688277",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161594730"
    }
   },
@@ -83350,7 +83265,7 @@
     "name": "UNIT 2, 1973 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000019551247",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161594731"
    }
   },
@@ -83360,14 +83275,14 @@
     "type": "Point",
     "coordinates": [
      115.98003653,
-     -32.05003556
+     -32.05003557
     ]
    },
    "properties": {
     "name": "UNIT 3, 1869 ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000044450449",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161594732"
    }
   },
@@ -83418,7 +83333,7 @@
     "name": "UNIT 8, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084319788",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161594845"
    }
   },
@@ -83435,7 +83350,7 @@
     "name": "UNIT 9, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084102730",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161594846"
    }
   },
@@ -83639,7 +83554,7 @@
     "name": "UNIT 1, 593 BICKLEY ROAD MADDINGTON 6109",
     "locID": "LOC000092717841",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161595986"
    }
   },
@@ -83656,7 +83571,7 @@
     "name": "UNIT 2, 593 BICKLEY ROAD MADDINGTON 6109",
     "locID": "LOC000092849814",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161595987"
    }
   },
@@ -83673,7 +83588,7 @@
     "name": "UNIT 3, 593 BICKLEY ROAD MADDINGTON 6109",
     "locID": "LOC000092730391",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161595988"
    }
   },
@@ -83690,7 +83605,7 @@
     "name": "UNIT 4, 593 BICKLEY ROAD MADDINGTON 6109",
     "locID": "LOC000092822661",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161595989"
    }
   },
@@ -83724,7 +83639,7 @@
     "name": "UNIT 1, 25 EMERALD ROAD MADDINGTON 6109",
     "locID": "LOC000190066203",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161600382"
    }
   },
@@ -83758,7 +83673,7 @@
     "name": "UNIT 2, 25 EMERALD ROAD MADDINGTON 6109",
     "locID": "LOC000190066203",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161600384"
    }
   },
@@ -84200,7 +84115,7 @@
     "name": "10 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012868568",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161891568"
    }
   },
@@ -86716,7 +86631,7 @@
     "name": "15A JADE STREET MADDINGTON 6109",
     "locID": "LOC000132470346",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_161992145"
    }
   },
@@ -86733,7 +86648,7 @@
     "name": "15B JADE STREET MADDINGTON 6109",
     "locID": "LOC000132470351",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_161992146"
    }
   },
@@ -88076,7 +87991,7 @@
     "name": "17B MALCOLM ROAD MADDINGTON 6109",
     "locID": "LOC000105130195",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162274018"
    }
   },
@@ -88824,7 +88739,7 @@
     "name": "20 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000069678420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162396914"
    }
   },
@@ -88841,7 +88756,7 @@
     "name": "11 APLEY STREET MADDINGTON 6109",
     "locID": "LOC000175333166",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162397153"
    }
   },
@@ -88892,7 +88807,7 @@
     "name": "2 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000074693084",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162397443"
    }
   },
@@ -88943,7 +88858,7 @@
     "name": "12 AURIC PLACE MADDINGTON 6109",
     "locID": "LOC000175333184",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162397486"
    }
   },
@@ -88960,7 +88875,7 @@
     "name": "10 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132458321",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162398421"
    }
   },
@@ -88977,7 +88892,7 @@
     "name": "198 BURSLEM DRIVE MADDINGTON 6109",
     "locID": "LOC000029451947",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162399530"
    }
   },
@@ -88994,7 +88909,7 @@
     "name": "4 CAROLE ROAD MADDINGTON 6109",
     "locID": "LOC000043016601",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162400352"
    }
   },
@@ -89028,7 +88943,7 @@
     "name": "17 CEDAR WAY MADDINGTON 6109",
     "locID": "LOC000132446563",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162400544"
    }
   },
@@ -89198,7 +89113,7 @@
     "name": "23 HELM STREET MADDINGTON 6109",
     "locID": "LOC000089644024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162407144"
    }
   },
@@ -89215,7 +89130,7 @@
     "name": "12 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000092971229",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162407275"
    }
   },
@@ -89232,7 +89147,7 @@
     "name": "1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000066080557",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162407276"
    }
   },
@@ -89249,7 +89164,7 @@
     "name": "4 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000098238179",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162407277"
    }
   },
@@ -89266,7 +89181,7 @@
     "name": "9 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000012815967",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162407278"
    }
   },
@@ -89334,7 +89249,7 @@
     "name": "11 MULLINE COURT MADDINGTON 6109",
     "locID": "LOC000007861391",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162412209"
    }
   },
@@ -89351,7 +89266,7 @@
     "name": "55 PITCHFORD AVENUE MADDINGTON 6109",
     "locID": "LOC000132454115",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162414011"
    }
   },
@@ -89402,7 +89317,7 @@
     "name": "30 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049493239",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162420114"
    }
   },
@@ -89504,7 +89419,7 @@
     "name": "UNIT 10, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029483201",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553831"
    }
   },
@@ -89521,7 +89436,7 @@
     "name": "UNIT 11, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029503480",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553832"
    }
   },
@@ -89538,7 +89453,7 @@
     "name": "UNIT 12, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029454940",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553833"
    }
   },
@@ -89555,7 +89470,7 @@
     "name": "UNIT 13, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029459593",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553834"
    }
   },
@@ -89572,7 +89487,7 @@
     "name": "UNIT 1, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029495943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553835"
    }
   },
@@ -89623,7 +89538,7 @@
     "name": "UNIT 4, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029481901",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553838"
    }
   },
@@ -89640,7 +89555,7 @@
     "name": "UNIT 5, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029462883",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553839"
    }
   },
@@ -89657,7 +89572,7 @@
     "name": "UNIT 6, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029495943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553840"
    }
   },
@@ -89674,7 +89589,7 @@
     "name": "UNIT 7, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029477453",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553841"
    }
   },
@@ -89691,7 +89606,7 @@
     "name": "UNIT 8, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029692091",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162553842"
    }
   },
@@ -89742,7 +89657,7 @@
     "name": "UNIT 5, 593 BICKLEY ROAD MADDINGTON 6109",
     "locID": "LOC000132454162",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162555644"
    }
   },
@@ -90167,7 +90082,7 @@
     "name": "UNIT 14, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029495943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162593236"
    }
   },
@@ -90184,7 +90099,7 @@
     "name": "UNIT 15, 15 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000029495943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162593237"
    }
   },
@@ -90728,7 +90643,7 @@
     "name": "UNIT 10, 15 ALLOA ROAD MADDINGTON 6109",
     "locID": "LOC000084082488",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162681232"
    }
   },
@@ -90915,7 +90830,7 @@
     "name": "UNIT 1, 21 HANSON STREET MADDINGTON 6109",
     "locID": "LOC000132446603",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162686128"
    }
   },
@@ -90932,7 +90847,7 @@
     "name": "UNIT 2, 21 HANSON STREET MADDINGTON 6109",
     "locID": "LOC000132446626",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162686129"
    }
   },
@@ -90949,7 +90864,7 @@
     "name": "UNIT 3, 21 HANSON STREET MADDINGTON 6109",
     "locID": "LOC000132446626",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162686130"
    }
   },
@@ -91765,7 +91680,7 @@
     "name": "1928A ALBANY HIGHWAY MADDINGTON 6109",
     "locID": "LOC000031450549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162728406"
    }
   },
@@ -91816,7 +91731,7 @@
     "name": "UNIT 8, 1 HERON PLACE MADDINGTON 6109",
     "locID": "LOC000054817935",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162729216"
    }
   },
@@ -93006,7 +92921,7 @@
     "name": "12 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132462469",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162988919"
    }
   },
@@ -93023,7 +92938,7 @@
     "name": "2 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132474447",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162988920"
    }
   },
@@ -93040,7 +92955,7 @@
     "name": "8 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132748221",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162988921"
    }
   },
@@ -93669,7 +93584,7 @@
     "name": "UNIT 2, 5 BARCELONA WAY MADDINGTON 6109",
     "locID": "LOC000108843744",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163007595"
    }
   },
@@ -94672,7 +94587,7 @@
     "name": "SHOP 2, 3 BINLEY PLACE MADDINGTON 6109",
     "locID": "LOC000065106265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163053663"
    }
   },
@@ -95709,7 +95624,7 @@
     "name": "UNIT 1, 5 BARCELONA WAY MADDINGTON 6109",
     "locID": "LOC000108852846",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163157315"
    }
   },
@@ -96388,8 +96303,8 @@
    "properties": {
     "name": "4 LENDICH PASS MADDINGTON 6109",
     "locID": "LOC000116421791",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163274336"
    }
   },
@@ -96491,7 +96406,7 @@
     "name": "UNIT 1, 12 ORCHARD ROAD MADDINGTON 6109",
     "locID": "LOC000132442820",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163275721"
    }
   },
@@ -96508,7 +96423,7 @@
     "name": "UNIT 2, 12 ORCHARD ROAD MADDINGTON 6109",
     "locID": "LOC000132442831",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163275722"
    }
   },
@@ -97307,7 +97222,7 @@
     "name": "UNIT 1, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000113639038",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378612"
    }
   },
@@ -97324,7 +97239,7 @@
     "name": "UNIT 2, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000112269424",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378613"
    }
   },
@@ -97341,7 +97256,7 @@
     "name": "UNIT 3, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000113658448",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378614"
    }
   },
@@ -97358,7 +97273,7 @@
     "name": "UNIT 4, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000111305330",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378615"
    }
   },
@@ -97375,7 +97290,7 @@
     "name": "UNIT 5, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000112155071",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378616"
    }
   },
@@ -97392,7 +97307,7 @@
     "name": "UNIT 6, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000113639038",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378617"
    }
   },
@@ -97409,7 +97324,7 @@
     "name": "UNIT 7, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000111509387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378618"
    }
   },
@@ -97426,7 +97341,7 @@
     "name": "UNIT 8, 10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000110529708",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163378619"
    }
   },
@@ -97562,7 +97477,7 @@
     "name": "10 DOCKERTY MEWS MADDINGTON 6109",
     "locID": "LOC000113639038",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163394027"
    }
   },
@@ -97630,7 +97545,7 @@
     "name": "14 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132466576",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718245743"
    }
   },
@@ -97647,7 +97562,7 @@
     "name": "4 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132435601",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718245744"
    }
   },
@@ -97664,7 +97579,7 @@
     "name": "57 PITCHFORD AVENUE MADDINGTON 6109",
     "locID": "LOC000132427295",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718245791"
    }
   },
@@ -98242,7 +98157,7 @@
     "name": "UNIT 1, 6 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132450270",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718338058"
    }
   },
@@ -98259,7 +98174,7 @@
     "name": "UNIT 2, 6 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132450289",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718338059"
    }
   },
@@ -98276,7 +98191,7 @@
     "name": "UNIT 3, 6 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132450291",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718338060"
    }
   },
@@ -98293,7 +98208,7 @@
     "name": "UNIT 4, 6 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132450301",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718338061"
    }
   },
@@ -98310,7 +98225,7 @@
     "name": "UNIT 5, 6 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132450317",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718338062"
    }
   },
@@ -98327,7 +98242,7 @@
     "name": "UNIT 1, 17 CEDAR WAY MADDINGTON 6109",
     "locID": "LOC000132446563",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718338609"
    }
   },
@@ -98344,7 +98259,7 @@
     "name": "UNIT 2, 17 CEDAR WAY MADDINGTON 6109",
     "locID": "LOC000132446571",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718338610"
    }
   },
@@ -98531,7 +98446,7 @@
     "name": "6 BERTRAM STREET MADDINGTON 6109",
     "locID": "LOC000132450270",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718345411"
    }
   },
@@ -101183,7 +101098,7 @@
     "name": "UNIT 1, 18 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728145",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718551878"
    }
   },
@@ -101200,7 +101115,7 @@
     "name": "UNIT 2, 18 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728145",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718551879"
    }
   },
@@ -101217,7 +101132,7 @@
     "name": "UNIT 3, 18 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728150",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718551880"
    }
   },
@@ -101234,7 +101149,7 @@
     "name": "UNIT 4, 18 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728166",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718551881"
    }
   },
@@ -101251,7 +101166,7 @@
     "name": "UNIT 5, 18 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728372",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718551882"
    }
   },
@@ -101268,7 +101183,7 @@
     "name": "UNIT 6, 18 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728145",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718551883"
    }
   },
@@ -101387,7 +101302,7 @@
     "name": "18 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728145",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718573203"
    }
   },
@@ -102662,7 +102577,7 @@
     "name": "UNIT 1, 37 VIRGINIA AVENUE MADDINGTON 6109",
     "locID": "LOC000163734537",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718680145"
    }
   },
@@ -102679,7 +102594,7 @@
     "name": "UNIT 23, 37 VIRGINIA AVENUE MADDINGTON 6109",
     "locID": "LOC000163734487",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718680146"
    }
   },
@@ -102696,7 +102611,7 @@
     "name": "UNIT 24, 37 VIRGINIA AVENUE MADDINGTON 6109",
     "locID": "LOC000163734494",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718680147"
    }
   },
@@ -102713,7 +102628,7 @@
     "name": "UNIT 25, 37 VIRGINIA AVENUE MADDINGTON 6109",
     "locID": "LOC000163734500",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718680148"
    }
   },
@@ -102730,7 +102645,7 @@
     "name": "UNIT 26, 37 VIRGINIA AVENUE MADDINGTON 6109",
     "locID": "LOC000163734516",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718680149"
    }
   },
@@ -102781,7 +102696,7 @@
     "name": "UNIT 4, 37 VIRGINIA AVENUE MADDINGTON 6109",
     "locID": "LOC000163734537",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718680152"
    }
   },
@@ -102798,7 +102713,7 @@
     "name": "UNIT 5, 37 VIRGINIA AVENUE MADDINGTON 6109",
     "locID": "LOC000163734544",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718680153"
    }
   },
@@ -103443,8 +103358,8 @@
    "properties": {
     "name": "115B CARISBROOKE STREET MADDINGTON 6109",
     "locID": "LOC000163714426",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718735276"
    }
   },
@@ -104208,8 +104123,8 @@
    "properties": {
     "name": "41 MANNIKIN WAY MADDINGTON 6109",
     "locID": "LOC000163725764",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_718788955"
    }
   },
@@ -105569,7 +105484,7 @@
     "name": "UNIT 1, 46 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718872754"
    }
   },
@@ -105586,7 +105501,7 @@
     "name": "UNIT 2, 46 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718872755"
    }
   },
@@ -105603,7 +105518,7 @@
     "name": "UNIT 3, 46 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728496",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718872756"
    }
   },
@@ -105620,7 +105535,7 @@
     "name": "UNIT 4, 46 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718872757"
    }
   },
@@ -105637,7 +105552,7 @@
     "name": "UNIT 5, 46 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728514",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718872758"
    }
   },
@@ -105654,7 +105569,7 @@
     "name": "UNIT 6, 46 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718872759"
    }
   },
@@ -105688,7 +105603,7 @@
     "name": "60A PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729312",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718872863"
    }
   },
@@ -105705,7 +105620,7 @@
     "name": "60B PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729320",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718872864"
    }
   },
@@ -105722,7 +105637,7 @@
     "name": "60C PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718872865"
    }
   },
@@ -105739,7 +105654,7 @@
     "name": "60D PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729354",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718872866"
    }
   },
@@ -106011,7 +105926,7 @@
     "name": "46 PANOZZA CIRCLE MADDINGTON 6109",
     "locID": "LOC000163728522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718878165"
    }
   },
@@ -106130,7 +106045,7 @@
     "name": "UNIT 10, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163726359",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935803"
    }
   },
@@ -106147,7 +106062,7 @@
     "name": "UNIT 11, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163726986",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935804"
    }
   },
@@ -106164,7 +106079,7 @@
     "name": "UNIT 1, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163726344",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935805"
    }
   },
@@ -106181,7 +106096,7 @@
     "name": "UNIT 2, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163726993",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935806"
    }
   },
@@ -106198,7 +106113,7 @@
     "name": "UNIT 3, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163727001",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935807"
    }
   },
@@ -106215,7 +106130,7 @@
     "name": "UNIT 4, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163726344",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935808"
    }
   },
@@ -106232,7 +106147,7 @@
     "name": "UNIT 5, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163727029",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935809"
    }
   },
@@ -106249,7 +106164,7 @@
     "name": "UNIT 6, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163727038",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935810"
    }
   },
@@ -106266,7 +106181,7 @@
     "name": "UNIT 7, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163727040",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935811"
    }
   },
@@ -106283,7 +106198,7 @@
     "name": "UNIT 8, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163727055",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935812"
    }
   },
@@ -106300,7 +106215,7 @@
     "name": "UNIT 9, 40 MORLEY STREET MADDINGTON 6109",
     "locID": "LOC000163727064",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718935813"
    }
   },
@@ -107142,8 +107057,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.00116436,
-     -32.04431039
+     116.00108426,
+     -32.04424206
     ]
    },
    "properties": {
@@ -108322,8 +108237,8 @@
    "properties": {
     "name": "5 LOTUS DRIVE MADDINGTON 6109",
     "locID": "LOC000163721295",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718960165"
    }
   },
@@ -108731,7 +108646,7 @@
     "name": "79 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000163731263",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719034797"
    }
   },
@@ -108884,7 +108799,7 @@
     "name": "65 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000163730904",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719035606"
    }
   },
@@ -108918,7 +108833,7 @@
     "name": "77 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000163731259",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719035759"
    }
   },
@@ -109377,7 +109292,7 @@
     "name": "69 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000163730936",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719037791"
    }
   },
@@ -109972,7 +109887,7 @@
     "name": "73 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000163731244",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719040815"
    }
   },
@@ -110244,7 +110159,7 @@
     "name": "67 RIVER AVENUE MADDINGTON 6109",
     "locID": "LOC000163730915",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719042063"
    }
   },
@@ -110533,7 +110448,7 @@
     "name": "UNIT 8, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729267",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719169966"
    }
   },
@@ -110567,7 +110482,7 @@
     "name": "UNIT 3, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729192",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170004"
    }
   },
@@ -110601,7 +110516,7 @@
     "name": "UNIT 9, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729279",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170185"
    }
   },
@@ -110618,7 +110533,7 @@
     "name": "UNIT 10, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163728960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170220"
    }
   },
@@ -110635,7 +110550,7 @@
     "name": "UNIT 4, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729185",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170224"
    }
   },
@@ -110652,7 +110567,7 @@
     "name": "UNIT 5, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729222",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170245"
    }
   },
@@ -110669,7 +110584,7 @@
     "name": "UNIT 1, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163728960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170367"
    }
   },
@@ -110686,7 +110601,7 @@
     "name": "UNIT 2, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729185",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170395"
    }
   },
@@ -110703,7 +110618,7 @@
     "name": "UNIT 6, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729233",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170561"
    }
   },
@@ -110720,7 +110635,7 @@
     "name": "UNIT 11, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729171",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170590"
    }
   },
@@ -110737,7 +110652,7 @@
     "name": "UNIT 7, 40 PHILLIP STREET MADDINGTON 6109",
     "locID": "LOC000163729246",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719170620"
    }
   },
@@ -113576,7 +113491,7 @@
     "name": "228A WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000175333243",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719674068"
    }
   },
@@ -113746,7 +113661,7 @@
     "name": "228C WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000175333258",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719676420"
    }
   },
@@ -113780,7 +113695,7 @@
     "name": "228B WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000175333262",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719678023"
    }
   },
@@ -114154,7 +114069,7 @@
     "name": "2 WESTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000049493239",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719852968"
    }
   },
@@ -114715,7 +114630,7 @@
     "name": "UNIT 2, 72 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000030683898",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719865611"
    }
   },
@@ -114766,7 +114681,7 @@
     "name": "UNIT 1, 72 ATTFIELD STREET MADDINGTON 6109",
     "locID": "LOC000030683898",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_719865707"
    }
   },
@@ -117750,8 +117665,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.00243333,
-     -32.05902203
+     116.002333,
+     -32.05910195
     ]
    },
    "properties": {
