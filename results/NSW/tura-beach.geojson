@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T12:56:43.710933",
+ "generated": "2023-09-17T02:24:54.394756",
  "suburb": "TURA BEACH",
  "features": [
   {
@@ -1699,7 +1699,7 @@
     "name": "UNIT 2, 89 PACIFIC WAY TURA BEACH 2548",
     "locID": "LOC000073502008",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706079126"
    }
   },
@@ -4725,7 +4725,7 @@
     "name": "23 SURF CIRCLE TURA BEACH 2548",
     "locID": "LOC000060018386",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706092566"
    }
   },
@@ -10266,8 +10266,8 @@
    "properties": {
     "name": "16 BEACH VIEW COURT TURA BEACH 2548",
     "locID": "LOC000029562419",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706105870"
    }
   },
@@ -24224,7 +24224,7 @@
     "name": "UNIT 1, 13 WARATAH COURT TURA BEACH 2548",
     "locID": "LOC000032276675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706178273"
    }
   },
@@ -24258,7 +24258,7 @@
     "name": "13 WARATAH COURT TURA BEACH 2548",
     "locID": "LOC000032276675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706178275"
    }
   },
@@ -25414,7 +25414,7 @@
     "name": "19 THE POINT TURA BEACH 2548",
     "locID": "LOC000081871199",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706185475"
    }
   },
@@ -30157,7 +30157,7 @@
     "name": "27 THE DRESS CIRCLE TURA BEACH 2548",
     "locID": "LOC000066304720",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717151025"
    }
   },
@@ -32852,23 +32852,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     149.92245624,
-     -36.86568569
-    ]
-   },
-   "properties": {
-    "name": "3C THE FAIRWAY TURA BEACH 2548",
-    "locID": "LOC000121295533",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718038835"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      149.92974148,
      -36.86960455
     ]
@@ -33440,23 +33423,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718207804"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     149.92220845,
-     -36.86586177
-    ]
-   },
-   "properties": {
-    "name": "3D THE FAIRWAY TURA BEACH 2548",
-    "locID": "LOC000121295546",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718207805"
    }
   },
   {
@@ -34842,7 +34808,7 @@
     "type": "Point",
     "coordinates": [
      149.92767922,
-     -36.84905835
+     -36.84905836
     ]
    },
    "properties": {
@@ -35342,7 +35308,7 @@
     "name": "9 TURA BEACH DRIVE TURA BEACH 2548",
     "locID": "LOC000121306865",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719889995"
    }
   },
@@ -36585,6 +36551,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721269697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.92767922,
+     -36.84905836
+    ]
+   },
+   "properties": {
+    "name": "239A PACIFIC WAY TURA BEACH 2548",
+    "locID": "ChIJZZAoVrGePmsRMN8bfz7_VMI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721317235"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.92767922,
+     -36.84905836
+    ]
+   },
+   "properties": {
+    "name": "239B PACIFIC WAY TURA BEACH 2548",
+    "locID": "ChIJZZAoVrGePmsRIEycQP7QtZ8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322980"
    }
   }
  ]
