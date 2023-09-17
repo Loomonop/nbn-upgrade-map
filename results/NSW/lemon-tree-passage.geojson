@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T16:19:20.316939",
+ "generated": "2023-09-17T05:40:37.560944",
  "suburb": "LEMON TREE PASSAGE",
  "features": [
   {
@@ -2294,7 +2294,7 @@
     "name": "UNIT 2, 24 JAMES SCOTT CRESCENT LEMON TREE PASSAGE 2319",
     "locID": "LOC000096944204",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705188023"
    }
   },
@@ -5014,7 +5014,7 @@
     "name": "54 JOHNSON PARADE LEMON TREE PASSAGE 2319",
     "locID": "LOC000010996550",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705189883"
    }
   },
@@ -9672,7 +9672,7 @@
     "name": "UNIT 1, 24 JAMES SCOTT CRESCENT LEMON TREE PASSAGE 2319",
     "locID": "LOC000094015182",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705193907"
    }
   },
@@ -17542,8 +17542,8 @@
    "properties": {
     "name": "84 GOULD DRIVE LEMON TREE PASSAGE 2319",
     "locID": "LOC000017580090",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705205398"
    }
   },
@@ -19991,7 +19991,7 @@
     "name": "24 JAMES SCOTT CRESCENT LEMON TREE PASSAGE 2319",
     "locID": "LOC000096944204",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707589103"
    }
   },
@@ -21657,7 +21657,7 @@
     "name": "49A JOHNSON PARADE LEMON TREE PASSAGE 2319",
     "locID": "LOC000120664044",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711966667"
    }
   },
@@ -22116,7 +22116,7 @@
     "name": "53 JOHNSON PARADE LEMON TREE PASSAGE 2319",
     "locID": "LOC000096439169",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711975266"
    }
   },
@@ -23629,7 +23629,7 @@
     "name": "2 WARD STREET LEMON TREE PASSAGE 2319",
     "locID": "LOC000080687400",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716642706"
    }
   },
@@ -23680,7 +23680,7 @@
     "name": "5 WARD STREET LEMON TREE PASSAGE 2319",
     "locID": "LOC000046457648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716642709"
    }
   },
@@ -23697,7 +23697,7 @@
     "name": "22 COOK PARADE LEMON TREE PASSAGE 2319",
     "locID": "LOC000120657471",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716730342"
    }
   },
@@ -28746,7 +28746,7 @@
     "name": "53-53A JOHNSON PARADE LEMON TREE PASSAGE 2319",
     "locID": "LOC000096439169",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719162190"
    }
   },
@@ -29088,6 +29088,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721186503"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.03375598,
+     -32.73258561
+    ]
+   },
+   "properties": {
+    "name": "45A MEREDITH AVENUE LEMON TREE PASSAGE 2319",
+    "locID": "ChIJuYh7_FV4c2sR0KlxqDvv9YU",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.03719145,
+     -32.73356759
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 32 JOHNSON PARADE LEMON TREE PASSAGE 2319",
+    "locID": "LOC000017550303",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW721331412"
    }
   }
  ]
