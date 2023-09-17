@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T22:40:23.509664",
+ "generated": "2023-09-17T13:21:25.264030",
  "suburb": "MOONEE BEACH",
  "features": [
   {
@@ -6883,8 +6883,8 @@
    "properties": {
     "name": "46D PALM GROVE PLACE MOONEE BEACH 2450",
     "locID": "LOC000082280661",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715686227"
    }
   },
@@ -18480,6 +18480,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721243703"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.14891488,
+     -30.19828218
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 76 HALYARD AVENUE MOONEE BEACH 2450",
+    "locID": "ChIJp6QrPFEKnGsRQw6WikGZaP8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721324790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.13603432,
+     -30.19942458
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 81D OLD BUCCA ROAD MOONEE BEACH 2450",
+    "locID": "LOC000181195534",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331299"
    }
   }
  ]
