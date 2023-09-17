@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T15:07:57.179084",
+ "generated": "2023-09-17T04:29:10.311961",
  "suburb": "REGENTS PARK",
  "features": [
   {
@@ -5983,7 +5983,7 @@
     "name": "363 PARK ROAD REGENTS PARK 2143",
     "locID": "LOC000090303894",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705769483"
    }
   },
@@ -6017,7 +6017,7 @@
     "name": "371 PARK ROAD REGENTS PARK 2143",
     "locID": "LOC000002246785",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705769486"
    }
   },
@@ -16226,8 +16226,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.03310256,
-     -33.88510859
+     151.03309845,
+     -33.88510783
     ]
    },
    "properties": {
@@ -20705,7 +20705,7 @@
     "name": "6 MAUDE STREET REGENTS PARK 2143",
     "locID": "LOC000028227060",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705800070"
    }
   },
@@ -25125,7 +25125,7 @@
     "name": "UNIT 1, 6 MAUDE STREET REGENTS PARK 2143",
     "locID": "LOC000028227060",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708334763"
    }
   },
@@ -29018,7 +29018,7 @@
     "name": "UNIT 2, 6 MAUDE STREET REGENTS PARK 2143",
     "locID": "LOC000028227060",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711059207"
    }
   },
@@ -31415,7 +31415,7 @@
     "name": "2A BAGDAD STREET REGENTS PARK 2143",
     "locID": "LOC000156738262",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716727017"
    }
   },
@@ -36141,7 +36141,7 @@
     "name": "1 MAUDE STREET REGENTS PARK 2143",
     "locID": "LOC000028227060",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717958902"
    }
   },
@@ -36160,23 +36160,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717984628"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.02318644,
-     -33.88332837
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 413 PARK ROAD REGENTS PARK 2143",
-    "locID": "LOC000029830478",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW718003294"
    }
   },
   {
@@ -39006,8 +38989,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.02869118,
-     -33.88452323
+     151.02869093,
+     -33.88452289
     ]
    },
    "properties": {
@@ -39288,6 +39271,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721261499"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.02968238,
+     -33.87983001
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 44 KIBO ROAD REGENTS PARK 2143",
+    "locID": "LOC000013182865",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721330024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.02578787,
+     -33.88590863
+    ]
+   },
+   "properties": {
+    "name": "14A BAGDAD STREET REGENTS PARK 2143",
+    "locID": "ChIJM-M69mC8EmsRsGCQNsWh7og",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331516"
    }
   }
  ]

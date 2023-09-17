@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T15:27:02.328577",
+ "generated": "2023-09-17T04:50:39.459734",
  "suburb": "WEST WOLLONGONG",
  "features": [
   {
@@ -5829,8 +5829,8 @@
    "properties": {
     "name": "15 SHEPPARD STREET WEST WOLLONGONG 2500",
     "locID": "LOC000074441930",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706272660"
    }
   },
@@ -6893,8 +6893,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86837247,
-     -34.42068979
+     150.86844789,
+     -34.42059805
     ]
    },
    "properties": {
@@ -12163,8 +12163,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86646102,
-     -34.42335292
+     150.86642728,
+     -34.42333287
     ]
    },
    "properties": {
@@ -12282,8 +12282,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86646643,
-     -34.42274475
+     150.86646936,
+     -34.42274819
     ]
    },
    "properties": {
@@ -23655,8 +23655,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.8657364,
-     -34.42762561
+     150.8657376,
+     -34.42765967
     ]
    },
    "properties": {
@@ -42909,6 +42909,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721267799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86829609,
+     -34.42078265
+    ]
+   },
+   "properties": {
+    "name": "33A COCHRANE STREET WEST WOLLONGONG 2500",
+    "locID": "ChIJWWcLtYUZE2sRrer7gT4fvNc",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721316126"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.8603476,
+     -34.42272295
+    ]
+   },
+   "properties": {
+    "name": "24 LEXBURN AVENUE WEST WOLLONGONG 2500",
+    "locID": "ChIJATt6jicaE2sRsO0VsfW_qos",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86844789,
+     -34.42059805
+    ]
+   },
+   "properties": {
+    "name": "33B COCHRANE STREET WEST WOLLONGONG 2500",
+    "locID": "LOC000193029754",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721328146"
    }
   }
  ]

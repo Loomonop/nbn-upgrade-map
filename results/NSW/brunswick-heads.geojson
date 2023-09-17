@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T15:24:16.400144",
+ "generated": "2023-09-17T04:47:13.946712",
  "suburb": "BRUNSWICK HEADS",
  "features": [
   {
@@ -5881,7 +5881,7 @@
     "name": "5 MONA LANE BRUNSWICK HEADS 2483",
     "locID": "LOC000068447467",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704242809"
    }
   },
@@ -12392,7 +12392,7 @@
     "name": "1A FINGAL STREET BRUNSWICK HEADS 2483",
     "locID": "LOC000061282279",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712321620"
    }
   },
@@ -13565,7 +13565,7 @@
     "name": "UNIT 2, 5 MONA LANE BRUNSWICK HEADS 2483",
     "locID": "LOC000068447467",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712324911"
    }
   },
@@ -14517,7 +14517,7 @@
     "name": "UNIT 5, 5 MONA LANE BRUNSWICK HEADS 2483",
     "locID": "LOC000068447467",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712338712"
    }
   },
@@ -28092,8 +28092,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.53734496,
-     -28.53305285
+     153.5378794,
+     -28.53346923
     ]
    },
    "properties": {
@@ -28119,6 +28119,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721270394"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.54656676,
+     -28.5446397
+    ]
+   },
+   "properties": {
+    "name": "16 GALLEON LANE BRUNSWICK HEADS 2483",
+    "locID": "ChIJ73nqIsOKkGsRwzNY1GtKBuw",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721323216"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.54770903,
+     -28.54202806
+    ]
+   },
+   "properties": {
+    "name": "24 SHAPCOTT LANE BRUNSWICK HEADS 2483",
+    "locID": "ChIJofRDj8SKkGsRjst_CWFWQXU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330841"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.55241872,
+     -28.54099021
+    ]
+   },
+   "properties": {
+    "name": "UNIT 60, 1 THE TERRACE BRUNSWICK HEADS 2483",
+    "locID": "LOC000181947058",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331236"
    }
   }
  ]
