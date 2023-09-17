@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T20:02:45.489534",
+ "generated": "2023-09-17T10:41:19.054467",
  "suburb": "KIANGA",
  "features": [
   {
@@ -917,7 +917,7 @@
     "name": "77 MONTAGUE AVENUE KIANGA 2546",
     "locID": "LOC000032219650",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705066297"
    }
   },
@@ -3807,7 +3807,7 @@
     "name": "58 MONTAGUE AVENUE KIANGA 2546",
     "locID": "LOC000049128543",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705080416"
    }
   },
@@ -3858,7 +3858,7 @@
     "name": "60 MONTAGUE AVENUE KIANGA 2546",
     "locID": "LOC000071433087",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705080419"
    }
   },
@@ -3909,7 +3909,7 @@
     "name": "63 MONTAGUE AVENUE KIANGA 2546",
     "locID": "LOC000012204711",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705080422"
    }
   },
@@ -3977,7 +3977,7 @@
     "name": "67 MONTAGUE AVENUE KIANGA 2546",
     "locID": "LOC000078176276",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705080426"
    }
   },
@@ -4878,7 +4878,7 @@
     "name": "11 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000008096008",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705083068"
    }
   },
@@ -4895,7 +4895,7 @@
     "name": "12 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000070969702",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705083069"
    }
   },
@@ -4946,7 +4946,7 @@
     "name": "15 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000047684098",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705083072"
    }
   },
@@ -4963,7 +4963,7 @@
     "name": "16 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000040217673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705083073"
    }
   },
@@ -4980,7 +4980,7 @@
     "name": "18 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000066498886",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705083074"
    }
   },
@@ -4997,7 +4997,7 @@
     "name": "2 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000090016118",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705083075"
    }
   },
@@ -5014,7 +5014,7 @@
     "name": "20 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000097244633",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705083076"
    }
   },
@@ -5082,7 +5082,7 @@
     "name": "4 SUNNYSIDE CRESCENT KIANGA 2546",
     "locID": "LOC000095865577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705083080"
    }
   },
@@ -9045,6 +9045,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720258131"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.12119284,
+     -36.19611964
+    ]
+   },
+   "properties": {
+    "name": "45 DAWN PARADE KIANGA 2546",
+    "locID": "LOC000121304366",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721262472"
    }
   }
  ]
