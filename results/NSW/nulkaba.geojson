@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T18:38:08.196632",
+ "generated": "2023-09-17T08:00:46.314600",
  "suburb": "NULKABA",
  "features": [
   {
@@ -1409,8 +1409,8 @@
    "properties": {
     "name": "14 VALLEY VIEW PLACE NULKABA 2325",
     "locID": "LOC000002367513",
-    "tech": "WIRELESS",
-    "upgrade": "FTTN_NA",
+    "tech": "FTTN",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GANSW705581575"
    }
   },
@@ -7923,6 +7923,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721127158"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.34503675,
+     -32.81047973
+    ]
+   },
+   "properties": {
+    "name": "11A O'CONNORS ROAD NULKABA 2325",
+    "locID": "ChIJLwQUH601c2sRfJ7rKZ7jnBI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721329556"
    }
   }
  ]

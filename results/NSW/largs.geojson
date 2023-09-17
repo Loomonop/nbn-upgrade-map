@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T18:36:20.649578",
+ "generated": "2023-09-17T07:58:38.581510",
  "suburb": "LARGS",
  "features": [
   {
@@ -7733,8 +7733,8 @@
    "properties": {
     "name": "110 DALVEEN ROAD LARGS 2320",
     "locID": "LOC000042641252",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715823023"
    }
   },
@@ -14570,6 +14570,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721260618"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.6010089,
+     -32.69601348
+    ]
+   },
+   "properties": {
+    "name": "4A DOUGLAS CLOSE LARGS 2320",
+    "locID": "ChIJYXb5iJtEc2sR5mWS6pkwdSI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721326961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.59600189,
+     -32.69632785
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 10 LARGS AVENUE LARGS 2320",
+    "locID": "LOC000192270604",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721329949"
    }
   }
  ]

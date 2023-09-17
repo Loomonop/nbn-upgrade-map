@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T18:41:50.192850",
+ "generated": "2023-09-17T08:05:22.509368",
  "suburb": "MCDOUGALLS HILL",
  "features": [
   {
@@ -543,7 +543,7 @@
     "name": "9 MCDOUGALL CLOSE MCDOUGALLS HILL 2330",
     "locID": "LOC000059337004",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705326619"
    }
   },
@@ -892,8 +892,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.15282857,
-     -32.55229996
+     151.15263774,
+     -32.55248903
     ]
    },
    "properties": {
@@ -2235,8 +2235,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.15302374,
-     -32.55362058
+     151.15321293,
+     -32.55451464
     ]
    },
    "properties": {
@@ -4853,23 +4853,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14415525,
-     -32.54535274
-    ]
-   },
-   "properties": {
-    "name": "11-13 ELLSMERE AVENUE MCDOUGALLS HILL 2330",
-    "locID": "LOC000192777396",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718407695"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.144961,
      -32.54638649
     ]
@@ -5679,6 +5662,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721005879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.14415652,
+     -32.54537458
+    ]
+   },
+   "properties": {
+    "name": "11 ELLSMERE AVENUE MCDOUGALLS HILL 2330",
+    "locID": "LOC000192777396",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721325749"
    }
   }
  ]
