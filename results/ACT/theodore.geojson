@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-28T01:58:19.156291",
+ "generated": "2023-09-17T17:01:25.306004",
  "suburb": "THEODORE",
  "features": [
   {
@@ -13837,7 +13837,7 @@
     "name": "71 CHIPPINDALL CIRCUIT THEODORE 2905",
     "locID": "LOC000111215289",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714934052"
    }
   },
@@ -17280,8 +17280,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     149.11869865,
-     -35.44840601
+     149.1186377,
+     -35.44832671
     ]
    },
    "properties": {
@@ -21198,7 +21198,7 @@
     "name": "UNIT 1, 4 GOLDFINCH CIRCUIT THEODORE 2905",
     "locID": "LOC000110439130",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAACT715073977"
    }
   },
@@ -22575,7 +22575,7 @@
     "name": "UNIT 2, 4 GOLDFINCH CIRCUIT THEODORE 2905",
     "locID": "LOC000111441878",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAACT715080876"
    }
   },
@@ -24360,7 +24360,7 @@
     "name": "4 GOLDFINCH CIRCUIT THEODORE 2905",
     "locID": "LOC000111441878",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAACT717231431"
    }
   },
@@ -24726,25 +24726,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     149.12248504,
-     -35.44979157
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 108A LAWRENCE WACKETT CRESCENT THEODORE 2905",
-    "locID": "LOC000193042899",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAACT721191836"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     149.12248687,
-     -35.44979462
+     149.12265045,
+     -35.44979768
     ]
    },
    "properties": {
@@ -24753,6 +24736,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT721203933"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.11872482,
+     -35.44844576
+    ]
+   },
+   "properties": {
+    "name": "30A MACKERRAS CRESCENT THEODORE 2905",
+    "locID": "LOC000170509439",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAACT721340979"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.12260572,
+     -35.44958441
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 108 LAWRENCE WACKETT CRESCENT THEODORE 2905",
+    "locID": "LOC000193042899",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAACT721341375"
    }
   }
  ]
