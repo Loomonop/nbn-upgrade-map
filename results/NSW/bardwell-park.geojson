@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-27T10:52:42.773986",
+ "generated": "2023-09-17T00:30:28.483359",
  "suburb": "BARDWELL PARK",
  "features": [
   {
@@ -4351,7 +4351,7 @@
     "name": "10 STOTTS AVENUE BARDWELL PARK 2207",
     "locID": "LOC000052492530",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704012570"
    }
   },
@@ -4435,8 +4435,8 @@
    "properties": {
     "name": "15 STOTTS AVENUE BARDWELL PARK 2207",
     "locID": "LOC000050190060",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704012575"
    }
   },
@@ -4895,7 +4895,7 @@
     "name": "164 SLADE ROAD BARDWELL PARK 2207",
     "locID": "LOC000012230720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704013322"
    }
   },
@@ -5830,7 +5830,7 @@
     "name": "154 SLADE ROAD BARDWELL PARK 2207",
     "locID": "LOC000084296136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704013458"
    }
   },
@@ -5864,7 +5864,7 @@
     "name": "156A SLADE ROAD BARDWELL PARK 2207",
     "locID": "LOC000073340274",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704013460"
    }
   },
@@ -5881,7 +5881,7 @@
     "name": "156 SLADE ROAD BARDWELL PARK 2207",
     "locID": "LOC000073515544",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704013461"
    }
   },
@@ -6017,7 +6017,7 @@
     "name": "158 SLADE ROAD BARDWELL PARK 2207",
     "locID": "LOC000002170921",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704014102"
    }
   },
@@ -8090,8 +8090,8 @@
    "properties": {
     "name": "78 BARDWELL ROAD BARDWELL PARK 2207",
     "locID": "LOC000077444822",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704016748"
    }
   },
@@ -8134,8 +8134,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.12661114,
-     -33.93471799
+     151.12665132,
+     -33.93472393
     ]
    },
    "properties": {
@@ -14737,8 +14737,8 @@
    "properties": {
     "name": "20A DEVON ROAD BARDWELL PARK 2207",
     "locID": "LOC000001385709",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717283766"
    }
   },
@@ -16695,6 +16695,40 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW721242222"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.12657064,
+     -33.93471167
+    ]
+   },
+   "properties": {
+    "name": "84B BARDWELL ROAD BARDWELL PARK 2207",
+    "locID": "LOC000190504295",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.12665132,
+     -33.93472393
+    ]
+   },
+   "properties": {
+    "name": "84A BARDWELL ROAD BARDWELL PARK 2207",
+    "locID": "LOC000190504282",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324992"
    }
   }
  ]
