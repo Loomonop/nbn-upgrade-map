@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-28T03:18:20.559517",
+ "generated": "2023-09-17T18:18:25.152287",
  "suburb": "INGLEBURN",
  "features": [
   {
@@ -5064,8 +5064,8 @@
    "properties": {
     "name": "35 FREEMAN CIRCUIT INGLEBURN 2565",
     "locID": "LOC000089836955",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704999605"
    }
   },
@@ -5149,8 +5149,8 @@
    "properties": {
     "name": "4 FREEMAN CIRCUIT INGLEBURN 2565",
     "locID": "LOC000055884092",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704999610"
    }
   },
@@ -5506,8 +5506,8 @@
    "properties": {
     "name": "59 FREEMAN CIRCUIT INGLEBURN 2565",
     "locID": "LOC000086772183",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704999631"
    }
   },
@@ -14584,8 +14584,8 @@
    "properties": {
     "name": "42 FREEMAN CIRCUIT INGLEBURN 2565",
     "locID": "LOC000025522238",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705002866"
    }
   },
@@ -36218,7 +36218,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.8808593,
+     150.88085931,
      -34.00288572
     ]
    },
@@ -36854,7 +36854,7 @@
    "properties": {
     "name": "300 BENSLEY ROAD INGLEBURN 2565",
     "locID": "ChIJkwMtRp7rEmsRGdrP6ENiJDs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705011081"
    }
@@ -36888,7 +36888,7 @@
    "properties": {
     "name": "302 BENSLEY ROAD INGLEBURN 2565",
     "locID": "ChIJa1Z9Xp7rEmsR7AQVaxytAh4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705011083"
    }
@@ -36922,7 +36922,7 @@
    "properties": {
     "name": "304 BENSLEY ROAD INGLEBURN 2565",
     "locID": "ChIJqeq-f57rEmsR5DkK2Iw8FtE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705011085"
    }
@@ -36976,23 +36976,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705011088"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.87774365,
-     -34.0123132
-    ]
-   },
-   "properties": {
-    "name": "308 BENSLEY ROAD INGLEBURN 2565",
-    "locID": "LOC000090393172",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705011089"
    }
   },
   {
@@ -42950,7 +42933,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.8808593,
+     150.88085931,
      -34.00288572
     ]
    },
@@ -58233,8 +58216,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.87322863,
-     -34.00196951
+     150.87316004,
+     -34.00202804
     ]
    },
    "properties": {
@@ -59702,7 +59685,7 @@
    "properties": {
     "name": "233 OXFORD ROAD INGLEBURN 2565",
     "locID": "ChIJOehVG57rEmsR0mEsOj1atE0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705021126"
    }
@@ -88306,23 +88289,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.8740494,
-     -34.02063689
-    ]
-   },
-   "properties": {
-    "name": "333 BENSLEY ROAD INGLEBURN 2565",
-    "locID": "ChIJ63ZP25HrEmsRL4RXeifaZ6M",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW707509918"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.88054233,
      -34.01278383
     ]
@@ -88350,23 +88316,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW707509921"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.88054233,
-     -34.01278383
-    ]
-   },
-   "properties": {
-    "name": "347 BENSLEY ROAD INGLEBURN 2565",
-    "locID": "ChIJtRap6J7rEmsR8sVZeJ7frkw",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW707509922"
    }
   },
   {
@@ -90244,6 +90193,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.8857704,
+     -34.00603587
+    ]
+   },
+   "properties": {
+    "name": "LOT 51 HELDER STREET INGLEBURN 2565",
+    "locID": "LOC000159252175",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW709405943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.88054233,
      -34.01278383
     ]
@@ -90336,7 +90302,7 @@
    "properties": {
     "name": "LOT 422 BENSLEY ROAD INGLEBURN 2565",
     "locID": "Ei00MjIgQmVuc2xleSBSZCwgSW5nbGVidXJuIE5TVyAyNTY1LCBBdXN0cmFsaWEiMRIvChQKEgnfT6W6n-sSaxHxO63nZ30BExCmAyoUChIJ1ah5553rEmsRf4n7t_QfPc8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW709409231"
    }
@@ -96408,23 +96374,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712568177"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.86174028,
-     -33.9936722
-    ]
-   },
-   "properties": {
-    "name": "26 LANCASTER STREET INGLEBURN 2565",
-    "locID": "LOC000021401475",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW712568189"
    }
   },
   {
@@ -121813,15 +121762,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.85467851,
-     -34.00698466
+     150.85471922,
+     -34.00700988
     ]
    },
    "properties": {
     "name": "20 PERCIVAL AVENUE INGLEBURN 2565",
     "locID": "LOC000121407095",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718035983"
    }
   },
@@ -123319,23 +123268,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718150568"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.87170585,
-     -33.9976091
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 30 CUMBERLAND ROAD INGLEBURN 2565",
-    "locID": "LOC000121384060",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718150569"
    }
   },
   {
@@ -129990,8 +129922,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.87438955,
-     -33.99632968
+     150.87449638,
+     -33.99622356
     ]
    },
    "properties": {
@@ -130731,6 +130663,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719664604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.865205,
+     -34.00298517
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 122 CUMBERLAND ROAD INGLEBURN 2565",
+    "locID": "LOC000174802918",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719665095"
    }
   },
   {
@@ -132615,8 +132564,8 @@
    "properties": {
     "name": "6A HELMAN PLACE INGLEBURN 2565",
     "locID": "LOC000180987091",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720177801"
    }
   },
@@ -134393,8 +134342,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86109629,
-     -33.99414148
+     150.86085826,
+     -33.99437231
     ]
    },
    "properties": {
@@ -134410,8 +134359,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.86109629,
-     -33.99414148
+     150.86142814,
+     -33.99381719
     ]
    },
    "properties": {
@@ -134471,6 +134420,329 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721261562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86437099,
+     -34.0080103
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721315392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87323834,
+     -34.00196164
+    ]
+   },
+   "properties": {
+    "name": "6B PARDALOTE STREET INGLEBURN 2565",
+    "locID": "LOC000188567760",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316415"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86311989,
+     -33.99551619
+    ]
+   },
+   "properties": {
+    "name": "6 MEMORIAL AVENUE INGLEBURN 2565",
+    "locID": "LOC000082632889",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721317775"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86444475,
+     -34.00806503
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86427581,
+     -34.00793892
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721318741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86419967,
+     -34.00788181
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721319316"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.85460025,
+     -34.00688853
+    ]
+   },
+   "properties": {
+    "name": "172 INGLEBURN ROAD INGLEBURN 2565",
+    "locID": "LOC000022149413",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721320910"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87316004,
+     -34.00202804
+    ]
+   },
+   "properties": {
+    "name": "6A PARDALOTE STREET INGLEBURN 2565",
+    "locID": "LOC000188567756",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721321023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86407355,
+     -34.00778426
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721322977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87330622,
+     -34.00190206
+    ]
+   },
+   "properties": {
+    "name": "6C PARDALOTE STREET INGLEBURN 2565",
+    "locID": "LOC000188567725",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86414018,
+     -34.00783898
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86399265,
+     -34.00772476
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86392602,
+     -34.0077795
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721323939"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86453279,
+     -34.00812927
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 17 LYNDIA STREET INGLEBURN 2565",
+    "locID": "LOC000043448741",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721324418"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.86961748,
+     -33.99377766
+    ]
+   },
+   "properties": {
+    "name": "17A REDFERN STREET INGLEBURN 2565",
+    "locID": "ChIJn_Dc_2TrEmsR6miX6aofetM",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330251"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87627853,
+     -34.00002613
+    ]
+   },
+   "properties": {
+    "name": "6A FALCON PLACE INGLEBURN 2565",
+    "locID": "ChIJt2J1pXHrEmsRDGG-ndU78hM",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721331383"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.865205,
+     -34.00298517
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 120 CUMBERLAND ROAD INGLEBURN 2565",
+    "locID": "LOC000174802918",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721331892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.8857704,
+     -34.00603587
+    ]
+   },
+   "properties": {
+    "name": "51 HELDER STREET INGLEBURN 2565",
+    "locID": "LOC000159252175",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721336712"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.88054233,
+     -34.01278383
+    ]
+   },
+   "properties": {
+    "name": "345-347 BENSLEY ROAD INGLEBURN 2565",
+    "locID": "Ei0zNDUgQmVuc2xleSBSZCwgSW5nbGVidXJuIE5TVyAyNTY1LCBBdXN0cmFsaWEiMRIvChQKEgnfT6W6n-sSaxHxO63nZ30BExDZAioUChIJ1ah5553rEmsRf4n7t_QfPc8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337977"
    }
   }
  ]
