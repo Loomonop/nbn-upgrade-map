@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-28T00:56:32.015129",
+ "generated": "2023-09-17T15:53:44.062124",
  "suburb": "COOK",
  "features": [
   {
@@ -1325,7 +1325,7 @@
     "name": "24 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113433985",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853499"
    }
   },
@@ -1342,7 +1342,7 @@
     "name": "30 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110519082",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853500"
    }
   },
@@ -1359,7 +1359,7 @@
     "name": "38 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112213502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853501"
    }
   },
@@ -1376,7 +1376,7 @@
     "name": "48 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110873482",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853502"
    }
   },
@@ -1614,7 +1614,7 @@
     "name": "53 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112468276",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856148"
    }
   },
@@ -1631,7 +1631,7 @@
     "name": "55 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110833366",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856149"
    }
   },
@@ -1648,7 +1648,7 @@
     "name": "57 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110224034",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856150"
    }
   },
@@ -1665,7 +1665,7 @@
     "name": "59 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113656549",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856151"
    }
   },
@@ -1682,7 +1682,7 @@
     "name": "61 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113783641",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856152"
    }
   },
@@ -1699,7 +1699,7 @@
     "name": "63 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112165973",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714856153"
    }
   },
@@ -5727,8 +5727,8 @@
    "properties": {
     "name": "4 TIPPER PLACE COOK 2614",
     "locID": "LOC000111440459",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714858867"
    }
   },
@@ -6135,8 +6135,8 @@
    "properties": {
     "name": "42 TEAGUE STREET COOK 2614",
     "locID": "LOC000111495422",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714859038"
    }
   },
@@ -6578,7 +6578,7 @@
     "name": "36 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111175387",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714859255"
    }
   },
@@ -6595,7 +6595,7 @@
     "name": "40 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113649768",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714859256"
    }
   },
@@ -7852,8 +7852,8 @@
    "properties": {
     "name": "19 TEAGUE STREET COOK 2614",
     "locID": "LOC000110666557",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714859499"
    }
   },
@@ -7869,8 +7869,8 @@
    "properties": {
     "name": "194 DEXTER STREET COOK 2614",
     "locID": "LOC000110418812",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAACT714859503"
    }
   },
@@ -8110,23 +8110,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714859527"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     149.06439096,
-     -35.26057471
-    ]
-   },
-   "properties": {
-    "name": "46 LYTTLETON CRESCENT COOK 2614",
-    "locID": "LOC000111876892",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAACT714859528"
    }
   },
   {
@@ -12137,7 +12120,7 @@
     "name": "23 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111947481",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861101"
    }
   },
@@ -12154,7 +12137,7 @@
     "name": "25 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112340401",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861102"
    }
   },
@@ -12171,7 +12154,7 @@
     "name": "27 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113698413",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861103"
    }
   },
@@ -12442,8 +12425,8 @@
    "properties": {
     "name": "91 LYTTLETON CRESCENT COOK 2614",
     "locID": "LOC000113412810",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714861153"
    }
   },
@@ -13174,7 +13157,7 @@
     "name": "29 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110602982",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861235"
    }
   },
@@ -13191,7 +13174,7 @@
     "name": "31 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112004701",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861236"
    }
   },
@@ -13208,7 +13191,7 @@
     "name": "33 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111535054",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861237"
    }
   },
@@ -13225,7 +13208,7 @@
     "name": "35 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111201577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861238"
    }
   },
@@ -13242,7 +13225,7 @@
     "name": "37 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111456484",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861239"
    }
   },
@@ -13259,7 +13242,7 @@
     "name": "39 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113674380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861240"
    }
   },
@@ -13276,7 +13259,7 @@
     "name": "41 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112263317",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861241"
    }
   },
@@ -13293,7 +13276,7 @@
     "name": "43 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111726908",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861242"
    }
   },
@@ -13310,7 +13293,7 @@
     "name": "45 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113842597",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861243"
    }
   },
@@ -13327,7 +13310,7 @@
     "name": "47 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111023194",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861244"
    }
   },
@@ -13344,7 +13327,7 @@
     "name": "49 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111652086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861245"
    }
   },
@@ -15180,7 +15163,7 @@
     "name": "42 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111347003",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861490"
    }
   },
@@ -15197,7 +15180,7 @@
     "name": "44 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110288030",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861491"
    }
   },
@@ -15214,7 +15197,7 @@
     "name": "46 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113473710",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861492"
    }
   },
@@ -15231,7 +15214,7 @@
     "name": "50 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110258656",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861493"
    }
   },
@@ -15248,7 +15231,7 @@
     "name": "52 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111607036",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861494"
    }
   },
@@ -15265,7 +15248,7 @@
     "name": "54 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113666745",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861495"
    }
   },
@@ -15282,7 +15265,7 @@
     "name": "56 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112073908",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861496"
    }
   },
@@ -15299,7 +15282,7 @@
     "name": "60 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112247214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861497"
    }
   },
@@ -15316,7 +15299,7 @@
     "name": "62 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113928470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861498"
    }
   },
@@ -16098,7 +16081,7 @@
     "name": "26 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111822477",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861657"
    }
   },
@@ -16132,7 +16115,7 @@
     "name": "32 WYBALENA GROVE COOK 2614",
     "locID": "LOC000113574329",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861659"
    }
   },
@@ -16149,7 +16132,7 @@
     "name": "34 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112205025",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861660"
    }
   },
@@ -16216,8 +16199,8 @@
    "properties": {
     "name": "124 DEXTER STREET COOK 2614",
     "locID": "LOC000113999876",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714861664"
    }
   },
@@ -16420,8 +16403,8 @@
    "properties": {
     "name": "1 KUMM PLACE COOK 2614",
     "locID": "LOC000110245805",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAACT714862639"
    }
   },
@@ -17474,8 +17457,8 @@
    "properties": {
     "name": "95 DEXTER STREET COOK 2614",
     "locID": "LOC000111274322",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714867853"
    }
   },
@@ -18392,8 +18375,8 @@
    "properties": {
     "name": "111 DEXTER STREET COOK 2614",
     "locID": "LOC000110875504",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714878617"
    }
   },
@@ -19429,8 +19412,8 @@
    "properties": {
     "name": "190 DEXTER STREET COOK 2614",
     "locID": "LOC000110676494",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714957719"
    }
   },
@@ -19685,7 +19668,7 @@
     "name": "51 WYBALENA GROVE COOK 2614",
     "locID": "LOC000110966397",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714959312"
    }
   },
@@ -23611,8 +23594,8 @@
    "properties": {
     "name": "12 BOURNE STREET COOK 2614",
     "locID": "LOC000167010458",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT715139555"
    }
   },
@@ -23815,8 +23798,8 @@
    "properties": {
     "name": "3 DUGDALE STREET COOK 2614",
     "locID": "LOC000167010946",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT715153546"
    }
   },
@@ -24597,8 +24580,8 @@
    "properties": {
     "name": "UNIT 12, 2 DEXTER STREET COOK 2614",
     "locID": "LOC000121574854",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT715697507"
    }
   },
@@ -24801,8 +24784,8 @@
    "properties": {
     "name": "UNIT 1, 2 DEXTER STREET COOK 2614",
     "locID": "LOC000111152224",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT715697520"
    }
   },
@@ -27473,6 +27456,91 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT720714456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.06242776,
+     -35.26066636
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 8 VICKERY STREET COOK 2614",
+    "locID": "ChIJF90NlYiyF2sRMQyhqVsWS_g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAACT721340655"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.06242776,
+     -35.26066636
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 8 VICKERY STREET COOK 2614",
+    "locID": "ChIJF90NlYiyF2sRMQyhqVsWS_g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAACT721341298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.06242776,
+     -35.26066636
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 8 VICKERY STREET COOK 2614",
+    "locID": "ChIJF90NlYiyF2sRMQyhqVsWS_g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAACT721341535"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.06242776,
+     -35.26066636
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 8 VICKERY STREET COOK 2614",
+    "locID": "ChIJF90NlYiyF2sRMQyhqVsWS_g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAACT721341623"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.06242776,
+     -35.26066636
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 8 VICKERY STREET COOK 2614",
+    "locID": "ChIJF90NlYiyF2sRMQyhqVsWS_g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAACT721341632"
    }
   }
  ]
