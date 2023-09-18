@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-29T02:49:52.362271",
+ "generated": "2023-09-18T20:52:22.353624",
  "suburb": "NORTH STRATHFIELD",
  "features": [
   {
@@ -1443,8 +1443,8 @@
    "properties": {
     "name": "1 HAMILTON STREET NORTH STRATHFIELD 2137",
     "locID": "LOC000002258479",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705562777"
    }
   },
@@ -1647,8 +1647,8 @@
    "properties": {
     "name": "2 HAMILTON STREET NORTH STRATHFIELD 2137",
     "locID": "LOC000046003697",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705562789"
    }
   },
@@ -20647,7 +20647,7 @@
     "type": "Point",
     "coordinates": [
      151.09179731,
-     -33.85932903
+     -33.85932904
     ]
    },
    "properties": {
@@ -23546,23 +23546,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716520415"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.09023001,
-     -33.85921349
-    ]
-   },
-   "properties": {
-    "name": "154 WELLBANK STREET NORTH STRATHFIELD 2137",
-    "locID": "LOC000068989726",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW716520497"
    }
   },
   {
@@ -35351,23 +35334,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.09344203,
-     -33.8651753
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 15 YOUNG STREET NORTH STRATHFIELD 2137",
-    "locID": "ChIJMzcG_Cm7EmsRkCKLN5eHvPM",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW718289087"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.08643766,
      -33.85517547
     ]
@@ -36116,8 +36082,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08656051,
-     -33.85622095
+     151.08656052,
+     -33.85622096
     ]
    },
    "properties": {
@@ -36133,8 +36099,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08656051,
-     -33.85622095
+     151.08656052,
+     -33.85622096
     ]
    },
    "properties": {
@@ -37272,8 +37238,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08656051,
-     -33.85622095
+     151.08656052,
+     -33.85622096
     ]
    },
    "properties": {
@@ -38072,7 +38038,7 @@
     "type": "Point",
     "coordinates": [
      151.09179731,
-     -33.85932903
+     -33.85932904
     ]
    },
    "properties": {
@@ -38089,7 +38055,7 @@
     "type": "Point",
     "coordinates": [
      151.09179731,
-     -33.85932903
+     -33.85932904
     ]
    },
    "properties": {
@@ -38106,7 +38072,7 @@
     "type": "Point",
     "coordinates": [
      151.09179731,
-     -33.85932903
+     -33.85932904
     ]
    },
    "properties": {
@@ -38123,7 +38089,7 @@
     "type": "Point",
     "coordinates": [
      151.09179731,
-     -33.85932903
+     -33.85932904
     ]
    },
    "properties": {
@@ -38275,8 +38241,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08644586,
-     -33.8570771
+     151.08644587,
+     -33.85707711
     ]
    },
    "properties": {
@@ -38292,8 +38258,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08644586,
-     -33.8570771
+     151.08644587,
+     -33.85707711
     ]
    },
    "properties": {
@@ -38326,8 +38292,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08644586,
-     -33.8570771
+     151.08644587,
+     -33.85707711
     ]
    },
    "properties": {
@@ -38343,8 +38309,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.08656051,
-     -33.85622095
+     151.08656052,
+     -33.85622096
     ]
    },
    "properties": {
@@ -38812,6 +38778,40 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721244484"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.085123,
+     -33.85683188
+    ]
+   },
+   "properties": {
+    "name": "5A WARSAW STREET NORTH STRATHFIELD 2137",
+    "locID": "ChIJHxSvJ9OkEmsRDVwyGi-ov8c",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721330799"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0889498,
+     -33.85668465
+    ]
+   },
+   "properties": {
+    "name": "15A BERONGA STREET NORTH STRATHFIELD 2137",
+    "locID": "ChIJV378kdSkEmsRf2Q4ifavff4",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721332379"
    }
   }
  ]
