@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-28T08:44:38.962742",
+ "generated": "2023-09-18T00:15:33.108196",
  "suburb": "DARLINGTON POINT",
  "features": [
   {
@@ -7002,7 +7002,7 @@
    "properties": {
     "name": "29 KOOK STREET DARLINGTON POINT 2706",
     "locID": "ChIJnWx8h9SQH2sR_hZptnqkKik",
-    "tech": "SATELLITE",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712796026"
    }
@@ -7512,8 +7512,8 @@
    "properties": {
     "name": "UNIT 5, 26 URI STREET DARLINGTON POINT 2706",
     "locID": "LOC000035603806",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715408710"
    }
   },
@@ -9943,7 +9943,7 @@
    "properties": {
     "name": "23A KOOK STREET DARLINGTON POINT 2706",
     "locID": "ChIJUd8ngNSQH2sRZVU95zqhHYo",
-    "tech": "SATELLITE",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717818450"
    }
@@ -9960,7 +9960,7 @@
    "properties": {
     "name": "23B KOOK STREET DARLINGTON POINT 2706",
     "locID": "ChIJUd8ngNSQH2sR65yaGWI6rdw",
-    "tech": "SATELLITE",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717818451"
    }
@@ -10606,7 +10606,7 @@
    "properties": {
     "name": "27-29 KOOK STREET DARLINGTON POINT 2706",
     "locID": "ChIJO7hah9SQH2sRWbfjyriZ_tY",
-    "tech": "SATELLITE",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717956532"
    }
@@ -10844,7 +10844,7 @@
    "properties": {
     "name": "35-37 KOOK STREET DARLINGTON POINT 2706",
     "locID": "ChIJq26lYdSQH2sR9aXTgMLPaq0",
-    "tech": "SATELLITE",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718070431"
    }
@@ -12496,6 +12496,40 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721261007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.99381044,
+     -34.57567321
+    ]
+   },
+   "properties": {
+    "name": "2-8 DEMAMIEL STREET DARLINGTON POINT 2706",
+    "locID": "LOC000169253518",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721321452"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.0099086,
+     -34.5686194
+    ]
+   },
+   "properties": {
+    "name": "13 DARLINGTON STREET DARLINGTON POINT 2706",
+    "locID": "LOC000179064236",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721327596"
    }
   }
  ]
