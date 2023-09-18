@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-29T01:50:23.442961",
+ "generated": "2023-09-18T19:52:17.842091",
  "suburb": "KENTLYN",
  "features": [
   {
@@ -3058,8 +3058,8 @@
    "properties": {
     "name": "60A DARLING AVENUE KENTLYN 2560",
     "locID": "LOC000115511608",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716569380"
    }
   },
@@ -3289,6 +3289,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.85470814,
+     -34.04775333
+    ]
+   },
+   "properties": {
+    "name": "15 HANSENS ROAD KENTLYN 2560",
+    "locID": "ChIJ21-kUKnuEmsRo-jeNwHrFc8",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW717333407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.85805269,
      -34.04829224
     ]
@@ -3316,40 +3333,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717343722"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.85851471,
-     -34.06440409
-    ]
-   },
-   "properties": {
-    "name": "LOT 1237 CORAL AVENUE KENTLYN 2560",
-    "locID": "EisxMjM3IENvcmFsIEF2ZSwgS2VudGx5biBOU1cgMjU2MCwgQXVzdHJhbGlhIjESLwoUChIJTb3v9bXuEmsRmcTkScHQtnYQ1QkqFAoSCbMVjHu17hJrEdPmQVKLWaGA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW717369598"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.86821296,
-     -34.05076515
-    ]
-   },
-   "properties": {
-    "name": "7A BORONIA ROAD KENTLYN 2560",
-    "locID": "ChIJp493wFbpEmsRO9EBDwEtDSQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW717549188"
    }
   },
   {
