@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-28T16:30:55.039679",
+ "generated": "2023-09-18T10:07:51.479867",
  "suburb": "RODD POINT",
  "features": [
   {
@@ -203,7 +203,7 @@
     "name": "38 PRINCESS AVENUE RODD POINT 2046",
     "locID": "LOC000052111514",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705766796"
    }
   },
@@ -3246,7 +3246,7 @@
     "name": "57 FIRST AVENUE RODD POINT 2046",
     "locID": "LOC000030386998",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706527043"
    }
   },
@@ -3892,7 +3892,7 @@
     "name": "60 FIRST AVENUE RODD POINT 2046",
     "locID": "LOC000173879522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706530336"
    }
   },
@@ -5796,7 +5796,7 @@
     "name": "23 HEATH STREET RODD POINT 2046",
     "locID": "LOC000024173128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706547234"
    }
   },
@@ -7726,8 +7726,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.14087751,
-     -33.86803101
+     151.14084063,
+     -33.86807748
     ]
    },
    "properties": {
@@ -7955,7 +7955,7 @@
     "name": "HOUSE 1, 23 HEATH STREET RODD POINT 2046",
     "locID": "LOC000024173128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710557062"
    }
   },
@@ -8006,7 +8006,7 @@
     "name": "UNIT 1, 57 FIRST AVENUE RODD POINT 2046",
     "locID": "LOC000030373300",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710567800"
    }
   },
@@ -8023,7 +8023,7 @@
     "name": "UNIT 1, 53 FIRST AVENUE RODD POINT 2046",
     "locID": "LOC000041226609",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710567803"
    }
   },
@@ -8057,7 +8057,7 @@
     "name": "53 FIRST AVENUE RODD POINT 2046",
     "locID": "LOC000040979248",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710572733"
    }
   },
@@ -9247,7 +9247,7 @@
     "name": "UNIT 1, 60 FIRST AVENUE RODD POINT 2046",
     "locID": "LOC000173879522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718937714"
    }
   },
@@ -9264,7 +9264,7 @@
     "name": "UNIT 2, 60 FIRST AVENUE RODD POINT 2046",
     "locID": "LOC000173879533",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718937715"
    }
   },
@@ -9368,6 +9368,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720381617"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.14092153,
+     -33.86805369
+    ]
+   },
+   "properties": {
+    "name": "50A HENLEY MARINE DRIVE RODD POINT 2046",
+    "locID": "LOC000190894687",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721316627"
    }
   }
  ]
