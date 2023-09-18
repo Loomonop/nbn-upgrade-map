@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-08-28T17:04:56.540474",
+ "generated": "2023-09-18T10:51:33.003349",
  "suburb": "WOODVALE",
  "features": [
   {
@@ -3976,7 +3976,7 @@
    "properties": {
     "name": "1 LYELL GROVE WOODVALE 6026",
     "locID": "LOC000193117421",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146859746"
    }
@@ -20442,8 +20442,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.78519,
-     -31.79565
+     115.78518876,
+     -31.79564513
     ]
    },
    "properties": {
@@ -66682,23 +66682,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.81174639,
-     -31.793494
-    ]
-   },
-   "properties": {
-    "name": "19 ROSSO MEANDER WOODVALE 6026",
-    "locID": "ChIJkzaa2AatMioRzk5OttkcIXc",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720299035"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.81256578,
      -31.79363881
     ]
@@ -66743,23 +66726,6 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720299439"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.81268385,
-     -31.79328587
-    ]
-   },
-   "properties": {
-    "name": "16 ROSSO MEANDER WOODVALE 6026",
-    "locID": "LOC000176762572",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_720299440"
    }
   },
   {
@@ -66818,40 +66784,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.81173809,
-     -31.79350912
-    ]
-   },
-   "properties": {
-    "name": "17 ROSSO MEANDER WOODVALE 6026",
-    "locID": "ChIJB4Sc2AatMioRJtnN_IVChM4",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720299560"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.81183709,
-     -31.79338587
-    ]
-   },
-   "properties": {
-    "name": "23 ROSSO MEANDER WOODVALE 6026",
-    "locID": "ChIJ_zzO2AatMioRS-Hpd4k6TBA",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720299561"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.81267238,
      -31.7935973
     ]
@@ -66869,23 +66801,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.81272071,
-     -31.79335995
-    ]
-   },
-   "properties": {
-    "name": "14 ROSSO MEANDER WOODVALE 6026",
-    "locID": "ChIJxxySHQetMioRbwdLPR7Lb54",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720299671"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.81310585,
      -31.79344205
     ]
@@ -66896,23 +66811,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720299775"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.81182361,
-     -31.79339796
-    ]
-   },
-   "properties": {
-    "name": "21 ROSSO MEANDER WOODVALE 6026",
-    "locID": "ChIJY3DP2AatMioRW9EMDtzs0YI",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAWA_720299776"
    }
   },
   {
@@ -67556,7 +67454,7 @@
    "properties": {
     "name": "UNIT 1, 1 LYELL GROVE WOODVALE 6026",
     "locID": "LOC000193117421",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721013684"
    }
@@ -67627,6 +67525,57 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_721015669"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78518876,
+     -31.79564513
+    ]
+   },
+   "properties": {
+    "name": "23B THE RETURN WOODVALE 6026",
+    "locID": "LOC000191041116",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721279923"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78518876,
+     -31.79564513
+    ]
+   },
+   "properties": {
+    "name": "23A THE RETURN WOODVALE 6026",
+    "locID": "LOC000191041100",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78518876,
+     -31.79564513
+    ]
+   },
+   "properties": {
+    "name": "23C THE RETURN WOODVALE 6026",
+    "locID": "LOC000191041128",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_721280828"
    }
   }
  ]
