@@ -2,9 +2,10 @@ import argparse
 import glob
 import logging
 import os
-import pprint
 import re
-from collections import Counter
+import subprocess
+from collections import Counter, OrderedDict
+from datetime import datetime, timedelta
 
 import data
 import db
@@ -189,20 +190,56 @@ def fix_gnaf_pid_mismatch():
                 geojson.write_geojson_file(suburb.name.upper(), state, file_addresses, generated)
 
 
-def get_tech_and_upgrade_breakdown():
-    """Print some stats about the tech and upgrade breakdown of all addresses."""
+def get_tech_and_upgrade_breakdown(root_dir=".") -> dict:
+    """Generate some tallies for tech-type and upgrade-status for all addresses (slow)."""
     all_tech = Counter()
     all_upgrade = Counter()
-    for state, suburb_list in suburbs.read_all_suburbs().items():
-        for suburb in suburb_list:
-            logging.info("Processing %s, %s", suburb.name, state)
-            addresses, generated = geojson.read_geojson_file_addresses(suburb.name, state)
-            all_tech.update(a.tech for a in addresses)
-            all_upgrade.update(a.upgrade for a in addresses if a.tech != "FTTP")
-    print("All tech breakdown:", sum(all_tech.values()))
-    pprint.pprint(all_tech)
-    print("All upgrade breakdown (excluding tech=FTTP):", sum(all_upgrade.values()))
-    pprint.pprint(all_upgrade)
+    filenames = glob.glob(f"{root_dir}/results/**/*.geojson")
+    for i, filename in enumerate(filenames):
+        info = utils.read_json_file(filename)
+        addresses = list(map(geojson.feature_to_address, info["features"]))
+        all_tech.update(a.tech for a in addresses)
+        all_upgrade.update(a.upgrade for a in addresses if a.tech != "FTTP")
+
+        if i % 100 == 0:
+            utils.print_progress_bar(i, len(filenames), prefix="Progress:", suffix="Complete", length=50)
+
+    return {
+        "tech": OrderedDict(all_tech.most_common()),
+        "upgrade": OrderedDict(all_upgrade.most_common()),
+    }
+
+
+def update_historical_tech_and_upgrade_breakdown():
+    """Using git, generate/update a list of tech and upgrade breakdowns over time."""
+    # use a separate checkout of the repo, so we don't have to worry about uncommitted changes
+    checkout_dir = "../new-checkout"
+    if not os.path.isdir(checkout_dir):
+        subprocess.run(f"git clone git@github.com:LukePrior/nbn-upgrade-map.git {checkout_dir}", check=True, shell=True)
+
+    # starting from ancient history, move forward 7 days at a time
+    breakdown_file = "results/breakdown.json"
+    breakdowns = utils.read_json_file(breakdown_file) if os.path.exists(breakdown_file) else {}
+    co_date = datetime(2023, 5, 23)
+    while co_date < datetime.now():
+        if co_date.date().isoformat() in breakdowns:
+            logging.info("Skipping %s", co_date)
+        else:
+            logging.info("Processing %s", co_date)
+            cmd = f"git checkout `git rev-list -n 1 --before=\"{co_date.strftime('%Y-%m-%d %H:%M')}\" main`"
+            subprocess.run(cmd, check=True, cwd=checkout_dir, shell=True)
+            breakdowns[co_date.date().isoformat()] = get_tech_and_upgrade_breakdown(checkout_dir)
+            utils.write_json_file(breakdown_file, breakdowns)  # save each time
+        co_date += timedelta(days=7)
+
+    # print tech breakdown
+    tech = [{"date": run_date} | b["tech"] for run_date, b in breakdowns.items()]
+    print()
+    print(tabulate(tech, headers="keys", tablefmt="github"))
+
+    upgrade = [{"date": run_date} | b["upgrade"] for run_date, b in breakdowns.items()]
+    print()
+    print(tabulate(upgrade, headers="keys", tablefmt="github"))
 
 
 if __name__ == "__main__":
@@ -218,7 +255,8 @@ if __name__ == "__main__":
     # get_suburb_extents
     # update_all_suburbs_from_db()
 
-    rebuild_status_file()
+    # get_tech_and_upgrade_breakdown()
+    update_historical_tech_and_upgrade_breakdown()
     # check_processing_rate()
     # add_address_count_to_suburbs()
     # add_address_count_to_suburbs()
