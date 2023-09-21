@@ -1,9 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>NBN Technology Breakdown</title>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Line and Pie Chart by Technology</title>
+    <meta name="description" content="Breakdown of NBN technology by date.">
+    <meta name="author" content="Luke Prior">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5VVNNFL32M"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-5VVNNFL32M');
+    </script>
+
     <!-- Include Chart.js library -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -27,43 +41,60 @@
 
     <script>
         // Function to fetch JSON data
-        async function fetchData() {
-            try {
-                const response = await fetch('https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/76ee9605db7bcd9c3314301f38e793d9473b8ae6/results/breakdown.json');
-                let data = await response.json();
-                Object.keys(data).forEach(date => {
-                    delete data[date].tech['NULL'];
-                });
-                return data;
-            } catch (error) {
-                console.error('Error fetching data:', error);
-            }
-        }
+        const fetchData = (() => {
+            let cachedData = null;
+            let isFetching = false;
 
-        // Tech Colours
-        const techColors = {
-            'FTTP': '#6f6f6f', // Muted Gray
-            'HFC': '#51a1e9', // Light Blue
-            'FTTC': '#e69523', // Orange
-            'FTTB': '#e03635', // Red
-            'FTTN': '#874d99', // Purple
-            'WIRELESS': '#a5a5a5', // Gray
-            'SATELLITE': '#f6c945', // Yellow
-        };
+            return async () => {
+                if (cachedData) {
+                    return cachedData;
+                }
+
+                if (isFetching) {
+                    await new Promise(resolve => {
+                        const intervalId = setInterval(() => {
+                        if (!isFetching) {
+                            clearInterval(intervalId);
+                            resolve();
+                        }
+                        }, 100);
+                    });
+                    return cachedData;
+                }
+
+                isFetching = true;
+
+                try {
+                    const response = await fetch('https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/76ee9605db7bcd9c3314301f38e793d9473b8ae6/results/breakdown.json');
+                    let data = await response.json();
+                    Object.keys(data).forEach(date => {
+                        delete data[date].tech['NULL'];
+                    });
+                    cachedData = data;
+                    isFetching = false;
+                    return data;
+                } catch (error) {
+                    console.error('Error fetching data:', error);
+                    isFetching = false;
+                }
+            };
+        })();
 
         // Function to prepare data for the line chart
         async function prepareLineChartData() {
             const rawData = await fetchData();
             const dates = Object.keys(rawData).filter(date => date >= "2023-08-01");
-            const techLabels = ["FTTP", "HFC", "FTTC", "FTTB", "FTTN", "WIRELESS", "SATELLITE"];
+            const newestDate = Object.keys(rawData).sort().reverse()[0];
+            const techData = rawData[newestDate].tech;
+            const sortedTechData = sortTechData(techData);
 
-            const datasets = techLabels.map((techLabel, index) => ({
-                label: techLabel,
-                data: dates.map(date => rawData[date].tech[techLabel]),
-                borderColor: techColors[techLabel], // Use the specified color for each tech
+            const datasets = sortedTechData.map((techData, index) => ({
+                label: techData.label,
+                data: dates.map(date => rawData[date].tech[techData.label]),
                 borderWidth: 2,
-                fill: false,
+                fill: true,
             }));
+
             return { dates, datasets };
         }
 
@@ -72,21 +103,23 @@
             const rawData = await fetchData();
             const newestDate = Object.keys(rawData).sort().reverse()[0];
             const techData = rawData[newestDate].tech;
-            const techLabels = Object.keys(techData);
-            const techValues = Object.values(techData);
-
-            // Sort tech labels and values in descending order of values
-            const sortedTechData = techLabels.map((label, index) => ({
-                label: label,
-                value: techValues[index],
-                color: techColors[label]
-            })).sort((a, b) => b.value - a.value);
+            const sortedTechData = sortTechData(techData);
 
             return {
                 labels: sortedTechData.map(data => data.label),
                 values: sortedTechData.map(data => data.value),
-                backgroundColors: sortedTechData.map(data => data.color)
             };
+        }
+
+        // Helper function to sort tech data in descending order of values
+        function sortTechData(techData) {
+            const techLabels = Object.keys(techData);
+            const techValues = Object.values(techData);
+
+            return techLabels.map((label, index) => ({
+                label: label,
+                value: techValues[index],
+            })).sort((a, b) => b.value - a.value);
         }
 
         // Create the line chart
@@ -105,6 +138,7 @@
                     maintainAspectRatio: false,
                     scales: {
                         y: {
+                            stacked: true,
                             beginAtZero: true,
                         },
                     },
@@ -138,7 +172,6 @@
                     labels: pieData.labels,
                     datasets: [{
                         data: pieData.values,
-                        backgroundColor: pieData.backgroundColors,
                     }],
                 },
                 options: {
