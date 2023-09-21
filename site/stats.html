@@ -65,7 +65,7 @@
                 isFetching = true;
 
                 try {
-                    const response = await fetch('https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/76ee9605db7bcd9c3314301f38e793d9473b8ae6/results/breakdown.json');
+                    const response = await fetch('https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/breakdown.json');
                     let data = await response.json();
                     Object.keys(data).forEach(date => {
                         delete data[date].tech['NULL'];
