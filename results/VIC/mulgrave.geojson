@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-02T02:13:38.908506",
+ "generated": "2023-09-22T09:42:49.094598",
  "suburb": "MULGRAVE",
  "features": [
   {
@@ -3365,7 +3365,7 @@
     "name": "4 BASTOW PLACE MULGRAVE 3170",
     "locID": "LOC000173667621",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413762441"
    }
   },
@@ -5473,7 +5473,7 @@
     "name": "LEVEL S2, 3-4 ANZED COURT MULGRAVE 3170",
     "locID": "LOC000016081119",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419706618"
    }
   },
@@ -18274,7 +18274,7 @@
     "name": "UNIT 2, 227 WELLINGTON ROAD MULGRAVE 3170",
     "locID": "LOC000166205750",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419920831"
    }
   },
@@ -29443,7 +29443,7 @@
     "name": "1 JACKSONS ROAD MULGRAVE 3170",
     "locID": "LOC000083093886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420092859"
    }
   },
@@ -34154,23 +34154,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420364510"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.19425269,
-     -37.93000624
-    ]
-   },
-   "properties": {
-    "name": "62-94 JACKSONS ROAD MULGRAVE 3170",
-    "locID": "LOC100081855204",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420364511"
    }
   },
   {
@@ -39805,6 +39788,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.182909,
+     -37.933122
+    ]
+   },
+   "properties": {
+    "name": "2 HAINTHORPE GROVE MULGRAVE 3170",
+    "locID": "LOC000193645883",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420387824"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.183257,
      -37.933316
     ]
@@ -43621,7 +43621,7 @@
     "name": "6 BASTOW PLACE MULGRAVE 3170",
     "locID": "LOC000173667621",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420606418"
    }
   },
@@ -51392,6 +51392,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420680757"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.168921,
+     -37.926849
+    ]
+   },
+   "properties": {
+    "name": "6 MANGANA DRIVE MULGRAVE 3170",
+    "locID": "LOC000193665097",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420680758"
    }
   },
   {
@@ -111042,8 +111059,8 @@
    "properties": {
     "name": "1 CAMVILLE ROAD MULGRAVE 3170",
     "locID": "LOC000034978119",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422082657"
    }
   },
@@ -116738,7 +116755,7 @@
     "name": "UNIT 2, 3-5 GILDA COURT MULGRAVE 3170",
     "locID": "LOC000049026018",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423357911"
    }
   },
@@ -116857,7 +116874,7 @@
     "name": "UNIT 9, 3-5 GILDA COURT MULGRAVE 3170",
     "locID": "LOC000049060963",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423357918"
    }
   },
@@ -122042,7 +122059,7 @@
     "name": "UNIT 7, 3-4 ANZED COURT MULGRAVE 3170",
     "locID": "LOC000016163733",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423808450"
    }
   },
@@ -122076,7 +122093,7 @@
     "name": "UNIT 9, 3-4 ANZED COURT MULGRAVE 3170",
     "locID": "LOC000016081119",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423808452"
    }
   },
@@ -123215,7 +123232,7 @@
     "name": "UNIT 2, 3-4 ANZED COURT MULGRAVE 3170",
     "locID": "LOC000016081119",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423872540"
    }
   },
@@ -123232,7 +123249,7 @@
     "name": "UNIT 3, 3-4 ANZED COURT MULGRAVE 3170",
     "locID": "LOC000016081119",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423872541"
    }
   },
@@ -123249,7 +123266,7 @@
     "name": "UNIT 4, 3-4 ANZED COURT MULGRAVE 3170",
     "locID": "LOC000016081119",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423872542"
    }
   },
@@ -123266,7 +123283,7 @@
     "name": "UNIT 5, 3-4 ANZED COURT MULGRAVE 3170",
     "locID": "LOC000016556014",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423872543"
    }
   },
@@ -130592,8 +130609,8 @@
    "properties": {
     "name": "2 MARYLEBONE DRIVE MULGRAVE 3170",
     "locID": "LOC000067602977",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424458222"
    }
   },
@@ -132837,7 +132854,7 @@
     "name": "6 GOODISON COURT MULGRAVE 3170",
     "locID": "LOC000060659157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424582132"
    }
   },
@@ -136322,7 +136339,7 @@
     "name": "20 ANFIELD CRESCENT MULGRAVE 3170",
     "locID": "LOC000114665607",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424796466"
    }
   },
@@ -146624,7 +146641,7 @@
     "name": "UNIT 1, 227 WELLINGTON ROAD MULGRAVE 3170",
     "locID": "LOC000166205750",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425634685"
    }
   },
@@ -161498,7 +161515,7 @@
    "properties": {
     "name": "298A WELLINGTON ROAD MULGRAVE 3170",
     "locID": "Ei8yOTggV2VsbGluZ3RvbiBSZCwgTXVsZ3JhdmUgVklDIDMxNzAsIEF1c3RyYWxpYSIxEi8KFAoSCf1ORsY-FdZqEQsY9T3mW9UGEKoCKhQKEglLYR7o1RfWahE-NohGMf-yIw",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721292675"
    }

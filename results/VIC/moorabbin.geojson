@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-02T01:47:28.214583",
+ "generated": "2023-09-22T09:13:26.713408",
  "suburb": "MOORABBIN",
  "features": [
   {
@@ -664,6 +664,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411881945"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.0415685,
+     -37.9404967
+    ]
+   },
+   "properties": {
+    "name": "6 TAVERNER STREET MOORABBIN 3189",
+    "locID": "LOC000193658905",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC411882588"
    }
   },
   {
@@ -1359,7 +1376,7 @@
     "name": "6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411888105"
    }
   },
@@ -2566,7 +2583,7 @@
     "name": "5 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000123961512",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411920995"
    }
   },
@@ -2787,7 +2804,7 @@
     "name": "FACTORY 2, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413862506"
    }
   },
@@ -2804,7 +2821,7 @@
     "name": "FACTORY 3, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413862507"
    }
   },
@@ -2821,7 +2838,7 @@
     "name": "FACTORY 4, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413862508"
    }
   },
@@ -2838,7 +2855,7 @@
     "name": "FACTORY 5, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413862509"
    }
   },
@@ -2855,7 +2872,7 @@
     "name": "FACTORY 6, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413862510"
    }
   },
@@ -2872,7 +2889,7 @@
     "name": "FACTORY 7, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413862511"
    }
   },
@@ -2991,7 +3008,7 @@
     "name": "FACTORY 1, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413863207"
    }
   },
@@ -3025,7 +3042,7 @@
     "name": "18-22 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC100069489204",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413863213"
    }
   },
@@ -3297,7 +3314,7 @@
     "name": "658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151539157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413873871"
    }
   },
@@ -3552,7 +3569,7 @@
     "name": "UNIT 1, 2 TRENT STREET MOORABBIN 3189",
     "locID": "LOC000032776761",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413874083"
    }
   },
@@ -3909,7 +3926,7 @@
     "name": "UNIT 13, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006002925",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413885524"
    }
   },
@@ -4538,7 +4555,7 @@
     "name": "UNIT 2, 2 TRENT STREET MOORABBIN 3189",
     "locID": "LOC000032973153",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413892682"
    }
   },
@@ -5064,8 +5081,8 @@
    "properties": {
     "name": "157 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000020511095",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC413893222"
    }
   },
@@ -5184,7 +5201,7 @@
     "name": "UNIT 1, 161-163 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970394",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413893282"
    }
   },
@@ -5643,7 +5660,7 @@
     "name": "FACTORY 8, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413894113"
    }
   },
@@ -5660,7 +5677,7 @@
     "name": "FACTORY 9, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413894114"
    }
   },
@@ -5677,7 +5694,7 @@
     "name": "FACTORY 10, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413894115"
    }
   },
@@ -5694,7 +5711,7 @@
     "name": "FACTORY 11, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413894116"
    }
   },
@@ -5711,7 +5728,7 @@
     "name": "FACTORY 12, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413894117"
    }
   },
@@ -5728,7 +5745,7 @@
     "name": "FACTORY 13, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413894118"
    }
   },
@@ -6272,7 +6289,7 @@
     "name": "UNIT 1, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011802168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898662"
    }
   },
@@ -6323,7 +6340,7 @@
     "name": "UNIT 4, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000012004815",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898673"
    }
   },
@@ -6340,7 +6357,7 @@
     "name": "UNIT 5, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011802168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898674"
    }
   },
@@ -6357,7 +6374,7 @@
     "name": "UNIT 6, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011802168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898675"
    }
   },
@@ -6374,7 +6391,7 @@
     "name": "UNIT 7, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011826080",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898676"
    }
   },
@@ -6391,7 +6408,7 @@
     "name": "UNIT 8, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000012026607",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898677"
    }
   },
@@ -6408,7 +6425,7 @@
     "name": "UNIT 9, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011915346",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898678"
    }
   },
@@ -6425,7 +6442,7 @@
     "name": "UNIT 10, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000012111167",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898679"
    }
   },
@@ -6442,7 +6459,7 @@
     "name": "UNIT 11, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011981193",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898680"
    }
   },
@@ -6680,7 +6697,7 @@
     "name": "UNIT 12, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011930021",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898942"
    }
   },
@@ -6697,7 +6714,7 @@
     "name": "UNIT 13, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000012008335",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898943"
    }
   },
@@ -6714,7 +6731,7 @@
     "name": "UNIT 14, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011977299",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898944"
    }
   },
@@ -6731,7 +6748,7 @@
     "name": "UNIT 15, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000012066584",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898945"
    }
   },
@@ -6748,7 +6765,7 @@
     "name": "UNIT 16, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011971687",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898946"
    }
   },
@@ -7071,7 +7088,7 @@
     "name": "UNIT 9, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006128770",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413898992"
    }
   },
@@ -7190,7 +7207,7 @@
     "name": "1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095430999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413901873"
    }
   },
@@ -7564,7 +7581,7 @@
     "name": "4 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000024403678",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413906343"
    }
   },
@@ -8686,7 +8703,7 @@
     "name": "FACTORY 1, 42 ALEX AVENUE MOORABBIN 3189",
     "locID": "LOC000044390154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419568953"
    }
   },
@@ -8703,7 +8720,7 @@
     "name": "UNIT 3, 4 KINWAL COURT MOORABBIN 3189",
     "locID": "LOC000065868931",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419576853"
    }
   },
@@ -8720,7 +8737,7 @@
     "name": "UNIT 4, 4 KINWAL COURT MOORABBIN 3189",
     "locID": "LOC000065868931",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419577738"
    }
   },
@@ -8771,7 +8788,7 @@
     "name": "UNIT 6, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000096004979",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419586942"
    }
   },
@@ -8873,7 +8890,7 @@
     "name": "UNIT 2, 1-3 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000001905215",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419623234"
    }
   },
@@ -8890,7 +8907,7 @@
     "name": "UNIT 4, 1-3 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000002101593",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419623235"
    }
   },
@@ -10930,7 +10947,7 @@
     "name": "1 TRENT STREET MOORABBIN 3189",
     "locID": "LOC000032776761",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419655538"
    }
   },
@@ -13361,7 +13378,7 @@
     "name": "UNIT 7, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940503",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419664763"
    }
   },
@@ -13378,7 +13395,7 @@
     "name": "UNIT 1, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035423412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419664764"
    }
   },
@@ -13395,7 +13412,7 @@
     "name": "UNIT 6, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035424276",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419664765"
    }
   },
@@ -14041,7 +14058,7 @@
     "name": "UNIT 3, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123997978",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419683230"
    }
   },
@@ -14126,7 +14143,7 @@
     "name": "FACTORY 1, 3 EDGECOMBE COURT MOORABBIN 3189",
     "locID": "LOC000067810784",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419686309"
    }
   },
@@ -14585,7 +14602,7 @@
     "name": "UNIT 1, 5 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000123961508",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419743564"
    }
   },
@@ -14993,7 +15010,7 @@
     "name": "UNIT 1, 50 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000093076929",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419795777"
    }
   },
@@ -15809,7 +15826,7 @@
     "name": "UNIT 5, 1-3 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000001887058",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419924463"
    }
   },
@@ -15988,6 +16005,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.053586,
+     -37.939146
+    ]
+   },
+   "properties": {
+    "name": "10 FRANKLIN STREET MOORABBIN 3189",
+    "locID": "LOC000193602549",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419937421"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.05326026,
      -37.93900829
     ]
@@ -16100,6 +16134,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419938077"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.045904,
+     -37.93791
+    ]
+   },
+   "properties": {
+    "name": "19 CLAY STREET MOORABBIN 3189",
+    "locID": "LOC000193571582",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419938078"
    }
   },
   {
@@ -18291,7 +18342,7 @@
     "name": "95 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000103628800",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419955748"
    }
   },
@@ -19447,7 +19498,7 @@
     "name": "217 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000034727980",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419968091"
    }
   },
@@ -20739,7 +20790,7 @@
     "name": "UNIT 3, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011802168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419982677"
    }
   },
@@ -21181,7 +21232,7 @@
     "name": "UNIT 7, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006131319",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419990955"
    }
   },
@@ -21198,7 +21249,7 @@
     "name": "UNIT 3, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006030010",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419990956"
    }
   },
@@ -21215,7 +21266,7 @@
     "name": "UNIT 2, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006030010",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419990957"
    }
   },
@@ -21470,7 +21521,7 @@
     "name": "UNIT 5, 2 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000095466933",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420024479"
    }
   },
@@ -22303,7 +22354,7 @@
     "name": "UNIT 1, 4 KINWAL COURT MOORABBIN 3189",
     "locID": "LOC000065626231",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420151534"
    }
   },
@@ -22371,7 +22422,7 @@
     "name": "UNIT 7, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095430999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420175569"
    }
   },
@@ -27114,7 +27165,7 @@
     "name": "FACTORY 2, 3 EDGECOMBE COURT MOORABBIN 3189",
     "locID": "LOC000067810784",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420282311"
    }
   },
@@ -27131,7 +27182,7 @@
     "name": "FACTORY 3, 3 EDGECOMBE COURT MOORABBIN 3189",
     "locID": "LOC000067810784",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420282312"
    }
   },
@@ -27335,7 +27386,7 @@
     "name": "UNIT 1, 217-219 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000034376583",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420290344"
    }
   },
@@ -27352,7 +27403,7 @@
     "name": "UNIT 4, 217-219 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000034746490",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420290345"
    }
   },
@@ -27896,7 +27947,7 @@
     "name": "UNIT 5, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035258067",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420303509"
    }
   },
@@ -28083,7 +28134,7 @@
     "name": "UNIT 2, 2 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000095803164",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420332397"
    }
   },
@@ -28457,7 +28508,7 @@
     "name": "UNIT 2, 5 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000123961512",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420361525"
    }
   },
@@ -28593,7 +28644,7 @@
     "name": "UNIT 2, 50 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000093123464",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420389460"
    }
   },
@@ -28610,7 +28661,7 @@
     "name": "2 TRENT STREET MOORABBIN 3189",
     "locID": "LOC000032973153",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420389461"
    }
   },
@@ -28627,7 +28678,7 @@
     "name": "431-433 WARRIGAL ROAD MOORABBIN 3189",
     "locID": "LOC000069680322",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420389463"
    }
   },
@@ -29035,7 +29086,7 @@
     "name": "UNIT 5, 4 KINWAL COURT MOORABBIN 3189",
     "locID": "LOC000065508826",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420487363"
    }
   },
@@ -29086,7 +29137,7 @@
     "name": "UNIT 9, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095352545",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420491472"
    }
   },
@@ -29171,7 +29222,7 @@
     "name": "660A SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123961622",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420530940"
    }
   },
@@ -29800,7 +29851,7 @@
     "name": "58-60 ALEX AVENUE MOORABBIN 3189",
     "locID": "LOC000107603833",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420545083"
    }
   },
@@ -32673,7 +32724,7 @@
     "name": "489 WARRIGAL ROAD MOORABBIN 3189",
     "locID": "LOC000018580811",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420560907"
    }
   },
@@ -33761,7 +33812,7 @@
     "name": "UNIT 3, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035423412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420582855"
    }
   },
@@ -33778,7 +33829,7 @@
     "name": "UNIT 4, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035470838",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420582856"
    }
   },
@@ -34186,7 +34237,7 @@
     "name": "UNIT 5, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940485",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420587972"
    }
   },
@@ -34526,7 +34577,7 @@
     "name": "3 EDGECOMBE COURT MOORABBIN 3189",
     "locID": "LOC000067810784",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420605237"
    }
   },
@@ -34577,7 +34628,7 @@
     "name": "UNIT 4, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006188917",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420605248"
    }
   },
@@ -35648,7 +35699,7 @@
     "name": "291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106619089",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420747424"
    }
   },
@@ -35699,7 +35750,7 @@
     "name": "UNIT 5, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095413833",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420787693"
    }
   },
@@ -36532,7 +36583,7 @@
     "name": "UNIT 3, 1-3 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000001887058",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420837843"
    }
   },
@@ -40765,7 +40816,7 @@
     "name": "UNIT 6, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940492",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420883369"
    }
   },
@@ -41088,7 +41139,7 @@
     "name": "UNIT 2, 217-219 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000034376583",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420890362"
    }
   },
@@ -41360,7 +41411,7 @@
     "name": "682 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123970302",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420899560"
    }
   },
@@ -41411,7 +41462,7 @@
     "name": "UNIT 5, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006127104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420902387"
    }
   },
@@ -41581,7 +41632,7 @@
     "name": "136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420916109"
    }
   },
@@ -41632,7 +41683,7 @@
     "name": "UNIT 3, 2 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000095803164",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420926237"
    }
   },
@@ -42431,7 +42482,7 @@
     "name": "UNIT 1, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095430999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421084783"
    }
   },
@@ -42448,7 +42499,7 @@
     "name": "UNIT 4, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095183706",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421084784"
    }
   },
@@ -47718,7 +47769,7 @@
     "name": "UNIT 8, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940519",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421196143"
    }
   },
@@ -47735,7 +47786,7 @@
     "name": "UNIT 7, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035138574",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421196144"
    }
   },
@@ -47752,7 +47803,7 @@
     "name": "UNIT 8, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035143916",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421196145"
    }
   },
@@ -48126,7 +48177,7 @@
     "name": "UNIT 3, 217-219 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000034376583",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421206641"
    }
   },
@@ -48347,7 +48398,7 @@
     "name": "UNIT 12, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006073906",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421210355"
    }
   },
@@ -48364,7 +48415,7 @@
     "name": "UNIT 11, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006070711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421210365"
    }
   },
@@ -48381,7 +48432,7 @@
     "name": "UNIT 6, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006159679",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421210366"
    }
   },
@@ -48398,7 +48449,7 @@
     "name": "UNIT 1, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006070711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421210367"
    }
   },
@@ -48585,7 +48636,7 @@
     "name": "2 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000095803164",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421247647"
    }
   },
@@ -48976,7 +49027,7 @@
     "name": "UNIT 2, 4 KINWAL COURT MOORABBIN 3189",
     "locID": "LOC000065607874",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421300308"
    }
   },
@@ -49537,7 +49588,7 @@
     "name": "UNIT 3, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095430999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421367370"
    }
   },
@@ -49962,7 +50013,7 @@
     "name": "UNIT 1, 1-3 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000001954996",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421431706"
    }
   },
@@ -52954,7 +53005,7 @@
     "name": "3-5 FREIGHTER ROAD MOORABBIN 3189",
     "locID": "LOC000023836841",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421458102"
    }
   },
@@ -55028,7 +55079,7 @@
     "name": "UNIT 14, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006060404",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421492624"
    }
   },
@@ -55045,7 +55096,7 @@
     "name": "UNIT 10, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006006241",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421492625"
    }
   },
@@ -55062,7 +55113,7 @@
     "name": "UNIT 8, 21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006237563",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421492626"
    }
   },
@@ -55181,7 +55232,7 @@
     "name": "UNIT 2, 682 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000056525914",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421503633"
    }
   },
@@ -55351,7 +55402,7 @@
     "name": "UNIT 1, 682 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000056157005",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421507253"
    }
   },
@@ -55674,7 +55725,7 @@
     "name": "UNIT 6, 2 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000095812485",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421535166"
    }
   },
@@ -55691,7 +55742,7 @@
     "name": "UNIT 1, 2 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000095766266",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421535167"
    }
   },
@@ -56558,7 +56609,7 @@
     "name": "582-586 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123961554",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421615924"
    }
   },
@@ -56949,7 +57000,7 @@
     "name": "UNIT 2, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000096169891",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421675716"
    }
   },
@@ -56966,7 +57017,7 @@
     "name": "UNIT 8, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000095474875",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421675717"
    }
   },
@@ -56983,7 +57034,7 @@
     "name": "UNIT 10, 1-7 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000096012078",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421675718"
    }
   },
@@ -57444,6 +57495,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421723301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.0415685,
+     -37.9404967
+    ]
+   },
+   "properties": {
+    "name": "6A TAVERNER STREET MOORABBIN 3189",
+    "locID": "ChIJBbn8DK9u1moRZFivG8rSEmY",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421723302"
    }
   },
   {
@@ -61250,7 +61318,7 @@
     "name": "UNIT 4, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940471",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421796560"
    }
   },
@@ -61267,7 +61335,7 @@
     "name": "295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035423412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421796561"
    }
   },
@@ -61284,7 +61352,7 @@
     "name": "UNIT 2, 295 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000035423412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421796562"
    }
   },
@@ -61505,7 +61573,7 @@
     "name": "UNIT 3, 163 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970394",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421796938"
    }
   },
@@ -61726,7 +61794,7 @@
     "name": "UNIT 5, 217-219 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000034888231",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421809026"
    }
   },
@@ -62058,6 +62126,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.04494605,
+     -37.93628134
+    ]
+   },
+   "properties": {
+    "name": "10 MARGARET STREET MOORABBIN 3189",
+    "locID": "LOC000193650240",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421814615"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.076881,
      -37.943924
     ]
@@ -62219,7 +62304,7 @@
     "name": "UNIT 15, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985830",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421822383"
    }
   },
@@ -62236,7 +62321,7 @@
     "name": "FACTORY 4, 3 EDGECOMBE COURT MOORABBIN 3189",
     "locID": "LOC000067810784",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421822386"
    }
   },
@@ -62406,7 +62491,7 @@
     "name": "UNIT 2, 59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000012072964",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421828797"
    }
   },
@@ -62457,7 +62542,7 @@
     "name": "143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489611",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421828802"
    }
   },
@@ -62644,7 +62729,7 @@
     "name": "UNIT 4, 2 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000095386399",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421840805"
    }
   },
@@ -63154,7 +63239,7 @@
     "name": "35 GENOA STREET MOORABBIN 3189",
     "locID": "LOC000075082882",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421898038"
    }
   },
@@ -63290,7 +63375,7 @@
     "name": "UNIT 3, 50 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000093123464",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421912868"
    }
   },
@@ -63749,7 +63834,7 @@
     "name": "161 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970394",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422023483"
    }
   },
@@ -64174,7 +64259,7 @@
     "name": "217-219 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000034376583",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422084095"
    }
   },
@@ -64361,7 +64446,7 @@
     "name": "59-65 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000011802168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422098147"
    }
   },
@@ -64378,7 +64463,7 @@
     "name": "4 KINWAL COURT MOORABBIN 3189",
     "locID": "LOC000065868931",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422098449"
    }
   },
@@ -64769,7 +64854,7 @@
     "name": "163 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970394",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422136135"
    }
   },
@@ -64820,7 +64905,7 @@
     "name": "136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123997978",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422137551"
    }
   },
@@ -64973,7 +65058,7 @@
     "name": "20 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422186436"
    }
   },
@@ -65143,7 +65228,7 @@
     "name": "UNIT 10, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123997984",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284410"
    }
   },
@@ -65160,7 +65245,7 @@
     "name": "UNIT 11, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123997997",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284411"
    }
   },
@@ -65177,7 +65262,7 @@
     "name": "UNIT 12, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985807",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284412"
    }
   },
@@ -65194,7 +65279,7 @@
     "name": "UNIT 13, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123997978",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284413"
    }
   },
@@ -65211,7 +65296,7 @@
     "name": "UNIT 14, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985824",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284414"
    }
   },
@@ -65228,7 +65313,7 @@
     "name": "UNIT 1, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123997978",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284415"
    }
   },
@@ -65245,7 +65330,7 @@
     "name": "UNIT 2, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985848",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284416"
    }
   },
@@ -65262,7 +65347,7 @@
     "name": "UNIT 4, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985869",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284417"
    }
   },
@@ -65279,7 +65364,7 @@
     "name": "UNIT 5, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284418"
    }
   },
@@ -65296,7 +65381,7 @@
     "name": "UNIT 6, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985882",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284419"
    }
   },
@@ -65313,7 +65398,7 @@
     "name": "UNIT 7, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985895",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284420"
    }
   },
@@ -65330,7 +65415,7 @@
     "name": "UNIT 8, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985905",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284421"
    }
   },
@@ -65347,7 +65432,7 @@
     "name": "UNIT 9, 136-138 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985914",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422284422"
    }
   },
@@ -65483,7 +65568,7 @@
     "name": "UNIT 1, 16-18 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000096342487",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422447221"
    }
   },
@@ -65500,7 +65585,7 @@
     "name": "UNIT 2, 16-18 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000096309248",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422447222"
    }
   },
@@ -65517,7 +65602,7 @@
     "name": "16-18 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000096342487",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422447224"
    }
   },
@@ -65806,7 +65891,7 @@
     "name": "FACTORY 2, 42 ALEX AVENUE MOORABBIN 3189",
     "locID": "LOC000044390154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423109983"
    }
   },
@@ -66129,7 +66214,7 @@
     "name": "FACTORY 14, 136 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423393937"
    }
   },
@@ -66180,7 +66265,7 @@
     "name": "9-15 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000079263973",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423396795"
    }
   },
@@ -66197,7 +66282,7 @@
     "name": "UNIT 1, 25 KILPA ROAD MOORABBIN 3189",
     "locID": "LOC000009782438",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423399994"
    }
   },
@@ -66214,7 +66299,7 @@
     "name": "UNIT 2, 25 KILPA ROAD MOORABBIN 3189",
     "locID": "LOC000009782438",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423399995"
    }
   },
@@ -66231,7 +66316,7 @@
     "name": "UNIT 3, 25 KILPA ROAD MOORABBIN 3189",
     "locID": "LOC000009782438",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423399996"
    }
   },
@@ -66248,7 +66333,7 @@
     "name": "25 KILPA ROAD MOORABBIN 3189",
     "locID": "LOC000009782438",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423399997"
    }
   },
@@ -66741,7 +66826,7 @@
     "name": "18 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123970271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423574724"
    }
   },
@@ -67183,7 +67268,7 @@
     "name": "1-9 FRIARS ROAD MOORABBIN 3189",
     "locID": "LOC000079263973",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423719458"
    }
   },
@@ -67421,7 +67506,7 @@
     "name": "2-12 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006073906",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423721183"
    }
   },
@@ -68985,7 +69070,7 @@
     "name": "UNIT 10, 18 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123970228",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423836016"
    }
   },
@@ -69002,7 +69087,7 @@
     "name": "UNIT 12, 18 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123970244",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423836017"
    }
   },
@@ -69019,7 +69104,7 @@
     "name": "UNIT 6, 20 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423836018"
    }
   },
@@ -69036,7 +69121,7 @@
     "name": "UNIT 7, 18 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123970259",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423836019"
    }
   },
@@ -69053,7 +69138,7 @@
     "name": "UNIT 8, 18 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123970263",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423836020"
    }
   },
@@ -69070,7 +69155,7 @@
     "name": "UNIT 9, 18 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123970271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423836021"
    }
   },
@@ -69240,7 +69325,7 @@
     "name": "UNIT 10, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106341916",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856217"
    }
   },
@@ -69257,7 +69342,7 @@
     "name": "UNIT 11, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000107126739",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856218"
    }
   },
@@ -69274,7 +69359,7 @@
     "name": "UNIT 12, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106538161",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856219"
    }
   },
@@ -69291,7 +69376,7 @@
     "name": "UNIT 13, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106249582",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856220"
    }
   },
@@ -69308,7 +69393,7 @@
     "name": "UNIT 1, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106249582",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856221"
    }
   },
@@ -69325,7 +69410,7 @@
     "name": "UNIT 2, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106619089",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856222"
    }
   },
@@ -69342,7 +69427,7 @@
     "name": "UNIT 3, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106744155",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856223"
    }
   },
@@ -69359,7 +69444,7 @@
     "name": "UNIT 4, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106139436",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856224"
    }
   },
@@ -69376,7 +69461,7 @@
     "name": "UNIT 5, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106312847",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856225"
    }
   },
@@ -69393,7 +69478,7 @@
     "name": "UNIT 6, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106820335",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856226"
    }
   },
@@ -69410,7 +69495,7 @@
     "name": "UNIT 7, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106346635",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856227"
    }
   },
@@ -69427,7 +69512,7 @@
     "name": "UNIT 8, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106423314",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856228"
    }
   },
@@ -69444,7 +69529,7 @@
     "name": "UNIT 9, 291 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000106728582",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423856229"
    }
   },
@@ -71093,7 +71178,7 @@
     "name": "UNIT 10, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104424239",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060893"
    }
   },
@@ -71110,7 +71195,7 @@
     "name": "UNIT 11, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104550149",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060894"
    }
   },
@@ -71127,7 +71212,7 @@
     "name": "UNIT 12, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104144505",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060895"
    }
   },
@@ -71144,7 +71229,7 @@
     "name": "UNIT 13, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104204989",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060896"
    }
   },
@@ -71161,7 +71246,7 @@
     "name": "UNIT 14, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104765759",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060897"
    }
   },
@@ -71178,7 +71263,7 @@
     "name": "UNIT 15, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104476524",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060898"
    }
   },
@@ -71195,7 +71280,7 @@
     "name": "UNIT 16, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104705476",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060899"
    }
   },
@@ -71212,7 +71297,7 @@
     "name": "UNIT 17, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104615507",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060900"
    }
   },
@@ -71229,7 +71314,7 @@
     "name": "UNIT 18, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000103965611",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060901"
    }
   },
@@ -71246,7 +71331,7 @@
     "name": "UNIT 19, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104501782",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060902"
    }
   },
@@ -71263,7 +71348,7 @@
     "name": "UNIT 1, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104731387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060903"
    }
   },
@@ -71280,7 +71365,7 @@
     "name": "UNIT 20, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104507461",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060904"
    }
   },
@@ -71297,7 +71382,7 @@
     "name": "UNIT 21, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104005692",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060905"
    }
   },
@@ -71314,7 +71399,7 @@
     "name": "UNIT 22, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104144514",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060906"
    }
   },
@@ -71331,7 +71416,7 @@
     "name": "UNIT 23, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104617333",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060907"
    }
   },
@@ -71348,7 +71433,7 @@
     "name": "UNIT 24, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104677256",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060908"
    }
   },
@@ -71365,7 +71450,7 @@
     "name": "UNIT 25, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104641158",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060909"
    }
   },
@@ -71382,7 +71467,7 @@
     "name": "UNIT 26, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104457329",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060910"
    }
   },
@@ -71399,7 +71484,7 @@
     "name": "UNIT 27, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104490340",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060911"
    }
   },
@@ -71416,7 +71501,7 @@
     "name": "UNIT 28, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104082212",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060912"
    }
   },
@@ -71433,7 +71518,7 @@
     "name": "UNIT 29, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104319216",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060913"
    }
   },
@@ -71450,7 +71535,7 @@
     "name": "UNIT 2, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104630528",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060915"
    }
   },
@@ -71467,7 +71552,7 @@
     "name": "UNIT 30, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104197731",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060916"
    }
   },
@@ -71484,7 +71569,7 @@
     "name": "UNIT 31, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104579486",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060917"
    }
   },
@@ -71501,7 +71586,7 @@
     "name": "UNIT 32, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104186921",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060918"
    }
   },
@@ -71518,7 +71603,7 @@
     "name": "UNIT 33, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104660596",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060919"
    }
   },
@@ -71535,7 +71620,7 @@
     "name": "UNIT 34, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104549521",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060920"
    }
   },
@@ -71552,7 +71637,7 @@
     "name": "UNIT 35, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104200908",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060921"
    }
   },
@@ -71569,7 +71654,7 @@
     "name": "UNIT 3, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104731387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060922"
    }
   },
@@ -71586,7 +71671,7 @@
     "name": "UNIT 4, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104626492",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060924"
    }
   },
@@ -71603,7 +71688,7 @@
     "name": "UNIT 5, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104334824",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060925"
    }
   },
@@ -71620,7 +71705,7 @@
     "name": "UNIT 6, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104384511",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060926"
    }
   },
@@ -71637,7 +71722,7 @@
     "name": "UNIT 8, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104555806",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060927"
    }
   },
@@ -71654,7 +71739,7 @@
     "name": "UNIT 9, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104172977",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060928"
    }
   },
@@ -71688,7 +71773,7 @@
     "name": "282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104731387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424060930"
    }
   },
@@ -72334,7 +72419,7 @@
     "name": "1-3 BIRDUM STREET MOORABBIN 3189",
     "locID": "LOC000180248301",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424350799"
    }
   },
@@ -72640,7 +72725,7 @@
     "name": "UNIT 1, 582-586 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123961554",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424366965"
    }
   },
@@ -72912,7 +72997,7 @@
     "name": "161-163 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970394",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424418166"
    }
   },
@@ -73065,7 +73150,7 @@
     "name": "21-23 LEVANSWELL ROAD MOORABBIN 3189",
     "locID": "LOC000006030010",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424420861"
    }
   },
@@ -73235,7 +73320,7 @@
     "name": "273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940503",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424424149"
    }
   },
@@ -73592,7 +73677,7 @@
     "name": "FACTORY 10, 682 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123970302",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424454319"
    }
   },
@@ -73609,7 +73694,7 @@
     "name": "FACTORY 7, 282-284 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000104384511",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424462929"
    }
   },
@@ -73813,7 +73898,7 @@
     "name": "UNIT 11, 18 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123970237",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503155"
    }
   },
@@ -73830,7 +73915,7 @@
     "name": "UNIT 1, 20 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936816",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503156"
    }
   },
@@ -73847,7 +73932,7 @@
     "name": "UNIT 2, 20 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503157"
    }
   },
@@ -73864,7 +73949,7 @@
     "name": "UNIT 3, 20 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503158"
    }
   },
@@ -73881,7 +73966,7 @@
     "name": "UNIT 4, 20 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936844",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503159"
    }
   },
@@ -73898,7 +73983,7 @@
     "name": "UNIT 5, 20 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936859",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503160"
    }
   },
@@ -74000,7 +74085,7 @@
     "name": "FACTORY 3, 682 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123970302",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424505130"
    }
   },
@@ -78369,7 +78454,7 @@
     "name": "UNIT F1, 42 ALEX AVENUE MOORABBIN 3189",
     "locID": "LOC000044390154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424741335"
    }
   },
@@ -78386,7 +78471,7 @@
     "name": "UNIT F2, 42 ALEX AVENUE MOORABBIN 3189",
     "locID": "LOC000044390154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424741336"
    }
   },
@@ -78488,7 +78573,7 @@
     "name": "UNIT 2, 163 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970387",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424745061"
    }
   },
@@ -78505,7 +78590,7 @@
     "name": "UNIT 4, 163 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970409",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424745062"
    }
   },
@@ -78522,7 +78607,7 @@
     "name": "UNIT 5, 163 CHESTERVILLE ROAD MOORABBIN 3189",
     "locID": "LOC000123970413",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424745063"
    }
   },
@@ -78658,7 +78743,7 @@
     "name": "42 ALEX AVENUE MOORABBIN 3189",
     "locID": "LOC000044390154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424769374"
    }
   },
@@ -79049,7 +79134,7 @@
     "name": "FACTORY 1, 660A SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123961622",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424889706"
    }
   },
@@ -79066,7 +79151,7 @@
     "name": "FACTORY 2, 660A SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000123961622",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424889708"
    }
   },
@@ -79355,7 +79440,7 @@
     "name": "63 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123944579",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425012395"
    }
   },
@@ -80800,7 +80885,7 @@
     "name": "UNIT 10, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538304",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403989"
    }
   },
@@ -80817,7 +80902,7 @@
     "name": "UNIT 11, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538315",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403990"
    }
   },
@@ -80834,7 +80919,7 @@
     "name": "UNIT 12, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151539157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403991"
    }
   },
@@ -80851,7 +80936,7 @@
     "name": "UNIT 13, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403992"
    }
   },
@@ -80868,7 +80953,7 @@
     "name": "UNIT 14, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538273",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403993"
    }
   },
@@ -80885,7 +80970,7 @@
     "name": "UNIT 15, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538256",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403994"
    }
   },
@@ -80902,7 +80987,7 @@
     "name": "UNIT 16, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538239",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403995"
    }
   },
@@ -80919,7 +81004,7 @@
     "name": "UNIT 17, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538218",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403996"
    }
   },
@@ -80936,7 +81021,7 @@
     "name": "UNIT 18, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538169",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403997"
    }
   },
@@ -80953,7 +81038,7 @@
     "name": "UNIT 19, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538148",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403998"
    }
   },
@@ -80970,7 +81055,7 @@
     "name": "UNIT 1, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151539157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425403999"
    }
   },
@@ -80987,7 +81072,7 @@
     "name": "UNIT 20, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538130",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404000"
    }
   },
@@ -81004,7 +81089,7 @@
     "name": "UNIT 21, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151539188",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404001"
    }
   },
@@ -81021,7 +81106,7 @@
     "name": "UNIT 2, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538130",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404006"
    }
   },
@@ -81038,7 +81123,7 @@
     "name": "UNIT 3, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151539157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404007"
    }
   },
@@ -81055,7 +81140,7 @@
     "name": "UNIT 4, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538176",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404008"
    }
   },
@@ -81072,7 +81157,7 @@
     "name": "UNIT 5, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538225",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404009"
    }
   },
@@ -81089,7 +81174,7 @@
     "name": "UNIT 6, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151539157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404010"
    }
   },
@@ -81106,7 +81191,7 @@
     "name": "UNIT 7, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538260",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404011"
    }
   },
@@ -81123,7 +81208,7 @@
     "name": "UNIT 8, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151538287",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404012"
    }
   },
@@ -81140,7 +81225,7 @@
     "name": "UNIT 9, 658 SOUTH ROAD MOORABBIN 3189",
     "locID": "LOC000151539174",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404013"
    }
   },
@@ -85305,7 +85390,7 @@
     "name": "UNIT 1, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489611",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824082"
    }
   },
@@ -85322,7 +85407,7 @@
     "name": "UNIT 2, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489669",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824083"
    }
   },
@@ -85339,7 +85424,7 @@
     "name": "UNIT 3, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489611",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824084"
    }
   },
@@ -85356,7 +85441,7 @@
     "name": "UNIT 4, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489121",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824085"
    }
   },
@@ -85373,7 +85458,7 @@
     "name": "UNIT 5, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000180249280",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824086"
    }
   },
@@ -85390,7 +85475,7 @@
     "name": "UNIT 6, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489598",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824087"
    }
   },
@@ -85407,7 +85492,7 @@
     "name": "UNIT 7, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489607",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824088"
    }
   },
@@ -85424,7 +85509,7 @@
     "name": "UNIT 8, 143 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100069489068",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425824089"
    }
   },
@@ -87838,7 +87923,7 @@
     "name": "UNIT 3, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940503",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719049217"
    }
   },
@@ -87872,7 +87957,7 @@
     "name": "UNIT 1A, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940519",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719049334"
    }
   },
@@ -87906,7 +87991,7 @@
     "name": "UNIT 1C, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940519",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719050889"
    }
   },
@@ -87957,7 +88042,7 @@
     "name": "UNIT 1B, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940519",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719052953"
    }
   },
@@ -87974,7 +88059,7 @@
     "name": "UNIT 2, 273-275 WICKHAM ROAD MOORABBIN 3189",
     "locID": "LOC000123940503",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719053395"
    }
   },
@@ -90762,7 +90847,7 @@
     "name": "UNIT 33, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593115",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719785235"
    }
   },
@@ -90779,7 +90864,7 @@
     "name": "UNIT 34, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593127",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719785260"
    }
   },
@@ -90796,7 +90881,7 @@
     "name": "UNIT 27, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593056",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719785688"
    }
   },
@@ -90813,7 +90898,7 @@
     "name": "UNIT 15, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719785763"
    }
   },
@@ -90847,7 +90932,7 @@
     "name": "UNIT 24, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593025",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719785953"
    }
   },
@@ -90932,7 +91017,7 @@
     "name": "UNIT 16, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592942",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719787034"
    }
   },
@@ -90949,7 +91034,7 @@
     "name": "UNIT 31, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593094",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719787353"
    }
   },
@@ -90966,7 +91051,7 @@
     "name": "UNIT 4, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592838",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719787425"
    }
   },
@@ -90983,7 +91068,7 @@
     "name": "UNIT 32, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719787566"
    }
   },
@@ -91017,7 +91102,7 @@
     "name": "UNIT 35, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593136",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719788024"
    }
   },
@@ -91034,7 +91119,7 @@
     "name": "UNIT 21, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592990",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719788110"
    }
   },
@@ -91051,7 +91136,7 @@
     "name": "UNIT 26, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593041",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719788458"
    }
   },
@@ -91068,7 +91153,7 @@
     "name": "85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719788543"
    }
   },
@@ -91085,7 +91170,7 @@
     "name": "UNIT 37, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593158",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719788726"
    }
   },
@@ -91153,7 +91238,7 @@
     "name": "UNIT 6, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592855",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719789251"
    }
   },
@@ -91187,7 +91272,7 @@
     "name": "UNIT 7, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592864",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719789512"
    }
   },
@@ -91204,7 +91289,7 @@
     "name": "UNIT 8, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592872",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719789535"
    }
   },
@@ -91221,7 +91306,7 @@
     "name": "UNIT 11, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592903",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719789580"
    }
   },
@@ -91272,7 +91357,7 @@
     "name": "UNIT 30, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593087",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719790068"
    }
   },
@@ -91289,7 +91374,7 @@
     "name": "UNIT 20, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592974",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719790306"
    }
   },
@@ -91323,7 +91408,7 @@
     "name": "UNIT 2, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592990",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719791300"
    }
   },
@@ -91357,7 +91442,7 @@
     "name": "UNIT 14, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592935",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719791843"
    }
   },
@@ -91374,7 +91459,7 @@
     "name": "UNIT 12, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592919",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719791845"
    }
   },
@@ -91391,7 +91476,7 @@
     "name": "UNIT 5, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592840",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719791998"
    }
   },
@@ -91425,7 +91510,7 @@
     "name": "UNIT 22, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593018",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719792282"
    }
   },
@@ -91442,7 +91527,7 @@
     "name": "UNIT 1, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592942",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719792969"
    }
   },
@@ -91493,7 +91578,7 @@
     "name": "UNIT 25, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593039",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719793324"
    }
   },
@@ -91510,7 +91595,7 @@
     "name": "UNIT 9, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719793406"
    }
   },
@@ -91561,7 +91646,7 @@
     "name": "UNIT 10, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719794345"
    }
   },
@@ -91629,7 +91714,7 @@
     "name": "UNIT 23, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593002",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719795502"
    }
   },
@@ -91680,7 +91765,7 @@
     "name": "UNIT 28, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593060",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719795787"
    }
   },
@@ -91697,7 +91782,7 @@
     "name": "UNIT 36, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593143",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719795845"
    }
   },
@@ -91714,7 +91799,7 @@
     "name": "UNIT 17, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592988",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719795876"
    }
   },
@@ -91748,7 +91833,7 @@
     "name": "UNIT 18, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC000185013727",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719796563"
    }
   },
@@ -91765,7 +91850,7 @@
     "name": "UNIT 13, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592926",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719796566"
    }
   },
@@ -91782,7 +91867,7 @@
     "name": "UNIT 19, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592961",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719796754"
    }
   },
@@ -91816,7 +91901,7 @@
     "name": "UNIT 3, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074592829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719797026"
    }
   },
@@ -91850,7 +91935,7 @@
     "name": "UNIT 29, 85 KEYS ROAD MOORABBIN 3189",
     "locID": "LOC100074593073",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719797164"
    }
   },
@@ -95046,7 +95131,7 @@
     "name": "13 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000123985811",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720698662"
    }
   },
@@ -95267,7 +95352,7 @@
     "name": "UNIT 47, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720820615"
    }
   },
@@ -95318,7 +95403,7 @@
     "name": "UNIT 16, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720820890"
    }
   },
@@ -95352,7 +95437,7 @@
     "name": "UNIT 9, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720821285"
    }
   },
@@ -95386,7 +95471,7 @@
     "name": "UNIT 30, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720821604"
    }
   },
@@ -95437,7 +95522,7 @@
     "name": "UNIT 32, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720822024"
    }
   },
@@ -95539,7 +95624,7 @@
     "name": "UNIT 4, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720822601"
    }
   },
@@ -95590,7 +95675,7 @@
     "name": "UNIT 39, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720823154"
    }
   },
@@ -95624,7 +95709,7 @@
     "name": "UNIT 46, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720823531"
    }
   },
@@ -95641,7 +95726,7 @@
     "name": "UNIT 48, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720823721"
    }
   },
@@ -95692,7 +95777,7 @@
     "name": "UNIT 21, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824401"
    }
   },
@@ -95743,7 +95828,7 @@
     "name": "UNIT 27, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824685"
    }
   },
@@ -95760,7 +95845,7 @@
     "name": "UNIT 12, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824747"
    }
   },
@@ -95794,7 +95879,7 @@
     "name": "UNIT 25, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824870"
    }
   },
@@ -95913,7 +95998,7 @@
     "name": "UNIT 8, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720825322"
    }
   },
@@ -95930,7 +96015,7 @@
     "name": "UNIT 40, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720825372"
    }
   },
@@ -95947,7 +96032,7 @@
     "name": "UNIT 23, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720825392"
    }
   },
@@ -95998,7 +96083,7 @@
     "name": "UNIT 37, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720825575"
    }
   },
@@ -96100,7 +96185,7 @@
     "name": "UNIT 44, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720826040"
    }
   },
@@ -96117,7 +96202,7 @@
     "name": "UNIT 38, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720826054"
    }
   },
@@ -96151,7 +96236,7 @@
     "name": "UNIT 19, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720826306"
    }
   },
@@ -96219,7 +96304,7 @@
     "name": "UNIT 1, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720826650"
    }
   },
@@ -96304,7 +96389,7 @@
     "name": "UNIT 24, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720826930"
    }
   },
@@ -96338,7 +96423,7 @@
     "name": "UNIT 51, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720827203"
    }
   },
@@ -96389,7 +96474,7 @@
     "name": "UNIT 36, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720828053"
    }
   },
@@ -96406,7 +96491,7 @@
     "name": "UNIT 52, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720828317"
    }
   },
@@ -96508,7 +96593,7 @@
     "name": "UNIT 43, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720829071"
    }
   },
@@ -96593,7 +96678,7 @@
     "name": "UNIT 41, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720829491"
    }
   },
@@ -96661,7 +96746,7 @@
     "name": "UNIT 18, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720829973"
    }
   },
@@ -96678,7 +96763,7 @@
     "name": "UNIT 5, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720830248"
    }
   },
@@ -96729,7 +96814,7 @@
     "name": "UNIT 45, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720830732"
    }
   },
@@ -96746,7 +96831,7 @@
     "name": "UNIT 3, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720830928"
    }
   },
@@ -96797,7 +96882,7 @@
     "name": "UNIT 6, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720831337"
    }
   },
@@ -96814,7 +96899,7 @@
     "name": "UNIT 49, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720831708"
    }
   },
@@ -96831,7 +96916,7 @@
     "name": "UNIT 15, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720831986"
    }
   },
@@ -96882,7 +96967,7 @@
     "name": "UNIT 33, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720832210"
    }
   },
@@ -96933,7 +97018,7 @@
     "name": "UNIT 14, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720832612"
    }
   },
@@ -97001,7 +97086,7 @@
     "name": "UNIT 42, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720833240"
    }
   },
@@ -97103,7 +97188,7 @@
     "name": "UNIT 10, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720834533"
    }
   },
@@ -97188,7 +97273,7 @@
     "name": "UNIT 29, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720835485"
    }
   },
@@ -97239,7 +97324,7 @@
     "name": "UNIT 53, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720836147"
    }
   },
@@ -97256,7 +97341,7 @@
     "name": "UNIT 13, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720836186"
    }
   },
@@ -97273,7 +97358,7 @@
     "name": "UNIT 17, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720836224"
    }
   },
@@ -97324,7 +97409,7 @@
     "name": "UNIT 35, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720837013"
    }
   },
@@ -97375,7 +97460,7 @@
     "name": "UNIT 50, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720837558"
    }
   },
@@ -97460,7 +97545,7 @@
     "name": "UNIT 7, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720837771"
    }
   },
@@ -97494,7 +97579,7 @@
     "name": "UNIT 31, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720838471"
    }
   },
@@ -97511,7 +97596,7 @@
     "name": "UNIT 22, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720838526"
    }
   },
@@ -97596,7 +97681,7 @@
     "name": "UNIT 20, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720838811"
    }
   },
@@ -97630,7 +97715,7 @@
     "name": "UNIT 11, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720839024"
    }
   },
@@ -97698,7 +97783,7 @@
     "name": "UNIT 34, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720839455"
    }
   },
@@ -97817,7 +97902,7 @@
     "name": "UNIT 2, 6 ROBERNA STREET MOORABBIN 3189",
     "locID": "LOC000123936863",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720841323"
    }
   },
@@ -99262,7 +99347,7 @@
     "name": "124-128 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000060507297",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721029266"
    }
   },
@@ -100622,7 +100707,7 @@
     "name": "126 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC100069488710",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721109278"
    }
   },
@@ -100639,7 +100724,7 @@
     "name": "124 COCHRANES ROAD MOORABBIN 3189",
     "locID": "LOC000060507297",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721109612"
    }
   },
@@ -101474,6 +101559,40 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721169437"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.0535921,
+     -37.93917768
+    ]
+   },
+   "properties": {
+    "name": "10A FRANKLIN STREET MOORABBIN 3189",
+    "locID": "LOC000193602531",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721213859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.05360431,
+     -37.93910972
+    ]
+   },
+   "properties": {
+    "name": "10B FRANKLIN STREET MOORABBIN 3189",
+    "locID": "LOC000193602549",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721217682"
    }
   },
   {
