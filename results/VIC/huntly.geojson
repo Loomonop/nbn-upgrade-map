@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-01T23:09:47.719415",
+ "generated": "2023-09-22T06:20:04.034133",
  "suburb": "HUNTLY",
  "features": [
   {
@@ -611,7 +611,7 @@
     "name": "619 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000035380183",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC414435792"
    }
   },
@@ -1376,7 +1376,7 @@
     "name": "SHOP 2, 619 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000035380183",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419728749"
    }
   },
@@ -5652,23 +5652,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.34685159,
-     -36.6592329
-    ]
-   },
-   "properties": {
-    "name": "149 SAWMILL ROAD HUNTLY 3551",
-    "locID": "LOC000008954974",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420877837"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.32610095,
      -36.65042026
     ]
@@ -7326,7 +7309,7 @@
     "name": "SHOP 1, 619 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000035380183",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421223425"
    }
   },
@@ -7411,7 +7394,7 @@
     "name": "SHOP 4, 619 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000035380183",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421228909"
    }
   },
@@ -8277,8 +8260,8 @@
    "properties": {
     "name": "592 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000051891405",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421503147"
    }
   },
@@ -8567,7 +8550,7 @@
     "name": "SHOP 3, 619 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000035380183",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421520376"
    }
   },
@@ -9417,7 +9400,7 @@
     "name": "101 BRUNEL STREET HUNTLY 3551",
     "locID": "LOC000106289353",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421803422"
    }
   },
@@ -12153,8 +12136,8 @@
    "properties": {
     "name": "19 CASSONS CRESCENT HUNTLY 3551",
     "locID": "LOC000124719807",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC424893957"
    }
   },
@@ -24513,7 +24496,7 @@
     "name": "SHOP 6, 619 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000035380183",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720141058"
    }
   },
@@ -27539,7 +27522,7 @@
     "name": "SHOP 7, 619 MIDLAND HIGHWAY HUNTLY 3551",
     "locID": "LOC000035380183",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720582374"
    }
   },
@@ -32342,6 +32325,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.36166037,
+     -36.66294553
+    ]
+   },
+   "properties": {
+    "name": "10 HEYSEN WAY HUNTLY 3551",
+    "locID": "ChIJKb-idETh2WoR3PSt27rYC90",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721033687"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.36147126,
      -36.66379416
     ]
@@ -32454,6 +32454,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721034619"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.36205408,
+     -36.66204081
+    ]
+   },
+   "properties": {
+    "name": "3 FLUKE STREET HUNTLY 3551",
+    "locID": "ChIJqbF7PkTh2WoRQ_6a8lwjZj0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721034768"
    }
   },
   {
@@ -33367,62 +33384,11 @@
     ]
    },
    "properties": {
-    "name": "LOT 143 WARATAH ROAD HUNTLY 3551",
-    "locID": "EioxNDMgV2FyYXRhaCBSZCwgSHVudGx5IFZJQyAzNTUxLCBBdXN0cmFsaWEiMRIvChQKEgm54e6qXeHZahGBDP89EW875BCPASoUChIJ7Yf5Bt7j2WoRppArTd0Y8DE",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721052849"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.35167105,
-     -36.66272111
-    ]
-   },
-   "properties": {
-    "name": "LOT 107 WARATAH ROAD HUNTLY 3551",
-    "locID": "EioxMDcgV2FyYXRhaCBSZCwgSHVudGx5IFZJQyAzNTUxLCBBdXN0cmFsaWEiMBIuChQKEgm54e6qXeHZahGBDP89EW875BBrKhQKEgnth_kG3uPZahGmkCtN3RjwMQ",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721052902"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.35167105,
-     -36.66272111
-    ]
-   },
-   "properties": {
     "name": "LOT 130 WARATAH ROAD HUNTLY 3551",
     "locID": "LOC000136437199",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721053283"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.35167105,
-     -36.66272111
-    ]
-   },
-   "properties": {
-    "name": "LOT 141 WARATAH ROAD HUNTLY 3551",
-    "locID": "EioxNDEgV2FyYXRhaCBSZCwgSHVudGx5IFZJQyAzNTUxLCBBdXN0cmFsaWEiMRIvChQKEgm54e6qXeHZahGBDP89EW875BCNASoUChIJ7Yf5Bt7j2WoRppArTd0Y8DE",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721053848"
    }
   },
   {
@@ -35283,6 +35249,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.36186679,
+     -36.66339323
+    ]
+   },
+   "properties": {
+    "name": "9 NAMATJIRA BOULEVARD HUNTLY 3551",
+    "locID": "ChIJ77ca9UPh2WoRl5P6Cj6tScw",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721164382"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.36097264,
      -36.65996135
     ]
@@ -36036,23 +36019,6 @@
     ]
    },
    "properties": {
-    "name": "LOT 153 WARATAH ROAD HUNTLY 3551",
-    "locID": "EioxNTMgV2FyYXRhaCBSZCwgSHVudGx5IFZJQyAzNTUxLCBBdXN0cmFsaWEiMRIvChQKEgm54e6qXeHZahGBDP89EW875BCZASoUChIJ7Yf5Bt7j2WoRppArTd0Y8DE",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721180201"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.35167105,
-     -36.66272111
-    ]
-   },
-   "properties": {
     "name": "LOT 128 WARATAH ROAD HUNTLY 3551",
     "locID": "LOC000136437175",
     "tech": "FTTP",
@@ -36109,6 +36075,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721210295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.362099,
+     -36.66233552
+    ]
+   },
+   "properties": {
+    "name": "4 FLUKE STREET HUNTLY 3551",
+    "locID": "ChIJ8SGBFkTh2WoRsYzl3Lo8nc8",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721210721"
    }
   },
   {
@@ -36388,6 +36371,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.36209242,
+     -36.6630593
+    ]
+   },
+   "properties": {
+    "name": "14 NAMATJIRA BOULEVARD HUNTLY 3551",
+    "locID": "ChIJu9aqDkTh2WoRMDszcX6urxg",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721221319"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.36016323,
      -36.66113755
     ]
@@ -36398,6 +36398,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721221422"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.36146299,
+     -36.66194575
+    ]
+   },
+   "properties": {
+    "name": "28 NAMATJIRA BOULEVARD HUNTLY 3551",
+    "locID": "ChIJz9_jQUTh2WoRkpbniHFsslY",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721221757"
    }
   },
   {
@@ -36541,6 +36558,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.36173575,
+     -36.6627039
+    ]
+   },
+   "properties": {
+    "name": "12 NAMATJIRA BOULEVARD HUNTLY 3551",
+    "locID": "ChIJdeq0ckTh2WoRtPUTpdsuiow",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721249933"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.35314214,
      -36.66499995
     ]
@@ -36575,6 +36609,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34585704,
+     -36.65777948
+    ]
+   },
+   "properties": {
+    "name": "19 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJrVfV9-Hj2WoR5nGCLlX2FVg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284061"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3471173,
      -36.65713936
     ]
@@ -36592,6 +36643,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34831171,
+     -36.65663195
+    ]
+   },
+   "properties": {
+    "name": "47 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJWQG-81jh2WoRK2ct7XoekAE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.34759242,
      -36.65650159
     ]
@@ -36602,6 +36670,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721284564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34883113,
+     -36.65729729
+    ]
+   },
+   "properties": {
+    "name": "33 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJbVfm5Vjh2WoRfO5K9oTe7Jg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721284670"
    }
   },
   {
@@ -36762,6 +36847,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34822399,
+     -36.65651959
+    ]
+   },
+   "properties": {
+    "name": "49 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJHymC9Fjh2WoR6TMvmR9KwZA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721285985"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.34639925,
      -36.65918873
     ]
@@ -36864,6 +36966,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34696004,
+     -36.65749536
+    ]
+   },
+   "properties": {
+    "name": "20 GALLIC WAY HUNTLY 3551",
+    "locID": "ChIJV_M_pljh2WoRghEHq5qgldo",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287502"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.35269235,
      -36.66551855
     ]
@@ -36898,6 +37017,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34838463,
+     -36.65672536
+    ]
+   },
+   "properties": {
+    "name": "45 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJxd_S81jh2WoRb859Iadqw2w",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288159"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31919038,
      -36.68024942
     ]
@@ -36915,6 +37051,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34819772,
+     -36.65580914
+    ]
+   },
+   "properties": {
+    "name": "52 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJewulXVjh2WoRErWeIkQZKgQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288275"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34853346,
+     -36.65691601
+    ]
+   },
+   "properties": {
+    "name": "41 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJPwnZ8Vjh2WoRE5Rvwu-eKls",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34614765,
+     -36.65753596
+    ]
+   },
+   "properties": {
+    "name": "25 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJH7eRBOLj2WoR2DTxcBWZvp4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31984471,
      -36.68128585
     ]
@@ -36925,6 +37112,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721288642"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.345847,
+     -36.65822981
+    ]
+   },
+   "properties": {
+    "name": "18 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJ4Q-r8eHj2WoRLN5tpgkl6y8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721288654"
    }
   },
   {
@@ -36983,6 +37187,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34827948,
+     -36.65591388
+    ]
+   },
+   "properties": {
+    "name": "50 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJxUswXFjh2WoRI2hxXr5OgaA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289102"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31847339,
+     -36.67881115
+    ]
+   },
+   "properties": {
+    "name": "2 EUKIE COURT HUNTLY 3551",
+    "locID": "ChIJ_exs2U7i2WoRTopQYSXXKoU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289250"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34569129,
+     -36.65836029
+    ]
+   },
+   "properties": {
+    "name": "16 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJlbAJ7uHj2WoRzUv8d1rCBGA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289333"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34890554,
+     -36.65739261
+    ]
+   },
+   "properties": {
+    "name": "31 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJraJk5ljh2WoRHKaOINpGXIc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3530162,
      -36.66470551
     ]
@@ -36993,6 +37265,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721289497"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31810819,
+     -36.67868934
+    ]
+   },
+   "properties": {
+    "name": "4 EUKIE COURT HUNTLY 3551",
+    "locID": "ChIJMbtq3k7i2WoR6s5XG9Ud2qs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721289563"
    }
   },
   {
@@ -37051,6 +37340,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34610414,
+     -36.65798835
+    ]
+   },
+   "properties": {
+    "name": "20 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJdUI2-OHj2WoRGervEkUg_PQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290168"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34619988,
+     -36.65790812
+    ]
+   },
+   "properties": {
+    "name": "22 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJz4-A-OHj2WoRDx6qwE4QT6E",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290454"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34876764,
+     -36.65653918
+    ]
+   },
+   "properties": {
+    "name": "42 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJ86wp-Fjh2WoRgbxLVwNejrA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290459"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34923447,
+     -36.65781392
+    ]
+   },
+   "properties": {
+    "name": "21 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJq8sw3ljh2WoR9gFDrb2i22o",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721290600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31918321,
      -36.67927267
     ]
@@ -37085,6 +37442,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34553905,
+     -36.65804593
+    ]
+   },
+   "properties": {
+    "name": "13 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJITei8-Hj2WoRQsm59JCU-Sc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31920932,
      -36.68019882
     ]
@@ -37095,6 +37469,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721291189"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34944403,
+     -36.65740556
+    ]
+   },
+   "properties": {
+    "name": "28 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJV66AHVnh2WoR8oUFWQYhLZ4",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291304"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34896805,
+     -36.65747267
+    ]
+   },
+   "properties": {
+    "name": "29 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJN8nx5ljh2WoRhdzYRk4A2sY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34936068,
+     -36.65729881
+    ]
+   },
+   "properties": {
+    "name": "30 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJ8cOU4ljh2WoRyGGSC6ziGVI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34860788,
+     -36.65701133
+    ]
+   },
+   "properties": {
+    "name": "39 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJX_vL71jh2WoR48Ax-Xj_oHw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721291657"
    }
   },
   {
@@ -37136,6 +37578,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34904813,
+     -36.65689846
+    ]
+   },
+   "properties": {
+    "name": "38 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJMTSS-1jh2WoRYOmv5XxrB44",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292255"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.34686593,
      -36.65693407
     ]
@@ -37146,6 +37605,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721292311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34637037,
+     -36.65776526
+    ]
+   },
+   "properties": {
+    "name": "26 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJS5diAeLj2WoRf82GEx2fg34",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292475"
    }
   },
   {
@@ -37204,6 +37680,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34866355,
+     -36.65640585
+    ]
+   },
+   "properties": {
+    "name": "44 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJa8rd91jh2WoRswUhRV2_Sw0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292984"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3190851,
      -36.6795547
     ]
@@ -37214,6 +37707,23 @@
     "tech": "FTTP",
     "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC721293128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34896235,
+     -36.65678857
+    ]
+   },
+   "properties": {
+    "name": "40 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJZ6zX-1jh2WoReZ45ZLocCaM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293262"
    }
   },
   {
@@ -37255,6 +37765,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34928776,
+     -36.65720539
+    ]
+   },
+   "properties": {
+    "name": "32 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJAR_U4ljh2WoRXlqJJQaxl3M",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3473558,
      -36.65662151
     ]
@@ -37265,6 +37792,74 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721293648"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34960031,
+     -36.65760573
+    ]
+   },
+   "properties": {
+    "name": "24 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJE49-Hlnh2WoRK4Dw5fTgiyQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293925"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31831067,
+     -36.67844456
+    ]
+   },
+   "properties": {
+    "name": "6 EUKIE COURT HUNTLY 3551",
+    "locID": "ChIJz2273E7i2WoRYxizLTUAxBs",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294305"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34595391,
+     -36.6576983
+    ]
+   },
+   "properties": {
+    "name": "21 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJVzsjHeLj2WoRAvwMm2wkW10",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294380"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34681041,
+     -36.65740508
+    ]
+   },
+   "properties": {
+    "name": "32 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJjTWjp1jh2WoRtywwNlHZVpA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721294548"
    }
   },
   {
@@ -37425,6 +38020,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34915558,
+     -36.65771288
+    ]
+   },
+   "properties": {
+    "name": "23 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJIymk4Fjh2WoR1_2CNcPbck8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295851"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34845607,
+     -36.65681687
+    ]
+   },
+   "properties": {
+    "name": "43 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJP5qN8Vjh2WoRxCg4eF6yciU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295974"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31813481,
      -36.67853999
     ]
@@ -37442,6 +38071,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.31857176,
+     -36.67852353
+    ]
+   },
+   "properties": {
+    "name": "7 EUKIE COURT HUNTLY 3551",
+    "locID": "ChIJd7fa2k7i2WoRYOyAeciaKeU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296139"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.3485683,
+     -36.65628384
+    ]
+   },
+   "properties": {
+    "name": "46 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJE3uLWFjh2WoRXWg-eHwxsho",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34702238,
+     -36.6572189
+    ]
+   },
+   "properties": {
+    "name": "36 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJy2VnoVjh2WoROPwBEM34MBY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296687"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34628125,
+     -36.65783994
+    ]
+   },
+   "properties": {
+    "name": "24 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJBYNAAuLj2WoR2_xEIRf8fsg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31971306,
      -36.67861057
     ]
@@ -37452,6 +38149,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721297351"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34846942,
+     -36.65615717
+    ]
+   },
+   "properties": {
+    "name": "48 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJ71kmWVjh2WoRfdloJlggnS8",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297378"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34624452,
+     -36.65745478
+    ]
+   },
+   "properties": {
+    "name": "27 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJ5RWyBeLj2WoRSFPm0cVdJoE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31822705,
+     -36.67880546
+    ]
+   },
+   "properties": {
+    "name": "3 EUKIE COURT HUNTLY 3551",
+    "locID": "ChIJuWD93k7i2WoRL3jnElqYc4E",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721297607"
    }
   },
   {
@@ -37503,6 +38251,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721298095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34921483,
+     -36.65711198
+    ]
+   },
+   "properties": {
+    "name": "34 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJvULE_Fjh2WoRZkxOnaLPoqw",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298198"
    }
   },
   {
@@ -37578,6 +38343,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34647306,
+     -36.65767921
+    ]
+   },
+   "properties": {
+    "name": "28 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJ7fnLBuLj2WoRsuKRB9396x0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721298579"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31949532,
      -36.67944275
     ]
@@ -37595,6 +38377,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34868229,
+     -36.65710665
+    ]
+   },
+   "properties": {
+    "name": "37 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJ69CY71jh2WoRDj6AtR2b-OA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299535"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.34733073,
      -36.65697478
     ]
@@ -37605,6 +38404,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721299538"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34605078,
+     -36.65761713
+    ]
+   },
+   "properties": {
+    "name": "23 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJaZpJA-Lj2WoRmu6ivkIimho",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299689"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.346914,
+     -36.65730972
+    ]
+   },
+   "properties": {
+    "name": "34 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJXXDbpljh2WoRBPNCjt3hgLE",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34952738,
+     -36.65751232
+    ]
+   },
+   "properties": {
+    "name": "26 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJKQjCHVnh2WoRcqN3NLAEqvI",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721299913"
    }
   },
   {
@@ -37639,6 +38489,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721300122"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34566329,
+     -36.65794182
+    ]
+   },
+   "properties": {
+    "name": "15 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJZysf9OHj2WoRK18EhhUac-c",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721300162"
    }
   },
   {
@@ -37782,6 +38649,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34787861,
+     -36.65607719
+    ]
+   },
+   "properties": {
+    "name": "55 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJ-eDRYVjh2WoRsFWZbmZ4EtY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301170"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.34766146,
      -36.65680717
     ]
@@ -37792,6 +38676,57 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721301264"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34908117,
+     -36.65761756
+    ]
+   },
+   "properties": {
+    "name": "25 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJRxo051jh2WoR6BjPrGRRe_g",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301419"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34795749,
+     -36.65617823
+    ]
+   },
+   "properties": {
+    "name": "53 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJZ36Qiljh2WoRsBKayY4cm64",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34901866,
+     -36.65753749
+    ]
+   },
+   "properties": {
+    "name": "27 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJF_bf5ljh2WoRhVQ9687QGRU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301842"
    }
   },
   {
@@ -37850,6 +38785,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34804149,
+     -36.65628583
+    ]
+   },
+   "properties": {
+    "name": "51 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJ107Qiljh2WoR0lYeB8r0fRM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302048"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31869396,
      -36.68071085
     ]
@@ -37894,6 +38846,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721302245"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.34913148,
+     -36.65700522
+    ]
+   },
+   "properties": {
+    "name": "36 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJTyqE_Fjh2WoRA2KiSF9nHnc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302377"
    }
   },
   {
@@ -37969,6 +38938,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.34576017,
+     -36.65786065
+    ]
+   },
+   "properties": {
+    "name": "17 CHILULA STREET HUNTLY 3551",
+    "locID": "ChIJI8pn9uHj2WoRW9h8qaN18gQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721302996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.35245725,
      -36.66471901
     ]
@@ -37996,6 +38982,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721303180"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.3478042,
+     -36.65598187
+    ]
+   },
+   "properties": {
+    "name": "57 ANAHEIM AVENUE HUNTLY 3551",
+    "locID": "ChIJzRSXYVjh2WoRMiKjp3RWHDc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303326"
    }
   },
   {
