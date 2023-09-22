@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-01T23:30:52.061800",
+ "generated": "2023-09-22T06:47:57.698787",
  "suburb": "KINGLAKE WEST",
  "features": [
   {
@@ -1954,7 +1954,7 @@
     "name": "147 KESTREL LANE KINGLAKE WEST 3757",
     "locID": "LOC000101610275",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420046848"
    }
   },
@@ -10522,7 +10522,7 @@
     "name": "1 MARGARET STREET KINGLAKE WEST 3757",
     "locID": "LOC000180129931",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719999740"
    }
   },
@@ -10762,6 +10762,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721037028"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.24061677,
+     -37.46664612
+    ]
+   },
+   "properties": {
+    "name": "11 ROWLAND ROAD KINGLAKE WEST 3757",
+    "locID": "ChIJUYwDx_HF12oR2fIdpy0PWBc",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721293703"
    }
   }
  ]
