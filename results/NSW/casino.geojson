@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-03T13:41:55.615559",
+ "generated": "2023-09-23T20:02:36.304476",
  "suburb": "CASINO",
  "features": [
   {
@@ -985,7 +985,7 @@
     "name": "35 FIGTREE DRIVE CASINO 2470",
     "locID": "LOC000004698170",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704327143"
    }
   },
@@ -1002,7 +1002,7 @@
     "name": "37 FIGTREE DRIVE CASINO 2470",
     "locID": "LOC000093291212",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704327144"
    }
   },
@@ -3619,8 +3619,8 @@
    "properties": {
     "name": "30 CHARLES AVENUE CASINO 2470",
     "locID": "LOC000092245946",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704328575"
    }
   },
@@ -25380,7 +25380,7 @@
     "name": "28 FIGTREE DRIVE CASINO 2470",
     "locID": "LOC000082783570",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704342952"
    }
   },
@@ -41835,8 +41835,8 @@
    "properties": {
     "name": "3 RICHMOND STREET CASINO 2470",
     "locID": "LOC000006456926",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704347354"
    }
   },
@@ -52954,7 +52954,7 @@
     "name": "4 CAMAROO CLOSE CASINO 2470",
     "locID": "LOC000059223828",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704351366"
    }
   },
@@ -68713,7 +68713,7 @@
     "name": "UNIT 2, 78 WALKER STREET CASINO 2470",
     "locID": "LOC000023257256",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW712202354"
    }
   },
@@ -71892,7 +71892,7 @@
     "name": "102 WALKER STREET CASINO 2470",
     "locID": "LOC000110367489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW712239541"
    }
   },
@@ -74714,7 +74714,7 @@
     "name": "31 WALKER STREET CASINO 2470",
     "locID": "LOC000058762204",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712261346"
    }
   },
@@ -74748,7 +74748,7 @@
     "name": "76 WALKER STREET CASINO 2470",
     "locID": "LOC000019668301",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW712261354"
    }
   },
@@ -74765,7 +74765,7 @@
     "name": "78 WALKER STREET CASINO 2470",
     "locID": "LOC000023257256",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW712261356"
    }
   },
@@ -78080,7 +78080,7 @@
     "name": "UNIT 1, 104 WALKER STREET CASINO 2470",
     "locID": "LOC000107356634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712284164"
    }
   },
@@ -80341,7 +80341,7 @@
     "name": "96 WALKER STREET CASINO 2470",
     "locID": "LOC000111851411",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW712298533"
    }
   },
@@ -90252,7 +90252,7 @@
     "name": "23 EILEEN PLACE CASINO 2470",
     "locID": "LOC000164443821",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717809056"
    }
   },
@@ -94419,23 +94419,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718122058"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.04885876,
-     -28.87827814
-    ]
-   },
-   "properties": {
-    "name": "UNIT E64, 69 LIGHT STREET CASINO 2470",
-    "locID": "LOC000141336170",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718122059"
    }
   },
   {
@@ -102016,7 +101999,7 @@
     "name": "UNIT 2, 23 EILEEN PLACE CASINO 2470",
     "locID": "LOC000164443821",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718842180"
    }
   },
