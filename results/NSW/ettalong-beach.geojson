@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-03T15:15:48.682351",
+ "generated": "2023-09-23T22:27:51.258194",
  "suburb": "ETTALONG BEACH",
  "features": [
   {
@@ -151,8 +151,8 @@
    "properties": {
     "name": "UNIT 2, 16 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000074478555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704702961"
    }
   },
@@ -321,8 +321,8 @@
    "properties": {
     "name": "UNIT 1, 22 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000033090243",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704702971"
    }
   },
@@ -644,8 +644,8 @@
    "properties": {
     "name": "87 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000032216296",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704112"
    }
   },
@@ -746,9 +746,26 @@
    "properties": {
     "name": "90 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000032930248",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704118"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.33024196,
+     -33.51533271
+    ]
+   },
+   "properties": {
+    "name": "92 BARRENJOEY ROAD ETTALONG BEACH 2257",
+    "locID": "LOC000193757845",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704704119"
    }
   },
   {
@@ -766,23 +783,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704704120"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.3302206,
-     -33.5154678
-    ]
-   },
-   "properties": {
-    "name": "94 BARRENJOEY ROAD ETTALONG BEACH 2257",
-    "locID": "LOC000046309587",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW704704121"
    }
   },
   {
@@ -1562,8 +1562,8 @@
    "properties": {
     "name": "1A GWENDOLEN AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000120560310",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704178"
    }
   },
@@ -1596,8 +1596,8 @@
    "properties": {
     "name": "11 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000065211047",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704180"
    }
   },
@@ -1664,8 +1664,8 @@
    "properties": {
     "name": "23 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000005973942",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704186"
    }
   },
@@ -1698,8 +1698,8 @@
    "properties": {
     "name": "96 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000040912869",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704188"
    }
   },
@@ -1800,8 +1800,8 @@
    "properties": {
     "name": "60 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000042543818",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704202"
    }
   },
@@ -1817,8 +1817,8 @@
    "properties": {
     "name": "61 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000091280711",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704203"
    }
   },
@@ -1902,8 +1902,8 @@
    "properties": {
     "name": "66 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000086202645",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704704208"
    }
   },
@@ -2021,8 +2021,8 @@
    "properties": {
     "name": "129 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000065354996",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704217"
    }
   },
@@ -2072,8 +2072,8 @@
    "properties": {
     "name": "UNIT 2, 57 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000001553331",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704271"
    }
   },
@@ -2174,8 +2174,8 @@
    "properties": {
     "name": "179 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000086417633",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704277"
    }
   },
@@ -2361,8 +2361,8 @@
    "properties": {
     "name": "20 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000190411995",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704301"
    }
   },
@@ -2446,8 +2446,8 @@
    "properties": {
     "name": "98 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000049247391",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704556"
    }
   },
@@ -2633,8 +2633,8 @@
    "properties": {
     "name": "68 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000044300691",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704568"
    }
   },
@@ -2735,8 +2735,8 @@
    "properties": {
     "name": "21 COLLAREEN STREET ETTALONG BEACH 2257",
     "locID": "LOC000051764542",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704581"
    }
   },
@@ -3092,8 +3092,8 @@
    "properties": {
     "name": "59 COLLAREEN STREET ETTALONG BEACH 2257",
     "locID": "LOC000081040253",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704602"
    }
   },
@@ -3415,8 +3415,8 @@
    "properties": {
     "name": "10 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000099893907",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704632"
    }
   },
@@ -3500,8 +3500,8 @@
    "properties": {
     "name": "UNIT 1, 1 BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000011541400",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704640"
    }
   },
@@ -3704,8 +3704,8 @@
    "properties": {
     "name": "63A THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000037405722",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704871"
    }
   },
@@ -3772,8 +3772,8 @@
    "properties": {
     "name": "13 KOURUNG STREET ETTALONG BEACH 2257",
     "locID": "LOC000055246765",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704963"
    }
   },
@@ -3891,8 +3891,8 @@
    "properties": {
     "name": "19 KOURUNG STREET ETTALONG BEACH 2257",
     "locID": "LOC000041042770",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704704971"
    }
   },
@@ -3959,8 +3959,8 @@
    "properties": {
     "name": "UNIT 2, 25 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000046542415",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704705582"
    }
   },
@@ -4027,8 +4027,8 @@
    "properties": {
     "name": "48 COLLAREEN STREET ETTALONG BEACH 2257",
     "locID": "LOC000052763290",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704705586"
    }
   },
@@ -4146,8 +4146,8 @@
    "properties": {
     "name": "41 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000010482742",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704705593"
    }
   },
@@ -4197,8 +4197,8 @@
    "properties": {
     "name": "6 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000051578214",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704705596"
    }
   },
@@ -4214,8 +4214,8 @@
    "properties": {
     "name": "20 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000039848916",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704706759"
    }
   },
@@ -4299,8 +4299,8 @@
    "properties": {
     "name": "113 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000022821618",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704706831"
    }
   },
@@ -4809,8 +4809,8 @@
    "properties": {
     "name": "117 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000024529236",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704706872"
    }
   },
@@ -4928,8 +4928,8 @@
    "properties": {
     "name": "129 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000074947124",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704706880"
    }
   },
@@ -5183,8 +5183,8 @@
    "properties": {
     "name": "164 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000098894486",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704706895"
    }
   },
@@ -5285,8 +5285,8 @@
    "properties": {
     "name": "69 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000016352388",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704706901"
    }
   },
@@ -5863,8 +5863,8 @@
    "properties": {
     "name": "37 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000017953781",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707419"
    }
   },
@@ -5897,8 +5897,8 @@
    "properties": {
     "name": "39 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000076193859",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707421"
    }
   },
@@ -5931,8 +5931,8 @@
    "properties": {
     "name": "41 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000029621664",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707423"
    }
   },
@@ -6084,8 +6084,8 @@
    "properties": {
     "name": "5 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000068981679",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707432"
    }
   },
@@ -6135,8 +6135,8 @@
    "properties": {
     "name": "52 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000045172887",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707435"
    }
   },
@@ -6373,8 +6373,8 @@
    "properties": {
     "name": "33 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000093553601",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707450"
    }
   },
@@ -6509,8 +6509,8 @@
    "properties": {
     "name": "46 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000022220242",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707461"
    }
   },
@@ -6747,8 +6747,8 @@
    "properties": {
     "name": "7 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000072413042",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707486"
    }
   },
@@ -7002,8 +7002,8 @@
    "properties": {
     "name": "101 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000003010462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707524"
    }
   },
@@ -7019,8 +7019,8 @@
    "properties": {
     "name": "103 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000048324320",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707526"
    }
   },
@@ -7138,8 +7138,8 @@
    "properties": {
     "name": "21 KOURUNG STREET ETTALONG BEACH 2257",
     "locID": "LOC000001392757",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704707613"
    }
   },
@@ -7512,8 +7512,8 @@
    "properties": {
     "name": "112 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000088594014",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704709447"
    }
   },
@@ -7546,8 +7546,8 @@
    "properties": {
     "name": "73 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000011353402",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704709450"
    }
   },
@@ -7835,8 +7835,8 @@
    "properties": {
     "name": "26 LURLINE STREET ETTALONG BEACH 2257",
     "locID": "LOC000066302807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704709472"
    }
   },
@@ -7886,8 +7886,8 @@
    "properties": {
     "name": "16 MYALL STREET ETTALONG BEACH 2257",
     "locID": "LOC000090536582",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704709475"
    }
   },
@@ -8073,8 +8073,8 @@
    "properties": {
     "name": "184 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000037275464",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704709486"
    }
   },
@@ -8855,8 +8855,8 @@
    "properties": {
     "name": "36 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000106083390",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704709536"
    }
   },
@@ -9042,8 +9042,8 @@
    "properties": {
     "name": "71 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000068713169",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710077"
    }
   },
@@ -9076,8 +9076,8 @@
    "properties": {
     "name": "73 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000099762611",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704710079"
    }
   },
@@ -9263,8 +9263,8 @@
    "properties": {
     "name": "82 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000029761067",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710090"
    }
   },
@@ -9280,8 +9280,8 @@
    "properties": {
     "name": "83 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000023719495",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710091"
    }
   },
@@ -9365,8 +9365,8 @@
    "properties": {
     "name": "86 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000053353148",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704710096"
    }
   },
@@ -9416,8 +9416,8 @@
    "properties": {
     "name": "9 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000070675487",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710099"
    }
   },
@@ -9926,8 +9926,8 @@
    "properties": {
     "name": "93 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000089171548",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710133"
    }
   },
@@ -9994,8 +9994,8 @@
    "properties": {
     "name": "UNIT 1, 107 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000089923729",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710162"
    }
   },
@@ -10011,8 +10011,8 @@
    "properties": {
     "name": "UNIT 2, 107 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000089923729",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710163"
    }
   },
@@ -10130,8 +10130,8 @@
    "properties": {
     "name": "46 KOURUNG STREET ETTALONG BEACH 2257",
     "locID": "LOC000079120854",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710901"
    }
   },
@@ -10164,8 +10164,8 @@
    "properties": {
     "name": "UNIT 3, 107 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000088017929",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704710903"
    }
   },
@@ -10283,8 +10283,8 @@
    "properties": {
     "name": "80 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000034124253",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712068"
    }
   },
@@ -10419,8 +10419,8 @@
    "properties": {
     "name": "33 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000065470882",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712076"
    }
   },
@@ -10470,8 +10470,8 @@
    "properties": {
     "name": "38 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000068572112",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712079"
    }
   },
@@ -10606,8 +10606,8 @@
    "properties": {
     "name": "44 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000054008719",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712088"
    }
   },
@@ -10742,8 +10742,8 @@
    "properties": {
     "name": "168 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000064479292",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712097"
    }
   },
@@ -10895,8 +10895,8 @@
    "properties": {
     "name": "10 COLLAREEN STREET ETTALONG BEACH 2257",
     "locID": "LOC000041856825",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712745"
    }
   },
@@ -11252,8 +11252,8 @@
    "properties": {
     "name": "13 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000085768656",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712766"
    }
   },
@@ -11507,8 +11507,8 @@
    "properties": {
     "name": "41 PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000047300565",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704712781"
    }
   },
@@ -11830,8 +11830,8 @@
    "properties": {
     "name": "5 LURLINE STREET ETTALONG BEACH 2257",
     "locID": "LOC000086475479",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704713548"
    }
   },
@@ -11847,8 +11847,8 @@
    "properties": {
     "name": "6 LURLINE STREET ETTALONG BEACH 2257",
     "locID": "LOC000042131298",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704713549"
    }
   },
@@ -11966,8 +11966,8 @@
    "properties": {
     "name": "62 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000174771340",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704713571"
    }
   },
@@ -12119,8 +12119,8 @@
    "properties": {
     "name": "71 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000034501776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715326"
    }
   },
@@ -12153,8 +12153,8 @@
    "properties": {
     "name": "81 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000187817771",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715334"
    }
   },
@@ -12170,8 +12170,8 @@
    "properties": {
     "name": "82 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000086068664",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715335"
    }
   },
@@ -12374,8 +12374,8 @@
    "properties": {
     "name": "UNIT 1, 91 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000081805950",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715347"
    }
   },
@@ -12391,8 +12391,8 @@
    "properties": {
     "name": "UNIT 2, 91 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000081614421",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715348"
    }
   },
@@ -12425,8 +12425,8 @@
    "properties": {
     "name": "91 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000081805950",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715350"
    }
   },
@@ -12510,8 +12510,8 @@
    "properties": {
     "name": "96 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000003984158",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715355"
    }
   },
@@ -12630,7 +12630,7 @@
     "name": "5 MYALL STREET ETTALONG BEACH 2257",
     "locID": "LOC000052750129",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704715362"
    }
   },
@@ -12646,8 +12646,8 @@
    "properties": {
     "name": "6 MYALL STREET ETTALONG BEACH 2257",
     "locID": "LOC000038779257",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715363"
    }
   },
@@ -12782,8 +12782,8 @@
    "properties": {
     "name": "14 PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000065163580",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715372"
    }
   },
@@ -13020,8 +13020,8 @@
    "properties": {
     "name": "28 PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000012166335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715386"
    }
   },
@@ -13037,8 +13037,8 @@
    "properties": {
     "name": "29 PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000100707646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715387"
    }
   },
@@ -13513,8 +13513,8 @@
    "properties": {
     "name": "23 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000034466843",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704715434"
    }
   },
@@ -13785,8 +13785,8 @@
    "properties": {
     "name": "131 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000044129744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704716316"
    }
   },
@@ -13955,8 +13955,8 @@
    "properties": {
     "name": "UNIT 1, 136 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000064680383",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704716326"
    }
   },
@@ -13972,8 +13972,8 @@
    "properties": {
     "name": "UNIT 2, 136 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000064349281",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704716327"
    }
   },
@@ -14006,8 +14006,8 @@
    "properties": {
     "name": "136 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000064680383",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704716329"
    }
   },
@@ -14091,8 +14091,8 @@
    "properties": {
     "name": "140 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000014168785",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704716335"
    }
   },
@@ -14108,8 +14108,8 @@
    "properties": {
     "name": "142 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000084228358",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704716341"
    }
   },
@@ -14839,8 +14839,8 @@
    "properties": {
     "name": "UNIT 1, 36 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000062938905",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704717026"
    }
   },
@@ -15621,8 +15621,8 @@
    "properties": {
     "name": "139 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000060030749",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704717080"
    }
   },
@@ -16029,8 +16029,8 @@
    "properties": {
     "name": "26 BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000054358582",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704717781"
    }
   },
@@ -16182,8 +16182,8 @@
    "properties": {
     "name": "UNIT 1, 20 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000039848916",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704717808"
    }
   },
@@ -16250,8 +16250,8 @@
    "properties": {
     "name": "UNIT 2, 112 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000005626724",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704717815"
    }
   },
@@ -16454,8 +16454,8 @@
    "properties": {
     "name": "3 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000077618047",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704718519"
    }
   },
@@ -16488,8 +16488,8 @@
    "properties": {
     "name": "32 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000103468637",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704718521"
    }
   },
@@ -16556,8 +16556,8 @@
    "properties": {
     "name": "38 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000108357144",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704718525"
    }
   },
@@ -16590,8 +16590,8 @@
    "properties": {
     "name": "4 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000099187985",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704718527"
    }
   },
@@ -16794,8 +16794,8 @@
    "properties": {
     "name": "UNIT 1, 59 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000091856082",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704718542"
    }
   },
@@ -16845,8 +16845,8 @@
    "properties": {
     "name": "6 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000099720516",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704718545"
    }
   },
@@ -16981,8 +16981,8 @@
    "properties": {
     "name": "159 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000015528364",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719617"
    }
   },
@@ -17032,8 +17032,8 @@
    "properties": {
     "name": "161 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000085026649",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719620"
    }
   },
@@ -17083,8 +17083,8 @@
    "properties": {
     "name": "164 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000174253806",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719623"
    }
   },
@@ -17134,8 +17134,8 @@
    "properties": {
     "name": "167 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000054510280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719626"
    }
   },
@@ -17236,8 +17236,8 @@
    "properties": {
     "name": "173 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000035483422",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719632"
    }
   },
@@ -18052,8 +18052,8 @@
    "properties": {
     "name": "7 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000002213519",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719680"
    }
   },
@@ -18630,8 +18630,8 @@
    "properties": {
     "name": "157 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000096351122",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719722"
    }
   },
@@ -18647,8 +18647,8 @@
    "properties": {
     "name": "27 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000040986904",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719724"
    }
   },
@@ -18681,8 +18681,8 @@
    "properties": {
     "name": "UNIT 2, 29 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000063752555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719726"
    }
   },
@@ -18698,8 +18698,8 @@
    "properties": {
     "name": "29 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000063752555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719727"
    }
   },
@@ -18953,8 +18953,8 @@
    "properties": {
     "name": "66 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000105948851",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719742"
    }
   },
@@ -19021,8 +19021,8 @@
    "properties": {
     "name": "53 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000001491517",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719821"
    }
   },
@@ -19038,8 +19038,8 @@
    "properties": {
     "name": "55 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000069259308",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704719822"
    }
   },
@@ -19072,8 +19072,8 @@
    "properties": {
     "name": "107 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000089923729",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704720422"
    }
   },
@@ -19429,8 +19429,8 @@
    "properties": {
     "name": "12 COOLABAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000065078588",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704721119"
    }
   },
@@ -19480,8 +19480,8 @@
    "properties": {
     "name": "15 COOLABAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000045463566",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704721122"
    }
   },
@@ -19735,8 +19735,8 @@
    "properties": {
     "name": "29 COOLABAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000012326028",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704721137"
    }
   },
@@ -19905,8 +19905,8 @@
    "properties": {
     "name": "15 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000096830797",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704721150"
    }
   },
@@ -20229,7 +20229,7 @@
     "name": "56 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000051748804",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704721182"
    }
   },
@@ -20483,8 +20483,8 @@
    "properties": {
     "name": "67 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000037451518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704721197"
    }
   },
@@ -20568,8 +20568,8 @@
    "properties": {
     "name": "71 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000018428319",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704721203"
    }
   },
@@ -20959,8 +20959,8 @@
    "properties": {
     "name": "38 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000048578808",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704722278"
    }
   },
@@ -21044,8 +21044,8 @@
    "properties": {
     "name": "43 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000078877291",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704722283"
    }
   },
@@ -21214,8 +21214,8 @@
    "properties": {
     "name": "52 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000084511079",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704722293"
    }
   },
@@ -21282,8 +21282,8 @@
    "properties": {
     "name": "56 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000108691007",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704722297"
    }
   },
@@ -22659,8 +22659,8 @@
    "properties": {
     "name": "73 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000054044848",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723021"
    }
   },
@@ -22710,8 +22710,8 @@
    "properties": {
     "name": "76 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000108440911",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723024"
    }
   },
@@ -22897,8 +22897,8 @@
    "properties": {
     "name": "87 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000034526049",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723035"
    }
   },
@@ -23033,8 +23033,8 @@
    "properties": {
     "name": "115 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000065445750",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723043"
    }
   },
@@ -23152,8 +23152,8 @@
    "properties": {
     "name": "79 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000048451265",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723086"
    }
   },
@@ -23288,8 +23288,8 @@
    "properties": {
     "name": "150 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000096726239",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723510"
    }
   },
@@ -23424,8 +23424,8 @@
    "properties": {
     "name": "18 BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000005632195",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723768"
    }
   },
@@ -23560,8 +23560,8 @@
    "properties": {
     "name": "25 BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000055758254",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723776"
    }
   },
@@ -23730,8 +23730,8 @@
    "properties": {
     "name": "34 BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000033156731",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704723786"
    }
   },
@@ -24274,8 +24274,8 @@
    "properties": {
     "name": "52A RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000090088289",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704724460"
    }
   },
@@ -25175,8 +25175,8 @@
    "properties": {
     "name": "28 SCHNAPPER ROAD ETTALONG BEACH 2257",
     "locID": "LOC000095628261",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704724523"
    }
   },
@@ -25464,8 +25464,8 @@
    "properties": {
     "name": "185 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000025061453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704726143"
    }
   },
@@ -25617,8 +25617,8 @@
    "properties": {
     "name": "UNIT 1, 4 FERRY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000109920498",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727052"
    }
   },
@@ -25923,8 +25923,8 @@
    "properties": {
     "name": "101 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000043350518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727081"
    }
   },
@@ -25974,8 +25974,8 @@
    "properties": {
     "name": "104 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000092504181",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727084"
    }
   },
@@ -26008,8 +26008,8 @@
    "properties": {
     "name": "106 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000054510280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727086"
    }
   },
@@ -26042,8 +26042,8 @@
    "properties": {
     "name": "108 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000070769224",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727088"
    }
   },
@@ -26093,8 +26093,8 @@
    "properties": {
     "name": "110 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000086518914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727091"
    }
   },
@@ -26773,8 +26773,8 @@
    "properties": {
     "name": "153 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000078189449",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727132"
    }
   },
@@ -26790,8 +26790,8 @@
    "properties": {
     "name": "154 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000089204955",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704727133"
    }
   },
@@ -27708,8 +27708,8 @@
    "properties": {
     "name": "28 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000039716933",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704728355"
    }
   },
@@ -27776,8 +27776,8 @@
    "properties": {
     "name": "4 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000063808977",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704728359"
    }
   },
@@ -28065,8 +28065,8 @@
    "properties": {
     "name": "21A BREAM ROAD ETTALONG BEACH 2257",
     "locID": "LOC000024224253",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704732198"
    }
   },
@@ -28337,8 +28337,8 @@
    "properties": {
     "name": "12 BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000063563662",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734016"
    }
   },
@@ -28405,8 +28405,8 @@
    "properties": {
     "name": "UNIT 1, 115 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000065445750",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734693"
    }
   },
@@ -28422,8 +28422,8 @@
    "properties": {
     "name": "UNIT 2, 115 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000065445750",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734694"
    }
   },
@@ -28439,8 +28439,8 @@
    "properties": {
     "name": "UNIT 3, 115 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000065384926",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734695"
    }
   },
@@ -28609,8 +28609,8 @@
    "properties": {
     "name": "UNIT 2, 121 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000007269210",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734707"
    }
   },
@@ -28660,8 +28660,8 @@
    "properties": {
     "name": "UNIT 1, 60 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000094296295",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734710"
    }
   },
@@ -29102,8 +29102,8 @@
    "properties": {
     "name": "UNIT 1, 13 LAGOON STREET ETTALONG BEACH 2257",
     "locID": "LOC000033195867",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734843"
    }
   },
@@ -29170,8 +29170,8 @@
    "properties": {
     "name": "29 LAGOON STREET ETTALONG BEACH 2257",
     "locID": "LOC000040447619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734847"
    }
   },
@@ -29646,8 +29646,8 @@
    "properties": {
     "name": "98 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000052100821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704734891"
    }
   },
@@ -29782,8 +29782,8 @@
    "properties": {
     "name": "42 BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000002230314",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704737269"
    }
   },
@@ -30207,8 +30207,8 @@
    "properties": {
     "name": "UNIT 1, 96 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000070109547",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704737294"
    }
   },
@@ -30292,8 +30292,8 @@
    "properties": {
     "name": "UNIT 3, 124 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000001443093",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704737316"
    }
   },
@@ -30666,8 +30666,8 @@
    "properties": {
     "name": "30A BREAM ROAD ETTALONG BEACH 2257",
     "locID": "LOC000011801249",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704737425"
    }
   },
@@ -30904,8 +30904,8 @@
    "properties": {
     "name": "13 LAGOON STREET ETTALONG BEACH 2257",
     "locID": "LOC000033195867",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704737447"
    }
   },
@@ -31397,8 +31397,8 @@
    "properties": {
     "name": "5 LAGOON STREET ETTALONG BEACH 2257",
     "locID": "LOC000097042485",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738127"
    }
   },
@@ -31499,8 +31499,8 @@
    "properties": {
     "name": "12 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000077537371",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738143"
    }
   },
@@ -31533,8 +31533,8 @@
    "properties": {
     "name": "UNIT 1, 16 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000043212699",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738145"
    }
   },
@@ -31550,8 +31550,8 @@
    "properties": {
     "name": "UNIT 2, 16 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000043212699",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738146"
    }
   },
@@ -31567,8 +31567,8 @@
    "properties": {
     "name": "18 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000062887821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738147"
    }
   },
@@ -31584,8 +31584,8 @@
    "properties": {
     "name": "2 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000065073449",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738148"
    }
   },
@@ -31890,8 +31890,8 @@
    "properties": {
     "name": "39 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000060031119",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738166"
    }
   },
@@ -31924,8 +31924,8 @@
    "properties": {
     "name": "40 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000105593439",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738168"
    }
   },
@@ -31941,8 +31941,8 @@
    "properties": {
     "name": "41 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000032164367",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704738169"
    }
   },
@@ -32451,8 +32451,8 @@
    "properties": {
     "name": "103 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000031475970",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704740717"
    }
   },
@@ -32723,8 +32723,8 @@
    "properties": {
     "name": "12 LURLINE STREET ETTALONG BEACH 2257",
     "locID": "LOC000086475479",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704740745"
    }
   },
@@ -33029,8 +33029,8 @@
    "properties": {
     "name": "68 BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000084567934",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706403487"
    }
   },
@@ -33063,8 +33063,8 @@
    "properties": {
     "name": "60 BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000026250321",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706403489"
    }
   },
@@ -33165,8 +33165,8 @@
    "properties": {
     "name": "UNIT 1, 146 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000007932801",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706410464"
    }
   },
@@ -33267,8 +33267,8 @@
    "properties": {
     "name": "57 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000077540476",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706410508"
    }
   },
@@ -33318,8 +33318,8 @@
    "properties": {
     "name": "44 BURRAWANG STREET ETTALONG BEACH 2257",
     "locID": "LOC000070259337",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706416783"
    }
   },
@@ -33454,8 +33454,8 @@
    "properties": {
     "name": "63 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000159359306",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706423662"
    }
   },
@@ -33573,8 +33573,8 @@
    "properties": {
     "name": "52 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000074615914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706423669"
    }
   },
@@ -33658,8 +33658,8 @@
    "properties": {
     "name": "56 BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000043046748",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706423692"
    }
   },
@@ -33692,8 +33692,8 @@
    "properties": {
     "name": "49 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000019856748",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706423703"
    }
   },
@@ -33760,8 +33760,8 @@
    "properties": {
     "name": "45 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000104311196",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706423707"
    }
   },
@@ -33896,8 +33896,8 @@
    "properties": {
     "name": "UNIT 1, 39 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000067556091",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706423716"
    }
   },
@@ -34151,8 +34151,8 @@
    "properties": {
     "name": "UNIT 2, 9 BURRAWANG STREET ETTALONG BEACH 2257",
     "locID": "LOC000031193266",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706451857"
    }
   },
@@ -35324,8 +35324,8 @@
    "properties": {
     "name": "223 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000037945852",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706537179"
    }
   },
@@ -35443,8 +35443,8 @@
    "properties": {
     "name": "UNIT 2, 370A OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000029077685",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706537355"
    }
   },
@@ -35885,8 +35885,8 @@
    "properties": {
     "name": "UNIT 1, 370A OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000029009437",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706547575"
    }
   },
@@ -36174,8 +36174,8 @@
    "properties": {
     "name": "328A OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000045491245",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706554263"
    }
   },
@@ -36650,8 +36650,8 @@
    "properties": {
     "name": "322 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000091516043",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707488675"
    }
   },
@@ -37007,8 +37007,8 @@
    "properties": {
     "name": "167 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000056010844",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707498017"
    }
   },
@@ -37228,8 +37228,8 @@
    "properties": {
     "name": "336 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000029997771",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707502498"
    }
   },
@@ -37330,8 +37330,8 @@
    "properties": {
     "name": "25 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000046542415",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707502564"
    }
   },
@@ -37347,8 +37347,8 @@
    "properties": {
     "name": "37 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000148336012",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707502565"
    }
   },
@@ -37398,8 +37398,8 @@
    "properties": {
     "name": "UNIT 3, 37 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000049242308",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707502621"
    }
   },
@@ -37449,8 +37449,8 @@
    "properties": {
     "name": "UNIT 2, 41 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000010482742",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW707502624"
    }
   },
@@ -37806,8 +37806,8 @@
    "properties": {
     "name": "380 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000009598413",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707508906"
    }
   },
@@ -38129,8 +38129,8 @@
    "properties": {
     "name": "31 PICNIC PARADE ETTALONG BEACH 2257",
     "locID": "LOC000030454677",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707512776"
    }
   },
@@ -38316,8 +38316,8 @@
    "properties": {
     "name": "36 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000062938905",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707512815"
    }
   },
@@ -39642,8 +39642,8 @@
    "properties": {
     "name": "350 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000015104573",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707526100"
    }
   },
@@ -41393,8 +41393,8 @@
    "properties": {
     "name": "UNIT 1, 10 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000100026300",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708029177"
    }
   },
@@ -41410,8 +41410,8 @@
    "properties": {
     "name": "UNIT 2, 10 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000099893907",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708029178"
    }
   },
@@ -41563,8 +41563,8 @@
    "properties": {
     "name": "UNIT 3, 82 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000086123696",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708029957"
    }
   },
@@ -41920,8 +41920,8 @@
    "properties": {
     "name": "47A PICNIC PARADE ETTALONG BEACH 2257",
     "locID": "LOC000082863228",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709116887"
    }
   },
@@ -41937,8 +41937,8 @@
    "properties": {
     "name": "51 SCHNAPPER ROAD ETTALONG BEACH 2257",
     "locID": "LOC000036207625",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709123398"
    }
   },
@@ -41971,8 +41971,8 @@
    "properties": {
     "name": "74B BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000072986021",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709130735"
    }
   },
@@ -42107,8 +42107,8 @@
    "properties": {
     "name": "29A PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000100772025",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709134979"
    }
   },
@@ -42243,8 +42243,8 @@
    "properties": {
     "name": "26A COOLABAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000034871008",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709140491"
    }
   },
@@ -42260,8 +42260,8 @@
    "properties": {
     "name": "86 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000030978597",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709140495"
    }
   },
@@ -42311,8 +42311,8 @@
    "properties": {
     "name": "34 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000022821618",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709141270"
    }
   },
@@ -42328,8 +42328,8 @@
    "properties": {
     "name": "57A BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000073101755",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW709141659"
    }
   },
@@ -42430,8 +42430,8 @@
    "properties": {
     "name": "UNIT 2, 57 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000077540476",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711678225"
    }
   },
@@ -42447,8 +42447,8 @@
    "properties": {
     "name": "UNIT 1, 41 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000010482742",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW711678245"
    }
   },
@@ -42464,8 +42464,8 @@
    "properties": {
     "name": "65A BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000075206584",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711678252"
    }
   },
@@ -42515,8 +42515,8 @@
    "properties": {
     "name": "UNIT 1, 52 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000074615914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711678271"
    }
   },
@@ -42532,8 +42532,8 @@
    "properties": {
     "name": "UNIT 2, 52 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000074615914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711678272"
    }
   },
@@ -42634,8 +42634,8 @@
    "properties": {
     "name": "UNIT 1, 185 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000025061453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711678316"
    }
   },
@@ -42719,8 +42719,8 @@
    "properties": {
     "name": "48A BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000032164139",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711682279"
    }
   },
@@ -42736,8 +42736,8 @@
    "properties": {
     "name": "48B BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000032168877",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711682280"
    }
   },
@@ -42753,8 +42753,8 @@
    "properties": {
     "name": "50A BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000052388125",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711682281"
    }
   },
@@ -43110,8 +43110,8 @@
    "properties": {
     "name": "UNIT 2, 90 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000032930248",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711686691"
    }
   },
@@ -43127,8 +43127,8 @@
    "properties": {
     "name": "UNIT 3, 90 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000032930248",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711686702"
    }
   },
@@ -43161,8 +43161,8 @@
    "properties": {
     "name": "UNIT 2, 154 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000089204955",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711686719"
    }
   },
@@ -43178,8 +43178,8 @@
    "properties": {
     "name": "UNIT 1, 154 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000089204955",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711686720"
    }
   },
@@ -43229,8 +43229,8 @@
    "properties": {
     "name": "31B KOURUNG STREET ETTALONG BEACH 2257",
     "locID": "LOC000054736841",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711686900"
    }
   },
@@ -43280,8 +43280,8 @@
    "properties": {
     "name": "UNIT 1, 273 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000120539599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711690156"
    }
   },
@@ -43297,8 +43297,8 @@
    "properties": {
     "name": "UNIT 2, 273 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000120539599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711690157"
    }
   },
@@ -43314,8 +43314,8 @@
    "properties": {
     "name": "UNIT 3, 273 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000120539599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711690158"
    }
   },
@@ -43552,8 +43552,8 @@
    "properties": {
     "name": "UNIT 1, 82 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000086068664",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711690180"
    }
   },
@@ -43705,8 +43705,8 @@
    "properties": {
     "name": "UNIT 1, 4 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000064202709",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711691522"
    }
   },
@@ -43722,8 +43722,8 @@
    "properties": {
     "name": "UNIT 2, 4 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000063808977",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711691523"
    }
   },
@@ -43739,8 +43739,8 @@
    "properties": {
     "name": "UNIT 1, 45 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000104311196",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711691530"
    }
   },
@@ -43892,8 +43892,8 @@
    "properties": {
     "name": "UNIT 1, 227 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000001478086",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711694476"
    }
   },
@@ -44028,8 +44028,8 @@
    "properties": {
     "name": "UNIT 1, 380 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000009598413",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711694489"
    }
   },
@@ -44266,8 +44266,8 @@
    "properties": {
     "name": "UNIT 1, 131 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000044129744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711695814"
    }
   },
@@ -44283,8 +44283,8 @@
    "properties": {
     "name": "UNIT 2, 131 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000044129744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711695815"
    }
   },
@@ -44300,8 +44300,8 @@
    "properties": {
     "name": "UNIT 3, 185 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000025061453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711695816"
    }
   },
@@ -44487,8 +44487,8 @@
    "properties": {
     "name": "UNIT 1, 66 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000036272756",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711697770"
    }
   },
@@ -44725,8 +44725,8 @@
    "properties": {
     "name": "UNIT 2, 38 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000068572112",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711698848"
    }
   },
@@ -44742,8 +44742,8 @@
    "properties": {
     "name": "UNIT 1, 68 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000044300691",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711698849"
    }
   },
@@ -44912,8 +44912,8 @@
    "properties": {
     "name": "UNIT 1, 57 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000077540476",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711700595"
    }
   },
@@ -45218,8 +45218,8 @@
    "properties": {
     "name": "UNIT 2, 101 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000043350518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711707718"
    }
   },
@@ -45320,8 +45320,8 @@
    "properties": {
     "name": "42A BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000002314235",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711707955"
    }
   },
@@ -45371,8 +45371,8 @@
    "properties": {
     "name": "56C BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000043406591",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711707958"
    }
   },
@@ -45405,8 +45405,8 @@
    "properties": {
     "name": "UNIT 1, 60 BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000026250321",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711707960"
    }
   },
@@ -45915,8 +45915,8 @@
    "properties": {
     "name": "UNIT 1, 13 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000085768656",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711716189"
    }
   },
@@ -45983,8 +45983,8 @@
    "properties": {
     "name": "14A LURLINE STREET ETTALONG BEACH 2257",
     "locID": "LOC000034815816",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711718914"
    }
   },
@@ -46238,8 +46238,8 @@
    "properties": {
     "name": "394 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000020856288",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711720007"
    }
   },
@@ -46374,8 +46374,8 @@
    "properties": {
     "name": "UNIT 2, 66 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000036446775",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711720021"
    }
   },
@@ -46476,8 +46476,8 @@
    "properties": {
     "name": "UNIT 2, 63 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000012339231",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711722507"
    }
   },
@@ -46799,8 +46799,8 @@
    "properties": {
     "name": "9A BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000070626333",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711724107"
    }
   },
@@ -46816,8 +46816,8 @@
    "properties": {
     "name": "72A BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000070571251",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711724110"
    }
   },
@@ -46833,8 +46833,8 @@
    "properties": {
     "name": "75A BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000034030128",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711724111"
    }
   },
@@ -46850,8 +46850,8 @@
    "properties": {
     "name": "UNIT 1, 83 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000023719495",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711724112"
    }
   },
@@ -46918,8 +46918,8 @@
    "properties": {
     "name": "241 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000143448336",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711724127"
    }
   },
@@ -46986,8 +46986,8 @@
    "properties": {
     "name": "273 OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000120539599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711724139"
    }
   },
@@ -47377,8 +47377,8 @@
    "properties": {
     "name": "103A BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000012225559",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711728095"
    }
   },
@@ -47496,8 +47496,8 @@
    "properties": {
     "name": "81B BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000057773797",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711728123"
    }
   },
@@ -47513,8 +47513,8 @@
    "properties": {
     "name": "120A BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000067374011",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711728124"
    }
   },
@@ -47598,8 +47598,8 @@
    "properties": {
     "name": "UNIT 1, 101 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000043350518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711728130"
    }
   },
@@ -47666,8 +47666,8 @@
    "properties": {
     "name": "210A MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000021371974",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711730741"
    }
   },
@@ -47734,8 +47734,8 @@
    "properties": {
     "name": "UNIT 1, 29 LAGOON STREET ETTALONG BEACH 2257",
     "locID": "LOC000040447619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711731547"
    }
   },
@@ -47785,8 +47785,8 @@
    "properties": {
     "name": "2A BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000080841131",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711732400"
    }
   },
@@ -48023,8 +48023,8 @@
    "properties": {
     "name": "51A RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000070120704",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711735577"
    }
   },
@@ -48040,8 +48040,8 @@
    "properties": {
     "name": "UNIT 2, 23 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000034466843",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711735604"
    }
   },
@@ -48057,8 +48057,8 @@
    "properties": {
     "name": "UNIT 1, 23 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000034466843",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711735607"
    }
   },
@@ -48210,8 +48210,8 @@
    "properties": {
     "name": "80B KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000052514388",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711735692"
    }
   },
@@ -48244,8 +48244,8 @@
    "properties": {
     "name": "21A KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000090363363",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711735697"
    }
   },
@@ -48278,8 +48278,8 @@
    "properties": {
     "name": "UNIT 2, 43 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000101121888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711735828"
    }
   },
@@ -48346,8 +48346,8 @@
    "properties": {
     "name": "12B LURLINE STREET ETTALONG BEACH 2257",
     "locID": "LOC000021460789",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711735913"
    }
   },
@@ -48380,8 +48380,8 @@
    "properties": {
     "name": "UNIT 2, 140 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000014168785",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711736552"
    }
   },
@@ -48482,8 +48482,8 @@
    "properties": {
     "name": "UNIT 2, 83 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000023719495",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711737442"
    }
   },
@@ -48499,8 +48499,8 @@
    "properties": {
     "name": "80A BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000013169955",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711737443"
    }
   },
@@ -48805,8 +48805,8 @@
    "properties": {
     "name": "UNIT 2, 7 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000072413042",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711740666"
    }
   },
@@ -48822,8 +48822,8 @@
    "properties": {
     "name": "27 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000072311063",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711740671"
    }
   },
@@ -48890,8 +48890,8 @@
    "properties": {
     "name": "UNIT 2, 189 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000026311754",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711740794"
    }
   },
@@ -48958,8 +48958,8 @@
    "properties": {
     "name": "147A MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000056105815",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711740805"
    }
   },
@@ -48992,8 +48992,8 @@
    "properties": {
     "name": "UNIT 2, 168 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000064479292",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711740807"
    }
   },
@@ -49009,8 +49009,8 @@
    "properties": {
     "name": "51A PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000103438597",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711741786"
    }
   },
@@ -49060,8 +49060,8 @@
    "properties": {
     "name": "25A PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000040160898",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711741796"
    }
   },
@@ -49077,8 +49077,8 @@
    "properties": {
     "name": "14A PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000065446823",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711741797"
    }
   },
@@ -49604,8 +49604,8 @@
    "properties": {
     "name": "146 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000007932801",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711747044"
    }
   },
@@ -49621,8 +49621,8 @@
    "properties": {
     "name": "UNIT 1, 76 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000108440911",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711747050"
    }
   },
@@ -49842,8 +49842,8 @@
    "properties": {
     "name": "76A ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000075494640",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711751414"
    }
   },
@@ -49859,8 +49859,8 @@
    "properties": {
     "name": "UNIT 1, 35 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000062078816",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711751415"
    }
   },
@@ -49937,6 +49937,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.33024196,
+     -33.51533271
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 92 BARRENJOEY ROAD ETTALONG BEACH 2257",
+    "locID": "LOC000193757845",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW713142176"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.33003435,
      -33.50955535
     ]
@@ -49978,8 +49995,8 @@
    "properties": {
     "name": "UNIT 2, 13 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000085768656",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW713154791"
    }
   },
@@ -50131,8 +50148,8 @@
    "properties": {
     "name": "UNIT 1, 112 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000088594014",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715360002"
    }
   },
@@ -50148,8 +50165,8 @@
    "properties": {
     "name": "UNIT 2, 112 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000088594014",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715360003"
    }
   },
@@ -50437,8 +50454,8 @@
    "properties": {
     "name": "39 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000067556091",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715672034"
    }
   },
@@ -50539,8 +50556,8 @@
    "properties": {
     "name": "16A BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000101173022",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715672145"
    }
   },
@@ -50726,8 +50743,8 @@
    "properties": {
     "name": "UNIT 4, 112 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000088594014",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715673587"
    }
   },
@@ -51593,8 +51610,8 @@
    "properties": {
     "name": "35A BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000120547840",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716432770"
    }
   },
@@ -51610,8 +51627,8 @@
    "properties": {
     "name": "3A BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000088079222",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716432771"
    }
   },
@@ -51627,8 +51644,8 @@
    "properties": {
     "name": "5B BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000068459665",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716432772"
    }
   },
@@ -51644,8 +51661,8 @@
    "properties": {
     "name": "UNIT 1, 18 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000025061453",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716432841"
    }
   },
@@ -51678,8 +51695,8 @@
    "properties": {
     "name": "UNIT 1, 99 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000088327412",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716432844"
    }
   },
@@ -51729,8 +51746,8 @@
    "properties": {
     "name": "UNIT 2, 99 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000088327412",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716432848"
    }
   },
@@ -51984,8 +52001,8 @@
    "properties": {
     "name": "UNIT 1, 253A OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000023285551",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716446942"
    }
   },
@@ -52647,8 +52664,8 @@
    "properties": {
     "name": "8 FERRY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000020960450",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716607338"
    }
   },
@@ -52664,8 +52681,8 @@
    "properties": {
     "name": "14A BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000003091190",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716626552"
    }
   },
@@ -52783,8 +52800,8 @@
    "properties": {
     "name": "UNIT 1, 142 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000084228358",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716646155"
    }
   },
@@ -52868,8 +52885,8 @@
    "properties": {
     "name": "UNIT 3, 142 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000084228358",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716646160"
    }
   },
@@ -53463,8 +53480,8 @@
    "properties": {
     "name": "79A BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000077473174",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716890331"
    }
   },
@@ -57679,8 +57696,8 @@
    "properties": {
     "name": "68A BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000077885619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716950340"
    }
   },
@@ -57815,8 +57832,8 @@
    "properties": {
     "name": "253A OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000023045183",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716961841"
    }
   },
@@ -58138,8 +58155,8 @@
    "properties": {
     "name": "UNIT 3, 147 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000104147460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717093549"
    }
   },
@@ -58223,8 +58240,8 @@
    "properties": {
     "name": "UNIT 3, 32 BEACH STREET ETTALONG BEACH 2257",
     "locID": "LOC000059002717",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717093853"
    }
   },
@@ -58461,8 +58478,8 @@
    "properties": {
     "name": "UNIT 3, 30 LAGOON STREET ETTALONG BEACH 2257",
     "locID": "LOC000044077611",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717102622"
    }
   },
@@ -58546,8 +58563,8 @@
    "properties": {
     "name": "UNIT 2, 20 PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000005935763",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717107466"
    }
   },
@@ -58563,8 +58580,8 @@
    "properties": {
     "name": "UNIT 2, 29 PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000100707646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717107467"
    }
   },
@@ -58614,8 +58631,8 @@
    "properties": {
     "name": "3A PALM STREET ETTALONG BEACH 2257",
     "locID": "LOC000077763947",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717107470"
    }
   },
@@ -58631,8 +58648,8 @@
    "properties": {
     "name": "UNIT 3, 29 SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000063752555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717109982"
    }
   },
@@ -58648,8 +58665,8 @@
    "properties": {
     "name": "104A SPRINGWOOD STREET ETTALONG BEACH 2257",
     "locID": "LOC000022042269",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717109983"
    }
   },
@@ -58665,8 +58682,8 @@
    "properties": {
     "name": "58A ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000033052529",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717111687"
    }
   },
@@ -58699,8 +58716,8 @@
    "properties": {
     "name": "72A ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000043254181",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717111689"
    }
   },
@@ -58716,8 +58733,8 @@
    "properties": {
     "name": "UNIT 3, 101 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000041641600",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717205781"
    }
   },
@@ -60042,8 +60059,8 @@
    "properties": {
     "name": "273A OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000120539599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717521063"
    }
   },
@@ -60161,8 +60178,8 @@
    "properties": {
     "name": "27A BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000047515343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717590267"
    }
   },
@@ -60246,8 +60263,8 @@
    "properties": {
     "name": "2A COLLAREEN STREET ETTALONG BEACH 2257",
     "locID": "LOC000040379180",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717593841"
    }
   },
@@ -60263,8 +60280,8 @@
    "properties": {
     "name": "UNIT 3, 8 COOLABAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000026438272",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717593984"
    }
   },
@@ -60280,8 +60297,8 @@
    "properties": {
     "name": "12 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000022220242",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717598558"
    }
   },
@@ -60314,8 +60331,8 @@
    "properties": {
     "name": "16 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000086202645",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717598560"
    }
   },
@@ -61130,8 +61147,8 @@
    "properties": {
     "name": "UNIT 2, 150 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000102971816",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717737105"
    }
   },
@@ -61147,8 +61164,8 @@
    "properties": {
     "name": "150 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000103018694",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717737106"
    }
   },
@@ -61623,8 +61640,8 @@
    "properties": {
     "name": "120 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000120553957",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717959203"
    }
   },
@@ -61691,8 +61708,8 @@
    "properties": {
     "name": "19A COOLABAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000077734059",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717978780"
    }
   },
@@ -61708,8 +61725,8 @@
    "properties": {
     "name": "3A COOLABAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000033157764",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717978781"
    }
   },
@@ -62371,8 +62388,8 @@
    "properties": {
     "name": "UNIT 3, 85 BROKEN BAY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000143505347",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718258763"
    }
   },
@@ -62507,8 +62524,8 @@
    "properties": {
     "name": "53 PICNIC PARADE ETTALONG BEACH 2257",
     "locID": "LOC000120555796",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718268275"
    }
   },
@@ -63153,8 +63170,8 @@
    "properties": {
     "name": "UNIT 1, 38 THE ESPLANADE ETTALONG BEACH 2257",
     "locID": "LOC000143448755",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718270421"
    }
   },
@@ -66281,8 +66298,8 @@
    "properties": {
     "name": "17-19 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000143449157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718313683"
    }
   },
@@ -66349,8 +66366,8 @@
    "properties": {
     "name": "UNIT 1, 17-19 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000143449157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718369193"
    }
   },
@@ -66383,8 +66400,8 @@
    "properties": {
     "name": "UNIT 3, 17-19 KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000143449157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718369195"
    }
   },
@@ -66655,8 +66672,8 @@
    "properties": {
     "name": "350A-A OCEAN VIEW ROAD ETTALONG BEACH 2257",
     "locID": "LOC000143448343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718463298"
    }
   },
@@ -67505,8 +67522,8 @@
    "properties": {
     "name": "UNIT 3, 53 PICNIC PARADE ETTALONG BEACH 2257",
     "locID": "LOC100081656959",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718805465"
    }
   },
@@ -68100,8 +68117,8 @@
    "properties": {
     "name": "UNIT 3, 162 MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000148561718",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718865638"
    }
   },
@@ -69375,8 +69392,8 @@
    "properties": {
     "name": "66A BOURKE ROAD ETTALONG BEACH 2257",
     "locID": "LOC000072601058",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718896653"
    }
   },
@@ -70276,8 +70293,8 @@
    "properties": {
     "name": "UNIT 4, 53 PICNIC PARADE ETTALONG BEACH 2257",
     "locID": "LOC000120555796",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719162908"
    }
   },
@@ -70293,8 +70310,8 @@
    "properties": {
     "name": "UNIT 2, 53 PICNIC PARADE ETTALONG BEACH 2257",
     "locID": "LOC000169489620",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719162909"
    }
   },
@@ -70327,8 +70344,8 @@
    "properties": {
     "name": "UNIT 1, 53 PICNIC PARADE ETTALONG BEACH 2257",
     "locID": "LOC000169489620",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719169750"
    }
   },
@@ -70463,8 +70480,8 @@
    "properties": {
     "name": "UNIT 1, 62 ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000174771340",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719235535"
    }
   },
@@ -70752,8 +70769,8 @@
    "properties": {
     "name": "77A ULIGANDI STREET ETTALONG BEACH 2257",
     "locID": "LOC000159618671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719262954"
    }
   },
@@ -70786,8 +70803,8 @@
    "properties": {
     "name": "26A BURRAWANG STREET ETTALONG BEACH 2257",
     "locID": "LOC000191731148",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719356162"
    }
   },
@@ -70939,8 +70956,8 @@
    "properties": {
     "name": "5A KARINGI STREET ETTALONG BEACH 2257",
     "locID": "LOC000157913724",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719376683"
    }
   },
@@ -71483,8 +71500,8 @@
    "properties": {
     "name": "29B BANKSIA STREET ETTALONG BEACH 2257",
     "locID": "LOC000179054655",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719589005"
    }
   },
@@ -72061,8 +72078,8 @@
    "properties": {
     "name": "40A BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000174360771",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719718484"
    }
   },
@@ -73183,8 +73200,8 @@
    "properties": {
     "name": "15A BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000184032888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720158616"
    }
   },
@@ -73285,8 +73302,8 @@
    "properties": {
     "name": "UNIT 6, 167 BARRENJOEY ROAD ETTALONG BEACH 2257",
     "locID": "LOC000054510280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720173089"
    }
   },
@@ -74662,8 +74679,8 @@
    "properties": {
     "name": "UNIT 1, 67 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000037451518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720382747"
    }
   },
@@ -74730,8 +74747,8 @@
    "properties": {
     "name": "UNIT 2, 67 RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000037451518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720386223"
    }
   },
@@ -75563,8 +75580,8 @@
    "properties": {
     "name": "194A MEMORIAL AVENUE ETTALONG BEACH 2257",
     "locID": "LOC000183468674",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720842321"
    }
   },
@@ -75614,8 +75631,8 @@
    "properties": {
     "name": "25A RIDGE STREET ETTALONG BEACH 2257",
     "locID": "LOC000188039034",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720845317"
    }
   },
@@ -75750,8 +75767,8 @@
    "properties": {
     "name": "UNIT 2, 20 WARRAH STREET ETTALONG BEACH 2257",
     "locID": "LOC000190411995",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721000957"
    }
   },
@@ -75801,8 +75818,8 @@
    "properties": {
     "name": "UNIT 4, 30 BANGALOW STREET ETTALONG BEACH 2257",
     "locID": "LOC000154680559",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721055634"
    }
   },
