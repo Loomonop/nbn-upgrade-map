@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-03T01:30:57.081647",
+ "generated": "2023-09-23T08:28:00.321788",
  "suburb": "COOPERS PLAINS",
  "features": [
   {
@@ -205,6 +205,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155195106"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0484636,
+     -27.56298742
+    ]
+   },
+   "properties": {
+    "name": "169 HAMMERSMITH STREET COOPERS PLAINS 4108",
+    "locID": "LOC000193628631",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155195108"
    }
   },
   {
@@ -2464,7 +2481,7 @@
     "name": "15 RICHLAND AVENUE COOPERS PLAINS 4108",
     "locID": "LOC000029485539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155195985"
    }
   },
@@ -9144,8 +9161,8 @@
    "properties": {
     "name": "26 ANNIE STREET COOPERS PLAINS 4108",
     "locID": "LOC000072810021",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155202282"
    }
   },
@@ -21003,23 +21020,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.03935655,
-     -27.57332012
-    ]
-   },
-   "properties": {
-    "name": "41 BOVEY STREET COOPERS PLAINS 4108",
-    "locID": "LOC000063223746",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156468202"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.04207445,
      -27.5699152
     ]
@@ -31271,23 +31271,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.04935403,
-     -27.56431513
-    ]
-   },
-   "properties": {
-    "name": "262 TROUGHTON ROAD COOPERS PLAINS 4108",
-    "locID": "LOC000095488462",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156473279"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.04827662,
      -27.56690639
     ]
@@ -32095,7 +32078,7 @@
     "name": "152 MUSGRAVE ROAD COOPERS PLAINS 4108",
     "locID": "LOC000094541804",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156474190"
    }
   },
@@ -34730,7 +34713,7 @@
     "name": "37 ANNIE STREET COOPERS PLAINS 4108",
     "locID": "LOC000090193095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156476672"
    }
   },
@@ -42465,7 +42448,7 @@
     "name": "UNIT 1, 29 ANNIE STREET COOPERS PLAINS 4108",
     "locID": "LOC000035882512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159271385"
    }
   },
@@ -42482,7 +42465,7 @@
     "name": "UNIT 2, 29 ANNIE STREET COOPERS PLAINS 4108",
     "locID": "LOC000035882512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159271386"
    }
   },
@@ -57271,8 +57254,8 @@
    "properties": {
     "name": "81 NORBURY STREET COOPERS PLAINS 4108",
     "locID": "LOC000160065977",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD425265701"
    }
   },
