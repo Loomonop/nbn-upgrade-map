@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-03T00:14:23.131805",
+ "generated": "2023-09-23T07:02:21.179235",
  "suburb": "CLAYFIELD",
  "features": [
   {
@@ -1733,7 +1733,7 @@
     "name": "7 HUTTON STREET CLAYFIELD 4011",
     "locID": "LOC000003353108",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155167042"
    }
   },
@@ -2277,7 +2277,7 @@
     "name": "13 SEFTON AVENUE CLAYFIELD 4011",
     "locID": "LOC000185315355",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155167601"
    }
   },
@@ -3127,7 +3127,7 @@
     "name": "22 MILNE STREET CLAYFIELD 4011",
     "locID": "LOC000084284391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155168544"
    }
   },
@@ -6850,7 +6850,7 @@
     "name": "25 ELIZA STREET CLAYFIELD 4011",
     "locID": "LOC000096436779",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155171476"
    }
   },
@@ -7394,7 +7394,7 @@
     "name": "19 ALMA ROAD CLAYFIELD 4011",
     "locID": "LOC000008438543",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155171972"
    }
   },
@@ -8839,7 +8839,7 @@
     "name": "80 BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000040234386",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155174041"
    }
   },
@@ -10165,7 +10165,7 @@
     "name": "76 BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000034382007",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155175687"
    }
   },
@@ -10879,7 +10879,7 @@
     "name": "25 CHILDS STREET CLAYFIELD 4011",
     "locID": "LOC000019117926",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155176862"
    }
   },
@@ -12816,8 +12816,8 @@
    "properties": {
     "name": "21 ADELAIDE STREET CLAYFIELD 4011",
     "locID": "LOC000097694688",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155178772"
    }
   },
@@ -13837,7 +13837,7 @@
     "name": "17 WONGARA STREET CLAYFIELD 4011",
     "locID": "LOC000065732456",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155180324"
    }
   },
@@ -17967,8 +17967,8 @@
    "properties": {
     "name": "88 ORIEL ROAD CLAYFIELD 4011",
     "locID": "LOC000076894331",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155187515"
    }
   },
@@ -19973,8 +19973,8 @@
    "properties": {
     "name": "46 QUEENS ROAD CLAYFIELD 4011",
     "locID": "LOC000078561905",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155189332"
    }
   },
@@ -22652,6 +22652,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.04736081,
+     -27.41715217
+    ]
+   },
+   "properties": {
+    "name": "196 BONNEY AVENUE CLAYFIELD 4011",
+    "locID": "LOC000193654724",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156149032"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.04719362,
      -27.4195448
     ]
@@ -22915,7 +22932,7 @@
     "name": "2 MILES STREET CLAYFIELD 4011",
     "locID": "LOC000001639704",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156157042"
    }
   },
@@ -28712,7 +28729,7 @@
     "name": "17 STUCKEY ROAD CLAYFIELD 4011",
     "locID": "LOC000076365820",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156430541"
    }
   },
@@ -30870,8 +30887,8 @@
    "properties": {
     "name": "16 BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000126056500",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156433075"
    }
   },
@@ -39558,7 +39575,7 @@
     "name": "10 MILNE STREET CLAYFIELD 4011",
     "locID": "LOC000054990075",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156437534"
    }
   },
@@ -39575,7 +39592,7 @@
     "name": "12 MILNE STREET CLAYFIELD 4011",
     "locID": "LOC000073408889",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156437535"
    }
   },
@@ -39592,7 +39609,7 @@
     "name": "14 MILNE STREET CLAYFIELD 4011",
     "locID": "LOC000038627851",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156437536"
    }
   },
@@ -39847,7 +39864,7 @@
     "name": "8 MILNE STREET CLAYFIELD 4011",
     "locID": "LOC000035545014",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156437560"
    }
   },
@@ -40186,8 +40203,8 @@
    "properties": {
     "name": "26 BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000055238848",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156437760"
    }
   },
@@ -41989,7 +42006,7 @@
     "name": "30 MILNE STREET CLAYFIELD 4011",
     "locID": "LOC000094549445",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156439314"
    }
   },
@@ -45032,7 +45049,7 @@
     "name": "29 CHILDS STREET CLAYFIELD 4011",
     "locID": "LOC000052374321",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156440229"
    }
   },
@@ -46239,7 +46256,7 @@
     "name": "733 SANDGATE ROAD CLAYFIELD 4011",
     "locID": "LOC000173258501",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156440428"
    }
   },
@@ -47326,8 +47343,8 @@
    "properties": {
     "name": "103 BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000126056500",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156440986"
    }
   },
@@ -49230,8 +49247,8 @@
    "properties": {
     "name": "199 ADELAIDE STREET EAST CLAYFIELD 4011",
     "locID": "LOC000040801749",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156441957"
    }
   },
@@ -52205,8 +52222,8 @@
    "properties": {
     "name": "62 ELLIOTT STREET CLAYFIELD 4011",
     "locID": "LOC000002539187",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156442852"
    }
   },
@@ -52715,8 +52732,8 @@
    "properties": {
     "name": "28 ROSEBY AVENUE CLAYFIELD 4011",
     "locID": "LOC000052460581",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156442898"
    }
   },
@@ -61930,7 +61947,7 @@
     "name": "894 SANDGATE ROAD CLAYFIELD 4011",
     "locID": "LOC000043603914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156446544"
    }
   },
@@ -61947,7 +61964,7 @@
     "name": "896 SANDGATE ROAD CLAYFIELD 4011",
     "locID": "LOC000054122512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156446545"
    }
   },
@@ -70753,7 +70770,7 @@
     "name": "23 CHILDS STREET CLAYFIELD 4011",
     "locID": "LOC000073702794",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156452308"
    }
   },
@@ -73490,7 +73507,7 @@
     "name": "86A BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000064572824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157384147"
    }
   },
@@ -73575,7 +73592,7 @@
     "name": "6 MILES STREET CLAYFIELD 4011",
     "locID": "LOC000014479022",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157386268"
    }
   },
@@ -75156,7 +75173,7 @@
     "name": "86 BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000064572824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157394950"
    }
   },
@@ -82509,6 +82526,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.04760366,
+     -27.41723453
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 196 BONNEY AVENUE CLAYFIELD 4011",
+    "locID": "LOC000193654724",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157758398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.04969995,
      -27.42631593
     ]
@@ -88891,8 +88925,8 @@
    "properties": {
     "name": "30 DRANE STREET CLAYFIELD 4011",
     "locID": "LOC000041537645",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157763938"
    }
   },
@@ -90662,6 +90696,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157764698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.04760366,
+     -27.41723453
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 196 BONNEY AVENUE CLAYFIELD 4011",
+    "locID": "LOC000193654724",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157764722"
    }
   },
   {
@@ -94307,6 +94358,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.04761942,
+     -27.41714504
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 196 BONNEY AVENUE CLAYFIELD 4011",
+    "locID": "LOC000193654724",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157767522"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.05089138,
      -27.4275842
     ]
@@ -95813,6 +95881,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157768531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.04761942,
+     -27.41714504
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 196 BONNEY AVENUE CLAYFIELD 4011",
+    "locID": "LOC000193654724",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157768540"
    }
   },
   {
@@ -103478,7 +103563,7 @@
     "name": "78 BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000059880912",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160723794"
    }
   },
@@ -103495,7 +103580,7 @@
     "name": "78A BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000059595698",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160723795"
    }
   },
@@ -104872,7 +104957,7 @@
     "name": "900 SANDGATE ROAD CLAYFIELD 4011",
     "locID": "LOC000064254317",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161003143"
    }
   },
@@ -104889,7 +104974,7 @@
     "name": "80A BONNEY AVENUE CLAYFIELD 4011",
     "locID": "LOC000040620458",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161008573"
    }
   },
@@ -108067,8 +108152,8 @@
    "properties": {
     "name": "11 QUEENS ROAD CLAYFIELD 4011",
     "locID": "LOC000078561905",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162187490"
    }
   },
@@ -120427,7 +120512,7 @@
     "name": "UNIT 2, 19 ELLIOTT STREET CLAYFIELD 4011",
     "locID": "LOC100074601347",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD720315435"
    }
   },

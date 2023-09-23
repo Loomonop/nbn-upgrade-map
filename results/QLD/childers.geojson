@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-02T23:55:32.308863",
+ "generated": "2023-09-23T06:45:45.030896",
  "suburb": "CHILDERS",
  "features": [
   {
@@ -1716,7 +1716,7 @@
     "name": "29 MACROSSAN STREET CHILDERS 4660",
     "locID": "LOC000014968450",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155173832"
    }
   },
@@ -5914,8 +5914,8 @@
    "properties": {
     "name": "99 CHURCHILL STREET CHILDERS 4660",
     "locID": "LOC000004078065",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156429534"
    }
   },
@@ -7887,7 +7887,7 @@
     "name": "15 MACROSSAN STREET CHILDERS 4660",
     "locID": "LOC000041907735",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156435594"
    }
   },
@@ -7904,7 +7904,7 @@
     "name": "19 MACROSSAN STREET CHILDERS 4660",
     "locID": "LOC000041264203",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156435597"
    }
   },
@@ -8142,7 +8142,7 @@
     "name": "9 MACROSSAN STREET CHILDERS 4660",
     "locID": "LOC000041858959",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156437402"
    }
   },
@@ -10845,7 +10845,7 @@
     "name": "28696 BRUCE HIGHWAY CHILDERS 4660",
     "locID": "LOC000062791322",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157741802"
    }
   },
@@ -11100,7 +11100,7 @@
     "name": "31 MACROSSAN STREET CHILDERS 4660",
     "locID": "LOC000058708179",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157742425"
    }
   },
@@ -15656,7 +15656,7 @@
     "name": "LOT 1 GORRIES ROAD CHILDERS 4660",
     "locID": "LOC000053966832",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161626894"
    }
   },
@@ -16030,7 +16030,7 @@
     "name": "2 GINNS ROAD CHILDERS 4660",
     "locID": "LOC000093786443",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161783857"
    }
   },
@@ -16166,7 +16166,7 @@
     "name": "LOT 2 BRUCE HIGHWAY CHILDERS 4660",
     "locID": "LOC000062791322",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162013953"
    }
   },
@@ -16593,6 +16593,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162045283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.27857956,
+     -25.2371303
+    ]
+   },
+   "properties": {
+    "name": "17 MACROSSAN STREET CHILDERS 4660",
+    "locID": "LOC100073635468",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD162046073"
    }
   },
   {
@@ -18869,7 +18886,7 @@
     "name": "19 GORRIES ROAD CHILDERS 4660",
     "locID": "LOC000053966832",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163067987"
    }
   },
@@ -19294,7 +19311,7 @@
     "name": "UNIT 24, 3 MORGAN STREET CHILDERS 4660",
     "locID": "LOC100074083368",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163227834"
    }
   },
@@ -22133,7 +22150,7 @@
     "name": "LOT 23 MACROSSAN STREET CHILDERS 4660",
     "locID": "LOC000058708179",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425768979"
    }
   },
