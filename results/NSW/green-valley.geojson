@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-03T08:35:02.578645",
+ "generated": "2023-09-23T15:09:08.854814",
  "suburb": "GREEN VALLEY",
  "features": [
   {
@@ -22550,6 +22550,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.87383987,
+     -33.90298909
+    ]
+   },
+   "properties": {
+    "name": "121 GREEN VALLEY ROAD GREEN VALLEY 2168",
+    "locID": "LOC000052965337",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704872449"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.87361394,
      -33.90294345
     ]
@@ -31975,8 +31992,8 @@
    "properties": {
     "name": "8 BADGER PLACE GREEN VALLEY 2168",
     "locID": "LOC000043798568",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704878976"
    }
   },
@@ -32604,8 +32621,8 @@
    "properties": {
     "name": "264B NORTH LIVERPOOL ROAD GREEN VALLEY 2168",
     "locID": "LOC000001581755",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704879855"
    }
   },
@@ -52665,7 +52682,7 @@
     "name": "42 THISTLE CIRCUIT GREEN VALLEY 2168",
     "locID": "LOC000044288695",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704902616"
    }
   },
