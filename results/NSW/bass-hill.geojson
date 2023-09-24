@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-04T00:32:04.611569",
+ "generated": "2023-09-24T07:36:43.520528",
  "suburb": "BASS HILL",
  "features": [
   {
@@ -1511,7 +1511,7 @@
    "properties": {
     "name": "131 CHESTER HILL ROAD BASS HILL 2197",
     "locID": "LOC000193428135",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704018694"
    }
@@ -2855,7 +2855,7 @@
     "name": "110 BUIST STREET BASS HILL 2197",
     "locID": "LOC000078941486",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704018844"
    }
   },
@@ -3976,8 +3976,8 @@
    "properties": {
     "name": "1 POWERS PLACE BASS HILL 2197",
     "locID": "LOC000080544112",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704018995"
    }
   },
@@ -4317,7 +4317,7 @@
     "name": "25 DOUST STREET BASS HILL 2197",
     "locID": "LOC000063790099",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704019015"
    }
   },
@@ -4571,8 +4571,8 @@
    "properties": {
     "name": "6 ERIC AVENUE BASS HILL 2197",
     "locID": "LOC000089616885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704019168"
    }
   },
@@ -5694,7 +5694,7 @@
     "name": "9 CANN STREET BASS HILL 2197",
     "locID": "LOC000017213134",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704019795"
    }
   },
@@ -6509,8 +6509,8 @@
    "properties": {
     "name": "1 LEIGHDON STREET BASS HILL 2197",
     "locID": "LOC000120246983",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704019880"
    }
   },
@@ -12000,8 +12000,8 @@
    "properties": {
     "name": "17 LEIGHDON STREET BASS HILL 2197",
     "locID": "LOC000019854784",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704023097"
    }
   },
@@ -12034,8 +12034,8 @@
    "properties": {
     "name": "2 LEIGHDON STREET BASS HILL 2197",
     "locID": "LOC000099224893",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704023099"
    }
   },
@@ -12051,8 +12051,8 @@
    "properties": {
     "name": "21A LEIGHDON STREET BASS HILL 2197",
     "locID": "LOC000120246983",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704023100"
    }
   },
@@ -12068,8 +12068,8 @@
    "properties": {
     "name": "21 LEIGHDON STREET BASS HILL 2197",
     "locID": "LOC000099224893",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704023101"
    }
   },
@@ -12578,8 +12578,8 @@
    "properties": {
     "name": "14 THORNTON AVENUE BASS HILL 2197",
     "locID": "LOC000078766175",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704023142"
    }
   },
@@ -14346,8 +14346,8 @@
    "properties": {
     "name": "33 THORNTON AVENUE BASS HILL 2197",
     "locID": "LOC000092029447",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704023982"
    }
   },
@@ -14390,6 +14390,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.0013036,
+     -33.9116021
+    ]
+   },
+   "properties": {
+    "name": "36 THORNTON AVENUE BASS HILL 2197",
+    "locID": "LOC000193629661",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704023985"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.00224241,
      -33.91038278
     ]
@@ -14414,8 +14431,8 @@
    "properties": {
     "name": "38 THORNTON AVENUE BASS HILL 2197",
     "locID": "LOC000097339425",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704023987"
    }
   },
@@ -15114,6 +15131,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704024096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.98610696,
+     -33.89548423
+    ]
+   },
+   "properties": {
+    "name": "28 FARRELL ROAD BASS HILL 2197",
+    "locID": "LOC000193654674",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704024097"
    }
   },
   {
@@ -16250,8 +16284,8 @@
    "properties": {
     "name": "29 CARYSFIELD ROAD BASS HILL 2197",
     "locID": "LOC000079902051",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704024714"
    }
   },
@@ -19837,8 +19871,8 @@
    "properties": {
     "name": "14 KAWANA STREET BASS HILL 2197",
     "locID": "LOC000017377911",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704025715"
    }
   },
@@ -19905,8 +19939,8 @@
    "properties": {
     "name": "18 KAWANA STREET BASS HILL 2197",
     "locID": "LOC000052800616",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704025719"
    }
   },
@@ -20161,7 +20195,7 @@
     "name": "7 CANN STREET BASS HILL 2197",
     "locID": "LOC000102015902",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704026053"
    }
   },
@@ -21317,7 +21351,7 @@
     "name": "18 BENNETT STREET BASS HILL 2197",
     "locID": "LOC000026569051",
     "tech": "FTTP",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704026347"
    }
   },
@@ -22558,7 +22592,7 @@
     "name": "10 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000095909017",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027111"
    }
   },
@@ -22575,7 +22609,7 @@
     "name": "11 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000040278574",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027112"
    }
   },
@@ -22592,7 +22626,7 @@
     "name": "12 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000084378667",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027113"
    }
   },
@@ -22609,7 +22643,7 @@
     "name": "13 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000012908532",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027114"
    }
   },
@@ -22626,7 +22660,7 @@
     "name": "14 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000092245882",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027115"
    }
   },
@@ -22643,7 +22677,7 @@
     "name": "15 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000089809792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027116"
    }
   },
@@ -22660,7 +22694,7 @@
     "name": "16 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000015014684",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027117"
    }
   },
@@ -22779,7 +22813,7 @@
     "name": "8 NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000062221891",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704027124"
    }
   },
@@ -26756,8 +26790,8 @@
    "properties": {
     "name": "4 KAWANA STREET BASS HILL 2197",
     "locID": "LOC000040082106",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704028201"
    }
   },
@@ -27657,8 +27691,8 @@
    "properties": {
     "name": "7 KAWANA STREET BASS HILL 2197",
     "locID": "LOC000053624209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704028366"
    }
   },
@@ -28697,23 +28731,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704028928"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.00197563,
-     -33.90369064
-    ]
-   },
-   "properties": {
-    "name": "832 HUME HIGHWAY BASS HILL 2197",
-    "locID": "LOC000077642469",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW704028929"
    }
   },
   {
@@ -32145,8 +32162,8 @@
    "properties": {
     "name": "6 POWERS PLACE BASS HILL 2197",
     "locID": "LOC000058326024",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704029816"
    }
   },
@@ -33447,23 +33464,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.99740663,
-     -33.8963779
-    ]
-   },
-   "properties": {
-    "name": "115 CHESTER HILL ROAD BASS HILL 2197",
-    "locID": "LOC000055147435",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704030530"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.99709588,
      -33.89460788
     ]
@@ -33474,23 +33474,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704030531"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.99737306,
-     -33.89657568
-    ]
-   },
-   "properties": {
-    "name": "117 CHESTER HILL ROAD BASS HILL 2197",
-    "locID": "LOC000058324482",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704030532"
    }
   },
   {
@@ -37721,8 +37704,8 @@
    "properties": {
     "name": "27 LEIGHDON STREET BASS HILL 2197",
     "locID": "LOC000066379287",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704031693"
    }
   },
@@ -39013,8 +38996,8 @@
    "properties": {
     "name": "213 MILLER ROAD BASS HILL 2197",
     "locID": "LOC000090338964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706451558"
    }
   },
@@ -41410,8 +41393,8 @@
    "properties": {
     "name": "11A KYOGLE ROAD BASS HILL 2197",
     "locID": "LOC000092111830",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711391936"
    }
   },
@@ -42771,7 +42754,7 @@
     "name": "88A ROBERTSON ROAD BASS HILL 2197",
     "locID": "LOC000007374545",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711397730"
    }
   },
@@ -45201,8 +45184,8 @@
    "properties": {
     "name": "UNIT 3, 213 MILLER ROAD BASS HILL 2197",
     "locID": "LOC000090338964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711404242"
    }
   },
@@ -45218,8 +45201,8 @@
    "properties": {
     "name": "UNIT 5, 227 MILLER ROAD BASS HILL 2197",
     "locID": "LOC000077405450",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711404243"
    }
   },
@@ -45473,8 +45456,8 @@
    "properties": {
     "name": "UNIT 1, 6 ERIC AVENUE BASS HILL 2197",
     "locID": "LOC000089616885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711405921"
    }
   },
@@ -45490,8 +45473,8 @@
    "properties": {
     "name": "UNIT 2, 6 ERIC AVENUE BASS HILL 2197",
     "locID": "LOC000089616885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711405922"
    }
   },
@@ -45864,8 +45847,8 @@
    "properties": {
     "name": "229 MILLER ROAD BASS HILL 2197",
     "locID": "LOC000095951467",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711406221"
    }
   },
@@ -47599,7 +47582,7 @@
     "name": "19A TREBARTHA STREET BASS HILL 2197",
     "locID": "LOC000090072837",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711414022"
    }
   },
@@ -48347,7 +48330,7 @@
     "name": "84B ROBERTSON ROAD BASS HILL 2197",
     "locID": "LOC000009638416",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711415535"
    }
   },
@@ -48364,7 +48347,7 @@
     "name": "84A ROBERTSON ROAD BASS HILL 2197",
     "locID": "LOC000010069577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711415536"
    }
   },
@@ -48857,7 +48840,7 @@
     "name": "84 ROBERTSON ROAD BASS HILL 2197",
     "locID": "LOC000010069577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711415893"
    }
   },
@@ -49689,8 +49672,8 @@
    "properties": {
     "name": "UNIT 4, 225 MILLER ROAD BASS HILL 2197",
     "locID": "LOC000065190104",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW713132534"
    }
   },
@@ -50505,8 +50488,8 @@
    "properties": {
     "name": "UNIT 2, 213 MILLER ROAD BASS HILL 2197",
     "locID": "LOC000090338964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716523006"
    }
   },
@@ -50726,8 +50709,8 @@
    "properties": {
     "name": "4A LEIGHDON STREET BASS HILL 2197",
     "locID": "LOC000090367145",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716756660"
    }
   },
@@ -52495,7 +52478,7 @@
     "name": "114B BUIST STREET BASS HILL 2197",
     "locID": "LOC000090228878",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717633181"
    }
   },
@@ -53515,7 +53498,7 @@
     "name": "UNIT 1, 110 BUIST STREET BASS HILL 2197",
     "locID": "LOC000078941486",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717803578"
    }
   },
@@ -53532,7 +53515,7 @@
     "name": "UNIT 2, 110 BUIST STREET BASS HILL 2197",
     "locID": "LOC000078941486",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717803579"
    }
   },
@@ -53565,8 +53548,8 @@
    "properties": {
     "name": "207A MILLER ROAD BASS HILL 2197",
     "locID": "LOC000061056162",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717823288"
    }
   },
@@ -53582,8 +53565,8 @@
    "properties": {
     "name": "229A MILLER ROAD BASS HILL 2197",
     "locID": "LOC000095839392",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717823289"
    }
   },
@@ -54772,8 +54755,8 @@
    "properties": {
     "name": "10C THORNTON AVENUE BASS HILL 2197",
     "locID": "LOC000086181227",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717986549"
    }
   },
@@ -56999,8 +56982,8 @@
    "properties": {
     "name": "215A MILLER ROAD BASS HILL 2197",
     "locID": "LOC000115358602",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718228661"
    }
   },
@@ -62117,7 +62100,7 @@
     "name": "8A NEWMAN STREET BASS HILL 2197",
     "locID": "LOC000173669236",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719360461"
    }
   },
@@ -62619,57 +62602,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.00195334,
-     -33.903519
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 832 HUME HIGHWAY BASS HILL 2197",
-    "locID": "LOC000077642469",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW719653378"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.0019048,
-     -33.90375029
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 832 HUME HIGHWAY BASS HILL 2197",
-    "locID": "LOC000077642469",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW719653379"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.0020904,
-     -33.90360752
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 832 HUME HIGHWAY BASS HILL 2197",
-    "locID": "LOC000077642469",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW719654724"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.00048997,
      -33.89891344
     ]
@@ -62721,23 +62653,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.00206327,
-     -33.90386022
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 832 HUME HIGHWAY BASS HILL 2197",
-    "locID": "LOC000077642469",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW719657406"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.99824141,
      -33.89912988
     ]
@@ -62765,23 +62680,6 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719661390"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.00200188,
-     -33.9038074
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 832 HUME HIGHWAY BASS HILL 2197",
-    "locID": "LOC000077642469",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW719661391"
    }
   },
   {
@@ -62915,7 +62813,7 @@
    "properties": {
     "name": "962A HUME HIGHWAY BASS HILL 2197",
     "locID": "ChIJnZQ4tMm9EmsR7idtjiv5E_Y",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719688561"
    }
@@ -66706,7 +66604,7 @@
    "properties": {
     "name": "UNIT 3, 131 CHESTER HILL ROAD BASS HILL 2197",
     "locID": "LOC000193428119",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721317808"
    }
@@ -66774,7 +66672,7 @@
    "properties": {
     "name": "UNIT 5, 131 CHESTER HILL ROAD BASS HILL 2197",
     "locID": "LOC000193428135",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721321295"
    }
@@ -66791,7 +66689,7 @@
    "properties": {
     "name": "UNIT 1, 131 CHESTER HILL ROAD BASS HILL 2197",
     "locID": "LOC000193428135",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721323332"
    }
@@ -66842,7 +66740,7 @@
    "properties": {
     "name": "UNIT 4, 131 CHESTER HILL ROAD BASS HILL 2197",
     "locID": "LOC000193428126",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721326826"
    }
@@ -66876,7 +66774,7 @@
    "properties": {
     "name": "UNIT 2, 131 CHESTER HILL ROAD BASS HILL 2197",
     "locID": "LOC000193428103",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721327463"
    }
