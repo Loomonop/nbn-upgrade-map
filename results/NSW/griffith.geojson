@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-04T13:22:26.555406",
+ "generated": "2023-09-24T19:41:19.699875",
  "suburb": "GRIFFITH",
  "features": [
   {
@@ -19616,8 +19616,8 @@
    "properties": {
     "name": "20 COLLIER STREET GRIFFITH 2680",
     "locID": "LOC000078809940",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704885138"
    }
   },
@@ -61335,7 +61335,7 @@
     "name": "11 LASSCOCK ROAD GRIFFITH 2680",
     "locID": "LOC000035717002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704900987"
    }
   },
@@ -61369,7 +61369,7 @@
     "name": "13 LASSCOCK ROAD GRIFFITH 2680",
     "locID": "LOC000077402741",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704900989"
    }
   },
@@ -61539,7 +61539,7 @@
     "name": "23 LASSCOCK ROAD GRIFFITH 2680",
     "locID": "LOC000032952406",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704900999"
    }
   },
@@ -75063,6 +75063,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.03969307,
+     -34.28331264
+    ]
+   },
+   "properties": {
+    "name": "6 BENT STREET GRIFFITH 2680",
+    "locID": "ChIJCeGQFxGuH2sRmDXnKB_InfQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW704906752"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.08461831,
      -34.26401942
     ]
@@ -81412,7 +81429,7 @@
     "name": "20 TUBBO CRESCENT GRIFFITH 2680",
     "locID": "LOC000010504082",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704913044"
    }
   },
@@ -116602,7 +116619,7 @@
     "name": "1148 LASSCOCK ROAD GRIFFITH 2680",
     "locID": "LOC000035717002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712796843"
    }
   },
@@ -125628,8 +125645,8 @@
    "properties": {
     "name": "26-28 BANNA AVENUE GRIFFITH 2680",
     "locID": "LOC000012964938",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716868977"
    }
   },
@@ -126071,7 +126088,7 @@
     "name": "6-10 COLLIER STREET GRIFFITH 2680",
     "locID": "LOC000050307233",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716872439"
    }
   },
@@ -153730,7 +153747,7 @@
     "name": "1-5 SHAW ROAD GRIFFITH 2680",
     "locID": "LOC000121736199",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717966049"
    }
   },
@@ -154376,7 +154393,7 @@
     "name": "9 TWIGG STREET GRIFFITH 2680",
     "locID": "LOC000161988892",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717968815"
    }
   },
@@ -161312,7 +161329,7 @@
     "name": "15-17 SHAW ROAD GRIFFITH 2680",
     "locID": "LOC000069379728",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718423433"
    }
   },
@@ -162026,7 +162043,7 @@
     "name": "892 KIDMAN WAY GRIFFITH 2680",
     "locID": "LOC000191274505",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718506308"
    }
   },
@@ -167339,6 +167356,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.03974479,
+     -34.31145468
+    ]
+   },
+   "properties": {
+    "name": "340 THORNE ROAD GRIFFITH 2680",
+    "locID": "EiszNDAgVGhvcm5lIFJkLCBHcmlmZml0aCBOU1cgMjY4MCwgQXVzdHJhbGlhIjESLwoUChIJG07dUNKvH2sRUK28crQJBhMQ1AIqFAoSCZlXhhkqsB9rEXrXRoZ8tATX",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718774480"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.04022507,
+     -34.31136325
+    ]
+   },
+   "properties": {
+    "name": "348 THORNE ROAD GRIFFITH 2680",
+    "locID": "EiszNDggVGhvcm5lIFJkLCBHcmlmZml0aCBOU1cgMjY4MCwgQXVzdHJhbGlhIjESLwoUChIJG07dUNKvH2sRUK28crQJBhMQ3AIqFAoSCZlXhhkqsB9rEXrXRoZ8tATX",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718774481"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.04106393,
+     -34.31143968
+    ]
+   },
+   "properties": {
+    "name": "354 THORNE ROAD GRIFFITH 2680",
+    "locID": "EiszNTQgVGhvcm5lIFJkLCBHcmlmZml0aCBOU1cgMjY4MCwgQXVzdHJhbGlhIjESLwoUChIJG07dUNKvH2sRUK28crQJBhMQ4gIqFAoSCZlXhhkqsB9rEXrXRoZ8tATX",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718774482"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.04138676,
      -34.31063073
     ]
@@ -169386,7 +169454,7 @@
    "properties": {
     "name": "10 POTTER PLACE GRIFFITH 2680",
     "locID": "ChIJQ5c6kV2uH2sRE4U2LCHy8TM",
-    "tech": "FTTC",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718805573"
    }
@@ -178720,7 +178788,7 @@
     "name": "LOT 521 KIDMAN WAY GRIFFITH 2680",
     "locID": "LOC000191274505",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720334823"
    }
   },
