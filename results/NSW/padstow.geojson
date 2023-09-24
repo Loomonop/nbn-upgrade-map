@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-04T07:19:42.726026",
+ "generated": "2023-09-24T13:58:59.405590",
  "suburb": "PADSTOW",
  "features": [
   {
@@ -1308,7 +1308,7 @@
     "name": "95 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000087909672",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705590733"
    }
   },
@@ -2548,8 +2548,8 @@
    "properties": {
     "name": "4 NAPOLI STREET PADSTOW 2211",
     "locID": "LOC000191499078",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705590829"
    }
   },
@@ -2719,7 +2719,7 @@
     "name": "64 HOWARD ROAD PADSTOW 2211",
     "locID": "LOC000017155959",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705590839"
    }
   },
@@ -4887,6 +4887,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.02926617,
+     -33.9445569
+    ]
+   },
+   "properties": {
+    "name": "3 BEAMISH STREET PADSTOW 2211",
+    "locID": "LOC000095709758",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GANSW705593788"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.03057852,
      -33.9467569
     ]
@@ -5031,7 +5048,7 @@
     "name": "12 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000018788858",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593813"
    }
   },
@@ -5048,7 +5065,7 @@
     "name": "13 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000097426140",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593814"
    }
   },
@@ -5065,7 +5082,7 @@
     "name": "19 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000101465448",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593815"
    }
   },
@@ -5082,7 +5099,7 @@
     "name": "20 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000092213885",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593816"
    }
   },
@@ -5099,7 +5116,7 @@
     "name": "21 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000010101696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593817"
    }
   },
@@ -5116,7 +5133,7 @@
     "name": "22 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000099914596",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593818"
    }
   },
@@ -5133,7 +5150,7 @@
     "name": "25 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000033078793",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593820"
    }
   },
@@ -5150,7 +5167,7 @@
     "name": "26 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000102776010",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593821"
    }
   },
@@ -5167,7 +5184,7 @@
     "name": "27 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000047224879",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593822"
    }
   },
@@ -5286,7 +5303,7 @@
     "name": "31 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000103436874",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593829"
    }
   },
@@ -5354,7 +5371,7 @@
     "name": "36 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000065403246",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593833"
    }
   },
@@ -5371,7 +5388,7 @@
     "name": "4 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000099135149",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593834"
    }
   },
@@ -5388,7 +5405,7 @@
     "name": "5 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000027218881",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593835"
    }
   },
@@ -6034,7 +6051,7 @@
     "name": "11 CURRENT STREET PADSTOW 2211",
     "locID": "LOC000029807072",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593876"
    }
   },
@@ -6085,7 +6102,7 @@
     "name": "4 CURRENT STREET PADSTOW 2211",
     "locID": "LOC000064506782",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593879"
    }
   },
@@ -6119,7 +6136,7 @@
     "name": "7 CURRENT STREET PADSTOW 2211",
     "locID": "LOC000029137360",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593881"
    }
   },
@@ -6136,7 +6153,7 @@
     "name": "9 CURRENT STREET PADSTOW 2211",
     "locID": "LOC000055519512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705593882"
    }
   },
@@ -6680,7 +6697,7 @@
     "name": "8 WEENAMANA PLACE PADSTOW 2211",
     "locID": "LOC000002252176",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594142"
    }
   },
@@ -7326,7 +7343,7 @@
     "name": "2 BEAMISH STREET PADSTOW 2211",
     "locID": "LOC000013297533",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705594432"
    }
   },
@@ -7564,7 +7581,7 @@
     "name": "4 BEAMISH STREET PADSTOW 2211",
     "locID": "LOC000019900117",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705594446"
    }
   },
@@ -7717,7 +7734,7 @@
     "name": "6 BEAMISH STREET PADSTOW 2211",
     "locID": "LOC000095709758",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705594455"
    }
   },
@@ -7768,7 +7785,7 @@
     "name": "77A COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000107084507",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594458"
    }
   },
@@ -7819,7 +7836,7 @@
     "name": "79 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000046400797",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594461"
    }
   },
@@ -7853,7 +7870,7 @@
     "name": "81 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000041184283",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594463"
    }
   },
@@ -7887,7 +7904,7 @@
     "name": "83 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000044172250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594465"
    }
   },
@@ -7938,7 +7955,7 @@
     "name": "87 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000099943659",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594468"
    }
   },
@@ -8074,7 +8091,7 @@
     "name": "97 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000045021644",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594476"
    }
   },
@@ -8108,7 +8125,7 @@
     "name": "99 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000053749108",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705594478"
    }
   },
@@ -11032,7 +11049,7 @@
     "name": "1 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000047089594",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597183"
    }
   },
@@ -11049,7 +11066,7 @@
     "name": "10 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000061658488",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597184"
    }
   },
@@ -11066,7 +11083,7 @@
     "name": "11 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000063115862",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597185"
    }
   },
@@ -11117,7 +11134,7 @@
     "name": "14 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000024611433",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597188"
    }
   },
@@ -11134,7 +11151,7 @@
     "name": "15 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000010955076",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597189"
    }
   },
@@ -11151,7 +11168,7 @@
     "name": "16 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000053330390",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597190"
    }
   },
@@ -11168,7 +11185,7 @@
     "name": "17 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000032961842",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597191"
    }
   },
@@ -11185,7 +11202,7 @@
     "name": "19 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000025879666",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597192"
    }
   },
@@ -11202,7 +11219,7 @@
     "name": "3 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000007241762",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597193"
    }
   },
@@ -11219,7 +11236,7 @@
     "name": "4 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000066502282",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597194"
    }
   },
@@ -11236,7 +11253,7 @@
     "name": "5 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000102184869",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597195"
    }
   },
@@ -11253,7 +11270,7 @@
     "name": "6 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000003976055",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597196"
    }
   },
@@ -11270,7 +11287,7 @@
     "name": "7 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000081894391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597197"
    }
   },
@@ -11287,7 +11304,7 @@
     "name": "8 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000102096236",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597198"
    }
   },
@@ -11304,7 +11321,7 @@
     "name": "9 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000010994303",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597199"
    }
   },
@@ -11422,8 +11439,8 @@
    "properties": {
     "name": "24 TRURO PARADE PADSTOW 2211",
     "locID": "LOC000007160825",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705597216"
    }
   },
@@ -11610,7 +11627,7 @@
     "name": "11 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000070656764",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705597285"
    }
   },
@@ -13463,7 +13480,7 @@
     "name": "32 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000034825979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705600853"
    }
   },
@@ -13480,7 +13497,7 @@
     "name": "34 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000105405930",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705600855"
    }
   },
@@ -13497,7 +13514,7 @@
     "name": "36 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000026760552",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705600856"
    }
   },
@@ -15519,8 +15536,8 @@
    "properties": {
     "name": "47 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000061295255",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705601153"
    }
   },
@@ -15928,7 +15945,7 @@
     "name": "110 CAHORS ROAD PADSTOW 2211",
     "locID": "LOC000096896891",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705601184"
    }
   },
@@ -16828,8 +16845,8 @@
    "properties": {
     "name": "1A BURLEY ROAD PADSTOW 2211",
     "locID": "LOC000007168692",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705603358"
    }
   },
@@ -17339,7 +17356,7 @@
     "name": "132 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000018057672",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705603434"
    }
   },
@@ -17951,7 +17968,7 @@
     "name": "29 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000042080099",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604105"
    }
   },
@@ -18036,7 +18053,7 @@
     "name": "32 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000005123083",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604113"
    }
   },
@@ -18053,7 +18070,7 @@
     "name": "33 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000078927180",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604114"
    }
   },
@@ -18376,7 +18393,7 @@
     "name": "UNIT 11, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000029146093",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604138"
    }
   },
@@ -18393,7 +18410,7 @@
     "name": "UNIT 12, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000029245786",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604139"
    }
   },
@@ -18529,7 +18546,7 @@
     "name": "55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC100061754620",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604360"
    }
   },
@@ -18716,7 +18733,7 @@
     "name": "65A IBERIA STREET PADSTOW 2211",
     "locID": "LOC000031285082",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604373"
    }
   },
@@ -20093,7 +20110,7 @@
     "name": "12 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000088047133",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604454"
    }
   },
@@ -20110,7 +20127,7 @@
     "name": "14 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000039882694",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604455"
    }
   },
@@ -20246,7 +20263,7 @@
     "name": "21 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000039764804",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604463"
    }
   },
@@ -20297,7 +20314,7 @@
     "name": "24 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000087326044",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604466"
    }
   },
@@ -20467,7 +20484,7 @@
     "name": "1 WINDSOR ROAD PADSTOW 2211",
     "locID": "LOC000084358979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604492"
    }
   },
@@ -20501,7 +20518,7 @@
     "name": "11 WINDSOR ROAD PADSTOW 2211",
     "locID": "LOC000027860653",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604494"
    }
   },
@@ -21309,23 +21326,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.02913316,
-     -33.94249331
-    ]
-   },
-   "properties": {
-    "name": "6 GWANDALAN ROAD PADSTOW 2211",
-    "locID": "LOC000025939298",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705604653"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.02945151,
      -33.94314114
     ]
@@ -21674,7 +21674,7 @@
     "name": "8 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000052711768",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604676"
    }
   },
@@ -21691,7 +21691,7 @@
     "name": "9 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000088446962",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604677"
    }
   },
@@ -21776,7 +21776,7 @@
     "name": "11 MAPLELEAF DRIVE PADSTOW 2211",
     "locID": "LOC000057551150",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604687"
    }
   },
@@ -21793,7 +21793,7 @@
     "name": "2 MAPLELEAF DRIVE PADSTOW 2211",
     "locID": "LOC000101518415",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604688"
    }
   },
@@ -21810,7 +21810,7 @@
     "name": "3 MAPLELEAF DRIVE PADSTOW 2211",
     "locID": "LOC000060067613",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705604689"
    }
   },
@@ -21946,7 +21946,7 @@
     "name": "UNIT 1, 10A MCEVOY ROAD PADSTOW 2211",
     "locID": "LOC000027991776",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604723"
    }
   },
@@ -21963,7 +21963,7 @@
     "name": "UNIT 2, 10A MCEVOY ROAD PADSTOW 2211",
     "locID": "LOC000027885136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604724"
    }
   },
@@ -21980,7 +21980,7 @@
     "name": "10A MCEVOY ROAD PADSTOW 2211",
     "locID": "LOC000027991776",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705604725"
    }
   },
@@ -22643,7 +22643,7 @@
     "name": "UNIT 3, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000029134398",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705607345"
    }
   },
@@ -22677,7 +22677,7 @@
     "name": "UNIT 5, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000029093154",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705607347"
    }
   },
@@ -22694,7 +22694,7 @@
     "name": "UNIT 6, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000028805191",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705607348"
    }
   },
@@ -22711,7 +22711,7 @@
     "name": "UNIT 7, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000028868896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705607349"
    }
   },
@@ -22728,7 +22728,7 @@
     "name": "UNIT 8, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000029150530",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705607350"
    }
   },
@@ -22932,7 +22932,7 @@
     "name": "101 DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000017600407",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705607369"
    }
   },
@@ -23118,8 +23118,8 @@
    "properties": {
     "name": "25 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000080057944",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705607381"
    }
   },
@@ -24649,7 +24649,7 @@
     "name": "10 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000058139805",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705607492"
    }
   },
@@ -26366,7 +26366,7 @@
     "name": "137 FARADAY ROAD PADSTOW 2211",
     "locID": "LOC000084458380",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705611020"
    }
   },
@@ -26587,7 +26587,7 @@
     "name": "34 RYAN ROAD PADSTOW 2211",
     "locID": "LOC000064742014",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611071"
    }
   },
@@ -26621,7 +26621,7 @@
     "name": "36 RYAN ROAD PADSTOW 2211",
     "locID": "LOC000069231494",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611073"
    }
   },
@@ -26638,7 +26638,7 @@
     "name": "37 RYAN ROAD PADSTOW 2211",
     "locID": "LOC000075169742",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611074"
    }
   },
@@ -26655,7 +26655,7 @@
     "name": "38 RYAN ROAD PADSTOW 2211",
     "locID": "LOC000078327376",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611075"
    }
   },
@@ -26672,7 +26672,7 @@
     "name": "40 RYAN ROAD PADSTOW 2211",
     "locID": "LOC000009139890",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611076"
    }
   },
@@ -26825,7 +26825,7 @@
     "name": "14 SCHOOL PARADE PADSTOW 2211",
     "locID": "LOC100067380542",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611085"
    }
   },
@@ -27250,7 +27250,7 @@
     "name": "37 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000025044523",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611115"
    }
   },
@@ -27267,7 +27267,7 @@
     "name": "38 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000031495485",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611116"
    }
   },
@@ -27284,7 +27284,7 @@
     "name": "39 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000083582953",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611117"
    }
   },
@@ -27318,7 +27318,7 @@
     "name": "40 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000014762662",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611119"
    }
   },
@@ -27335,7 +27335,7 @@
     "name": "43 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000052454198",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611120"
    }
   },
@@ -27352,7 +27352,7 @@
     "name": "49 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000044365927",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611121"
    }
   },
@@ -27386,7 +27386,7 @@
     "name": "51 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000018868587",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611123"
    }
   },
@@ -27403,7 +27403,7 @@
     "name": "53 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000006501521",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611124"
    }
   },
@@ -27522,7 +27522,7 @@
     "name": "65 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000086978947",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611131"
    }
   },
@@ -27539,7 +27539,7 @@
     "name": "67 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000016776369",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611132"
    }
   },
@@ -27556,7 +27556,7 @@
     "name": "69A VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000063843911",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611133"
    }
   },
@@ -27573,7 +27573,7 @@
     "name": "69 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000063819778",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611134"
    }
   },
@@ -27607,7 +27607,7 @@
     "name": "73 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000057554907",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611136"
    }
   },
@@ -27692,7 +27692,7 @@
     "name": "85 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000016811665",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611144"
    }
   },
@@ -27709,7 +27709,7 @@
     "name": "87 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000005460306",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611145"
    }
   },
@@ -27726,7 +27726,7 @@
     "name": "89A VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000061263339",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611146"
    }
   },
@@ -27743,7 +27743,7 @@
     "name": "89 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000061420506",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705611147"
    }
   },
@@ -27777,7 +27777,7 @@
     "name": "91A VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000051611756",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611149"
    }
   },
@@ -27794,7 +27794,7 @@
     "name": "91C VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000051660921",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611151"
    }
   },
@@ -27811,7 +27811,7 @@
     "name": "91D VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000051417231",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611152"
    }
   },
@@ -27828,7 +27828,7 @@
     "name": "91E VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000051443538",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611153"
    }
   },
@@ -27845,7 +27845,7 @@
     "name": "91F VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000050514542",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705611154"
    }
   },
@@ -31092,7 +31092,7 @@
     "name": "142 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000086938202",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614618"
    }
   },
@@ -31126,7 +31126,7 @@
     "name": "144 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000027856511",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614620"
    }
   },
@@ -31160,7 +31160,7 @@
     "name": "146 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000048340044",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614624"
    }
   },
@@ -31194,7 +31194,7 @@
     "name": "148 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000041897951",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614626"
    }
   },
@@ -31211,7 +31211,7 @@
     "name": "149 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000011282212",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614627"
    }
   },
@@ -31245,7 +31245,7 @@
     "name": "151 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000094403830",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614629"
    }
   },
@@ -31262,7 +31262,7 @@
     "name": "156 GIBSON AVENUE PADSTOW 2211",
     "locID": "LOC000120523966",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614630"
    }
   },
@@ -31517,7 +31517,7 @@
     "name": "69A IBERIA STREET PADSTOW 2211",
     "locID": "LOC000025503867",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614645"
    }
   },
@@ -31551,7 +31551,7 @@
     "name": "69B IBERIA STREET PADSTOW 2211",
     "locID": "LOC000025485454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614647"
    }
   },
@@ -32299,7 +32299,7 @@
     "name": "27 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000015599204",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614734"
    }
   },
@@ -32333,7 +32333,7 @@
     "name": "29 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000042558834",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614736"
    }
   },
@@ -32384,7 +32384,7 @@
     "name": "31 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000046444280",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705614739"
    }
   },
@@ -32401,7 +32401,7 @@
     "name": "32 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000023739596",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614740"
    }
   },
@@ -32418,7 +32418,7 @@
     "name": "33 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000049552331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614741"
    }
   },
@@ -32452,7 +32452,7 @@
     "name": "35 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000056104520",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614743"
    }
   },
@@ -32469,7 +32469,7 @@
     "name": "37 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000094728054",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614745"
    }
   },
@@ -32503,7 +32503,7 @@
     "name": "39 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000076692535",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614747"
    }
   },
@@ -32537,7 +32537,7 @@
     "name": "40 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000069597206",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614749"
    }
   },
@@ -32554,7 +32554,7 @@
     "name": "41 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000054623305",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614750"
    }
   },
@@ -32571,7 +32571,7 @@
     "name": "42 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000021431775",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614751"
    }
   },
@@ -32605,7 +32605,7 @@
     "name": "44 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000026380465",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614753"
    }
   },
@@ -32622,7 +32622,7 @@
     "name": "45 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000023171431",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614754"
    }
   },
@@ -32639,7 +32639,7 @@
     "name": "47 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000057037189",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614755"
    }
   },
@@ -32656,7 +32656,7 @@
     "name": "49 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000105110183",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614756"
    }
   },
@@ -32690,7 +32690,7 @@
     "name": "53 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000048062894",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614758"
    }
   },
@@ -33064,7 +33064,7 @@
     "name": "3 WINDSOR ROAD PADSTOW 2211",
     "locID": "LOC000018025845",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705614780"
    }
   },
@@ -33778,7 +33778,7 @@
     "name": "UNIT 14, 15 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000029141939",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705617620"
    }
   },
@@ -34220,7 +34220,7 @@
     "name": "11 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000068517958",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705617661"
    }
   },
@@ -34237,7 +34237,7 @@
     "name": "14 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000047946574",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705617664"
    }
   },
@@ -34271,7 +34271,7 @@
     "name": "16 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000094268243",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705617666"
    }
   },
@@ -34305,7 +34305,7 @@
     "name": "18 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000044016113",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705617668"
    }
   },
@@ -34560,7 +34560,7 @@
     "name": "134 DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000026378765",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705617683"
    }
   },
@@ -35325,7 +35325,7 @@
     "name": "5 WINDSOR ROAD PADSTOW 2211",
     "locID": "LOC000103447297",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705617998"
    }
   },
@@ -35801,7 +35801,7 @@
     "name": "59 LANG STREET PADSTOW 2211",
     "locID": "LOC000044078556",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618219"
    }
   },
@@ -35852,7 +35852,7 @@
     "name": "61 LANG STREET PADSTOW 2211",
     "locID": "LOC000040065258",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618222"
    }
   },
@@ -35903,7 +35903,7 @@
     "name": "64 LANG STREET PADSTOW 2211",
     "locID": "LOC000033949532",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618225"
    }
   },
@@ -35920,7 +35920,7 @@
     "name": "65 LANG STREET PADSTOW 2211",
     "locID": "LOC000047469825",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618226"
    }
   },
@@ -35937,7 +35937,7 @@
     "name": "66 LANG STREET PADSTOW 2211",
     "locID": "LOC000035651650",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618227"
    }
   },
@@ -35954,7 +35954,7 @@
     "name": "67 LANG STREET PADSTOW 2211",
     "locID": "LOC000004726470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618228"
    }
   },
@@ -35988,7 +35988,7 @@
     "name": "69 LANG STREET PADSTOW 2211",
     "locID": "LOC000013961985",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618230"
    }
   },
@@ -36056,7 +36056,7 @@
     "name": "12 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000099744934",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705618234"
    }
   },
@@ -37042,7 +37042,7 @@
     "name": "60 HOWARD ROAD PADSTOW 2211",
     "locID": "LOC000011333312",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705620353"
    }
   },
@@ -37076,7 +37076,7 @@
     "name": "62 HOWARD ROAD PADSTOW 2211",
     "locID": "LOC000078554945",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705620355"
    }
   },
@@ -39915,7 +39915,7 @@
     "name": "91B VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000051805391",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624613"
    }
   },
@@ -41428,7 +41428,7 @@
     "name": "UNIT 1, 15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000042007262",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624850"
    }
   },
@@ -41479,7 +41479,7 @@
     "name": "UNIT 12, 15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000042171255",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624853"
    }
   },
@@ -41496,7 +41496,7 @@
     "name": "UNIT 3, 15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000042109364",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624854"
    }
   },
@@ -41530,7 +41530,7 @@
     "name": "UNIT 5, 15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000042087410",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624856"
    }
   },
@@ -41564,7 +41564,7 @@
     "name": "UNIT 7, 15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000042037162",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624858"
    }
   },
@@ -41581,7 +41581,7 @@
     "name": "UNIT 8, 15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000041883097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624859"
    }
   },
@@ -41598,7 +41598,7 @@
     "name": "UNIT 9, 15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000041791818",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624860"
    }
   },
@@ -41615,7 +41615,7 @@
     "name": "15 BALDWIN STREET PADSTOW 2211",
     "locID": "LOC000042087410",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705624861"
    }
   },
@@ -43434,7 +43434,7 @@
     "name": "12 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000095759687",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705627934"
    }
   },
@@ -43451,7 +43451,7 @@
     "name": "13 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000087739377",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705627935"
    }
   },
@@ -43502,7 +43502,7 @@
     "name": "40 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000006411720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705627945"
    }
   },
@@ -43553,7 +43553,7 @@
     "name": "7 RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000039904280",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705627961"
    }
   },
@@ -43876,7 +43876,7 @@
     "name": "51 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000008890895",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705628230"
    }
   },
@@ -44981,7 +44981,7 @@
     "name": "8 WINDSOR ROAD PADSTOW 2211",
     "locID": "LOC000094727515",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705628295"
    }
   },
@@ -45151,7 +45151,7 @@
     "name": "9 WINDSOR ROAD PADSTOW 2211",
     "locID": "LOC000107057237",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705628306"
    }
   },
@@ -45406,7 +45406,7 @@
     "name": "16 WYATT AVENUE PADSTOW 2211",
     "locID": "LOC000041180261",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705628323"
    }
   },
@@ -45440,7 +45440,7 @@
     "name": "18 WYATT AVENUE PADSTOW 2211",
     "locID": "LOC000056990971",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705628325"
    }
   },
@@ -46069,7 +46069,7 @@
     "name": "99A DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000055935237",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705628544"
    }
   },
@@ -46137,7 +46137,7 @@
     "name": "78 DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000055904093",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705628560"
    }
   },
@@ -46171,7 +46171,7 @@
     "name": "80 DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000090698210",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705628562"
    }
   },
@@ -46188,7 +46188,7 @@
     "name": "82 DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000059310573",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705628563"
    }
   },
@@ -46205,7 +46205,7 @@
     "name": "84 DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000062898877",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705628565"
    }
   },
@@ -46222,7 +46222,7 @@
     "name": "86 DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000056322814",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705628566"
    }
   },
@@ -47446,7 +47446,7 @@
     "name": "33 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000087909672",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705630873"
    }
   },
@@ -47463,7 +47463,7 @@
     "name": "35 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000041901990",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705630874"
    }
   },
@@ -47480,7 +47480,7 @@
     "name": "37 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000041119330",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705630876"
    }
   },
@@ -47497,7 +47497,7 @@
     "name": "39 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000046092423",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705630877"
    }
   },
@@ -47523,23 +47523,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.03446216,
-     -33.94643202
-    ]
-   },
-   "properties": {
-    "name": "43 ARAB ROAD PADSTOW 2211",
-    "locID": "LOC000103526117",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705630879"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.03440679,
      -33.94583175
     ]
@@ -47548,7 +47531,7 @@
     "name": "46 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000078671701",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705630880"
    }
   },
@@ -47582,7 +47565,7 @@
     "name": "48 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000060874459",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705630882"
    }
   },
@@ -47616,7 +47599,7 @@
     "name": "50 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000098356225",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705630885"
    }
   },
@@ -48397,8 +48380,8 @@
    "properties": {
     "name": "23 DRAVET STREET PADSTOW 2211",
     "locID": "LOC000020600229",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705631236"
    }
   },
@@ -48500,7 +48483,7 @@
     "name": "10 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000015498001",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705631309"
    }
   },
@@ -48517,7 +48500,7 @@
     "name": "12 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000035942486",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705631310"
    }
   },
@@ -48534,7 +48517,7 @@
     "name": "14 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000013082932",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705631311"
    }
   },
@@ -49197,7 +49180,7 @@
     "name": "12 CARLENE AVENUE PADSTOW 2211",
     "locID": "LOC000064555904",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705631500"
    }
   },
@@ -49214,7 +49197,7 @@
     "name": "13 CARLENE AVENUE PADSTOW 2211",
     "locID": "LOC000048036920",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705631501"
    }
   },
@@ -49248,7 +49231,7 @@
     "name": "4 CARLENE AVENUE PADSTOW 2211",
     "locID": "LOC000019694002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705631503"
    }
   },
@@ -51186,7 +51169,7 @@
     "name": "68 FARADAY ROAD PADSTOW 2211",
     "locID": "LOC100071350143",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634829"
    }
   },
@@ -51764,7 +51747,7 @@
     "name": "1 NELLA STREET PADSTOW 2211",
     "locID": "LOC000006237247",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634882"
    }
   },
@@ -51781,7 +51764,7 @@
     "name": "10 NELLA STREET PADSTOW 2211",
     "locID": "LOC000109911776",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634883"
    }
   },
@@ -51815,7 +51798,7 @@
     "name": "12 NELLA STREET PADSTOW 2211",
     "locID": "LOC000102935051",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634885"
    }
   },
@@ -51917,7 +51900,7 @@
     "name": "2 NELLA STREET PADSTOW 2211",
     "locID": "LOC000043332582",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634891"
    }
   },
@@ -51985,7 +51968,7 @@
     "name": "3 NELLA STREET PADSTOW 2211",
     "locID": "LOC000074210055",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634895"
    }
   },
@@ -52002,7 +51985,7 @@
     "name": "4 NELLA STREET PADSTOW 2211",
     "locID": "LOC000094111849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634898"
    }
   },
@@ -52053,7 +52036,7 @@
     "name": "6 NELLA STREET PADSTOW 2211",
     "locID": "LOC000052025701",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634901"
    }
   },
@@ -52087,7 +52070,7 @@
     "name": "8 NELLA STREET PADSTOW 2211",
     "locID": "LOC000006293159",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705634903"
    }
   },
@@ -53107,7 +53090,7 @@
     "name": "3 WEENAMANA PLACE PADSTOW 2211",
     "locID": "LOC000084339917",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705634982"
    }
   },
@@ -53124,7 +53107,7 @@
     "name": "4 WEENAMANA PLACE PADSTOW 2211",
     "locID": "LOC000080179664",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705634983"
    }
   },
@@ -53158,7 +53141,7 @@
     "name": "6 WEENAMANA PLACE PADSTOW 2211",
     "locID": "LOC000065068643",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705634985"
    }
   },
@@ -53175,7 +53158,7 @@
     "name": "7 WEENAMANA PLACE PADSTOW 2211",
     "locID": "LOC000022196129",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705634986"
    }
   },
@@ -53192,7 +53175,7 @@
     "name": "9 WEENAMANA PLACE PADSTOW 2211",
     "locID": "LOC000041826898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705634987"
    }
   },
@@ -55180,8 +55163,8 @@
    "properties": {
     "name": "3 BARKL AVENUE PADSTOW 2211",
     "locID": "LOC000015501017",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705635250"
    }
   },
@@ -56286,7 +56269,7 @@
     "name": "UNIT 2, 106 LANG STREET PADSTOW 2211",
     "locID": "LOC000042975899",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705635371"
    }
   },
@@ -56370,8 +56353,8 @@
    "properties": {
     "name": "110 LANG STREET PADSTOW 2211",
     "locID": "LOC000008796295",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705635376"
    }
   },
@@ -56779,7 +56762,7 @@
     "name": "3A PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000101844583",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705635401"
    }
   },
@@ -56813,7 +56796,7 @@
     "name": "4 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000015735586",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705635403"
    }
   },
@@ -56830,7 +56813,7 @@
     "name": "5 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000003020258",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705635404"
    }
   },
@@ -56847,7 +56830,7 @@
     "name": "6 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000064335737",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705635405"
    }
   },
@@ -56864,7 +56847,7 @@
     "name": "7 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000073293697",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705635406"
    }
   },
@@ -58581,7 +58564,7 @@
     "name": "17 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000027170047",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637937"
    }
   },
@@ -58598,7 +58581,7 @@
     "name": "18 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000010442711",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637938"
    }
   },
@@ -58615,7 +58598,7 @@
     "name": "19 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000078092645",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637939"
    }
   },
@@ -58683,7 +58666,7 @@
     "name": "90 LANG STREET PADSTOW 2211",
     "locID": "LOC000065252952",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637943"
    }
   },
@@ -58700,7 +58683,7 @@
     "name": "92 LANG STREET PADSTOW 2211",
     "locID": "LOC000013945704",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637944"
    }
   },
@@ -58768,7 +58751,7 @@
     "name": "1 LEADER STREET PADSTOW 2211",
     "locID": "LOC000065311937",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637948"
    }
   },
@@ -58887,7 +58870,7 @@
     "name": "16 LEADER STREET PADSTOW 2211",
     "locID": "LOC000089445528",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637956"
    }
   },
@@ -58921,7 +58904,7 @@
     "name": "18 LEADER STREET PADSTOW 2211",
     "locID": "LOC000031205300",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637958"
    }
   },
@@ -58938,7 +58921,7 @@
     "name": "19 LEADER STREET PADSTOW 2211",
     "locID": "LOC000096763881",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637959"
    }
   },
@@ -58955,7 +58938,7 @@
     "name": "2 LEADER STREET PADSTOW 2211",
     "locID": "LOC000063108056",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637960"
    }
   },
@@ -58972,7 +58955,7 @@
     "name": "20 LEADER STREET PADSTOW 2211",
     "locID": "LOC000037973320",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637961"
    }
   },
@@ -58989,7 +58972,7 @@
     "name": "21 LEADER STREET PADSTOW 2211",
     "locID": "LOC000092105397",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637962"
    }
   },
@@ -59023,7 +59006,7 @@
     "name": "23 LEADER STREET PADSTOW 2211",
     "locID": "LOC000097785019",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637964"
    }
   },
@@ -59125,7 +59108,7 @@
     "name": "3 LEADER STREET PADSTOW 2211",
     "locID": "LOC000049409560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637970"
    }
   },
@@ -59142,7 +59125,7 @@
     "name": "4 LEADER STREET PADSTOW 2211",
     "locID": "LOC000066452607",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705637971"
    }
   },
@@ -60842,7 +60825,7 @@
     "name": "1 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000085201684",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705638543"
    }
   },
@@ -60876,7 +60859,7 @@
     "name": "13 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000080521665",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638545"
    }
   },
@@ -60893,7 +60876,7 @@
     "name": "14 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000084594214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638546"
    }
   },
@@ -60910,7 +60893,7 @@
     "name": "15 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000021407480",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638547"
    }
   },
@@ -60927,7 +60910,7 @@
     "name": "16 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000109129763",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638548"
    }
   },
@@ -60944,7 +60927,7 @@
     "name": "2 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000076235120",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705638549"
    }
   },
@@ -60961,7 +60944,7 @@
     "name": "20 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000056053121",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638550"
    }
   },
@@ -60978,7 +60961,7 @@
     "name": "21 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000031338898",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638551"
    }
   },
@@ -60995,7 +60978,7 @@
     "name": "22 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000076745611",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638552"
    }
   },
@@ -61012,7 +60995,7 @@
     "name": "23 PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000098894464",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638553"
    }
   },
@@ -61726,7 +61709,7 @@
     "name": "26 WYATT AVENUE PADSTOW 2211",
     "locID": "LOC000008907763",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638603"
    }
   },
@@ -61743,7 +61726,7 @@
     "name": "27 WYATT AVENUE PADSTOW 2211",
     "locID": "LOC000042003634",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638604"
    }
   },
@@ -61760,7 +61743,7 @@
     "name": "28 WYATT AVENUE PADSTOW 2211",
     "locID": "LOC000072543378",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638605"
    }
   },
@@ -62100,7 +62083,7 @@
     "name": "2 WYUNA CRESCENT PADSTOW 2211",
     "locID": "LOC000071186168",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638625"
    }
   },
@@ -62117,7 +62100,7 @@
     "name": "4 WYUNA CRESCENT PADSTOW 2211",
     "locID": "LOC000011448290",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705638626"
    }
   },
@@ -64208,7 +64191,7 @@
     "name": "13 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000017982896",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641319"
    }
   },
@@ -64225,7 +64208,7 @@
     "name": "14 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000082832818",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641320"
    }
   },
@@ -64242,7 +64225,7 @@
     "name": "15 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000063919517",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641321"
    }
   },
@@ -64259,7 +64242,7 @@
     "name": "16 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000026347378",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641322"
    }
   },
@@ -64276,7 +64259,7 @@
     "name": "UNIT 1, 18 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000042901513",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705641323"
    }
   },
@@ -64293,7 +64276,7 @@
     "name": "UNIT 2, 18 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000042932630",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705641324"
    }
   },
@@ -64378,7 +64361,7 @@
     "name": "3 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000032981424",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641329"
    }
   },
@@ -64412,7 +64395,7 @@
     "name": "5 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000045306688",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641331"
    }
   },
@@ -64429,7 +64412,7 @@
     "name": "6 GLENDALE AVENUE PADSTOW 2211",
     "locID": "LOC000019289887",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641332"
    }
   },
@@ -64990,7 +64973,7 @@
     "name": "2 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000062219269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705641578"
    }
   },
@@ -65024,7 +65007,7 @@
     "name": "4 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000070477492",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641581"
    }
   },
@@ -65041,7 +65024,7 @@
     "name": "6 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000092957945",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641582"
    }
   },
@@ -65058,7 +65041,7 @@
     "name": "8 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000030400411",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641583"
    }
   },
@@ -65417,6 +65400,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705641604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.03045037,
+     -33.96219537
+    ]
+   },
+   "properties": {
+    "name": "4 HARVEY AVENUE PADSTOW 2211",
+    "locID": "LOC000193633166",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705641605"
    }
   },
   {
@@ -66741,7 +66741,7 @@
     "name": "13 GWANDALAN ROAD PADSTOW 2211",
     "locID": "LOC000071174257",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705648850"
    }
   },
@@ -66758,7 +66758,7 @@
     "name": "14 GWANDALAN ROAD PADSTOW 2211",
     "locID": "LOC000072378834",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705648851"
    }
   },
@@ -66775,7 +66775,7 @@
     "name": "15 GWANDALAN ROAD PADSTOW 2211",
     "locID": "LOC000013212949",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705648852"
    }
   },
@@ -66860,7 +66860,7 @@
     "name": "17 GWANDALAN ROAD PADSTOW 2211",
     "locID": "LOC000054009192",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705648857"
    }
   },
@@ -67795,7 +67795,7 @@
     "name": "9 GOYEN PLACE PADSTOW 2211",
     "locID": "LOC000078533510",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705692885"
    }
   },
@@ -67812,7 +67812,7 @@
     "name": "8 CENTAUR STREET PADSTOW 2211",
     "locID": "LOC000049308623",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706429456"
    }
   },
@@ -67829,7 +67829,7 @@
     "name": "UNIT 1, 7 CENTAUR STREET PADSTOW 2211",
     "locID": "LOC000101857914",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706429457"
    }
   },
@@ -67846,7 +67846,7 @@
     "name": "6 CENTAUR STREET PADSTOW 2211",
     "locID": "LOC000007316878",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706429458"
    }
   },
@@ -68032,8 +68032,8 @@
    "properties": {
     "name": "45 NAPOLI STREET PADSTOW 2211",
     "locID": "LOC000046319696",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706453099"
    }
   },
@@ -68322,7 +68322,7 @@
     "name": "10 CENTAUR STREET PADSTOW 2211",
     "locID": "LOC000084020372",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706456368"
    }
   },
@@ -68407,7 +68407,7 @@
     "name": "72 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000009713395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706462368"
    }
   },
@@ -68424,7 +68424,7 @@
     "name": "107 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000012297643",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706462369"
    }
   },
@@ -68441,7 +68441,7 @@
     "name": "105 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000099776942",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706462370"
    }
   },
@@ -68475,7 +68475,7 @@
     "name": "14 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000078680646",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706464975"
    }
   },
@@ -68492,7 +68492,7 @@
     "name": "10 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000102776010",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706464976"
    }
   },
@@ -68645,7 +68645,7 @@
     "name": "79 LANG STREET PADSTOW 2211",
     "locID": "LOC000060882561",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495444"
    }
   },
@@ -68730,7 +68730,7 @@
     "name": "8 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000033706103",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495488"
    }
   },
@@ -68747,7 +68747,7 @@
     "name": "7 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000006567669",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495489"
    }
   },
@@ -68764,7 +68764,7 @@
     "name": "6 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000062325948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495490"
    }
   },
@@ -68781,7 +68781,7 @@
     "name": "5 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000006397117",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495491"
    }
   },
@@ -68798,7 +68798,7 @@
     "name": "3 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000014064413",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495492"
    }
   },
@@ -68815,7 +68815,7 @@
     "name": "21 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000021413805",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495493"
    }
   },
@@ -68832,7 +68832,7 @@
     "name": "20 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000051747899",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495494"
    }
   },
@@ -68849,7 +68849,7 @@
     "name": "2 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000045601895",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495495"
    }
   },
@@ -68883,7 +68883,7 @@
     "name": "14 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000004034674",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495497"
    }
   },
@@ -68900,7 +68900,7 @@
     "name": "13 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000021489066",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495498"
    }
   },
@@ -68917,7 +68917,7 @@
     "name": "12 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000065426681",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495499"
    }
   },
@@ -68934,7 +68934,7 @@
     "name": "11 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000085327929",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495500"
    }
   },
@@ -68968,7 +68968,7 @@
     "name": "1 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000028043044",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495502"
    }
   },
@@ -69036,7 +69036,7 @@
     "name": "8 GOYEN PLACE PADSTOW 2211",
     "locID": "LOC000018877414",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706498875"
    }
   },
@@ -69053,7 +69053,7 @@
     "name": "7 GOYEN PLACE PADSTOW 2211",
     "locID": "LOC000099815197",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706498876"
    }
   },
@@ -69070,7 +69070,7 @@
     "name": "6 GOYEN PLACE PADSTOW 2211",
     "locID": "LOC000047182989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706498877"
    }
   },
@@ -69138,7 +69138,7 @@
     "name": "3 CARLENE AVENUE PADSTOW 2211",
     "locID": "LOC000048036920",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706503060"
    }
   },
@@ -69172,7 +69172,7 @@
     "name": "35 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000052764931",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706503062"
    }
   },
@@ -69189,7 +69189,7 @@
     "name": "34 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000031452055",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706503063"
    }
   },
@@ -69206,7 +69206,7 @@
     "name": "30 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000099959265",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706503064"
    }
   },
@@ -69223,7 +69223,7 @@
     "name": "18 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000013077122",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706503065"
    }
   },
@@ -69274,7 +69274,7 @@
     "name": "15 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000044180755",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706503068"
    }
   },
@@ -69325,7 +69325,7 @@
     "name": "4 WAINWRIGHT AVENUE PADSTOW 2211",
     "locID": "LOC000078584621",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706503071"
    }
   },
@@ -69342,7 +69342,7 @@
     "name": "9 PATTERSON CLOSE PADSTOW 2211",
     "locID": "LOC000012321901",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706505691"
    }
   },
@@ -69359,7 +69359,7 @@
     "name": "6 PATTERSON CLOSE PADSTOW 2211",
     "locID": "LOC000038095345",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706505692"
    }
   },
@@ -69376,7 +69376,7 @@
     "name": "5 PATTERSON CLOSE PADSTOW 2211",
     "locID": "LOC000102871801",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706505693"
    }
   },
@@ -69393,7 +69393,7 @@
     "name": "4 PATTERSON CLOSE PADSTOW 2211",
     "locID": "LOC000010913618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706505694"
    }
   },
@@ -69410,7 +69410,7 @@
     "name": "3 PATTERSON CLOSE PADSTOW 2211",
     "locID": "LOC000081469752",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706505695"
    }
   },
@@ -69461,7 +69461,7 @@
     "name": "11 PATTERSON CLOSE PADSTOW 2211",
     "locID": "LOC000058922808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706505698"
    }
   },
@@ -69478,7 +69478,7 @@
     "name": "10 PATTERSON CLOSE PADSTOW 2211",
     "locID": "LOC000022209344",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706505699"
    }
   },
@@ -69767,7 +69767,7 @@
     "name": "81 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000094285240",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW707587884"
    }
   },
@@ -70447,7 +70447,7 @@
     "name": "UNIT 2, 2 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000062219269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708280979"
    }
   },
@@ -70532,7 +70532,7 @@
     "name": "UNIT 1, 2 HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000062219269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708281989"
    }
   },
@@ -71892,7 +71892,7 @@
     "name": "2 REDGUM DRIVE PADSTOW 2211",
     "locID": "LOC000007241762",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW709869754"
    }
   },
@@ -71943,7 +71943,7 @@
     "name": "7 CENTAUR STREET PADSTOW 2211",
     "locID": "LOC000101801986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW709890127"
    }
   },
@@ -72504,7 +72504,7 @@
     "name": "105 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000034818446",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW709959044"
    }
   },
@@ -73014,7 +73014,7 @@
     "name": "UNIT 1, 68 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000033315150",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711456231"
    }
   },
@@ -73031,7 +73031,7 @@
     "name": "UNIT 2, 68 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000033315150",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711456232"
    }
   },
@@ -73626,7 +73626,7 @@
     "name": "29 HOWARD ROAD PADSTOW 2211",
     "locID": "LOC000022471532",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711461073"
    }
   },
@@ -74170,7 +74170,7 @@
     "name": "134A DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000026296432",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711464994"
    }
   },
@@ -77264,7 +77264,7 @@
     "name": "33 CAHORS ROAD PADSTOW 2211",
     "locID": "LOC000045286810",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711488444"
    }
   },
@@ -78267,7 +78267,7 @@
     "name": "4A NELLA STREET PADSTOW 2211",
     "locID": "LOC000096689177",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711489573"
    }
   },
@@ -78556,7 +78556,7 @@
     "name": "81A VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000094364166",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711491606"
    }
   },
@@ -78624,7 +78624,7 @@
     "name": "95B VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000012274821",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711492261"
    }
   },
@@ -78641,7 +78641,7 @@
     "name": "95A VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000012195674",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711492262"
    }
   },
@@ -78964,7 +78964,7 @@
     "name": "UNIT 2, 7 CENTAUR STREET PADSTOW 2211",
     "locID": "LOC000101801986",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711492781"
    }
   },
@@ -79848,7 +79848,7 @@
     "name": "31 CAHORS ROAD PADSTOW 2211",
     "locID": "LOC000032260174",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711496871"
    }
   },
@@ -80562,7 +80562,7 @@
     "name": "49 PADSTOW PARADE PADSTOW 2211",
     "locID": "LOC000098627381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711497647"
    }
   },
@@ -80766,7 +80766,7 @@
     "name": "2A HALL CRESCENT PADSTOW 2211",
     "locID": "LOC000059337070",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711497846"
    }
   },
@@ -82636,7 +82636,7 @@
     "name": "113A FAIRFORD ROAD PADSTOW 2211",
     "locID": "LOC000027177959",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711501251"
    }
   },
@@ -82704,7 +82704,7 @@
     "name": "69 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000025485454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711502538"
    }
   },
@@ -84353,7 +84353,7 @@
     "name": "10 MAPLELEAF DRIVE PADSTOW 2211",
     "locID": "LOC000074505637",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711508558"
    }
   },
@@ -84369,8 +84369,8 @@
    "properties": {
     "name": "15A URANUS ROAD PADSTOW 2211",
     "locID": "LOC000120520883",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW711508609"
    }
   },
@@ -84642,7 +84642,7 @@
     "name": "12 MAPLELEAF DRIVE PADSTOW 2211",
     "locID": "LOC000096094406",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711508798"
    }
   },
@@ -85679,7 +85679,7 @@
     "name": "UNIT 3, 69 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000025485454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713155285"
    }
   },
@@ -85832,7 +85832,7 @@
     "name": "3A MARS STREET PADSTOW 2211",
     "locID": "LOC000009738568",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715252956"
    }
   },
@@ -85849,7 +85849,7 @@
     "name": "3 MARS STREET PADSTOW 2211",
     "locID": "LOC000010037691",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715252957"
    }
   },
@@ -85866,7 +85866,7 @@
     "name": "1 MARS STREET PADSTOW 2211",
     "locID": "LOC000042782935",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715252958"
    }
   },
@@ -85883,7 +85883,7 @@
     "name": "5 MARS STREET PADSTOW 2211",
     "locID": "LOC000108332792",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715252967"
    }
   },
@@ -87311,7 +87311,7 @@
     "name": "17 CAHORS ROAD PADSTOW 2211",
     "locID": "LOC000096896891",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715595478"
    }
   },
@@ -87736,7 +87736,7 @@
     "name": "1A MARS STREET PADSTOW 2211",
     "locID": "LOC000042558643",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716223522"
    }
   },
@@ -88076,7 +88076,7 @@
     "name": "62A HOWARD ROAD PADSTOW 2211",
     "locID": "LOC000078508944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716442321"
    }
   },
@@ -88178,7 +88178,7 @@
     "name": "83 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000046466149",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716457017"
    }
   },
@@ -88280,7 +88280,7 @@
     "name": "4 CENTAUR STREET PADSTOW 2211",
     "locID": "LOC000062303148",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716520844"
    }
   },
@@ -88416,7 +88416,7 @@
     "name": "2 MARS STREET PADSTOW 2211",
     "locID": "LOC000009738568",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716551540"
    }
   },
@@ -88790,7 +88790,7 @@
     "name": "35A ARAB ROAD PADSTOW 2211",
     "locID": "LOC000042192083",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716625941"
    }
   },
@@ -89895,7 +89895,7 @@
     "name": "23 BERRIMA AVENUE PADSTOW 2211",
     "locID": "LOC000081094889",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716988512"
    }
   },
@@ -90303,7 +90303,7 @@
     "name": "6A NELLA STREET PADSTOW 2211",
     "locID": "LOC100071366783",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717105908"
    }
   },
@@ -90473,7 +90473,7 @@
     "name": "68 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000033315150",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717204970"
    }
   },
@@ -91476,7 +91476,7 @@
     "name": "37A SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000095503739",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717310636"
    }
   },
@@ -91561,7 +91561,7 @@
     "name": "UNIT 7, 91 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000166350334",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717335067"
    }
   },
@@ -91612,7 +91612,7 @@
     "name": "9B CAHORS ROAD PADSTOW 2211",
     "locID": "LOC000104227921",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717368073"
    }
   },
@@ -92666,7 +92666,7 @@
     "name": "8A NELLA STREET PADSTOW 2211",
     "locID": "LOC000006299366",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717640261"
    }
   },
@@ -92955,7 +92955,7 @@
     "name": "UNIT 1, 5 BRYANT STREET PADSTOW 2211",
     "locID": "LOC000029093154",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717693269"
    }
   },
@@ -93618,7 +93618,7 @@
     "name": "UNIT 1, 4 NELLA STREET PADSTOW 2211",
     "locID": "LOC000094111849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717711850"
    }
   },
@@ -94349,7 +94349,7 @@
     "name": "UNIT 1, 81 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000094285240",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717721534"
    }
   },
@@ -94383,7 +94383,7 @@
     "name": "UNIT 2, 81 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000094285240",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717721536"
    }
   },
@@ -94706,7 +94706,7 @@
     "name": "91 VIRGINIUS STREET PADSTOW 2211",
     "locID": "LOC000051417231",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717736994"
    }
   },
@@ -96253,7 +96253,7 @@
     "name": "UNIT 1, 55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000057793032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717816212"
    }
   },
@@ -96270,7 +96270,7 @@
     "name": "UNIT 2, 55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000057793032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717816214"
    }
   },
@@ -96287,7 +96287,7 @@
     "name": "UNIT 3, 55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC100061754620",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717816216"
    }
   },
@@ -96304,7 +96304,7 @@
     "name": "UNIT 4, 55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC100061754620",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717816218"
    }
   },
@@ -96321,7 +96321,7 @@
     "name": "UNIT 5, 55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000057793032",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717816220"
    }
   },
@@ -96338,7 +96338,7 @@
     "name": "UNIT 6, 55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC100061754620",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717816222"
    }
   },
@@ -96355,7 +96355,7 @@
     "name": "UNIT 7, 55 IBERIA STREET PADSTOW 2211",
     "locID": "LOC100061754620",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717816224"
    }
   },
@@ -96491,7 +96491,7 @@
     "name": "60 COURTNEY ROAD PADSTOW 2211",
     "locID": "LOC000025954874",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717872166"
    }
   },
@@ -96626,8 +96626,8 @@
    "properties": {
     "name": "2A WYATT AVENUE PADSTOW 2211",
     "locID": "LOC000103429569",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW717881514"
    }
   },
@@ -99874,7 +99874,7 @@
     "name": "4A PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000151430247",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718421131"
    }
   },
@@ -100588,7 +100588,7 @@
     "name": "2A PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000168256849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718508484"
    }
   },
@@ -100605,7 +100605,7 @@
     "name": "2B PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000168256353",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718508485"
    }
   },
@@ -100622,7 +100622,7 @@
     "name": "2C PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000168256376",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718508486"
    }
   },
@@ -100809,7 +100809,7 @@
     "name": "VILLA 5, 19 ALICE STREET PADSTOW 2211",
     "locID": "LOC000151431643",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718553933"
    }
   },
@@ -102135,7 +102135,7 @@
     "name": "6A RICHARDSON AVENUE PADSTOW 2211",
     "locID": "LOC000151431913",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718605678"
    }
   },
@@ -102645,7 +102645,7 @@
     "name": "98 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000192644843",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718684152"
    }
   },
@@ -102968,7 +102968,7 @@
     "name": "17A LEADER STREET PADSTOW 2211",
     "locID": "LOC000151424730",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718727716"
    }
   },
@@ -103087,7 +103087,7 @@
     "name": "2D PROSSER AVENUE PADSTOW 2211",
     "locID": "LOC000151433136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718749674"
    }
   },
@@ -104430,7 +104430,7 @@
     "name": "10A NELLA STREET PADSTOW 2211",
     "locID": "LOC000151426808",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718890226"
    }
   },
@@ -105246,7 +105246,7 @@
     "name": "29A SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000168257412",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719162014"
    }
   },
@@ -105365,7 +105365,7 @@
     "name": "127A DAVIES ROAD PADSTOW 2211",
     "locID": "LOC000168253482",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719190839"
    }
   },
@@ -106810,7 +106810,7 @@
     "name": "1A ADA STREET PADSTOW 2211",
     "locID": "LOC100071329431",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719470460"
    }
   },
@@ -106963,7 +106963,7 @@
     "name": "11A WINDSOR ROAD PADSTOW 2211",
     "locID": "LOC000176480887",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719576585"
    }
   },
@@ -107881,7 +107881,7 @@
     "name": "65A LANG STREET PADSTOW 2211",
     "locID": "LOC100072675105",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719660491"
    }
   },
@@ -108697,7 +108697,7 @@
     "name": "UNIT 1, 17 GWANDALAN ROAD PADSTOW 2211",
     "locID": "LOC000054009192",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719885666"
    }
   },
@@ -108833,7 +108833,7 @@
     "name": "UNIT 1, 14 GWANDALAN ROAD PADSTOW 2211",
     "locID": "LOC000072378834",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720006264"
    }
   },
@@ -109802,7 +109802,7 @@
     "name": "UNIT 1, 68 FARADAY ROAD PADSTOW 2211",
     "locID": "LOC100071350143",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720152198"
    }
   },
@@ -109870,7 +109870,7 @@
     "name": "18A WYATT AVENUE PADSTOW 2211",
     "locID": "LOC100071380007",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720158778"
    }
   },
@@ -110618,7 +110618,7 @@
     "name": "UNIT 1, 40 SPRINGFIELD ROAD PADSTOW 2211",
     "locID": "LOC000069597206",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720321506"
    }
   },
@@ -111332,7 +111332,7 @@
     "name": "70A CHAMBERLAIN ROAD PADSTOW 2211",
     "locID": "LOC000060775894",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720611482"
    }
   },
@@ -111910,7 +111910,7 @@
     "name": "UNIT 1, 35 ARAB ROAD PADSTOW 2211",
     "locID": "LOC000041901990",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720806198"
    }
   },
@@ -112589,8 +112589,8 @@
    "properties": {
     "name": "51A NAPOLI STREET PADSTOW 2211",
     "locID": "LOC000191241166",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721051817"
    }
   },
@@ -112674,8 +112674,8 @@
    "properties": {
     "name": "UNIT 1, 24 TRURO PARADE PADSTOW 2211",
     "locID": "LOC000007160825",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721121680"
    }
   },
@@ -112793,8 +112793,8 @@
    "properties": {
     "name": "UNIT 1, 47 IBERIA STREET PADSTOW 2211",
     "locID": "LOC000061295255",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721126614"
    }
   },
@@ -112990,23 +112990,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.02913245,
-     -33.94249442
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 6A GWANDALAN ROAD PADSTOW 2211",
-    "locID": "LOC000025939298",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW721172990"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.02992511,
      -33.96111886
     ]
@@ -113177,23 +113160,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.02913245,
-     -33.94249442
-    ]
-   },
-   "properties": {
-    "name": "6A GWANDALAN ROAD PADSTOW 2211",
-    "locID": "LOC000025939298",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW721178759"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.02860597,
      -33.94929064
     ]
@@ -113354,8 +113320,8 @@
    "properties": {
     "name": "6 NAPOLI STREET PADSTOW 2211",
     "locID": "LOC000191499084",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721241424"
    }
   },
