@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-04T18:10:32.997468",
+ "generated": "2023-09-25T00:45:36.933494",
  "suburb": "KINGSWOOD",
  "features": [
   {
@@ -50,7 +50,7 @@
     "name": "UNIT 1, 17 ALGIE CRESCENT KINGSWOOD 2747",
     "locID": "LOC000064793283",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716291077"
    }
   },
@@ -67,7 +67,7 @@
     "name": "UNIT 2, 17 ALGIE CRESCENT KINGSWOOD 2747",
     "locID": "LOC000064793283",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716291078"
    }
   },
@@ -84,7 +84,7 @@
     "name": "UNIT 3, 17 ALGIE CRESCENT KINGSWOOD 2747",
     "locID": "LOC000064483696",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716291079"
    }
   },
@@ -101,7 +101,7 @@
     "name": "UNIT 4, 17 ALGIE CRESCENT KINGSWOOD 2747",
     "locID": "LOC000064340868",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716291080"
    }
   },
@@ -1545,8 +1545,8 @@
    "properties": {
     "name": "40 ANTHONY CRESCENT KINGSWOOD 2747",
     "locID": "LOC000015908674",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716291845"
    }
   },
@@ -2157,8 +2157,8 @@
    "properties": {
     "name": "UNIT 1, 42 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000105149785",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716298492"
    }
   },
@@ -3857,8 +3857,8 @@
    "properties": {
     "name": "155 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000024762518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716298621"
    }
   },
@@ -4231,8 +4231,8 @@
    "properties": {
     "name": "34 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000068590918",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716298643"
    }
   },
@@ -4367,8 +4367,8 @@
    "properties": {
     "name": "42 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000105149785",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716298651"
    }
   },
@@ -4690,8 +4690,8 @@
    "properties": {
     "name": "66 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000053900864",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716298671"
    }
   },
@@ -5014,7 +5014,7 @@
     "name": "8 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000098753656",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716298690"
    }
   },
@@ -8855,8 +8855,8 @@
    "properties": {
     "name": "28 DERBY STREET KINGSWOOD 2747",
     "locID": "LOC000057745618",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716309261"
    }
   },
@@ -9570,7 +9570,7 @@
     "name": "19 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000052935529",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311203"
    }
   },
@@ -9587,7 +9587,7 @@
     "name": "23 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000013790410",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311204"
    }
   },
@@ -9604,7 +9604,7 @@
     "name": "25 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000027129078",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311205"
    }
   },
@@ -9621,7 +9621,7 @@
     "name": "27 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000086803388",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311206"
    }
   },
@@ -9723,7 +9723,7 @@
     "name": "10 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000009150612",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311222"
    }
   },
@@ -9740,7 +9740,7 @@
     "name": "11 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000059608935",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311223"
    }
   },
@@ -9757,7 +9757,7 @@
     "name": "12 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000051535962",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311224"
    }
   },
@@ -9774,7 +9774,7 @@
     "name": "13 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000040957067",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311225"
    }
   },
@@ -9791,7 +9791,7 @@
     "name": "14 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000055878026",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311226"
    }
   },
@@ -9808,7 +9808,7 @@
     "name": "16 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000013819782",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311227"
    }
   },
@@ -9842,7 +9842,7 @@
     "name": "20 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000024717092",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311229"
    }
   },
@@ -9859,7 +9859,7 @@
     "name": "22 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000048065773",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311230"
    }
   },
@@ -9978,7 +9978,7 @@
     "name": "UNIT 1, 11 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000008994900",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716311277"
    }
   },
@@ -9995,7 +9995,7 @@
     "name": "UNIT 1, 24 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000106158870",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716311278"
    }
   },
@@ -10029,7 +10029,7 @@
     "name": "UNIT 2, 24 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000105979670",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716311280"
    }
   },
@@ -10063,7 +10063,7 @@
     "name": "11 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000008994900",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716311282"
    }
   },
@@ -10097,7 +10097,7 @@
     "name": "14 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000074192472",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716311285"
    }
   },
@@ -10250,7 +10250,7 @@
     "name": "28 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000086203486",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716311294"
    }
   },
@@ -10335,7 +10335,7 @@
     "name": "40 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000057078044",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716311299"
    }
   },
@@ -10369,7 +10369,7 @@
     "name": "5 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000173829342",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716311301"
    }
   },
@@ -15095,7 +15095,7 @@
     "name": "UNIT 1, 11 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000056996354",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716315982"
    }
   },
@@ -15129,7 +15129,7 @@
     "name": "UNIT 1, 32-34 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000107422211",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716315985"
    }
   },
@@ -15316,7 +15316,7 @@
     "name": "UNIT 2, 11 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000056996354",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716315997"
    }
   },
@@ -15350,7 +15350,7 @@
     "name": "UNIT 2, 32-34 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000107488809",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316000"
    }
   },
@@ -15367,7 +15367,7 @@
     "name": "UNIT 3, 11 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000057477190",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316002"
    }
   },
@@ -15401,7 +15401,7 @@
     "name": "UNIT 3, 32-34 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000107437933",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316005"
    }
   },
@@ -15418,7 +15418,7 @@
     "name": "UNIT 4, 11 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000056989540",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316006"
    }
   },
@@ -15452,7 +15452,7 @@
     "name": "UNIT 4, 32-34 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000107459753",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316009"
    }
   },
@@ -15469,7 +15469,7 @@
     "name": "UNIT 5, 11 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000057266112",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316010"
    }
   },
@@ -15503,7 +15503,7 @@
     "name": "UNIT 5, 32-34 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000107328765",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316013"
    }
   },
@@ -15605,7 +15605,7 @@
     "name": "11 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000056996354",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316019"
    }
   },
@@ -15877,7 +15877,7 @@
     "name": "6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090196101",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316042"
    }
   },
@@ -15894,7 +15894,7 @@
     "name": "7 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000022126424",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716316043"
    }
   },
@@ -17730,7 +17730,7 @@
     "name": "UNIT 1, 45-47 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000010606594",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318144"
    }
   },
@@ -17747,7 +17747,7 @@
     "name": "UNIT 1, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040688372",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318145"
    }
   },
@@ -18019,7 +18019,7 @@
     "name": "UNIT 2, 45-47 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000010578774",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318164"
    }
   },
@@ -18036,7 +18036,7 @@
     "name": "UNIT 2, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040450157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318165"
    }
   },
@@ -18206,7 +18206,7 @@
     "name": "UNIT 3, 45-47 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000010578496",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318176"
    }
   },
@@ -18325,7 +18325,7 @@
     "name": "UNIT 4, 45-47 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000010446659",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318184"
    }
   },
@@ -18427,7 +18427,7 @@
     "name": "UNIT 5, 45-47 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000010462053",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318191"
    }
   },
@@ -18444,7 +18444,7 @@
     "name": "UNIT 5, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040450157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318192"
    }
   },
@@ -18529,7 +18529,7 @@
     "name": "UNIT 6, 45-47 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000010574255",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318198"
    }
   },
@@ -19243,7 +19243,7 @@
     "name": "35 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000104778240",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318255"
    }
   },
@@ -19396,7 +19396,7 @@
     "name": "45-47 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000010574255",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716318265"
    }
   },
@@ -21622,8 +21622,8 @@
    "properties": {
     "name": "3 HOGAN PLACE KINGSWOOD 2747",
     "locID": "LOC000096677451",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716321727"
    }
   },
@@ -24173,7 +24173,7 @@
     "name": "UNIT 1, 49A JONES STREET KINGSWOOD 2747",
     "locID": "LOC000110213130",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325061"
    }
   },
@@ -24190,7 +24190,7 @@
     "name": "UNIT 1, 70 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000067614356",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325062"
    }
   },
@@ -24224,7 +24224,7 @@
     "name": "UNIT 2, 49A JONES STREET KINGSWOOD 2747",
     "locID": "LOC000110161498",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325064"
    }
   },
@@ -24241,7 +24241,7 @@
     "name": "UNIT 2, 70 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000067923011",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325065"
    }
   },
@@ -24258,7 +24258,7 @@
     "name": "UNIT 3, 41 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000003960046",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325066"
    }
   },
@@ -24275,7 +24275,7 @@
     "name": "UNIT 4, 41 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000004130653",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325067"
    }
   },
@@ -24428,7 +24428,7 @@
     "name": "41 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000004130653",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325077"
    }
   },
@@ -24632,7 +24632,7 @@
     "name": "59 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000054470229",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325090"
    }
   },
@@ -24683,7 +24683,7 @@
     "name": "70 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000067923011",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716325093"
    }
   },
@@ -26400,7 +26400,7 @@
     "name": "3 KENARF CLOSE KINGSWOOD 2747",
     "locID": "LOC000003817369",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716326327"
    }
   },
@@ -26926,8 +26926,8 @@
    "properties": {
     "name": "5 KINGSCOTE PLACE KINGSWOOD 2747",
     "locID": "LOC000008997213",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716327350"
    }
   },
@@ -28729,7 +28729,7 @@
     "name": "UNIT 1, 33 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000094758158",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716334329"
    }
   },
@@ -28746,7 +28746,7 @@
     "name": "UNIT 2, 33 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000095740501",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716334330"
    }
   },
@@ -28780,7 +28780,7 @@
     "name": "11 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000180103027",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716334332"
    }
   },
@@ -29035,7 +29035,7 @@
     "name": "33 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000095740501",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716334348"
    }
   },
@@ -29307,7 +29307,7 @@
     "name": "5 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000030051761",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716334364"
    }
   },
@@ -30004,7 +30004,7 @@
     "name": "UNIT 1, 18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000121975926",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338289"
    }
   },
@@ -30021,7 +30021,7 @@
     "name": "UNIT 2, 18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000087897448",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338290"
    }
   },
@@ -30038,7 +30038,7 @@
     "name": "UNIT 3, 18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000087988263",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338291"
    }
   },
@@ -30055,7 +30055,7 @@
     "name": "UNIT 4, 18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000088002340",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338292"
    }
   },
@@ -30072,7 +30072,7 @@
     "name": "UNIT 5, 18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000087821820",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338293"
    }
   },
@@ -30089,7 +30089,7 @@
     "name": "UNIT 6, 18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000089708294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338294"
    }
   },
@@ -30123,7 +30123,7 @@
     "name": "18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000121975926",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338296"
    }
   },
@@ -30157,7 +30157,7 @@
     "name": "3 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000087988263",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716338298"
    }
   },
@@ -36429,8 +36429,8 @@
    "properties": {
     "name": "194 PARKER STREET KINGSWOOD 2747",
     "locID": "LOC000081410067",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716345850"
    }
   },
@@ -36497,8 +36497,8 @@
    "properties": {
     "name": "202 PARKER STREET KINGSWOOD 2747",
     "locID": "LOC000085975067",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716345854"
    }
   },
@@ -36803,8 +36803,8 @@
    "properties": {
     "name": "238 PARKER STREET KINGSWOOD 2747",
     "locID": "LOC000121946436",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716345873"
    }
   },
@@ -41479,7 +41479,7 @@
     "name": "16 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000030400363",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716355103"
    }
   },
@@ -41513,7 +41513,7 @@
     "name": "20 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000001572660",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716355105"
    }
   },
@@ -41683,7 +41683,7 @@
     "name": "33 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000088068106",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716355115"
    }
   },
@@ -41802,7 +41802,7 @@
     "name": "47 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000093509608",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716355122"
    }
   },
@@ -43909,8 +43909,8 @@
    "properties": {
     "name": "5 STAFFORD STREET KINGSWOOD 2747",
     "locID": "LOC000027860611",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716357741"
    }
   },
@@ -45473,8 +45473,8 @@
    "properties": {
     "name": "33 TENT STREET KINGSWOOD 2747",
     "locID": "LOC000001372585",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716360226"
    }
   },
@@ -46139,23 +46139,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716374378"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.7292482,
-     -33.7568671
-    ]
-   },
-   "properties": {
-    "name": "118 VICTORIA STREET KINGSWOOD 2747",
-    "locID": "LOC000092277694",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW716374379"
    }
   },
   {
@@ -47905,7 +47888,7 @@
     "name": "2 YEELANNA PLACE KINGSWOOD 2747",
     "locID": "LOC000028867244",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716380125"
    }
   },
@@ -48364,7 +48347,7 @@
     "name": "35 ALGIE CRESCENT KINGSWOOD 2747",
     "locID": "LOC000018921760",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716380990"
    }
   },
@@ -48806,7 +48789,7 @@
     "name": "UNIT 1, 8 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000098916055",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716385961"
    }
   },
@@ -48993,7 +48976,7 @@
     "name": "UNIT 2, 8 BRINGELLY ROAD KINGSWOOD 2747",
     "locID": "LOC000098916055",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716385973"
    }
   },
@@ -51883,7 +51866,7 @@
     "name": "21 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000042413857",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716394612"
    }
   },
@@ -51917,7 +51900,7 @@
     "name": "24 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000017311936",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716394614"
    }
   },
@@ -51934,7 +51917,7 @@
     "name": "26 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000099215417",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716394615"
    }
   },
@@ -51951,7 +51934,7 @@
     "name": "28 EDITH STREET KINGSWOOD 2747",
     "locID": "LOC000049304259",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716394616"
    }
   },
@@ -52036,7 +52019,7 @@
     "name": "18 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000009112399",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716394632"
    }
   },
@@ -52053,7 +52036,7 @@
     "name": "9 EDNA STREET KINGSWOOD 2747",
     "locID": "LOC000019597115",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716394633"
    }
   },
@@ -52070,7 +52053,7 @@
     "name": "UNIT 1, 5 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000173829342",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716394675"
    }
   },
@@ -52087,7 +52070,7 @@
     "name": "UNIT 2, 38 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000015433927",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716394677"
    }
   },
@@ -54025,7 +54008,7 @@
     "name": "UNIT 1, 35 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000103793139",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716399305"
    }
   },
@@ -54161,7 +54144,7 @@
     "name": "UNIT 2, 35 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000104778240",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716399323"
    }
   },
@@ -54433,7 +54416,7 @@
     "name": "53 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC100069110294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716399381"
    }
   },
@@ -55164,7 +55147,7 @@
     "name": "UNIT 1, 41 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000004130653",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403729"
    }
   },
@@ -55198,7 +55181,7 @@
     "name": "UNIT 1, 59 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000054838310",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403731"
    }
   },
@@ -55232,7 +55215,7 @@
     "name": "UNIT 2, 41 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000003954080",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403733"
    }
   },
@@ -55266,7 +55249,7 @@
     "name": "UNIT 2, 59 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000054470229",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403735"
    }
   },
@@ -55300,7 +55283,7 @@
     "name": "UNIT 3, 59 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000055105345",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403737"
    }
   },
@@ -55334,7 +55317,7 @@
     "name": "UNIT 4, 59 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000054815571",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403739"
    }
   },
@@ -55504,7 +55487,7 @@
     "name": "45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403749"
    }
   },
@@ -55521,7 +55504,7 @@
     "name": "51 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624774",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403750"
    }
   },
@@ -55725,7 +55708,7 @@
     "name": "67 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000046672723",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716403762"
    }
   },
@@ -56269,7 +56252,7 @@
     "name": "2 KENARF CLOSE KINGSWOOD 2747",
     "locID": "LOC000109889791",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716404385"
    }
   },
@@ -58751,7 +58734,7 @@
     "name": "26 PASKIN STREET KINGSWOOD 2747",
     "locID": "LOC000045816314",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716416779"
    }
   },
@@ -58768,7 +58751,7 @@
     "name": "26A PASKIN STREET KINGSWOOD 2747",
     "locID": "LOC000045814330",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716416780"
    }
   },
@@ -59192,8 +59175,8 @@
    "properties": {
     "name": "5 PIPER CLOSE KINGSWOOD 2747",
     "locID": "LOC000014011839",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716417720"
    }
   },
@@ -61386,7 +61369,7 @@
     "name": "UNIT 1, 43 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000105450824",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716421355"
    }
   },
@@ -61420,7 +61403,7 @@
     "name": "UNIT 2, 43 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000105290823",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716421357"
    }
   },
@@ -61658,7 +61641,7 @@
     "name": "46-54 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000061040024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716421372"
    }
   },
@@ -61675,7 +61658,7 @@
     "name": "49 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000039745642",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716421373"
    }
   },
@@ -61997,8 +61980,8 @@
    "properties": {
     "name": "42 SOMERSET STREET KINGSWOOD 2747",
     "locID": "LOC000033167674",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716422827"
    }
   },
@@ -66757,8 +66740,8 @@
    "properties": {
     "name": "23 DERBY STREET KINGSWOOD 2747",
     "locID": "LOC000003897869",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716437826"
    }
   },
@@ -66809,7 +66792,7 @@
     "name": "UNIT 1, 14 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000074192472",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716438440"
    }
   },
@@ -66826,7 +66809,7 @@
     "name": "UNIT 2, 14 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000074819294",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716438441"
    }
   },
@@ -66860,7 +66843,7 @@
     "name": "24 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000105979670",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716438443"
    }
   },
@@ -67047,7 +67030,7 @@
     "name": "UNIT 12, 14-18 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000083842635",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716440260"
    }
   },
@@ -69154,8 +69137,8 @@
    "properties": {
     "name": "UNIT 1, 1 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000053914484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716446205"
    }
   },
@@ -69171,8 +69154,8 @@
    "properties": {
     "name": "UNIT 1, 2 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000053580809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716446206"
    }
   },
@@ -69188,8 +69171,8 @@
    "properties": {
     "name": "UNIT 2, 1 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000053914484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716446208"
    }
   },
@@ -69205,8 +69188,8 @@
    "properties": {
     "name": "UNIT 2, 2 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000053580809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716446209"
    }
   },
@@ -69239,8 +69222,8 @@
    "properties": {
     "name": "2 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000053580809",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716446217"
    }
   },
@@ -71926,7 +71909,7 @@
     "name": "43 SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000105450824",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716449919"
    }
   },
@@ -72453,7 +72436,7 @@
     "name": "UNIT 1, 40 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000057208621",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716454439"
    }
   },
@@ -72470,7 +72453,7 @@
     "name": "UNIT 2, 40 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000057078044",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716454440"
    }
   },
@@ -72504,7 +72487,7 @@
     "name": "38 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000015433927",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716454442"
    }
   },
@@ -73252,7 +73235,7 @@
     "name": "UNIT 1, 35 ALGIE CRESCENT KINGSWOOD 2747",
     "locID": "LOC000018921760",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716465370"
    }
   },
@@ -73269,7 +73252,7 @@
     "name": "UNIT 2, 35 ALGIE CRESCENT KINGSWOOD 2747",
     "locID": "LOC000018875000",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716465371"
    }
   },
@@ -73286,7 +73269,7 @@
     "name": "UNIT 1, 38 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000015531791",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716467772"
    }
   },
@@ -73388,7 +73371,7 @@
     "name": "UNIT 2, 7 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000022414864",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716566517"
    }
   },
@@ -78029,7 +78012,7 @@
     "name": "UNIT 10, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090196101",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894100"
    }
   },
@@ -78046,7 +78029,7 @@
     "name": "UNIT 1, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090029141",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894101"
    }
   },
@@ -78063,7 +78046,7 @@
     "name": "UNIT 2, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090196101",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894102"
    }
   },
@@ -78080,7 +78063,7 @@
     "name": "UNIT 3, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090334829",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894103"
    }
   },
@@ -78097,7 +78080,7 @@
     "name": "UNIT 4, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000089998272",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894104"
    }
   },
@@ -78114,7 +78097,7 @@
     "name": "UNIT 5, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090193770",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894105"
    }
   },
@@ -78131,7 +78114,7 @@
     "name": "UNIT 6, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090196101",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894106"
    }
   },
@@ -78148,7 +78131,7 @@
     "name": "UNIT 7, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090443332",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894107"
    }
   },
@@ -78165,7 +78148,7 @@
     "name": "UNIT 8, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090196101",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894108"
    }
   },
@@ -78182,7 +78165,7 @@
     "name": "UNIT 9, 6-8 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000090337457",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894109"
    }
   },
@@ -78335,7 +78318,7 @@
     "name": "UNIT 3, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040450157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894921"
    }
   },
@@ -78386,7 +78369,7 @@
     "name": "UNIT 4, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040227013",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894924"
    }
   },
@@ -78420,7 +78403,7 @@
     "name": "UNIT 6, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040320110",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894926"
    }
   },
@@ -78437,7 +78420,7 @@
     "name": "UNIT 7, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040450157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894927"
    }
   },
@@ -78454,7 +78437,7 @@
     "name": "UNIT 8, 49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040450157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894928"
    }
   },
@@ -78471,7 +78454,7 @@
     "name": "49-51 GREAT WESTERN HIGHWAY KINGSWOOD 2747",
     "locID": "LOC000040450157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716894929"
    }
   },
@@ -78811,7 +78794,7 @@
     "name": "UNIT 1, 67 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000046025896",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716896406"
    }
   },
@@ -78828,7 +78811,7 @@
     "name": "UNIT 2, 67 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000046218587",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716896407"
    }
   },
@@ -78845,7 +78828,7 @@
     "name": "UNIT 3, 67 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000046044225",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716896408"
    }
   },
@@ -78862,7 +78845,7 @@
     "name": "UNIT 4, 67 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000046452028",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716896409"
    }
   },
@@ -78879,7 +78862,7 @@
     "name": "UNIT 5, 59 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000054527258",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716896410"
    }
   },
@@ -78896,7 +78879,7 @@
     "name": "UNIT 5, 67 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000046672723",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716896411"
    }
   },
@@ -79712,7 +79695,7 @@
     "name": "22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108479225",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717064910"
    }
   },
@@ -79763,7 +79746,7 @@
     "name": "UNIT 10, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108073401",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127931"
    }
   },
@@ -79780,7 +79763,7 @@
     "name": "UNIT 11, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108074819",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127932"
    }
   },
@@ -79797,7 +79780,7 @@
     "name": "UNIT 1, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108479225",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127933"
    }
   },
@@ -79814,7 +79797,7 @@
     "name": "UNIT 2, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108479225",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127934"
    }
   },
@@ -79831,7 +79814,7 @@
     "name": "UNIT 3, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108391851",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127935"
    }
   },
@@ -79848,7 +79831,7 @@
     "name": "UNIT 4, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108410852",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127936"
    }
   },
@@ -79865,7 +79848,7 @@
     "name": "UNIT 5, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108620910",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127937"
    }
   },
@@ -79882,7 +79865,7 @@
     "name": "UNIT 6, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108416925",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127938"
    }
   },
@@ -79899,7 +79882,7 @@
     "name": "UNIT 7, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108295579",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127939"
    }
   },
@@ -79916,7 +79899,7 @@
     "name": "UNIT 8, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108474908",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127940"
    }
   },
@@ -79933,7 +79916,7 @@
     "name": "UNIT 9, 22-24 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000108387182",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717127941"
    }
   },
@@ -80443,7 +80426,7 @@
     "name": "UNIT 1, 28 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000086198816",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717284058"
    }
   },
@@ -80528,7 +80511,7 @@
     "name": "UNIT 2, 28 EDWARD STREET KINGSWOOD 2747",
     "locID": "LOC000086203486",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717297607"
    }
   },
@@ -80578,8 +80561,8 @@
    "properties": {
     "name": "18C FIRST STREET KINGSWOOD 2747",
     "locID": "LOC000093890434",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717298274"
    }
   },
@@ -80970,7 +80953,7 @@
     "name": "49A SECOND AVENUE KINGSWOOD 2747",
     "locID": "LOC000039075747",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717484002"
    }
   },
@@ -83724,7 +83707,7 @@
     "name": "2A YEELANNA PLACE KINGSWOOD 2747",
     "locID": "LOC000028803992",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717737477"
    }
   },
@@ -83809,7 +83792,7 @@
     "name": "32-34 GEORGE STREET KINGSWOOD 2747",
     "locID": "LOC000107488809",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717744196"
    }
   },
@@ -83894,7 +83877,7 @@
     "name": "49A JONES STREET KINGSWOOD 2747",
     "locID": "LOC000110213130",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717745704"
    }
   },
@@ -84523,7 +84506,7 @@
     "name": "UNIT 3, 2 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000087988263",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717876677"
    }
   },
@@ -84557,7 +84540,7 @@
     "name": "UNIT 7, 18 MORLEY AVENUE KINGSWOOD 2747",
     "locID": "LOC000121975926",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717876679"
    }
   },
@@ -90201,7 +90184,7 @@
     "name": "UNIT 1, 51 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624774",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718438828"
    }
   },
@@ -90218,7 +90201,7 @@
     "name": "UNIT 2, 51 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624774",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718438829"
    }
   },
@@ -90235,7 +90218,7 @@
     "name": "UNIT 3, 51 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624788",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718438830"
    }
   },
@@ -90252,7 +90235,7 @@
     "name": "UNIT 4, 51 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624790",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718438831"
    }
   },
@@ -90745,7 +90728,7 @@
     "name": "UNIT 5, 51 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624774",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718531543"
    }
   },
@@ -90762,7 +90745,7 @@
     "name": "UNIT 6, 51 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624774",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718531544"
    }
   },
@@ -91000,7 +90983,7 @@
     "name": "UNIT 1, 45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718584639"
    }
   },
@@ -91017,7 +91000,7 @@
     "name": "UNIT 2, 45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718584642"
    }
   },
@@ -91034,7 +91017,7 @@
     "name": "UNIT 3, 45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624514",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718584644"
    }
   },
@@ -91051,7 +91034,7 @@
     "name": "UNIT 4, 45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718584646"
    }
   },
@@ -91068,7 +91051,7 @@
     "name": "UNIT 5, 45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624533",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718584648"
    }
   },
@@ -91085,7 +91068,7 @@
     "name": "UNIT 6, 45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624546",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718584650"
    }
   },
@@ -91102,7 +91085,7 @@
     "name": "UNIT 7, 45 JONES STREET KINGSWOOD 2747",
     "locID": "LOC000166624551",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718584652"
    }
   },
@@ -93226,8 +93209,8 @@
    "properties": {
     "name": "5A OAG CRESCENT KINGSWOOD 2747",
     "locID": "LOC100078890601",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718866048"
    }
   },
@@ -94178,8 +94161,8 @@
    "properties": {
     "name": "15A PIPER CLOSE KINGSWOOD 2747",
     "locID": "LOC100078890590",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718905996"
    }
   },
@@ -94298,7 +94281,7 @@
     "name": "27B ANTHONY CRESCENT KINGSWOOD 2747",
     "locID": "LOC000180859547",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718962042"
    }
   },
@@ -95165,7 +95148,7 @@
     "name": "UNIT 5, 9 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000166625575",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719260510"
    }
   },
@@ -101897,7 +101880,7 @@
     "name": "UNIT 2, 1 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000094758158",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720013733"
    }
   },
@@ -102594,7 +102577,7 @@
     "name": "UNIT 1, 1 MANNING STREET KINGSWOOD 2747",
     "locID": "LOC000094758158",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720018775"
    }
   },
