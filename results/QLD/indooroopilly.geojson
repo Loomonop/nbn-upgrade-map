@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-05T15:28:26.146951",
+ "generated": "2023-09-25T21:50:41.805200",
  "suburb": "INDOOROOPILLY",
  "features": [
   {
@@ -1308,7 +1308,7 @@
     "name": "18 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000055535162",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155402786"
    }
   },
@@ -1325,7 +1325,7 @@
     "name": "2 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000009040785",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155402787"
    }
   },
@@ -1359,7 +1359,7 @@
     "name": "26 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000043451493",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155402790"
    }
   },
@@ -2294,7 +2294,7 @@
     "name": "5 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000073763734",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155403769"
    }
   },
@@ -2328,7 +2328,7 @@
     "name": "8 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000041728407",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155403771"
    }
   },
@@ -8550,7 +8550,7 @@
     "name": "11 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000078109479",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155410347"
    }
   },
@@ -8567,7 +8567,7 @@
     "name": "13 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000062608148",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155410348"
    }
   },
@@ -8584,7 +8584,7 @@
     "name": "17 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000011663397",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155410356"
    }
   },
@@ -10879,7 +10879,7 @@
     "name": "22 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000106913913",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156017956"
    }
   },
@@ -27845,7 +27845,7 @@
     "name": "31 YORK STREET INDOOROOPILLY 4068",
     "locID": "LOC000015709174",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156678754"
    }
   },
@@ -31636,7 +31636,7 @@
     "name": "40 WARD STREET INDOOROOPILLY 4068",
     "locID": "LOC000157919322",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156679750"
    }
   },
@@ -31976,7 +31976,7 @@
     "name": "111 WARD STREET INDOOROOPILLY 4068",
     "locID": "LOC000157919322",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156680096"
    }
   },
@@ -39057,6 +39057,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.97682489,
+     -27.49664776
+    ]
+   },
+   "properties": {
+    "name": "55 YORK STREET INDOOROOPILLY 4068",
+    "locID": "ChIJI1bve_hQkWsRTxMeKk_aAms",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156681250"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97949149,
      -27.5021219
     ]
@@ -42039,8 +42056,8 @@
    "properties": {
     "name": "67 GREENLAW STREET INDOOROOPILLY 4068",
     "locID": "LOC000052137182",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156682365"
    }
   },
@@ -51254,7 +51271,7 @@
     "name": "21 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000076793000",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156684569"
    }
   },
@@ -52990,6 +53007,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156684772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97681558,
+     -27.49673995
+    ]
+   },
+   "properties": {
+    "name": "57 YORK STREET INDOOROOPILLY 4068",
+    "locID": "ChIJJ-m5fvhQkWsRZVHKSmIVy1U",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156684773"
    }
   },
   {
@@ -78522,7 +78556,7 @@
     "name": "28 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000009040785",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158068244"
    }
   },
@@ -93464,8 +93498,8 @@
    "properties": {
     "name": "21 LOHE STREET INDOOROOPILLY 4068",
     "locID": "LOC000109886059",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD160687820"
    }
   },
@@ -101455,7 +101489,7 @@
     "name": "1 CADIZ STREET INDOOROOPILLY 4068",
     "locID": "LOC000062608148",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162128567"
    }
   },
