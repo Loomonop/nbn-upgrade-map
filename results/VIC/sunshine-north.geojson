@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-06T07:32:37.641895",
+ "generated": "2023-09-26T13:57:00.523502",
  "suburb": "SUNSHINE NORTH",
  "features": [
   {
@@ -24971,8 +24971,8 @@
    "properties": {
     "name": "4 BALFOUR AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000123124309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420021233"
    }
   },
@@ -50149,7 +50149,7 @@
     "name": "258 MCINTYRE ROAD SUNSHINE NORTH 3020",
     "locID": "LOC000038582221",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420813397"
    }
   },
@@ -53396,7 +53396,7 @@
     "name": "102 CROMER AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000036083825",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420830378"
    }
   },
@@ -55571,8 +55571,8 @@
    "properties": {
     "name": "26 ST ANDREWS DRIVE SUNSHINE NORTH 3020",
     "locID": "LOC000045586671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420981701"
    }
   },
@@ -64564,8 +64564,8 @@
    "properties": {
     "name": "52 CUMBERLAND STREET SUNSHINE NORTH 3020",
     "locID": "LOC000090961832",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421218860"
    }
   },
@@ -71551,8 +71551,8 @@
    "properties": {
     "name": "46 BALFOUR AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000123124309",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421419556"
    }
   },
@@ -82322,23 +82322,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.83886,
-     -37.770998
-    ]
-   },
-   "properties": {
-    "name": "25 DOWNING STREET SUNSHINE NORTH 3020",
-    "locID": "LOC000022583219",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421749302"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.83888,
      -37.766015
     ]
@@ -90796,7 +90779,7 @@
     "name": "UNIT 1, 102 CROMER AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000036083825",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423847087"
    }
   },
@@ -93600,8 +93583,8 @@
    "properties": {
     "name": "70 RIVERVALLEY BOULEVARD SUNSHINE NORTH 3020",
     "locID": "LOC000105936297",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424377135"
    }
   },
@@ -101064,7 +101047,7 @@
     "name": "UNIT 1, 10 ESSEX STREET SUNSHINE NORTH 3020",
     "locID": "LOC000154058455",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425631935"
    }
   },
@@ -101081,7 +101064,7 @@
     "name": "UNIT 2, 10 ESSEX STREET SUNSHINE NORTH 3020",
     "locID": "LOC000154058464",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425631936"
    }
   },
@@ -101098,7 +101081,7 @@
     "name": "UNIT 3, 10 ESSEX STREET SUNSHINE NORTH 3020",
     "locID": "LOC000154058472",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425631937"
    }
   },
@@ -104158,7 +104141,7 @@
     "name": "UNIT 4, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000180957773",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719507006"
    }
   },
@@ -104243,7 +104226,7 @@
     "name": "UNIT 1, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000180957741",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719508999"
    }
   },
@@ -104311,7 +104294,7 @@
     "name": "UNIT 6, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC100074602020",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719511156"
    }
   },
@@ -104379,7 +104362,7 @@
     "name": "UNIT 5, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000180957787",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719512731"
    }
   },
@@ -104413,7 +104396,7 @@
     "name": "UNIT 10, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC100074602065",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719516424"
    }
   },
@@ -104430,7 +104413,7 @@
     "name": "UNIT 9, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC100074602054",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719517358"
    }
   },
@@ -104447,7 +104430,7 @@
     "name": "43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000158648893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719518283"
    }
   },
@@ -104583,7 +104566,7 @@
     "name": "UNIT 3, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000180957760",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719525336"
    }
   },
@@ -104634,7 +104617,7 @@
     "name": "UNIT 2, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC000180957756",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719527175"
    }
   },
@@ -104668,7 +104651,7 @@
     "name": "UNIT 11, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC100074602077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719528321"
    }
   },
@@ -104685,7 +104668,7 @@
     "name": "UNIT 8, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC100074602049",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719529549"
    }
   },
@@ -104787,7 +104770,7 @@
     "name": "UNIT 7, 43 SPALDING AVENUE SUNSHINE NORTH 3020",
     "locID": "LOC100074602031",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719531032"
    }
   },
