@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T13:18:13.000833",
+ "generated": "2023-09-27T16:05:34.523213",
  "suburb": "TORQUAY",
  "features": [
   {
@@ -1784,7 +1784,7 @@
     "name": "25 CASWELL COURT TORQUAY 4655",
     "locID": "LOC000074774880",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155900730"
    }
   },
@@ -9094,7 +9094,7 @@
     "name": "9 JACARANDA DRIVE TORQUAY 4655",
     "locID": "LOC000053237433",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155909210"
    }
   },
@@ -10623,8 +10623,8 @@
    "properties": {
     "name": "90 HONITON STREET TORQUAY 4655",
     "locID": "LOC000030712203",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155914217"
    }
   },
@@ -23951,8 +23951,8 @@
    "properties": {
     "name": "38 TRURO STREET TORQUAY 4655",
     "locID": "LOC000084231257",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157230177"
    }
   },
@@ -26807,8 +26807,8 @@
    "properties": {
     "name": "17 PINEAPPLE AVENUE TORQUAY 4655",
     "locID": "LOC000103382156",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157244217"
    }
   },
@@ -32231,7 +32231,7 @@
     "name": "43 ANEMBO DRIVE TORQUAY 4655",
     "locID": "LOC000064936594",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158775305"
    }
   },
@@ -42328,8 +42328,8 @@
    "properties": {
     "name": "18 CONONDALE COURT TORQUAY 4655",
     "locID": "LOC000042785327",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161683968"
    }
   },
@@ -44582,6 +44582,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.86449237,
+     -25.2887629
+    ]
+   },
+   "properties": {
+    "name": "LOT 17 GORDON STREET TORQUAY 4655",
+    "locID": "EikxNyBHb3Jkb24gU3QsIFRvcnF1YXkgUUxEIDQ2NTUsIEF1c3RyYWxpYSIwEi4KFAoSCXGRdSBOgOxrEQlhP01RdgcWEBEqFAoSCcsgcSBOgOxrEQbBI5SNM72Q",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162350522"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.86602686,
      -25.28858881
     ]
@@ -44592,6 +44609,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162350523"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.86474134,
+     -25.28875361
+    ]
+   },
+   "properties": {
+    "name": "LOT 20 GORDON STREET TORQUAY 4655",
+    "locID": "EikyMCBHb3Jkb24gU3QsIFRvcnF1YXkgUUxEIDQ2NTUsIEF1c3RyYWxpYSIwEi4KFAoSCXGRdSBOgOxrEQlhP01RdgcWEBQqFAoSCcsgcSBOgOxrEQbBI5SNM72Q",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162350524"
    }
   },
   {
@@ -44626,6 +44660,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162350529"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.86373229,
+     -25.28879304
+    ]
+   },
+   "properties": {
+    "name": "LOT 8 GORDON STREET TORQUAY 4655",
+    "locID": "Eig4IEdvcmRvbiBTdCwgVG9ycXVheSBRTEQgNDY1NSwgQXVzdHJhbGlhIjASLgoUChIJcZF1IE6A7GsRCWE_TVF2BxYQCCoUChIJyyBxIE6A7GsRBsEjlI0zvZA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD162350531"
    }
   },
   {
@@ -57033,8 +57084,8 @@
    "properties": {
     "name": "68 HONITON STREET TORQUAY 4655",
     "locID": "LOC000190025219",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425698181"
    }
   },
@@ -58699,8 +58750,8 @@
    "properties": {
     "name": "UNIT 1, 439 ESPLANADE TORQUAY 4655",
     "locID": "LOC000189868914",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719706157"
    }
   },
@@ -72095,7 +72146,7 @@
    "properties": {
     "name": "128B COLYTON STREET TORQUAY 4655",
     "locID": "ChIJIT7___-A7GsRMmHA3NTdUh8",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720931823"
    }
@@ -72146,7 +72197,7 @@
    "properties": {
     "name": "126A COLYTON STREET TORQUAY 4655",
     "locID": "ChIJX7w0q6qB7GsRrDBVdC0C9rE",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720934656"
    }
