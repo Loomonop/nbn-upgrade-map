@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T11:41:42.263288",
+ "generated": "2023-09-27T14:21:54.976688",
  "suburb": "CABOOLTURE SOUTH",
  "features": [
   {
@@ -848,8 +848,8 @@
    "properties": {
     "name": "17-19 SUFFOLK STREET CABOOLTURE SOUTH 4510",
     "locID": "LOC000128263093",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155107308"
    }
   },
@@ -1070,7 +1070,7 @@
     "name": "21 KEVIN GROVE CABOOLTURE SOUTH 4510",
     "locID": "LOC000063261027",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155107326"
    }
   },
@@ -4538,7 +4538,7 @@
     "name": "28 COMPASS STREET CABOOLTURE SOUTH 4510",
     "locID": "LOC000009944381",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155109200"
    }
   },
@@ -14907,8 +14907,8 @@
    "properties": {
     "name": "9 TRANSOM COURT CABOOLTURE SOUTH 4510",
     "locID": "LOC000051207759",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155125021"
    }
   },
@@ -19259,8 +19259,8 @@
    "properties": {
     "name": "54 NORFOLK ESPLANADE CABOOLTURE SOUTH 4510",
     "locID": "LOC000043702812",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156374448"
    }
   },
@@ -19838,7 +19838,7 @@
     "name": "13 JOHN STREET CABOOLTURE SOUTH 4510",
     "locID": "LOC000006685423",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156374803"
    }
   },
@@ -19974,7 +19974,7 @@
     "name": "5 GOVERNOR KING DRIVE CABOOLTURE SOUTH 4510",
     "locID": "LOC000091462385",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156374866"
    }
   },
@@ -21113,7 +21113,7 @@
     "name": "11 INVESTIGATOR DRIVE CABOOLTURE SOUTH 4510",
     "locID": "LOC000085319427",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156376144"
    }
   },
@@ -21996,8 +21996,8 @@
    "properties": {
     "name": "43 TORRENS ROAD CABOOLTURE SOUTH 4510",
     "locID": "LOC000088384038",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156377369"
    }
   },
@@ -28626,8 +28626,8 @@
    "properties": {
     "name": "11 BAROSSA CRESCENT CABOOLTURE SOUTH 4510",
     "locID": "LOC000036675396",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160686911"
    }
   },
@@ -32359,6 +32359,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.94716422,
+     -27.09166355
+    ]
+   },
+   "properties": {
+    "name": "43-47 CHURCH STREET CABOOLTURE SOUTH 4510",
+    "locID": "ChIJ88xy_tzzk2sR9Tfvb8b-fEU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161430817"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.94688089,
      -27.09159761
     ]
@@ -35817,8 +35834,8 @@
    "properties": {
     "name": "6 CAROB COURT CABOOLTURE SOUTH 4510",
     "locID": "LOC000029095706",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162298418"
    }
   },
