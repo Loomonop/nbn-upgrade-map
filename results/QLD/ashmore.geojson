@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T09:46:10.780095",
+ "generated": "2023-09-27T12:35:57.145288",
  "suburb": "ASHMORE",
  "features": [
   {
@@ -6255,7 +6255,7 @@
     "name": "63-69 HINDE STREET ASHMORE 4214",
     "locID": "LOC000071777610",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD154964985"
    }
   },
@@ -24308,8 +24308,8 @@
    "properties": {
     "name": "15 RHIANNON DRIVE ASHMORE 4214",
     "locID": "LOC000105039048",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155637790"
    }
   },
@@ -38164,7 +38164,7 @@
     "name": "18 EXPO COURT ASHMORE 4214",
     "locID": "LOC000011618380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156222889"
    }
   },
@@ -70456,6 +70456,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.389907,
+     -27.985019
+    ]
+   },
+   "properties": {
+    "name": "UNIT 33, 74 WARDOO STREET ASHMORE 4214",
+    "locID": "LOC000160727968",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157475378"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.38844505,
      -27.98571996
     ]
@@ -77638,7 +77655,7 @@
     "name": "49 HINDE STREET ASHMORE 4214",
     "locID": "LOC000038567715",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD159631483"
    }
   },
@@ -115829,23 +115846,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.389663,
-     -27.984949
-    ]
-   },
-   "properties": {
-    "name": "UNIT 34, 74 WARDOO STREET ASHMORE 4214",
-    "locID": "LOC000136014990",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720928056"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.389343,
      -27.984413
     ]
@@ -115856,6 +115856,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720928608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.389373,
+     -27.984102
+    ]
+   },
+   "properties": {
+    "name": "UNIT 34, 74 WARDOO STREET ASHMORE 4214",
+    "locID": "LOC000160727999",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720928787"
    }
   },
   {
@@ -115890,6 +115907,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720929302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.39205255,
+     -27.98458924
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 74 WARDOO STREET ASHMORE 4214",
+    "locID": "LOC000135945875",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720929373"
    }
   },
   {
@@ -116264,23 +116298,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720932279"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.389907,
-     -27.985019
-    ]
-   },
-   "properties": {
-    "name": "UNIT 33, 74 WARDOO STREET ASHMORE 4214",
-    "locID": "LOC000160727968",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720932590"
    }
   },
   {
