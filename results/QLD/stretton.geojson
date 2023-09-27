@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T11:44:30.856966",
+ "generated": "2023-09-27T14:29:33.415783",
  "suburb": "STRETTON",
  "features": [
   {
@@ -185,7 +185,7 @@
    "properties": {
     "name": "18 LEXTON STREET STRETTON 4116",
     "locID": "LOC000189801430",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155777306"
    }
@@ -372,8 +372,8 @@
    "properties": {
     "name": "57 LEXTON STREET STRETTON 4116",
     "locID": "LOC000067928543",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155840281"
    }
   },
@@ -1154,8 +1154,8 @@
    "properties": {
     "name": "33 OXFORD PLACE STRETTON 4116",
     "locID": "LOC000072150195",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155840533"
    }
   },
@@ -12741,6 +12741,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.07698333,
+     -27.61344437
+    ]
+   },
+   "properties": {
+    "name": "22 PADDINGTON CRESCENT STRETTON 4116",
+    "locID": "LOC000108460236",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD157158524"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.06220045,
      -27.62537124
     ]
@@ -18103,8 +18120,8 @@
    "properties": {
     "name": "31 REGENCY PLACE STRETTON 4116",
     "locID": "LOC000103564191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158712691"
    }
   },
@@ -19107,7 +19124,7 @@
     "name": "8 WILLOWLEAF CLOSE STRETTON 4116",
     "locID": "LOC000022647328",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160754299"
    }
   },
@@ -21843,8 +21860,8 @@
    "properties": {
     "name": "82 BIRCHWOOD PLACE STRETTON 4116",
     "locID": "LOC000019986007",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162380970"
    }
   },
@@ -26723,7 +26740,7 @@
     "name": "19 MULBERRY PLACE STRETTON 4116",
     "locID": "LOC000138963135",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425332229"
    }
   },
@@ -28932,7 +28949,7 @@
    "properties": {
     "name": "524 COMPTON ROAD STRETTON 4116",
     "locID": "ChIJmVMAlFJEkWsRwm8zNB1-wvA",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720695605"
    }
