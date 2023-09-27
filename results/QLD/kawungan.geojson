@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-06T18:53:38.062972",
+ "generated": "2023-09-27T00:40:29.244121",
  "suburb": "KAWUNGAN",
  "features": [
   {
@@ -542,8 +542,8 @@
    "properties": {
     "name": "20 CEDAR CRESCENT KAWUNGAN 4655",
     "locID": "LOC000037599657",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155426259"
    }
   },
@@ -1239,8 +1239,8 @@
    "properties": {
     "name": "25 FRANGIPANNI AVENUE KAWUNGAN 4655",
     "locID": "LOC000097482983",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155430900"
    }
   },
@@ -7292,7 +7292,7 @@
     "name": "5 EUGENIA WAY KAWUNGAN 4655",
     "locID": "LOC000015839159",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155436870"
    }
   },
@@ -9059,8 +9059,8 @@
    "properties": {
     "name": "33 ROYAL DRIVE KAWUNGAN 4655",
     "locID": "LOC000020923904",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155437421"
    }
   },
@@ -14364,7 +14364,7 @@
     "name": "20 ROYAL DRIVE KAWUNGAN 4655",
     "locID": "LOC000006637374",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156072715"
    }
   },
@@ -17933,8 +17933,8 @@
    "properties": {
     "name": "7 MACKAY DRIVE KAWUNGAN 4655",
     "locID": "LOC000129000459",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156708218"
    }
   },
@@ -19072,8 +19072,8 @@
    "properties": {
     "name": "17 MAGNOLIA STREET KAWUNGAN 4655",
     "locID": "LOC000073676459",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156709922"
    }
   },
@@ -19651,7 +19651,7 @@
     "name": "4 GOROKA STREET KAWUNGAN 4655",
     "locID": "LOC000073632410",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156711003"
    }
   },
@@ -21928,8 +21928,8 @@
    "properties": {
     "name": "24 WAIGANI AVENUE KAWUNGAN 4655",
     "locID": "LOC000073382651",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156712804"
    }
   },
@@ -29085,8 +29085,8 @@
    "properties": {
     "name": "64 MACKAY DRIVE KAWUNGAN 4655",
     "locID": "LOC000129000459",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160954446"
    }
   },
@@ -32944,8 +32944,8 @@
    "properties": {
     "name": "74 BAUHINIA DRIVE KAWUNGAN 4655",
     "locID": "LOC000046914370",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD161946564"
    }
   },
@@ -38496,23 +38496,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.85124109,
-     -25.3128759
-    ]
-   },
-   "properties": {
-    "name": "37 PARAKEET CIRCUIT KAWUNGAN 4655",
-    "locID": "LOC100056419615",
-    "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719089330"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.85029157,
      -25.31701186
     ]
@@ -38795,23 +38778,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719140510"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.85171355,
-     -25.31314325
-    ]
-   },
-   "properties": {
-    "name": "LOT 505 PARAKEET CIRCUIT KAWUNGAN 4655",
-    "locID": "LOC100056419615",
-    "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD719140818"
    }
   },
   {
