@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T00:35:27.806971",
+ "generated": "2023-09-27T04:00:29.813986",
  "suburb": "IDALIA",
  "features": [
   {
@@ -304,8 +304,8 @@
    "properties": {
     "name": "11 WATERSIDE PLACE IDALIA 4811",
     "locID": "LOC000044873944",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155401665"
    }
   },
@@ -6169,8 +6169,8 @@
    "properties": {
     "name": "2 ADMIRALTY CLOSE IDALIA 4811",
     "locID": "LOC000070792538",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158038790"
    }
   },
@@ -6781,8 +6781,8 @@
    "properties": {
     "name": "74 SANCTUARY DRIVE IDALIA 4811",
     "locID": "LOC000081510432",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160459229"
    }
   },
@@ -7087,8 +7087,8 @@
    "properties": {
     "name": "104 RIVER BOULEVARD IDALIA 4811",
     "locID": "LOC000065000154",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160681121"
    }
   },
@@ -7172,8 +7172,8 @@
    "properties": {
     "name": "2 LAKEFIELD DRIVE IDALIA 4811",
     "locID": "LOC000055270979",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160681126"
    }
   },
@@ -12146,6 +12146,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.81408426,
+     -19.29475868
+    ]
+   },
+   "properties": {
+    "name": "57 NORTHSHORE CIRCUIT IDALIA 4811",
+    "locID": "LOC000002611106",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD162091471"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.8150316,
      -19.29626906
     ]
@@ -16471,8 +16488,8 @@
    "properties": {
     "name": "64 LAKELAND BOULEVARD IDALIA 4811",
     "locID": "LOC000082856893",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162542097"
    }
   },
@@ -18341,8 +18358,8 @@
    "properties": {
     "name": "32 RIVERWOOD DRIVE IDALIA 4811",
     "locID": "LOC000027589308",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162546530"
    }
   },
@@ -18427,7 +18444,7 @@
     "name": "5 RIVERWOOD DRIVE IDALIA 4811",
     "locID": "LOC000083524125",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162546535"
    }
   },
@@ -18477,8 +18494,8 @@
    "properties": {
     "name": "8 RIVERWOOD DRIVE IDALIA 4811",
     "locID": "LOC000053172767",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162546538"
    }
   },
@@ -18648,7 +18665,7 @@
     "name": "24 SOMERVILLE PLACE IDALIA 4811",
     "locID": "LOC000019233769",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162547955"
    }
   },
@@ -19447,7 +19464,7 @@
     "name": "34 WATERFRONT PARADE IDALIA 4811",
     "locID": "LOC000005880219",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162550041"
    }
   },
@@ -21146,8 +21163,8 @@
    "properties": {
     "name": "27 BROADWATER TERRACE IDALIA 4811",
     "locID": "LOC000004528444",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162934538"
    }
   },
@@ -26859,7 +26876,7 @@
     "name": "56 SPRINGSIDE TERRACE IDALIA 4811",
     "locID": "LOC000116118094",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163363076"
    }
   },
@@ -27504,8 +27521,8 @@
    "properties": {
     "name": "43 BROOKFIELD TERRACE IDALIA 4811",
     "locID": "LOC000129431749",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425036227"
    }
   },
@@ -28762,8 +28779,8 @@
    "properties": {
     "name": "4 ADMIRALTY CLOSE IDALIA 4811",
     "locID": "LOC000070792538",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425341997"
    }
   },
@@ -37144,7 +37161,7 @@
     "name": "12 SPRINGSIDE TERRACE IDALIA 4811",
     "locID": "LOC000116118094",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719958705"
    }
   },
@@ -37262,7 +37279,7 @@
    "properties": {
     "name": "31 D'ARCY DRIVE IDALIA 4811",
     "locID": "LOC000192096341",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720118184"
    }

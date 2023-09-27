@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T00:52:49.358962",
+ "generated": "2023-09-27T04:16:32.361808",
  "suburb": "GREENBANK",
  "features": [
   {
@@ -611,7 +611,7 @@
     "name": "61-67 ARGYLE ROAD GREENBANK 4124",
     "locID": "LOC000077535485",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155348921"
    }
   },
@@ -1274,7 +1274,7 @@
     "name": "36-38 JABIRU AVENUE GREENBANK 4124",
     "locID": "LOC000064939958",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155353710"
    }
   },
@@ -1681,8 +1681,8 @@
    "properties": {
     "name": "71-79 PLATYPUS DRIVE GREENBANK 4124",
     "locID": "LOC000059845734",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155355451"
    }
   },
@@ -2004,8 +2004,8 @@
    "properties": {
     "name": "14 KALLIOOTA STREET GREENBANK 4124",
     "locID": "LOC000094252796",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155355589"
    }
   },
@@ -2446,8 +2446,8 @@
    "properties": {
     "name": "10-12 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000059034572",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155357244"
    }
   },
@@ -2701,8 +2701,8 @@
    "properties": {
     "name": "23 WALLAROO COURT GREENBANK 4124",
     "locID": "LOC000017416672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155357886"
    }
   },
@@ -6085,7 +6085,7 @@
     "name": "202-204 ANDREW ROAD GREENBANK 4124",
     "locID": "LOC000073558670",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155366082"
    }
   },
@@ -8737,7 +8737,7 @@
     "name": "20-22 SILVEREYE CRESCENT GREENBANK 4124",
     "locID": "LOC000085478223",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155369845"
    }
   },
@@ -9314,8 +9314,8 @@
    "properties": {
     "name": "37-39 JABIRU AVENUE GREENBANK 4124",
     "locID": "LOC000002659217",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156060649"
    }
   },
@@ -10334,8 +10334,8 @@
    "properties": {
     "name": "68-72 KALLIOOTA STREET GREENBANK 4124",
     "locID": "LOC000098886940",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156607037"
    }
   },
@@ -12443,7 +12443,7 @@
     "name": "25-27 RINGTAIL COURT GREENBANK 4124",
     "locID": "LOC000028246190",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156613989"
    }
   },
@@ -15570,8 +15570,8 @@
    "properties": {
     "name": "36 RINGTAIL COURT GREENBANK 4124",
     "locID": "LOC000073249927",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156624895"
    }
   },
@@ -19192,7 +19192,7 @@
     "name": "22-26 LEE COURT GREENBANK 4124",
     "locID": "LOC000062130729",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156629471"
    }
   },
@@ -20586,7 +20586,7 @@
     "name": "11 CHIPALEE COURT GREENBANK 4124",
     "locID": "LOC000109064705",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156631180"
    }
   },
@@ -20741,6 +20741,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156632661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97615604,
+     -27.71368003
+    ]
+   },
+   "properties": {
+    "name": "11-13 NEW BEITH ROAD GREENBANK 4124",
+    "locID": "ChIJcUUHKtY3kWsR8WRBgHlxRz0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156632663"
    }
   },
   {
@@ -21285,6 +21302,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156632717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97620878,
+     -27.71330517
+    ]
+   },
+   "properties": {
+    "name": "5-9 NEW BEITH ROAD GREENBANK 4124",
+    "locID": "ChIJe4Tt0ylIkWsRZC2-N5hy5q4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156632718"
    }
   },
   {
@@ -27794,7 +27828,7 @@
     "name": "52-54 BELLBIRD DRIVE GREENBANK 4124",
     "locID": "LOC000034402614",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160943368"
    }
   },
@@ -30616,7 +30650,7 @@
     "name": "69-75 ARGYLE ROAD GREENBANK 4124",
     "locID": "LOC000033953758",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161743721"
    }
   },
@@ -31482,8 +31516,8 @@
    "properties": {
     "name": "35-39 BELLBIRD DRIVE GREENBANK 4124",
     "locID": "LOC000062801125",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161745104"
    }
   },
@@ -31806,7 +31840,7 @@
     "name": "8-10 BLUEBIRD COURT GREENBANK 4124",
     "locID": "LOC000089548247",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161745726"
    }
   },
@@ -33505,8 +33539,8 @@
    "properties": {
     "name": "28-30 JABIRU AVENUE GREENBANK 4124",
     "locID": "LOC000038158324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161757097"
    }
   },
@@ -35188,8 +35222,8 @@
    "properties": {
     "name": "12-16 PLATYPUS DRIVE GREENBANK 4124",
     "locID": "LOC000055463061",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161765192"
    }
   },
@@ -35393,7 +35427,7 @@
     "name": "68-72 PLATYPUS DRIVE GREENBANK 4124",
     "locID": "LOC000095002839",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161765209"
    }
   },
@@ -35613,8 +35647,8 @@
    "properties": {
     "name": "12-14 QUARTZ CLOSE GREENBANK 4124",
     "locID": "LOC000010296026",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161765673"
    }
   },
@@ -36328,7 +36362,7 @@
     "name": "6-8 SANDSTONE ROAD GREENBANK 4124",
     "locID": "LOC000052296936",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161767997"
    }
   },
@@ -36515,7 +36549,7 @@
     "name": "132-134 SILVEREYE CRESCENT GREENBANK 4124",
     "locID": "LOC000036557862",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161768736"
    }
   },
@@ -36634,7 +36668,7 @@
     "name": "16-18 SILVEREYE CRESCENT GREENBANK 4124",
     "locID": "LOC000066952525",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161768743"
    }
   },
@@ -37025,7 +37059,7 @@
     "name": "68-74 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000103892043",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161769180"
    }
   },
@@ -37585,8 +37619,8 @@
    "properties": {
     "name": "21-25 SUNBIRD COURT GREENBANK 4124",
     "locID": "LOC000062646018",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161770013"
    }
   },
@@ -37619,8 +37653,8 @@
    "properties": {
     "name": "8-10 SUNBIRD COURT GREENBANK 4124",
     "locID": "LOC000058668297",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161770015"
    }
   },
@@ -38792,8 +38826,8 @@
    "properties": {
     "name": "20-22 COCKATIEL COURT GREENBANK 4124",
     "locID": "LOC000039171992",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161949895"
    }
   },
@@ -38860,8 +38894,8 @@
    "properties": {
     "name": "2-10 COCKATIEL COURT GREENBANK 4124",
     "locID": "LOC000029780988",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161949899"
    }
   },
@@ -39965,8 +39999,8 @@
    "properties": {
     "name": "334-338 SPRING MOUNTAIN DRIVE GREENBANK 4124",
     "locID": "LOC000110593107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162446063"
    }
   },
@@ -39983,7 +40017,7 @@
     "name": "340-344 SPRING MOUNTAIN DRIVE GREENBANK 4124",
     "locID": "LOC000067064711",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162446064"
    }
   },
@@ -40781,8 +40815,8 @@
    "properties": {
     "name": "378-380 SPRING MOUNTAIN DRIVE GREENBANK 4124",
     "locID": "LOC000086492965",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162522746"
    }
   },
@@ -41241,7 +41275,7 @@
     "name": "1-13 BOWERBIRD CLOSE GREENBANK 4124",
     "locID": "LOC000098727925",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162670958"
    }
   },
@@ -41716,8 +41750,8 @@
    "properties": {
     "name": "117 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000058685403",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162678977"
    }
   },
@@ -41819,7 +41853,7 @@
     "name": "136-144 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000023217364",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162678983"
    }
   },
@@ -42022,8 +42056,8 @@
    "properties": {
     "name": "175-181 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000043045604",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162678995"
    }
   },
@@ -42057,7 +42091,7 @@
     "name": "180-182 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000060596268",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162678997"
    }
   },
@@ -42294,8 +42328,8 @@
    "properties": {
     "name": "91-95 SPINEBILL DRIVE GREENBANK 4124",
     "locID": "LOC000079622774",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162679011"
    }
   },
@@ -42482,7 +42516,7 @@
     "name": "11-13 PUB LANE GREENBANK 4124",
     "locID": "LOC000178836340",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162859723"
    }
   },
@@ -43178,8 +43212,8 @@
    "properties": {
     "name": "5 SONGLARK PLACE GREENBANK 4124",
     "locID": "LOC000002588868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162946679"
    }
   },
@@ -43654,8 +43688,8 @@
    "properties": {
     "name": "1-9 BLUEWING COURT GREENBANK 4124",
     "locID": "LOC000087566810",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163158935"
    }
   },
@@ -43672,7 +43706,7 @@
     "name": "1-5 BRADLEY COURT GREENBANK 4124",
     "locID": "LOC000010812633",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163159196"
    }
   },
@@ -44317,8 +44351,8 @@
    "properties": {
     "name": "342-346 BELLBIRD DRIVE GREENBANK 4124",
     "locID": "LOC000005916374",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163259267"
    }
   },
@@ -44402,8 +44436,8 @@
    "properties": {
     "name": "360-364 BELLBIRD DRIVE GREENBANK 4124",
     "locID": "LOC000013436324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163259272"
    }
   },
@@ -44640,8 +44674,8 @@
    "properties": {
     "name": "424-432 BELLBIRD DRIVE GREENBANK 4124",
     "locID": "LOC000103346652",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163259288"
    }
   },
@@ -44777,7 +44811,7 @@
     "name": "23-27 WEDGEBILL COURT GREENBANK 4124",
     "locID": "LOC000103967723",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163268795"
    }
   },
@@ -44793,8 +44827,8 @@
    "properties": {
     "name": "24-28 WEDGEBILL COURT GREENBANK 4124",
     "locID": "LOC000103797674",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163268796"
    }
   },
@@ -45695,7 +45729,7 @@
     "name": "1-3 SILVEREYE CRESCENT GREENBANK 4124",
     "locID": "LOC000036557862",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425594925"
    }
   },
@@ -68066,7 +68100,7 @@
    "properties": {
     "name": "9003 EVERLEIGH DRIVE GREENBANK 4124",
     "locID": "ChIJ-fNbMsA3kWsRWXHUw9Wjn0k",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720740474"
    }
@@ -83706,7 +83740,7 @@
    "properties": {
     "name": "108 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Ei0xMDggVGl2b2xpIEF2ZSwgR3JlZW5iYW5rIFFMRCA0MTI0LCBBdXN0cmFsaWEiMBIuChQKEgmdhF4OzDeRaxFWUvTuD2fSYhBsKhQKEgmt3lsOzDeRaxE2EvUsllPFRA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721228493"
    }
@@ -83910,7 +83944,7 @@
    "properties": {
     "name": "101 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Ei0xMDEgVGl2b2xpIEF2ZSwgR3JlZW5iYW5rIFFMRCA0MTI0LCBBdXN0cmFsaWEiMBIuChQKEgmdhF4OzDeRaxFWUvTuD2fSYhBlKhQKEgmt3lsOzDeRaxE2EvUsllPFRA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721229212"
    }
@@ -84573,7 +84607,7 @@
    "properties": {
     "name": "99 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw5OSBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEGMqFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721230913"
    }
@@ -84624,7 +84658,7 @@
    "properties": {
     "name": "91 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw5MSBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEFsqFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721231047"
    }
@@ -84862,7 +84896,7 @@
    "properties": {
     "name": "89 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw4OSBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEFkqFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721231531"
    }
@@ -84998,7 +85032,7 @@
    "properties": {
     "name": "97 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw5NyBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEGEqFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721231957"
    }
@@ -85797,7 +85831,7 @@
    "properties": {
     "name": "93 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw5MyBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEF0qFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721234301"
    }
@@ -85899,7 +85933,7 @@
    "properties": {
     "name": "96 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw5NiBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEGAqFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721234528"
    }
@@ -86205,7 +86239,7 @@
    "properties": {
     "name": "95 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw5NSBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEF8qFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721235214"
    }
@@ -86358,7 +86392,7 @@
    "properties": {
     "name": "94 TIVOLI AVENUE GREENBANK 4124",
     "locID": "Eiw5NCBUaXZvbGkgQXZlLCBHcmVlbmJhbmsgUUxEIDQxMjQsIEF1c3RyYWxpYSIwEi4KFAoSCZ2EXg7MN5FrEVZS9O4PZ9JiEF4qFAoSCa3eWw7MN5FrETYS9SyWU8VE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721235463"
    }

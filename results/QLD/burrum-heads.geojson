@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T00:38:03.551788",
+ "generated": "2023-09-27T04:03:17.552853",
  "suburb": "BURRUM HEADS",
  "features": [
   {
@@ -5489,8 +5489,8 @@
    "properties": {
     "name": "8 BURRUM HEADS ROAD BURRUM HEADS 4659",
     "locID": "LOC000128597855",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156362482"
    }
   },
@@ -7529,8 +7529,8 @@
    "properties": {
     "name": "133 BURRUM STREET BURRUM HEADS 4659",
     "locID": "LOC000040050718",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156373409"
    }
   },
@@ -9246,8 +9246,8 @@
    "properties": {
     "name": "163 BURRUM STREET BURRUM HEADS 4659",
     "locID": "LOC000008302132",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156375379"
    }
   },
@@ -13955,8 +13955,8 @@
    "properties": {
     "name": "4 LUCAS DRIVE BURRUM HEADS 4659",
     "locID": "LOC000073557773",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161377711"
    }
   },
@@ -14364,7 +14364,7 @@
     "name": "17 PILBARA WAY BURRUM HEADS 4659",
     "locID": "LOC000089879919",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161379623"
    }
   },
@@ -14805,8 +14805,8 @@
    "properties": {
     "name": "78 HOWARD STREET BURRUM HEADS 4659",
     "locID": "LOC000105048428",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161471800"
    }
   },
@@ -15673,7 +15673,7 @@
     "name": "109 RIVERVIEW DRIVE BURRUM HEADS 4659",
     "locID": "LOC000046769136",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161712225"
    }
   },
@@ -15757,8 +15757,8 @@
    "properties": {
     "name": "114 RIVERVIEW DRIVE BURRUM HEADS 4659",
     "locID": "LOC000084527205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161712230"
    }
   },
@@ -19262,6 +19262,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162341197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.63425462,
+     -25.21190733
+    ]
+   },
+   "properties": {
+    "name": "39 BEACH DRIVE BURRUM HEADS 4659",
+    "locID": "LOC000110433668",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD162341198"
    }
   },
   {
@@ -23867,7 +23884,7 @@
     "name": "19 LILLY PILLY DRIVE BURRUM HEADS 4659",
     "locID": "LOC000055451841",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162630277"
    }
   },
@@ -27626,6 +27643,40 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425051391"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.63439712,
+     -25.21178888
+    ]
+   },
+   "properties": {
+    "name": "HOUSE 1, 39 BEACH DRIVE BURRUM HEADS 4659",
+    "locID": "LOC000110433668",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD425142167"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.63423684,
+     -25.21177119
+    ]
+   },
+   "properties": {
+    "name": "HOUSE 2, 39 BEACH DRIVE BURRUM HEADS 4659",
+    "locID": "LOC000110433668",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD425142168"
    }
   },
   {
