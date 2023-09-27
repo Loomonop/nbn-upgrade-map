@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T06:35:37.575201",
+ "generated": "2023-09-27T09:32:44.537065",
  "suburb": "EVERTON PARK",
  "features": [
   {
@@ -11473,8 +11473,8 @@
    "properties": {
     "name": "48 STELLMACH STREET EVERTON PARK 4053",
     "locID": "LOC000053716824",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155300879"
    }
   },
@@ -27072,6 +27072,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.98952098,
+     -27.40898763
+    ]
+   },
+   "properties": {
+    "name": "26 NEWHAVEN STREET EVERTON PARK 4053",
+    "locID": "LOC000193701510",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155308536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.9890677,
      -27.40841122
     ]
@@ -30540,23 +30557,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     152.98365568,
-     -27.39164855
-    ]
-   },
-   "properties": {
-    "name": "35 TILSON STREET EVERTON PARK 4053",
-    "locID": "LOC000088340310",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155311046"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      152.99725708,
      -27.4015756
     ]
@@ -30805,23 +30805,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155311227"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.9897829,
-     -27.40983331
-    ]
-   },
-   "properties": {
-    "name": "17 ASHMORE STREET EVERTON PARK 4053",
-    "locID": "LOC000038144275",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155311229"
    }
   },
   {
@@ -45289,6 +45272,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156572864"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.98590247,
+     -27.40748153
+    ]
+   },
+   "properties": {
+    "name": "93 GORDON PARADE EVERTON PARK 4053",
+    "locID": "ChIJuSWsT6FXkWsRHy9wzcLZdOQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156572865"
    }
   },
   {
@@ -63187,7 +63187,7 @@
    "properties": {
     "name": "39 TILSON STREET EVERTON PARK 4053",
     "locID": "ChIJ-9ke67hXkWsRXpVoJl82iDQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160988316"
    }
@@ -79762,8 +79762,8 @@
    "properties": {
     "name": "UNIT 2, 23 FALLON STREET EVERTON PARK 4053",
     "locID": "LOC000159882132",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425381862"
    }
   },
