@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T17:48:45.674113",
+ "generated": "2023-09-27T20:22:35.574738",
  "suburb": "URRAWEEN",
  "features": [
   {
@@ -2191,8 +2191,8 @@
    "properties": {
     "name": "25 ROMECK CRESCENT URRAWEEN 4655",
     "locID": "LOC000075308153",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155923013"
    }
   },
@@ -6084,8 +6084,8 @@
    "properties": {
     "name": "5 QUEENSBURY GROVE URRAWEEN 4655",
     "locID": "LOC000004827975",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155929122"
    }
   },
@@ -9910,7 +9910,7 @@
     "name": "6-8 BAUNFIEND COURT URRAWEEN 4655",
     "locID": "LOC000097330419",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156063844"
    }
   },
@@ -12103,7 +12103,7 @@
     "name": "28 JULIE ANNE STREET URRAWEEN 4655",
     "locID": "LOC000041893767",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157224098"
    }
   },
@@ -14856,8 +14856,8 @@
    "properties": {
     "name": "15 SAINT JOSEPH DRIVE URRAWEEN 4655",
     "locID": "LOC000068360673",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157244998"
    }
   },
@@ -15027,7 +15027,7 @@
     "name": "39 JOHNSTON BOULEVARD URRAWEEN 4655",
     "locID": "LOC000032499075",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157245071"
    }
   },
@@ -17746,8 +17746,8 @@
    "properties": {
     "name": "21 FAIRWAY DRIVE URRAWEEN 4655",
     "locID": "LOC000084754714",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157283649"
    }
   },
@@ -18036,7 +18036,7 @@
     "name": "4 FAIRWAY DRIVE URRAWEEN 4655",
     "locID": "LOC000061615983",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157290691"
    }
   },
@@ -21275,6 +21275,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.82781808,
+     -25.30190464
+    ]
+   },
+   "properties": {
+    "name": "23 JULIE ANNE STREET URRAWEEN 4655",
+    "locID": "Ei4yMyBKdWxpZSBBbm5lIFN0LCBVcnJhd2VlbiBRTEQgNDY1NSwgQXVzdHJhbGlhIjASLgoUChIJWzljXdiB7GsRFOjIaauxyqsQFyoUChIJh0U1wdiB7GsR8hqaYH1zZaE",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD160301015"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.8349979,
      -25.30528236
     ]
@@ -23544,7 +23561,7 @@
     "name": "10 LA BORDE COURT URRAWEEN 4655",
     "locID": "LOC000025744037",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161660574"
    }
   },
@@ -25499,7 +25516,7 @@
     "name": "35 PEMBRIDGE CIRCUIT URRAWEEN 4655",
     "locID": "LOC000012500032",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161862443"
    }
   },
@@ -35188,8 +35205,8 @@
    "properties": {
     "name": "69 MAGELLAN CIRCUIT URRAWEEN 4655",
     "locID": "LOC000084088979",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162630540"
    }
   },
@@ -38911,8 +38928,8 @@
    "properties": {
     "name": "27 PEMBRIDGE CIRCUIT URRAWEEN 4655",
     "locID": "LOC000068622493",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162945117"
    }
   },
