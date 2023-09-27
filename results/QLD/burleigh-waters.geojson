@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T15:09:27.775679",
+ "generated": "2023-09-27T17:48:58.950650",
  "suburb": "BURLEIGH WATERS",
  "features": [
   {
@@ -474,8 +474,8 @@
    "properties": {
     "name": "7 MALDIVES WAY BURLEIGH WATERS 4220",
     "locID": "LOC000026653926",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155092741"
    }
   },
@@ -9280,8 +9280,8 @@
    "properties": {
     "name": "44 DIPPER DRIVE BURLEIGH WATERS 4220",
     "locID": "LOC000024832311",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155096446"
    }
   },
@@ -12476,8 +12476,8 @@
    "properties": {
     "name": "24 STINGRAY CRESCENT BURLEIGH WATERS 4220",
     "locID": "LOC000100576692",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155098204"
    }
   },
@@ -21963,7 +21963,7 @@
     "name": "21 MATTOCKS ROAD BURLEIGH WATERS 4220",
     "locID": "LOC000008423004",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155102982"
    }
   },
@@ -22234,8 +22234,8 @@
    "properties": {
     "name": "13 SEVILLE CIRCUIT BURLEIGH WATERS 4220",
     "locID": "LOC000079227236",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155103035"
    }
   },
@@ -22337,7 +22337,7 @@
     "name": "7 CROZET COURT BURLEIGH WATERS 4220",
     "locID": "LOC000019158538",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155103507"
    }
   },
@@ -42440,6 +42440,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.43116057,
+     -28.07616933
+    ]
+   },
+   "properties": {
+    "name": "63 HONEYEATER DRIVE BURLEIGH WATERS 4220",
+    "locID": "LOC000193678327",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155119406"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.43087107,
      -28.07634046
     ]
@@ -44062,8 +44079,8 @@
    "properties": {
     "name": "123 HARRIER DRIVE BURLEIGH WATERS 4220",
     "locID": "LOC000090084530",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155120478"
    }
   },
@@ -45474,7 +45491,7 @@
     "name": "22 BUSHTREE COURT BURLEIGH WATERS 4220",
     "locID": "LOC000030703031",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155121399"
    }
   },

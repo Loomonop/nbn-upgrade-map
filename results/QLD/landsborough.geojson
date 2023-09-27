@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T14:00:45.795353",
+ "generated": "2023-09-27T16:49:04.245433",
  "suburb": "LANDSBOROUGH",
  "features": [
   {
@@ -287,8 +287,8 @@
    "properties": {
     "name": "52 MYLA ROAD LANDSBOROUGH 4550",
     "locID": "LOC000049851398",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155474085"
    }
   },
@@ -6561,7 +6561,7 @@
     "name": "13 BELLA STREET LANDSBOROUGH 4550",
     "locID": "LOC000019935463",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155501745"
    }
   },
@@ -7173,7 +7173,7 @@
     "name": "8 TYTHERLEIGH AVENUE LANDSBOROUGH 4550",
     "locID": "LOC000091450761",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156752920"
    }
   },
@@ -13361,7 +13361,7 @@
     "name": "15 BELLA STREET LANDSBOROUGH 4550",
     "locID": "LOC000014357814",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156807971"
    }
   },
@@ -21350,8 +21350,8 @@
    "properties": {
     "name": "LOT 25 OLD LANDSBOROUGH ROAD LANDSBOROUGH 4550",
     "locID": "LOC000099322971",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD161264043"
    }
   },
@@ -24071,7 +24071,7 @@
     "name": "12 DAWN COURT LANDSBOROUGH 4550",
     "locID": "LOC000068946620",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162315686"
    }
   },
@@ -37163,6 +37163,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720929837"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.97205915,
+     -26.80438416
+    ]
+   },
+   "properties": {
+    "name": "33 LENCO CRESCENT LANDSBOROUGH 4550",
+    "locID": "LOC000193227873",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720930045"
    }
   },
   {
