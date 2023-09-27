@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T16:40:18.801662",
+ "generated": "2023-09-27T19:16:36.714838",
  "suburb": "BURLEIGH HEADS",
  "features": [
   {
@@ -1174,6 +1174,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD154950818"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43107017,
+     -28.10436532
+    ]
+   },
+   "properties": {
+    "name": "5 FLAGSTONE DRIVE BURLEIGH HEADS 4220",
+    "locID": "LOC000185616159",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD154950898"
    }
   },
   {
@@ -3552,7 +3569,7 @@
     "name": "18 KORTUM DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000078333010",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155092766"
    }
   },
@@ -80765,8 +80782,8 @@
    "properties": {
     "name": "UNIT 1, 45 LEDA DRIVE BURLEIGH HEADS 4220",
     "locID": "LOC000097335756",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160897504"
    }
   },

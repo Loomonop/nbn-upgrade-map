@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T17:26:44.447555",
+ "generated": "2023-09-27T19:54:43.341826",
  "suburb": "RURAL VIEW",
  "features": [
   {
@@ -1953,8 +1953,8 @@
    "properties": {
     "name": "35 CAHILL CRESCENT RURAL VIEW 4740",
     "locID": "LOC000032545365",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155768910"
    }
   },
@@ -3943,7 +3943,7 @@
     "name": "6 KEIM STREET RURAL VIEW 4740",
     "locID": "LOC000097048884",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155780846"
    }
   },
@@ -10249,8 +10249,8 @@
    "properties": {
     "name": "4 MURRAY CLOSE RURAL VIEW 4740",
     "locID": "LOC000016686005",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158606749"
    }
   },
@@ -13411,8 +13411,8 @@
    "properties": {
     "name": "21 MANNING STREET RURAL VIEW 4740",
     "locID": "LOC000080693430",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162046963"
    }
   },
@@ -15213,8 +15213,8 @@
    "properties": {
     "name": "46 SHARP STREET RURAL VIEW 4740",
     "locID": "LOC000098887001",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162522000"
    }
   },
@@ -27939,6 +27939,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     149.14880829,
+     -21.06148924
+    ]
+   },
+   "properties": {
+    "name": "6 MOREHEAD DRIVE RURAL VIEW 4740",
+    "locID": "LOC000135368671",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425211871"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      149.14840056,
      -21.06131977
     ]
@@ -36838,7 +36855,7 @@
     "name": "3 CANTER LANE RURAL VIEW 4740",
     "locID": "LOC000098726820",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719330506"
    }
   },
