@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T21:42:45.211421",
+ "generated": "2023-09-28T00:18:27.433553",
  "suburb": "WARANA",
  "features": [
   {
@@ -3415,8 +3415,8 @@
    "properties": {
     "name": "86 NICKLIN WAY WARANA 4575",
     "locID": "LOC000097458410",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155935677"
    }
   },
@@ -6237,8 +6237,8 @@
    "properties": {
     "name": "67 OCEANIC DRIVE WARANA 4575",
     "locID": "LOC000054826235",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155941322"
    }
   },
@@ -7736,23 +7736,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155947076"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.13101894,
-     -26.72011539
-    ]
-   },
-   "properties": {
-    "name": "18 PALKANA DRIVE WARANA 4575",
-    "locID": "LOC000075793285",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD155947078"
    }
   },
   {
@@ -11663,6 +11646,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156061549"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.13072034,
+     -26.72723089
+    ]
+   },
+   "properties": {
+    "name": "2 URINGA STREET WARANA 4575",
+    "locID": "LOC000193707703",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156088011"
    }
   },
   {
@@ -17814,8 +17814,8 @@
    "properties": {
     "name": "61 OCEANIC DRIVE WARANA 4575",
     "locID": "LOC000062720702",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157277011"
    }
   },
@@ -18358,8 +18358,8 @@
    "properties": {
     "name": "6 BULLANDO STREET WARANA 4575",
     "locID": "LOC000091194385",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157283842"
    }
   },
@@ -19167,23 +19167,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.13161554,
-     -26.72707162
-    ]
-   },
-   "properties": {
-    "name": "21 PARARI STREET WARANA 4575",
-    "locID": "LOC000098890696",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAQLD157287542"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.13015996,
      -26.72798554
     ]
@@ -19582,7 +19565,7 @@
    "properties": {
     "name": "14 COORABIN STREET WARANA 4575",
     "locID": "LOC000193480371",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157291301"
    }
@@ -35478,7 +35461,7 @@
     "name": "4 KOOLINDA STREET WARANA 4575",
     "locID": "LOC000001712084",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160735227"
    }
   },
@@ -43433,8 +43416,8 @@
    "properties": {
     "name": "21 BENALLA STREET WARANA 4575",
     "locID": "LOC000009148949",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720504145"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T20:53:15.627265",
+ "generated": "2023-09-27T23:33:37.019179",
  "suburb": "OXLEY",
  "features": [
   {
@@ -1443,8 +1443,8 @@
    "properties": {
     "name": "62 OAKMONT AVENUE OXLEY 4075",
     "locID": "LOC000015694480",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155665237"
    }
   },
@@ -11983,8 +11983,8 @@
    "properties": {
     "name": "45 GLENEAGLES CRESCENT OXLEY 4075",
     "locID": "LOC000058618652",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155686597"
    }
   },
@@ -17576,8 +17576,8 @@
    "properties": {
     "name": "219 ENGLEFIELD ROAD OXLEY 4075",
     "locID": "LOC000102391827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155691666"
    }
   },
@@ -30463,7 +30463,7 @@
     "name": "77 DOUGLAS STREET OXLEY 4075",
     "locID": "LOC000078422872",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156950439"
    }
   },
@@ -33175,6 +33175,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.97521804,
+     -27.55197854
+    ]
+   },
+   "properties": {
+    "name": "96 ELLEN STREET OXLEY 4075",
+    "locID": "LOC000193670087",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156957663"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.97308361,
      -27.55454979
     ]
@@ -34953,23 +34970,6 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156961325"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.9773667,
-     -27.56273738
-    ]
-   },
-   "properties": {
-    "name": "30 ENRIGHT STREET OXLEY 4075",
-    "locID": "LOC000043484591",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156961326"
    }
   },
   {
@@ -64139,8 +64139,8 @@
    "properties": {
     "name": "36 SANDI STREET OXLEY 4075",
     "locID": "LOC000103857919",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163267222"
    }
   },
