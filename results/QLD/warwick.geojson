@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T04:57:06.794242",
+ "generated": "2023-09-28T07:26:12.010767",
  "suburb": "WARWICK",
  "features": [
   {
@@ -1274,7 +1274,7 @@
     "name": "77 CLEARY STREET WARWICK 4370",
     "locID": "LOC000083148746",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155934523"
    }
   },
@@ -1291,7 +1291,7 @@
     "name": "79 CLEARY STREET WARWICK 4370",
     "locID": "LOC000067853600",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155934524"
    }
   },
@@ -1308,7 +1308,7 @@
     "name": "83 CLEARY STREET WARWICK 4370",
     "locID": "LOC000087820933",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155934526"
    }
   },
@@ -1325,7 +1325,7 @@
     "name": "85 CLEARY STREET WARWICK 4370",
     "locID": "LOC000106995533",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155934527"
    }
   },
@@ -1342,7 +1342,7 @@
     "name": "87 CLEARY STREET WARWICK 4370",
     "locID": "LOC000083848248",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155934528"
    }
   },
@@ -1359,7 +1359,7 @@
     "name": "89 CLEARY STREET WARWICK 4370",
     "locID": "LOC000097565138",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155934529"
    }
   },
@@ -1376,7 +1376,7 @@
     "name": "91 CLEARY STREET WARWICK 4370",
     "locID": "LOC000022592201",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155934530"
    }
   },
@@ -1852,7 +1852,7 @@
     "name": "9 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000081609873",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155938249"
    }
   },
@@ -7352,6 +7352,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.02706095,
+     -28.21811901
+    ]
+   },
+   "properties": {
+    "name": "63 DRAGON STREET WARWICK 4370",
+    "locID": "LOC000193661435",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155945632"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.02703292,
      -28.21829344
     ]
@@ -7853,7 +7870,7 @@
     "name": "12 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000036386076",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155945887"
    }
   },
@@ -7937,8 +7954,8 @@
    "properties": {
     "name": "25 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000067544731",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155945895"
    }
   },
@@ -11626,8 +11643,8 @@
    "properties": {
     "name": "47 WANTLEY STREET WARWICK 4370",
     "locID": "LOC000050206916",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155948400"
    }
   },
@@ -13548,7 +13565,7 @@
     "name": "84 FITZROY STREET WARWICK 4370",
     "locID": "LOC000046947754",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155949421"
    }
   },
@@ -13565,7 +13582,7 @@
     "name": "86 FITZROY STREET WARWICK 4370",
     "locID": "LOC000009131263",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155949422"
    }
   },
@@ -15248,7 +15265,7 @@
     "name": "199 WOOD STREET WARWICK 4370",
     "locID": "LOC000054679331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155950189"
    }
   },
@@ -15265,7 +15282,7 @@
     "name": "201 WOOD STREET WARWICK 4370",
     "locID": "LOC000085830630",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155950192"
    }
   },
@@ -15282,7 +15299,7 @@
     "name": "203 WOOD STREET WARWICK 4370",
     "locID": "LOC000127863409",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155950193"
    }
   },
@@ -15299,7 +15316,7 @@
     "name": "205 WOOD STREET WARWICK 4370",
     "locID": "LOC000036491829",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155950195"
    }
   },
@@ -15367,7 +15384,7 @@
     "name": "211 WOOD STREET WARWICK 4370",
     "locID": "LOC000080393415",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155950199"
    }
   },
@@ -19549,7 +19566,7 @@
     "name": "11 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000060476046",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155952625"
    }
   },
@@ -19566,7 +19583,7 @@
     "name": "12 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000093282269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155952626"
    }
   },
@@ -19600,7 +19617,7 @@
     "name": "22 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000077804395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155952631"
    }
   },
@@ -22312,6 +22329,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.04195739,
+     -28.22195879
+    ]
+   },
+   "properties": {
+    "name": "3 HOPE STREET WARWICK 4370",
+    "locID": "LOC100063703779",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD155954582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.04171243,
      -28.2219185
     ]
@@ -22319,8 +22353,8 @@
    "properties": {
     "name": "5 HOPE STREET WARWICK 4370",
     "locID": "LOC000102931518",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155954584"
    }
   },
@@ -26247,7 +26281,7 @@
     "name": "20 GORE STREET WARWICK 4370",
     "locID": "LOC000022692953",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956414"
    }
   },
@@ -26281,7 +26315,7 @@
     "name": "22 GORE STREET WARWICK 4370",
     "locID": "LOC000032504648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956416"
    }
   },
@@ -26315,7 +26349,7 @@
     "name": "24A GORE STREET WARWICK 4370",
     "locID": "LOC000021589758",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956418"
    }
   },
@@ -26332,7 +26366,7 @@
     "name": "24 GORE STREET WARWICK 4370",
     "locID": "LOC000021511092",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956419"
    }
   },
@@ -26400,7 +26434,7 @@
     "name": "28 GORE STREET WARWICK 4370",
     "locID": "LOC000096925782",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956433"
    }
   },
@@ -26451,7 +26485,7 @@
     "name": "30 GORE STREET WARWICK 4370",
     "locID": "LOC000043219489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956436"
    }
   },
@@ -26485,7 +26519,7 @@
     "name": "32 GORE STREET WARWICK 4370",
     "locID": "LOC000045092222",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956438"
    }
   },
@@ -26536,7 +26570,7 @@
     "name": "36 GORE STREET WARWICK 4370",
     "locID": "LOC000100352938",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956442"
    }
   },
@@ -26570,7 +26604,7 @@
     "name": "38 GORE STREET WARWICK 4370",
     "locID": "LOC000011547543",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155956444"
    }
   },
@@ -26943,8 +26977,8 @@
    "properties": {
     "name": "134 PERCY STREET WARWICK 4370",
     "locID": "LOC000084389923",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155956628"
    }
   },
@@ -27147,8 +27181,8 @@
    "properties": {
     "name": "149 PERCY STREET WARWICK 4370",
     "locID": "LOC000038282017",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155956640"
    }
   },
@@ -29086,7 +29120,7 @@
     "name": "32 WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000059798755",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155964264"
    }
   },
@@ -29103,7 +29137,7 @@
     "name": "34 WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000065751046",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155964265"
    }
   },
@@ -29272,8 +29306,8 @@
    "properties": {
     "name": "29 YARRAWONGA STREET WARWICK 4370",
     "locID": "LOC000089355541",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155964286"
    }
   },
@@ -30123,7 +30157,7 @@
     "name": "39 WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000054974648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155965352"
    }
   },
@@ -32622,7 +32656,7 @@
     "name": "81 CLEARY STREET WARWICK 4370",
     "locID": "LOC000024774999",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157231247"
    }
   },
@@ -35121,7 +35155,7 @@
     "name": "24 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000053000169",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157266076"
    }
   },
@@ -37892,7 +37926,7 @@
     "name": "10 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000078212822",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157267276"
    }
   },
@@ -37909,7 +37943,7 @@
     "name": "14 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000073919967",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157267280"
    }
   },
@@ -37926,7 +37960,7 @@
     "name": "16 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000064273154",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157267282"
    }
   },
@@ -37960,7 +37994,7 @@
     "name": "18 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000106743550",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157267284"
    }
   },
@@ -37994,7 +38028,7 @@
     "name": "20 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000096686163",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157267286"
    }
   },
@@ -46154,7 +46188,7 @@
     "name": "34 GORE STREET WARWICK 4370",
     "locID": "LOC000061680686",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157280582"
    }
   },
@@ -46953,7 +46987,7 @@
     "name": "36 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000066134428",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157281046"
    }
   },
@@ -46970,7 +47004,7 @@
     "name": "38 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000042829786",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157281047"
    }
   },
@@ -46987,7 +47021,7 @@
     "name": "40 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000099363948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157281048"
    }
   },
@@ -47004,7 +47038,7 @@
     "name": "42 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000033202139",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157281049"
    }
   },
@@ -47021,7 +47055,7 @@
     "name": "44 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000041335268",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157281050"
    }
   },
@@ -47089,7 +47123,7 @@
     "name": "8 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000052373424",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157281055"
    }
   },
@@ -48636,7 +48670,7 @@
     "name": "16 GORE STREET WARWICK 4370",
     "locID": "LOC000023622978",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157284191"
    }
   },
@@ -48670,7 +48704,7 @@
     "name": "18 GORE STREET WARWICK 4370",
     "locID": "LOC000005919462",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157284193"
    }
   },
@@ -59703,7 +59737,7 @@
     "name": "24 CONRAD STREET WARWICK 4370",
     "locID": "LOC000021511333",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157308331"
    }
   },
@@ -59941,7 +59975,7 @@
     "name": "11 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000053087067",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157308432"
    }
   },
@@ -63902,7 +63936,7 @@
     "name": "29 WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000040395510",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157309456"
    }
   },
@@ -63936,7 +63970,7 @@
     "name": "31 WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000018205955",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157309458"
    }
   },
@@ -63970,7 +64004,7 @@
     "name": "36 WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000082532784",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157309463"
    }
   },
@@ -64446,7 +64480,7 @@
     "name": "3 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000064218935",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157312104"
    }
   },
@@ -64463,7 +64497,7 @@
     "name": "5 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000044902378",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157312105"
    }
   },
@@ -64497,7 +64531,7 @@
     "name": "7 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000053888345",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157312115"
    }
   },
@@ -64514,7 +64548,7 @@
     "name": "9 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000068622438",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157312116"
    }
   },
@@ -64922,7 +64956,7 @@
     "name": "197 WOOD STREET WARWICK 4370",
     "locID": "LOC000043879720",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157312155"
    }
   },
@@ -65007,7 +65041,7 @@
     "name": "209 WOOD STREET WARWICK 4370",
     "locID": "LOC000081820023",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157312165"
    }
   },
@@ -68220,7 +68254,7 @@
     "name": "9 GORE STREET WARWICK 4370",
     "locID": "LOC000022692953",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157315762"
    }
   },
@@ -71263,7 +71297,7 @@
     "name": "1 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000077804395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157319165"
    }
   },
@@ -71280,7 +71314,7 @@
     "name": "10 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000099989613",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157319166"
    }
   },
@@ -71297,7 +71331,7 @@
     "name": "13 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000032487954",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157319169"
    }
   },
@@ -71314,7 +71348,7 @@
     "name": "14 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000040954279",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157319170"
    }
   },
@@ -72283,7 +72317,7 @@
     "name": "UNIT 1, 11 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000053220296",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158796201"
    }
   },
@@ -74119,7 +74153,7 @@
     "name": "73 CLEARY STREET WARWICK 4370",
     "locID": "LOC000093750526",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158815412"
    }
   },
@@ -74680,7 +74714,7 @@
     "name": "UNIT 2, 121 LOCKE STREET WARWICK 4370",
     "locID": "LOC000093391660",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158819146"
    }
   },
@@ -77638,7 +77672,7 @@
     "name": "UNIT 1, 12 O'BRIEN STREET WARWICK 4370",
     "locID": "LOC000016613728",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158829361"
    }
   },
@@ -77723,7 +77757,7 @@
     "name": "UNIT 2, 12 O'BRIEN STREET WARWICK 4370",
     "locID": "LOC000016613728",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158830184"
    }
   },
@@ -79678,7 +79712,7 @@
     "name": "4 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000087783114",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158836421"
    }
   },
@@ -79712,7 +79746,7 @@
     "name": "UNIT 1, 4 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000068970653",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158836425"
    }
   },
@@ -79763,7 +79797,7 @@
     "name": "UNIT 2, 4 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000068628954",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158836430"
    }
   },
@@ -88807,7 +88841,7 @@
     "name": "4 WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000040395510",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160721098"
    }
   },
@@ -89504,7 +89538,7 @@
     "name": "16 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000053277248",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160992524"
    }
   },
@@ -89843,7 +89877,7 @@
    "properties": {
     "name": "8 JUNABEE ROAD WARWICK 4370",
     "locID": "LOC000190990650",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160998466"
    }
@@ -90422,7 +90456,7 @@
     "name": "LOT 9999 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000044902378",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161054001"
    }
   },
@@ -92632,7 +92666,7 @@
     "name": "1-5 BATTERHAM STREET WARWICK 4370",
     "locID": "LOC000025658411",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161425884"
    }
   },
@@ -93329,7 +93363,7 @@
     "name": "71 CLEARY STREET WARWICK 4370",
     "locID": "LOC000003313608",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161431001"
    }
   },
@@ -93873,7 +93907,7 @@
     "name": "6 FURNESS CRESCENT WARWICK 4370",
     "locID": "LOC000035714646",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161436854"
    }
   },
@@ -97562,7 +97596,7 @@
     "name": "191-195 WOOD STREET WARWICK 4370",
     "locID": "LOC000042126028",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161464399"
    }
   },
@@ -97970,7 +98004,7 @@
     "name": "11 GORDON COURT WARWICK 4370",
     "locID": "LOC000046980988",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161657622"
    }
   },
@@ -98055,7 +98089,7 @@
     "name": "3 GORDON COURT WARWICK 4370",
     "locID": "LOC000017384885",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161657627"
    }
   },
@@ -98072,7 +98106,7 @@
     "name": "5 GORDON COURT WARWICK 4370",
     "locID": "LOC000021680600",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161657628"
    }
   },
@@ -98089,7 +98123,7 @@
     "name": "6 GORDON COURT WARWICK 4370",
     "locID": "LOC000038612544",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161657629"
    }
   },
@@ -98106,7 +98140,7 @@
     "name": "7 GORDON COURT WARWICK 4370",
     "locID": "LOC000079251404",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161657630"
    }
   },
@@ -98123,7 +98157,7 @@
     "name": "9 GORDON COURT WARWICK 4370",
     "locID": "LOC000055628250",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161657631"
    }
   },
@@ -98548,7 +98582,7 @@
     "name": "8 GORDON COURT WARWICK 4370",
     "locID": "LOC000033330400",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161728630"
    }
   },
@@ -107864,7 +107898,7 @@
     "name": "4 ASPINALL STREET WARWICK 4370",
     "locID": "LOC000068970653",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162461007"
    }
   },
@@ -109139,7 +109173,7 @@
     "name": "12 O'BRIEN STREET WARWICK 4370",
     "locID": "LOC000016613728",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162517157"
    }
   },
@@ -115531,7 +115565,7 @@
     "name": "2 ANDERS COURT WARWICK 4370",
     "locID": "LOC000112901930",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163322602"
    }
   },
@@ -115548,7 +115582,7 @@
     "name": "3 ANDERS COURT WARWICK 4370",
     "locID": "LOC000114584161",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163322603"
    }
   },
@@ -118948,7 +118982,7 @@
     "name": "16A GORE STREET WARWICK 4370",
     "locID": "LOC000154509105",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425122144"
    }
   },
@@ -126512,7 +126546,7 @@
    "properties": {
     "name": "11-13 JUNABEE ROAD WARWICK 4370",
     "locID": "LOC000190990684",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720311548"
    }
@@ -128944,7 +128978,7 @@
     "name": "37A WATTLE AVENUE WARWICK 4370",
     "locID": "LOC000012507872",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD721147911"
    }
   },
