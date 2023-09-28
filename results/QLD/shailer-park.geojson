@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T03:33:40.353263",
+ "generated": "2023-09-28T05:59:11.850184",
  "suburb": "SHAILER PARK",
  "features": [
   {
@@ -7260,6 +7260,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155800691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.17779157,
+     -27.65444118
+    ]
+   },
+   "properties": {
+    "name": "12 CAMENA STREET SHAILER PARK 4128",
+    "locID": "LOC000051920949",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155800693"
    }
   },
   {
@@ -32128,8 +32145,8 @@
    "properties": {
     "name": "4 MINILYA COURT SHAILER PARK 4128",
     "locID": "LOC000028136361",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157095544"
    }
   },
@@ -68254,7 +68271,7 @@
     "name": "146-170 BRYANTS ROAD SHAILER PARK 4128",
     "locID": "LOC000010863577",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161084402"
    }
   },
