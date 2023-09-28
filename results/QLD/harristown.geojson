@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T00:22:21.254999",
+ "generated": "2023-09-28T02:57:48.470261",
  "suburb": "HARRISTOWN",
  "features": [
   {
@@ -13887,8 +13887,8 @@
    "properties": {
     "name": "4 LILLIAN COURT HARRISTOWN 4350",
     "locID": "LOC000066163965",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155379436"
    }
   },
@@ -32002,6 +32002,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.93245324,
+     -27.5674291
+    ]
+   },
+   "properties": {
+    "name": "73 O'QUINN STREET HARRISTOWN 4350",
+    "locID": "ChIJu1oQu4dclmsRXJI_c6EY6M0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156636560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.93674378,
      -27.56851809
     ]
@@ -33114,8 +33131,8 @@
    "properties": {
     "name": "21 BEH STREET HARRISTOWN 4350",
     "locID": "LOC000038318828",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156638085"
    }
   },
@@ -33131,8 +33148,8 @@
    "properties": {
     "name": "23 BEH STREET HARRISTOWN 4350",
     "locID": "LOC000068477849",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156638086"
    }
   },
@@ -34577,7 +34594,7 @@
     "name": "9 ZIMMERLE STREET HARRISTOWN 4350",
     "locID": "LOC000093772085",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156638565"
    }
   },
@@ -34593,8 +34610,8 @@
    "properties": {
     "name": "3 BEH STREET HARRISTOWN 4350",
     "locID": "LOC000025714438",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156639153"
    }
   },
@@ -41886,8 +41903,8 @@
    "properties": {
     "name": "321 WEST STREET HARRISTOWN 4350",
     "locID": "LOC000021526747",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157215972"
    }
   },
@@ -80955,23 +80972,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425864954"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.93595006,
-     -27.57715226
-    ]
-   },
-   "properties": {
-    "name": "10B WARWICK STREET HARRISTOWN 4350",
-    "locID": "LOC000153172556",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425867390"
    }
   },
   {
