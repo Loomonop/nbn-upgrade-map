@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T23:24:41.843254",
+ "generated": "2023-09-28T02:06:38.678498",
  "suburb": "OXENFORD",
  "features": [
   {
@@ -11678,7 +11678,7 @@
     "name": "6 SWINDON PLACE OXENFORD 4210",
     "locID": "LOC000004131411",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155679411"
    }
   },
@@ -15690,7 +15690,7 @@
     "name": "17 REGATTA AVENUE OXENFORD 4210",
     "locID": "LOC000019281081",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155684016"
    }
   },
@@ -23033,8 +23033,8 @@
    "properties": {
     "name": "24 PRINCETON STREET OXENFORD 4210",
     "locID": "LOC000019042380",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155692363"
    }
   },
@@ -45354,8 +45354,8 @@
    "properties": {
     "name": "4 GUY LANE OXENFORD 4210",
     "locID": "LOC000030643024",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156963752"
    }
   },
@@ -45661,7 +45661,7 @@
     "name": "6 CALIFORNIA DRIVE OXENFORD 4210",
     "locID": "LOC000045934213",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156964137"
    }
   },
@@ -49995,8 +49995,8 @@
    "properties": {
     "name": "6 IDAHO PLACE OXENFORD 4210",
     "locID": "LOC000064057599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156971413"
    }
   },
@@ -51525,8 +51525,8 @@
    "properties": {
     "name": "7 WINSLOW COURT OXENFORD 4210",
     "locID": "LOC000077794250",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156975263"
    }
   },
@@ -66740,8 +66740,8 @@
    "properties": {
     "name": "9 ESSEN PLACE OXENFORD 4210",
     "locID": "LOC000077682976",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161142199"
    }
   },
@@ -69657,6 +69657,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.32657657,
+     -27.92478713
+    ]
+   },
+   "properties": {
+    "name": "LOT 126 PACIFIC MOTORWAY OXENFORD 4210",
+    "locID": "EilQYWNpZmljIE13eSwgT3hlbmZvcmQgUUxEIDQyMTAsIEF1c3RyYWxpYSIuKiwKFAoSCdnO5J7PUQ1rEVxKdZOBmZlpEhQKEglt6y7iLRGRaxFApd7zWqMCBQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161268961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.31434591,
      -27.88932287
     ]
@@ -70549,7 +70566,7 @@
     "name": "LOT 7 TAMBORINE - OXENFORD ROAD OXENFORD 4210",
     "locID": "LOC000091207155",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161324496"
    }
   },
@@ -74254,8 +74271,8 @@
    "properties": {
     "name": "1 TEMPLE ISLAND CIRCUIT OXENFORD 4210",
     "locID": "LOC000093279177",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162069914"
    }
   },
@@ -74900,8 +74917,8 @@
    "properties": {
     "name": "12 VERMONT STREET OXENFORD 4210",
     "locID": "LOC000043543206",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162073326"
    }
   },
@@ -75921,7 +75938,7 @@
     "name": "LOT 3 TAMBORINE - OXENFORD ROAD OXENFORD 4210",
     "locID": "LOC000028496002",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162293829"
    }
   },
@@ -80936,7 +80953,7 @@
     "name": "5 SILVER DAWN CRESCENT OXENFORD 4210",
     "locID": "LOC000054626958",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162522144"
    }
   },
@@ -81004,7 +81021,7 @@
     "name": "LOT 101 TAMBORINE - OXENFORD ROAD OXENFORD 4210",
     "locID": "LOC000033620384",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162523451"
    }
   },
@@ -81666,8 +81683,8 @@
    "properties": {
     "name": "3 LANIER CLOSE OXENFORD 4210",
     "locID": "LOC000106724702",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162605353"
    }
   },
@@ -81717,8 +81734,8 @@
    "properties": {
     "name": "6 LANIER CLOSE OXENFORD 4210",
     "locID": "LOC000104634451",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162605356"
    }
   },
@@ -81921,8 +81938,8 @@
    "properties": {
     "name": "6 MARLOW STREET OXENFORD 4210",
     "locID": "LOC000091360948",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162606183"
    }
   },
@@ -84132,7 +84149,7 @@
     "name": "6 CONLAN COURT OXENFORD 4210",
     "locID": "LOC000087644213",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162825093"
    }
   },
@@ -97476,8 +97493,8 @@
    "properties": {
     "name": "2 TEMPLE ISLAND CIRCUIT OXENFORD 4210",
     "locID": "LOC000093279177",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720591587"
    }
   },
@@ -97953,7 +97970,7 @@
     "name": "120 TAMBORINE - OXENFORD ROAD OXENFORD 4210",
     "locID": "LOC000014056427",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD721079982"
    }
   },

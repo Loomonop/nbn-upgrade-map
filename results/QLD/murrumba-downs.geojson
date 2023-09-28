@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-07T23:05:31.355581",
+ "generated": "2023-09-28T01:46:08.385436",
  "suburb": "MURRUMBA DOWNS",
  "features": [
   {
@@ -3704,8 +3704,8 @@
    "properties": {
     "name": "6 NAMOI COURT MURRUMBA DOWNS 4503",
     "locID": "LOC000012579343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155624020"
    }
   },
@@ -6408,7 +6408,7 @@
     "name": "11 WARANGA COURT MURRUMBA DOWNS 4503",
     "locID": "LOC000007778703",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155627015"
    }
   },
@@ -7275,7 +7275,7 @@
     "name": "51 FORDINGTON WAY MURRUMBA DOWNS 4503",
     "locID": "LOC000024829749",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155630042"
    }
   },
@@ -10317,8 +10317,8 @@
    "properties": {
     "name": "18 FITZROY CRESCENT MURRUMBA DOWNS 4503",
     "locID": "LOC000053584394",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155633736"
    }
   },
@@ -16267,8 +16267,8 @@
    "properties": {
     "name": "31 WINCHCOMBE AVENUE MURRUMBA DOWNS 4503",
     "locID": "LOC000093681125",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156893266"
    }
   },
@@ -18035,8 +18035,8 @@
    "properties": {
     "name": "48 CASTLE HILL DRIVE MURRUMBA DOWNS 4503",
     "locID": "LOC000097593230",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156901175"
    }
   },
@@ -31329,8 +31329,8 @@
    "properties": {
     "name": "15 BALLARD COURT MURRUMBA DOWNS 4503",
     "locID": "LOC000088354423",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158368229"
    }
   },
@@ -37824,7 +37824,7 @@
     "name": "42 HAMPSTEAD OUTLOOK MURRUMBA DOWNS 4503",
     "locID": "LOC000192820653",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160716953"
    }
   },
@@ -43433,8 +43433,8 @@
    "properties": {
     "name": "3 DERWENT STREET MURRUMBA DOWNS 4503",
     "locID": "LOC000064649632",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161685906"
    }
   },
@@ -60790,8 +60790,8 @@
    "properties": {
     "name": "30 HIGHVIEW TERRACE MURRUMBA DOWNS 4503",
     "locID": "LOC000049142465",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163254821"
    }
   },
@@ -70551,6 +70551,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425250498"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00522495,
+     -27.25621112
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 14 ESPERANCE COURT MURRUMBA DOWNS 4503",
+    "locID": "LOC000193480120",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425250499"
    }
   },
   {
