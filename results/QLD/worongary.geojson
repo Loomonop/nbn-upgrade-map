@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T01:56:07.135539",
+ "generated": "2023-09-28T04:35:18.876991",
  "suburb": "WORONGARY",
  "features": [
   {
@@ -305,7 +305,7 @@
     "name": "20 ALKIRA WAY WORONGARY 4213",
     "locID": "LOC000047056404",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155987462"
    }
   },
@@ -356,7 +356,7 @@
     "name": "9 ALKIRA WAY WORONGARY 4213",
     "locID": "LOC100070318016",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155987467"
    }
   },
@@ -3586,7 +3586,7 @@
     "name": "5 MCDIVITT COURT WORONGARY 4213",
     "locID": "LOC000073386665",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155992193"
    }
   },
@@ -6714,7 +6714,7 @@
     "name": "10 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109057931",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155997935"
    }
   },
@@ -6731,7 +6731,7 @@
     "name": "12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109063936",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155997936"
    }
   },
@@ -6867,7 +6867,7 @@
     "name": "38 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000022518238",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155998098"
    }
   },
@@ -8311,8 +8311,8 @@
    "properties": {
     "name": "14 STANHOPE COURT WORONGARY 4213",
     "locID": "LOC000099631211",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155999686"
    }
   },
@@ -10640,8 +10640,8 @@
    "properties": {
     "name": "7 SAN FERNANDO DRIVE WORONGARY 4213",
     "locID": "LOC000095127724",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156007579"
    }
   },
@@ -11355,7 +11355,7 @@
     "name": "28 ROUSE STREET WORONGARY 4213",
     "locID": "LOC000106585373",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156009885"
    }
   },
@@ -14271,23 +14271,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.33610547,
-     -28.0366051
-    ]
-   },
-   "properties": {
-    "name": "192 SAN FERNANDO DRIVE WORONGARY 4213",
-    "locID": "LOC000028163520",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156100550"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.33127965,
      -28.03734481
     ]
@@ -16608,7 +16591,7 @@
     "name": "UNIT 1, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109063936",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157322767"
    }
   },
@@ -19821,7 +19804,7 @@
     "name": "UNIT 8, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157336761"
    }
   },
@@ -19838,7 +19821,7 @@
     "name": "UNIT 9, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157336762"
    }
   },
@@ -21861,7 +21844,7 @@
     "name": "46 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000062679714",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157344081"
    }
   },
@@ -21895,7 +21878,7 @@
     "name": "48 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000086928571",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157344083"
    }
   },
@@ -21912,7 +21895,7 @@
     "name": "49 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000034849320",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157344084"
    }
   },
@@ -22643,7 +22626,7 @@
     "name": "14 ROUSE STREET WORONGARY 4213",
     "locID": "LOC000039736783",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157344600"
    }
   },
@@ -22813,7 +22796,7 @@
     "name": "3 ROUSE STREET WORONGARY 4213",
     "locID": "LOC000082078296",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157344613"
    }
   },
@@ -22863,8 +22846,8 @@
    "properties": {
     "name": "10 RUSHWORTH STREET WORONGARY 4213",
     "locID": "LOC000014032092",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157344619"
    }
   },
@@ -23187,7 +23170,7 @@
     "name": "59 LEXINGTON DRIVE WORONGARY 4213",
     "locID": "LOC000037389513",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157347274"
    }
   },
@@ -24733,8 +24716,8 @@
    "properties": {
     "name": "8 RUSHWORTH STREET WORONGARY 4213",
     "locID": "LOC000095193344",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157351627"
    }
   },
@@ -25261,7 +25244,7 @@
     "name": "31 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000059064548",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157354469"
    }
   },
@@ -25278,7 +25261,7 @@
     "name": "32 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000042840502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157354470"
    }
   },
@@ -25295,7 +25278,7 @@
     "name": "34 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000041613984",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157354471"
    }
   },
@@ -27912,8 +27895,8 @@
    "properties": {
     "name": "29 CARPENTER COURT WORONGARY 4213",
     "locID": "LOC000105056268",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157364883"
    }
   },
@@ -29630,7 +29613,7 @@
     "name": "UNIT 10, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371896"
    }
   },
@@ -29647,7 +29630,7 @@
     "name": "UNIT 13, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371897"
    }
   },
@@ -29664,7 +29647,7 @@
     "name": "UNIT 16, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371898"
    }
   },
@@ -29681,7 +29664,7 @@
     "name": "UNIT 17, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371899"
    }
   },
@@ -29698,7 +29681,7 @@
     "name": "UNIT 18, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371900"
    }
   },
@@ -29715,7 +29698,7 @@
     "name": "UNIT 19, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371901"
    }
   },
@@ -29732,7 +29715,7 @@
     "name": "UNIT 2, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109147115",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371902"
    }
   },
@@ -29749,7 +29732,7 @@
     "name": "UNIT 22, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371903"
    }
   },
@@ -29766,7 +29749,7 @@
     "name": "UNIT 23, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371904"
    }
   },
@@ -29783,7 +29766,7 @@
     "name": "UNIT 24, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371905"
    }
   },
@@ -29800,7 +29783,7 @@
     "name": "UNIT 25, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371906"
    }
   },
@@ -29817,7 +29800,7 @@
     "name": "UNIT 26, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109147115",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371907"
    }
   },
@@ -29834,7 +29817,7 @@
     "name": "UNIT 27, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371908"
    }
   },
@@ -29851,7 +29834,7 @@
     "name": "UNIT 28, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371909"
    }
   },
@@ -29868,7 +29851,7 @@
     "name": "UNIT 29, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371910"
    }
   },
@@ -29885,7 +29868,7 @@
     "name": "UNIT 3, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000014918537",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371911"
    }
   },
@@ -29902,7 +29885,7 @@
     "name": "UNIT 31, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371912"
    }
   },
@@ -29919,7 +29902,7 @@
     "name": "UNIT 32, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371913"
    }
   },
@@ -29936,7 +29919,7 @@
     "name": "UNIT 33, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371914"
    }
   },
@@ -29953,7 +29936,7 @@
     "name": "UNIT 34, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371915"
    }
   },
@@ -29970,7 +29953,7 @@
     "name": "UNIT 35, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371916"
    }
   },
@@ -29987,7 +29970,7 @@
     "name": "UNIT 36, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000014918537",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371917"
    }
   },
@@ -30004,7 +29987,7 @@
     "name": "UNIT 37, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371918"
    }
   },
@@ -30021,7 +30004,7 @@
     "name": "UNIT 38, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371919"
    }
   },
@@ -30038,7 +30021,7 @@
     "name": "UNIT 39, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371920"
    }
   },
@@ -30055,7 +30038,7 @@
     "name": "UNIT 4, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109063936",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371921"
    }
   },
@@ -30072,7 +30055,7 @@
     "name": "UNIT 40, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371922"
    }
   },
@@ -30089,7 +30072,7 @@
     "name": "UNIT 41, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371923"
    }
   },
@@ -30106,7 +30089,7 @@
     "name": "UNIT 42, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109063936",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371924"
    }
   },
@@ -30123,7 +30106,7 @@
     "name": "UNIT 43, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371925"
    }
   },
@@ -30157,7 +30140,7 @@
     "name": "UNIT 45, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371927"
    }
   },
@@ -30174,7 +30157,7 @@
     "name": "UNIT 46, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000047308232",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371928"
    }
   },
@@ -30208,7 +30191,7 @@
     "name": "UNIT 5, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371930"
    }
   },
@@ -30225,7 +30208,7 @@
     "name": "UNIT 6, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371931"
    }
   },
@@ -30242,7 +30225,7 @@
     "name": "UNIT 7, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157371932"
    }
   },
@@ -32044,7 +32027,7 @@
     "name": "UNIT 48, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159611927"
    }
   },
@@ -32061,7 +32044,7 @@
     "name": "UNIT 11, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000155780395",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159616455"
    }
   },
@@ -32078,7 +32061,7 @@
     "name": "UNIT 12, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109063936",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159616456"
    }
   },
@@ -32095,7 +32078,7 @@
     "name": "UNIT 14, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159616458"
    }
   },
@@ -32112,7 +32095,7 @@
     "name": "UNIT 15, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159616459"
    }
   },
@@ -32129,7 +32112,7 @@
     "name": "UNIT 20, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159616464"
    }
   },
@@ -32146,7 +32129,7 @@
     "name": "UNIT 21, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000174533636",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159616465"
    }
   },
@@ -32163,7 +32146,7 @@
     "name": "UNIT 30, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159616473"
    }
   },
@@ -32877,7 +32860,7 @@
     "name": "UNIT 49, 12 HANDEL AVENUE WORONGARY 4213",
     "locID": "LOC000109023886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161955934"
    }
   },
@@ -35121,7 +35104,7 @@
     "name": "UNIT 1, 59 LEXINGTON DRIVE WORONGARY 4213",
     "locID": "LOC000155780369",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425549747"
    }
   },
@@ -35274,7 +35257,7 @@
     "name": "UNIT 2, 59 LEXINGTON DRIVE WORONGARY 4213",
     "locID": "LOC000037389513",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425796140"
    }
   },
@@ -35750,7 +35733,7 @@
     "name": "UNIT 2, 38 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000155781417",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719266471"
    }
   },
@@ -35784,7 +35767,7 @@
     "name": "UNIT 1, 38 QUAMBONE STREET WORONGARY 4213",
     "locID": "LOC000155781417",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719275350"
    }
   },
@@ -35852,7 +35835,7 @@
     "name": "UNIT 2, 9 ALKIRA WAY WORONGARY 4213",
     "locID": "LOC000006655867",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719720810"
    }
   },
@@ -35903,7 +35886,7 @@
     "name": "UNIT 1, 9 ALKIRA WAY WORONGARY 4213",
     "locID": "LOC100070318016",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719725807"
    }
   },
@@ -35954,7 +35937,7 @@
     "name": "HOUSE 1, 14 ROUSE STREET WORONGARY 4213",
     "locID": "LOC000039736783",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719727912"
    }
   },
@@ -36549,7 +36532,7 @@
     "name": "14B ROUSE STREET WORONGARY 4213",
     "locID": "LOC000191403462",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD720463511"
    }
   },
