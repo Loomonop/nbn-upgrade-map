@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T22:18:13.780768",
+ "generated": "2023-09-29T20:50:18.598170",
  "suburb": "ROSSMOYNE",
  "features": [
   {
@@ -1477,8 +1477,8 @@
    "properties": {
     "name": "91 SECOND AVENUE ROSSMOYNE 6148",
     "locID": "LOC000089132794",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146782383"
    }
   },
@@ -1919,8 +1919,8 @@
    "properties": {
     "name": "3 LANA COURT ROSSMOYNE 6148",
     "locID": "LOC000084574552",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146783495"
    }
   },
@@ -2225,8 +2225,8 @@
    "properties": {
     "name": "7 LANA COURT ROSSMOYNE 6148",
     "locID": "LOC000027871829",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146783830"
    }
   },
@@ -2820,8 +2820,8 @@
    "properties": {
     "name": "24 ROSSMOYNE DRIVE ROSSMOYNE 6148",
     "locID": "LOC000095799564",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146784925"
    }
   },
@@ -3976,8 +3976,8 @@
    "properties": {
     "name": "11 DELPHI COURT ROSSMOYNE 6148",
     "locID": "LOC000014569386",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146787107"
    }
   },
@@ -4299,8 +4299,8 @@
    "properties": {
     "name": "45 SECOND AVENUE ROSSMOYNE 6148",
     "locID": "LOC000077238491",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146787156"
    }
   },
@@ -4844,7 +4844,7 @@
     "name": "50 TUSCAN STREET ROSSMOYNE 6148",
     "locID": "LOC000064107865",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146787986"
    }
   },
@@ -5592,7 +5592,7 @@
     "name": "139 RIVERTON DRIVE WEST ROSSMOYNE 6148",
     "locID": "LOC000034547506",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146789837"
    }
   },
@@ -5642,8 +5642,8 @@
    "properties": {
     "name": "18 TUSCAN STREET ROSSMOYNE 6148",
     "locID": "LOC000027840214",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146789842"
    }
   },
@@ -6305,8 +6305,8 @@
    "properties": {
     "name": "44 CORINTHIAN ROAD WEST ROSSMOYNE 6148",
     "locID": "LOC000022886355",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146790847"
    }
   },
@@ -6493,7 +6493,7 @@
     "name": "52 SECOND AVENUE ROSSMOYNE 6148",
     "locID": "LOC000085314987",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146791641"
    }
   },
@@ -6510,7 +6510,7 @@
     "name": "46 SECOND AVENUE ROSSMOYNE 6148",
     "locID": "LOC000066730349",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146791642"
    }
   },
@@ -6934,8 +6934,8 @@
    "properties": {
     "name": "2 ANN WAY ROSSMOYNE 6148",
     "locID": "LOC000007041058",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146793325"
    }
   },
@@ -8508,23 +8508,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.87128115,
-     -32.04083693
-    ]
-   },
-   "properties": {
-    "name": "8 PASSMORE STREET ROSSMOYNE 6148",
-    "locID": "LOC000028697946",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_146802127"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.8635,
      -32.04423
     ]
@@ -9018,6 +9001,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.87209521,
+     -32.04304774
+    ]
+   },
+   "properties": {
+    "name": "18 GLENNON WAY ROSSMOYNE 6148",
+    "locID": "ChIJTzsK2SO9MioRaArPNESjFBA",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_146807938"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.87185,
      -32.04493
     ]
@@ -9484,8 +9484,8 @@
    "properties": {
     "name": "52 WILBER STREET ROSSMOYNE 6148",
     "locID": "LOC000033801074",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146808914"
    }
   },
@@ -9501,8 +9501,8 @@
    "properties": {
     "name": "7 MELROSE STREET ROSSMOYNE 6148",
     "locID": "LOC000083725883",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146808916"
    }
   },
@@ -9589,6 +9589,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146809071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.86801,
+     -32.04378
+    ]
+   },
+   "properties": {
+    "name": "6 MASSEY STREET ROSSMOYNE 6148",
+    "locID": "LOC000193648305",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146809223"
    }
   },
   {
@@ -11116,7 +11133,7 @@
    "properties": {
     "name": "25 GLENNON WAY ROSSMOYNE 6148",
     "locID": "LOC000193483665",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146812550"
    }
@@ -11136,23 +11153,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146812551"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.86897,
-     -32.04379
-    ]
-   },
-   "properties": {
-    "name": "15 MASSEY STREET ROSSMOYNE 6148",
-    "locID": "LOC000099217676",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146812552"
    }
   },
   {
@@ -12698,7 +12698,7 @@
     "name": "11 SECOND AVENUE ROSSMOYNE 6148",
     "locID": "LOC000026516622",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147245254"
    }
   },
@@ -12986,8 +12986,8 @@
    "properties": {
     "name": "15 CENTRAL ROAD ROSSMOYNE 6148",
     "locID": "LOC000003746281",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147280902"
    }
   },
@@ -13666,8 +13666,8 @@
    "properties": {
     "name": "113 RIVERTON DRIVE WEST ROSSMOYNE 6148",
     "locID": "LOC000026213555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147332537"
    }
   },
@@ -23594,8 +23594,8 @@
    "properties": {
     "name": "141A RIVERTON DRIVE WEST ROSSMOYNE 6148",
     "locID": "LOC000132598711",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718299667"
    }
   },
@@ -24342,8 +24342,8 @@
    "properties": {
     "name": "45A TUSCAN STREET ROSSMOYNE 6148",
     "locID": "LOC000180631304",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719150898"
    }
   },
@@ -27114,7 +27114,7 @@
     "name": "93B SECOND AVENUE ROSSMOYNE 6148",
     "locID": "LOC000191092075",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720244108"
    }
   },
@@ -27609,23 +27609,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720816908"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.87141429,
-     -32.04083739
-    ]
-   },
-   "properties": {
-    "name": "8B PASSMORE STREET ROSSMOYNE 6148",
-    "locID": "LOC000028697946",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_720817484"
    }
   },
   {
