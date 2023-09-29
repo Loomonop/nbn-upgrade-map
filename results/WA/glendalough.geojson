@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T23:58:05.488596",
+ "generated": "2023-09-29T22:33:23.414326",
  "suburb": "GLENDALOUGH",
  "features": [
   {
@@ -169,7 +169,7 @@
     "name": "6 LEEDER STREET GLENDALOUGH 6016",
     "locID": "LOC000110234999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146618406"
    }
   },
@@ -271,7 +271,7 @@
     "name": "330 HARBORNE STREET GLENDALOUGH 6016",
     "locID": "LOC000057033440",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146618413"
    }
   },
@@ -577,7 +577,7 @@
     "name": "72 POLLARD STREET GLENDALOUGH 6016",
     "locID": "LOC000029572369",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146623061"
    }
   },
@@ -747,7 +747,7 @@
     "name": "67 POLLARD STREET GLENDALOUGH 6016",
     "locID": "LOC000023682395",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146633085"
    }
   },
@@ -883,7 +883,7 @@
     "name": "5 PARKLAND ROAD GLENDALOUGH 6016",
     "locID": "LOC000014507726",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146633685"
    }
   },
@@ -1378,6 +1378,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146640052"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.82157,
+     -31.92033
+    ]
+   },
+   "properties": {
+    "name": "26 POLLARD STREET GLENDALOUGH 6016",
+    "locID": "LOC000131974983",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146641639"
    }
   },
   {
@@ -2260,7 +2277,7 @@
     "name": "UNIT 7, 33 CAYLEY STREET GLENDALOUGH 6016",
     "locID": "LOC000089140657",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147169229"
    }
   },
@@ -2464,7 +2481,7 @@
     "name": "17 RAWLINS STREET GLENDALOUGH 6016",
     "locID": "LOC000006262441",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147175175"
    }
   },
@@ -4895,7 +4912,7 @@
     "name": "UNIT 3, 33 CAYLEY STREET GLENDALOUGH 6016",
     "locID": "LOC000089217802",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147199483"
    }
   },
@@ -6646,7 +6663,7 @@
     "name": "UNIT 10, 33 CAYLEY STREET GLENDALOUGH 6016",
     "locID": "LOC000089217802",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147208572"
    }
   },
@@ -6663,7 +6680,7 @@
     "name": "UNIT 11, FLOOR 1, 33 CAYLEY STREET GLENDALOUGH 6016",
     "locID": "LOC000089217802",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147208573"
    }
   },
@@ -10114,7 +10131,7 @@
     "name": "UNIT 1, 4 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079899271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147286646"
    }
   },
@@ -10131,7 +10148,7 @@
     "name": "UNIT 5, 4 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079847242",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147286661"
    }
   },
@@ -11456,8 +11473,8 @@
    "properties": {
     "name": "61C POLLARD STREET GLENDALOUGH 6016",
     "locID": "LOC000079782249",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147715987"
    }
   },
@@ -11491,7 +11508,7 @@
     "name": "4 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079808123",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147716914"
    }
   },
@@ -11797,7 +11814,7 @@
     "name": "5B ELLERBY STREET GLENDALOUGH 6016",
     "locID": "LOC000011488720",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147718756"
    }
   },
@@ -12460,7 +12477,7 @@
     "name": "UNIT 2, 4 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079494764",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147723196"
    }
   },
@@ -12647,7 +12664,7 @@
     "name": "UNIT 1, 17 RAWLINS STREET GLENDALOUGH 6016",
     "locID": "LOC000006262441",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147723945"
    }
   },
@@ -12664,7 +12681,7 @@
     "name": "UNIT 2, 17 RAWLINS STREET GLENDALOUGH 6016",
     "locID": "LOC000006518447",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147723946"
    }
   },
@@ -12681,7 +12698,7 @@
     "name": "UNIT 3, 17 RAWLINS STREET GLENDALOUGH 6016",
     "locID": "LOC000006262441",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147723947"
    }
   },
@@ -12698,7 +12715,7 @@
     "name": "UNIT 4, 17 RAWLINS STREET GLENDALOUGH 6016",
     "locID": "LOC000006262441",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147723948"
    }
   },
@@ -12987,7 +13004,7 @@
     "name": "UNIT 4, 4 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079808123",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147725036"
    }
   },
@@ -13327,7 +13344,7 @@
     "name": "UNIT 3, 4 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079682176",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147727563"
    }
   },
@@ -15860,7 +15877,7 @@
     "name": "33 CAYLEY STREET GLENDALOUGH 6016",
     "locID": "LOC000089217802",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148366925"
    }
   },
@@ -17253,8 +17270,8 @@
    "properties": {
     "name": "12A ELLERBY STREET GLENDALOUGH 6016",
     "locID": "LOC000043295006",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160655032"
    }
   },
@@ -18920,7 +18937,7 @@
     "name": "324 HARBORNE STREET GLENDALOUGH 6016",
     "locID": "LOC000053703157",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162406548"
    }
   },
@@ -24428,7 +24445,7 @@
     "name": "UNIT 1, 6 LEEDER STREET GLENDALOUGH 6016",
     "locID": "LOC000113551198",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163279595"
    }
   },
@@ -24445,7 +24462,7 @@
     "name": "UNIT 2, 6 LEEDER STREET GLENDALOUGH 6016",
     "locID": "LOC000111015557",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163279596"
    }
   },
@@ -24462,7 +24479,7 @@
     "name": "UNIT 3, 6 LEEDER STREET GLENDALOUGH 6016",
     "locID": "LOC000111498760",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163279597"
    }
   },
@@ -24479,7 +24496,7 @@
     "name": "UNIT 4, 6 LEEDER STREET GLENDALOUGH 6016",
     "locID": "LOC000112290865",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163279598"
    }
   },
@@ -24496,7 +24513,7 @@
     "name": "UNIT 5, 6 LEEDER STREET GLENDALOUGH 6016",
     "locID": "LOC000111374896",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163279599"
    }
   },
@@ -24513,7 +24530,7 @@
     "name": "UNIT 6, 6 LEEDER STREET GLENDALOUGH 6016",
     "locID": "LOC000110234999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163279600"
    }
   },
@@ -25329,7 +25346,7 @@
     "name": "UNIT 3, 3 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079682176",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718651640"
    }
   },
@@ -25346,7 +25363,7 @@
     "name": "UNIT 4, 3 CATO STREET GLENDALOUGH 6016",
     "locID": "LOC000079682176",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718651641"
    }
   },
@@ -25856,7 +25873,7 @@
     "name": "338A HARBORNE STREET GLENDALOUGH 6016",
     "locID": "LOC000170698431",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718946859"
    }
   },
@@ -28204,6 +28221,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720894262"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.82157,
+     -31.92033
+    ]
+   },
+   "properties": {
+    "name": "26A POLLARD STREET GLENDALOUGH 6016",
+    "locID": "LOC000131974983",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_720894350"
    }
   },
   {
