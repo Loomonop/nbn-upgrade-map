@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T09:37:05.003279",
+ "generated": "2023-09-29T08:51:06.691461",
  "suburb": "SEATON",
  "features": [
   {
@@ -7539,6 +7539,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.51576451,
+     -34.8831957
+    ]
+   },
+   "properties": {
+    "name": "17 FIRST AVENUE SEATON 5023",
+    "locID": "LOC000193685569",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415042193"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.51559762,
      -34.8832036
     ]
@@ -14193,8 +14210,8 @@
    "properties": {
     "name": "4 RUSS AVENUE SEATON 5023",
     "locID": "LOC000102940485",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415070175"
    }
   },
@@ -16066,23 +16083,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415118142"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.51856738,
-     -34.9054097
-    ]
-   },
-   "properties": {
-    "name": "2 AIRDRIE AVENUE SEATON 5023",
-    "locID": "LOC000054215840",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415118143"
    }
   },
   {
@@ -22999,7 +22999,7 @@
    "properties": {
     "name": "69 BALCOMBE AVENUE SEATON 5023",
     "locID": "ChIJEV6oqM3FsGoRxGzWeyFoCTc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415160460"
    }
@@ -27963,8 +27963,8 @@
    "properties": {
     "name": "3 FOOT AVENUE SEATON 5023",
     "locID": "LOC000104070363",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415183439"
    }
   },
@@ -32131,6 +32131,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415212390"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.51059636,
+     -34.88026065
+    ]
+   },
+   "properties": {
+    "name": "7 HERON PLACE SEATON 5023",
+    "locID": "LOC000010840753",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415212391"
    }
   },
   {
@@ -49621,8 +49638,8 @@
    "properties": {
     "name": "37 RAYMOND AVENUE SEATON 5023",
     "locID": "LOC000090987527",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415437688"
    }
   },
@@ -79711,8 +79728,8 @@
    "properties": {
     "name": "UNIT 2, 33 RAYMOND AVENUE SEATON 5023",
     "locID": "LOC000042683410",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424017457"
    }
   },
@@ -79881,8 +79898,8 @@
    "properties": {
     "name": "33 RAYMOND AVENUE SEATON 5023",
     "locID": "LOC000042683410",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424019476"
    }
   },
@@ -84182,8 +84199,8 @@
    "properties": {
     "name": "18A RAYMOND AVENUE SEATON 5023",
     "locID": "LOC000070741303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424573867"
    }
   },
@@ -92632,7 +92649,7 @@
     "name": "UNIT 3, 4 FINDON AVENUE SEATON 5023",
     "locID": "LOC000166920322",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425856108"
    }
   },
@@ -99108,7 +99125,7 @@
    "properties": {
     "name": "UNIT 1, 67A BALCOMBE AVENUE SEATON 5023",
     "locID": "LOC000189706167",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720723730"
    }
@@ -99176,7 +99193,7 @@
    "properties": {
     "name": "67A BALCOMBE AVENUE SEATON 5023",
     "locID": "LOC000189706167",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720726469"
    }
@@ -99244,7 +99261,7 @@
    "properties": {
     "name": "UNIT 4, 67A BALCOMBE AVENUE SEATON 5023",
     "locID": "LOC000189706198",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720726805"
    }
@@ -99261,7 +99278,7 @@
    "properties": {
     "name": "UNIT 2, 67A BALCOMBE AVENUE SEATON 5023",
     "locID": "LOC000189706179",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720726806"
    }
@@ -99312,7 +99329,7 @@
    "properties": {
     "name": "UNIT 3, 67A BALCOMBE AVENUE SEATON 5023",
     "locID": "LOC000189706180",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720727179"
    }
