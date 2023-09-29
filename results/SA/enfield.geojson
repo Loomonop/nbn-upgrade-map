@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T20:31:55.695165",
+ "generated": "2023-09-29T19:13:17.508928",
  "suburb": "ENFIELD",
  "features": [
   {
@@ -4640,7 +4640,7 @@
     "name": "12 HALTON STREET ENFIELD 5085",
     "locID": "LOC000016635765",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415052841"
    }
   },
@@ -12122,23 +12122,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415150061"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.60460953,
-     -34.85811212
-    ]
-   },
-   "properties": {
-    "name": "20 GURNEY TERRACE ENFIELD 5085",
-    "locID": "LOC000053351941",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415150062"
    }
   },
   {
@@ -35103,8 +35086,8 @@
    "properties": {
     "name": "24 HAREWOOD AVENUE ENFIELD 5085",
     "locID": "LOC000052175195",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_422040413"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T20:55:49.886950",
+ "generated": "2023-09-29T19:29:24.323502",
  "suburb": "SMITHFIELD PLAINS",
  "features": [
   {
@@ -2667,8 +2667,8 @@
    "properties": {
     "name": "6 BALLARD ROAD SMITHFIELD PLAINS 5114",
     "locID": "LOC000105632395",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415331679"
    }
   },
@@ -3823,8 +3823,8 @@
    "properties": {
     "name": "25 HINSLEY ROAD SMITHFIELD PLAINS 5114",
     "locID": "LOC000011665863",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415335019"
    }
   },
@@ -4911,8 +4911,8 @@
    "properties": {
     "name": "19 BUCHANAN ROAD SMITHFIELD PLAINS 5114",
     "locID": "LOC000013447182",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415337797"
    }
   },
@@ -5472,8 +5472,8 @@
    "properties": {
     "name": "5 SOUTHAN STREET SMITHFIELD PLAINS 5114",
     "locID": "LOC000057658202",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415338522"
    }
   },
@@ -5557,8 +5557,8 @@
    "properties": {
     "name": "10 BUCHANAN ROAD SMITHFIELD PLAINS 5114",
     "locID": "LOC000014207219",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415338527"
    }
   },
@@ -6356,8 +6356,8 @@
    "properties": {
     "name": "2 SOUTHAN STREET SMITHFIELD PLAINS 5114",
     "locID": "LOC000079492825",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415341281"
    }
   },
@@ -6816,7 +6816,7 @@
     "name": "34 BARKER CRESCENT SMITHFIELD PLAINS 5114",
     "locID": "LOC000009442107",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415342168"
    }
   },
@@ -6832,8 +6832,8 @@
    "properties": {
     "name": "32 BARKER CRESCENT SMITHFIELD PLAINS 5114",
     "locID": "LOC000019221111",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415342169"
    }
   },
@@ -10810,8 +10810,8 @@
    "properties": {
     "name": "5 BELL STREET SMITHFIELD PLAINS 5114",
     "locID": "LOC000036503558",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415354220"
    }
   },
@@ -11235,8 +11235,8 @@
    "properties": {
     "name": "13 GREENWOOD CRESCENT SMITHFIELD PLAINS 5114",
     "locID": "LOC000031685157",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415354267"
    }
   },
@@ -11592,8 +11592,8 @@
    "properties": {
     "name": "33 HODBY CRESCENT SMITHFIELD PLAINS 5114",
     "locID": "LOC000103803125",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415355982"
    }
   },
@@ -11609,8 +11609,8 @@
    "properties": {
     "name": "31 HODBY CRESCENT SMITHFIELD PLAINS 5114",
     "locID": "LOC000017663793",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415355983"
    }
   },
@@ -11762,8 +11762,8 @@
    "properties": {
     "name": "33 GREENWOOD CRESCENT SMITHFIELD PLAINS 5114",
     "locID": "LOC000079610031",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415355992"
    }
   },
@@ -15128,8 +15128,8 @@
    "properties": {
     "name": "16 BLACKHAM CRESCENT SMITHFIELD PLAINS 5114",
     "locID": "LOC000105556359",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415372455"
    }
   },
@@ -16117,23 +16117,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415387910"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.67842997,
-     -34.67195136
-    ]
-   },
-   "properties": {
-    "name": "5 DAVISON CRESCENT SMITHFIELD PLAINS 5114",
-    "locID": "LOC000047024008",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415387911"
    }
   },
   {
@@ -18715,8 +18698,8 @@
    "properties": {
     "name": "10 COLINS COURT SMITHFIELD PLAINS 5114",
     "locID": "LOC000023392058",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_423598479"
    }
   },
@@ -19412,8 +19395,8 @@
    "properties": {
     "name": "3 GRACE BOULEVARD SMITHFIELD PLAINS 5114",
     "locID": "LOC000011712107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423600405"
    }
   },
@@ -19548,8 +19531,8 @@
    "properties": {
     "name": "55 GRACE BOULEVARD SMITHFIELD PLAINS 5114",
     "locID": "LOC000064897788",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423600413"
    }
   },
@@ -20314,7 +20297,7 @@
     "name": "LOT 393 COVENTRY ROAD SMITHFIELD PLAINS 5114",
     "locID": "LOC000019261794",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424164938"
    }
   },
@@ -25754,7 +25737,7 @@
     "name": "LOT 906 COVENTRY ROAD SMITHFIELD PLAINS 5114",
     "locID": "LOC000019261794",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719773376"
    }
   },
@@ -27981,7 +27964,7 @@
     "name": "LOT 3 COVENTRY ROAD SMITHFIELD PLAINS 5114",
     "locID": "LOC000070188820",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_721275720"
    }
   },
