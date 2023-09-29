@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T19:15:13.899386",
+ "generated": "2023-09-29T17:55:53.596373",
  "suburb": "PLYMPTON PARK",
  "features": [
   {
@@ -2021,8 +2021,8 @@
    "properties": {
     "name": "2 JACKSON STREET PLYMPTON PARK 5038",
     "locID": "LOC000039079531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415074515"
    }
   },
@@ -2396,7 +2396,7 @@
     "name": "8 PEAKE STREET PLYMPTON PARK 5038",
     "locID": "LOC000106839137",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415075203"
    }
   },
@@ -2412,8 +2412,8 @@
    "properties": {
     "name": "6 PEAKE STREET PLYMPTON PARK 5038",
     "locID": "LOC000096595250",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415075204"
    }
   },
@@ -2548,8 +2548,8 @@
    "properties": {
     "name": "8 BOUCAUT STREET PLYMPTON PARK 5038",
     "locID": "LOC000002726535",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415075343"
    }
   },
@@ -5084,6 +5084,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415080250"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.54890963,
+     -34.9751008
+    ]
+   },
+   "properties": {
+    "name": "20 TENNYSON AVENUE PLYMPTON PARK 5038",
+    "locID": "ChIJe69jHq7asGoReyQMEJU0aC0",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_415080251"
    }
   },
   {
@@ -26501,8 +26518,8 @@
    "properties": {
     "name": "21 PEAKE STREET PLYMPTON PARK 5038",
     "locID": "LOC000130067661",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_424523768"
    }
   },

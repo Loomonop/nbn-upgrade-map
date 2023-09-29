@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T19:47:45.334284",
+ "generated": "2023-09-29T18:22:35.514472",
  "suburb": "PORT ADELAIDE",
  "features": [
   {
@@ -9059,8 +9059,8 @@
    "properties": {
     "name": "1 WALTER MORRIS DRIVE PORT ADELAIDE 5015",
     "locID": "LOC000088942969",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415807521"
    }
   },
@@ -10181,8 +10181,8 @@
    "properties": {
     "name": "23 LESLIE PLACE PORT ADELAIDE 5015",
     "locID": "LOC000072792697",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415835903"
    }
   },
@@ -10879,7 +10879,7 @@
     "name": "19 CANNON STREET PORT ADELAIDE 5015",
     "locID": "LOC000017770425",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416241552"
    }
   },
@@ -13853,8 +13853,8 @@
    "properties": {
     "name": "19 ROBE STREET PORT ADELAIDE 5015",
     "locID": "LOC000031762356",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416504582"
    }
   },
@@ -14893,6 +14893,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416509114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.50152781,
+     -34.84544673
+    ]
+   },
+   "properties": {
+    "name": "90 ST VINCENT STREET PORT ADELAIDE 5015",
+    "locID": "ChIJBbqJ2-bGsGoRE6cuG7eTfo0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_416509115"
    }
   },
   {
@@ -31924,8 +31941,8 @@
    "properties": {
     "name": "OFFICE 1, 19 ROBE STREET PORT ADELAIDE 5015",
     "locID": "LOC000031762356",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719514623"
    }
   },
@@ -31958,8 +31975,8 @@
    "properties": {
     "name": "OFFICE 2, 19 ROBE STREET PORT ADELAIDE 5015",
     "locID": "LOC000031762356",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719516860"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T19:38:45.810728",
+ "generated": "2023-09-29T18:12:38.417818",
  "suburb": "GLENUNGA",
  "features": [
   {
@@ -16,7 +16,7 @@
     "name": "UNIT 1, 327 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000037508813",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414892051"
    }
   },
@@ -33,7 +33,7 @@
     "name": "UNIT 2, 327 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000037681912",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414892052"
    }
   },
@@ -50,7 +50,7 @@
     "name": "UNIT 3, 327 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000037508813",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414892053"
    }
   },
@@ -67,7 +67,7 @@
     "name": "UNIT 4, 327 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000037511831",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414892054"
    }
   },
@@ -365,6 +365,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.64092876,
+     -34.9512213
+    ]
+   },
+   "properties": {
+    "name": "47 BEVINGTON ROAD GLENUNGA 5064",
+    "locID": "LOC000193697176",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_414966682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.64127626,
      -34.9512043
     ]
@@ -494,23 +511,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_414991703"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.642834,
-     -34.9541917
-    ]
-   },
-   "properties": {
-    "name": "587 PORTRUSH ROAD GLENUNGA 5064",
-    "locID": "LOC000017840400",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_414991704"
    }
   },
   {
@@ -1903,7 +1903,7 @@
     "name": "2 BETHUNE AVENUE GLENUNGA 5064",
     "locID": "LOC000075528701",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415025690"
    }
   },
@@ -2344,8 +2344,8 @@
    "properties": {
     "name": "9 KINGSLEY AVENUE GLENUNGA 5064",
     "locID": "LOC000108965153",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415048914"
    }
   },
@@ -2481,7 +2481,7 @@
     "name": "36 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000039711925",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415048922"
    }
   },
@@ -4929,7 +4929,7 @@
     "name": "34 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000083343038",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415219448"
    }
   },
@@ -4946,7 +4946,7 @@
     "name": "34A WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000083072481",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415219449"
    }
   },
@@ -5149,8 +5149,8 @@
    "properties": {
     "name": "24 CEDAR AVENUE GLENUNGA 5064",
     "locID": "LOC000035932731",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415234417"
    }
   },
@@ -5711,7 +5711,7 @@
     "name": "321 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000064750573",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415455448"
    }
   },
@@ -6238,7 +6238,7 @@
     "name": "36A GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000093391464",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415462171"
    }
   },
@@ -6442,7 +6442,7 @@
     "name": "36 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000093142537",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415463922"
    }
   },
@@ -6799,7 +6799,7 @@
     "name": "589 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000039510385",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415465360"
    }
   },
@@ -7190,7 +7190,7 @@
     "name": "45 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000046965436",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415473212"
    }
   },
@@ -7326,7 +7326,7 @@
     "name": "53 QUEEN STREET GLENUNGA 5064",
     "locID": "LOC000087011890",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415475230"
    }
   },
@@ -7394,7 +7394,7 @@
     "name": "491 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000174067002",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415475238"
    }
   },
@@ -7445,7 +7445,7 @@
     "name": "485 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000130232317",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415475241"
    }
   },
@@ -8040,7 +8040,7 @@
     "name": "13 QUEEN STREET GLENUNGA 5064",
     "locID": "LOC000057233648",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415481868"
    }
   },
@@ -9638,7 +9638,7 @@
     "name": "557 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000011250456",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415496230"
    }
   },
@@ -10148,7 +10148,7 @@
     "name": "UNIT 1, 25 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109925320",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415609533"
    }
   },
@@ -10165,7 +10165,7 @@
     "name": "UNIT 2, 25 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109314847",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415609534"
    }
   },
@@ -10182,7 +10182,7 @@
     "name": "UNIT 3, 25 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109314847",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415609535"
    }
   },
@@ -10199,7 +10199,7 @@
     "name": "UNIT 4, 25 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109206716",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415609536"
    }
   },
@@ -10352,7 +10352,7 @@
     "name": "UNIT 1, 40 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000033521362",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415621911"
    }
   },
@@ -10369,7 +10369,7 @@
     "name": "UNIT 2, 40 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000033576324",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415621912"
    }
   },
@@ -10386,7 +10386,7 @@
     "name": "UNIT 3, 40 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000033132397",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415621913"
    }
   },
@@ -10403,7 +10403,7 @@
     "name": "UNIT 1, 35 BEVINGTON ROAD GLENUNGA 5064",
     "locID": "LOC000059893084",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622831"
    }
   },
@@ -10420,7 +10420,7 @@
     "name": "UNIT 2, 35 BEVINGTON ROAD GLENUNGA 5064",
     "locID": "LOC000059576831",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622832"
    }
   },
@@ -10437,7 +10437,7 @@
     "name": "UNIT 3, 35 BEVINGTON ROAD GLENUNGA 5064",
     "locID": "LOC000059778688",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622833"
    }
   },
@@ -10454,7 +10454,7 @@
     "name": "UNIT 4, 35 BEVINGTON ROAD GLENUNGA 5064",
     "locID": "LOC000059501989",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622834"
    }
   },
@@ -10471,7 +10471,7 @@
     "name": "UNIT 5, 35 BEVINGTON ROAD GLENUNGA 5064",
     "locID": "LOC000059778688",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622835"
    }
   },
@@ -10488,7 +10488,7 @@
     "name": "UNIT 6, 35 BEVINGTON ROAD GLENUNGA 5064",
     "locID": "LOC000059963730",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622836"
    }
   },
@@ -10505,7 +10505,7 @@
     "name": "UNIT 1, 86 ALLINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000027583162",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415623055"
    }
   },
@@ -10522,7 +10522,7 @@
     "name": "UNIT 2, 88 ALLINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000039387592",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415623056"
    }
   },
@@ -10539,7 +10539,7 @@
     "name": "UNIT 3, 86 ALLINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000027606419",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415623057"
    }
   },
@@ -10556,7 +10556,7 @@
     "name": "UNIT 4, 88 ALLINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000039384023",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415623058"
    }
   },
@@ -10998,7 +10998,7 @@
     "name": "UNIT 1, 38 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000067131685",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415635130"
    }
   },
@@ -11015,7 +11015,7 @@
     "name": "UNIT 2, 38 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000067203640",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415635131"
    }
   },
@@ -11032,7 +11032,7 @@
     "name": "UNIT 3, 38 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000067210771",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415635132"
    }
   },
@@ -11355,7 +11355,7 @@
     "name": "UNIT 1, 11 LEROY STREET GLENUNGA 5064",
     "locID": "LOC000054284586",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415645941"
    }
   },
@@ -11372,7 +11372,7 @@
     "name": "UNIT 2, 11 LEROY STREET GLENUNGA 5064",
     "locID": "LOC000053990191",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415645942"
    }
   },
@@ -11389,7 +11389,7 @@
     "name": "UNIT 1, 45A GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000046728243",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415648063"
    }
   },
@@ -11406,7 +11406,7 @@
     "name": "UNIT 2, 45A GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000047135086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415648064"
    }
   },
@@ -12052,7 +12052,7 @@
     "name": "UNIT 1, 9 FOWLERS ROAD GLENUNGA 5064",
     "locID": "LOC000104624908",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415657296"
    }
   },
@@ -12069,7 +12069,7 @@
     "name": "UNIT 2, 9 FOWLERS ROAD GLENUNGA 5064",
     "locID": "LOC000104652264",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415657297"
    }
   },
@@ -12086,7 +12086,7 @@
     "name": "UNIT 3, 9 FOWLERS ROAD GLENUNGA 5064",
     "locID": "LOC000104652201",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415657298"
    }
   },
@@ -13242,7 +13242,7 @@
     "name": "UNIT 1, 95 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000106919882",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415699941"
    }
   },
@@ -13259,7 +13259,7 @@
     "name": "UNIT 2, 95 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000106519482",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415699942"
    }
   },
@@ -13276,7 +13276,7 @@
     "name": "UNIT 3, 95 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000106792537",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415699943"
    }
   },
@@ -13293,7 +13293,7 @@
     "name": "UNIT 4, 95 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000106805999",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415699944"
    }
   },
@@ -13310,7 +13310,7 @@
     "name": "UNIT 1, 581 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000065027819",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415709773"
    }
   },
@@ -13327,7 +13327,7 @@
     "name": "UNIT 2, 581 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000064645947",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415712390"
    }
   },
@@ -13344,7 +13344,7 @@
     "name": "UNIT 3, 581 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000064841286",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415712392"
    }
   },
@@ -13361,7 +13361,7 @@
     "name": "UNIT 4, 581 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000064578170",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415712393"
    }
   },
@@ -13378,7 +13378,7 @@
     "name": "UNIT 3, 52 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109105811",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416012252"
    }
   },
@@ -13395,7 +13395,7 @@
     "name": "UNIT 4, 52 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109930332",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416012253"
    }
   },
@@ -13480,7 +13480,7 @@
     "name": "UNIT 5, 97 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000130196587",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416013336"
    }
   },
@@ -13582,7 +13582,7 @@
     "name": "UNIT 1, 321 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000064750573",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416014436"
    }
   },
@@ -13599,7 +13599,7 @@
     "name": "UNIT 4, 10 BETHUNE AVENUE GLENUNGA 5064",
     "locID": "LOC000075641812",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416014437"
    }
   },
@@ -13650,7 +13650,7 @@
     "name": "UNIT 3, 321 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000064748928",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416014442"
    }
   },
@@ -13684,7 +13684,7 @@
     "name": "UNIT 2, 321 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000064587477",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416014444"
    }
   },
@@ -13701,7 +13701,7 @@
     "name": "UNIT 2, 52 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109726989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416014445"
    }
   },
@@ -13718,7 +13718,7 @@
     "name": "UNIT 3, 10 BETHUNE AVENUE GLENUNGA 5064",
     "locID": "LOC000075205963",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416014446"
    }
   },
@@ -13786,7 +13786,7 @@
     "name": "UNIT 6, 97 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000130196587",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416015373"
    }
   },
@@ -13803,7 +13803,7 @@
     "name": "UNIT 8, 97 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000130196587",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416015374"
    }
   },
@@ -13820,7 +13820,7 @@
     "name": "UNIT 7, 97 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000130196587",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416015889"
    }
   },
@@ -13871,7 +13871,7 @@
     "name": "2 TREVORTEN AVENUE GLENUNGA 5064",
     "locID": "LOC000130228643",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416016789"
    }
   },
@@ -13888,7 +13888,7 @@
     "name": "52 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109726989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416017579"
    }
   },
@@ -13990,7 +13990,7 @@
     "name": "UNIT 3, 45A GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000047143258",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416017817"
    }
   },
@@ -14313,7 +14313,7 @@
     "name": "9 ERINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000130196541",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416019304"
    }
   },
@@ -14432,7 +14432,7 @@
     "name": "78 ALLINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000032463283",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_416021065"
    }
   },
@@ -14466,7 +14466,7 @@
     "name": "493 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000151726813",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416021933"
    }
   },
@@ -14568,7 +14568,7 @@
     "name": "327 GLEN OSMOND ROAD GLENUNGA 5064",
     "locID": "LOC000037508813",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416025074"
    }
   },
@@ -14585,7 +14585,7 @@
     "name": "UNIT 2, 10 BETHUNE AVENUE GLENUNGA 5064",
     "locID": "LOC000075528701",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416025140"
    }
   },
@@ -14602,7 +14602,7 @@
     "name": "UNIT 1, 10 BETHUNE AVENUE GLENUNGA 5064",
     "locID": "LOC000075566421",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416025143"
    }
   },
@@ -14636,7 +14636,7 @@
     "name": "UNIT 1, 52 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109822709",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416025147"
    }
   },
@@ -14721,7 +14721,7 @@
     "name": "115 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000130236202",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416672193"
    }
   },
@@ -14857,7 +14857,7 @@
     "name": "11 LEROY STREET GLENUNGA 5064",
     "locID": "LOC000054284586",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416677453"
    }
   },
@@ -15146,7 +15146,7 @@
     "name": "591 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000130188412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416680881"
    }
   },
@@ -15639,7 +15639,7 @@
     "name": "UNIT 1, 109 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000019244612",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421973381"
    }
   },
@@ -15656,7 +15656,7 @@
     "name": "UNIT 2, 109 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000019168993",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421973382"
    }
   },
@@ -15673,7 +15673,7 @@
     "name": "UNIT 3, 109 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000019205281",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421973383"
    }
   },
@@ -15758,7 +15758,7 @@
     "name": "40 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000033521362",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422038273"
    }
   },
@@ -15775,7 +15775,7 @@
     "name": "38 WINDSOR ROAD GLENUNGA 5064",
     "locID": "LOC000067131685",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422038274"
    }
   },
@@ -15809,7 +15809,7 @@
     "name": "581 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000065027819",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422038973"
    }
   },
@@ -15911,7 +15911,7 @@
     "name": "35 BEVINGTON ROAD GLENUNGA 5064",
     "locID": "LOC000059778688",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422039822"
    }
   },
@@ -15962,7 +15962,7 @@
     "name": "25 GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000109314847",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422042916"
    }
   },
@@ -16132,7 +16132,7 @@
     "name": "9 FOWLERS ROAD GLENUNGA 5064",
     "locID": "LOC000104624908",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422052527"
    }
   },
@@ -16149,7 +16149,7 @@
     "name": "86 ALLINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000027606419",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422053456"
    }
   },
@@ -16251,7 +16251,7 @@
     "name": "95 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000130196556",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422073193"
    }
   },
@@ -16472,7 +16472,7 @@
     "name": "97 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000130196587",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423607706"
    }
   },
@@ -16557,7 +16557,7 @@
     "name": "88 ALLINGA AVENUE GLENUNGA 5064",
     "locID": "LOC000039387592",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423862562"
    }
   },
@@ -16676,7 +16676,7 @@
     "name": "481 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000151734729",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423869486"
    }
   },
@@ -16880,7 +16880,7 @@
     "name": "45A GLENUNGA AVENUE GLENUNGA 5064",
     "locID": "LOC000047135086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424414012"
    }
   },
@@ -17135,7 +17135,7 @@
     "name": "10 BETHUNE AVENUE GLENUNGA 5064",
     "locID": "LOC000075566421",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424931661"
    }
   },
@@ -17203,7 +17203,7 @@
     "name": "109 SYDNEY STREET GLENUNGA 5064",
     "locID": "LOC000019244612",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424932281"
    }
   },
@@ -17220,7 +17220,7 @@
     "name": "UNIT 1, 591 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000130188412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425067732"
    }
   },
@@ -17237,7 +17237,7 @@
     "name": "UNIT 2, 591 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000130188420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425067733"
    }
   },
@@ -17254,7 +17254,7 @@
     "name": "UNIT 3, 591 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000130188431",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425067734"
    }
   },
@@ -17271,7 +17271,7 @@
     "name": "UNIT 4, 591 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000130188449",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425067735"
    }
   },
@@ -17356,7 +17356,7 @@
     "name": "UNIT 1, 481-483 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000151735889",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425448594"
    }
   },
@@ -17373,7 +17373,7 @@
     "name": "UNIT 2, 481-483 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000151736420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425448595"
    }
   },
@@ -17390,7 +17390,7 @@
     "name": "UNIT 3, 481-483 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000151734729",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425448596"
    }
   },
@@ -17407,7 +17407,7 @@
     "name": "UNIT 4, 481-483 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000151734729",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425448597"
    }
   },
@@ -17491,8 +17491,8 @@
    "properties": {
     "name": "11-13 TREVORTEN AVENUE GLENUNGA 5064",
     "locID": "LOC000151731103",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_425453739"
    }
   },
@@ -17594,7 +17594,7 @@
     "name": "53A QUEEN STREET GLENUNGA 5064",
     "locID": "LOC000151739711",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425808477"
    }
   },
@@ -17781,7 +17781,7 @@
     "name": "UNIT 1, 589 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000039510385",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719451258"
    }
   },
@@ -17815,7 +17815,7 @@
     "name": "UNIT 3, 589 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000039510385",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719453040"
    }
   },
@@ -17832,7 +17832,7 @@
     "name": "UNIT 2, 589 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000039510385",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719453978"
    }
   },
@@ -17849,7 +17849,7 @@
     "name": "17 TREVORTEN AVENUE GLENUNGA 5064",
     "locID": "LOC000163592071",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719515057"
    }
   },
@@ -17917,7 +17917,7 @@
     "name": "17A TREVORTEN AVENUE GLENUNGA 5064",
     "locID": "LOC000163592085",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_719866520"
    }
   },
@@ -18155,7 +18155,7 @@
     "name": "561 PORTRUSH ROAD GLENUNGA 5064",
     "locID": "LOC000185209176",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720586737"
    }
   },
@@ -18215,23 +18215,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.64280394,
-     -34.95431235
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 587 PORTRUSH ROAD GLENUNGA 5064",
-    "locID": "LOC000017840400",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_720720481"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.64252511,
      -34.9475035
     ]
@@ -18242,74 +18225,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720720570"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.642834,
-     -34.9541917
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 587 PORTRUSH ROAD GLENUNGA 5064",
-    "locID": "LOC000017840400",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_720721716"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.64286254,
-     -34.9544291
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 587 PORTRUSH ROAD GLENUNGA 5064",
-    "locID": "LOC000017840400",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_720722604"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.6432197,
-     -34.95418217
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 587 PORTRUSH ROAD GLENUNGA 5064",
-    "locID": "LOC000017840400",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_720723637"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.6432458,
-     -34.95438948
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 587 PORTRUSH ROAD GLENUNGA 5064",
-    "locID": "LOC000017840400",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_720723968"
    }
   },
   {
