@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T18:12:10.659452",
+ "generated": "2023-09-29T16:56:56.161363",
  "suburb": "LARGS NORTH",
  "features": [
   {
@@ -9161,8 +9161,8 @@
    "properties": {
     "name": "252 LADY GOWRIE DRIVE LARGS NORTH 5016",
     "locID": "LOC000081542518",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415769116"
    }
   },
@@ -9858,8 +9858,8 @@
    "properties": {
     "name": "6 MIDDLETON ROAD LARGS NORTH 5016",
     "locID": "LOC000049815360",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415774482"
    }
   },
@@ -14924,8 +14924,8 @@
    "properties": {
     "name": "263 LADY GOWRIE DRIVE LARGS NORTH 5016",
     "locID": "LOC000030298646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415828182"
    }
   },
@@ -15672,26 +15672,9 @@
    "properties": {
     "name": "58 STRATHFIELD TERRACE LARGS NORTH 5016",
     "locID": "LOC000007569003",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415832191"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.50004596,
-     -34.81542235
-    ]
-   },
-   "properties": {
-    "name": "45 KOLAPORE AVENUE LARGS NORTH 5016",
-    "locID": "LOC000031133690",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415832547"
    }
   },
   {
@@ -15876,8 +15859,8 @@
    "properties": {
     "name": "19 SEAFIELD STREET LARGS NORTH 5016",
     "locID": "LOC000019268898",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415832615"
    }
   },
@@ -19694,6 +19677,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.49966507,
+     -34.81484072
+    ]
+   },
+   "properties": {
+    "name": "126 RAILWAY TERRACE LARGS NORTH 5016",
+    "locID": "LOC000193759555",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415853944"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.49953588,
      -34.8147018
     ]
@@ -22135,74 +22135,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416111601"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.49995635,
-     -34.81556045
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 45 KOLAPORE AVENUE LARGS NORTH 5016",
-    "locID": "LOC000031133690",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_416111602"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.5000637,
-     -34.81568099
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 45 KOLAPORE AVENUE LARGS NORTH 5016",
-    "locID": "LOC000031133690",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_416111603"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.50004596,
-     -34.81542235
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 45 KOLAPORE AVENUE LARGS NORTH 5016",
-    "locID": "LOC000031133690",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_416111604"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.49987225,
-     -34.81542121
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 45 KOLAPORE AVENUE LARGS NORTH 5016",
-    "locID": "LOC000031133690",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_416111605"
    }
   },
   {
@@ -25719,8 +25651,8 @@
    "properties": {
     "name": "15 KIRBY TERRACE LARGS NORTH 5016",
     "locID": "LOC000054277479",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424311954"
    }
   },
