@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T12:47:19.154781",
+ "generated": "2023-09-29T11:47:43.410677",
  "suburb": "MILLMERRAN",
  "features": [
   {
@@ -50,7 +50,7 @@
     "name": "39 CHARLOTTE STREET MILLMERRAN 4357",
     "locID": "LOC000008552734",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155547858"
    }
   },
@@ -679,7 +679,7 @@
     "name": "30 COMMENS STREET MILLMERRAN 4357",
     "locID": "LOC000100970137",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155549630"
    }
   },
@@ -883,7 +883,7 @@
     "name": "2 GILLESPIE STREET MILLMERRAN 4357",
     "locID": "LOC000036488608",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155553382"
    }
   },
@@ -917,7 +917,7 @@
     "name": "28 GILLESPIE STREET MILLMERRAN 4357",
     "locID": "LOC000044696052",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155553385"
    }
   },
@@ -1733,7 +1733,7 @@
     "name": "19 EDWARD STREET MILLMERRAN 4357",
     "locID": "LOC000054849478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155554293"
    }
   },
@@ -2226,7 +2226,7 @@
     "name": "17-21 CAMPBELL STREET MILLMERRAN 4357",
     "locID": "LOC000112243210",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155559826"
    }
   },
@@ -4487,7 +4487,7 @@
     "name": "13 WALPOLE STREET MILLMERRAN 4357",
     "locID": "LOC000038344023",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156815200"
    }
   },
@@ -5217,8 +5217,8 @@
    "properties": {
     "name": "8 HERBERT STREET MILLMERRAN 4357",
     "locID": "LOC000072425966",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156819024"
    }
   },
@@ -5507,7 +5507,7 @@
     "name": "88-90 BRUCE ROAD MILLMERRAN 4357",
     "locID": "LOC000098956206",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156819279"
    }
   },
@@ -6170,7 +6170,7 @@
     "name": "2 ATTLEIGH STREET MILLMERRAN 4357",
     "locID": "LOC000073551166",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156836129"
    }
   },
@@ -6255,7 +6255,7 @@
     "name": "1 FLORENCE STREET MILLMERRAN 4357",
     "locID": "LOC000038108667",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156836685"
    }
   },
@@ -7683,7 +7683,7 @@
     "name": "2 REBECCA STREET MILLMERRAN 4357",
     "locID": "LOC000086185808",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156860881"
    }
   },
@@ -8091,7 +8091,7 @@
     "name": "18 ALBERT STREET MILLMERRAN 4357",
     "locID": "LOC000043886621",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156867933"
    }
   },
@@ -8465,7 +8465,7 @@
     "name": "UNIT 1, 28 GILLESPIE STREET MILLMERRAN 4357",
     "locID": "LOC000044696052",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158272589"
    }
   },
@@ -8516,7 +8516,7 @@
     "name": "UNIT 2, 28 GILLESPIE STREET MILLMERRAN 4357",
     "locID": "LOC000044939464",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158273122"
    }
   },
@@ -8533,7 +8533,7 @@
     "name": "UNIT 2, 30 GILLESPIE STREET MILLMERRAN 4357",
     "locID": "LOC000036488608",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158273124"
    }
   },
@@ -8584,7 +8584,7 @@
     "name": "UNIT 1, 30 GILLESPIE STREET MILLMERRAN 4357",
     "locID": "LOC000036469028",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158273909"
    }
   },
@@ -8618,7 +8618,7 @@
     "name": "UNIT 2, 30 COMMENS STREET MILLMERRAN 4357",
     "locID": "LOC000100925109",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158274325"
    }
   },
@@ -8669,7 +8669,7 @@
     "name": "UNIT 2, 1 FLORENCE STREET MILLMERRAN 4357",
     "locID": "LOC000038567789",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158280989"
    }
   },
@@ -8754,7 +8754,7 @@
     "name": "UNIT 2, 13 WALPOLE STREET MILLMERRAN 4357",
     "locID": "LOC000038407758",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158284029"
    }
   },
@@ -8771,7 +8771,7 @@
     "name": "UNIT 2, 19 EDWARD STREET MILLMERRAN 4357",
     "locID": "LOC000054695214",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158284757"
    }
   },
@@ -8788,7 +8788,7 @@
     "name": "UNIT 1, 13 WALPOLE STREET MILLMERRAN 4357",
     "locID": "LOC000038344023",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158284763"
    }
   },
@@ -8907,7 +8907,7 @@
     "name": "UNIT 1, 18 ALBERT STREET MILLMERRAN 4357",
     "locID": "LOC000043886621",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158291830"
    }
   },
@@ -8924,7 +8924,7 @@
     "name": "UNIT 1, 19 EDWARD STREET MILLMERRAN 4357",
     "locID": "LOC000054849478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158293350"
    }
   },
@@ -8958,7 +8958,7 @@
     "name": "UNIT 2, 18 ALBERT STREET MILLMERRAN 4357",
     "locID": "LOC000043886621",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158293357"
    }
   },
@@ -8975,7 +8975,7 @@
     "name": "UNIT 1, 2 REBECCA STREET MILLMERRAN 4357",
     "locID": "LOC000086213408",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158293359"
    }
   },
@@ -9060,7 +9060,7 @@
     "name": "UNIT 2, 2 REBECCA STREET MILLMERRAN 4357",
     "locID": "LOC000086185808",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158303525"
    }
   },
@@ -9128,7 +9128,7 @@
     "name": "UNIT 2, 21 STATION STREET MILLMERRAN 4357",
     "locID": "LOC000071065203",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158308149"
    }
   },
@@ -9145,7 +9145,7 @@
     "name": "UNIT 1, 1 FLORENCE STREET MILLMERRAN 4357",
     "locID": "LOC000038108667",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158308211"
    }
   },
@@ -9179,7 +9179,7 @@
     "name": "UNIT 1, 21 STATION STREET MILLMERRAN 4357",
     "locID": "LOC000071065203",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158308282"
    }
   },
@@ -10097,7 +10097,7 @@
     "name": "UNIT 1, 30 COMMENS STREET MILLMERRAN 4357",
     "locID": "LOC000100970137",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159927181"
    }
   },
@@ -10947,7 +10947,7 @@
     "name": "LOT 21 CAMPBELL STREET MILLMERRAN 4357",
     "locID": "LOC000112243210",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161092366"
    }
   },
@@ -11321,7 +11321,7 @@
     "name": "UNIT 1, 6 WILLIAM STREET MILLMERRAN 4357",
     "locID": "LOC000077495865",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161671876"
    }
   },
@@ -11338,7 +11338,7 @@
     "name": "UNIT 2, 6 WILLIAM STREET MILLMERRAN 4357",
     "locID": "LOC000077895483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161671877"
    }
   },
@@ -13582,7 +13582,7 @@
     "name": "6 WILLIAM STREET MILLMERRAN 4357",
     "locID": "LOC000077895483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161773356"
    }
   },
@@ -15129,7 +15129,7 @@
     "name": "30 GILLESPIE STREET MILLMERRAN 4357",
     "locID": "LOC000036469028",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162709780"
    }
   },
@@ -15707,7 +15707,7 @@
     "name": "17-19 CAMPBELL STREET MILLMERRAN 4357",
     "locID": "LOC000112243210",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163293595"
    }
   },
@@ -15724,7 +15724,7 @@
     "name": "21 CAMPBELL STREET MILLMERRAN 4357",
     "locID": "LOC000112243210",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163293596"
    }
   },
