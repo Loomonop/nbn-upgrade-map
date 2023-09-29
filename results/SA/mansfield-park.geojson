@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T17:39:30.205589",
+ "generated": "2023-09-29T16:23:23.195774",
  "suburb": "MANSFIELD PARK",
  "features": [
   {
@@ -3211,8 +3211,8 @@
    "properties": {
     "name": "59 GLADSTONE ROAD MANSFIELD PARK 5012",
     "locID": "LOC000087273583",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GASA_415054207"
    }
   },
@@ -5863,8 +5863,8 @@
    "properties": {
     "name": "33 MURCHISON STREET MANSFIELD PARK 5012",
     "locID": "LOC000043053785",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415140291"
    }
   },
@@ -11729,7 +11729,7 @@
     "name": "3 MURCHISON STREET MANSFIELD PARK 5012",
     "locID": "LOC000037589565",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415327406"
    }
   },
@@ -12884,8 +12884,8 @@
    "properties": {
     "name": "11A DUDLEY STREET MANSFIELD PARK 5012",
     "locID": "LOC000185968303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415333417"
    }
   },
@@ -13344,7 +13344,7 @@
     "name": "3 BYRON STREET MANSFIELD PARK 5012",
     "locID": "LOC000039547067",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415336991"
    }
   },
@@ -15835,23 +15835,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.55035789,
-     -34.85845686
-    ]
-   },
-   "properties": {
-    "name": "26 WILSON STREET MANSFIELD PARK 5012",
-    "locID": "LOC000083651972",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415358870"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.55074187,
      -34.8584294
     ]
@@ -17050,7 +17033,7 @@
     "name": "204 HANSON ROAD MANSFIELD PARK 5012",
     "locID": "LOC000166059829",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415438259"
    }
   },
@@ -24751,7 +24734,7 @@
     "name": "1 STURT STREET MANSFIELD PARK 5012",
     "locID": "LOC000110524986",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424693522"
    }
   },
@@ -26587,7 +26570,7 @@
     "name": "23 JUNE STREET MANSFIELD PARK 5012",
     "locID": "LOC000114819647",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424739241"
    }
   },
@@ -26621,7 +26604,7 @@
     "name": "27 JUNE STREET MANSFIELD PARK 5012",
     "locID": "LOC000113184194",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424739243"
    }
   },
@@ -28830,8 +28813,8 @@
    "properties": {
     "name": "UNIT 1, 11A DUDLEY STREET MANSFIELD PARK 5012",
     "locID": "LOC000185968303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425359629"
    }
   },
@@ -28847,8 +28830,8 @@
    "properties": {
     "name": "UNIT 2, 11A DUDLEY STREET MANSFIELD PARK 5012",
     "locID": "LOC000185968303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425359630"
    }
   },
@@ -28864,8 +28847,8 @@
    "properties": {
     "name": "UNIT 3, 11A DUDLEY STREET MANSFIELD PARK 5012",
     "locID": "LOC000185968303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_425359631"
    }
   },
@@ -29409,7 +29392,7 @@
     "name": "51A DUDLEY CRESCENT MANSFIELD PARK 5012",
     "locID": "LOC000166058500",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425598308"
    }
   },
@@ -30293,7 +30276,7 @@
     "name": "UNIT 1, 204 HANSON ROAD MANSFIELD PARK 5012",
     "locID": "LOC000166059829",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719046137"
    }
   },
@@ -31041,7 +31024,7 @@
     "name": "UNIT 2, 204 HANSON ROAD MANSFIELD PARK 5012",
     "locID": "LOC000166059838",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719783387"
    }
   },

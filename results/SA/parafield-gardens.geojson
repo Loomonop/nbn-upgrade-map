@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-08T17:56:57.045168",
+ "generated": "2023-09-29T16:40:14.778237",
  "suburb": "PARAFIELD GARDENS",
  "features": [
   {
@@ -15111,8 +15111,8 @@
    "properties": {
     "name": "10 ROSECOMBE PLACE PARAFIELD GARDENS 5107",
     "locID": "LOC000013358347",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415209366"
    }
   },
@@ -16183,7 +16183,7 @@
     "name": "1 SPRINGBANK PLACE PARAFIELD GARDENS 5107",
     "locID": "LOC000014164226",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415220749"
    }
   },
@@ -16285,7 +16285,7 @@
     "name": "10 SPRINGBANK PLACE PARAFIELD GARDENS 5107",
     "locID": "LOC000044888155",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415220758"
    }
   },
@@ -16386,8 +16386,8 @@
    "properties": {
     "name": "11 SPRINGWOOD AVENUE PARAFIELD GARDENS 5107",
     "locID": "LOC000049515455",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415221781"
    }
   },
@@ -16999,7 +16999,7 @@
     "name": "72 PARKWAY CIRCUIT PARAFIELD GARDENS 5107",
     "locID": "LOC000054253324",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415229895"
    }
   },
@@ -22866,6 +22866,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415305765"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.61233735,
+     -34.78847685
+    ]
+   },
+   "properties": {
+    "name": "34 LINCOLN AVENUE PARAFIELD GARDENS 5107",
+    "locID": "ChIJXUlyQcS2sGoRsGRjnSv8PzI",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_415306868"
    }
   },
   {
@@ -51729,8 +51746,8 @@
    "properties": {
     "name": "LOT 500 ROSECOMBE PLACE PARAFIELD GARDENS 5107",
     "locID": "LOC000013358347",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415816508"
    }
   },
@@ -63258,23 +63275,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415843821"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.61431556,
-     -34.779144
-    ]
-   },
-   "properties": {
-    "name": "57 VERBENA DRIVE PARAFIELD GARDENS 5107",
-    "locID": "LOC000095270068",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_415843822"
    }
   },
   {
@@ -80187,7 +80187,7 @@
    "properties": {
     "name": "6 AGIUS COURT PARAFIELD GARDENS 5107",
     "locID": "ChIJN8LAK822sGoR8sF0fEfZG40",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415855448"
    }
@@ -92852,8 +92852,8 @@
    "properties": {
     "name": "17 DINEEN ROAD PARAFIELD GARDENS 5107",
     "locID": "LOC000067229284",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_423860919"
    }
   },
@@ -97323,8 +97323,8 @@
    "properties": {
     "name": "26 THE BOULEVARD PARAFIELD GARDENS 5107",
     "locID": "LOC000090799865",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_424123372"
    }
   },
@@ -109156,7 +109156,7 @@
     "name": "714-720 PORT WAKEFIELD ROAD PARAFIELD GARDENS 5107",
     "locID": "LOC000105407885",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425448359"
    }
   },
@@ -125417,23 +125417,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.61438457,
-     -34.77912306
-    ]
-   },
-   "properties": {
-    "name": "57A VERBENA DRIVE PARAFIELD GARDENS 5107",
-    "locID": "LOC000095270068",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721251334"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.61369185,
      -34.79386513
     ]
@@ -125563,23 +125546,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721252895"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.61421217,
-     -34.77917521
-    ]
-   },
-   "properties": {
-    "name": "57B VERBENA DRIVE PARAFIELD GARDENS 5107",
-    "locID": "LOC000095270068",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GASA_721253961"
    }
   },
   {
