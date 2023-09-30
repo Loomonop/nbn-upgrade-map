@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-10T01:58:11.494630",
+ "generated": "2023-09-30T22:35:35.083921",
  "suburb": "ROBERTSON",
  "features": [
   {
@@ -6577,8 +6577,8 @@
    "properties": {
     "name": "16 OLD JAMBEROO ROAD ROBERTSON 2577",
     "locID": "LOC000098764810",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW712665089"
    }
   },
@@ -11439,7 +11439,7 @@
    "properties": {
     "name": "4 BARRENGARRY STREET ROBERTSON 2577",
     "locID": "ChIJdXxcmXh1E2sRLFGnDzqoo5I",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717942775"
    }
@@ -11984,7 +11984,7 @@
     "name": "531 BELMORE FALLS ROAD ROBERTSON 2577",
     "locID": "LOC000121355420",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717999794"
    }
   },
@@ -13088,8 +13088,8 @@
    "properties": {
     "name": "19 OLD JAMBEROO ROAD ROBERTSON 2577",
     "locID": "LOC000012294432",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW718045978"
    }
   },
@@ -14126,7 +14126,7 @@
     "name": "30 MUASDALE LANE ROBERTSON 2577",
     "locID": "LOC000113118959",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718123243"
    }
   },
@@ -19143,6 +19143,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720529475"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.59005254,
+     -34.5832758
+    ]
+   },
+   "properties": {
+    "name": "10 MAY STREET ROBERTSON 2577",
+    "locID": "LOC000095846086",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720533231"
    }
   },
   {
