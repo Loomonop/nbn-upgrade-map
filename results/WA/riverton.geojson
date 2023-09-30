@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-09T07:54:01.892663",
+ "generated": "2023-09-30T05:44:43.627730",
  "suburb": "RIVERTON",
  "features": [
   {
@@ -4707,8 +4707,8 @@
    "properties": {
     "name": "192 CORINTHIAN ROAD EAST RIVERTON 6148",
     "locID": "LOC000181906865",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146742048"
    }
   },
@@ -9535,8 +9535,8 @@
    "properties": {
     "name": "194 HIGH ROAD RIVERTON 6148",
     "locID": "LOC000079188325",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146781955"
    }
   },
@@ -12766,7 +12766,7 @@
     "name": "89 MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000065267982",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146787809"
    }
   },
@@ -15197,7 +15197,7 @@
     "name": "101 MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000039060454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146790781"
    }
   },
@@ -15248,7 +15248,7 @@
     "name": "97 MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000063376787",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146790785"
    }
   },
@@ -15299,7 +15299,7 @@
     "name": "95 MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000019470262",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146790788"
    }
   },
@@ -15316,7 +15316,7 @@
     "name": "93 MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000016532166",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146790789"
    }
   },
@@ -15367,7 +15367,7 @@
     "name": "91 MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000051633339",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146790792"
    }
   },
@@ -15556,6 +15556,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146791278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.88669345,
+     -32.03643557
+    ]
+   },
+   "properties": {
+    "name": "36 MANDORA WAY RIVERTON 6148",
+    "locID": "LOC000193619735",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146791400"
    }
   },
   {
@@ -17203,7 +17220,7 @@
     "name": "103 MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000021967060",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146800147"
    }
   },
@@ -20126,8 +20143,8 @@
    "properties": {
     "name": "28 ERRINBEE STREET RIVERTON 6148",
     "locID": "LOC000033885900",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147275058"
    }
   },
@@ -20772,8 +20789,8 @@
    "properties": {
     "name": "4A NABAWA STREET RIVERTON 6148",
     "locID": "LOC000032025869",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147283797"
    }
   },
@@ -26706,7 +26723,7 @@
     "name": "56 TUDOR AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000011501648",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148058583"
    }
   },
@@ -31533,8 +31550,8 @@
    "properties": {
     "name": "53 TRIBUTE STREET EAST RIVERTON 6148",
     "locID": "LOC000085341628",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148085996"
    }
   },
@@ -32587,8 +32604,8 @@
    "properties": {
     "name": "28 TYRE AVENUE RIVERTON 6148",
     "locID": "LOC000046338365",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160652347"
    }
   },
@@ -33352,8 +33369,8 @@
    "properties": {
     "name": "64A TUDOR AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000047928825",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_161520470"
    }
   },
@@ -34049,8 +34066,8 @@
    "properties": {
     "name": "UNIT 2, 12 MONTES SQUARE RIVERTON 6148",
     "locID": "LOC000031073728",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162338414"
    }
   },
@@ -35257,7 +35274,7 @@
     "name": "101A MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000038718390",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162577536"
    }
   },
@@ -35274,7 +35291,7 @@
     "name": "101B MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000039060454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162577537"
    }
   },
@@ -38725,7 +38742,7 @@
     "name": "103A MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000132656583",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163382167"
    }
   },
@@ -39507,7 +39524,7 @@
     "name": "89A MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000153968347",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718390563"
    }
   },
@@ -39609,7 +39626,7 @@
     "name": "99A MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000153970681",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718395329"
    }
   },
@@ -39626,7 +39643,7 @@
     "name": "99B MODILLION AVENUE SOUTH RIVERTON 6148",
     "locID": "LOC000153970675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_718395330"
    }
   },
@@ -40407,8 +40424,8 @@
    "properties": {
     "name": "57B RILEY ROAD RIVERTON 6148",
     "locID": "LOC000153969032",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718639100"
    }
   },
@@ -40713,8 +40730,8 @@
    "properties": {
     "name": "17C VERONICA STREET RIVERTON 6148",
     "locID": "LOC000153972376",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718718738"
    }
   },
@@ -43042,8 +43059,8 @@
    "properties": {
     "name": "192B CORINTHIAN ROAD EAST RIVERTON 6148",
     "locID": "LOC000181906865",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719781587"
    }
   },
@@ -43059,8 +43076,8 @@
    "properties": {
     "name": "192A CORINTHIAN ROAD EAST RIVERTON 6148",
     "locID": "LOC000181906865",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_719781767"
    }
   },
@@ -45150,7 +45167,7 @@
    "properties": {
     "name": "52C KALANGEDY DRIVE RIVERTON 6148",
     "locID": "ChIJb20q3xy9MioRUchkLHqA4gw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715193"
    }
@@ -45167,7 +45184,7 @@
    "properties": {
     "name": "52B KALANGEDY DRIVE RIVERTON 6148",
     "locID": "ChIJscqs3hy9MioRdFomPur_v5o",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720715493"
    }
@@ -45303,7 +45320,7 @@
    "properties": {
     "name": "52A KALANGEDY DRIVE RIVERTON 6148",
     "locID": "ChIJE9p33By9MioRUKXb1AM8llU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_720717160"
    }
