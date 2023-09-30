@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-09T09:20:48.548953",
+ "generated": "2023-09-30T07:10:30.470207",
  "suburb": "SOUTHERN RIVER",
  "features": [
   {
@@ -6305,8 +6305,8 @@
    "properties": {
     "name": "13 DOLLARBIRD ROAD SOUTHERN RIVER 6110",
     "locID": "LOC000022831385",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147339349"
    }
   },
@@ -14771,8 +14771,8 @@
    "properties": {
     "name": "4 ALASKA CRESCENT SOUTHERN RIVER 6110",
     "locID": "LOC000006887455",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161988919"
    }
   },
@@ -15112,7 +15112,7 @@
     "name": "9 CHICAGO STREET SOUTHERN RIVER 6110",
     "locID": "LOC000099458745",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_161990220"
    }
   },
@@ -25108,7 +25108,7 @@
     "name": "23B HOLMES STREET SOUTHERN RIVER 6110",
     "locID": "LOC000002974077",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162570183"
    }
   },
@@ -30190,8 +30190,8 @@
    "properties": {
     "name": "32 ALDENHAM DRIVE SOUTHERN RIVER 6110",
     "locID": "LOC000059324127",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162681151"
    }
   },
@@ -31482,8 +31482,8 @@
    "properties": {
     "name": "8 ABBOTSDALE WAY SOUTHERN RIVER 6110",
     "locID": "LOC000078002297",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_162717674"
    }
   },
@@ -31788,8 +31788,8 @@
    "properties": {
     "name": "3 LOWERHALL GARDENS SOUTHERN RIVER 6110",
     "locID": "LOC000004499402",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162723440"
    }
   },
@@ -41768,7 +41768,7 @@
     "name": "142 HOLMES STREET SOUTHERN RIVER 6110",
     "locID": "LOC000110486479",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163380330"
    }
   },
@@ -53939,8 +53939,8 @@
    "properties": {
     "name": "19 ALASKA CRESCENT SOUTHERN RIVER 6110",
     "locID": "LOC000163650720",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718548161"
    }
   },
@@ -58396,6 +58396,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718635804"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.95410084,
+     -32.10057741
+    ]
+   },
+   "properties": {
+    "name": "86 CASTLEWOOD PARKWAY SOUTHERN RIVER 6110",
+    "locID": "LOC000137701580",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_718635805"
    }
   },
   {
@@ -80459,8 +80476,8 @@
    "properties": {
     "name": "33 NEWMERRIE STREET SOUTHERN RIVER 6110",
     "locID": "LOC000112082448",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_720562408"
    }
   },
