@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-09T16:44:54.108846",
+ "generated": "2023-09-30T14:01:14.537096",
  "suburb": "YOKINE",
  "features": [
   {
@@ -219,8 +219,8 @@
    "properties": {
     "name": "2 KNIGHT AVENUE YOKINE 6060",
     "locID": "LOC000089131486",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146580772"
    }
   },
@@ -1409,8 +1409,8 @@
    "properties": {
     "name": "142 SWAN STREET YOKINE 6060",
     "locID": "LOC000073681956",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146584328"
    }
   },
@@ -6730,8 +6730,8 @@
    "properties": {
     "name": "11 KNIGHT AVENUE YOKINE 6060",
     "locID": "LOC000100180777",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146601960"
    }
   },
@@ -8685,8 +8685,8 @@
    "properties": {
     "name": "9 WOODROW AVENUE YOKINE 6060",
     "locID": "LOC000043364254",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146604559"
    }
   },
@@ -9538,6 +9538,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146608628"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.85629,
+     -31.89909
+    ]
+   },
+   "properties": {
+    "name": "24 THURLOW AVENUE YOKINE 6060",
+    "locID": "LOC000193630481",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146608652"
    }
   },
   {
@@ -10930,7 +10947,7 @@
     "name": "44 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000022933819",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146627656"
    }
   },
@@ -11185,7 +11202,7 @@
     "name": "48 TUART STREET YOKINE 6060",
     "locID": "LOC000088586768",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146629156"
    }
   },
@@ -11831,7 +11848,7 @@
     "name": "32 VIRGIL AVENUE YOKINE 6060",
     "locID": "LOC000031496882",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146637808"
    }
   },
@@ -12154,7 +12171,7 @@
     "name": "179 WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000024513128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146638603"
    }
   },
@@ -14007,7 +14024,7 @@
     "name": "80 ALEXANDER DRIVE YOKINE 6060",
     "locID": "LOC000132213958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146640284"
    }
   },
@@ -14075,7 +14092,7 @@
     "name": "131 SHAKESPEARE AVENUE YOKINE 6060",
     "locID": "LOC000002138517",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146640291"
    }
   },
@@ -15179,8 +15196,8 @@
    "properties": {
     "name": "49 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000069195672",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146641713"
    }
   },
@@ -15247,8 +15264,8 @@
    "properties": {
     "name": "280 MCDONALD STREET YOKINE 6060",
     "locID": "LOC000177791596",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146641968"
    }
   },
@@ -15928,7 +15945,7 @@
     "name": "59 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000084050472",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146642479"
    }
   },
@@ -17457,8 +17474,8 @@
    "properties": {
     "name": "6 VIRGIL AVENUE YOKINE 6060",
     "locID": "LOC000103572085",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146644739"
    }
   },
@@ -17950,8 +17967,8 @@
    "properties": {
     "name": "57 VIRGIL AVENUE YOKINE 6060",
     "locID": "LOC000103609603",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146645230"
    }
   },
@@ -19140,8 +19157,8 @@
    "properties": {
     "name": "28 VIRGIL AVENUE YOKINE 6060",
     "locID": "LOC000024542757",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146646819"
    }
   },
@@ -21078,8 +21095,8 @@
    "properties": {
     "name": "307 CAPE STREET YOKINE 6060",
     "locID": "LOC000002175495",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146648274"
    }
   },
@@ -22609,7 +22626,7 @@
     "name": "108 SHAKESPEARE AVENUE YOKINE 6060",
     "locID": "LOC000020439761",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146649317"
    }
   },
@@ -22643,7 +22660,7 @@
     "name": "110 SHAKESPEARE AVENUE YOKINE 6060",
     "locID": "LOC000018165029",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146649319"
    }
   },
@@ -22847,7 +22864,7 @@
     "name": "175 VIRGIL AVENUE YOKINE 6060",
     "locID": "LOC000038849271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146649707"
    }
   },
@@ -22948,8 +22965,8 @@
    "properties": {
     "name": "37 DARCH STREET YOKINE 6060",
     "locID": "LOC000027087580",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146649761"
    }
   },
@@ -23900,8 +23917,8 @@
    "properties": {
     "name": "45 CHAUCER STREET YOKINE 6060",
     "locID": "LOC000095989171",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146650442"
    }
   },
@@ -24716,7 +24733,7 @@
    "properties": {
     "name": "1 FARINA DRIVE YOKINE 6060",
     "locID": "LOC000006987795",
-    "tech": "FTTN",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146651504"
    }
@@ -24989,7 +25006,7 @@
     "name": "10 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000056740311",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146653638"
    }
   },
@@ -25209,8 +25226,8 @@
    "properties": {
     "name": "65 GOLF VIEW STREET YOKINE 6060",
     "locID": "LOC000021187975",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146654234"
    }
   },
@@ -25346,7 +25363,7 @@
     "name": "13 YARRUK STREET YOKINE 6060",
     "locID": "LOC000070508958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146655169"
    }
   },
@@ -25482,7 +25499,7 @@
     "name": "9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214073",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146656504"
    }
   },
@@ -25550,7 +25567,7 @@
     "name": "35 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000088276137",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146656750"
    }
   },
@@ -25567,7 +25584,7 @@
     "name": "7 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000038753967",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146656854"
    }
   },
@@ -25617,7 +25634,7 @@
    "properties": {
     "name": "60 WANNEROO ROAD YOKINE 6060",
     "locID": "LOC000181910206",
-    "tech": "FTTN",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146656860"
    }
@@ -25651,8 +25668,8 @@
    "properties": {
     "name": "29 TUART STREET YOKINE 6060",
     "locID": "LOC000100517659",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146657253"
    }
   },
@@ -26706,7 +26723,7 @@
     "name": "29 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000038289647",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146660722"
    }
   },
@@ -27641,7 +27658,7 @@
     "name": "39 WOODROW AVENUE YOKINE 6060",
     "locID": "LOC000107919481",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146988029"
    }
   },
@@ -28066,7 +28083,7 @@
     "name": "41 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000008715490",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147150193"
    }
   },
@@ -28083,7 +28100,7 @@
     "name": "39 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000171586055",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147150195"
    }
   },
@@ -31210,7 +31227,7 @@
    "properties": {
     "name": "6 WANNEROO ROAD YOKINE 6060",
     "locID": "LOC000181910206",
-    "tech": "FTTN",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147181708"
    }
@@ -31262,7 +31279,7 @@
     "name": "UNIT 2, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028733478",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147182581"
    }
   },
@@ -31279,7 +31296,7 @@
     "name": "UNIT 3, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028737582",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147182582"
    }
   },
@@ -31296,7 +31313,7 @@
     "name": "UNIT 3A, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028718070",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147182583"
    }
   },
@@ -32775,7 +32792,7 @@
     "name": "UNIT 1, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028717554",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147189697"
    }
   },
@@ -32979,7 +32996,7 @@
     "name": "61 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000046482289",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147189769"
    }
   },
@@ -41020,7 +41037,7 @@
     "name": "VILLA 1, 43 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000059264188",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147261496"
    }
   },
@@ -41088,7 +41105,7 @@
     "name": "70 VIRGIL AVENUE YOKINE 6060",
     "locID": "LOC000171585831",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147261572"
    }
   },
@@ -41139,7 +41156,7 @@
     "name": "UNIT 1, 292 MCDONALD STREET YOKINE 6060",
     "locID": "LOC000078525483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147261827"
    }
   },
@@ -41156,7 +41173,7 @@
     "name": "UNIT 2, 292 MCDONALD STREET YOKINE 6060",
     "locID": "LOC000078525483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147261828"
    }
   },
@@ -41173,7 +41190,7 @@
     "name": "UNIT 3, 292 MCDONALD STREET YOKINE 6060",
     "locID": "LOC000078517928",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147261829"
    }
   },
@@ -41241,7 +41258,7 @@
     "name": "VILLA 1, 5 DALEY STREET YOKINE 6060",
     "locID": "LOC000056275486",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147261836"
    }
   },
@@ -42091,7 +42108,7 @@
     "name": "VILLA 2, 5 DALEY STREET YOKINE 6060",
     "locID": "LOC000055699590",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147269286"
    }
   },
@@ -42669,7 +42686,7 @@
     "name": "VILLA 3, 5 DALEY STREET YOKINE 6060",
     "locID": "LOC000056295857",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147273062"
    }
   },
@@ -43553,7 +43570,7 @@
     "name": "UNIT 1, 68 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000090619960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147277229"
    }
   },
@@ -43570,7 +43587,7 @@
     "name": "UNIT 2, 68 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000090777274",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147277230"
    }
   },
@@ -44624,7 +44641,7 @@
     "name": "VILLA 2, 43 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000059729256",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147282526"
    }
   },
@@ -44641,7 +44658,7 @@
     "name": "VILLA 3, 43 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000059467960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147282527"
    }
   },
@@ -44658,7 +44675,7 @@
     "name": "VILLA 4, 43 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000059264188",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147282528"
    }
   },
@@ -44709,7 +44726,7 @@
     "name": "43 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000081125268",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147282531"
    }
   },
@@ -44743,7 +44760,7 @@
     "name": "59 DRYDEN STREET YOKINE 6060",
     "locID": "LOC000033796873",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147282533"
    }
   },
@@ -44760,7 +44777,7 @@
     "name": "61 DRYDEN STREET YOKINE 6060",
     "locID": "LOC000031471309",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147282534"
    }
   },
@@ -48159,8 +48176,8 @@
    "properties": {
     "name": "118A MOULDEN AVENUE YOKINE 6060",
     "locID": "LOC000017199978",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148227789"
    }
   },
@@ -48449,7 +48466,7 @@
     "name": "UNIT 3, 33 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000092642079",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148231322"
    }
   },
@@ -49248,7 +49265,7 @@
     "name": "UNIT 5, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028601716",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148241333"
    }
   },
@@ -49265,7 +49282,7 @@
     "name": "UNIT 1, 14 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000089080317",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148241334"
    }
   },
@@ -49282,7 +49299,7 @@
     "name": "UNIT 3, 14 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000089157945",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148241335"
    }
   },
@@ -49945,7 +49962,7 @@
     "name": "UNIT 9, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028621622",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148241703"
    }
   },
@@ -50523,7 +50540,7 @@
     "name": "UNIT 2, 14 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000089230826",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148241980"
    }
   },
@@ -50676,7 +50693,7 @@
     "name": "UNIT 1, 59 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000084456853",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148242001"
    }
   },
@@ -51594,7 +51611,7 @@
     "name": "UNIT 2, 33 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000092749168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148243046"
    }
   },
@@ -51797,8 +51814,8 @@
    "properties": {
     "name": "19B MICHAEL STREET YOKINE 6060",
     "locID": "LOC000027003677",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148243255"
    }
   },
@@ -52308,7 +52325,7 @@
     "name": "5 DALEY STREET YOKINE 6060",
     "locID": "LOC000056295857",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148243379"
    }
   },
@@ -55725,7 +55742,7 @@
     "name": "UNIT 8, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028666282",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148245446"
    }
   },
@@ -56201,7 +56218,7 @@
     "name": "UNIT 10, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028635372",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148245689"
    }
   },
@@ -56626,7 +56643,7 @@
     "name": "UNIT 6, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028621622",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148246318"
    }
   },
@@ -58377,7 +58394,7 @@
     "name": "22C HAYES AVENUE YOKINE 6060",
     "locID": "LOC000058236436",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148247312"
    }
   },
@@ -58513,7 +58530,7 @@
     "name": "UNIT 1, 33 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000092866369",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148247341"
    }
   },
@@ -59703,7 +59720,7 @@
     "name": "UNIT 4, 59 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000083977322",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148248172"
    }
   },
@@ -60383,7 +60400,7 @@
     "name": "UNIT 2, 41 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000008695168",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148248340"
    }
   },
@@ -61420,7 +61437,7 @@
     "name": "UNIT 2, 13 YARRUK STREET YOKINE 6060",
     "locID": "LOC000070484165",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148249171"
    }
   },
@@ -61709,7 +61726,7 @@
     "name": "80A ALEXANDER DRIVE YOKINE 6060",
     "locID": "LOC000132213943",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148249257"
    }
   },
@@ -62406,7 +62423,7 @@
     "name": "UNIT 11, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028640128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148250036"
    }
   },
@@ -63919,7 +63936,7 @@
     "name": "UNIT 2, 59 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000084254541",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148250959"
    }
   },
@@ -64225,7 +64242,7 @@
     "name": "UNIT 3, 59 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000084050472",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148251050"
    }
   },
@@ -64972,8 +64989,8 @@
    "properties": {
     "name": "UNIT 1, 45 RAYMOND STREET YOKINE 6060",
     "locID": "LOC000102231385",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148251680"
    }
   },
@@ -65466,7 +65483,7 @@
     "name": "292 MCDONALD STREET YOKINE 6060",
     "locID": "LOC000078525483",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148252008"
    }
   },
@@ -65840,7 +65857,7 @@
     "name": "UNIT 4, 13 YARRUK STREET YOKINE 6060",
     "locID": "LOC000070508958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148252340"
    }
   },
@@ -65958,8 +65975,8 @@
    "properties": {
     "name": "39B LATROBE STREET YOKINE 6060",
     "locID": "LOC000021220818",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148252574"
    }
   },
@@ -66366,8 +66383,8 @@
    "properties": {
     "name": "16B ROSCORLA AVENUE YOKINE 6060",
     "locID": "LOC000103562845",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_148252780"
    }
   },
@@ -66945,7 +66962,7 @@
     "name": "UNIT 3, 72 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000043194163",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148253761"
    }
   },
@@ -66962,7 +66979,7 @@
     "name": "UNIT 7, 9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028676638",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148253817"
    }
   },
@@ -67047,7 +67064,7 @@
     "name": "UNIT 1, 10 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000056740311",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148253826"
    }
   },
@@ -67064,7 +67081,7 @@
     "name": "UNIT 2, 10 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000056772378",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148253827"
    }
   },
@@ -67081,7 +67098,7 @@
     "name": "UNIT 3, 10 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000056844909",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148253828"
    }
   },
@@ -72435,8 +72452,8 @@
    "properties": {
     "name": "28 CORNELL STREET YOKINE 6060",
     "locID": "LOC000002035089",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_148260185"
    }
   },
@@ -73609,7 +73626,7 @@
     "name": "UNIT 1, 72 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000043345903",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148260815"
    }
   },
@@ -75189,8 +75206,8 @@
    "properties": {
     "name": "UNIT 2, 65 GOLF VIEW STREET YOKINE 6060",
     "locID": "LOC000021187975",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148262585"
    }
   },
@@ -76414,7 +76431,7 @@
     "name": "UNIT 1, 41 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000008750077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148264182"
    }
   },
@@ -76703,7 +76720,7 @@
     "name": "UNIT 3, 41 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000008715490",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148264747"
    }
   },
@@ -78403,7 +78420,7 @@
     "name": "UNIT 3, 13 YARRUK STREET YOKINE 6060",
     "locID": "LOC000070503822",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148266522"
    }
   },
@@ -79610,7 +79627,7 @@
     "name": "UNIT 4, 72 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000043210557",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148267472"
    }
   },
@@ -79644,7 +79661,7 @@
     "name": "UNIT 2, 72 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000043342938",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148267476"
    }
   },
@@ -80647,7 +80664,7 @@
     "name": "UNIT 1, 13 YARRUK STREET YOKINE 6060",
     "locID": "LOC000070508958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148269039"
    }
   },
@@ -80766,7 +80783,7 @@
     "name": "UNIT 4, 41 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000008715490",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148269056"
    }
   },
@@ -82057,8 +82074,8 @@
    "properties": {
     "name": "76 LOCKWOOD STREET YOKINE 6060",
     "locID": "LOC000094327945",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148576558"
    }
   },
@@ -82142,8 +82159,8 @@
    "properties": {
     "name": "6 TUART STREET YOKINE 6060",
     "locID": "LOC000078699749",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148576693"
    }
   },
@@ -83230,8 +83247,8 @@
    "properties": {
     "name": "29A WELLINGTON PARADE YOKINE 6060",
     "locID": "LOC000072622337",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_148583452"
    }
   },
@@ -86868,8 +86885,8 @@
    "properties": {
     "name": "87C MOULDEN AVENUE YOKINE 6060",
     "locID": "LOC000042548043",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160666630"
    }
   },
@@ -87532,7 +87549,7 @@
     "name": "45 WOODROW AVENUE YOKINE 6060",
     "locID": "LOC000132191896",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_160806630"
    }
   },
@@ -91816,7 +91833,7 @@
     "name": "UNIT 1, 7 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000038673353",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161996083"
    }
   },
@@ -91833,7 +91850,7 @@
     "name": "UNIT 2, 7 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000038540212",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161996084"
    }
   },
@@ -91850,7 +91867,7 @@
     "name": "UNIT 3, 7 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000038753967",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161996085"
    }
   },
@@ -91867,7 +91884,7 @@
     "name": "UNIT 4, 7 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000038727410",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161996086"
    }
   },
@@ -91884,7 +91901,7 @@
     "name": "UNIT 5, 7 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000038515077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_161996087"
    }
   },
@@ -91986,7 +92003,7 @@
     "name": "78A ALEXANDER DRIVE YOKINE 6060",
     "locID": "LOC000102246205",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162240798"
    }
   },
@@ -92104,8 +92121,8 @@
    "properties": {
     "name": "51B DARCH STREET YOKINE 6060",
     "locID": "LOC000002893468",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162243459"
    }
   },
@@ -92665,7 +92682,7 @@
    "properties": {
     "name": "6 FARINA DRIVE YOKINE 6060",
     "locID": "LOC000132210355",
-    "tech": "FTTN",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162262361"
    }
@@ -93295,7 +93312,7 @@
     "name": "UNIT 1, 179 WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000024513128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162271808"
    }
   },
@@ -93312,7 +93329,7 @@
     "name": "UNIT 3, 179 WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000024548154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162271809"
    }
   },
@@ -93329,7 +93346,7 @@
     "name": "UNIT 4, 179 WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000024527199",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162271810"
    }
   },
@@ -93346,7 +93363,7 @@
     "name": "UNIT 5, 179 WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000024618733",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162271811"
    }
   },
@@ -94451,7 +94468,7 @@
     "name": "25 DRYDEN STREET YOKINE 6060",
     "locID": "LOC000048302354",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162394293"
    }
   },
@@ -94468,7 +94485,7 @@
     "name": "27 DRYDEN STREET YOKINE 6060",
     "locID": "LOC000090256272",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162394294"
    }
   },
@@ -95437,7 +95454,7 @@
     "name": "33 FLINDERS STREET YOKINE 6060",
     "locID": "LOC000092642079",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162404664"
    }
   },
@@ -97477,7 +97494,7 @@
     "name": "72 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000043194163",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162417034"
    }
   },
@@ -98055,7 +98072,7 @@
     "name": "43 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000059264188",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162419521"
    }
   },
@@ -98123,7 +98140,7 @@
     "name": "68 WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000090619960",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162419527"
    }
   },
@@ -98361,7 +98378,7 @@
     "name": "14 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000089080317",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162420754"
    }
   },
@@ -98378,7 +98395,7 @@
     "name": "9 WYNYARD STREET YOKINE 6060",
     "locID": "LOC000028621622",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162420755"
    }
   },
@@ -98734,8 +98751,8 @@
    "properties": {
     "name": "UNIT 1, 142 SWAN STREET YOKINE 6060",
     "locID": "LOC000073681956",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162497568"
    }
   },
@@ -99857,7 +99874,7 @@
     "name": "UNIT 2, 179 WORDSWORTH AVENUE YOKINE 6060",
     "locID": "LOC000024513128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162592781"
    }
   },
@@ -100350,7 +100367,7 @@
     "name": "UNIT 1, 80 ALEXANDER DRIVE YOKINE 6060",
     "locID": "LOC000132213958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162681210"
    }
   },
@@ -100367,7 +100384,7 @@
     "name": "UNIT 2, 80 ALEXANDER DRIVE YOKINE 6060",
     "locID": "LOC000132213958",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162681211"
    }
   },
@@ -102627,8 +102644,8 @@
    "properties": {
     "name": "111C SHAKESPEARE AVENUE YOKINE 6060",
     "locID": "LOC000077092699",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162725494"
    }
   },
@@ -106300,7 +106317,7 @@
     "name": "60B LONSDALE STREET YOKINE 6060",
     "locID": "LOC000066308039",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163093838"
    }
   },
@@ -107184,7 +107201,7 @@
     "name": "UNIT 1, 61 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000046525105",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163245907"
    }
   },
@@ -107201,7 +107218,7 @@
     "name": "UNIT 2, 61 SPENCER AVENUE YOKINE 6060",
     "locID": "LOC000046482289",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163245908"
    }
   },
@@ -108713,8 +108730,8 @@
    "properties": {
     "name": "70A RAYMOND STREET YOKINE 6060",
     "locID": "LOC000116373318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718233694"
    }
   },
@@ -109156,7 +109173,7 @@
     "name": "UNIT 1, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214041",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718273999"
    }
   },
@@ -109173,7 +109190,7 @@
     "name": "UNIT 2, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214056",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718274000"
    }
   },
@@ -109190,7 +109207,7 @@
     "name": "UNIT 3, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214060",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718274001"
    }
   },
@@ -109207,7 +109224,7 @@
     "name": "UNIT 4, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214073",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718274002"
    }
   },
@@ -109224,7 +109241,7 @@
     "name": "UNIT 5, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214087",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718274003"
    }
   },
@@ -109241,7 +109258,7 @@
     "name": "UNIT 6, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214073",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718274004"
    }
   },
@@ -109258,7 +109275,7 @@
     "name": "UNIT 7, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718274005"
    }
   },
@@ -109275,7 +109292,7 @@
     "name": "UNIT 8, 9 WALGA COURT YOKINE 6060",
     "locID": "LOC000132214115",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718274006"
    }
   },
@@ -111604,7 +111621,7 @@
     "name": "39A WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000171586038",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718487541"
    }
   },
@@ -117758,7 +117775,7 @@
     "name": "63B WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000171586161",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719196979"
    }
   },
@@ -117860,7 +117877,7 @@
     "name": "63C WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000171586381",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719199813"
    }
   },
@@ -117894,7 +117911,7 @@
     "name": "63A WANDARRIE AVENUE YOKINE 6060",
     "locID": "LOC000171586142",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_719200516"
    }
   },
