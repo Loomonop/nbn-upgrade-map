@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-09T02:44:41.032962",
+ "generated": "2023-09-30T00:55:04.642620",
  "suburb": "NORTH ISIS",
  "features": [
   {
@@ -593,8 +593,8 @@
    "properties": {
     "name": "111 STOCKYARD ROAD NORTH ISIS 4660",
     "locID": "LOC000046928308",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD155654631"
    }
   },
@@ -1630,8 +1630,8 @@
    "properties": {
     "name": "81 GIBSONS ROAD NORTH ISIS 4660",
     "locID": "LOC000070917248",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD158428723"
    }
   },
@@ -1749,8 +1749,8 @@
    "properties": {
     "name": "3 STOCKYARD ROAD NORTH ISIS 4660",
     "locID": "LOC000089776050",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD158431659"
    }
   },
@@ -2990,8 +2990,8 @@
    "properties": {
     "name": "101 MCKENZIES ROAD NORTH ISIS 4660",
     "locID": "LOC000129024815",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD161019079"
    }
   },
@@ -3704,8 +3704,8 @@
    "properties": {
     "name": "127 LYNWOOD ROAD NORTH ISIS 4660",
     "locID": "LOC000039777637",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD161473416"
    }
   },
@@ -5509,6 +5509,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163056785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.30528484,
+     -25.19635153
+    ]
+   },
+   "properties": {
+    "name": "LOT 6 GRECI ROAD NORTH ISIS 4660",
+    "locID": "Eio2IEdyZWNpIFJkLCBOb3J0aCBJc2lzIFFMRCA0NjYwLCBBdXN0cmFsaWEiMBIuChQKEgkfmOQY5QjraxExye1X8e4AExAGKhQKEgkfmOQY5QjraxFfurriX1kvtA",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD163056819"
    }
   },
   {
