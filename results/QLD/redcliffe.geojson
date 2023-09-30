@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-09T23:03:41.495299",
+ "generated": "2023-09-30T19:58:50.995013",
  "suburb": "REDCLIFFE",
  "features": [
   {
@@ -19888,8 +19888,8 @@
    "properties": {
     "name": "19 KRISTEN COURT REDCLIFFE 4020",
     "locID": "LOC000083835043",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155789551"
    }
   },
@@ -20347,8 +20347,8 @@
    "properties": {
     "name": "8 BRYCE COURT REDCLIFFE 4020",
     "locID": "LOC000047995376",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155802315"
    }
   },
@@ -20619,8 +20619,8 @@
    "properties": {
     "name": "19 WALSH STREET REDCLIFFE 4020",
     "locID": "LOC000096299508",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155805971"
    }
   },
@@ -29435,23 +29435,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.10703716,
-     -27.22735769
-    ]
-   },
-   "properties": {
-    "name": "18 PORTWOOD STREET REDCLIFFE 4020",
-    "locID": "LOC000005780015",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157003395"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.10715477,
      -27.22750575
     ]
@@ -32333,7 +32316,7 @@
     "name": "177 REDCLIFFE PARADE REDCLIFFE 4020",
     "locID": "LOC000081999589",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157007145"
    }
   },
@@ -100452,7 +100435,7 @@
     "name": "2 ANZAC AVENUE REDCLIFFE 4020",
     "locID": "LOC000114539396",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163364272"
    }
   },
