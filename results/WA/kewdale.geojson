@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-09T15:51:05.269445",
+ "generated": "2023-09-30T13:13:10.739404",
  "suburb": "KEWDALE",
  "features": [
   {
@@ -10337,23 +10337,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146672862"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.93156985,
-     -31.969451
-    ]
-   },
-   "properties": {
-    "name": "275 ACTON AVENUE KEWDALE 6105",
-    "locID": "LOC000032143822",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146672863"
    }
   },
   {
@@ -29970,7 +29953,7 @@
     "name": "16 MILES ROAD KEWDALE 6105",
     "locID": "LOC000002947506",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147056853"
    }
   },
@@ -29987,7 +29970,7 @@
     "name": "18 MILES ROAD KEWDALE 6105",
     "locID": "LOC000020429932",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147059913"
    }
   },
@@ -40434,23 +40417,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.93156985,
-     -31.969451
-    ]
-   },
-   "properties": {
-    "name": "277 ACTON AVENUE KEWDALE 6105",
-    "locID": "LOC000108887281",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147829766"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.9281,
      -31.97036
     ]
@@ -42090,8 +42056,8 @@
    "properties": {
     "name": "UNIT 3, 5 VILLA MEWS KEWDALE 6105",
     "locID": "LOC000011146221",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147831793"
    }
   },
