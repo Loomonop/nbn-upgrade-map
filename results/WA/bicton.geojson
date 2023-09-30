@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-09T04:32:07.437897",
+ "generated": "2023-09-30T02:47:54.445314",
  "suburb": "BICTON",
  "features": [
   {
@@ -1137,8 +1137,8 @@
    "properties": {
     "name": "31 MILNE STREET BICTON 6157",
     "locID": "LOC000092992700",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146702877"
    }
   },
@@ -1307,8 +1307,8 @@
    "properties": {
     "name": "95 VIEW TERRACE BICTON 6157",
     "locID": "LOC000046666438",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146709541"
    }
   },
@@ -1324,8 +1324,8 @@
    "properties": {
     "name": "57 BIRDWOOD CIRCUS WEST BICTON 6157",
     "locID": "LOC000103615711",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146709542"
    }
   },
@@ -1936,8 +1936,8 @@
    "properties": {
     "name": "28 THIRD STREET BICTON 6157",
     "locID": "LOC000054109254",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146711059"
    }
   },
@@ -4911,8 +4911,8 @@
    "properties": {
     "name": "70 FOSS STREET BICTON 6157",
     "locID": "LOC000101885795",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146721595"
    }
   },
@@ -9399,8 +9399,8 @@
    "properties": {
     "name": "2 THURLOE STREET BICTON 6157",
     "locID": "LOC000081664708",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146726141"
    }
   },
@@ -9773,8 +9773,8 @@
    "properties": {
     "name": "47 BRISTOL AVENUE BICTON 6157",
     "locID": "LOC000085426056",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146726548"
    }
   },
@@ -9926,8 +9926,8 @@
    "properties": {
     "name": "96 VIEW TERRACE BICTON 6157",
     "locID": "LOC000070372468",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146726918"
    }
   },
@@ -10045,8 +10045,8 @@
    "properties": {
     "name": "49 WREXHAM STREET BICTON 6157",
     "locID": "LOC000084097934",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146726943"
    }
   },
@@ -10232,8 +10232,8 @@
    "properties": {
     "name": "21 BEACH STREET BICTON 6157",
     "locID": "LOC000012034207",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_146727030"
    }
   },
@@ -10589,9 +10589,26 @@
    "properties": {
     "name": "12 THIRD STREET BICTON 6157",
     "locID": "LOC000036981894",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146727595"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78893456,
+     -32.03211804
+    ]
+   },
+   "properties": {
+    "name": "10 THIRD STREET BICTON 6157",
+    "locID": "LOC000193699024",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146727596"
    }
   },
   {
@@ -12748,8 +12765,8 @@
    "properties": {
     "name": "19 FIFTH STREET BICTON 6157",
     "locID": "LOC000058193174",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146729765"
    }
   },
@@ -12766,7 +12783,7 @@
     "name": "55 WADDELL ROAD BICTON 6157",
     "locID": "LOC000039007409",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146729766"
    }
   },
@@ -12800,7 +12817,7 @@
     "name": "57 WADDELL ROAD BICTON 6157",
     "locID": "LOC000106311450",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146729768"
    }
   },
@@ -13429,7 +13446,7 @@
     "name": "67 WADDELL ROAD BICTON 6157",
     "locID": "LOC000101422577",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146729967"
    }
   },
@@ -13446,7 +13463,7 @@
     "name": "65 WADDELL ROAD BICTON 6157",
     "locID": "LOC000004595645",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146729968"
    }
   },
@@ -14092,7 +14109,7 @@
     "name": "70 WADDELL ROAD BICTON 6157",
     "locID": "LOC000014569340",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146731174"
    }
   },
@@ -16420,8 +16437,8 @@
    "properties": {
     "name": "12 PHIPPS STREET BICTON 6157",
     "locID": "LOC000038733627",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147074189"
    }
   },
@@ -23969,7 +23986,7 @@
     "name": "38B COLDWELLS STREET BICTON 6157",
     "locID": "LOC000026999151",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147319714"
    }
   },
@@ -25974,8 +25991,8 @@
    "properties": {
     "name": "61 FIFTH STREET BICTON 6157",
     "locID": "LOC000094310962",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147407753"
    }
   },
@@ -29408,8 +29425,8 @@
    "properties": {
     "name": "4A PHIPPS STREET BICTON 6157",
     "locID": "LOC000070658668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_147507219"
    }
   },
@@ -30938,8 +30955,8 @@
    "properties": {
     "name": "UNIT 2, 30 BRISTOL AVENUE BICTON 6157",
     "locID": "LOC000093873464",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147509351"
    }
   },
@@ -32044,7 +32061,7 @@
     "name": "52A WADDELL ROAD BICTON 6157",
     "locID": "LOC000059344818",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147511044"
    }
   },
@@ -38503,8 +38520,8 @@
    "properties": {
     "name": "26A COLDWELLS STREET BICTON 6157",
     "locID": "LOC000090030226",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147525623"
    }
   },
@@ -42430,8 +42447,8 @@
    "properties": {
     "name": "30 POINT WALTER ROAD BICTON 6157",
     "locID": "LOC000107613095",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147532150"
    }
   },
@@ -43332,7 +43349,7 @@
     "name": "111A POINT WALTER ROAD BICTON 6157",
     "locID": "LOC000047729012",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_148848446"
    }
   },
@@ -46748,8 +46765,8 @@
    "properties": {
     "name": "101B VIEW TERRACE BICTON 6157",
     "locID": "LOC000072801556",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_160665770"
    }
   },
@@ -52460,8 +52477,8 @@
    "properties": {
     "name": "34A BLACKWALL REACH PARADE BICTON 6157",
     "locID": "LOC000116464398",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAWA_162556035"
    }
   },
@@ -52664,8 +52681,8 @@
    "properties": {
     "name": "24B COLDWELLS STREET BICTON 6157",
     "locID": "LOC000132551466",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162560636"
    }
   },
@@ -53072,8 +53089,8 @@
    "properties": {
     "name": "UNIT 4, 86 PETRA STREET BICTON 6157",
     "locID": "LOC000014655001",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_162581554"
    }
   },
@@ -53311,7 +53328,7 @@
     "name": "70A WADDELL ROAD BICTON 6157",
     "locID": "LOC000014580291",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162590420"
    }
   },
@@ -56490,7 +56507,7 @@
     "name": "52B WADDELL ROAD BICTON 6157",
     "locID": "LOC000132585054",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163343533"
    }
   },
@@ -56507,7 +56524,7 @@
     "name": "52C WADDELL ROAD BICTON 6157",
     "locID": "LOC000132585065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163343534"
    }
   },
@@ -56524,7 +56541,7 @@
     "name": "52D WADDELL ROAD BICTON 6157",
     "locID": "LOC000132585077",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163343535"
    }
   },
@@ -56591,8 +56608,8 @@
    "properties": {
     "name": "32A FOSS STREET BICTON 6157",
     "locID": "LOC000132563561",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_718215590"
    }
   },
