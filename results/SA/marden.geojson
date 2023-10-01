@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T00:11:14.328145",
+ "generated": "2023-10-01T22:36:32.019684",
  "suburb": "MARDEN",
  "features": [
   {
@@ -339,7 +339,7 @@
     "name": "375 PAYNEHAM ROAD MARDEN 5070",
     "locID": "LOC000017802847",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_414962661"
    }
   },
@@ -730,7 +730,7 @@
     "name": "54 BROAD STREET MARDEN 5070",
     "locID": "LOC000022547663",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415050808"
    }
   },
@@ -967,8 +967,8 @@
    "properties": {
     "name": "9 GRIVELL ROAD MARDEN 5070",
     "locID": "LOC000104737477",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415050823"
    }
   },
@@ -1038,6 +1038,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415060220"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.63066188,
+     -34.89075
+    ]
+   },
+   "properties": {
+    "name": "24 GLENBROOK CLOSE MARDEN 5070",
+    "locID": "LOC000047862356",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_415060221"
    }
   },
   {
@@ -2090,7 +2107,7 @@
     "name": "55 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000052896063",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415165699"
    }
   },
@@ -5932,7 +5949,7 @@
     "name": "2 CHURCH STREET MARDEN 5070",
     "locID": "LOC000010754694",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415314914"
    }
   },
@@ -7020,7 +7037,7 @@
     "name": "58 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000006764136",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415363881"
    }
   },
@@ -8754,7 +8771,7 @@
     "name": "5 RIVER STREET MARDEN 5070",
     "locID": "LOC000044657419",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415483763"
    }
   },
@@ -9145,7 +9162,7 @@
     "name": "UNIT 1, 20 BROAD STREET MARDEN 5070",
     "locID": "LOC000039618065",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415621375"
    }
   },
@@ -9162,7 +9179,7 @@
     "name": "UNIT 1, 56 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000060672720",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622436"
    }
   },
@@ -9179,7 +9196,7 @@
     "name": "UNIT 2, 56 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000060438494",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415622437"
    }
   },
@@ -9196,7 +9213,7 @@
     "name": "UNIT 2, 20 BROAD STREET MARDEN 5070",
     "locID": "LOC000039315912",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625168"
    }
   },
@@ -9213,7 +9230,7 @@
     "name": "UNIT 3, 20 BROAD STREET MARDEN 5070",
     "locID": "LOC000039300474",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625170"
    }
   },
@@ -9230,7 +9247,7 @@
     "name": "UNIT 4, 20 BROAD STREET MARDEN 5070",
     "locID": "LOC000039668085",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625173"
    }
   },
@@ -9247,7 +9264,7 @@
     "name": "UNIT 5, 20 BROAD STREET MARDEN 5070",
     "locID": "LOC000039177134",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625176"
    }
   },
@@ -9264,7 +9281,7 @@
     "name": "UNIT 1, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412049",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625592"
    }
   },
@@ -9281,7 +9298,7 @@
     "name": "UNIT 2, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412096",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625593"
    }
   },
@@ -9298,7 +9315,7 @@
     "name": "UNIT 3, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412065",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625594"
    }
   },
@@ -9315,7 +9332,7 @@
     "name": "UNIT 4, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412077",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625595"
    }
   },
@@ -9332,7 +9349,7 @@
     "name": "UNIT 5, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412096",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625596"
    }
   },
@@ -9349,7 +9366,7 @@
     "name": "UNIT 6, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412096",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625597"
    }
   },
@@ -9366,7 +9383,7 @@
     "name": "UNIT 7, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412106",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415625598"
    }
   },
@@ -9519,7 +9536,7 @@
     "name": "UNIT 1, 25 BROAD STREET MARDEN 5070",
     "locID": "LOC000011245112",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415627685"
    }
   },
@@ -9536,7 +9553,7 @@
     "name": "UNIT 2, 25 BROAD STREET MARDEN 5070",
     "locID": "LOC000011188109",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415627686"
    }
   },
@@ -9910,7 +9927,7 @@
     "name": "UNIT 3, 1B CHURCH STREET MARDEN 5070",
     "locID": "LOC000085595756",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415629938"
    }
   },
@@ -10505,7 +10522,7 @@
     "name": "UNIT 8, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412110",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415641934"
    }
   },
@@ -10522,7 +10539,7 @@
     "name": "UNIT 9, 22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412123",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415641935"
    }
   },
@@ -10658,7 +10675,7 @@
     "name": "UNIT 1, 8 DIX AVENUE MARDEN 5070",
     "locID": "LOC000094928380",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415644752"
    }
   },
@@ -10675,7 +10692,7 @@
     "name": "UNIT 2, 8 DIX AVENUE MARDEN 5070",
     "locID": "LOC000094804618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415644753"
    }
   },
@@ -10964,7 +10981,7 @@
     "name": "UNIT 5, 4 BROAD STREET MARDEN 5070",
     "locID": "LOC000010078128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415647282"
    }
   },
@@ -10981,7 +10998,7 @@
     "name": "UNIT 1, 4 BROAD STREET MARDEN 5070",
     "locID": "LOC000010249338",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415649965"
    }
   },
@@ -10998,7 +11015,7 @@
     "name": "UNIT 2, 4 BROAD STREET MARDEN 5070",
     "locID": "LOC000010333421",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415649966"
    }
   },
@@ -11015,7 +11032,7 @@
     "name": "UNIT 3, 4 BROAD STREET MARDEN 5070",
     "locID": "LOC000010359022",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415649969"
    }
   },
@@ -11032,7 +11049,7 @@
     "name": "UNIT 4, 4 BROAD STREET MARDEN 5070",
     "locID": "LOC000010078128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415649972"
    }
   },
@@ -11423,7 +11440,7 @@
     "name": "UNIT 3, 24 BROAD STREET MARDEN 5070",
     "locID": "LOC000033322641",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415662704"
    }
   },
@@ -11440,7 +11457,7 @@
     "name": "UNIT 4, 24 BROAD STREET MARDEN 5070",
     "locID": "LOC000033198471",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415662705"
    }
   },
@@ -11457,7 +11474,7 @@
     "name": "UNIT 5, 24 BROAD STREET MARDEN 5070",
     "locID": "LOC000033200357",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415662706"
    }
   },
@@ -11474,7 +11491,7 @@
     "name": "UNIT 6, 24 BROAD STREET MARDEN 5070",
     "locID": "LOC000033251307",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415662708"
    }
   },
@@ -11491,7 +11508,7 @@
     "name": "UNIT 7, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104632893",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415662710"
    }
   },
@@ -11508,7 +11525,7 @@
     "name": "UNIT 8, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104568553",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415662712"
    }
   },
@@ -11525,7 +11542,7 @@
     "name": "UNIT 9, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104250774",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415662714"
    }
   },
@@ -11542,7 +11559,7 @@
     "name": "UNIT 13, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104644858",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415663882"
    }
   },
@@ -11559,7 +11576,7 @@
     "name": "UNIT 14, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000103990569",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415663884"
    }
   },
@@ -11576,7 +11593,7 @@
     "name": "UNIT 15, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104333696",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415663886"
    }
   },
@@ -11593,7 +11610,7 @@
     "name": "UNIT 16, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104188833",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415663888"
    }
   },
@@ -11610,7 +11627,7 @@
     "name": "UNIT 17, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104135756",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415663889"
    }
   },
@@ -11627,7 +11644,7 @@
     "name": "UNIT 1, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104495265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415666541"
    }
   },
@@ -11644,7 +11661,7 @@
     "name": "UNIT 10, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104058918",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415666542"
    }
   },
@@ -11661,7 +11678,7 @@
     "name": "UNIT 11, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104687970",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415666544"
    }
   },
@@ -11678,7 +11695,7 @@
     "name": "UNIT 12, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104583026",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415666546"
    }
   },
@@ -11695,7 +11712,7 @@
     "name": "UNIT 18, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104495265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415666566"
    }
   },
@@ -11712,7 +11729,7 @@
     "name": "UNIT 2, 11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104495265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415666567"
    }
   },
@@ -13667,7 +13684,7 @@
     "name": "7 GLENBROOK CLOSE MARDEN 5070",
     "locID": "LOC000044001716",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416114803"
    }
   },
@@ -14534,7 +14551,7 @@
     "name": "UNIT 1, 1B CHURCH STREET MARDEN 5070",
     "locID": "LOC000085595756",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416120028"
    }
   },
@@ -14551,7 +14568,7 @@
     "name": "UNIT 2, 1B CHURCH STREET MARDEN 5070",
     "locID": "LOC000085663395",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416120029"
    }
   },
@@ -15214,7 +15231,7 @@
     "name": "10A BEASLEY STREET MARDEN 5070",
     "locID": "LOC000048785951",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_416122997"
    }
   },
@@ -16608,7 +16625,7 @@
     "name": "4 GLENBROOK CLOSE MARDEN 5070",
     "locID": "LOC000075510011",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416131090"
    }
   },
@@ -16710,7 +16727,7 @@
     "name": "5 GLENBROOK CLOSE MARDEN 5070",
     "locID": "LOC000010433653",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416131098"
    }
   },
@@ -17560,7 +17577,7 @@
     "name": "UNIT 6, 20 BROAD STREET MARDEN 5070",
     "locID": "LOC000039177134",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416700042"
    }
   },
@@ -18172,7 +18189,7 @@
     "name": "65 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000166411905",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416712013"
    }
   },
@@ -18869,7 +18886,7 @@
     "name": "1-37 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000039618927",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_416717684"
    }
   },
@@ -19328,7 +19345,7 @@
     "name": "4 BROAD STREET MARDEN 5070",
     "locID": "LOC000010078128",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422040547"
    }
   },
@@ -19362,7 +19379,7 @@
     "name": "20 BROAD STREET MARDEN 5070",
     "locID": "LOC000039177134",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422040549"
    }
   },
@@ -19379,7 +19396,7 @@
     "name": "25 BROAD STREET MARDEN 5070",
     "locID": "LOC000011245112",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422040551"
    }
   },
@@ -19549,7 +19566,7 @@
     "name": "8 DIX AVENUE MARDEN 5070",
     "locID": "LOC000094804618",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422052266"
    }
   },
@@ -19583,7 +19600,7 @@
     "name": "11 DIX AVENUE MARDEN 5070",
     "locID": "LOC000104495265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_422052268"
    }
   },
@@ -20195,7 +20212,7 @@
     "name": "1B CHURCH STREET MARDEN 5070",
     "locID": "LOC000085595756",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423617540"
    }
   },
@@ -20637,7 +20654,7 @@
     "name": "24 BROAD STREET MARDEN 5070",
     "locID": "LOC000033198471",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423863522"
    }
   },
@@ -20739,7 +20756,7 @@
     "name": "56 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000060438494",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423867449"
    }
   },
@@ -21419,7 +21436,7 @@
     "name": "43 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000004452412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424147878"
    }
   },
@@ -21504,7 +21521,7 @@
     "name": "53 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000166411882",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424147883"
    }
   },
@@ -21555,7 +21572,7 @@
     "name": "61 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000166411905",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424147886"
    }
   },
@@ -21708,7 +21725,7 @@
     "name": "LOT 43 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000004452412",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424187379"
    }
   },
@@ -21776,7 +21793,7 @@
     "name": "LOT 17 BATTAMS ROAD MARDEN 5070",
     "locID": "LOC000094112447",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424288788"
    }
   },
@@ -21810,7 +21827,7 @@
     "name": "LOT 24 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000166411905",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424314175"
    }
   },
@@ -21997,7 +22014,7 @@
     "name": "22-24 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412096",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424414970"
    }
   },
@@ -22048,7 +22065,7 @@
     "name": "UNIT 12, 22 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412096",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424528098"
    }
   },
@@ -22167,7 +22184,7 @@
     "name": "UNIT 10, 22 MARDEN ROAD MARDEN 5070",
     "locID": "LOC000166412096",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424568400"
    }
   },
@@ -22898,7 +22915,7 @@
     "name": "UNIT 1, 10 BEASLEY STREET MARDEN 5070",
     "locID": "LOC000166410921",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424689804"
    }
   },
@@ -22915,7 +22932,7 @@
     "name": "UNIT 2, 10A BEASLEY STREET MARDEN 5070",
     "locID": "LOC000048785951",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424689805"
    }
   },
@@ -22932,7 +22949,7 @@
     "name": "10 BEASLEY STREET MARDEN 5070",
     "locID": "LOC000166410921",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424931649"
    }
   },
@@ -24802,7 +24819,7 @@
     "name": "61-65 LOWER PORTRUSH ROAD MARDEN 5070",
     "locID": "LOC000166411905",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425443198"
    }
   },
@@ -24853,7 +24870,7 @@
     "name": "UNIT 1, 2 CHURCH STREET MARDEN 5070",
     "locID": "LOC000180684697",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425505145"
    }
   },
