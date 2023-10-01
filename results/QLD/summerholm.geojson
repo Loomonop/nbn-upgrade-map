@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-10T04:25:11.559229",
+ "generated": "2023-10-01T02:19:32.912006",
  "suburb": "SUMMERHOLM",
  "features": [
   {
@@ -2514,8 +2514,8 @@
    "properties": {
     "name": "19 GEHRKE HILL ROAD SUMMERHOLM 4341",
     "locID": "LOC000076167635",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158698303"
    }
   },
@@ -3075,8 +3075,8 @@
    "properties": {
     "name": "59 HEISE ROAD SUMMERHOLM 4341",
     "locID": "LOC000027665897",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD158712767"
    }
   },
@@ -3374,6 +3374,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.4596839,
+     -27.62715546
+    ]
+   },
+   "properties": {
+    "name": "LOT 108 JACKSON ROAD SUMMERHOLM 4341",
+    "locID": "Ei4xMDggSmFja3NvbiBSZCwgU3VtbWVyaG9sbSBRTEQgNDM0MSwgQXVzdHJhbGlhIjASLgoUChIJ9f3b6yPAlmsR3xYgBLJHOgIQbCoUChIJBTx9iRjAlmsR1jAKfBye9c0",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161189331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.4555926,
      -27.62715691
     ]
@@ -3384,6 +3401,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161189336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.4617521,
+     -27.6234468
+    ]
+   },
+   "properties": {
+    "name": "LOT 55 JACKSON ROAD SUMMERHOLM 4341",
+    "locID": "Ei01NSBKYWNrc29uIFJkLCBTdW1tZXJob2xtIFFMRCA0MzQxLCBBdXN0cmFsaWEiMBIuChQKEgn1_dvrI8CWaxHfFiAEskc6AhA3KhQKEgkFPH2JGMCWaxHWMAp8HJ71zQ",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161189337"
    }
   },
   {
