@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-10T18:14:18.892433",
+ "generated": "2023-10-01T15:53:07.957478",
  "suburb": "FLINDERS PARK",
  "features": [
   {
@@ -1582,6 +1582,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415057789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53680901,
+     -34.9055848
+    ]
+   },
+   "properties": {
+    "name": "272 GRANGE ROAD FLINDERS PARK 5025",
+    "locID": "LOC000193745568",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415057790"
    }
   },
   {
@@ -7275,7 +7292,7 @@
     "name": "1 HOLBROOKS ROAD FLINDERS PARK 5025",
     "locID": "LOC000083855493",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415102621"
    }
   },
@@ -10250,7 +10267,7 @@
     "name": "29 SCOTT AVENUE FLINDERS PARK 5025",
     "locID": "LOC000098348630",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415137733"
    }
   },
@@ -22999,8 +23016,8 @@
    "properties": {
     "name": "42 MOUNTBATTEN TERRACE FLINDERS PARK 5025",
     "locID": "LOC000022496168",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415385227"
    }
   },
@@ -24019,7 +24036,7 @@
    "properties": {
     "name": "34 FRANKLIN AVENUE FLINDERS PARK 5025",
     "locID": "LOC000193077538",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415410718"
    }
@@ -27930,7 +27947,7 @@
     "name": "144 GRANGE ROAD FLINDERS PARK 5025",
     "locID": "LOC000087565157",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415455276"
    }
   },
@@ -28695,7 +28712,7 @@
     "name": "1A HOLBROOKS ROAD FLINDERS PARK 5025",
     "locID": "LOC000083745226",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415574198"
    }
   },
@@ -29766,7 +29783,7 @@
     "name": "UNIT 1, 35 MOUNTBATTEN TERRACE FLINDERS PARK 5025",
     "locID": "LOC000093837675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415688131"
    }
   },
@@ -29783,7 +29800,7 @@
     "name": "UNIT 2, 35 MOUNTBATTEN TERRACE FLINDERS PARK 5025",
     "locID": "LOC000093781454",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_415688132"
    }
   },
@@ -32911,7 +32928,7 @@
     "name": "6 BAUDIN AVENUE FLINDERS PARK 5025",
     "locID": "LOC000050005118",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_421962934"
    }
   },
@@ -33183,7 +33200,7 @@
     "name": "35 MOUNTBATTEN TERRACE FLINDERS PARK 5025",
     "locID": "LOC000093837675",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_422044004"
    }
   },
@@ -37569,7 +37586,7 @@
     "name": "26 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863715",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108932"
    }
   },
@@ -37586,7 +37603,7 @@
     "name": "27 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863736",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108933"
    }
   },
@@ -37603,7 +37620,7 @@
     "name": "28 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863743",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108934"
    }
   },
@@ -37620,7 +37637,7 @@
     "name": "29 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863758",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108935"
    }
   },
@@ -37654,7 +37671,7 @@
     "name": "30 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863974",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108937"
    }
   },
@@ -37671,7 +37688,7 @@
     "name": "31 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863988",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108938"
    }
   },
@@ -37688,7 +37705,7 @@
     "name": "32 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863990",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108939"
    }
   },
@@ -37705,7 +37722,7 @@
     "name": "33 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864001",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108940"
    }
   },
@@ -37739,7 +37756,7 @@
     "name": "35 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864029",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108942"
    }
   },
@@ -37756,7 +37773,7 @@
     "name": "36 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864038",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108943"
    }
   },
@@ -37773,7 +37790,7 @@
     "name": "37 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108944"
    }
   },
@@ -38147,7 +38164,7 @@
     "name": "56A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864502",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108966"
    }
   },
@@ -38164,7 +38181,7 @@
     "name": "57 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864518",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108967"
    }
   },
@@ -38181,7 +38198,7 @@
     "name": "58 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864539",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108968"
    }
   },
@@ -38198,7 +38215,7 @@
     "name": "58A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864541",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108969"
    }
   },
@@ -38215,7 +38232,7 @@
     "name": "59 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864556",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108970"
    }
   },
@@ -38232,7 +38249,7 @@
     "name": "59A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864560",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108971"
    }
   },
@@ -38266,7 +38283,7 @@
     "name": "60 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864980",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108973"
    }
   },
@@ -38283,7 +38300,7 @@
     "name": "62 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165865016",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108974"
    }
   },
@@ -38317,7 +38334,7 @@
     "name": "64 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165865037",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108976"
    }
   },
@@ -38351,7 +38368,7 @@
     "name": "66 LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165865118",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425108978"
    }
   },
@@ -38878,7 +38895,7 @@
     "name": "26A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165863727",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425136223"
    }
   },
@@ -38997,7 +39014,7 @@
     "name": "63A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000181027468",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425139026"
    }
   },
@@ -39116,7 +39133,7 @@
     "name": "57A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864525",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425355066"
    }
   },
@@ -39320,7 +39337,7 @@
     "name": "55A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000165864489",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425397634"
    }
   },
@@ -39490,7 +39507,7 @@
     "name": "148-152 GRANGE ROAD FLINDERS PARK 5025",
     "locID": "LOC000165862906",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425439246"
    }
   },
@@ -41394,7 +41411,7 @@
     "name": "36A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000172444844",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719400384"
    }
   },
@@ -41462,7 +41479,7 @@
     "name": "31A LA PEROUSE AVENUE FLINDERS PARK 5025",
     "locID": "LOC000172444837",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_719475440"
    }
   },
@@ -43708,6 +43725,91 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720723870"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53680901,
+     -34.9055848
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 272 GRANGE ROAD FLINDERS PARK 5025",
+    "locID": "LOC000193657598",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720726468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53680901,
+     -34.9055848
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 272 GRANGE ROAD FLINDERS PARK 5025",
+    "locID": "LOC000193745568",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720726471"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53680901,
+     -34.9055848
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 272 GRANGE ROAD FLINDERS PARK 5025",
+    "locID": "LOC000193745568",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720726539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53680901,
+     -34.9055848
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 272 GRANGE ROAD FLINDERS PARK 5025",
+    "locID": "LOC000193666154",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720726900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.53680901,
+     -34.9055848
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 272 GRANGE ROAD FLINDERS PARK 5025",
+    "locID": "LOC000193745568",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720727151"
    }
   },
   {
