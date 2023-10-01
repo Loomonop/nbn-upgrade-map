@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-10T10:46:10.595271",
+ "generated": "2023-10-01T08:31:45.558749",
  "suburb": "WOOLOOWIN",
  "features": [
   {
@@ -426,6 +426,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155987904"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.04173082,
+     -27.42192034
+    ]
+   },
+   "properties": {
+    "name": "21 FRASER STREET WOOLOOWIN 4030",
+    "locID": "LOC000049830618",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155987931"
    }
   },
   {
@@ -2038,8 +2055,8 @@
    "properties": {
     "name": "51 BALMAIN STREET WOOLOOWIN 4030",
     "locID": "LOC000097698778",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155991047"
    }
   },
@@ -5915,7 +5932,7 @@
     "name": "10 LISSON GROVE WOOLOOWIN 4030",
     "locID": "LOC000009484174",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156004950"
    }
   },
@@ -5932,7 +5949,7 @@
     "name": "12 LISSON GROVE WOOLOOWIN 4030",
     "locID": "LOC000031607885",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156004951"
    }
   },
@@ -5949,7 +5966,7 @@
     "name": "15 LISSON GROVE WOOLOOWIN 4030",
     "locID": "LOC000097432764",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156004952"
    }
   },
@@ -5966,7 +5983,7 @@
     "name": "16 LISSON GROVE WOOLOOWIN 4030",
     "locID": "LOC000029888548",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156004953"
    }
   },
@@ -5983,7 +6000,7 @@
     "name": "17 LISSON GROVE WOOLOOWIN 4030",
     "locID": "LOC000034918864",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156004954"
    }
   },
@@ -11524,8 +11541,8 @@
    "properties": {
     "name": "21 OLIVER STREET WOOLOOWIN 4030",
     "locID": "LOC000024027655",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD157319663"
    }
   },
@@ -35903,7 +35920,7 @@
     "name": "14 LISSON GROVE WOOLOOWIN 4030",
     "locID": "LOC000099468301",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161214835"
    }
   },
@@ -36192,7 +36209,7 @@
     "name": "216 BONNEY AVENUE WOOLOOWIN 4030",
     "locID": "LOC000126127395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161427413"
    }
   },
@@ -42346,7 +42363,7 @@
     "name": "131 BRIDGE STREET WOOLOOWIN 4030",
     "locID": "LOC100023742040",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719446334"
    }
   },
@@ -42770,7 +42787,7 @@
    "properties": {
     "name": "UNIT 1, 56 MORRIS STREET WOOLOOWIN 4030",
     "locID": "LOC000182786862",
-    "tech": "HFC",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719798191"
    }
