@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-10T22:56:15.824229",
+ "generated": "2023-10-01T20:19:22.031817",
  "suburb": "LEWISTON",
  "features": [
   {
@@ -12476,8 +12476,8 @@
    "properties": {
     "name": "12 HANCOCK DRIVE LEWISTON 5501",
     "locID": "LOC000013497802",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GASA_415851952"
    }
   },
@@ -12748,7 +12748,7 @@
    "properties": {
     "name": "8 ALMOND COURT LEWISTON 5501",
     "locID": "LOC000056239501",
-    "tech": "NULL",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_416098789"
    }
@@ -17545,6 +17545,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424324573"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.57671164,
+     -34.60957518
+    ]
+   },
+   "properties": {
+    "name": "5 KARAPAS COURT LEWISTON 5501",
+    "locID": "LOC100056670305",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424346602"
    }
   },
   {
