@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T23:42:03.280793",
+ "generated": "2023-10-02T19:07:45.656642",
  "suburb": "LOWER WILMOT",
  "features": [
   {
@@ -35,6 +35,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702190762"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.22258576,
+     -41.33422426
+    ]
+   },
+   "properties": {
+    "name": "195 CHARLTONS ROAD LOWER WILMOT 7310",
+    "locID": "LOC000142841323",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702213819"
    }
   },
   {
@@ -161,6 +178,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.21090285,
+     -41.3196
+    ]
+   },
+   "properties": {
+    "name": "1929 WILMOT ROAD LOWER WILMOT 7310",
+    "locID": "LOC000075770296",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702377090"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.17853325,
+     -41.34665647
+    ]
+   },
+   "properties": {
+    "name": "276 BACK ROAD LOWER WILMOT 7310",
+    "locID": "LOC000028475667",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702486305"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.18387888,
      -41.34250809
     ]
@@ -256,6 +307,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702486320"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.18534364,
+     -41.34169545
+    ]
+   },
+   "properties": {
+    "name": "165 BACK ROAD LOWER WILMOT 7310",
+    "locID": "LOC000017637688",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702486322"
    }
   },
   {
@@ -372,8 +440,8 @@
    "properties": {
     "name": "1898 WILMOT ROAD LOWER WILMOT 7310",
     "locID": "LOC000072760198",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702489180"
    }
   },
@@ -610,8 +678,8 @@
    "properties": {
     "name": "1605 WILMOT ROAD LOWER WILMOT 7310",
     "locID": "LOC000006311880",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702490038"
    }
   },
@@ -951,7 +1019,7 @@
     "name": "1852 WILMOT ROAD LOWER WILMOT 7310",
     "locID": "LOC000063319595",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702494019"
    }
   },

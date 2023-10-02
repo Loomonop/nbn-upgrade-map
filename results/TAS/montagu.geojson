@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-12T00:23:50.921477",
+ "generated": "2023-10-02T19:38:05.145220",
  "suburb": "MONTAGU",
  "features": [
   {
@@ -263,6 +263,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.95606786,
+     -40.77598465
+    ]
+   },
+   "properties": {
+    "name": "1642 MONTAGU ROAD MONTAGU 7330",
+    "locID": "LOC000031189530",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702305714"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.95684772,
      -40.77609949
     ]
@@ -304,8 +321,8 @@
    "properties": {
     "name": "36 OLD PORT ROAD MONTAGU 7330",
     "locID": "LOC000015120514",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702310080"
    }
   },
@@ -392,6 +409,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702310088"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.98539601,
+     -40.75537048
+    ]
+   },
+   "properties": {
+    "name": "360 OLD PORT ROAD MONTAGU 7330",
+    "locID": "LOC000015947056",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702310089"
    }
   },
   {
@@ -491,8 +525,8 @@
    "properties": {
     "name": "295 BENS HILL ROAD MONTAGU 7330",
     "locID": "LOC000060603939",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702497122"
    }
   },
