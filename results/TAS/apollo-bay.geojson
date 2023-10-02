@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T17:20:47.160458",
+ "generated": "2023-10-02T13:49:04.795686",
  "suburb": "APOLLO BAY",
  "features": [
   {
@@ -202,9 +202,26 @@
    "properties": {
     "name": "46 YOUNGS ROAD APOLLO BAY 7150",
     "locID": "LOC000083556935",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702386261"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.28611477,
+     -43.16712439
+    ]
+   },
+   "properties": {
+    "name": "80 LOWES ROAD APOLLO BAY 7150",
+    "locID": "LOC000090725528",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702386262"
    }
   },
   {
@@ -661,8 +678,8 @@
    "properties": {
     "name": "310 APOLLO BAY ROAD APOLLO BAY 7150",
     "locID": "LOC000110436250",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS718063124"
    }
   },
@@ -749,6 +766,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718481501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.29237388,
+     -43.15934602
+    ]
+   },
+   "properties": {
+    "name": "266 APOLLO BAY ROAD APOLLO BAY 7150",
+    "locID": "ChIJ1ywIdr8ybKoR6JnoiRQIMAI",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS718546507"
    }
   },
   {

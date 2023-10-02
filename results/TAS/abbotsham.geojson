@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T17:07:58.952999",
+ "generated": "2023-10-02T13:36:21.160632",
  "suburb": "ABBOTSHAM",
  "features": [
   {
@@ -35,6 +35,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702208228"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.17409038,
+     -41.21830192
+    ]
+   },
+   "properties": {
+    "name": "644 CASTRA ROAD ABBOTSHAM 7315",
+    "locID": "LOC000031988103",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702208237"
    }
   },
   {
@@ -154,6 +171,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702217977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.18420413,
+     -41.20374938
+    ]
+   },
+   "properties": {
+    "name": "465 CASTRA ROAD ABBOTSHAM 7315",
+    "locID": "LOC000062338514",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702218810"
    }
   },
   {
@@ -287,8 +321,8 @@
    "properties": {
     "name": "100 EDINBOROUGH ROAD ABBOTSHAM 7315",
     "locID": "LOC000102648373",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702221851"
    }
   },
@@ -304,8 +338,8 @@
    "properties": {
     "name": "80 EDINBOROUGH ROAD ABBOTSHAM 7315",
     "locID": "LOC000034975995",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702221852"
    }
   },
