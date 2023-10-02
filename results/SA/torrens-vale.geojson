@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T11:32:42.132063",
+ "generated": "2023-10-02T09:33:47.566678",
  "suburb": "TORRENS VALE",
  "features": [
   {
@@ -178,6 +178,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.37962834,
+     -35.49741086
+    ]
+   },
+   "properties": {
+    "name": "LOT 404 TORRENS VALE ROAD TORRENS VALE 5203",
+    "locID": "EjQ0MDQgVG9ycmVucyBWYWxlIFJkLCBUb3JyZW5zIFZhbGUgU0EgNTIwMywgQXVzdHJhbGlhIjESLwoUChIJXyVIToRnsWoR_9vanVcLTRUQlAMqFAoSCTmDb8_qZ7FqEYAt-0VtvToQ",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424337240"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.37234037,
      -35.52239402
     ]
@@ -253,8 +270,8 @@
    "properties": {
     "name": "54 FANNYSIDE ROAD TORRENS VALE 5203",
     "locID": "LOC000030013653",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GASA_424657878"
    }
   },
@@ -474,9 +491,26 @@
    "properties": {
     "name": "388 PARAWA ROAD TORRENS VALE 5203",
     "locID": "LOC000166644253",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GASA_424662841"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.37073159,
+     -35.55041768
+    ]
+   },
+   "properties": {
+    "name": "405 PARAWA ROAD TORRENS VALE 5203",
+    "locID": "ChIJ5eRL8S1nsWoRHwbBitktaiI",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_424662842"
    }
   },
   {
@@ -528,6 +562,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424665009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.40960276,
+     -35.52548782
+    ]
+   },
+   "properties": {
+    "name": "172 STONE ROAD TORRENS VALE 5203",
+    "locID": "LOC000039184367",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424665010"
    }
   },
   {
@@ -730,7 +781,7 @@
     "name": "340 TORRENS VALE ROAD TORRENS VALE 5203",
     "locID": "LOC000042512277",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424665689"
    }
   },
