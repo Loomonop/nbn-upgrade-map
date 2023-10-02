@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T21:47:28.805823",
+ "generated": "2023-10-02T17:33:18.712134",
  "suburb": "HENRIETTA",
  "features": [
   {
@@ -577,7 +577,7 @@
     "name": "2210 MURCHISON HIGHWAY HENRIETTA 7325",
     "locID": "LOC000045673378",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702303092"
    }
   },
@@ -664,6 +664,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702305951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.69057226,
+     -41.15367541
+    ]
+   },
+   "properties": {
+    "name": "1989 MURCHISON HIGHWAY HENRIETTA 7325",
+    "locID": "LOC000085847961",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702305953"
    }
   },
   {
@@ -797,8 +814,8 @@
    "properties": {
     "name": "39 WIGGS ROAD HENRIETTA 7325",
     "locID": "LOC000106660871",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702368717"
    }
   },
@@ -885,6 +902,40 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456343"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.68709745,
+     -41.17195674
+    ]
+   },
+   "properties": {
+    "name": "42 WIGGS ROAD HENRIETTA 7325",
+    "locID": "LOC000051530602",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702456352"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.66053545,
+     -41.17742507
+    ]
+   },
+   "properties": {
+    "name": "2380 MURCHISON HIGHWAY HENRIETTA 7325",
+    "locID": "LOC000032454222",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702461769"
    }
   },
   {

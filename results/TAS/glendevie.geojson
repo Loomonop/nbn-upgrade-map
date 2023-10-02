@@ -1,8 +1,25 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T20:59:07.468121",
+ "generated": "2023-10-02T16:55:50.790760",
  "suburb": "GLENDEVIE",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.99531443,
+     -43.25321864
+    ]
+   },
+   "properties": {
+    "name": "6218 HUON HIGHWAY GLENDEVIE 7109",
+    "locID": "LOC000005186348",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702264054"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -203,7 +220,7 @@
     "name": "6095 HUON HIGHWAY GLENDEVIE 7109",
     "locID": "LOC000053150091",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702273691"
    }
   },
@@ -508,8 +525,8 @@
    "properties": {
     "name": "6150 HUON HIGHWAY GLENDEVIE 7109",
     "locID": "LOC000103308144",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS717990343"
    }
   },
@@ -698,6 +715,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS720816494"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.98804043,
+     -43.23718259
+    ]
+   },
+   "properties": {
+    "name": "6000 HUON HIGHWAY GLENDEVIE 7109",
+    "locID": "ChIJvVo8QmcmbKoRVqiTPmqoMJ4",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721208058"
    }
   },
   {

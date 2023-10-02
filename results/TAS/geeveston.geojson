@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T20:46:45.040671",
+ "generated": "2023-10-02T16:44:35.923206",
  "suburb": "GEEVESTON",
  "features": [
   {
@@ -83,7 +83,7 @@
    "properties": {
     "name": "30 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000181181315",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702188889"
    }
@@ -100,8 +100,8 @@
    "properties": {
     "name": "56 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000087776346",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702188890"
    }
   },
@@ -151,7 +151,7 @@
    "properties": {
     "name": "10 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000093695865",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702188893"
    }
@@ -185,7 +185,7 @@
    "properties": {
     "name": "22 ARVE ROAD GEEVESTON 7116",
     "locID": "ChIJ9xcoCOiCbqoRv_vtC_qbkC0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702188895"
    }
@@ -304,8 +304,8 @@
    "properties": {
     "name": "44 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000096606037",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702189030"
    }
   },
@@ -338,9 +338,26 @@
    "properties": {
     "name": "25 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000042629023",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702189047"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.89843365,
+     -43.16014017
+    ]
+   },
+   "properties": {
+    "name": "271 ARVE ROAD GEEVESTON 7116",
+    "locID": "LOC000009253604",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702189048"
    }
   },
   {
@@ -355,7 +372,7 @@
    "properties": {
     "name": "4 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000028455689",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702189049"
    }
@@ -491,7 +508,7 @@
    "properties": {
     "name": "64 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000106497960",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702193438"
    }
@@ -535,6 +552,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.89643005,
+     -43.15911771
+    ]
+   },
+   "properties": {
+    "name": "292 ARVE ROAD GEEVESTON 7116",
+    "locID": "LOC000078269517",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702193441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.92744734,
      -43.16263601
     ]
@@ -542,8 +576,8 @@
    "properties": {
     "name": "18 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000012130339",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702193442"
    }
   },
@@ -780,8 +814,8 @@
    "properties": {
     "name": "24 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000054264657",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702195090"
    }
   },
@@ -943,6 +977,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.91456518,
+     -43.18044534
+    ]
+   },
+   "properties": {
+    "name": "39 BRITCLIFFES ROAD GEEVESTON 7116",
+    "locID": "LOC000059053033",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702204241"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.91223566,
      -43.18130843
     ]
@@ -984,8 +1035,8 @@
    "properties": {
     "name": "5 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000080028196",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702204596"
    }
   },
@@ -1001,7 +1052,7 @@
    "properties": {
     "name": "1 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000035137497",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702207012"
    }
@@ -1018,8 +1069,8 @@
    "properties": {
     "name": "7 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000085007635",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702207013"
    }
   },
@@ -1103,8 +1154,8 @@
    "properties": {
     "name": "2 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000099029083",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702214160"
    }
   },
@@ -1460,8 +1511,8 @@
    "properties": {
     "name": "44 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000109801373",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702239849"
    }
   },
@@ -1579,8 +1630,8 @@
    "properties": {
     "name": "20 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000020146218",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702243676"
    }
   },
@@ -1664,8 +1715,8 @@
    "properties": {
     "name": "6 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000032111366",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702244237"
    }
   },
@@ -1715,7 +1766,7 @@
    "properties": {
     "name": "10 GEEVES ROAD GEEVESTON 7116",
     "locID": "LOC000093695865",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702244380"
    }
@@ -1817,7 +1868,7 @@
    "properties": {
     "name": "9 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000091077941",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702244429"
    }
@@ -1834,8 +1885,8 @@
    "properties": {
     "name": "2 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000111884891",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702244430"
    }
   },
@@ -2048,6 +2099,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.89924791,
+     -43.14514222
+    ]
+   },
+   "properties": {
+    "name": "319 FOURFOOT ROAD GEEVESTON 7116",
+    "locID": "LOC000029164873",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702246992"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.89721121,
      -43.13977836
     ]
@@ -2123,8 +2191,8 @@
    "properties": {
     "name": "14 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000038572486",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702248084"
    }
   },
@@ -2140,8 +2208,8 @@
    "properties": {
     "name": "16 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000053236949",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702248085"
    }
   },
@@ -2242,7 +2310,7 @@
    "properties": {
     "name": "19 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000007647659",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248235"
    }
@@ -2446,8 +2514,8 @@
    "properties": {
     "name": "350 HARWOODS ROAD GEEVESTON 7116",
     "locID": "LOC000039206989",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702259125"
    }
   },
@@ -2599,8 +2667,8 @@
    "properties": {
     "name": "22 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000066849110",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702265526"
    }
   },
@@ -2616,8 +2684,8 @@
    "properties": {
     "name": "3 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000012662790",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702265528"
    }
   },
@@ -2633,7 +2701,7 @@
    "properties": {
     "name": "24 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000088530354",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702265656"
    }
@@ -2650,8 +2718,8 @@
    "properties": {
     "name": "13 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000085939286",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702265670"
    }
   },
@@ -2667,7 +2735,7 @@
    "properties": {
     "name": "8 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000002680588",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702265672"
    }
@@ -2684,7 +2752,7 @@
    "properties": {
     "name": "10 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000034739764",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702265673"
    }
@@ -2718,7 +2786,7 @@
    "properties": {
     "name": "15 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000006304602",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702267213"
    }
@@ -2735,8 +2803,8 @@
    "properties": {
     "name": "19 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000067132763",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702267214"
    }
   },
@@ -2871,9 +2939,26 @@
    "properties": {
     "name": "26-28 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJ-yk28NyCbqoReGNfkqFmmPc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702269211"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92675625,
+     -43.18077163
+    ]
+   },
+   "properties": {
+    "name": "5032 HUON HIGHWAY GEEVESTON 7116",
+    "locID": "LOC000104484631",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702269648"
    }
   },
   {
@@ -2905,7 +2990,7 @@
    "properties": {
     "name": "7 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000072924565",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702270451"
    }
@@ -2922,8 +3007,8 @@
    "properties": {
     "name": "6 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000066003205",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702270452"
    }
   },
@@ -2956,8 +3041,8 @@
    "properties": {
     "name": "16 KENT STREET GEEVESTON 7116",
     "locID": "LOC000026646562",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702271240"
    }
   },
@@ -2976,6 +3061,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702271570"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.93404474,
+     -43.16538089
+    ]
+   },
+   "properties": {
+    "name": "4771 HUON HIGHWAY GEEVESTON 7116",
+    "locID": "LOC000103405895",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702271574"
    }
   },
   {
@@ -3007,9 +3109,26 @@
    "properties": {
     "name": "4896 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000003512930",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702271634"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92574012,
+     -43.17087378
+    ]
+   },
+   "properties": {
+    "name": "4907 HUON HIGHWAY GEEVESTON 7116",
+    "locID": "LOC000001850285",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702271635"
    }
   },
   {
@@ -3058,8 +3177,8 @@
    "properties": {
     "name": "4876 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000047662112",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702271711"
    }
   },
@@ -3092,7 +3211,7 @@
    "properties": {
     "name": "4793 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000015158901",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702271863"
    }
@@ -3109,8 +3228,8 @@
    "properties": {
     "name": "4927 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000010068375",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702271864"
    }
   },
@@ -3323,6 +3442,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.91215898,
+     -43.17691213
+    ]
+   },
+   "properties": {
+    "name": "117 KERMANDIE RIVER ROAD GEEVESTON 7116",
+    "locID": "LOC000025172854",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702272158"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.92105387,
      -43.1729997
     ]
@@ -3442,6 +3578,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.91546605,
+     -43.17468117
+    ]
+   },
+   "properties": {
+    "name": "10 KNIGHTS ROAD GEEVESTON 7116",
+    "locID": "LOC000104660861",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702272902"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.93953129,
+     -43.19338012
+    ]
+   },
+   "properties": {
+    "name": "5209 HUON HIGHWAY GEEVESTON 7116",
+    "locID": "LOC000054396512",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702273697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.94680984,
      -43.19713125
     ]
@@ -3500,8 +3670,8 @@
    "properties": {
     "name": "12 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000108978148",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702275660"
    }
   },
@@ -3517,7 +3687,7 @@
    "properties": {
     "name": "2 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000065854465",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702275661"
    }
@@ -3534,7 +3704,7 @@
    "properties": {
     "name": "4 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000047721132",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702275662"
    }
@@ -3551,7 +3721,7 @@
    "properties": {
     "name": "25 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000103622534",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702275670"
    }
@@ -3568,7 +3738,7 @@
    "properties": {
     "name": "9 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000041683113",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702275672"
    }
@@ -3585,8 +3755,8 @@
    "properties": {
     "name": "11 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000048000002",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702275673"
    }
   },
@@ -3602,7 +3772,7 @@
    "properties": {
     "name": "14 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000005150019",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702276499"
    }
@@ -3619,8 +3789,8 @@
    "properties": {
     "name": "20 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000093778103",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702276502"
    }
   },
@@ -3687,8 +3857,8 @@
    "properties": {
     "name": "17 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000026707390",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702277877"
    }
   },
@@ -3704,8 +3874,8 @@
    "properties": {
     "name": "5 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000085719464",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702277879"
    }
   },
@@ -3721,9 +3891,26 @@
    "properties": {
     "name": "21 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000056749830",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702277880"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92082612,
+     -43.16535953
+    ]
+   },
+   "properties": {
+    "name": "23 JOHN STREET GEEVESTON 7116",
+    "locID": "LOC000059791924",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702278272"
    }
   },
   {
@@ -3738,8 +3925,8 @@
    "properties": {
     "name": "18 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000038612753",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702278279"
    }
   },
@@ -3755,8 +3942,8 @@
    "properties": {
     "name": "16 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000038613740",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702278283"
    }
   },
@@ -3772,9 +3959,26 @@
    "properties": {
     "name": "33 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000076025430",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702278451"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92171399,
+     -43.1733114
+    ]
+   },
+   "properties": {
+    "name": "8 PADMANS LANE GEEVESTON 7116",
+    "locID": "LOC000044577036",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702308207"
    }
   },
   {
@@ -3792,6 +3996,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702315243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92141336,
+     -43.17335865
+    ]
+   },
+   "properties": {
+    "name": "6 PADMANS LANE GEEVESTON 7116",
+    "locID": "LOC000003566790",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702317885"
    }
   },
   {
@@ -4139,6 +4360,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.92557299,
+     -43.16666842
+    ]
+   },
+   "properties": {
+    "name": "2 SCHOOL ROAD GEEVESTON 7116",
+    "locID": "LOC000102687387",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
+    "gnaf_pid": "GATAS702332598"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.92522884,
      -43.16641606
     ]
@@ -4146,8 +4384,8 @@
    "properties": {
     "name": "6 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000056310104",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702332601"
    }
   },
@@ -4207,6 +4445,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.94992208,
+     -43.17654032
+    ]
+   },
+   "properties": {
+    "name": "151 SCOTTS ROAD GEEVESTON 7116",
+    "locID": "ChIJt6dMRKSCbqoRgVlDpS2RV7c",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS702332814"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.92500749,
      -43.16635288
     ]
@@ -4214,7 +4469,7 @@
    "properties": {
     "name": "8 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000106808615",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702335349"
    }
@@ -4231,8 +4486,8 @@
    "properties": {
     "name": "10 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000066021037",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702335350"
    }
   },
@@ -4248,7 +4503,7 @@
    "properties": {
     "name": "32 SCHOOL ROAD GEEVESTON 7116",
     "locID": "ChIJKT_j2NyCbqoRYS3zy-0OzjU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702335354"
    }
@@ -4265,7 +4520,7 @@
    "properties": {
     "name": "10 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000053077669",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351869"
    }
@@ -4282,7 +4537,7 @@
    "properties": {
     "name": "16 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000094819018",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702352444"
    }
@@ -4299,8 +4554,8 @@
    "properties": {
     "name": "1 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000060697692",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702353432"
    }
   },
@@ -4435,9 +4690,26 @@
    "properties": {
     "name": "17 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000011224625",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702361210"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92856307,
+     -43.166067
+    ]
+   },
+   "properties": {
+    "name": "14 VIEW STREET GEEVESTON 7116",
+    "locID": "LOC000026222822",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702364156"
    }
   },
   {
@@ -4469,8 +4741,8 @@
    "properties": {
     "name": "12 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000037054230",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702378638"
    }
   },
@@ -4503,7 +4775,7 @@
    "properties": {
     "name": "1 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000099510069",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702437770"
    }
@@ -4520,7 +4792,7 @@
    "properties": {
     "name": "UNIT 2, 63 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000026346405",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702437771"
    }
@@ -4537,8 +4809,8 @@
    "properties": {
     "name": "2 KENT STREET GEEVESTON 7116",
     "locID": "LOC000028467429",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702437772"
    }
   },
@@ -4571,7 +4843,7 @@
    "properties": {
     "name": "5 BRADY STREET GEEVESTON 7116",
     "locID": "LOC000046801225",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702438657"
    }
@@ -4649,6 +4921,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.90547463,
+     -43.16021463
+    ]
+   },
+   "properties": {
+    "name": "213 ARVE ROAD GEEVESTON 7116",
+    "locID": "ChIJuwRfYCGDbqoRuQlinZeABdQ",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS702441616"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.91857243,
      -43.17823954
     ]
@@ -4690,9 +4979,26 @@
    "properties": {
     "name": "3 BRADY STREET GEEVESTON 7116",
     "locID": "LOC000014343922",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702442084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92533707,
+     -43.16846023
+    ]
+   },
+   "properties": {
+    "name": "4 FORDS ROAD GEEVESTON 7116",
+    "locID": "LOC000100655404",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
+    "gnaf_pid": "GATAS702442089"
    }
   },
   {
@@ -4707,8 +5013,8 @@
    "properties": {
     "name": "8 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000060742796",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702442093"
    }
   },
@@ -4724,9 +5030,26 @@
    "properties": {
     "name": "1 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000087186608",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702442096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92524482,
+     -43.18290202
+    ]
+   },
+   "properties": {
+    "name": "65 RILEYS CREEK ROAD GEEVESTON 7116",
+    "locID": "LOC000077057798",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702442116"
    }
   },
   {
@@ -4741,8 +5064,8 @@
    "properties": {
     "name": "7 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000025079900",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702442125"
    }
   },
@@ -4758,8 +5081,8 @@
    "properties": {
     "name": "14 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000060208962",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702442128"
    }
   },
@@ -4911,7 +5234,7 @@
    "properties": {
     "name": "10 BRADY STREET GEEVESTON 7116",
     "locID": "LOC000062261236",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702442214"
    }
@@ -4928,7 +5251,7 @@
    "properties": {
     "name": "11 BRADY STREET GEEVESTON 7116",
     "locID": "LOC000061886235",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702442215"
    }
@@ -4989,6 +5312,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.93148164,
+     -43.1863698
+    ]
+   },
+   "properties": {
+    "name": "5108 HUON HIGHWAY GEEVESTON 7116",
+    "locID": "LOC000063781949",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702442299"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.9145122,
      -43.15970883
     ]
@@ -5006,6 +5346,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.90745006,
+     -43.17865406
+    ]
+   },
+   "properties": {
+    "name": "160 KERMANDIE RIVER ROAD GEEVESTON 7116",
+    "locID": "LOC000039343467",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702442304"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.92160392,
      -43.16850025
     ]
@@ -5013,8 +5370,8 @@
    "properties": {
     "name": "38 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000002727431",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702443071"
    }
   },
@@ -5030,8 +5387,8 @@
    "properties": {
     "name": "4914 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000056702419",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702443073"
    }
   },
@@ -5047,8 +5404,8 @@
    "properties": {
     "name": "2 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000060685191",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702443077"
    }
   },
@@ -5166,8 +5523,8 @@
    "properties": {
     "name": "5 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000010167077",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702444813"
    }
   },
@@ -5200,8 +5557,8 @@
    "properties": {
     "name": "10 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000002672202",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702444831"
    }
   },
@@ -5234,8 +5591,8 @@
    "properties": {
     "name": "3 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000006326981",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702444935"
    }
   },
@@ -5268,8 +5625,8 @@
    "properties": {
     "name": "8 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000025161356",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702444942"
    }
   },
@@ -5353,7 +5710,7 @@
    "properties": {
     "name": "UNIT 1, 6 DUKE STREET GEEVESTON 7116",
     "locID": "ChIJq2Pke8OCbqoROzfzBcfyVw8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702445821"
    }
@@ -5387,8 +5744,8 @@
    "properties": {
     "name": "13 KENT STREET GEEVESTON 7116",
     "locID": "LOC000096294983",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702446612"
    }
   },
@@ -5455,7 +5812,7 @@
    "properties": {
     "name": "10 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000032484505",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702447084"
    }
@@ -5472,7 +5829,7 @@
    "properties": {
     "name": "4 KENT STREET GEEVESTON 7116",
     "locID": "LOC000095110356",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702447086"
    }
@@ -5540,8 +5897,8 @@
    "properties": {
     "name": "9 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000073960240",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702447449"
    }
   },
@@ -5557,7 +5914,7 @@
    "properties": {
     "name": "7 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000068299684",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702447452"
    }
@@ -5574,8 +5931,8 @@
    "properties": {
     "name": "138 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000060697692",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702447458"
    }
   },
@@ -5594,6 +5951,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702447461"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.91739397,
+     -43.16022191
+    ]
+   },
+   "properties": {
+    "name": "107 ARVE ROAD GEEVESTON 7116",
+    "locID": "ChIJW24JeeCCbqoRreTu2q9CNgE",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS702447511"
    }
   },
   {
@@ -5625,8 +5999,8 @@
    "properties": {
     "name": "4917 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000032115716",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702447864"
    }
   },
@@ -5642,8 +6016,8 @@
    "properties": {
     "name": "7 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000104600466",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702447865"
    }
   },
@@ -5795,7 +6169,7 @@
    "properties": {
     "name": "UNIT 2, 6 DUKE STREET GEEVESTON 7116",
     "locID": "ChIJq2Pke8OCbqoROzfzBcfyVw8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702448475"
    }
@@ -6186,7 +6560,7 @@
    "properties": {
     "name": "22 KENT STREET GEEVESTON 7116",
     "locID": "LOC100080450564",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702708981"
    }
@@ -6203,7 +6577,7 @@
    "properties": {
     "name": "24 KENT STREET GEEVESTON 7116",
     "locID": "LOC000106405678",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702708983"
    }
@@ -6220,8 +6594,8 @@
    "properties": {
     "name": "25 KENT STREET GEEVESTON 7116",
     "locID": "LOC000031161120",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702708984"
    }
   },
@@ -6237,7 +6611,7 @@
    "properties": {
     "name": "26 KENT STREET GEEVESTON 7116",
     "locID": "LOC100080450586",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702708985"
    }
@@ -6254,8 +6628,8 @@
    "properties": {
     "name": "29 KENT STREET GEEVESTON 7116",
     "locID": "LOC000066099113",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702708988"
    }
   },
@@ -6288,8 +6662,8 @@
    "properties": {
     "name": "2 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000084466130",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702712039"
    }
   },
@@ -6305,7 +6679,7 @@
    "properties": {
     "name": "8 VIEW STREET GEEVESTON 7116",
     "locID": "ChIJjZa--cKCbqoRK0P9op5OD0g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702712295"
    }
@@ -6322,8 +6696,8 @@
    "properties": {
     "name": "3 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000073005850",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702712298"
    }
   },
@@ -6339,7 +6713,7 @@
    "properties": {
     "name": "4 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000009240832",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702712300"
    }
@@ -6356,7 +6730,7 @@
    "properties": {
     "name": "6 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000056547470",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702712302"
    }
@@ -6373,8 +6747,8 @@
    "properties": {
     "name": "12 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000051113942",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702712303"
    }
   },
@@ -6390,9 +6764,26 @@
    "properties": {
     "name": "15 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000038659483",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702712304"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92857777,
+     -43.16457458
+    ]
+   },
+   "properties": {
+    "name": "9 BROWNELL STREET GEEVESTON 7116",
+    "locID": "LOC000077268891",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
+    "gnaf_pid": "GATAS702714177"
    }
   },
   {
@@ -6441,8 +6832,8 @@
    "properties": {
     "name": "1 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000093020400",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702714187"
    }
   },
@@ -6458,8 +6849,8 @@
    "properties": {
     "name": "3 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000071805904",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702714189"
    }
   },
@@ -6475,8 +6866,8 @@
    "properties": {
     "name": "4 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000071561329",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702714190"
    }
   },
@@ -6492,8 +6883,8 @@
    "properties": {
     "name": "5 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000006832795",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702714191"
    }
   },
@@ -6509,7 +6900,7 @@
    "properties": {
     "name": "6 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000033425437",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702714192"
    }
@@ -6526,8 +6917,8 @@
    "properties": {
     "name": "7 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000051238842",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702714193"
    }
   },
@@ -6543,7 +6934,7 @@
    "properties": {
     "name": "8 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000088991819",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702714194"
    }
@@ -6560,7 +6951,7 @@
    "properties": {
     "name": "10 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC100080439331",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702714196"
    }
@@ -6577,8 +6968,8 @@
    "properties": {
     "name": "6 KENT STREET GEEVESTON 7116",
     "locID": "LOC000087888034",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702715745"
    }
   },
@@ -6594,7 +6985,7 @@
    "properties": {
     "name": "7 KENT STREET GEEVESTON 7116",
     "locID": "LOC000093391279",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702715746"
    }
@@ -6611,8 +7002,8 @@
    "properties": {
     "name": "8 KENT STREET GEEVESTON 7116",
     "locID": "LOC000095201355",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702715747"
    }
   },
@@ -6628,8 +7019,8 @@
    "properties": {
     "name": "9 KENT STREET GEEVESTON 7116",
     "locID": "LOC000104843250",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702715748"
    }
   },
@@ -6645,8 +7036,8 @@
    "properties": {
     "name": "14 KENT STREET GEEVESTON 7116",
     "locID": "LOC000003429924",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702715752"
    }
   },
@@ -6662,8 +7053,8 @@
    "properties": {
     "name": "18 KENT STREET GEEVESTON 7116",
     "locID": "LOC000102987195",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702715755"
    }
   },
@@ -6679,7 +7070,7 @@
    "properties": {
     "name": "19 KENT STREET GEEVESTON 7116",
     "locID": "LOC000074257997",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702715756"
    }
@@ -6696,7 +7087,7 @@
    "properties": {
     "name": "21 KENT STREET GEEVESTON 7116",
     "locID": "LOC000067818582",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702715758"
    }
@@ -6747,7 +7138,7 @@
    "properties": {
     "name": "63 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000026241573",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702717483"
    }
@@ -6764,7 +7155,7 @@
    "properties": {
     "name": "20 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC100080436940",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702717948"
    }
@@ -6781,7 +7172,7 @@
    "properties": {
     "name": "15 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000015175027",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702718878"
    }
@@ -6798,8 +7189,8 @@
    "properties": {
     "name": "16 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000077240386",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702718879"
    }
   },
@@ -6815,8 +7206,8 @@
    "properties": {
     "name": "7 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000100403715",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702718885"
    }
   },
@@ -6832,8 +7223,8 @@
    "properties": {
     "name": "9 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000018823097",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702718887"
    }
   },
@@ -6849,8 +7240,8 @@
    "properties": {
     "name": "11 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000047085727",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702718889"
    }
   },
@@ -6866,8 +7257,8 @@
    "properties": {
     "name": "12 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000021275628",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702718890"
    }
   },
@@ -6883,8 +7274,8 @@
    "properties": {
     "name": "11 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000014288417",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702719787"
    }
   },
@@ -6900,8 +7291,8 @@
    "properties": {
     "name": "12 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000012636767",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702719788"
    }
   },
@@ -6917,8 +7308,8 @@
    "properties": {
     "name": "13 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000091041138",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702719789"
    }
   },
@@ -6934,8 +7325,8 @@
    "properties": {
     "name": "14 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000038187853",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702719790"
    }
   },
@@ -6951,7 +7342,7 @@
    "properties": {
     "name": "13 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000091335558",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702720002"
    }
@@ -6968,8 +7359,8 @@
    "properties": {
     "name": "14 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000077218232",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702720003"
    }
   },
@@ -6985,7 +7376,7 @@
    "properties": {
     "name": "12 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000017593970",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702720019"
    }
@@ -7002,8 +7393,8 @@
    "properties": {
     "name": "13 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000032559901",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702720020"
    }
   },
@@ -7019,8 +7410,8 @@
    "properties": {
     "name": "15 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000006231493",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702720021"
    }
   },
@@ -7036,7 +7427,7 @@
    "properties": {
     "name": "16 CHURCH STREET GEEVESTON 7116",
     "locID": "ChIJ01K0AuiCbqoR1PMBJuBcUfk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS702720022"
    }
@@ -7070,8 +7461,8 @@
    "properties": {
     "name": "3 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000056261891",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702720390"
    }
   },
@@ -7087,7 +7478,7 @@
    "properties": {
     "name": "7 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000056452326",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702720392"
    }
@@ -7104,8 +7495,8 @@
    "properties": {
     "name": "14 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000059847607",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702720928"
    }
   },
@@ -7138,8 +7529,8 @@
    "properties": {
     "name": "4807 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000052166007",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS702721017"
    }
   },
@@ -7172,8 +7563,8 @@
    "properties": {
     "name": "52 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000010158595",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS715255253"
    }
   },
@@ -7189,8 +7580,8 @@
    "properties": {
     "name": "15 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000062075992",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS715255254"
    }
   },
@@ -7206,8 +7597,8 @@
    "properties": {
     "name": "50 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000053033101",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS715255255"
    }
   },
@@ -7257,8 +7648,8 @@
    "properties": {
     "name": "4909 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000031166044",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS715278321"
    }
   },
@@ -7274,8 +7665,8 @@
    "properties": {
     "name": "4880 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000103019197",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS715278322"
    }
   },
@@ -7342,9 +7733,26 @@
    "properties": {
     "name": "11 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000100553441",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716240714"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.94674751,
+     -43.16605007
+    ]
+   },
+   "properties": {
+    "name": "71 O'HALLORANS ROAD GEEVESTON 7116",
+    "locID": "LOC000163511863",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS716241360"
    }
   },
   {
@@ -7393,8 +7801,8 @@
    "properties": {
     "name": "9 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000070429297",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716458992"
    }
   },
@@ -7410,8 +7818,8 @@
    "properties": {
     "name": "1 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000100403715",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716459398"
    }
   },
@@ -7427,8 +7835,8 @@
    "properties": {
     "name": "2 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000006725442",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716459400"
    }
   },
@@ -7444,7 +7852,7 @@
    "properties": {
     "name": "4 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000062398362",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716459401"
    }
@@ -7495,7 +7903,7 @@
    "properties": {
     "name": "11 FORDS ROAD GEEVESTON 7116",
     "locID": "ChIJ3z2IYMSCbqoR89yi6Oi5WlM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716459694"
    }
@@ -7512,8 +7920,8 @@
    "properties": {
     "name": "1 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000085812164",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716459695"
    }
   },
@@ -7563,8 +7971,8 @@
    "properties": {
     "name": "21 HILL STREET GEEVESTON 7116",
     "locID": "LOC000047288866",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716460252"
    }
   },
@@ -7580,7 +7988,7 @@
    "properties": {
     "name": "4870 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000045499708",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716460357"
    }
@@ -7597,7 +8005,7 @@
    "properties": {
     "name": "4877 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000022604623",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716460358"
    }
@@ -7614,8 +8022,8 @@
    "properties": {
     "name": "4894 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000047752069",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716460359"
    }
   },
@@ -7648,8 +8056,8 @@
    "properties": {
     "name": "1 KENT STREET GEEVESTON 7116",
     "locID": "LOC000096294983",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716460508"
    }
   },
@@ -7665,8 +8073,8 @@
    "properties": {
     "name": "4 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000015935666",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716462917"
    }
   },
@@ -7699,7 +8107,7 @@
    "properties": {
     "name": "28 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000111297883",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716583872"
    }
@@ -7716,8 +8124,8 @@
    "properties": {
     "name": "34 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000095213072",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716583873"
    }
   },
@@ -7733,8 +8141,8 @@
    "properties": {
     "name": "2 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000085441266",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716584605"
    }
   },
@@ -7750,7 +8158,7 @@
    "properties": {
     "name": "11 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000056480371",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716619536"
    }
@@ -7767,7 +8175,7 @@
    "properties": {
     "name": "13 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000023440919",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716619537"
    }
@@ -7784,8 +8192,8 @@
    "properties": {
     "name": "17 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000059757722",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716619538"
    }
   },
@@ -7801,7 +8209,7 @@
    "properties": {
     "name": "19 BROWNELL STREET GEEVESTON 7116",
     "locID": "LOC000045468427",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716619539"
    }
@@ -7818,8 +8226,8 @@
    "properties": {
     "name": "22 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000113416947",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716619703"
    }
   },
@@ -7835,9 +8243,26 @@
    "properties": {
     "name": "18 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000033517245",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716619923"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92104437,
+     -43.16746563
+    ]
+   },
+   "properties": {
+    "name": "19 DUKE STREET GEEVESTON 7116",
+    "locID": "LOC000038035542",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS716619924"
    }
   },
   {
@@ -7852,7 +8277,7 @@
    "properties": {
     "name": "22-36 DUKE STREET GEEVESTON 7116",
     "locID": "ChIJZcJOVsOCbqoRmb0GRU3z794",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716619925"
    }
@@ -7869,8 +8294,8 @@
    "properties": {
     "name": "3 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000039519790",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716619926"
    }
   },
@@ -7886,7 +8311,7 @@
    "properties": {
     "name": "40 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000062398362",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716619927"
    }
@@ -7920,8 +8345,8 @@
    "properties": {
     "name": "5 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000106797014",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716619929"
    }
   },
@@ -7954,8 +8379,8 @@
    "properties": {
     "name": "40 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000006741851",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620150"
    }
   },
@@ -8073,8 +8498,8 @@
    "properties": {
     "name": "25 HILL STREET GEEVESTON 7116",
     "locID": "LOC000077444965",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620475"
    }
   },
@@ -8124,7 +8549,7 @@
    "properties": {
     "name": "4828 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000051281974",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620633"
    }
@@ -8141,8 +8566,8 @@
    "properties": {
     "name": "4837 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000084929371",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620634"
    }
   },
@@ -8158,8 +8583,8 @@
    "properties": {
     "name": "4839 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000094879076",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620635"
    }
   },
@@ -8175,7 +8600,7 @@
    "properties": {
     "name": "4840 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000029229466",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620636"
    }
@@ -8192,8 +8617,8 @@
    "properties": {
     "name": "4841 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000086794073",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620637"
    }
   },
@@ -8209,7 +8634,7 @@
    "properties": {
     "name": "4847 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000133797035",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620638"
    }
@@ -8226,8 +8651,8 @@
    "properties": {
     "name": "4869 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000012133362",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620639"
    }
   },
@@ -8243,8 +8668,8 @@
    "properties": {
     "name": "4873 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000062404366",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620640"
    }
   },
@@ -8260,7 +8685,7 @@
    "properties": {
     "name": "4875 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000040769523",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620641"
    }
@@ -8277,7 +8702,7 @@
    "properties": {
     "name": "4886 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000104591263",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620644"
    }
@@ -8294,7 +8719,7 @@
    "properties": {
     "name": "4892 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000071430635",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620645"
    }
@@ -8311,8 +8736,8 @@
    "properties": {
     "name": "4899 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000046025849",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620646"
    }
   },
@@ -8328,8 +8753,8 @@
    "properties": {
     "name": "4903 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000094135631",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620647"
    }
   },
@@ -8345,7 +8770,7 @@
    "properties": {
     "name": "4913 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000011296216",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620648"
    }
@@ -8362,7 +8787,7 @@
    "properties": {
     "name": "4915 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000034337480",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620649"
    }
@@ -8379,8 +8804,8 @@
    "properties": {
     "name": "4921 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000036006601",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620650"
    }
   },
@@ -8396,8 +8821,8 @@
    "properties": {
     "name": "26 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000113747649",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620823"
    }
   },
@@ -8413,7 +8838,7 @@
    "properties": {
     "name": "27-31 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJt4rSkdyCbqoRMUelFFgCpIE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716620824"
    }
@@ -8430,8 +8855,8 @@
    "properties": {
     "name": "30 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000072766663",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620825"
    }
   },
@@ -8447,7 +8872,7 @@
    "properties": {
     "name": "32 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000025103873",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620826"
    }
@@ -8464,8 +8889,8 @@
    "properties": {
     "name": "36 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000057548908",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620827"
    }
   },
@@ -8481,7 +8906,7 @@
    "properties": {
     "name": "38 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000098315611",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620828"
    }
@@ -8498,7 +8923,7 @@
    "properties": {
     "name": "40 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000025169009",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620829"
    }
@@ -8515,8 +8940,8 @@
    "properties": {
     "name": "42 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000048310382",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716620830"
    }
   },
@@ -8532,7 +8957,7 @@
    "properties": {
     "name": "44 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000047038443",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716620831"
    }
@@ -8566,9 +8991,43 @@
    "properties": {
     "name": "14-18 KENT STREET GEEVESTON 7116",
     "locID": "ChIJmbcdasKCbqoR0WGkz267uR4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716620898"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92910327,
+     -43.16700384
+    ]
+   },
+   "properties": {
+    "name": "30 KENT STREET GEEVESTON 7116",
+    "locID": "LOC000071922925",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
+    "gnaf_pid": "GATAS716620899"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.9280814,
+     -43.16950741
+    ]
+   },
+   "properties": {
+    "name": "58 KENT STREET GEEVESTON 7116",
+    "locID": "ChIJEbyApcaCbqoR-gsfisKaWis",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS716620900"
    }
   },
   {
@@ -8678,6 +9137,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.9181868,
+     -43.17340546
+    ]
+   },
+   "properties": {
+    "name": "42 KERMANDIE RIVER ROAD GEEVESTON 7116",
+    "locID": "LOC000026774379",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS716620907"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.92683764,
      -43.16926239
     ]
@@ -8685,7 +9161,7 @@
    "properties": {
     "name": "10 MEMORIAL DRIVE GEEVESTON 7116",
     "locID": "LOC000019258971",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716621380"
    }
@@ -8753,8 +9229,8 @@
    "properties": {
     "name": "11 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000060248754",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622378"
    }
   },
@@ -8770,7 +9246,7 @@
    "properties": {
     "name": "23 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000048530162",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716622379"
    }
@@ -8787,7 +9263,7 @@
    "properties": {
     "name": "25 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000025185528",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716622380"
    }
@@ -8804,8 +9280,8 @@
    "properties": {
     "name": "27 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000005178330",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622381"
    }
   },
@@ -8821,8 +9297,8 @@
    "properties": {
     "name": "29 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000099379590",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622382"
    }
   },
@@ -8838,7 +9314,7 @@
    "properties": {
     "name": "31 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000029199341",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716622383"
    }
@@ -8855,7 +9331,7 @@
    "properties": {
     "name": "33 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000087626290",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716622384"
    }
@@ -8872,7 +9348,7 @@
    "properties": {
     "name": "35 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000094407777",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716622385"
    }
@@ -8889,8 +9365,8 @@
    "properties": {
     "name": "37 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000088640894",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622386"
    }
   },
@@ -8906,8 +9382,8 @@
    "properties": {
     "name": "39 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000102625934",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622387"
    }
   },
@@ -8923,9 +9399,26 @@
    "properties": {
     "name": "41 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000067866594",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.92266046,
+     -43.1642622
+    ]
+   },
+   "properties": {
+    "name": "45 SCHOOL ROAD GEEVESTON 7116",
+    "locID": "LOC000108888009",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS716622389"
    }
   },
   {
@@ -8940,8 +9433,8 @@
    "properties": {
     "name": "47 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000059174971",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622390"
    }
   },
@@ -8957,8 +9450,8 @@
    "properties": {
     "name": "49 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000095092999",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622391"
    }
   },
@@ -8974,7 +9467,7 @@
    "properties": {
     "name": "51 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000026714022",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716622392"
    }
@@ -8991,7 +9484,7 @@
    "properties": {
     "name": "9 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000133801209",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716622393"
    }
@@ -9008,8 +9501,8 @@
    "properties": {
     "name": "20 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000071651620",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622828"
    }
   },
@@ -9025,8 +9518,8 @@
    "properties": {
     "name": "5 VIEW STREET GEEVESTON 7116",
     "locID": "LOC000067126976",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622829"
    }
   },
@@ -9042,8 +9535,8 @@
    "properties": {
     "name": "14 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000094653322",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622997"
    }
   },
@@ -9059,8 +9552,8 @@
    "properties": {
     "name": "6 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000104527537",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622998"
    }
   },
@@ -9076,8 +9569,8 @@
    "properties": {
     "name": "8 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC000113702611",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716622999"
    }
   },
@@ -9093,8 +9586,8 @@
    "properties": {
     "name": "4879 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000106997930",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716624500"
    }
   },
@@ -9195,7 +9688,7 @@
    "properties": {
     "name": "17 DUKE STREET GEEVESTON 7116",
     "locID": "ChIJkyzAl8SCbqoR1kcRZqHzYus",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716711715"
    }
@@ -9246,7 +9739,7 @@
    "properties": {
     "name": "UNIT 10, 10 BRADY STREET GEEVESTON 7116",
     "locID": "LOC000062261236",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716713213"
    }
@@ -9263,7 +9756,7 @@
    "properties": {
     "name": "UNIT 11, 10 BRADY STREET GEEVESTON 7116",
     "locID": "LOC000061886235",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716713214"
    }
@@ -9433,7 +9926,7 @@
    "properties": {
     "name": "UNIT 9, 10 BRADY STREET GEEVESTON 7116",
     "locID": "LOC000061851123",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716713224"
    }
@@ -9450,8 +9943,8 @@
    "properties": {
     "name": "1-7 CHURCH STREET GEEVESTON 7116",
     "locID": "LOC000014288417",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716713256"
    }
   },
@@ -9484,8 +9977,8 @@
    "properties": {
     "name": "FLAT 1, 7 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000100403715",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716713292"
    }
   },
@@ -9501,8 +9994,8 @@
    "properties": {
     "name": "FLAT 2, 7 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000100403715",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716713293"
    }
   },
@@ -9518,7 +10011,7 @@
    "properties": {
     "name": "13 HILL STREET GEEVESTON 7116",
     "locID": "ChIJTTJ6ZMGCbqoRpjjMHVZfMx0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716713379"
    }
@@ -9552,7 +10045,7 @@
    "properties": {
     "name": "31-33 KENT STREET GEEVESTON 7116",
     "locID": "LOC000085885891",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716713420"
    }
@@ -9589,6 +10082,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716715449"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.93366262,
+     -43.18742397
+    ]
+   },
+   "properties": {
+    "name": "4878 HUON HIGHWAY GEEVESTON 7116",
+    "locID": "ChIJh6ug5VKdbqoR8icbwgu5dvQ",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS716716001"
    }
   },
   {
@@ -9654,7 +10164,7 @@
    "properties": {
     "name": "36 SCHOOL ROAD GEEVESTON 7116",
     "locID": "ChIJKT_j2NyCbqoREg8pJzBEQVs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716717752"
    }
@@ -9671,7 +10181,7 @@
    "properties": {
     "name": "38 SCHOOL ROAD GEEVESTON 7116",
     "locID": "ChIJHacC2dyCbqoRSrs5VfDsThk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716717753"
    }
@@ -9688,7 +10198,7 @@
    "properties": {
     "name": "40 SCHOOL ROAD GEEVESTON 7116",
     "locID": "ChIJKT_j2NyCbqoRYYCUyonndrE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716717754"
    }
@@ -9705,7 +10215,7 @@
    "properties": {
     "name": "42 SCHOOL ROAD GEEVESTON 7116",
     "locID": "ChIJKT_j2NyCbqoRk0L5RP2WZvA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716717755"
    }
@@ -9739,8 +10249,8 @@
    "properties": {
     "name": "16 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133788459",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716845305"
    }
   },
@@ -9756,7 +10266,7 @@
    "properties": {
     "name": "17 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133788485",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716845306"
    }
@@ -9773,8 +10283,8 @@
    "properties": {
     "name": "19 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133792614",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716845307"
    }
   },
@@ -9790,7 +10300,7 @@
    "properties": {
     "name": "23 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133792679",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716845308"
    }
@@ -9807,8 +10317,8 @@
    "properties": {
     "name": "36 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133796864",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716845309"
    }
   },
@@ -9824,7 +10334,7 @@
    "properties": {
     "name": "38 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133796886",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716845310"
    }
@@ -9841,7 +10351,7 @@
    "properties": {
     "name": "40 ARVE ROAD GEEVESTON 7116",
     "locID": "ChIJ743bo-eCbqoRifI08GtRtpU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716845311"
    }
@@ -9858,7 +10368,7 @@
    "properties": {
     "name": "42 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133796957",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716845312"
    }
@@ -9875,7 +10385,7 @@
    "properties": {
     "name": "46-48 ARVE ROAD GEEVESTON 7116",
     "locID": "ChIJnThmC-eCbqoRBqqtWB_CRtg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716845313"
    }
@@ -9892,8 +10402,8 @@
    "properties": {
     "name": "55 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000071415303",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716845314"
    }
   },
@@ -9909,7 +10419,7 @@
    "properties": {
     "name": "58 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000003516037",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716845315"
    }
@@ -9926,8 +10436,8 @@
    "properties": {
     "name": "6 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000190787887",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716845316"
    }
   },
@@ -9943,8 +10453,8 @@
    "properties": {
     "name": "8 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000067130139",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716845317"
    }
   },
@@ -9977,8 +10487,8 @@
    "properties": {
     "name": "32 KENT STREET GEEVESTON 7116",
     "locID": "LOC000133792857",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS716846164"
    }
   },
@@ -10011,7 +10521,7 @@
    "properties": {
     "name": "18 VIEW STREET GEEVESTON 7116",
     "locID": "ChIJJU0cTMKCbqoREy6vyuVDeuk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS716846900"
    }
@@ -10096,7 +10606,7 @@
    "properties": {
     "name": "54 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000037789445",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717059593"
    }
@@ -10164,8 +10674,8 @@
    "properties": {
     "name": "11 MEMORIAL DRIVE GEEVESTON 7116",
     "locID": "LOC000038548414",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717123359"
    }
   },
@@ -10198,8 +10708,8 @@
    "properties": {
     "name": "UNIT 1, 63 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000026251749",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717123945"
    }
   },
@@ -10218,6 +10728,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717123946"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.89034589,
+     -43.13631221
+    ]
+   },
+   "properties": {
+    "name": "122 FAIRY FALLS ROAD GEEVESTON 7116",
+    "locID": "LOC000105942035",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS717233455"
    }
   },
   {
@@ -10366,6 +10893,23 @@
     ]
    },
    "properties": {
+    "name": "25 FAIRY FALLS ROAD GEEVESTON 7116",
+    "locID": "ChIJtUx9w3GDbqoRy--LCLLrGGI",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS717234192"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.89231558,
+     -43.14154667
+    ]
+   },
+   "properties": {
     "name": "31 FAIRY FALLS ROAD GEEVESTON 7116",
     "locID": "ChIJtUx9w3GDbqoR4J-U9tH28CY",
     "tech": "SATELLITE",
@@ -10402,7 +10946,7 @@
    "properties": {
     "name": "6 DUKE STREET GEEVESTON 7116",
     "locID": "ChIJq2Pke8OCbqoROzfzBcfyVw8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717235641"
    }
@@ -10419,7 +10963,7 @@
    "properties": {
     "name": "10 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000039182436",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717239327"
    }
@@ -10640,8 +11184,8 @@
    "properties": {
     "name": "15 KENT STREET GEEVESTON 7116",
     "locID": "LOC000039077522",
-    "tech": "WIRELESS",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717413221"
    }
   },
@@ -10980,8 +11524,8 @@
    "properties": {
     "name": "36 HILL STREET GEEVESTON 7116",
     "locID": "LOC000076883877",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717682313"
    }
   },
@@ -10997,8 +11541,8 @@
    "properties": {
     "name": "38 HILL STREET GEEVESTON 7116",
     "locID": "LOC000087198143",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717682314"
    }
   },
@@ -11014,8 +11558,8 @@
    "properties": {
     "name": "39 HILL STREET GEEVESTON 7116",
     "locID": "LOC000015172882",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717682315"
    }
   },
@@ -11048,7 +11592,7 @@
    "properties": {
     "name": "7 BRADY STREET GEEVESTON 7116",
     "locID": "LOC100080443418",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717683714"
    }
@@ -11082,7 +11626,7 @@
    "properties": {
     "name": "20 HILL STREET GEEVESTON 7116",
     "locID": "LOC000060288261",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717686530"
    }
@@ -11099,8 +11643,8 @@
    "properties": {
     "name": "34 HILL STREET GEEVESTON 7116",
     "locID": "LOC000133796840",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717686531"
    }
   },
@@ -11116,7 +11660,7 @@
    "properties": {
     "name": "42 HILL STREET GEEVESTON 7116",
     "locID": "ChIJpYIlacGCbqoR6HWGq9GgjJw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717686533"
    }
@@ -11133,8 +11677,8 @@
    "properties": {
     "name": "2 HILL STREET GEEVESTON 7116",
     "locID": "LOC000047288866",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717756420"
    }
   },
@@ -11269,7 +11813,7 @@
    "properties": {
     "name": "13 FOURFOOT ROAD GEEVESTON 7116",
     "locID": "LOC000060866137",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717912527"
    }
@@ -11303,8 +11847,8 @@
    "properties": {
     "name": "4884 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000112390563",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS717912981"
    }
   },
@@ -11320,7 +11864,7 @@
    "properties": {
     "name": "27 JOHN STREET GEEVESTON 7116",
     "locID": "LOC000013344159",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717913047"
    }
@@ -11337,7 +11881,7 @@
    "properties": {
     "name": "29 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJFSCCmtyCbqoRGSzgk6ssRQU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717913048"
    }
@@ -11371,7 +11915,7 @@
    "properties": {
     "name": "17 HILL STREET GEEVESTON 7116",
     "locID": "ChIJTTJ6ZMGCbqoRWSVxTJr4Re4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS717939844"
    }
@@ -11490,7 +12034,7 @@
    "properties": {
     "name": "4882 HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000133797042",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717990342"
    }
@@ -11541,7 +12085,7 @@
    "properties": {
     "name": "7 MEMORIAL DRIVE GEEVESTON 7116",
     "locID": "LOC000019258971",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717990466"
    }
@@ -11558,7 +12102,7 @@
    "properties": {
     "name": "8 MEMORIAL DRIVE GEEVESTON 7116",
     "locID": "LOC000056390784",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717990467"
    }
@@ -11592,7 +12136,7 @@
    "properties": {
     "name": "17 KENT STREET GEEVESTON 7116",
     "locID": "LOC000034298542",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717990995"
    }
@@ -11779,7 +12323,7 @@
    "properties": {
     "name": "24 SCHOOL ROAD GEEVESTON 7116",
     "locID": "ChIJKT_j2NyCbqoR_bt7Qsxvbl0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718183392"
    }
@@ -11847,7 +12391,7 @@
    "properties": {
     "name": "26 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000180632831",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718236265"
    }
@@ -11864,7 +12408,7 @@
    "properties": {
     "name": "60 ARVE ROAD GEEVESTON 7116",
     "locID": "ChIJIVukaOeCbqoRdbmLCrkuwyU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718291103"
    }
@@ -11881,8 +12425,8 @@
    "properties": {
     "name": "26A ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133792701",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS718301334"
    }
   },
@@ -11898,7 +12442,7 @@
    "properties": {
     "name": "28 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000190787326",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718301335"
    }
@@ -11915,7 +12459,7 @@
    "properties": {
     "name": "30A ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000133792803",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718301336"
    }
@@ -12051,7 +12595,7 @@
    "properties": {
     "name": "4888 HUON HIGHWAY GEEVESTON 7116",
     "locID": "ChIJ1YunP8SCbqoRnJBMTCotICw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718479566"
    }
@@ -12231,6 +12775,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.88830587,
+     -43.15672185
+    ]
+   },
+   "properties": {
+    "name": "366 ARVE ROAD GEEVESTON 7116",
+    "locID": "LOC000138827276",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS718658270"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.92362064,
      -43.16164116
     ]
@@ -12238,7 +12799,7 @@
    "properties": {
     "name": "54A ARVE ROAD GEEVESTON 7116",
     "locID": "ChIJXayxb-eCbqoRkKp96e7jmX0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718658271"
    }
@@ -12292,6 +12853,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718658487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.91308712,
+     -43.14975417
+    ]
+   },
+   "properties": {
+    "name": "149B FOURFOOT ROAD GEEVESTON 7116",
+    "locID": "ChIJbTIwrxqDbqoRGJwoPwuVcX8",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS718658498"
    }
   },
   {
@@ -12425,7 +13003,7 @@
    "properties": {
     "name": "11 VIEW STREET GEEVESTON 7116",
     "locID": "ChIJhQW6RMKCbqoRQvh5SmIg4I8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718659019"
    }
@@ -12612,7 +13190,7 @@
    "properties": {
     "name": "22 SCHOOL ROAD GEEVESTON 7116",
     "locID": "ChIJKT_j2NyCbqoR2_8ywfl6OZo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS718876644"
    }
@@ -12697,7 +13275,7 @@
    "properties": {
     "name": "46 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC100080438113",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718909913"
    }
@@ -12741,6 +13319,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.92615612,
+     -43.16238716
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 30 ARVE ROAD GEEVESTON 7116",
+    "locID": "LOC000181181315",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS719065635"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.9261981,
      -43.16218871
     ]
@@ -12748,8 +13343,8 @@
    "properties": {
     "name": "UNIT 2, 30 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000178218635",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS719065987"
    }
   },
@@ -12782,7 +13377,7 @@
    "properties": {
     "name": "5 SCHOOL ROAD GEEVESTON 7116",
     "locID": "LOC000176802717",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS719145506"
    }
@@ -12884,7 +13479,7 @@
    "properties": {
     "name": "4869B HUON HIGHWAY GEEVESTON 7116",
     "locID": "ChIJl3p0n8OCbqoRuivVV-A2ENc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS719497193"
    }
@@ -12935,7 +13530,7 @@
    "properties": {
     "name": "3 WILLIAM STREET GEEVESTON 7116",
     "locID": "LOC100081139722",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS719673122"
    }
@@ -12952,8 +13547,8 @@
    "properties": {
     "name": "4869A HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000172454033",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS719678858"
    }
   },
@@ -12986,7 +13581,7 @@
    "properties": {
     "name": "UNIT 2, 26 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000180632831",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS719850791"
    }
@@ -13003,7 +13598,7 @@
    "properties": {
     "name": "19 CHURCH STREET GEEVESTON 7116",
     "locID": "ChIJn79C_-eCbqoRlGlluZBuXNA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS719850982"
    }
@@ -13020,7 +13615,7 @@
    "properties": {
     "name": "UNIT 1, 26 ARVE ROAD GEEVESTON 7116",
     "locID": "LOC000180632831",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS719851318"
    }
@@ -13139,7 +13734,7 @@
    "properties": {
     "name": "4870A HUON HIGHWAY GEEVESTON 7116",
     "locID": "LOC000167976745",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720119807"
    }
@@ -13207,8 +13802,8 @@
    "properties": {
     "name": "21 FORDS ROAD GEEVESTON 7116",
     "locID": "LOC000182947002",
-    "tech": "WIRELESS",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FW_CT",
     "gnaf_pid": "GATAS720193807"
    }
   },
@@ -13241,7 +13836,7 @@
    "properties": {
     "name": "4809 HUON HIGHWAY GEEVESTON 7116",
     "locID": "ChIJY3ujMOiCbqoROJx5NBuEaVs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS720275895"
    }
@@ -13428,7 +14023,7 @@
    "properties": {
     "name": "22 DUKE STREET GEEVESTON 7116",
     "locID": "LOC000133792667",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720950819"
    }
@@ -13462,7 +14057,7 @@
    "properties": {
     "name": "36 DUKE STREET GEEVESTON 7116",
     "locID": "ChIJP-h8VcOCbqoR3H3zcCA3EJ0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS720951076"
    }
@@ -13496,7 +14091,7 @@
    "properties": {
     "name": "43 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJr8-dudyCbqoR0pkSTalTqOQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208131"
    }
@@ -13513,7 +14108,7 @@
    "properties": {
     "name": "47 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJxS4Ct9yCbqoR5Q1dj4iG1jw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208315"
    }
@@ -13530,7 +14125,7 @@
    "properties": {
     "name": "49 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJF2d5ttyCbqoRioUaGU1a2HM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208321"
    }
@@ -13564,7 +14159,7 @@
    "properties": {
     "name": "39 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJTfcsvNyCbqoR9x0Ey1lte2Q",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208416"
    }
@@ -13581,7 +14176,7 @@
    "properties": {
     "name": "33 KENT STREET GEEVESTON 7116",
     "locID": "LOC000085885891",
-    "tech": "WIRELESS",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS721208450"
    }
@@ -13598,7 +14193,7 @@
    "properties": {
     "name": "51 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJ8y6YtdyCbqoROC48NqkM754",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208581"
    }
@@ -13632,7 +14227,7 @@
    "properties": {
     "name": "45 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJA_xht9yCbqoRjxpfdc9Ha_U",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208654"
    }
@@ -13649,7 +14244,7 @@
    "properties": {
     "name": "41 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJWW5UudyCbqoRmH8q2IDWYE4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208743"
    }
@@ -13666,7 +14261,7 @@
    "properties": {
     "name": "37 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJR3z1vdyCbqoR6g2YGO25SuI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208761"
    }
@@ -13683,9 +14278,26 @@
    "properties": {
     "name": "35 JOHN STREET GEEVESTON 7116",
     "locID": "ChIJ1ZL3ltyCbqoRHN_Sy8oPcbM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GATAS721208770"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.88161554,
+     -43.15995503
+    ]
+   },
+   "properties": {
+    "name": "35 FERRAR ROAD GEEVESTON 7116",
+    "locID": "ChIJmdvq6jeDbqoRrqzlUa7hhgQ",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721272715"
    }
   },
   {
@@ -13703,6 +14315,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS721272770"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.89796976,
+     -43.1509452
+    ]
+   },
+   "properties": {
+    "name": "133 HOWARDS ROAD GEEVESTON 7116",
+    "locID": "ChIJB2qHRBSDbqoRVK2lKkqZMwk",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GATAS721272978"
    }
   },
   {
