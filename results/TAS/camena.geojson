@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T18:25:42.803890",
+ "generated": "2023-10-02T14:47:05.173317",
  "suburb": "CAMENA",
  "features": [
   {
@@ -49,8 +49,8 @@
    "properties": {
     "name": "537 CAMENA ROAD CAMENA 7316",
     "locID": "LOC000020188314",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702214629"
    }
   },
@@ -67,7 +67,7 @@
     "name": "477 CAMENA ROAD CAMENA 7316",
     "locID": "LOC000060172212",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702214635"
    }
   },
@@ -134,8 +134,8 @@
    "properties": {
     "name": "754 STOTTS ROAD CAMENA 7316",
     "locID": "LOC000024143677",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS702339050"
    }
   },
@@ -212,6 +212,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.95792325,
+     -41.17674098
+    ]
+   },
+   "properties": {
+    "name": "669 STOTTS ROAD CAMENA 7316",
+    "locID": "LOC000098063780",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
+    "gnaf_pid": "GATAS702846592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.96633022,
      -41.17974258
     ]
@@ -253,8 +270,8 @@
    "properties": {
     "name": "578 CAMENA ROAD CAMENA 7316",
     "locID": "LOC000173906690",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS719229217"
    }
   },
