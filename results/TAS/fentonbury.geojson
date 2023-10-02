@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-11T20:26:25.382339",
+ "generated": "2023-10-02T16:19:34.815964",
  "suburb": "FENTONBURY",
  "features": [
   {
@@ -382,6 +382,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.73555656,
+     -42.6490387
+    ]
+   },
+   "properties": {
+    "name": "259 GULLY ROAD FENTONBURY 7140",
+    "locID": "LOC000091452320",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702263377"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.76809383,
      -42.65944827
     ]
@@ -477,6 +494,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702433596"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.76094939,
+     -42.64543964
+    ]
+   },
+   "properties": {
+    "name": "379 ELLENDALE ROAD FENTONBURY 7140",
+    "locID": "LOC000066960913",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS702433601"
    }
   },
   {
@@ -678,8 +712,8 @@
    "properties": {
     "name": "181 GULLY ROAD FENTONBURY 7140",
     "locID": "LOC100076614930",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GATAS719672814"
    }
   },
