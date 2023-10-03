@@ -38,7 +38,7 @@ If you would like to see an additional suburb added please open an issue.
 
 ## History
 
-[![History Graph](https://quickchart.io/chart/render/sf-fce67a4f-2c64-41d8-aa96-9f584e67a4ef)](https://lukeprior.github.io/nbn-upgrade-map/stats)
+![History Graph](https://quickchart.io/chart/render/sf-fce67a4f-2c64-41d8-aa96-9f584e67a4ef)
 
 ## Running locally
 
