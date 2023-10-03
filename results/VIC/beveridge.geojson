@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-12T13:02:49.440553",
+ "generated": "2023-10-03T07:48:19.693261",
  "suburb": "BEVERIDGE",
  "features": [
   {
@@ -457,8 +457,8 @@
    "properties": {
     "name": "85 ARROWSMITH STREET BEVERIDGE 3753",
     "locID": "LOC000023926281",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC419660934"
    }
   },
@@ -695,8 +695,8 @@
    "properties": {
     "name": "160 GUNNS GULLY ROAD BEVERIDGE 3753",
     "locID": "LOC000025200330",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC419829930"
    }
   },
@@ -3160,8 +3160,8 @@
    "properties": {
     "name": "55 NORTHERN HIGHWAY BEVERIDGE 3753",
     "locID": "LOC000009390895",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC421212388"
    }
   },
@@ -5472,7 +5472,7 @@
    "properties": {
     "name": "57 CAMERONS LANE BEVERIDGE 3753",
     "locID": "ChIJ1VTQmQmy12oRXmgRzTcjIKA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424039046"
    }
@@ -13462,7 +13462,7 @@
    "properties": {
     "name": "55 CAMERONS LANE BEVERIDGE 3753",
     "locID": "ChIJ1VTQmQmy12oRkVzpmhEF9x4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425094792"
    }
@@ -13513,7 +13513,7 @@
    "properties": {
     "name": "33 CAMERONS LANE BEVERIDGE 3753",
     "locID": "ChIJ1VTQmQmy12oRpt7FZ_DHxH0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425099278"
    }
@@ -24328,6 +24328,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719611105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.93940708,
+     -37.47201808
+    ]
+   },
+   "properties": {
+    "name": "288 MANDALAY CIRCUIT BEVERIDGE 3753",
+    "locID": "Ei8yODggTWFuZGFsYXkgQ2N0LCBCZXZlcmlkZ2UgVklDIDM3NTMsIEF1c3RyYWxpYSIxEi8KFAoSCb0PmPeVrddqEViUP3hdU0LtEKACKhQKEgl3ivxQ863XahGM6CwzWtGIwQ",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC719611106"
    }
   },
   {
@@ -53973,7 +53990,7 @@
    "properties": {
     "name": "53 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ4XZepQmy12oRJlVshDTJcek",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721152388"
    }
@@ -54092,7 +54109,7 @@
    "properties": {
     "name": "14 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJxd3O5giy12oR7E8JHU5OwDg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721152519"
    }
@@ -54228,7 +54245,7 @@
    "properties": {
     "name": "11 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJK10wJvat12oR2mw1KdAUruk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721152692"
    }
@@ -54330,7 +54347,7 @@
    "properties": {
     "name": "17 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJi6WgKfat12oRIXcw8Kig4Nk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721152913"
    }
@@ -54449,7 +54466,7 @@
    "properties": {
     "name": "22 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "LOC000190841325",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721153065"
    }
@@ -54551,7 +54568,7 @@
    "properties": {
     "name": "21 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ22Cj_giy12oRUeNyPrgKYXY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721153196"
    }
@@ -54687,7 +54704,7 @@
    "properties": {
     "name": "45 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJv0kBrQmy12oRFMAWLwRpPAw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721153336"
    }
@@ -54772,7 +54789,7 @@
    "properties": {
     "name": "55 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJvdwmpQmy12oRVKGGrucJcdg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721153422"
    }
@@ -55112,7 +55129,7 @@
    "properties": {
     "name": "24 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "LOC000190841356",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721153793"
    }
@@ -55146,7 +55163,7 @@
    "properties": {
     "name": "14 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJWUgH0gmy12oR4EcSjF61HII",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721153840"
    }
@@ -55401,7 +55418,7 @@
    "properties": {
     "name": "35 MALCOLM STREET BEVERIDGE 3753",
     "locID": "ChIJB8yE3giy12oRYDJlH8jFakQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154143"
    }
@@ -55503,7 +55520,7 @@
    "properties": {
     "name": "17 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJv7uE_Aiy12oRpTv1OjpxBF4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154221"
    }
@@ -55809,7 +55826,7 @@
    "properties": {
     "name": "4 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ7xVa2Amy12oRiJ9csdUHHJ4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154704"
    }
@@ -55826,7 +55843,7 @@
    "properties": {
     "name": "15 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ4z6q_Aiy12oR2G9AGgk7FMQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154720"
    }
@@ -55860,7 +55877,7 @@
    "properties": {
     "name": "13 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJr_Sc5Aiy12oRlcCPetnpbbQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154759"
    }
@@ -55945,7 +55962,7 @@
    "properties": {
     "name": "7 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ-z3XHAmy12oR8goECYfuGps",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154874"
    }
@@ -55962,7 +55979,7 @@
    "properties": {
     "name": "31 MALCOLM STREET BEVERIDGE 3753",
     "locID": "ChIJbRZ43wiy12oRbiSKF2HsQVQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154972"
    }
@@ -55996,7 +56013,7 @@
    "properties": {
     "name": "43 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJyT1jjdGz12oRR71DkyMny0Y",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154984"
    }
@@ -56370,7 +56387,7 @@
    "properties": {
     "name": "40 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJNfBCVQiy12oRsa7OMr_0Gs0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721155386"
    }
@@ -56421,7 +56438,7 @@
    "properties": {
     "name": "33 MALCOLM STREET BEVERIDGE 3753",
     "locID": "ChIJhd393giy12oRZS80QG7yR74",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721155442"
    }
@@ -56897,7 +56914,7 @@
    "properties": {
     "name": "9 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJoUBaJvat12oRmAghZKUdoZE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721155937"
    }
@@ -56982,7 +56999,7 @@
    "properties": {
     "name": "39 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJhyq3Uwiy12oRsqLPztPBYDY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721156006"
    }
@@ -57067,7 +57084,7 @@
    "properties": {
     "name": "7 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJB1DpJvat12oRAwp_gqHuGlE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721156094"
    }
@@ -57084,7 +57101,7 @@
    "properties": {
     "name": "39 MALCOLM STREET BEVERIDGE 3753",
     "locID": "ChIJL57q3Aiy12oR39FzK6r2BCE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721156119"
    }
@@ -57169,7 +57186,7 @@
    "properties": {
     "name": "8 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJWV-f1wmy12oRqFuImeDTGGs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721156252"
    }
@@ -57390,7 +57407,7 @@
    "properties": {
     "name": "16 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJWZpX5giy12oRdQgz6_MVcPc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721156543"
    }
@@ -57424,7 +57441,7 @@
    "properties": {
     "name": "44 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJKSFeqgmy12oR6-fKNmSwfz8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721156624"
    }
@@ -57577,7 +57594,7 @@
    "properties": {
     "name": "38 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJDZyEVQiy12oRI7DaKTYj8zw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721156725"
    }
@@ -57832,7 +57849,7 @@
    "properties": {
     "name": "51 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJNwC5rwmy12oRCdENaXgfUHs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721157004"
    }
@@ -57900,7 +57917,7 @@
    "properties": {
     "name": "18 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ_2CIywmy12oRFp5gO7NcpfM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721157116"
    }
@@ -58240,7 +58257,7 @@
    "properties": {
     "name": "41 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ2SIcUwiy12oRMuqINUGBZ3g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721157574"
    }
@@ -58257,7 +58274,7 @@
    "properties": {
     "name": "23 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ8yDkAQmy12oRBsXg9oj4oK0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721157642"
    }
@@ -58461,7 +58478,7 @@
    "properties": {
     "name": "19 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJoX5t_Aiy12oRXD_-dVm2Bxg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721158086"
    }
@@ -58835,7 +58852,7 @@
    "properties": {
     "name": "12 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJFxoT4Qiy12oRILzgj5mo2U4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721158459"
    }
@@ -59702,7 +59719,7 @@
    "properties": {
     "name": "36 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJs5f-VQiy12oRD_WZotn_sGw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159590"
    }
@@ -59872,7 +59889,7 @@
    "properties": {
     "name": "26 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJEc8pTQiy12oR0IXIutWAXLw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159825"
    }
@@ -59889,7 +59906,7 @@
    "properties": {
     "name": "5 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJe6rLJvat12oRhE0wBWCv4SQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159827"
    }
@@ -59906,7 +59923,7 @@
    "properties": {
     "name": "9 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJz-NEHQmy12oRJARFHWbmA3Q",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159890"
    }
@@ -59940,7 +59957,7 @@
    "properties": {
     "name": "51 LEWIS STREET BEVERIDGE 3753",
     "locID": "Eio1MSBMZXdpcyBTdCwgQmV2ZXJpZGdlIFZJQyAzNzUzLCBBdXN0cmFsaWEiMBIuChQKEgkntmchdLLXahEMjCI7HuVK3BAzKhQKEgmZxdyVdLLXahHMdFZ7brtWIQ",
-    "tech": "FTTP",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721159897"
    }
@@ -60076,7 +60093,7 @@
    "properties": {
     "name": "15 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJCbL5KPat12oRpTRELlhU1xE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721160047"
    }
@@ -60178,7 +60195,7 @@
    "properties": {
     "name": "48 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJMX69qQmy12oRAyGs-F-OIoQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721160144"
    }
@@ -60433,7 +60450,7 @@
    "properties": {
     "name": "52 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ3cXVpwmy12oRoMwPa80VO80",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721160579"
    }
@@ -60858,7 +60875,7 @@
    "properties": {
     "name": "12 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJoWN50Qmy12oR3LfwVzVwpso",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721161133"
    }
@@ -60909,7 +60926,7 @@
    "properties": {
     "name": "3 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJgy3NBAmy12oRss0nta2pYEU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721161187"
    }
@@ -60960,7 +60977,7 @@
    "properties": {
     "name": "27 MALCOLM STREET BEVERIDGE 3753",
     "locID": "ChIJsYGjIQmy12oRIlc1I64tRVg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721161222"
    }
@@ -60994,7 +61011,7 @@
    "properties": {
     "name": "8 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ99wSHgmy12oR6vkCEMFEdmw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721161311"
    }
@@ -61198,7 +61215,7 @@
    "properties": {
     "name": "31 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJJctJBgmy12oRZq1_aVI8Njc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721161502"
    }
@@ -61266,7 +61283,7 @@
    "properties": {
     "name": "16 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ_9k0zAmy12oR4x4-65HW3EI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721161608"
    }
@@ -61844,7 +61861,7 @@
    "properties": {
     "name": "13 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ5_eFKPat12oRpUPstn9kurQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721162302"
    }
@@ -61861,7 +61878,7 @@
    "properties": {
     "name": "19 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ69GDKfat12oRqiHDsS80z8Y",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721162339"
    }
@@ -62507,7 +62524,7 @@
    "properties": {
     "name": "3 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "LOC000190841356",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721163207"
    }
@@ -62983,7 +63000,7 @@
    "properties": {
     "name": "49 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJfXBCrgmy12oR8XtYl82xX64",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721163886"
    }
@@ -63221,7 +63238,7 @@
    "properties": {
     "name": "49 LEWIS STREET BEVERIDGE 3753",
     "locID": "Eio0OSBMZXdpcyBTdCwgQmV2ZXJpZGdlIFZJQyAzNzUzLCBBdXN0cmFsaWEiMBIuChQKEgkntmchdLLXahEMjCI7HuVK3BAxKhQKEgmZxdyVdLLXahHMdFZ7brtWIQ",
-    "tech": "FTTP",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721164165"
    }
@@ -63629,7 +63646,7 @@
    "properties": {
     "name": "37 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "LOC000190841409",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721164770"
    }
@@ -63663,7 +63680,7 @@
    "properties": {
     "name": "50 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJQXFQqAmy12oRXpv62sljzWQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721164791"
    }
@@ -64088,7 +64105,7 @@
    "properties": {
     "name": "1 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJFWuZIfat12oRgyST9MWajI8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721165294"
    }
@@ -64258,7 +64275,7 @@
    "properties": {
     "name": "46 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJI5ojqgmy12oREoSAn8LLJM0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721165491"
    }
@@ -64394,7 +64411,7 @@
    "properties": {
     "name": "20 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "LOC000190841122",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721165576"
    }
@@ -64564,7 +64581,7 @@
    "properties": {
     "name": "10 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJm6Xr4Qiy12oRQAyFKco7aUk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721165712"
    }
@@ -64598,7 +64615,7 @@
    "properties": {
     "name": "4 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJw5xWGQmy12oR8ACbABQHh6Q",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721165744"
    }
@@ -64802,7 +64819,7 @@
    "properties": {
     "name": "5 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJte6rHAmy12oRpDgfflY1gAg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721166036"
    }
@@ -64989,7 +65006,7 @@
    "properties": {
     "name": "32 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ98NisQmy12oRkgHBTcYDeqA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721166272"
    }
@@ -65261,7 +65278,7 @@
    "properties": {
     "name": "29 MALCOLM STREET BEVERIDGE 3753",
     "locID": "ChIJn_peIAmy12oRnBlnFFIPLus",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721166672"
    }
@@ -65465,7 +65482,7 @@
    "properties": {
     "name": "11 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJBf7A4giy12oRJAke2OtjZiw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167053"
    }
@@ -65567,7 +65584,7 @@
    "properties": {
     "name": "30 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJt6-xswmy12oRhqW_iUDY83s",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167219"
    }
@@ -65822,7 +65839,7 @@
    "properties": {
     "name": "10 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJtSX21gmy12oRhcYmrKu-KtQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167461"
    }
@@ -65907,7 +65924,7 @@
    "properties": {
     "name": "27 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJz2g3AQmy12oRJEQzqx7Kg4g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167595"
    }
@@ -65992,7 +66009,7 @@
    "properties": {
     "name": "47 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJW5bPrQmy12oRVwNohXAQ4mM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167716"
    }
@@ -66009,7 +66026,7 @@
    "properties": {
     "name": "42 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJRZO5qgmy12oRCQSZBEmh7Es",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167744"
    }
@@ -66247,7 +66264,7 @@
    "properties": {
     "name": "29 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJV9LoBgmy12oR95R9tz3oqnE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721168112"
    }
@@ -66264,7 +66281,7 @@
    "properties": {
     "name": "28 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ450eswmy12oRnIu_4BdL5yk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721168142"
    }
@@ -66485,7 +66502,7 @@
    "properties": {
     "name": "6 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJS62bHgmy12oR7UzyP3zHB2s",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721168447"
    }
@@ -66876,7 +66893,7 @@
    "properties": {
     "name": "25 RAVEN CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJB5OfAQmy12oRm_V7aAPUcPk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721168917"
    }
@@ -67658,7 +67675,7 @@
    "properties": {
     "name": "6 OLEANDER CIRCUIT BEVERIDGE 3753",
     "locID": "ChIJ9wIv2Amy12oRu5deebuSRbM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721169830"
    }
