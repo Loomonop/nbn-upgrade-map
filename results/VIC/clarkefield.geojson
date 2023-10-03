@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-13T10:51:23.371046",
+ "generated": "2023-10-03T17:57:52.035313",
  "suburb": "CLARKEFIELD",
  "features": [
   {
@@ -1052,8 +1052,8 @@
    "properties": {
     "name": "115 HILLVIEW DRIVE CLARKEFIELD 3430",
     "locID": "LOC000095169604",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC420531412"
    }
   },
@@ -1342,7 +1342,7 @@
     "name": "19 HILLVIEW DRIVE CLARKEFIELD 3430",
     "locID": "LOC000067622419",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420839715"
    }
   },
@@ -1511,8 +1511,8 @@
    "properties": {
     "name": "472 BOGGY GATE ROAD CLARKEFIELD 3430",
     "locID": "LOC000059398599",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC421145711"
    }
   },
@@ -1716,7 +1716,7 @@
     "name": "179 BOGGY GATE ROAD CLARKEFIELD 3430",
     "locID": "LOC000026165453",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421432706"
    }
   },
@@ -2021,8 +2021,8 @@
    "properties": {
     "name": "549 SUTHERLANDS ROAD CLARKEFIELD 3430",
     "locID": "LOC000056521014",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421991107"
    }
   },
@@ -2208,8 +2208,8 @@
    "properties": {
     "name": "678 HEATHS LANE CLARKEFIELD 3430",
     "locID": "LOC000005973484",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC423506913"
    }
   },
@@ -2619,6 +2619,23 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424630979"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.70772755,
+     -37.45972063
+    ]
+   },
+   "properties": {
+    "name": "282 SUTHERLANDS ROAD CLARKEFIELD 3430",
+    "locID": "EjMyODIgU3V0aGVybGFuZHMgUmQsIENsYXJrZWZpZWxkIFZJQyAzNDMwLCBBdXN0cmFsaWEiMRIvChQKEgmjRN69Ef7WahGmVSYDcuoTLBCaAioUChIJC1eJsxH-1moRVilt2ivxQiw",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC424679363"
    }
   },
   {
