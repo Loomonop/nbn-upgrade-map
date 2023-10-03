@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-13T15:16:22.147311",
+ "generated": "2023-10-03T22:13:10.548859",
  "suburb": "DINGLEY VILLAGE",
  "features": [
   {
@@ -2957,7 +2957,7 @@
     "name": "294-296 BOUNDARY ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124132331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413748750"
    }
   },
@@ -3127,7 +3127,7 @@
     "name": "OFFICE 9, 25-41 REDWOOD DRIVE DINGLEY VILLAGE 3172",
     "locID": "LOC000026934016",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413752169"
    }
   },
@@ -4115,6 +4115,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419593122"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.127078,
+     -37.984533
+    ]
+   },
+   "properties": {
+    "name": "57 JACKS AVENUE DINGLEY VILLAGE 3172",
+    "locID": "LOC000193742972",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419593123"
    }
   },
   {
@@ -7835,8 +7852,8 @@
    "properties": {
     "name": "76 CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000039924674",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419600990"
    }
   },
@@ -27318,7 +27335,7 @@
     "name": "UNIT 1, 294-296 BOUNDARY ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124132331",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420300103"
    }
   },
@@ -43774,7 +43791,7 @@
     "name": "3 CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124135663",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420908839"
    }
   },
@@ -48313,7 +48330,7 @@
     "name": "10 EMERY DRIVE DINGLEY VILLAGE 3172",
     "locID": "LOC000030849763",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421113115"
    }
   },
@@ -68458,7 +68475,7 @@
     "name": "UNIT 1, 4-6 DINGLEY COURT DINGLEY VILLAGE 3172",
     "locID": "LOC000039885979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423067493"
    }
   },
@@ -68475,7 +68492,7 @@
     "name": "UNIT 2, 4-6 DINGLEY COURT DINGLEY VILLAGE 3172",
     "locID": "LOC000040082293",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423067494"
    }
   },
@@ -68492,7 +68509,7 @@
     "name": "UNIT 3, 4-6 DINGLEY COURT DINGLEY VILLAGE 3172",
     "locID": "LOC000039885979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423067495"
    }
   },
@@ -70583,7 +70600,7 @@
     "name": "UNIT 1, 39-41 CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124135644",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424060762"
    }
   },
@@ -70634,7 +70651,7 @@
     "name": "UNIT 2, 39-41 CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124135659",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424060765"
    }
   },
@@ -70702,7 +70719,7 @@
     "name": "UNIT 3, 39-41 CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124135644",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424060769"
    }
   },
@@ -70787,7 +70804,7 @@
     "name": "UNIT 5, 39-41 CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124135685",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424060774"
    }
   },
@@ -71518,7 +71535,7 @@
     "name": "39-41 CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
     "locID": "LOC000124135644",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424352279"
    }
   },
@@ -71569,7 +71586,7 @@
     "name": "4-6 DINGLEY COURT DINGLEY VILLAGE 3172",
     "locID": "LOC000039885979",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424354258"
    }
   },
@@ -74937,6 +74954,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719094865"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.13696175,
+     -37.98595183
+    ]
+   },
+   "properties": {
+    "name": "45A CENTRE DANDENONG ROAD DINGLEY VILLAGE 3172",
+    "locID": "LOC000089061577",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC719096511"
    }
   },
   {
