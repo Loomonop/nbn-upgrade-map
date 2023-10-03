@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-13T09:17:07.899453",
+ "generated": "2023-10-03T16:18:53.412088",
  "suburb": "CAULFIELD NORTH",
  "features": [
   {
@@ -14196,23 +14196,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419637149"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.02324,
-     -37.86642
-    ]
-   },
-   "properties": {
-    "name": "26 PENTAL ROAD CAULFIELD NORTH 3161",
-    "locID": "LOC000084868268",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419637150"
    }
   },
   {
@@ -46969,7 +46952,7 @@
    "properties": {
     "name": "6-8 NORTHCOTE AVENUE CAULFIELD NORTH 3161",
     "locID": "LOC000171740157",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420439777"
    }
@@ -95021,6 +95004,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.027493,
+     -37.873601
+    ]
+   },
+   "properties": {
+    "name": "2 ROWENA STREET CAULFIELD NORTH 3161",
+    "locID": "LOC000193749334",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421468151"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.029858,
      -37.874028
     ]
@@ -123129,7 +123129,7 @@
    "properties": {
     "name": "UNIT 1, 6-8 NORTHCOTE AVENUE CAULFIELD NORTH 3161",
     "locID": "LOC000014689643",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424268202"
    }
@@ -123146,7 +123146,7 @@
    "properties": {
     "name": "UNIT 2, 6-8 NORTHCOTE AVENUE CAULFIELD NORTH 3161",
     "locID": "LOC000171740157",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424268203"
    }
@@ -123231,7 +123231,7 @@
    "properties": {
     "name": "UNIT 41, 6-8 NORTHCOTE AVENUE CAULFIELD NORTH 3161",
     "locID": "LOC000014560337",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424282465"
    }
@@ -124285,7 +124285,7 @@
    "properties": {
     "name": "UNIT 1A, 6-8 NORTHCOTE AVENUE CAULFIELD NORTH 3161",
     "locID": "LOC000171740157",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424473699"
    }
@@ -127107,7 +127107,7 @@
    "properties": {
     "name": "UNIT 25, 6-8 NORTHCOTE AVENUE CAULFIELD NORTH 3161",
     "locID": "LOC000171740157",
-    "tech": "HFC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424930139"
    }
@@ -161651,7 +161651,7 @@
    "properties": {
     "name": "12A FITZGIBBON CRESCENT CAULFIELD NORTH 3161",
     "locID": "LOC000192897002",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721168385"
    }
