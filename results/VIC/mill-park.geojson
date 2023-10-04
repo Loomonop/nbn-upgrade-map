@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-14T12:33:22.898007",
+ "generated": "2023-10-04T17:19:31.575363",
  "suburb": "MILL PARK",
  "features": [
   {
@@ -2209,7 +2209,7 @@
     "name": "UNIT 1, 9 CAPES COURT MILL PARK 3082",
     "locID": "LOC000056848221",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411875100"
    }
   },
@@ -2260,7 +2260,7 @@
     "name": "UNIT 2, 9 CAPES COURT MILL PARK 3082",
     "locID": "LOC000056779106",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411876882"
    }
   },
@@ -4963,7 +4963,7 @@
     "name": "UNIT 2, 30 BOWMAN DRIVE MILL PARK 3082",
     "locID": "LOC000034330337",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413208314"
    }
   },
@@ -5048,7 +5048,7 @@
     "name": "UNIT 1, 1 TERALBA CLOSE MILL PARK 3082",
     "locID": "LOC000098277300",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413208728"
    }
   },
@@ -5915,7 +5915,7 @@
     "name": "UNIT 1, 9 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000017781869",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413215053"
    }
   },
@@ -5932,7 +5932,7 @@
     "name": "UNIT 1, 6 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000007772114",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC413216043"
    }
   },
@@ -8992,7 +8992,7 @@
     "name": "1 HILLAS COURT MILL PARK 3082",
     "locID": "LOC000020413446",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419622766"
    }
   },
@@ -9009,7 +9009,7 @@
     "name": "1A HILLAS COURT MILL PARK 3082",
     "locID": "LOC000020279156",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419622767"
    }
   },
@@ -11525,7 +11525,7 @@
     "name": "4 HILLAS COURT MILL PARK 3082",
     "locID": "LOC000083532390",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419625344"
    }
   },
@@ -14976,7 +14976,7 @@
     "name": "17 BOWMAN DRIVE MILL PARK 3082",
     "locID": "LOC000037951154",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419628912"
    }
   },
@@ -43026,7 +43026,7 @@
     "name": "62 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000092095762",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419937982"
    }
   },
@@ -54552,7 +54552,7 @@
     "name": "6 HILLAS COURT MILL PARK 3082",
     "locID": "LOC000016036501",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420229037"
    }
   },
@@ -63375,7 +63375,7 @@
     "name": "81 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000106889408",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420239752"
    }
   },
@@ -75292,7 +75292,7 @@
     "name": "16 BOWMAN DRIVE MILL PARK 3082",
     "locID": "LOC000065875090",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420526653"
    }
   },
@@ -79789,6 +79789,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.060605,
+     -37.674392
+    ]
+   },
+   "properties": {
+    "name": "114 MILL PARK DRIVE MILL PARK 3082",
+    "locID": "LOC000011005032",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420534002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.061622,
      -37.672795
     ]
@@ -80528,7 +80545,7 @@
     "name": "8 CLEMENT COURT MILL PARK 3082",
     "locID": "LOC000082173053",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420534661"
    }
   },
@@ -88042,7 +88059,7 @@
     "name": "83 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000041274927",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420545680"
    }
   },
@@ -92717,7 +92734,7 @@
     "name": "5A CLEMENT COURT MILL PARK 3082",
     "locID": "LOC000082007599",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420624916"
    }
   },
@@ -101778,7 +101795,7 @@
     "name": "75 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000088360633",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420832358"
    }
   },
@@ -111332,7 +111349,7 @@
     "name": "5 PATMORE COURT MILL PARK 3082",
     "locID": "LOC000075144262",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420854495"
    }
   },
@@ -111349,7 +111366,7 @@
     "name": "9 PATMORE COURT MILL PARK 3082",
     "locID": "LOC000045832519",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420854496"
    }
   },
@@ -111366,7 +111383,7 @@
     "name": "10 PATMORE COURT MILL PARK 3082",
     "locID": "LOC000106610194",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420854497"
    }
   },
@@ -113134,7 +113151,7 @@
     "name": "15 BOWMAN DRIVE MILL PARK 3082",
     "locID": "LOC000092095484",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420857638"
    }
   },
@@ -124813,7 +124830,7 @@
     "name": "60 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000079327507",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421129051"
    }
   },
@@ -125731,7 +125748,7 @@
     "name": "9 CLEMENT COURT MILL PARK 3082",
     "locID": "LOC000052980164",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421137947"
    }
   },
@@ -139008,7 +139025,7 @@
     "name": "6 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000007919526",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421280712"
    }
   },
@@ -148817,7 +148834,7 @@
     "name": "13 BOWMAN DRIVE MILL PARK 3082",
     "locID": "LOC000021088651",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421449613"
    }
   },
@@ -148851,7 +148868,7 @@
     "name": "28 BOWMAN DRIVE MILL PARK 3082",
     "locID": "LOC000041696829",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421449615"
    }
   },
@@ -149650,7 +149667,7 @@
     "name": "8 PATMORE COURT MILL PARK 3082",
     "locID": "LOC000003633644",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421453098"
    }
   },
@@ -150228,7 +150245,7 @@
     "name": "9 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000017688628",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421454287"
    }
   },
@@ -162417,7 +162434,7 @@
     "name": "9 CAPES COURT MILL PARK 3082",
     "locID": "LOC000056848221",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421683176"
    }
   },
@@ -163148,7 +163165,7 @@
     "name": "1 TERALBA CLOSE MILL PARK 3082",
     "locID": "LOC000098159394",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421714404"
    }
   },
@@ -169030,7 +169047,7 @@
     "name": "58 WOOLNOUGH DRIVE MILL PARK 3082",
     "locID": "LOC000057571780",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421732156"
    }
   },
@@ -169727,7 +169744,7 @@
     "name": "2A HILLAS COURT MILL PARK 3082",
     "locID": "LOC000044860165",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421733575"
    }
   },
@@ -169744,7 +169761,7 @@
     "name": "3 HILLAS COURT MILL PARK 3082",
     "locID": "LOC000035315825",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421733576"
    }
   },
@@ -177428,7 +177445,7 @@
     "name": "7 PATMORE COURT MILL PARK 3082",
     "locID": "LOC000012811371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421761451"
    }
   },
@@ -209101,6 +209118,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721162725"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.06061562,
+     -37.67435115
+    ]
+   },
+   "properties": {
+    "name": "114B MILL PARK DRIVE MILL PARK 3082",
+    "locID": "LOC000193659389",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721217201"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.06057144,
+     -37.67442393
+    ]
+   },
+   "properties": {
+    "name": "114A MILL PARK DRIVE MILL PARK 3082",
+    "locID": "LOC000193659370",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721224159"
    }
   },
   {
