@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-14T04:01:47.871899",
+ "generated": "2023-10-04T09:24:49.097928",
  "suburb": "JACANA",
  "features": [
   {
@@ -713,7 +713,7 @@
     "name": "8 FIDGE COURT JACANA 3047",
     "locID": "LOC000158679918",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419623069"
    }
   },
@@ -1223,7 +1223,7 @@
     "name": "5 EMU PARADE JACANA 3047",
     "locID": "LOC000015150911",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419627921"
    }
   },
@@ -1885,8 +1885,8 @@
    "properties": {
     "name": "15 BLIBURG STREET JACANA 3047",
     "locID": "LOC000059416201",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419634013"
    }
   },
@@ -2651,7 +2651,7 @@
     "name": "9 LANDY ROAD JACANA 3047",
     "locID": "LOC000070279324",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419926590"
    }
   },
@@ -3841,7 +3841,7 @@
     "name": "4 KINNAIRD STREET JACANA 3047",
     "locID": "LOC000066714676",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420231465"
    }
   },
@@ -5490,7 +5490,7 @@
     "name": "135 LANGTON STREET JACANA 3047",
     "locID": "LOC000026020429",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420258520"
    }
   },
@@ -5728,7 +5728,7 @@
     "name": "27 BAMBURGH STREET JACANA 3047",
     "locID": "LOC000080239395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420515054"
    }
   },
@@ -6561,7 +6561,7 @@
     "name": "21 BLIBURG STREET JACANA 3047",
     "locID": "LOC000105843817",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420529122"
    }
   },
@@ -9009,7 +9009,7 @@
     "name": "18 KINNAIRD STREET JACANA 3047",
     "locID": "LOC000156647928",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421108860"
    }
   },
@@ -11814,7 +11814,7 @@
     "name": "35 SUNSET BOULEVARD JACANA 3047",
     "locID": "LOC000075270367",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421449628"
    }
   },
@@ -11952,6 +11952,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421449637"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.912181,
+     -37.688826
+    ]
+   },
+   "properties": {
+    "name": "18 EMU PARADE JACANA 3047",
+    "locID": "ChIJob7tXFla1moRck8LBrRMqUQ",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421452546"
    }
   },
   {
@@ -12290,7 +12307,7 @@
     "name": "9 BESSELL COURT JACANA 3047",
     "locID": "LOC000122873254",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421467476"
    }
   },
@@ -13055,7 +13072,7 @@
     "name": "124 LANGTON STREET JACANA 3047",
     "locID": "LOC000156648043",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421732449"
    }
   },
@@ -13344,7 +13361,7 @@
     "name": "32 HALES CRESCENT JACANA 3047",
     "locID": "LOC000032018388",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421753832"
    }
   },
@@ -13837,7 +13854,7 @@
     "name": "UNIT 1, 4 KINNAIRD STREET JACANA 3047",
     "locID": "LOC000066714676",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422098436"
    }
   },
@@ -14313,7 +14330,7 @@
     "name": "UNIT 1, 27 BAMBURGH STREET JACANA 3047",
     "locID": "LOC000080239395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422437931"
    }
   },
@@ -14330,7 +14347,7 @@
     "name": "UNIT 2, 27 BAMBURGH STREET JACANA 3047",
     "locID": "LOC000080239395",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422437932"
    }
   },
@@ -14653,7 +14670,7 @@
     "name": "UNIT 1, 3 BILTRIS COURT JACANA 3047",
     "locID": "LOC000074349367",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423787758"
    }
   },
@@ -14755,7 +14772,7 @@
     "name": "UNIT 1, 135 LANGTON STREET JACANA 3047",
     "locID": "LOC000026020429",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423794489"
    }
   },
@@ -14772,7 +14789,7 @@
     "name": "UNIT 2, 135 LANGTON STREET JACANA 3047",
     "locID": "LOC000026020429",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423794490"
    }
   },
@@ -15316,7 +15333,7 @@
     "name": "UNIT 1, 149 SUNSET BOULEVARD JACANA 3047",
     "locID": "LOC000067009817",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424455091"
    }
   },
@@ -15979,7 +15996,7 @@
     "name": "UNIT 1, 18 KINNAIRD STREET JACANA 3047",
     "locID": "LOC000156647928",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425096631"
    }
   },
@@ -16064,7 +16081,7 @@
     "name": "UNIT 1, 124 LANGTON STREET JACANA 3047",
     "locID": "LOC000156648043",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425101121"
    }
   },
@@ -16506,7 +16523,7 @@
     "name": "UNIT 1, 141 SUNSET BOULEVARD JACANA 3047",
     "locID": "LOC000158676299",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425341330"
    }
   },
@@ -16965,7 +16982,7 @@
     "name": "UNIT 1, 8 FIDGE COURT JACANA 3047",
     "locID": "LOC000158679918",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425853960"
    }
   },
@@ -16982,7 +16999,7 @@
     "name": "UNIT 2, 8 FIDGE COURT JACANA 3047",
     "locID": "LOC000158679925",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425853961"
    }
   },
@@ -16999,7 +17016,7 @@
     "name": "UNIT 3, 8 FIDGE COURT JACANA 3047",
     "locID": "LOC000158679939",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425853962"
    }
   },
@@ -17016,7 +17033,7 @@
     "name": "UNIT 4, 8 FIDGE COURT JACANA 3047",
     "locID": "LOC000158679941",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425853963"
    }
   },
@@ -17118,7 +17135,7 @@
     "name": "UNIT 3, 32 HALES CRESCENT JACANA 3047",
     "locID": "LOC100074148493",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719509982"
    }
   },
@@ -18903,7 +18920,7 @@
     "name": "UNIT 2, 119 LANGTON STREET JACANA 3047",
     "locID": "LOC000189732001",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC721097411"
    }
   },
