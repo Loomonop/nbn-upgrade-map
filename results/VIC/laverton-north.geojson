@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-14T07:52:14.181597",
+ "generated": "2023-10-04T13:19:37.509787",
  "suburb": "LAVERTON NORTH",
  "features": [
   {
@@ -373,7 +373,7 @@
     "name": "UNIT 1, 23 PIPE ROAD LAVERTON NORTH 3026",
     "locID": "LOC000032069498",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412828824"
    }
   },
@@ -831,8 +831,8 @@
    "properties": {
     "name": "89-103 DOHERTYS ROAD LAVERTON NORTH 3026",
     "locID": "LOC000069797492",
-    "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC412838401"
    }
   },
@@ -917,7 +917,7 @@
     "name": "15A FITZGERALD ROAD LAVERTON NORTH 3026",
     "locID": "LOC000091388097",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412840277"
    }
   },
@@ -1308,7 +1308,7 @@
     "name": "13 OXFORD ROAD LAVERTON NORTH 3026",
     "locID": "LOC000104507085",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412840317"
    }
   },
@@ -3467,7 +3467,7 @@
     "name": "2 WESTGATE DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000123078073",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419917879"
    }
   },
@@ -3518,7 +3518,7 @@
     "name": "10-12 THOMAS ROAD LAVERTON NORTH 3026",
     "locID": "LOC000123116772",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419919303"
    }
   },
@@ -5337,7 +5337,7 @@
     "name": "3 WESTGATE DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000112688008",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420823517"
    }
   },
@@ -5354,7 +5354,7 @@
     "name": "5 WESTGATE DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000123117037",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420823518"
    }
   },
@@ -5864,7 +5864,7 @@
     "name": "26-32 PIPE ROAD LAVERTON NORTH 3026",
     "locID": "LOC000056356046",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421113424"
    }
   },
@@ -6017,7 +6017,7 @@
     "name": "7 WESTGATE DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000123125504",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421133065"
    }
   },
@@ -6782,7 +6782,7 @@
     "name": "9-11 THOMAS ROAD LAVERTON NORTH 3026",
     "locID": "LOC000123069989",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421441152"
    }
   },
@@ -7904,7 +7904,7 @@
     "name": "12-18 OXFORD ROAD LAVERTON NORTH 3026",
     "locID": "LOC000123125116",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421997155"
    }
   },
@@ -7921,7 +7921,7 @@
     "name": "15-17 OXFORD ROAD LAVERTON NORTH 3026",
     "locID": "LOC000063559855",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421997156"
    }
   },
@@ -8074,7 +8074,7 @@
     "name": "15 FITZGERALD ROAD LAVERTON NORTH 3026",
     "locID": "LOC000091564632",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC422091009"
    }
   },
@@ -8720,7 +8720,7 @@
     "name": "125-139 DOHERTYS ROAD LAVERTON NORTH 3026",
     "locID": "LOC000065926464",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422390868"
    }
   },
@@ -9096,23 +9096,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422394069"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.78241786,
-     -37.84083686
-    ]
-   },
-   "properties": {
-    "name": "27 FITZGERALD ROAD LAVERTON NORTH 3026",
-    "locID": "LOC000075300640",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC422394070"
    }
   },
   {
@@ -9978,7 +9961,7 @@
     "name": "21-23 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000034147456",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423389757"
    }
   },
@@ -10063,7 +10046,7 @@
     "name": "38-40 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000101316830",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423389774"
    }
   },
@@ -11100,7 +11083,7 @@
     "name": "2-10 WESTGATE DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000123078073",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423512953"
    }
   },
@@ -13922,7 +13905,7 @@
     "name": "31-33 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000083343436",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424077089"
    }
   },
@@ -13939,7 +13922,7 @@
     "name": "34 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000049047192",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424077090"
    }
   },
@@ -14500,7 +14483,7 @@
     "name": "22 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000036820632",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424348923"
    }
   },
@@ -14534,7 +14517,7 @@
     "name": "24A AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000037084229",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424348925"
    }
   },
@@ -16081,7 +16064,7 @@
     "name": "57-59 CYANAMID STREET LAVERTON NORTH 3026",
     "locID": "LOC000123117253",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424489097"
    }
   },
@@ -16098,7 +16081,7 @@
     "name": "61-63 CYANAMID STREET LAVERTON NORTH 3026",
     "locID": "LOC000123121339",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424489098"
    }
   },
@@ -16404,7 +16387,7 @@
     "name": "14 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000111905371",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424575991"
    }
   },
@@ -16438,7 +16421,7 @@
     "name": "UNIT 10, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608895"
    }
   },
@@ -16455,7 +16438,7 @@
     "name": "UNIT 11, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608896"
    }
   },
@@ -16472,7 +16455,7 @@
     "name": "UNIT 12, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608897"
    }
   },
@@ -16489,7 +16472,7 @@
     "name": "UNIT 13, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608898"
    }
   },
@@ -16506,7 +16489,7 @@
     "name": "UNIT 14, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608899"
    }
   },
@@ -16523,7 +16506,7 @@
     "name": "UNIT 15, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608900"
    }
   },
@@ -16540,7 +16523,7 @@
     "name": "UNIT 16, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608901"
    }
   },
@@ -16557,7 +16540,7 @@
     "name": "UNIT 17, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608902"
    }
   },
@@ -16574,7 +16557,7 @@
     "name": "UNIT 18, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608903"
    }
   },
@@ -16591,7 +16574,7 @@
     "name": "UNIT 19, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608904"
    }
   },
@@ -16608,7 +16591,7 @@
     "name": "UNIT 7, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608905"
    }
   },
@@ -16625,7 +16608,7 @@
     "name": "UNIT 8, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608906"
    }
   },
@@ -16642,7 +16625,7 @@
     "name": "UNIT 9, 5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608907"
    }
   },
@@ -16659,7 +16642,7 @@
     "name": "5-11 AGOSTA DRIVE LAVERTON NORTH 3026",
     "locID": "LOC000167813527",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424608908"
    }
   },
