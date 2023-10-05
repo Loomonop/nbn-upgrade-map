@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-15T12:04:03.955088",
+ "generated": "2023-10-05T15:26:45.460247",
  "suburb": "WARRANWOOD",
  "features": [
   {
@@ -135,7 +135,7 @@
     "name": "64 LANDAU DRIVE WARRANWOOD 3134",
     "locID": "LOC000123579831",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412560588"
    }
   },
@@ -1988,7 +1988,7 @@
     "name": "UNIT 1, 64 LANDAU DRIVE WARRANWOOD 3134",
     "locID": "LOC000123579831",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419614303"
    }
   },
@@ -4878,7 +4878,7 @@
     "name": "UNIT 2, 64 LANDAU DRIVE WARRANWOOD 3134",
     "locID": "LOC000123579849",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419922457"
    }
   },
@@ -6951,8 +6951,8 @@
    "properties": {
     "name": "163 PLYMOUTH ROAD WARRANWOOD 3134",
     "locID": "LOC000102226860",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420124957"
    }
   },
@@ -9334,23 +9334,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420413689"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.250116,
-     -37.780431
-    ]
-   },
-   "properties": {
-    "name": "161 PLYMOUTH ROAD WARRANWOOD 3134",
-    "locID": "LOC000049875102",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC420414518"
    }
   },
   {
@@ -14211,7 +14194,7 @@
     "name": "UNIT 1, 22 KARDINIA CRESCENT WARRANWOOD 3134",
     "locID": "LOC000123560207",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420865914"
    }
   },
@@ -15537,7 +15520,7 @@
     "name": "34 LANDAU DRIVE WARRANWOOD 3134",
     "locID": "LOC000083504206",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421019862"
    }
   },
@@ -20721,8 +20704,8 @@
    "properties": {
     "name": "13 LEENA COURT WARRANWOOD 3134",
     "locID": "LOC000046784364",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421609914"
    }
   },
