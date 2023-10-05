@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-14T20:39:04.001775",
+ "generated": "2023-10-05T00:41:48.896277",
  "suburb": "PARKDALE",
  "features": [
   {
@@ -781,7 +781,7 @@
     "name": "8 HAWKE STREET PARKDALE 3195",
     "locID": "LOC000083242985",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412078278"
    }
   },
@@ -866,7 +866,7 @@
     "name": "UNIT 1, 19 LAWBOROUGH AVENUE PARKDALE 3195",
     "locID": "LOC000018585816",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412079204"
    }
   },
@@ -1427,7 +1427,7 @@
     "name": "UNIT 2, 30 STEWART AVENUE PARKDALE 3195",
     "locID": "LOC000013480812",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412084317"
    }
   },
@@ -2226,7 +2226,7 @@
     "name": "24 RENNISON STREET PARKDALE 3195",
     "locID": "LOC000003602354",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412092325"
    }
   },
@@ -2974,7 +2974,7 @@
     "name": "UNIT 2, 1 CHERRINGTON COURT PARKDALE 3195",
     "locID": "LOC000166452392",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412098585"
    }
   },
@@ -3178,7 +3178,7 @@
     "name": "UNIT 1, 32 CLARE STREET PARKDALE 3195",
     "locID": "LOC000018585742",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412098961"
    }
   },
@@ -4827,7 +4827,7 @@
     "name": "UNIT 2, 75 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000109961012",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412105231"
    }
   },
@@ -6221,7 +6221,7 @@
     "name": "28 VIALLS AVENUE PARKDALE 3195",
     "locID": "LOC000011039446",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413928646"
    }
   },
@@ -7581,7 +7581,7 @@
     "name": "17-25 BRISBANE TERRACE PARKDALE 3195",
     "locID": "LOC000051889269",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC413944224"
    }
   },
@@ -13089,7 +13089,7 @@
     "name": "88 KEITH STREET PARKDALE 3195",
     "locID": "LOC000172155660",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419571771"
    }
   },
@@ -16336,7 +16336,7 @@
     "name": "UNIT 3, 160 BEACH ROAD PARKDALE 3195",
     "locID": "LOC000041297197",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419680444"
    }
   },
@@ -17322,7 +17322,7 @@
     "name": "UNIT 2, 6 EVAN STREET PARKDALE 3195",
     "locID": "LOC000095593692",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419705716"
    }
   },
@@ -19838,7 +19838,7 @@
     "name": "UNIT 2, 263 NEPEAN HIGHWAY PARKDALE 3195",
     "locID": "LOC000018608470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419801409"
    }
   },
@@ -22303,7 +22303,7 @@
     "name": "75 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000109961012",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419877070"
    }
   },
@@ -23169,8 +23169,8 @@
    "properties": {
     "name": "65 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000083697926",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419883949"
    }
   },
@@ -23699,6 +23699,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419886575"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.074221,
+     -37.984247
+    ]
+   },
+   "properties": {
+    "name": "44 SECOND STREET PARKDALE 3195",
+    "locID": "ChIJGXSgS7Rt1moR5uipVwvO-Tk",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC419886576"
    }
   },
   {
@@ -26638,7 +26655,7 @@
     "name": "UNIT 1, 2 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000031049810",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420006288"
    }
   },
@@ -27216,7 +27233,7 @@
     "name": "UNIT 1, 81 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000029312132",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420016623"
    }
   },
@@ -29715,7 +29732,7 @@
     "name": "67 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000006085203",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420180861"
    }
   },
@@ -31228,7 +31245,7 @@
     "name": "4 MARGARET STREET PARKDALE 3195",
     "locID": "LOC000040816877",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420188605"
    }
   },
@@ -32486,7 +32503,7 @@
     "name": "45 SIXTH STREET PARKDALE 3195",
     "locID": "LOC000051704913",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420194370"
    }
   },
@@ -32503,7 +32520,7 @@
     "name": "46 SIXTH STREET PARKDALE 3195",
     "locID": "LOC000065560419",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420194371"
    }
   },
@@ -33081,7 +33098,7 @@
     "name": "28 CLARE STREET PARKDALE 3195",
     "locID": "LOC000025199909",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420197845"
    }
   },
@@ -35274,7 +35291,7 @@
     "name": "UNIT 1, 47 MCSWAIN STREET PARKDALE 3195",
     "locID": "LOC000052981689",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420291173"
    }
   },
@@ -35954,7 +35971,7 @@
     "name": "38 CLARE STREET PARKDALE 3195",
     "locID": "LOC000059857095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420307120"
    }
   },
@@ -36005,7 +36022,7 @@
     "name": "2 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000031058736",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420307599"
    }
   },
@@ -38997,7 +39014,7 @@
     "name": "17 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000181202761",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420465339"
    }
   },
@@ -39915,7 +39932,7 @@
     "name": "73 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000028023465",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420469831"
    }
   },
@@ -39932,7 +39949,7 @@
     "name": "79 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000027981476",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420469832"
    }
   },
@@ -39949,7 +39966,7 @@
     "name": "87 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000100369478",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420469834"
    }
   },
@@ -41360,7 +41377,7 @@
     "name": "31 MCINDOE PARADE PARKDALE 3195",
     "locID": "LOC000166552595",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420475066"
    }
   },
@@ -44148,7 +44165,7 @@
     "name": "6 CHERRINGTON COURT PARKDALE 3195",
     "locID": "LOC000166452392",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420499724"
    }
   },
@@ -45695,7 +45712,7 @@
     "name": "UNIT 2, 47 MCSWAIN STREET PARKDALE 3195",
     "locID": "LOC000053699234",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420595426"
    }
   },
@@ -46681,7 +46698,7 @@
     "name": "UNIT 1, 16 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000109786624",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420620315"
    }
   },
@@ -46732,7 +46749,7 @@
     "name": "81 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000029312132",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420620318"
    }
   },
@@ -47616,7 +47633,7 @@
     "name": "UNIT 1, 30 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000029262313",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420640686"
    }
   },
@@ -51560,7 +51577,7 @@
     "name": "77 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000096954495",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420787994"
    }
   },
@@ -51577,7 +51594,7 @@
     "name": "81 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000058476970",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420787995"
    }
   },
@@ -51781,7 +51798,7 @@
     "name": "32 KEILLER AVENUE PARKDALE 3195",
     "locID": "LOC000098173878",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420789485"
    }
   },
@@ -51902,23 +51919,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420789628"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.076839,
-     -37.999078
-    ]
-   },
-   "properties": {
-    "name": "15 HERBERT STREET PARKDALE 3195",
-    "locID": "LOC000047569081",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC420789629"
    }
   },
   {
@@ -58224,7 +58224,7 @@
     "name": "69 WARREN ROAD PARKDALE 3195",
     "locID": "LOC000095440036",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421079456"
    }
   },
@@ -61657,8 +61657,8 @@
    "properties": {
     "name": "153 BEACH ROAD PARKDALE 3195",
     "locID": "LOC000029288644",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421098490"
    }
   },
@@ -61879,7 +61879,7 @@
     "name": "20 TAYLOR STREET PARKDALE 3195",
     "locID": "LOC000166456414",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421099101"
    }
   },
@@ -63341,7 +63341,7 @@
     "name": "UNIT 2, 1 JENNIFER AVENUE PARKDALE 3195",
     "locID": "LOC000076296452",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421182527"
    }
   },
@@ -63409,7 +63409,7 @@
     "name": "UNIT 2, 16 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000107541997",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421196421"
    }
   },
@@ -63698,7 +63698,7 @@
     "name": "UNIT 1, 19 TAYLOR STREET PARKDALE 3195",
     "locID": "LOC000004371360",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421205178"
    }
   },
@@ -64038,7 +64038,7 @@
     "name": "6 EVAN STREET PARKDALE 3195",
     "locID": "LOC000095716958",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421214940"
    }
   },
@@ -64973,7 +64973,7 @@
     "name": "UNIT 2, 19 LAWBOROUGH AVENUE PARKDALE 3195",
     "locID": "LOC000018579313",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421237851"
    }
   },
@@ -65075,7 +65075,7 @@
     "name": "19 LAWBOROUGH AVENUE PARKDALE 3195",
     "locID": "LOC000018585816",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421241362"
    }
   },
@@ -65415,7 +65415,7 @@
     "name": "UNIT 1, 8 HAWKE STREET PARKDALE 3195",
     "locID": "LOC000083242985",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421244935"
    }
   },
@@ -66265,7 +66265,7 @@
     "name": "UNIT 3, 263 NEPEAN HIGHWAY PARKDALE 3195",
     "locID": "LOC000018608470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421302254"
    }
   },
@@ -69121,7 +69121,7 @@
     "name": "20 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000045716107",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421391653"
    }
   },
@@ -69410,7 +69410,7 @@
     "name": "1 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000071669493",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421392426"
    }
   },
@@ -72122,23 +72122,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.088957,
-     -37.988975
-    ]
-   },
-   "properties": {
-    "name": "57 MCSWAIN STREET PARKDALE 3195",
-    "locID": "LOC000070578583",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421422063"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.088771,
      -37.989981
     ]
@@ -72317,7 +72300,7 @@
     "name": "32 CLARE STREET PARKDALE 3195",
     "locID": "LOC000018585742",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421423938"
    }
   },
@@ -72334,7 +72317,7 @@
     "name": "263 NEPEAN HIGHWAY PARKDALE 3195",
     "locID": "LOC000018608470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421430261"
    }
   },
@@ -73863,8 +73846,8 @@
    "properties": {
     "name": "4 TAYLOR STREET PARKDALE 3195",
     "locID": "LOC000095280154",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421505935"
    }
   },
@@ -74680,7 +74663,7 @@
     "name": "UNIT 2, 2 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000031058736",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421529379"
    }
   },
@@ -74765,7 +74748,7 @@
     "name": "16 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000109786624",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421530130"
    }
   },
@@ -74799,7 +74782,7 @@
     "name": "UNIT 2, 81 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000029740396",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421530133"
    }
   },
@@ -79967,7 +79950,7 @@
     "name": "36 CLARE STREET PARKDALE 3195",
     "locID": "LOC000104715089",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421688787"
    }
   },
@@ -82415,7 +82398,7 @@
     "name": "10 REID STREET PARKDALE 3195",
     "locID": "LOC000079761180",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421779042"
    }
   },
@@ -82789,7 +82772,7 @@
     "name": "UNIT 1, 10 REID STREET PARKDALE 3195",
     "locID": "LOC000079761180",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421791413"
    }
   },
@@ -83078,7 +83061,7 @@
     "name": "UNIT 1, 38 CLARE STREET PARKDALE 3195",
     "locID": "LOC000059857095",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421800492"
    }
   },
@@ -84200,7 +84183,7 @@
     "name": "47 MCSWAIN STREET PARKDALE 3195",
     "locID": "LOC000052981689",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421826015"
    }
   },
@@ -84795,7 +84778,7 @@
     "name": "UNIT 1, 6 EVAN STREET PARKDALE 3195",
     "locID": "LOC000095716958",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421836103"
    }
   },
@@ -85339,7 +85322,7 @@
     "name": "7 MACGREGOR STREET PARKDALE 3195",
     "locID": "LOC000062334240",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421867715"
    }
   },
@@ -85798,7 +85781,7 @@
     "name": "UNIT 1, 263 NEPEAN HIGHWAY PARKDALE 3195",
     "locID": "LOC000018608470",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421919418"
    }
   },
@@ -90116,7 +90099,7 @@
     "name": "UNIT 1, 7 MACGREGOR STREET PARKDALE 3195",
     "locID": "LOC000062334240",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423508476"
    }
   },
@@ -91306,7 +91289,7 @@
     "name": "UNIT 1, 20 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000045716107",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423836022"
    }
   },
@@ -91390,7 +91373,7 @@
    "properties": {
     "name": "1B DOVER PLACE PARKDALE 3195",
     "locID": "LOC000001892883",
-    "tech": "NULL",
+    "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423847297"
    }
@@ -91510,7 +91493,7 @@
     "name": "UNIT 1, 28 CLARE STREET PARKDALE 3195",
     "locID": "LOC000025199909",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423877272"
    }
   },
@@ -92615,7 +92598,7 @@
     "name": "UNIT 1, 1 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000071669493",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424242381"
    }
   },
@@ -92632,7 +92615,7 @@
     "name": "UNIT 2, 1 MARRIOTT STREET PARKDALE 3195",
     "locID": "LOC000071923161",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424242382"
    }
   },
@@ -95148,7 +95131,7 @@
     "name": "UNIT 1, 32 KEILLER AVENUE PARKDALE 3195",
     "locID": "LOC000098251574",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424638378"
    }
   },
@@ -95165,7 +95148,7 @@
     "name": "UNIT 2, 32 KEILLER AVENUE PARKDALE 3195",
     "locID": "LOC000098173878",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424638379"
    }
   },
@@ -95556,7 +95539,7 @@
     "name": "UNIT 1, 4 MARGARET STREET PARKDALE 3195",
     "locID": "LOC000040816877",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424757402"
    }
   },
@@ -95573,7 +95556,7 @@
     "name": "UNIT 2, 4 MARGARET STREET PARKDALE 3195",
     "locID": "LOC000114758300",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424757403"
    }
   },
@@ -98854,7 +98837,7 @@
     "name": "UNIT 1, 6 CHERRINGTON COURT PARKDALE 3195",
     "locID": "LOC000166452392",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425514363"
    }
   },
@@ -98871,7 +98854,7 @@
     "name": "UNIT 2, 6 CHERRINGTON COURT PARKDALE 3195",
     "locID": "LOC000166452392",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425514364"
    }
   },
@@ -99908,7 +99891,7 @@
     "name": "UNIT 1, 88 KEITH STREET PARKDALE 3195",
     "locID": "LOC000172155660",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425735962"
    }
   },
@@ -99925,7 +99908,7 @@
     "name": "UNIT 2, 88 KEITH STREET PARKDALE 3195",
     "locID": "LOC000172155673",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425735963"
    }
   },
@@ -100316,7 +100299,7 @@
     "name": "UNIT 1, 20 TAYLOR STREET PARKDALE 3195",
     "locID": "LOC000166456414",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425789200"
    }
   },
@@ -100333,7 +100316,7 @@
     "name": "UNIT 2, 20 TAYLOR STREET PARKDALE 3195",
     "locID": "LOC000166456422",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425789201"
    }
   },
@@ -100366,8 +100349,8 @@
    "properties": {
     "name": "24B VICTORIA STREET PARKDALE 3195",
     "locID": "LOC000166557437",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425789975"
    }
   },
@@ -100962,7 +100945,7 @@
     "name": "UNIT 1, 31 MCINDOE PARADE PARKDALE 3195",
     "locID": "LOC000166552595",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC718991487"
    }
   },
@@ -101098,7 +101081,7 @@
     "name": "UNIT 3, 31 MCINDOE PARADE PARKDALE 3195",
     "locID": "LOC000166552613",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC718996641"
    }
   },
@@ -101574,7 +101557,7 @@
     "name": "UNIT 2, 31 MCINDOE PARADE PARKDALE 3195",
     "locID": "LOC000166552609",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719015496"
    }
   },
@@ -101625,7 +101608,7 @@
     "name": "UNIT 4, 31 MCINDOE PARADE PARKDALE 3195",
     "locID": "LOC000166552621",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719016878"
    }
   },
@@ -103767,7 +103750,7 @@
     "name": "UNIT 2, 17 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000070865442",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719916056"
    }
   },
@@ -103818,7 +103801,7 @@
     "name": "UNIT 1, 17 ROBERT STREET PARKDALE 3195",
     "locID": "LOC000181202761",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719920278"
    }
   },
@@ -104379,7 +104362,7 @@
     "name": "42A SIXTH STREET PARKDALE 3195",
     "locID": "LOC100074206209",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720060194"
    }
   },
@@ -107669,23 +107652,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.07685363,
-     -37.99903192
-    ]
-   },
-   "properties": {
-    "name": "15B HERBERT STREET PARKDALE 3195",
-    "locID": "LOC000047569081",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC721152675"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.08621316,
      -37.99526999
     ]
@@ -107968,23 +107934,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721164526"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.0768367,
-     -37.99912128
-    ]
-   },
-   "properties": {
-    "name": "15A HERBERT STREET PARKDALE 3195",
-    "locID": "LOC000047569081",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC721166543"
    }
   },
   {
