@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-16T04:09:37.047402",
+ "generated": "2023-10-06T06:08:51.989694",
  "suburb": "MARIGINIUP",
  "features": [
   {
@@ -1137,8 +1137,8 @@
    "properties": {
     "name": "39 LEE-STEERE DRIVE MARIGINIUP 6078",
     "locID": "LOC000042131706",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146540118"
    }
   },
@@ -1324,8 +1324,8 @@
    "properties": {
     "name": "18 DEMPSTER PLACE MARIGINIUP 6078",
     "locID": "LOC000032252590",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146540132"
    }
   },
@@ -1854,6 +1854,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146541621"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.87002,
+     -31.6936
+    ]
+   },
+   "properties": {
+    "name": "529 NEAVES ROAD MARIGINIUP 6078",
+    "locID": "LOC000183889072",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAWA_146541751"
    }
   },
   {
@@ -2498,7 +2515,7 @@
     "name": "576 NEAVES ROAD MARIGINIUP 6078",
     "locID": "LOC000043612912",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146544044"
    }
   },
@@ -3875,7 +3892,7 @@
     "name": "8 DEMPSTER PLACE MARIGINIUP 6078",
     "locID": "LOC000032284764",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_147151345"
    }
   },
@@ -4554,8 +4571,8 @@
    "properties": {
     "name": "149 COOGEE ROAD MARIGINIUP 6078",
     "locID": "LOC000022933803",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147198272"
    }
   },
