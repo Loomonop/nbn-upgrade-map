@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-16T10:46:04.155209",
+ "generated": "2023-10-06T12:48:16.837553",
  "suburb": "WARWICK",
  "features": [
   {
@@ -1528,8 +1528,8 @@
    "properties": {
     "name": "1 CHELSFORD ROAD WARWICK 6024",
     "locID": "LOC000002883767",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146557235"
    }
   },
@@ -8032,6 +8032,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.80719,
+     -31.8414
+    ]
+   },
+   "properties": {
+    "name": "30 GLENMERE ROAD WARWICK 6024",
+    "locID": "LOC000193654635",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_146559885"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      115.81062,
      -31.83741
     ]
@@ -8431,7 +8448,7 @@
     "name": "4 DIDCOT STREET WARWICK 6024",
     "locID": "LOC000053963355",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146560025"
    }
   },
@@ -8617,8 +8634,8 @@
    "properties": {
     "name": "16 FAWCETT WAY WARWICK 6024",
     "locID": "LOC000031455129",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146560536"
    }
   },
@@ -9266,6 +9283,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146560681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.80116,
+     -31.84453
+    ]
+   },
+   "properties": {
+    "name": "15 SPRINGVALE DRIVE WARWICK 6024",
+    "locID": "ChIJJ-GuEIGuMioRkCHMgvkSjKc",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_146560683"
    }
   },
   {
@@ -9943,8 +9977,8 @@
    "properties": {
     "name": "30 BADRICK STREET WARWICK 6024",
     "locID": "LOC000013752845",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146561288"
    }
   },
@@ -10470,8 +10504,8 @@
    "properties": {
     "name": "31 BALLANTINE ROAD WARWICK 6024",
     "locID": "LOC000028609257",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146561420"
    }
   },
@@ -19871,8 +19905,8 @@
    "properties": {
     "name": "12 MALLAIG PLACE WARWICK 6024",
     "locID": "LOC000107405459",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146567771"
    }
   },
@@ -23883,8 +23917,8 @@
    "properties": {
     "name": "36 HILLWOOD AVENUE WARWICK 6024",
     "locID": "LOC000073461947",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_147315806"
    }
   },
