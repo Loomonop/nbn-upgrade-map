@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-16T13:08:28.856669",
+ "generated": "2023-10-06T15:02:51.193725",
  "suburb": "BEXLEY NORTH",
  "features": [
   {
@@ -135,7 +135,7 @@
     "name": "88 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000051926098",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704113554"
    }
   },
@@ -305,7 +305,7 @@
     "name": "21 SHAW STREET BEXLEY NORTH 2207",
     "locID": "LOC000072390953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704114245"
    }
   },
@@ -713,7 +713,7 @@
     "name": "UNIT 4, 19-23 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000113599534",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704115261"
    }
   },
@@ -730,7 +730,7 @@
     "name": "2A ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000014642849",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704115263"
    }
   },
@@ -934,7 +934,7 @@
     "name": "16 BENJAMIN STREET BEXLEY NORTH 2207",
     "locID": "LOC000068448493",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704116037"
    }
   },
@@ -1427,7 +1427,7 @@
     "name": "UNIT 1, 18 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000100132396",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704116076"
    }
   },
@@ -1444,7 +1444,7 @@
     "name": "UNIT 2, 18 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000099963511",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704116077"
    }
   },
@@ -1461,7 +1461,7 @@
     "name": "UNIT 3, 18 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000100163332",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704116078"
    }
   },
@@ -1478,7 +1478,7 @@
     "name": "UNIT 4, 18 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000100147409",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704116079"
    }
   },
@@ -1495,7 +1495,7 @@
     "name": "18 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000100132396",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704116080"
    }
   },
@@ -1997,6 +1997,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.11069397,
+     -33.9427904
+    ]
+   },
+   "properties": {
+    "name": "74 OLIVER STREET BEXLEY NORTH 2207",
+    "locID": "LOC000193743501",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704116852"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.1133147,
      -33.94619915
     ]
@@ -2056,7 +2073,7 @@
     "name": "1 SARSFIELD CIRCUIT BEXLEY NORTH 2207",
     "locID": "LOC000099733623",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704116856"
    }
   },
@@ -2141,7 +2158,7 @@
     "name": "7 SARSFIELD CIRCUIT BEXLEY NORTH 2207",
     "locID": "LOC000071425924",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704116862"
    }
   },
@@ -2786,8 +2803,8 @@
    "properties": {
     "name": "53 SHAW STREET BEXLEY NORTH 2207",
     "locID": "LOC000097198564",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704118632"
    }
   },
@@ -2821,7 +2838,7 @@
     "name": "UNIT 1, 56 SHAW STREET BEXLEY NORTH 2207",
     "locID": "LOC000054664112",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704118634"
    }
   },
@@ -2838,7 +2855,7 @@
     "name": "UNIT 2, 56 SHAW STREET BEXLEY NORTH 2207",
     "locID": "LOC000054440953",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704118635"
    }
   },
@@ -2855,7 +2872,7 @@
     "name": "56 SHAW STREET BEXLEY NORTH 2207",
     "locID": "LOC000054664112",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704118636"
    }
   },
@@ -3773,7 +3790,7 @@
     "name": "30 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000099744104",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704119338"
    }
   },
@@ -4215,7 +4232,7 @@
     "name": "UNIT 1, 59 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000051333883",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704119366"
    }
   },
@@ -4232,7 +4249,7 @@
     "name": "UNIT 2, 59 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000051491425",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704119367"
    }
   },
@@ -4249,7 +4266,7 @@
     "name": "UNIT 3, 59 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000051487651",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704119368"
    }
   },
@@ -4266,7 +4283,7 @@
     "name": "UNIT 4, 59 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000051321581",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704119369"
    }
   },
@@ -4283,7 +4300,7 @@
     "name": "UNIT 5, 59 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000051305428",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704119370"
    }
   },
@@ -4300,7 +4317,7 @@
     "name": "59 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000051321581",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704119371"
    }
   },
@@ -5252,7 +5269,7 @@
     "name": "UNIT 4, 11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055652963",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704120163"
    }
   },
@@ -5286,7 +5303,7 @@
     "name": "40 MACDONALD CRESCENT BEXLEY NORTH 2207",
     "locID": "LOC000003201674",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704120388"
    }
   },
@@ -5371,7 +5388,7 @@
     "name": "UNIT 5, 11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055584219",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704120992"
    }
   },
@@ -5388,7 +5405,7 @@
     "name": "UNIT 6, 11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055759667",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704120993"
    }
   },
@@ -5405,7 +5422,7 @@
     "name": "UNIT 7, 11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055705215",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704120994"
    }
   },
@@ -5643,7 +5660,7 @@
     "name": "297 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000032297757",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704121098"
    }
   },
@@ -5660,7 +5677,7 @@
     "name": "299 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000087383718",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704121099"
    }
   },
@@ -6799,7 +6816,7 @@
     "name": "UNIT 1, 11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055584219",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704121949"
    }
   },
@@ -6816,7 +6833,7 @@
     "name": "UNIT 2, 11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055499569",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704121950"
    }
   },
@@ -6833,7 +6850,7 @@
     "name": "UNIT 3, 11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055426789",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704121951"
    }
   },
@@ -7292,7 +7309,7 @@
     "name": "20 CARSON CRESCENT BEXLEY NORTH 2207",
     "locID": "LOC000052710463",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704122024"
    }
   },
@@ -9162,7 +9179,7 @@
     "name": "1 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000088132265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704124645"
    }
   },
@@ -9689,7 +9706,7 @@
     "name": "UNIT 2, 19-23 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000113599534",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704125287"
    }
   },
@@ -9706,7 +9723,7 @@
     "name": "UNIT 3, 19-23 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000113599534",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704125288"
    }
   },
@@ -11729,7 +11746,7 @@
     "name": "99 NEW ILLAWARRA ROAD BEXLEY NORTH 2207",
     "locID": "LOC000020643230",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706620368"
    }
   },
@@ -11780,7 +11797,7 @@
     "name": "72 NEW ILLAWARRA ROAD BEXLEY NORTH 2207",
     "locID": "LOC000043796184",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706620372"
    }
   },
@@ -11848,7 +11865,7 @@
     "name": "80 OLIVER STREET BEXLEY NORTH 2207",
     "locID": "LOC000046083994",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706620376"
    }
   },
@@ -17865,8 +17882,8 @@
    "properties": {
     "name": "34 BARNSBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000101819072",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706650226"
    }
   },
@@ -19685,7 +19702,7 @@
     "name": "UNIT 5, 17 BARNSBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000011425932",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706668002"
    }
   },
@@ -19702,7 +19719,7 @@
     "name": "UNIT 4, 17 BARNSBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000011382061",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706668003"
    }
   },
@@ -19719,7 +19736,7 @@
     "name": "UNIT 3, 17 BARNSBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000011447037",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706668004"
    }
   },
@@ -19736,7 +19753,7 @@
     "name": "UNIT 2, 17 BARNSBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000011425932",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706668005"
    }
   },
@@ -19753,7 +19770,7 @@
     "name": "UNIT 1, 17 BARNSBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000011358771",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706668006"
    }
   },
@@ -20467,7 +20484,7 @@
     "name": "6 HEATH STREET BEXLEY NORTH 2207",
     "locID": "LOC000034797414",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706670752"
    }
   },
@@ -20501,7 +20518,7 @@
     "name": "17 NEW ILLAWARRA ROAD BEXLEY NORTH 2207",
     "locID": "LOC000033943150",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706670757"
    }
   },
@@ -21316,8 +21333,8 @@
    "properties": {
     "name": "159 KINGSLAND ROAD NORTH BEXLEY NORTH 2207",
     "locID": "LOC000043597089",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706674250"
    }
   },
@@ -22796,7 +22813,7 @@
     "name": "17 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000120501711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711420365"
    }
   },
@@ -23340,7 +23357,7 @@
     "name": "UNIT 1, 99 NEW ILLAWARRA ROAD BEXLEY NORTH 2207",
     "locID": "LOC000020545085",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711451832"
    }
   },
@@ -23544,7 +23561,7 @@
     "name": "21 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000113661236",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711460867"
    }
   },
@@ -23595,7 +23612,7 @@
     "name": "13 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000160200044",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711462876"
    }
   },
@@ -23612,7 +23629,7 @@
     "name": "23 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000113599534",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711462878"
    }
   },
@@ -23816,7 +23833,7 @@
     "name": "UNIT 1, 297 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000032226645",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711463422"
    }
   },
@@ -23833,7 +23850,7 @@
     "name": "UNIT 2, 297 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000032297757",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711463423"
    }
   },
@@ -25227,7 +25244,7 @@
     "name": "UNIT 1, 21 SHAW STREET BEXLEY NORTH 2207",
     "locID": "LOC000072761522",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711468507"
    }
   },
@@ -25601,7 +25618,7 @@
     "name": "17 BARNSBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000011425932",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711471582"
    }
   },
@@ -25771,7 +25788,7 @@
     "name": "UNIT 2, 99 NEW ILLAWARRA ROAD BEXLEY NORTH 2207",
     "locID": "LOC000020545085",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711472323"
    }
   },
@@ -25788,7 +25805,7 @@
     "name": "UNIT 3, 99 NEW ILLAWARRA ROAD BEXLEY NORTH 2207",
     "locID": "LOC000020643230",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711472324"
    }
   },
@@ -26366,7 +26383,7 @@
     "name": "UNIT 1, 295 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000058873132",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715357683"
    }
   },
@@ -26519,7 +26536,7 @@
     "name": "REAR A, 305 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000021217932",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715590435"
    }
   },
@@ -26587,7 +26604,7 @@
     "name": "UNIT 1, 299 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000087383718",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716384060"
    }
   },
@@ -26604,7 +26621,7 @@
     "name": "295 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000059194063",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716384062"
    }
   },
@@ -27215,8 +27232,8 @@
    "properties": {
     "name": "24 TOMKINS STREET BEXLEY NORTH 2207",
     "locID": "LOC000085988613",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716548600"
    }
   },
@@ -27403,7 +27420,7 @@
     "name": "305 BEXLEY ROAD BEXLEY NORTH 2207",
     "locID": "LOC000021217932",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716647255"
    }
   },
@@ -27794,7 +27811,7 @@
     "name": "SHOP 1, 1 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000088132265",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717365265"
    }
   },
@@ -28185,7 +28202,7 @@
     "name": "11-13 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000055584219",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717741611"
    }
   },
@@ -28236,7 +28253,7 @@
     "name": "UNIT 1, 19-23 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000113599534",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717941652"
    }
   },
@@ -28252,8 +28269,8 @@
    "properties": {
     "name": "UNIT 1, 2-6 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000086499020",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717941653"
    }
   },
@@ -28269,8 +28286,8 @@
    "properties": {
     "name": "UNIT 2, 2-6 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000086499020",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717941655"
    }
   },
@@ -28286,8 +28303,8 @@
    "properties": {
     "name": "UNIT 3, 2-6 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000086499020",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717941657"
    }
   },
@@ -28303,8 +28320,8 @@
    "properties": {
     "name": "UNIT 4, 2-6 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000086499020",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717941659"
    }
   },
@@ -28320,8 +28337,8 @@
    "properties": {
     "name": "2-6 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000086499020",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717941660"
    }
   },
@@ -30038,7 +30055,7 @@
     "name": "UNIT 1, 88 CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000160199845",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718323605"
    }
   },
@@ -30123,7 +30140,7 @@
     "name": "30A CANONBURY GROVE BEXLEY NORTH 2207",
     "locID": "LOC000120510649",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718375680"
    }
   },
@@ -30412,7 +30429,7 @@
     "name": "UNIT 1, 16 BENJAMIN STREET BEXLEY NORTH 2207",
     "locID": "LOC000160199911",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718503051"
    }
   },
@@ -31075,7 +31092,7 @@
     "name": "6A HEATH STREET BEXLEY NORTH 2207",
     "locID": "LOC000160199878",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718897613"
    }
   },
@@ -31092,7 +31109,7 @@
     "name": "UNIT 1, 13-17 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000120501711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718950425"
    }
   },
@@ -31109,7 +31126,7 @@
     "name": "UNIT 2, 13-17 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000120501711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718950426"
    }
   },
@@ -31126,7 +31143,7 @@
     "name": "UNIT 3, 13-17 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000120501711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718950427"
    }
   },
@@ -31143,7 +31160,7 @@
     "name": "UNIT 4, 13-17 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000120501711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718950428"
    }
   },
@@ -31160,7 +31177,7 @@
     "name": "13-17 ALSTON STREET BEXLEY NORTH 2207",
     "locID": "LOC000160200044",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718950429"
    }
   },
