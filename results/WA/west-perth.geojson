@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-16T11:30:53.637893",
+ "generated": "2023-10-06T13:40:34.320811",
  "suburb": "WEST PERTH",
  "features": [
   {
@@ -2361,8 +2361,8 @@
    "properties": {
     "name": "74 CARR STREET WEST PERTH 6005",
     "locID": "LOC000102469975",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146637122"
    }
   },
@@ -2565,8 +2565,8 @@
    "properties": {
     "name": "348 BULWER STREET WEST PERTH 6005",
     "locID": "LOC000007457786",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_146640814"
    }
   },
@@ -7275,7 +7275,7 @@
     "name": "2 LAWRENCE AVENUE WEST PERTH 6005",
     "locID": "LOC000031522788",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146657404"
    }
   },
@@ -7292,7 +7292,7 @@
     "name": "4 LAWRENCE AVENUE WEST PERTH 6005",
     "locID": "LOC000101466648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146657405"
    }
   },
@@ -9416,8 +9416,8 @@
    "properties": {
     "name": "42 OUTRAM STREET WEST PERTH 6005",
     "locID": "LOC000098177444",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAWA_146661138"
    }
   },
@@ -21453,7 +21453,7 @@
     "name": "140 CARR STREET WEST PERTH 6005",
     "locID": "LOC000003013268",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147261982"
    }
   },
@@ -36736,7 +36736,7 @@
     "name": "42 COLIN STREET WEST PERTH 6005",
     "locID": "LOC000022110717",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_148199863"
    }
   },
@@ -76142,7 +76142,7 @@
     "name": "LOT 3001 LAWRENCE AVENUE WEST PERTH 6005",
     "locID": "LOC000101466648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162330511"
    }
   },
@@ -94077,7 +94077,7 @@
     "name": "LEVEL 2, 10 ORD STREET WEST PERTH 6005",
     "locID": "LOC000027732247",
     "tech": "FTTP",
-    "upgrade": "UNKNOWN",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163010009"
    }
   },
@@ -102851,6 +102851,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAWA_163244644"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.84557425,
+     -31.94646695
+    ]
+   },
+   "properties": {
+    "name": "LOT 1019 WELLINGTON STREET WEST PERTH 6005",
+    "locID": "EjExMDE5IFdlbGxpbmd0b24gU3QsIFdlc3QgUGVydGggV0EgNjAwNSwgQXVzdHJhbGlhIjESLwoUChIJ4Vh9mzClMioRQYI3Vduv83kQ-wcqFAoSCfua0wLUujIqEbPN1JHlQeWH",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_163244795"
    }
   },
   {
