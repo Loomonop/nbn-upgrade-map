@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-17T18:33:21.676885",
+ "generated": "2023-10-07T17:19:38.861091",
  "suburb": "MULWALA",
  "features": [
   {
@@ -3059,7 +3059,7 @@
     "name": "113 MANNERS STREET MULWALA 2647",
     "locID": "LOC000001398597",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705459588"
    }
   },
@@ -5897,8 +5897,8 @@
    "properties": {
     "name": "66 GREEN STREET MULWALA 2647",
     "locID": "LOC000041031090",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705462569"
    }
   },
@@ -8056,8 +8056,8 @@
    "properties": {
     "name": "59 GREEN STREET MULWALA 2647",
     "locID": "LOC000044101917",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705465176"
    }
   },
@@ -16464,23 +16464,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     146.00655268,
-     -35.98856373
-    ]
-   },
-   "properties": {
-    "name": "76 MELBOURNE STREET MULWALA 2647",
-    "locID": "LOC000023129787",
-    "tech": "NULL",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GANSW712793472"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      146.0063669,
      -35.98201128
     ]
@@ -18444,7 +18427,7 @@
     "name": "69A HUME STREET MULWALA 2647",
     "locID": "LOC000044029270",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717081925"
    }
   },
