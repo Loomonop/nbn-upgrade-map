@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-17T03:07:59.160291",
+ "generated": "2023-10-07T02:26:17.231516",
  "suburb": "MOAMA",
  "features": [
   {
@@ -32877,7 +32877,7 @@
     "name": "9 LOMOND COURT MOAMA 2731",
     "locID": "LOC000046759700",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716861499"
    }
   },
@@ -42311,8 +42311,8 @@
    "properties": {
     "name": "93 GOLDSBOROUGH ROAD MOAMA 2731",
     "locID": "LOC000083815490",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW718001128"
    }
   },
@@ -44776,8 +44776,8 @@
    "properties": {
     "name": "61 GOLDSBOROUGH ROAD MOAMA 2731",
     "locID": "LOC000122065107",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW718068543"
    }
   },
@@ -54331,7 +54331,7 @@
     "name": "2 HUDSON COURT MOAMA 2731",
     "locID": "LOC000177459888",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718726339"
    }
   },
@@ -54348,7 +54348,7 @@
     "name": "3 HUDSON COURT MOAMA 2731",
     "locID": "LOC000164441001",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718726340"
    }
   },
@@ -54365,7 +54365,7 @@
     "name": "4 HUDSON COURT MOAMA 2731",
     "locID": "LOC000164441017",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718726341"
    }
   },
@@ -54382,7 +54382,7 @@
     "name": "5 HUDSON COURT MOAMA 2731",
     "locID": "LOC000164441029",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718726342"
    }
   },
@@ -54399,7 +54399,7 @@
     "name": "6 HUDSON COURT MOAMA 2731",
     "locID": "LOC000181986834",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718726343"
    }
   },
@@ -54416,7 +54416,7 @@
     "name": "7 HUDSON COURT MOAMA 2731",
     "locID": "LOC000177842926",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718726344"
    }
   },
@@ -54450,7 +54450,7 @@
     "name": "9 HUDSON COURT MOAMA 2731",
     "locID": "LOC000164441040",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718726346"
    }
   },
@@ -65653,7 +65653,7 @@
     "name": "10 HUDSON COURT MOAMA 2731",
     "locID": "LOC000164441055",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718954320"
    }
   },
@@ -78794,7 +78794,7 @@
     "name": "22 SUGARGUMS DRIVE MOAMA 2731",
     "locID": "LOC000178664026",
     "tech": "FTTN",
-    "upgrade": "FTTC_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719839683"
    }
   },
@@ -86769,6 +86769,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720785562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.73299992,
+     -36.08677328
+    ]
+   },
+   "properties": {
+    "name": "2 SPOONBILL STREET MOAMA 2731",
+    "locID": "LOC000193751722",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720785597"
    }
   },
   {
