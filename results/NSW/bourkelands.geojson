@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-17T14:14:56.928794",
+ "generated": "2023-10-07T13:12:57.592320",
  "suburb": "BOURKELANDS",
  "features": [
   {
@@ -1674,6 +1674,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.34574472,
+     -35.15413808
+    ]
+   },
+   "properties": {
+    "name": "10 BOURKELANDS DRIVE BOURKELANDS 2650",
+    "locID": "LOC000059213266",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW704202856"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.34869318,
      -35.15400391
     ]
@@ -2362,7 +2379,7 @@
     "name": "UNIT 1, 12 KALOONA DRIVE BOURKELANDS 2650",
     "locID": "LOC000075833016",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704205181"
    }
   },
@@ -3534,8 +3551,8 @@
    "properties": {
     "name": "4 LYNDOCH PLACE BOURKELANDS 2650",
     "locID": "LOC000066443353",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704208823"
    }
   },
@@ -5150,7 +5167,7 @@
     "name": "UNIT 2, 12 KALOONA DRIVE BOURKELANDS 2650",
     "locID": "LOC000075498210",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704212843"
    }
   },
@@ -5167,7 +5184,7 @@
     "name": "12 KALOONA DRIVE BOURKELANDS 2650",
     "locID": "LOC000075833016",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704212844"
    }
   },
@@ -6425,7 +6442,7 @@
     "name": "UNIT 1, 44 BEREMBEE ROAD BOURKELANDS 2650",
     "locID": "LOC000056454633",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW707871825"
    }
   },
@@ -6442,7 +6459,7 @@
     "name": "UNIT 2, 44 BEREMBEE ROAD BOURKELANDS 2650",
     "locID": "LOC000056454633",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW707872679"
    }
   },
@@ -7292,7 +7309,7 @@
     "name": "8 NETHEREBY PLACE BOURKELANDS 2650",
     "locID": "LOC000107191423",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716006049"
    }
   },
@@ -7360,7 +7377,7 @@
     "name": "1 NETHEREBY PLACE BOURKELANDS 2650",
     "locID": "LOC000069088697",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716340980"
    }
   },
@@ -7428,7 +7445,7 @@
     "name": "10 NETHEREBY PLACE BOURKELANDS 2650",
     "locID": "LOC000069088697",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716471122"
    }
   },
@@ -7751,7 +7768,7 @@
     "name": "10 AUDERDALE CLOSE BOURKELANDS 2650",
     "locID": "LOC000045714271",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716592428"
    }
   },
@@ -7955,7 +7972,7 @@
     "name": "14 ILLEURA ROAD BOURKELANDS 2650",
     "locID": "LOC000003180584",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716755324"
    }
   },
@@ -8159,7 +8176,7 @@
     "name": "UNIT 1, 1 NETHEREBY PLACE BOURKELANDS 2650",
     "locID": "LOC000069088697",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716881111"
    }
   },
@@ -8176,7 +8193,7 @@
     "name": "UNIT 2, 1 NETHEREBY PLACE BOURKELANDS 2650",
     "locID": "LOC000069088697",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716881112"
    }
   },
@@ -8601,7 +8618,7 @@
     "name": "33 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000019872180",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716890522"
    }
   },
@@ -8788,7 +8805,7 @@
     "name": "7 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000026402404",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716890534"
    }
   },
@@ -9332,7 +9349,7 @@
     "name": "2 KOLOR PLACE BOURKELANDS 2650",
     "locID": "LOC000044069715",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716959205"
    }
   },
@@ -9400,7 +9417,7 @@
     "name": "6 KOLOR PLACE BOURKELANDS 2650",
     "locID": "LOC000051975611",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716959209"
    }
   },
@@ -9705,8 +9722,8 @@
    "properties": {
     "name": "8 WAVERLEY PLACE BOURKELANDS 2650",
     "locID": "LOC000033114004",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW717052856"
    }
   },
@@ -10012,7 +10029,7 @@
     "name": "3 NETHEREBY PLACE BOURKELANDS 2650",
     "locID": "LOC000107191423",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717068496"
    }
   },
@@ -10216,7 +10233,7 @@
     "name": "UNIT 1, 10 AUDERDALE CLOSE BOURKELANDS 2650",
     "locID": "LOC000053918098",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717074853"
    }
   },
@@ -10233,7 +10250,7 @@
     "name": "UNIT 2, 10 AUDERDALE CLOSE BOURKELANDS 2650",
     "locID": "LOC000053477798",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717074854"
    }
   },
@@ -10420,7 +10437,7 @@
     "name": "55 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000109090920",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717075336"
    }
   },
@@ -10658,7 +10675,7 @@
     "name": "58 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000103271695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717113077"
    }
   },
@@ -10675,7 +10692,7 @@
     "name": "60 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000086081358",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717113078"
    }
   },
@@ -10726,7 +10743,7 @@
     "name": "66 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000003149731",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717113081"
    }
   },
@@ -11015,7 +11032,7 @@
     "name": "8 BALALA CRESCENT BOURKELANDS 2650",
     "locID": "LOC000179347711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717135055"
    }
   },
@@ -11372,7 +11389,7 @@
     "name": "44 BEREMBEE ROAD BOURKELANDS 2650",
     "locID": "LOC000056454633",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717154787"
    }
   },
@@ -11593,7 +11610,7 @@
     "name": "69 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000025485081",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717179458"
    }
   },
@@ -11678,7 +11695,7 @@
     "name": "UNIT 2, 27 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000024153181",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717281120"
    }
   },
@@ -11712,7 +11729,7 @@
     "name": "UNIT 1, 27 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000023768469",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717293223"
    }
   },
@@ -11984,7 +12001,7 @@
     "name": "14 BURRUNDULLA ROAD BOURKELANDS 2650",
     "locID": "LOC000170647419",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717367923"
    }
   },
@@ -12392,7 +12409,7 @@
     "name": "35 KALOONA DRIVE BOURKELANDS 2650",
     "locID": "LOC000078852154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717376316"
    }
   },
@@ -12527,8 +12544,8 @@
    "properties": {
     "name": "46 KALOONA DRIVE BOURKELANDS 2650",
     "locID": "LOC000039947706",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717376324"
    }
   },
@@ -12681,7 +12698,7 @@
     "name": "UNIT 1, 58 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000103271695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717471502"
    }
   },
@@ -12698,7 +12715,7 @@
     "name": "UNIT 1, 66 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000003149731",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717471503"
    }
   },
@@ -12715,7 +12732,7 @@
     "name": "UNIT 2, 60 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000086081358",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717471504"
    }
   },
@@ -12732,7 +12749,7 @@
     "name": "UNIT 1, 60 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000086135420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717486564"
    }
   },
@@ -12749,7 +12766,7 @@
     "name": "UNIT 2, 58 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000103271695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717486565"
    }
   },
@@ -12783,7 +12800,7 @@
     "name": "UNIT 1, 55 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000109090920",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717590881"
    }
   },
@@ -12800,7 +12817,7 @@
     "name": "UNIT 2, 55 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000109090920",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717590882"
    }
   },
@@ -12817,7 +12834,7 @@
     "name": "UNIT 1, 7 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000026402404",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717623346"
    }
   },
@@ -12868,7 +12885,7 @@
     "name": "UNIT 1, 69 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000025485081",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717631700"
    }
   },
@@ -12885,7 +12902,7 @@
     "name": "UNIT 2, 69 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000025581983",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717631701"
    }
   },
@@ -13293,7 +13310,7 @@
     "name": "UNIT 2, 7 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000026402404",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717654124"
    }
   },
@@ -13395,7 +13412,7 @@
     "name": "UNIT 2, 35 KALOONA DRIVE BOURKELANDS 2650",
     "locID": "LOC000078852154",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717726769"
    }
   },
@@ -15180,7 +15197,7 @@
     "name": "UNIT 2, 66 YARRAWAH CRESCENT BOURKELANDS 2650",
     "locID": "LOC000003079760",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717838051"
    }
   },
@@ -15639,7 +15656,7 @@
     "name": "1 BURRUNDULLA ROAD BOURKELANDS 2650",
     "locID": "LOC000115544692",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717870899"
    }
   },
@@ -15690,7 +15707,7 @@
     "name": "7 BURRUNDULLA ROAD BOURKELANDS 2650",
     "locID": "LOC000115544692",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717870902"
    }
   },
@@ -16285,7 +16302,7 @@
     "name": "UNIT 1, 33 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000019726159",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717977402"
    }
   },
@@ -16302,7 +16319,7 @@
     "name": "UNIT 2, 33 BEDERVALE STREET BOURKELANDS 2650",
     "locID": "LOC000019872180",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717977403"
    }
   },
@@ -16676,7 +16693,7 @@
     "name": "28 OSTERLEY STREET BOURKELANDS 2650",
     "locID": "LOC000115564023",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718056808"
    }
   },
@@ -16811,8 +16828,8 @@
    "properties": {
     "name": "141 BROOKLYN DRIVE BOURKELANDS 2650",
     "locID": "LOC000114390222",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718065535"
    }
   },
@@ -17458,7 +17475,7 @@
     "name": "7 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000115539904",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718072598"
    }
   },
@@ -17577,7 +17594,7 @@
     "name": "10 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000170646475",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718103605"
    }
   },
@@ -17594,7 +17611,7 @@
     "name": "12 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000170646481",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718103606"
    }
   },
@@ -17968,7 +17985,7 @@
     "name": "UNIT 1, 28 OSTERLEY STREET BOURKELANDS 2650",
     "locID": "LOC000115564010",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718202333"
    }
   },
@@ -17985,7 +18002,7 @@
     "name": "UNIT 2, 28 OSTERLEY STREET BOURKELANDS 2650",
     "locID": "LOC000115564023",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718202334"
    }
   },
@@ -18019,7 +18036,7 @@
     "name": "UNIT 1, 7 BURRUNDULLA ROAD BOURKELANDS 2650",
     "locID": "LOC000115544692",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718224518"
    }
   },
@@ -18036,7 +18053,7 @@
     "name": "UNIT 2, 7 BURRUNDULLA ROAD BOURKELANDS 2650",
     "locID": "LOC000115544709",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718224519"
    }
   },
@@ -18070,7 +18087,7 @@
     "name": "9 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000121745680",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718228919"
    }
   },
@@ -18155,7 +18172,7 @@
     "name": "UNIT 1, 9 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000121745680",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718316132"
    }
   },
@@ -18665,7 +18682,7 @@
     "name": "UNIT 2, 12 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000170646481",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718498304"
    }
   },
@@ -19090,7 +19107,7 @@
     "name": "UNIT 1, 12 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000170646481",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718563669"
    }
   },
@@ -20926,7 +20943,7 @@
     "name": "UNIT 1, 8 BALALA CRESCENT BOURKELANDS 2650",
     "locID": "LOC000179347711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718838258"
    }
   },
@@ -20943,7 +20960,7 @@
     "name": "UNIT 2, 8 BALALA CRESCENT BOURKELANDS 2650",
     "locID": "LOC000179347711",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718838259"
    }
   },
@@ -21164,7 +21181,7 @@
     "name": "UNIT 1, 14 BURRUNDULLA ROAD BOURKELANDS 2650",
     "locID": "LOC000170647419",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718919791"
    }
   },
@@ -21181,7 +21198,7 @@
     "name": "UNIT 2, 14 BURRUNDULLA ROAD BOURKELANDS 2650",
     "locID": "LOC000170647426",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718919792"
    }
   },
@@ -21742,7 +21759,7 @@
     "name": "UNIT 2, 10 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000170646475",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719161960"
    }
   },
@@ -21759,7 +21776,7 @@
     "name": "UNIT 1, 10 MURNDAL PLACE BOURKELANDS 2650",
     "locID": "LOC000170646475",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719166601"
    }
   },
