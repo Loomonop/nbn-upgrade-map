@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-17T15:46:01.760485",
+ "generated": "2023-10-07T14:39:11.470066",
  "suburb": "BRUCE",
  "features": [
   {
@@ -220,7 +220,7 @@
     "name": "66 JAEGER CIRCUIT BRUCE 2617",
     "locID": "LOC000111749018",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714853511"
    }
   },
@@ -1903,7 +1903,7 @@
     "name": "53 JAEGER CIRCUIT BRUCE 2617",
     "locID": "LOC000111567960",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714856615"
    }
   },
@@ -3416,7 +3416,7 @@
     "name": "68 JAEGER CIRCUIT BRUCE 2617",
     "locID": "LOC000111692460",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714857495"
    }
   },
@@ -7464,6 +7464,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714972836"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.09593261,
+     -35.23747175
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 98 LAMPARD CIRCUIT BRUCE 2617",
+    "locID": "LOC000111258741",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAACT714972837"
    }
   },
   {
@@ -12989,6 +13006,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714978316"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.09583514,
+     -35.23726868
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 98 LAMPARD CIRCUIT BRUCE 2617",
+    "locID": "LOC000111071351",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAACT714978334"
    }
   },
   {
@@ -21759,7 +21793,7 @@
     "name": "55 KINLOCH CIRCUIT BRUCE 2617",
     "locID": "LOC000111577201",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT716699130"
    }
   },
@@ -22217,8 +22251,8 @@
    "properties": {
     "name": "UNIT 15, 121 THYNNE STREET BRUCE 2617",
     "locID": "LOC000112558684",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAACT716699519"
    }
   },
@@ -23407,8 +23441,8 @@
    "properties": {
     "name": "UNIT 47, 121 THYNNE STREET BRUCE 2617",
     "locID": "LOC000113727275",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAACT716699589"
    }
   },
@@ -27521,8 +27555,8 @@
    "properties": {
     "name": "10 FUNDER STREET BRUCE 2617",
     "locID": "LOC000110733202",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT716909560"
    }
   },
@@ -34134,8 +34168,8 @@
    "properties": {
     "name": "UNIT 10, 23 KINLOCH CIRCUIT BRUCE 2617",
     "locID": "LOC000111852493",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAACT717121946"
    }
   },
@@ -34202,8 +34236,8 @@
    "properties": {
     "name": "UNIT 3, 23 KINLOCH CIRCUIT BRUCE 2617",
     "locID": "LOC000111525073",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT717121950"
    }
   },
