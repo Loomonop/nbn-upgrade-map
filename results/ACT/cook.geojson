@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-17T15:53:44.062124",
+ "generated": "2023-10-07T14:53:43.792481",
  "suburb": "COOK",
  "features": [
   {
@@ -1052,8 +1052,8 @@
    "properties": {
     "name": "81 DEXTER STREET COOK 2614",
     "locID": "LOC000111368039",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAACT714853053"
    }
   },
@@ -1393,7 +1393,7 @@
     "name": "58 WYBALENA GROVE COOK 2614",
     "locID": "LOC000112314512",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714853503"
    }
   },
@@ -7870,7 +7870,7 @@
     "name": "194 DEXTER STREET COOK 2614",
     "locID": "LOC000110418812",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714859503"
    }
   },
@@ -8110,6 +8110,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAACT714859527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.06439096,
+     -35.26057471
+    ]
+   },
+   "properties": {
+    "name": "46 LYTTLETON CRESCENT COOK 2614",
+    "locID": "LOC000193695323",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAACT714859528"
    }
   },
   {
@@ -11660,8 +11677,8 @@
    "properties": {
     "name": "7 TILDEN PLACE COOK 2614",
     "locID": "LOC000110652133",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714861016"
    }
   },
@@ -16098,7 +16115,7 @@
     "name": "28 WYBALENA GROVE COOK 2614",
     "locID": "LOC000111929354",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAACT714861658"
    }
   },
@@ -16404,7 +16421,7 @@
     "name": "1 KUMM PLACE COOK 2614",
     "locID": "LOC000110245805",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714862639"
    }
   },
@@ -17644,8 +17661,8 @@
    "properties": {
     "name": "156 DEXTER STREET COOK 2614",
     "locID": "LOC000111210556",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAACT714872761"
    }
   },
