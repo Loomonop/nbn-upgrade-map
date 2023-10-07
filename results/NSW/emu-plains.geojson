@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-17T06:53:26.664685",
+ "generated": "2023-10-07T07:09:41.763123",
  "suburb": "EMU PLAINS",
  "features": [
   {
@@ -3161,7 +3161,7 @@
     "name": "42 GARDENIA AVENUE EMU PLAINS 2750",
     "locID": "LOC000099087864",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704677089"
    }
   },
@@ -3195,7 +3195,7 @@
     "name": "44 GARDENIA AVENUE EMU PLAINS 2750",
     "locID": "LOC000097560362",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704677091"
    }
   },
@@ -6628,8 +6628,8 @@
    "properties": {
     "name": "23 EMERALD STREET EMU PLAINS 2750",
     "locID": "LOC000081066910",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704679703"
    }
   },
@@ -20144,7 +20144,7 @@
     "name": "24 YORK STREET EMU PLAINS 2750",
     "locID": "LOC000086479923",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704690508"
    }
   },
@@ -20161,7 +20161,7 @@
     "name": "26 YORK STREET EMU PLAINS 2750",
     "locID": "LOC000055405484",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704690511"
    }
   },
@@ -20212,7 +20212,7 @@
     "name": "29 YORK STREET EMU PLAINS 2750",
     "locID": "LOC000005513184",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704690514"
    }
   },
@@ -20297,7 +20297,7 @@
     "name": "32 YORK STREET EMU PLAINS 2750",
     "locID": "LOC000077535104",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704690519"
    }
   },
@@ -26179,7 +26179,7 @@
     "name": "29 SHEPPARD ROAD EMU PLAINS 2750",
     "locID": "LOC000004740731",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704693136"
    }
   },
@@ -27743,7 +27743,7 @@
     "name": "10 WALKERS CRESCENT EMU PLAINS 2750",
     "locID": "LOC000051740976",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704694317"
    }
   },
@@ -30412,7 +30412,7 @@
     "name": "43 YODALLA AVENUE EMU PLAINS 2750",
     "locID": "LOC000055527474",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704695439"
    }
   },
@@ -31381,7 +31381,7 @@
     "name": "35 SHEPPARD ROAD EMU PLAINS 2750",
     "locID": "LOC000011387565",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704696379"
    }
   },
@@ -36616,8 +36616,8 @@
    "properties": {
     "name": "75 KOLOONA DRIVE EMU PLAINS 2750",
     "locID": "LOC000079196923",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704697952"
    }
   },
@@ -38435,8 +38435,8 @@
    "properties": {
     "name": "4 BELLBROOK AVENUE EMU PLAINS 2750",
     "locID": "LOC000059035418",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704699050"
    }
   },
@@ -48057,8 +48057,8 @@
    "properties": {
     "name": "327A GREAT WESTERN HIGHWAY EMU PLAINS 2750",
     "locID": "LOC000001528778",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704715932"
    }
   },
@@ -51611,7 +51611,7 @@
     "name": "25 YORK STREET EMU PLAINS 2750",
     "locID": "LOC000104895261",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712815758"
    }
   },
@@ -63877,6 +63877,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.66363489,
+     -33.75306392
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 GREAT WESTERN HIGHWAY EMU PLAINS 2750",
+    "locID": "LOC000042965377",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW718781152"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.65213819,
      -33.75311989
     ]
@@ -67540,7 +67557,7 @@
     "name": "16B JAMIESON STREET EMU PLAINS 2750",
     "locID": "LOC000181508944",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720016777"
    }
   },

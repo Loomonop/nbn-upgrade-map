@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-17T06:39:32.157292",
+ "generated": "2023-10-07T06:56:18.479124",
  "suburb": "WARNERVALE",
  "features": [
   {
@@ -2803,8 +2803,8 @@
    "properties": {
     "name": "32 WARNERVALE ROAD WARNERVALE 2259",
     "locID": "LOC000046013028",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706231226"
    }
   },
@@ -2820,8 +2820,8 @@
    "properties": {
     "name": "34 WARNERVALE ROAD WARNERVALE 2259",
     "locID": "LOC000004020439",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706231227"
    }
   },
@@ -4994,6 +4994,23 @@
     ]
    },
    "properties": {
+    "name": "LOT 111 VIRGINIA ROAD WARNERVALE 2259",
+    "locID": "Ei8xMTEgVmlyZ2luaWEgUmQsIFdhcm5lcnZhbGUgTlNXIDIyNTksIEF1c3RyYWxpYSIwEi4KFAoSCcF6Azmo0XJrERZj3ZiPg_ofEG8qFAoSCbt7hC4E0XJrEdVIu4rwta_m",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW716693224"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.45843261,
+     -33.24892555
+    ]
+   },
+   "properties": {
     "name": "LOT 136 VIRGINIA ROAD WARNERVALE 2259",
     "locID": "Ei8xMzYgVmlyZ2luaWEgUmQsIFdhcm5lcnZhbGUgTlNXIDIyNTksIEF1c3RyYWxpYSIxEi8KFAoSCYE8W6kH0XJrEfEyaOVnfQETEIgBKhQKEgm7e4QuBNFyaxHVSLuK8LWv5g",
     "tech": "FTTN",
@@ -6203,7 +6220,7 @@
    "properties": {
     "name": "3 BURNET ROAD WARNERVALE 2259",
     "locID": "ChIJLzAVBmPRcmsRGxSHtS4CRi8",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718096086"
    }
@@ -11252,7 +11269,7 @@
    "properties": {
     "name": "30 GALAH DRIVE WARNERVALE 2259",
     "locID": "ChIJTfaLX1fRcmsRuKzUdtJwPdI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721316636"
    }
