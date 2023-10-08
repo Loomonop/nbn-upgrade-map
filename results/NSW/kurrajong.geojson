@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-18T08:30:59.123350",
+ "generated": "2023-10-08T04:49:14.748963",
  "suburb": "KURRAJONG",
  "features": [
   {
@@ -10896,7 +10896,7 @@
     "name": "1224 COMLEROY ROAD KURRAJONG 2758",
     "locID": "LOC000078763658",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707513636"
    }
   },
@@ -12255,8 +12255,8 @@
    "properties": {
     "name": "76 BLAXLANDS RIDGE ROAD KURRAJONG 2758",
     "locID": "LOC000068693279",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW707526887"
    }
   },
@@ -13819,7 +13819,7 @@
    "properties": {
     "name": "223 CEDAR RIDGE ROAD KURRAJONG 2758",
     "locID": "LOC000022417102",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW707562565"
    }
@@ -15240,23 +15240,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.66815997,
-     -33.55737912
-    ]
-   },
-   "properties": {
-    "name": "LOT 103 ROBERTSON STREET KURRAJONG 2758",
-    "locID": "Ei8xMDMgUm9iZXJ0c29uIFN0LCBLdXJyYWpvbmcgTlNXIDI3NTgsIEF1c3RyYWxpYSIwEi4KFAoSCTXhqex5fg1rESFtbOVnfQETEGcqFAoSCdEFN-5wfg1rEeOInvRXmcCF",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GANSW709504617"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.72623879,
      -33.48323681
     ]
@@ -15298,8 +15281,8 @@
    "properties": {
     "name": "369 CEDAR RIDGE ROAD KURRAJONG 2758",
     "locID": "LOC000017364302",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW709507194"
    }
   },

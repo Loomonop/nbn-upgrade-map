@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-18T09:04:17.994482",
+ "generated": "2023-10-08T05:17:00.416676",
  "suburb": "GUILDFORD",
  "features": [
   {
@@ -5405,7 +5405,7 @@
     "name": "19 MERA STREET GUILDFORD 2161",
     "locID": "LOC000053832357",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704893817"
    }
   },
@@ -5456,7 +5456,7 @@
     "name": "21 MERA STREET GUILDFORD 2161",
     "locID": "LOC000084285051",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704893820"
    }
   },
@@ -5473,7 +5473,7 @@
     "name": "23 MERA STREET GUILDFORD 2161",
     "locID": "LOC000091697557",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704893821"
    }
   },
@@ -7988,8 +7988,8 @@
    "properties": {
     "name": "2 WINGELLO STREET GUILDFORD 2161",
     "locID": "LOC000058320443",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704894571"
    }
   },
@@ -13191,7 +13191,7 @@
     "name": "31 MERA STREET GUILDFORD 2161",
     "locID": "LOC000052230690",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704899068"
    }
   },
@@ -16319,7 +16319,7 @@
     "name": "176 HAWKSVIEW STREET GUILDFORD 2161",
     "locID": "LOC000068139278",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704902356"
    }
   },
@@ -23186,8 +23186,8 @@
    "properties": {
     "name": "13 BANGOR STREET GUILDFORD 2161",
     "locID": "LOC000022189093",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704906085"
    }
   },
@@ -30479,8 +30479,8 @@
    "properties": {
     "name": "44 BOLTON STREET GUILDFORD 2161",
     "locID": "LOC000089446429",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704910514"
    }
   },
@@ -35647,8 +35647,8 @@
    "properties": {
     "name": "21 THE ESPLANADE GUILDFORD 2161",
     "locID": "LOC000086368818",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704911564"
    }
   },
@@ -36429,8 +36429,8 @@
    "properties": {
     "name": "18 BERWICK STREET GUILDFORD 2161",
     "locID": "LOC000023844181",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704912043"
    }
   },
@@ -38963,7 +38963,7 @@
     "name": "36 BOWDEN STREET GUILDFORD 2161",
     "locID": "LOC000098352258",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704913835"
    }
   },
@@ -39839,6 +39839,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.9789023,
+     -33.84701958
+    ]
+   },
+   "properties": {
+    "name": "139 CHETWYND ROAD GUILDFORD 2161",
+    "locID": "ChIJC_eAFT-9EmsRw8caRIf_rDw",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW704913902"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.97972563,
      -33.84643573
     ]
@@ -40238,7 +40255,7 @@
     "name": "335 GUILDFORD ROAD GUILDFORD 2161",
     "locID": "LOC000104302149",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704913934"
    }
   },
@@ -49308,6 +49325,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.98541664,
+     -33.84858382
+    ]
+   },
+   "properties": {
+    "name": "22 O'NEILL STREET GUILDFORD 2161",
+    "locID": "LOC000061894953",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW704917331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.98464519,
      -33.84867328
     ]
@@ -49945,7 +49979,7 @@
     "name": "20 ROSEBERY ROAD GUILDFORD 2161",
     "locID": "LOC000040243170",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704917369"
    }
   },
@@ -52171,8 +52205,8 @@
    "properties": {
     "name": "18 CHILTERN ROAD GUILDFORD 2161",
     "locID": "LOC000059009658",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704921501"
    }
   },
@@ -54195,7 +54229,7 @@
     "name": "2 CLEMENT STREET GUILDFORD 2161",
     "locID": "LOC000018928603",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704924164"
    }
   },
@@ -59295,7 +59329,7 @@
     "name": "2 NADIA PLACE GUILDFORD 2161",
     "locID": "LOC000046756600",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707492898"
    }
   },
@@ -66452,7 +66486,7 @@
     "name": "35 STRICKLAND ROAD GUILDFORD 2161",
     "locID": "LOC000098837507",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW707511622"
    }
   },
@@ -69036,7 +69070,7 @@
     "name": "17 KIRK AVENUE GUILDFORD 2161",
     "locID": "LOC000072573335",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707518905"
    }
   },
@@ -69104,7 +69138,7 @@
     "name": "33 KIRK AVENUE GUILDFORD 2161",
     "locID": "LOC000025461747",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW707518909"
    }
   },
@@ -89504,7 +89538,7 @@
     "name": "380 GUILDFORD ROAD GUILDFORD 2161",
     "locID": "LOC000020440374",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711193236"
    }
   },
@@ -97187,8 +97221,8 @@
    "properties": {
     "name": "21 GUERNSEY STREET GUILDFORD 2161",
     "locID": "LOC000120152009",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW711218148"
    }
   },
@@ -139892,7 +139926,7 @@
     "name": "28A WYNYARD STREET GUILDFORD 2161",
     "locID": "LOC000161455613",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718510947"
    }
   },
@@ -142918,7 +142952,7 @@
     "name": "31A KIRK AVENUE GUILDFORD 2161",
     "locID": "LOC000161467014",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718645943"
    }
   },
@@ -165290,7 +165324,7 @@
     "name": "34A HINCHEN STREET GUILDFORD 2161",
     "locID": "LOC000176622420",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720791488"
    }
   },
