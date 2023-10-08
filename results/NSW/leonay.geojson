@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T01:42:35.195729",
+ "generated": "2023-10-08T22:40:16.481559",
  "suburb": "LEONAY",
  "features": [
   {
@@ -32,8 +32,8 @@
    "properties": {
     "name": "26 CURRAWONG CRESCENT LEONAY 2750",
     "locID": "LOC000070960481",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705186248"
    }
   },
@@ -6883,8 +6883,8 @@
    "properties": {
     "name": "7 DRYAD PLACE LEONAY 2750",
     "locID": "LOC000010117055",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705194071"
    }
   },
@@ -7362,6 +7362,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705195219"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.65032049,
+     -33.76903446
+    ]
+   },
+   "properties": {
+    "name": "26 PARKLANDS AVENUE LEONAY 2750",
+    "locID": "LOC000095770623",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW705195220"
    }
   },
   {
@@ -11745,8 +11762,8 @@
    "properties": {
     "name": "35 CLIFFBROOK CRESCENT LEONAY 2750",
     "locID": "LOC000034853721",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705206946"
    }
   },
@@ -13360,8 +13377,8 @@
    "properties": {
     "name": "188 NEPEAN STREET SOUTH LEONAY 2750",
     "locID": "LOC000084535063",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW712851237"
    }
   },
