@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-18T23:24:24.921523",
+ "generated": "2023-10-08T20:24:13.993570",
  "suburb": "OLD GUILDFORD",
  "features": [
   {
@@ -951,7 +951,7 @@
     "name": "170 ORCHARDLEIGH STREET OLD GUILDFORD 2161",
     "locID": "LOC000032140637",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705570806"
    }
   },
@@ -3891,8 +3891,8 @@
    "properties": {
     "name": "111 THE PROMENADE OLD GUILDFORD 2161",
     "locID": "LOC000058899384",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705608261"
    }
   },
@@ -5492,6 +5492,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706516251"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.98295819,
+     -33.85920873
+    ]
+   },
+   "properties": {
+    "name": "91 HENRY STREET OLD GUILDFORD 2161",
+    "locID": "LOC000193630740",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706516252"
    }
   },
   {
