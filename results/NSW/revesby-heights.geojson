@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-18T05:43:06.377272",
+ "generated": "2023-10-08T02:10:31.824882",
  "suburb": "REVESBY HEIGHTS",
  "features": [
   {
@@ -3483,8 +3483,8 @@
    "properties": {
     "name": "8 SANDAKAN ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000044347343",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW706442874"
    }
   },
@@ -3775,23 +3775,6 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706442958"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.01731999,
-     -33.96571641
-    ]
-   },
-   "properties": {
-    "name": "15 MOROTAI ROAD REVESBY HEIGHTS 2212",
-    "locID": "LOC000110095154",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706442959"
    }
   },
   {
@@ -4435,8 +4418,8 @@
    "properties": {
     "name": "54 MOROTAI ROAD REVESBY HEIGHTS 2212",
     "locID": "LOC000059790232",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW706443001"
    }
   },
@@ -5201,7 +5184,7 @@
     "name": "121 CENTAUR STREET REVESBY HEIGHTS 2212",
     "locID": "LOC000037315696",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706453191"
    }
   },
@@ -5558,7 +5541,7 @@
     "name": "122 CENTAUR STREET REVESBY HEIGHTS 2212",
     "locID": "LOC000109464006",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706456390"
    }
   },
@@ -9774,7 +9757,7 @@
     "name": "42 BARDO CIRCUIT REVESBY HEIGHTS 2212",
     "locID": "LOC000115341962",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718185730"
    }
   },
