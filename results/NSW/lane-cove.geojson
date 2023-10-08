@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T01:04:50.014327",
+ "generated": "2023-10-08T21:56:38.990597",
  "suburb": "LANE COVE",
  "features": [
   {
@@ -169,7 +169,7 @@
     "name": "20 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000065064349",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705146229"
    }
   },
@@ -440,7 +440,7 @@
    "properties": {
     "name": "175A BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000190374777",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705146840"
    }
@@ -458,7 +458,7 @@
     "name": "175 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000189268300",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705146841"
    }
   },
@@ -491,7 +491,7 @@
    "properties": {
     "name": "177 BURNS BAY ROAD LANE COVE 2066",
     "locID": "ChIJL6rl5mmvEmsRM7yHI44umtE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705146843"
    }
@@ -525,7 +525,7 @@
    "properties": {
     "name": "179 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000190374777",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705146845"
    }
@@ -559,8 +559,8 @@
    "properties": {
     "name": "180 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000072172611",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705146847"
    }
   },
@@ -781,7 +781,7 @@
     "name": "158 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000065068092",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705148412"
    }
   },
@@ -3059,7 +3059,7 @@
     "name": "98 CENTENNIAL AVENUE LANE COVE 2066",
     "locID": "LOC000007359264",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705159498"
    }
   },
@@ -3807,7 +3807,7 @@
     "name": "1 SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000022386930",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705159689"
    }
   },
@@ -4725,7 +4725,7 @@
     "name": "9 FOX STREET LANE COVE 2066",
     "locID": "LOC000025899535",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705159874"
    }
   },
@@ -4759,7 +4759,7 @@
     "name": "150 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000113829022",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705159883"
    }
   },
@@ -4810,7 +4810,7 @@
     "name": "156 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000070344865",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705159886"
    }
   },
@@ -5101,40 +5101,6 @@
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705160277"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.17047528,
-     -33.82132953
-    ]
-   },
-   "properties": {
-    "name": "211A LONGUEVILLE ROAD LANE COVE 2066",
-    "locID": "LOC000038121535",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705160297"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.17043617,
-     -33.82126779
-    ]
-   },
-   "properties": {
-    "name": "211 LONGUEVILLE ROAD LANE COVE 2066",
-    "locID": "LOC000038461938",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705160298"
    }
   },
   {
@@ -5507,7 +5473,7 @@
     "name": "20 TROUVE STREET LANE COVE 2066",
     "locID": "LOC000097244554",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705160457"
    }
   },
@@ -6459,7 +6425,7 @@
     "name": "154 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000158488874",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705160656"
    }
   },
@@ -7343,7 +7309,7 @@
     "name": "7 ZETA ROAD LANE COVE 2066",
     "locID": "LOC000069229264",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705161161"
    }
   },
@@ -7632,7 +7598,7 @@
     "name": "4 BETA ROAD LANE COVE 2066",
     "locID": "LOC000045243322",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162059"
    }
   },
@@ -7700,7 +7666,7 @@
     "name": "6 BETA ROAD LANE COVE 2066",
     "locID": "LOC000092264360",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162063"
    }
   },
@@ -7768,7 +7734,7 @@
     "name": "1 BIRDWOOD AVENUE LANE COVE 2066",
     "locID": "LOC000098138501",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162067"
    }
   },
@@ -9366,7 +9332,7 @@
     "name": "UNIT 1, 5A SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000036968436",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162318"
    }
   },
@@ -9383,7 +9349,7 @@
     "name": "UNIT 2, 5A SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000037378821",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162319"
    }
   },
@@ -9400,7 +9366,7 @@
     "name": "5A SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000036968436",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162320"
    }
   },
@@ -9417,7 +9383,7 @@
     "name": "5 SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000037317954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162321"
    }
   },
@@ -9893,7 +9859,7 @@
     "name": "221 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000046380402",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705162956"
    }
   },
@@ -10505,7 +10471,7 @@
     "name": "1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705163165"
    }
   },
@@ -13072,7 +13038,7 @@
     "name": "37 TAMBOURINE BAY ROAD LANE COVE 2066",
     "locID": "LOC000181667551",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705165352"
    }
   },
@@ -18733,7 +18699,7 @@
     "name": "3 KIMBERLEY AVENUE LANE COVE 2066",
     "locID": "LOC000158511080",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705167377"
    }
   },
@@ -19276,8 +19242,8 @@
    "properties": {
     "name": "196 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000004616877",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705167729"
    }
   },
@@ -19855,7 +19821,7 @@
     "name": "205 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000051441298",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705167829"
    }
   },
@@ -19872,7 +19838,7 @@
     "name": "UNIT 1, 206 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000081847556",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705167830"
    }
   },
@@ -19906,7 +19872,7 @@
     "name": "43 RIVER ROAD WEST LANE COVE 2066",
     "locID": "LOC000072392236",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705167917"
    }
   },
@@ -20756,7 +20722,7 @@
     "name": "300 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000158492519",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705167980"
    }
   },
@@ -20892,7 +20858,7 @@
     "name": "38 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000188703675",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705168020"
    }
   },
@@ -24411,7 +24377,7 @@
     "name": "15 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000158488793",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705169896"
    }
   },
@@ -25193,7 +25159,7 @@
     "name": "UNIT 3, 63 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000042883581",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170016"
    }
   },
@@ -25210,7 +25176,7 @@
     "name": "UNIT 4, 63 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000042652787",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170017"
    }
   },
@@ -25227,7 +25193,7 @@
     "name": "63 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000042652787",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170018"
    }
   },
@@ -26315,7 +26281,7 @@
     "name": "UNIT 2, 206 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000081308148",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170434"
    }
   },
@@ -26332,7 +26298,7 @@
     "name": "UNIT 3, 206 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000081215464",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170435"
    }
   },
@@ -26349,7 +26315,7 @@
     "name": "UNIT 4, 206 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000081308148",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170436"
    }
   },
@@ -26366,7 +26332,7 @@
     "name": "206 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000081308148",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170437"
    }
   },
@@ -26383,7 +26349,7 @@
     "name": "208 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000009566713",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705170438"
    }
   },
@@ -29205,7 +29171,7 @@
     "name": "12 GATACRE AVENUE LANE COVE 2066",
     "locID": "LOC000042607180",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705171387"
    }
   },
@@ -32027,7 +31993,7 @@
     "name": "34 COPE STREET LANE COVE 2066",
     "locID": "LOC000002181307",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705173732"
    }
   },
@@ -32316,7 +32282,7 @@
     "name": "UNIT 12, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705173758"
    }
   },
@@ -32333,7 +32299,7 @@
     "name": "40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705173767"
    }
   },
@@ -32672,8 +32638,8 @@
    "properties": {
     "name": "50 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000069070604",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705173806"
    }
   },
@@ -33352,8 +33318,8 @@
    "properties": {
     "name": "7A PENROSE STREET LANE COVE 2066",
     "locID": "LOC000003162001",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705174723"
    }
   },
@@ -35223,7 +35189,7 @@
     "name": "1 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000040063544",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705175633"
    }
   },
@@ -35376,7 +35342,7 @@
     "name": "24 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000101998007",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705175642"
    }
   },
@@ -35495,7 +35461,7 @@
     "name": "36 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000040063544",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705175651"
    }
   },
@@ -35546,7 +35512,7 @@
     "name": "UNIT 1, 40 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000095809749",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705175654"
    }
   },
@@ -35563,7 +35529,7 @@
     "name": "UNIT 2, 40 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000094657996",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705175655"
    }
   },
@@ -35580,7 +35546,7 @@
     "name": "UNIT 3, 40 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000095665886",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705175656"
    }
   },
@@ -35597,7 +35563,7 @@
     "name": "40 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000095809749",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705175657"
    }
   },
@@ -35699,7 +35665,7 @@
     "name": "39 FOX STREET LANE COVE 2066",
     "locID": "LOC000022121749",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705175668"
    }
   },
@@ -35767,7 +35733,7 @@
     "name": "10 GAMMA ROAD LANE COVE 2066",
     "locID": "LOC000011280294",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705175679"
    }
   },
@@ -35851,8 +35817,8 @@
    "properties": {
     "name": "2 GAMMA ROAD LANE COVE 2066",
     "locID": "LOC000102043018",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705175684"
    }
   },
@@ -37467,7 +37433,7 @@
     "name": "UNIT 1, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000004090203",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176415"
    }
   },
@@ -37484,7 +37450,7 @@
     "name": "UNIT 2, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000003808002",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176416"
    }
   },
@@ -37501,7 +37467,7 @@
     "name": "UNIT 3, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000004161561",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176417"
    }
   },
@@ -37569,7 +37535,7 @@
     "name": "130-132 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000015979695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176463"
    }
   },
@@ -37620,7 +37586,7 @@
     "name": "136 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000027466992",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176467"
    }
   },
@@ -37654,7 +37620,7 @@
     "name": "138 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000002419072",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176469"
    }
   },
@@ -37773,7 +37739,7 @@
     "name": "145-153 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000074719657",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176478"
    }
   },
@@ -37790,7 +37756,7 @@
     "name": "146 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000158511843",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176479"
    }
   },
@@ -37807,7 +37773,7 @@
     "name": "148 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000099657865",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176480"
    }
   },
@@ -38095,8 +38061,8 @@
    "properties": {
     "name": "58 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000004118777",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705176570"
    }
   },
@@ -38538,7 +38504,7 @@
     "name": "UNIT 2, 36 SUTHERLAND STREET LANE COVE 2066",
     "locID": "LOC000010534073",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176630"
    }
   },
@@ -38555,7 +38521,7 @@
     "name": "36 SUTHERLAND STREET LANE COVE 2066",
     "locID": "LOC000010956217",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705176631"
    }
   },
@@ -38691,7 +38657,7 @@
     "name": "60 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000181494443",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705177102"
    }
   },
@@ -38725,7 +38691,7 @@
     "name": "UNIT 1, 63 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000042968072",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705177104"
    }
   },
@@ -38742,7 +38708,7 @@
     "name": "UNIT 2, 63 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000042652787",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705177105"
    }
   },
@@ -40051,7 +40017,7 @@
     "name": "47 PENROSE STREET LANE COVE 2066",
     "locID": "LOC000078350507",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705177954"
    }
   },
@@ -40323,7 +40289,7 @@
     "name": "244 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000181654873",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705178156"
    }
   },
@@ -40884,7 +40850,7 @@
     "name": "266 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000078194790",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705178235"
    }
   },
@@ -40952,7 +40918,7 @@
     "name": "272 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000029061297",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705178242"
    }
   },
@@ -41887,7 +41853,7 @@
     "name": "158 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000158512137",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705179057"
    }
   },
@@ -42040,7 +42006,7 @@
     "name": "UNIT 1, 2A MORRICE STREET LANE COVE 2066",
     "locID": "LOC000012093255",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705179102"
    }
   },
@@ -42057,7 +42023,7 @@
     "name": "UNIT 2, 2A MORRICE STREET LANE COVE 2066",
     "locID": "LOC000012411246",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705179103"
    }
   },
@@ -42465,7 +42431,7 @@
     "name": "36 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000002229741",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705179128"
    }
   },
@@ -43042,8 +43008,8 @@
    "properties": {
     "name": "14 TAMBOURINE BAY ROAD LANE COVE 2066",
     "locID": "LOC000093412325",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705179954"
    }
   },
@@ -43638,7 +43604,7 @@
     "name": "UNIT 1, 4 AUSTIN CRESCENT LANE COVE 2066",
     "locID": "LOC000102460884",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705180806"
    }
   },
@@ -43655,7 +43621,7 @@
     "name": "UNIT 2, 4 AUSTIN CRESCENT LANE COVE 2066",
     "locID": "LOC000103036515",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705180807"
    }
   },
@@ -43706,7 +43672,7 @@
     "name": "11 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000053191056",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705180811"
    }
   },
@@ -44726,7 +44692,7 @@
     "name": "5 GENTLE STREET LANE COVE 2066",
     "locID": "LOC000004169426",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705181615"
    }
   },
@@ -45729,7 +45695,7 @@
     "name": "189 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000041192482",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705181713"
    }
   },
@@ -45814,7 +45780,7 @@
     "name": "8 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000071441910",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705181740"
    }
   },
@@ -46018,7 +45984,7 @@
     "name": "80 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000119597951",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182060"
    }
   },
@@ -46187,8 +46153,8 @@
    "properties": {
     "name": "30 SUTHERLAND STREET LANE COVE 2066",
     "locID": "LOC000058168694",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705182491"
    }
   },
@@ -46290,7 +46256,7 @@
     "name": "UNIT 1, 36 SUTHERLAND STREET LANE COVE 2066",
     "locID": "LOC000010956217",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182497"
    }
   },
@@ -46375,7 +46341,7 @@
     "name": "8 SUTHERLAND STREET LANE COVE 2066",
     "locID": "LOC000066358651",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182525"
    }
   },
@@ -47089,7 +47055,7 @@
     "name": "UNIT 4, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000003831686",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182808"
    }
   },
@@ -47106,7 +47072,7 @@
     "name": "UNIT 5, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000003835047",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182809"
    }
   },
@@ -47123,7 +47089,7 @@
     "name": "UNIT 6, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000003747763",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182810"
    }
   },
@@ -47140,7 +47106,7 @@
     "name": "UNIT 7, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000004026702",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182811"
    }
   },
@@ -47157,7 +47123,7 @@
     "name": "UNIT 8, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000003825615",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182812"
    }
   },
@@ -47174,7 +47140,7 @@
     "name": "UNIT 9, 59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000003906463",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705182813"
    }
   },
@@ -47429,7 +47395,7 @@
     "name": "11 AUSTIN CRESCENT LANE COVE 2066",
     "locID": "LOC000158487036",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705183403"
    }
   },
@@ -47973,7 +47939,7 @@
     "name": "28 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000089488736",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705183455"
    }
   },
@@ -49009,8 +48975,8 @@
    "properties": {
     "name": "100 CENTENNIAL AVENUE LANE COVE 2066",
     "locID": "LOC000098512238",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705184182"
    }
   },
@@ -49231,7 +49197,7 @@
     "name": "1 GRAHAM STREET LANE COVE 2066",
     "locID": "LOC000028704052",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705184248"
    }
   },
@@ -49248,7 +49214,7 @@
     "name": "UNIT 1, 5 GRAHAM STREET LANE COVE 2066",
     "locID": "LOC000103368966",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705184249"
    }
   },
@@ -49265,7 +49231,7 @@
     "name": "UNIT 2, 5 GRAHAM STREET LANE COVE 2066",
     "locID": "LOC000103259966",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705184250"
    }
   },
@@ -50047,7 +50013,7 @@
     "name": "23 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000020642597",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705184589"
    }
   },
@@ -50625,7 +50591,7 @@
     "name": "87 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000061742481",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705184688"
    }
   },
@@ -50880,7 +50846,7 @@
     "name": "95 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000017969794",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705184741"
    }
   },
@@ -51118,7 +51084,7 @@
     "name": "195 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000038732827",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705185010"
    }
   },
@@ -52138,7 +52104,7 @@
     "name": "34A LITTLE STREET LANE COVE 2066",
     "locID": "LOC000045350781",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705187237"
    }
   },
@@ -52444,7 +52410,7 @@
     "name": "16 NORTHWOOD ROAD LANE COVE 2066",
     "locID": "LOC000158492629",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706495891"
    }
   },
@@ -52580,7 +52546,7 @@
     "name": "UNIT 2, 34 NORTHWOOD ROAD LANE COVE 2066",
     "locID": "LOC000093337709",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706496604"
    }
   },
@@ -52597,7 +52563,7 @@
     "name": "UNIT 1, 34 NORTHWOOD ROAD LANE COVE 2066",
     "locID": "LOC000092972905",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706496605"
    }
   },
@@ -52682,7 +52648,7 @@
     "name": "UNIT 2, 196 RIVER ROAD LANE COVE 2066",
     "locID": "LOC000008218975",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706499974"
    }
   },
@@ -52699,7 +52665,7 @@
     "name": "UNIT 1, 196 RIVER ROAD LANE COVE 2066",
     "locID": "LOC000008303876",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706499975"
    }
   },
@@ -52886,7 +52852,7 @@
     "name": "4 AUSTIN CRESCENT LANE COVE 2066",
     "locID": "LOC000103036515",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW707503585"
    }
   },
@@ -52903,7 +52869,7 @@
     "name": "59-61 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000003835047",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW707506850"
    }
   },
@@ -52971,7 +52937,7 @@
     "name": "5 GRAHAM STREET LANE COVE 2066",
     "locID": "LOC000103368966",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW707562512"
    }
   },
@@ -54501,7 +54467,7 @@
     "name": "UNIT 1, 150 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000042613660",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW708141524"
    }
   },
@@ -54518,7 +54484,7 @@
     "name": "UNIT 3, 7 ZETA ROAD LANE COVE 2066",
     "locID": "LOC000068627614",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW708142807"
    }
   },
@@ -54535,7 +54501,7 @@
     "name": "UNIT 1, 7 ZETA ROAD LANE COVE 2066",
     "locID": "LOC000069263108",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW708142810"
    }
   },
@@ -54552,7 +54518,7 @@
     "name": "UNIT 2, 7 ZETA ROAD LANE COVE 2066",
     "locID": "LOC000069229264",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW708142811"
    }
   },
@@ -54637,7 +54603,7 @@
     "name": "UNIT 2, 154 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000053348833",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW708146400"
    }
   },
@@ -56099,7 +56065,7 @@
     "name": "UNIT 30, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710611535"
    }
   },
@@ -56320,7 +56286,7 @@
     "name": "UNIT 23, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710612457"
    }
   },
@@ -56371,7 +56337,7 @@
     "name": "UNIT 37, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710612460"
    }
   },
@@ -56422,7 +56388,7 @@
     "name": "UNIT 13, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710612464"
    }
   },
@@ -56439,7 +56405,7 @@
     "name": "UNIT 31, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710612466"
    }
   },
@@ -56881,7 +56847,7 @@
     "name": "UNIT 29, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710614669"
    }
   },
@@ -57391,7 +57357,7 @@
     "name": "SHOP 1, 15 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000158488803",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710614963"
    }
   },
@@ -57629,7 +57595,7 @@
     "name": "SHOP 2, 158 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000041745636",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710615567"
    }
   },
@@ -57697,7 +57663,7 @@
     "name": "UNIT 1, 12 GATACRE AVENUE LANE COVE 2066",
     "locID": "LOC000042914994",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710615604"
    }
   },
@@ -57714,7 +57680,7 @@
     "name": "UNIT 2, 12 GATACRE AVENUE LANE COVE 2066",
     "locID": "LOC000042607180",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710615606"
    }
   },
@@ -58105,7 +58071,7 @@
     "name": "132 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000015979695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710616112"
    }
   },
@@ -58615,7 +58581,7 @@
     "name": "UNIT 1, 4 BETA ROAD LANE COVE 2066",
     "locID": "LOC000045243322",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710616704"
    }
   },
@@ -60145,7 +60111,7 @@
     "name": "SHOP 1, 136 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000027466992",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710617638"
    }
   },
@@ -60264,7 +60230,7 @@
     "name": "UNIT 1, 18A BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000017187612",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710617659"
    }
   },
@@ -60536,7 +60502,7 @@
     "name": "UNIT 26, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618083"
    }
   },
@@ -60570,7 +60536,7 @@
     "name": "UNIT 22, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618086"
    }
   },
@@ -60791,7 +60757,7 @@
     "name": "UNIT 2, 24 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000101998007",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618129"
    }
   },
@@ -60808,7 +60774,7 @@
     "name": "UNIT 1, 36 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000040063544",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618131"
    }
   },
@@ -61063,7 +61029,7 @@
     "name": "UNIT 1, 158 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000065068092",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618324"
    }
   },
@@ -61080,7 +61046,7 @@
     "name": "UNIT 2, 158 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000065072142",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618325"
    }
   },
@@ -61522,7 +61488,7 @@
     "name": "SHOP 1, 156 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000069448407",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618510"
    }
   },
@@ -61607,7 +61573,7 @@
     "name": "UNIT 33, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618752"
    }
   },
@@ -61658,7 +61624,7 @@
     "name": "UNIT 39, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710618758"
    }
   },
@@ -62032,7 +61998,7 @@
     "name": "UNIT 2, 95 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000018031658",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710619197"
    }
   },
@@ -62117,7 +62083,7 @@
     "name": "UNIT 1, 148 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000099657865",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710619203"
    }
   },
@@ -62134,7 +62100,7 @@
     "name": "UNIT 2, 189 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000041192482",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710619206"
    }
   },
@@ -62185,7 +62151,7 @@
     "name": "UNIT 1, 11 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000053174895",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710619211"
    }
   },
@@ -62202,7 +62168,7 @@
     "name": "UNIT 2, 11 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000053191056",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710619212"
    }
   },
@@ -64140,7 +64106,7 @@
     "name": "SHOP 2, 20 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000064860616",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710620862"
    }
   },
@@ -64616,7 +64582,7 @@
     "name": "UNIT 1, 34 COPE STREET LANE COVE 2066",
     "locID": "LOC000002181307",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710621512"
    }
   },
@@ -65466,7 +65432,7 @@
     "name": "UNIT 17, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710622174"
    }
   },
@@ -68475,7 +68441,7 @@
     "name": "UNIT 2, 5 SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000037317954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710623634"
    }
   },
@@ -68492,7 +68458,7 @@
     "name": "UNIT 2, 1 SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000022386930",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710623636"
    }
   },
@@ -68832,7 +68798,7 @@
     "name": "UNIT M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710624220"
    }
   },
@@ -68968,7 +68934,7 @@
     "name": "UNIT 15, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710624234"
    }
   },
@@ -68985,7 +68951,7 @@
     "name": "UNIT 16, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710624236"
    }
   },
@@ -69920,7 +69886,7 @@
     "name": "27A FOX STREET LANE COVE 2066",
     "locID": "LOC000158510735",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625153"
    }
   },
@@ -70158,7 +70124,7 @@
     "name": "UNIT 2, 36 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000040063544",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625404"
    }
   },
@@ -70175,7 +70141,7 @@
     "name": "UNIT 1, 24 DORRITT STREET LANE COVE 2066",
     "locID": "LOC000101998007",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625406"
    }
   },
@@ -70192,7 +70158,7 @@
     "name": "UNIT 13M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625420"
    }
   },
@@ -70226,7 +70192,7 @@
     "name": "UNIT 14M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625422"
    }
   },
@@ -70243,7 +70209,7 @@
     "name": "UNIT 15M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625423"
    }
   },
@@ -70260,7 +70226,7 @@
     "name": "UNIT 16M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625424"
    }
   },
@@ -70277,7 +70243,7 @@
     "name": "UNIT 17M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625425"
    }
   },
@@ -70311,7 +70277,7 @@
     "name": "12 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000158488803",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625630"
    }
   },
@@ -70855,7 +70821,7 @@
     "name": "18A BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000017187612",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710625907"
    }
   },
@@ -72011,7 +71977,7 @@
     "name": "UNIT 2, 6 BRIDGE STREET LANE COVE 2066",
     "locID": "LOC000057771626",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626109"
    }
   },
@@ -72028,7 +71994,7 @@
     "name": "UNIT 1, 6 BRIDGE STREET LANE COVE 2066",
     "locID": "LOC000057849643",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626110"
    }
   },
@@ -72045,7 +72011,7 @@
     "name": "UNIT 5, 63 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000042652787",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626123"
    }
   },
@@ -72130,7 +72096,7 @@
     "name": "UNIT 4, 60 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000181494443",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626135"
    }
   },
@@ -72198,7 +72164,7 @@
     "name": "UNIT 3, 60 FINLAYSON STREET LANE COVE 2066",
     "locID": "LOC000181494443",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626143"
    }
   },
@@ -72436,7 +72402,7 @@
     "name": "UNIT 2, 34 COPE STREET LANE COVE 2066",
     "locID": "LOC000002376591",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626293"
    }
   },
@@ -72572,7 +72538,7 @@
     "name": "UNIT 1M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626422"
    }
   },
@@ -72606,7 +72572,7 @@
     "name": "UNIT 1G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626538"
    }
   },
@@ -72623,7 +72589,7 @@
     "name": "UNIT 2M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626539"
    }
   },
@@ -72640,7 +72606,7 @@
     "name": "UNIT 2G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626540"
    }
   },
@@ -72657,7 +72623,7 @@
     "name": "UNIT 3G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626541"
    }
   },
@@ -72674,7 +72640,7 @@
     "name": "UNIT 3M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626542"
    }
   },
@@ -72691,7 +72657,7 @@
     "name": "UNIT 4G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626543"
    }
   },
@@ -72708,7 +72674,7 @@
     "name": "UNIT 4M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626544"
    }
   },
@@ -72725,7 +72691,7 @@
     "name": "UNIT 5M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626545"
    }
   },
@@ -72742,7 +72708,7 @@
     "name": "UNIT 5G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626546"
    }
   },
@@ -72759,7 +72725,7 @@
     "name": "UNIT 6M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626547"
    }
   },
@@ -72776,7 +72742,7 @@
     "name": "UNIT 7M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626548"
    }
   },
@@ -72793,7 +72759,7 @@
     "name": "UNIT 7G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626549"
    }
   },
@@ -72810,7 +72776,7 @@
     "name": "UNIT 8M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626550"
    }
   },
@@ -72827,7 +72793,7 @@
     "name": "UNIT 8G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626551"
    }
   },
@@ -72844,7 +72810,7 @@
     "name": "UNIT 9G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626552"
    }
   },
@@ -72861,7 +72827,7 @@
     "name": "UNIT 9M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626553"
    }
   },
@@ -72878,7 +72844,7 @@
     "name": "UNIT 10M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626554"
    }
   },
@@ -72895,7 +72861,7 @@
     "name": "UNIT 12D, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626555"
    }
   },
@@ -72912,7 +72878,7 @@
     "name": "UNIT 12M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710626556"
    }
   },
@@ -73592,7 +73558,7 @@
     "name": "SHOP 1, 87 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000061146730",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710627442"
    }
   },
@@ -73609,7 +73575,7 @@
     "name": "SHOP 1, 95 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000017969794",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710627444"
    }
   },
@@ -73932,7 +73898,7 @@
     "name": "UNIT 1, 1 SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000022386930",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710628548"
    }
   },
@@ -73949,7 +73915,7 @@
     "name": "UNIT 1, 5 SEVILLE STREET LANE COVE 2066",
     "locID": "LOC000037317954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710628549"
    }
   },
@@ -74680,7 +74646,7 @@
     "name": "UNIT 1, 189 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000041192482",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710628918"
    }
   },
@@ -74816,7 +74782,7 @@
     "name": "123 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000099408467",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710629513"
    }
   },
@@ -77213,7 +77179,7 @@
     "name": "UNIT 2, 43 RIVER ROAD WEST LANE COVE 2066",
     "locID": "LOC000072392236",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710631779"
    }
   },
@@ -77230,7 +77196,7 @@
     "name": "UNIT 1, 43 RIVER ROAD WEST LANE COVE 2066",
     "locID": "LOC000072392236",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710631782"
    }
   },
@@ -77570,7 +77536,7 @@
     "name": "UNIT 1, 8 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000071441910",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710631935"
    }
   },
@@ -77587,7 +77553,7 @@
     "name": "UNIT 2, 2 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000012240574",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710631937"
    }
   },
@@ -77961,7 +77927,7 @@
     "name": "UNIT 2, 20 TROUVE STREET LANE COVE 2066",
     "locID": "LOC000097244554",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710634541"
    }
   },
@@ -77995,7 +77961,7 @@
     "name": "UNIT 1, 20 TROUVE STREET LANE COVE 2066",
     "locID": "LOC000099214223",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710634543"
    }
   },
@@ -78403,7 +78369,7 @@
     "name": "UNIT 1, 2 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000012380511",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710636039"
    }
   },
@@ -78437,7 +78403,7 @@
     "name": "UNIT 2, 8 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000071441910",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710636045"
    }
   },
@@ -79678,7 +79644,7 @@
     "name": "UNIT 1, 36 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000002229741",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710637815"
    }
   },
@@ -79695,7 +79661,7 @@
     "name": "UNIT 2, 36 MORRICE STREET LANE COVE 2066",
     "locID": "LOC000002366750",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710637816"
    }
   },
@@ -80664,7 +80630,7 @@
     "name": "SHOP 13, 115-119 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000093821782",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710638785"
    }
   },
@@ -81905,7 +81871,7 @@
     "name": "UNIT 1, 1 GRAHAM STREET LANE COVE 2066",
     "locID": "LOC000028999984",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710639798"
    }
   },
@@ -81922,7 +81888,7 @@
     "name": "UNIT 2, 1 GRAHAM STREET LANE COVE 2066",
     "locID": "LOC000028999984",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710639799"
    }
   },
@@ -81939,7 +81905,7 @@
     "name": "2 GRAHAM STREET LANE COVE 2066",
     "locID": "LOC000103259966",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710639801"
    }
   },
@@ -82279,7 +82245,7 @@
     "name": "UNIT 6G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW713077976"
    }
   },
@@ -82296,7 +82262,7 @@
     "name": "UNIT 11M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW713077977"
    }
   },
@@ -82517,7 +82483,7 @@
     "name": "UNIT 2, 4 BETA ROAD LANE COVE 2066",
     "locID": "LOC000045243322",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW713091637"
    }
   },
@@ -82602,7 +82568,7 @@
     "name": "UNIT 18M, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW713105086"
    }
   },
@@ -82840,7 +82806,7 @@
     "name": "196 RIVER ROAD LANE COVE 2066",
     "locID": "LOC000008218975",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715233516"
    }
   },
@@ -82874,7 +82840,7 @@
     "name": "34 NORTHWOOD ROAD LANE COVE 2066",
     "locID": "LOC000092972905",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715233576"
    }
   },
@@ -82891,7 +82857,7 @@
     "name": "UNIT 1, 28 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000089488736",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715355390"
    }
   },
@@ -82908,7 +82874,7 @@
     "name": "UNIT 2, 28 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000089218214",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715355391"
    }
   },
@@ -82925,7 +82891,7 @@
     "name": "UNIT 3, 28 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000089548965",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715355392"
    }
   },
@@ -82942,7 +82908,7 @@
     "name": "UNIT 4, 28 AUSTIN STREET LANE COVE 2066",
     "locID": "LOC000089456879",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715355393"
    }
   },
@@ -83979,7 +83945,7 @@
     "name": "UNIT 1, 9 FOX STREET LANE COVE 2066",
     "locID": "LOC000025856770",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715371087"
    }
   },
@@ -83996,7 +83962,7 @@
     "name": "UNIT 2, 9 FOX STREET LANE COVE 2066",
     "locID": "LOC000025899535",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715371088"
    }
   },
@@ -84013,7 +83979,7 @@
     "name": "UNIT 3, 9 FOX STREET LANE COVE 2066",
     "locID": "LOC000025647470",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715371089"
    }
   },
@@ -84030,7 +83996,7 @@
     "name": "UNIT 4, 9 FOX STREET LANE COVE 2066",
     "locID": "LOC000025466217",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715371090"
    }
   },
@@ -85016,7 +84982,7 @@
     "name": "UNIT 19, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391414"
    }
   },
@@ -85033,7 +84999,7 @@
     "name": "UNIT 20, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391415"
    }
   },
@@ -85050,7 +85016,7 @@
     "name": "UNIT 21, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391416"
    }
   },
@@ -85067,7 +85033,7 @@
     "name": "UNIT 25, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391417"
    }
   },
@@ -85084,7 +85050,7 @@
     "name": "UNIT 27, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391418"
    }
   },
@@ -85101,7 +85067,7 @@
     "name": "UNIT 28, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391419"
    }
   },
@@ -85118,7 +85084,7 @@
     "name": "UNIT 32, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391420"
    }
   },
@@ -85135,7 +85101,7 @@
     "name": "UNIT 34, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391421"
    }
   },
@@ -85152,7 +85118,7 @@
     "name": "UNIT 35, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391422"
    }
   },
@@ -85169,7 +85135,7 @@
     "name": "UNIT 36, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391423"
    }
   },
@@ -85186,7 +85152,7 @@
     "name": "UNIT 38, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716391424"
    }
   },
@@ -85288,7 +85254,7 @@
     "name": "UNIT 24, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716467224"
    }
   },
@@ -85407,7 +85373,7 @@
     "name": "UNIT 1, 16 NORTHWOOD ROAD LANE COVE 2066",
     "locID": "LOC000158492629",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716568293"
    }
   },
@@ -85713,7 +85679,7 @@
     "name": "SUITE 2, 130 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000015975662",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716671806"
    }
   },
@@ -85849,7 +85815,7 @@
     "name": "VILLA 1, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069162335",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682109"
    }
   },
@@ -85866,7 +85832,7 @@
     "name": "UNIT 2, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069319562",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682110"
    }
   },
@@ -85883,7 +85849,7 @@
     "name": "UNIT 3, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000070175000",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682111"
    }
   },
@@ -85900,7 +85866,7 @@
     "name": "UNIT 4, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000070223769",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682112"
    }
   },
@@ -85917,7 +85883,7 @@
     "name": "UNIT 5, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069193937",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682113"
    }
   },
@@ -85934,7 +85900,7 @@
     "name": "UNIT 6, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069737983",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682114"
    }
   },
@@ -85951,7 +85917,7 @@
     "name": "UNIT 7, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069238993",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682115"
    }
   },
@@ -85968,7 +85934,7 @@
     "name": "UNIT 8, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069400565",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682116"
    }
   },
@@ -85985,7 +85951,7 @@
     "name": "UNIT 9, 9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069319562",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682117"
    }
   },
@@ -86002,7 +85968,7 @@
     "name": "9-11 PHOENIX STREET LANE COVE 2066",
     "locID": "LOC000069162335",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716682118"
    }
   },
@@ -86019,7 +85985,7 @@
     "name": "17 COPE STREET LANE COVE 2066",
     "locID": "LOC000086533021",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW716730413"
    }
   },
@@ -86053,7 +86019,7 @@
     "name": "125 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000188255974",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716736378"
    }
   },
@@ -86342,7 +86308,7 @@
     "name": "SUITE 1, 130 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000015979695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717103668"
    }
   },
@@ -86359,7 +86325,7 @@
     "name": "UNIT 1, 138 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000002419072",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717103669"
    }
   },
@@ -86376,7 +86342,7 @@
     "name": "SUITE 3, 130 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000015551420",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717103670"
    }
   },
@@ -86393,7 +86359,7 @@
     "name": "SUITE 4, 130 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000015979695",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717103671"
    }
   },
@@ -86682,7 +86648,7 @@
     "name": "382 PACIFIC HIGHWAY LANE COVE 2066",
     "locID": "LOC000158492896",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717221493"
    }
   },
@@ -87600,7 +87566,7 @@
     "name": "UNIT 1, 266 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000078194790",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717693695"
    }
   },
@@ -90184,7 +90150,7 @@
     "name": "2A MORRICE STREET LANE COVE 2066",
     "locID": "LOC000012093255",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717747709"
    }
   },
@@ -90252,7 +90218,7 @@
     "name": "UNIT 1, 195 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000041140381",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717776281"
    }
   },
@@ -90269,7 +90235,7 @@
     "name": "UNIT 2, 195 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000041167990",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717776282"
    }
   },
@@ -90354,7 +90320,7 @@
     "name": "LEVEL 1, 87 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000061742481",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717819556"
    }
   },
@@ -90371,7 +90337,7 @@
     "name": "LEVEL 1, 95 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000017969794",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717819557"
    }
   },
@@ -90677,7 +90643,7 @@
     "name": "41 RICHARDSON STREET WEST LANE COVE 2066",
     "locID": "LOC000023629256",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717855328"
    }
   },
@@ -90779,7 +90745,7 @@
     "name": "47 RICHARDSON STREET WEST LANE COVE 2066",
     "locID": "LOC000073355824",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717855334"
    }
   },
@@ -91170,7 +91136,7 @@
     "name": "1-3 SERA STREET LANE COVE 2066",
     "locID": "LOC000077397047",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717899181"
    }
   },
@@ -91187,7 +91153,7 @@
     "name": "UNIT 3, 195 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000038732827",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717907397"
    }
   },
@@ -92479,7 +92445,7 @@
     "name": "UNIT 10G, 40A COPE STREET LANE COVE 2066",
     "locID": "LOC000067498954",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717978815"
    }
   },
@@ -93074,7 +93040,7 @@
     "name": "UNIT 1, 146 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000158511843",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718032662"
    }
   },
@@ -93108,7 +93074,7 @@
     "name": "UNIT 2, 146 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000158511843",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718032664"
    }
   },
@@ -93890,7 +93856,7 @@
     "name": "UNIT 1, 1-3 SERA STREET LANE COVE 2066",
     "locID": "LOC000077397047",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718059109"
    }
   },
@@ -93907,7 +93873,7 @@
     "name": "UNIT 2, 1-3 SERA STREET LANE COVE 2066",
     "locID": "LOC000077397047",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718059110"
    }
   },
@@ -93924,7 +93890,7 @@
     "name": "UNIT 3, 1-3 SERA STREET LANE COVE 2066",
     "locID": "LOC000077397047",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718059111"
    }
   },
@@ -93941,7 +93907,7 @@
     "name": "UNIT 4, 1-3 SERA STREET LANE COVE 2066",
     "locID": "LOC000077794975",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718059112"
    }
   },
@@ -93958,7 +93924,7 @@
     "name": "UNIT 5, 1-3 SERA STREET LANE COVE 2066",
     "locID": "LOC000077397047",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718059113"
    }
   },
@@ -93975,7 +93941,7 @@
     "name": "UNIT 6, 1-3 SERA STREET LANE COVE 2066",
     "locID": "LOC000077089567",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718059114"
    }
   },
@@ -94859,7 +94825,7 @@
     "name": "UNIT 2, 150 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000113829022",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718133715"
    }
   },
@@ -94876,7 +94842,7 @@
     "name": "UNIT 3, 150 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000113829022",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718133716"
    }
   },
@@ -94893,7 +94859,7 @@
     "name": "UNIT 4, 150 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000113761245",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718133717"
    }
   },
@@ -97035,7 +97001,7 @@
     "name": "UNIT 2, 266 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000078194790",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718402876"
    }
   },
@@ -97256,7 +97222,7 @@
     "name": "99 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000175149173",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718414642"
    }
   },
@@ -97494,7 +97460,7 @@
     "name": "1 LIBRARY PLACE LANE COVE 2066",
     "locID": "LOC000158511149",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718460896"
    }
   },
@@ -97834,7 +97800,7 @@
     "name": "UNIT 22, 1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718528265"
    }
   },
@@ -97851,7 +97817,7 @@
     "name": "UNIT 24, 1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718528266"
    }
   },
@@ -97868,7 +97834,7 @@
     "name": "UNIT 25, 1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718528267"
    }
   },
@@ -97885,7 +97851,7 @@
     "name": "UNIT 26, 1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718528268"
    }
   },
@@ -97902,7 +97868,7 @@
     "name": "UNIT 27, 1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718528269"
    }
   },
@@ -97919,7 +97885,7 @@
     "name": "UNIT 28, 1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718528270"
    }
   },
@@ -97936,7 +97902,7 @@
     "name": "UNIT 29, 1 COPE STREET LANE COVE 2066",
     "locID": "LOC000103084024",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718528271"
    }
   },
@@ -103920,7 +103886,7 @@
     "name": "UNIT 2, 3 KIMBERLEY AVENUE LANE COVE 2066",
     "locID": "LOC000158511080",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718897886"
    }
   },
@@ -108697,7 +108663,7 @@
     "name": "SHOP 1, 12 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000158488803",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718951735"
    }
   },
@@ -108969,7 +108935,7 @@
     "name": "UNIT 1, 3 KIMBERLEY AVENUE LANE COVE 2066",
     "locID": "LOC000158511067",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718972998"
    }
   },
@@ -115208,7 +115174,7 @@
     "name": "300A-300B BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000158492519",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719583925"
    }
   },
@@ -123470,7 +123436,7 @@
     "name": "LEVEL 1, 158 LONGUEVILLE ROAD LANE COVE 2066",
     "locID": "LOC000158512137",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720177039"
    }
   },
@@ -125136,7 +125102,7 @@
     "name": "UNIT 3, 266 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000078194790",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720383964"
    }
   },
@@ -125884,7 +125850,7 @@
     "name": "UNIT 4, 266 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000078194790",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720388218"
    }
   },
@@ -128314,7 +128280,7 @@
    "properties": {
     "name": "175-179 BURNS BAY ROAD LANE COVE 2066",
     "locID": "LOC000190374777",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720804394"
    }
