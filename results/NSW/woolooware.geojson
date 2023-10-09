@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T23:34:09.471214",
+ "generated": "2023-10-09T20:04:50.682174",
  "suburb": "WOOLOOWARE",
  "features": [
   {
@@ -5456,7 +5456,7 @@
     "name": "7 EDINBURGH CRESCENT WOOLOOWARE 2230",
     "locID": "LOC000041138648",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706359142"
    }
   },
@@ -7427,8 +7427,8 @@
    "properties": {
     "name": "29 HILL STREET WOOLOOWARE 2230",
     "locID": "LOC000105027879",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706365245"
    }
   },
@@ -12085,8 +12085,8 @@
    "properties": {
     "name": "38 CASTLEWOOD AVENUE WOOLOOWARE 2230",
     "locID": "LOC000043284643",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706389051"
    }
   },
@@ -13139,8 +13139,8 @@
    "properties": {
     "name": "13 TAYWOOD STREET WOOLOOWARE 2230",
     "locID": "LOC000013069083",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706390078"
    }
   },
@@ -25753,8 +25753,8 @@
    "properties": {
     "name": "63 WOOLOOWARE ROAD WOOLOOWARE 2230",
     "locID": "LOC000001369902",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717860185"
    }
   },
@@ -28918,6 +28918,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717889749"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.13633045,
+     -34.04915124
+    ]
+   },
+   "properties": {
+    "name": "39 DOLANS ROAD WOOLOOWARE 2230",
+    "locID": "LOC000193736505",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717889750"
    }
   },
   {
@@ -32893,8 +32910,8 @@
    "properties": {
     "name": "14A DOLANS ROAD WOOLOOWARE 2230",
     "locID": "LOC000152883806",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718970597"
    }
   },
@@ -32961,8 +32978,8 @@
    "properties": {
     "name": "14B TAYWOOD STREET WOOLOOWARE 2230",
     "locID": "LOC000167770691",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719028006"
    }
   },
@@ -42073,8 +42090,8 @@
    "properties": {
     "name": "4A FAIRS AVENUE WOOLOOWARE 2230",
     "locID": "LOC000040277133",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW719948073"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T23:49:50.250230",
+ "generated": "2023-10-09T20:20:27.607641",
  "suburb": "BANNOCKBURN",
  "features": [
   {
@@ -2439,6 +2439,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.18885958,
+     -27.75388625
+    ]
+   },
+   "properties": {
+    "name": "17 BANNOCKBURN ROAD BANNOCKBURN 4207",
+    "locID": "LOC000111907330",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD159560964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.19574746,
      -27.75592289
     ]
@@ -3007,8 +3024,8 @@
    "properties": {
     "name": "7 EMERSON ROAD BANNOCKBURN 4207",
     "locID": "LOC000110727950",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163326200"
    }
   },
