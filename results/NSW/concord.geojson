@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T14:50:53.275627",
+ "generated": "2023-10-09T11:05:30.052513",
  "suburb": "CONCORD",
  "features": [
   {
@@ -26638,7 +26638,7 @@
     "name": "3 GIPPS STREET CONCORD 2137",
     "locID": "LOC000099430874",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704442729"
    }
   },
@@ -28100,7 +28100,7 @@
     "name": "97 BURWOOD ROAD CONCORD 2137",
     "locID": "LOC000018829498",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704443300"
    }
   },
@@ -41512,8 +41512,8 @@
    "properties": {
     "name": "7 GLADSTONE STREET CONCORD 2137",
     "locID": "LOC000098226440",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704446082"
    }
   },
@@ -42277,8 +42277,8 @@
    "properties": {
     "name": "195 MAJORS BAY ROAD CONCORD 2137",
     "locID": "LOC000043904652",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704446139"
    }
   },
@@ -44548,6 +44548,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.09893751,
+     -33.86775067
+    ]
+   },
+   "properties": {
+    "name": "91 PARRAMATTA ROAD CONCORD 2137",
+    "locID": "ChIJuYuzyNa6EmsROyP20O1fBiU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW704446790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.09878153,
      -33.86770415
     ]
@@ -45524,8 +45541,8 @@
    "properties": {
     "name": "14 TRIPOD STREET CONCORD 2137",
     "locID": "LOC000105332360",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704446855"
    }
   },
@@ -55776,7 +55793,7 @@
     "name": "20 MARCEAU DRIVE CONCORD 2137",
     "locID": "LOC000057254138",
     "tech": "FTTC",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704451882"
    }
   },
@@ -58682,7 +58699,7 @@
    "properties": {
     "name": "3 KITCHENER AVENUE CONCORD 2137",
     "locID": "LOC000193154543",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704452617"
    }
@@ -60179,7 +60196,7 @@
     "name": "11 ANDERSON ROAD CONCORD 2137",
     "locID": "LOC000006415391",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704453680"
    }
   },
@@ -63734,6 +63751,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704455138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0941038,
+     -33.8633404
+    ]
+   },
+   "properties": {
+    "name": "91 CONCORD ROAD CONCORD 2137",
+    "locID": "LOC000022308846",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704455139"
    }
   },
   {
