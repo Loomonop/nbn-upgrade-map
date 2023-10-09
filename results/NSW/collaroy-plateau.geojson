@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T21:12:02.165123",
+ "generated": "2023-10-09T17:47:44.448487",
  "suburb": "COLLAROY PLATEAU",
  "features": [
   {
@@ -19906,7 +19906,7 @@
     "name": "31A PARKES ROAD COLLAROY PLATEAU 2097",
     "locID": "LOC000115279333",
     "tech": "FTTC",
-    "upgrade": "UNKNOWN",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718203088"
    }
   },
@@ -20211,8 +20211,8 @@
    "properties": {
     "name": "54 PARKES ROAD COLLAROY PLATEAU 2097",
     "locID": "LOC000115321536",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718203107"
    }
   },
@@ -28000,6 +28000,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718244837"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.28647133,
+     -33.73059724
+    ]
+   },
+   "properties": {
+    "name": "7 VETERANS PARADE COLLAROY PLATEAU 2097",
+    "locID": "LOC000193749029",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718244838"
    }
   },
   {
