@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T13:30:14.564458",
+ "generated": "2023-10-09T09:38:50.543709",
  "suburb": "DUNDAS",
  "features": [
   {
@@ -11048,8 +11048,8 @@
    "properties": {
     "name": "251 KISSING POINT ROAD DUNDAS 2117",
     "locID": "LOC000060976397",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704626005"
    }
   },
@@ -12622,6 +12622,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.05137911,
+     -33.79914383
+    ]
+   },
+   "properties": {
+    "name": "245 KISSING POINT ROAD DUNDAS 2117",
+    "locID": "LOC000193761874",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704629309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.04875644,
      -33.80292651
     ]
@@ -13207,7 +13224,7 @@
    "properties": {
     "name": "160 PARK ROAD DUNDAS 2117",
     "locID": "LOC000192565669",
-    "tech": "HFC",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704629366"
    }
@@ -17798,7 +17815,7 @@
     "name": "UNIT 10, 199 SPURWAY STREET DUNDAS 2117",
     "locID": "LOC000160684471",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710915177"
    }
   },
@@ -17815,7 +17832,7 @@
     "name": "UNIT 8, 199 SPURWAY STREET DUNDAS 2117",
     "locID": "LOC000160684471",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710915178"
    }
   },
@@ -17883,7 +17900,7 @@
     "name": "UNIT 9, 199 SPURWAY STREET DUNDAS 2117",
     "locID": "LOC000160684471",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710915186"
    }
   },
@@ -17968,7 +17985,7 @@
     "name": "199 SPURWAY STREET DUNDAS 2117",
     "locID": "LOC000160684471",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW710915211"
    }
   },
@@ -37126,7 +37143,7 @@
    "properties": {
     "name": "160A PARK ROAD DUNDAS 2117",
     "locID": "LOC000192565676",
-    "tech": "HFC",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721323466"
    }
