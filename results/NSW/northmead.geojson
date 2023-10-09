@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T19:38:34.913665",
+ "generated": "2023-10-09T16:08:20.971794",
  "suburb": "NORTHMEAD",
  "features": [
   {
@@ -18665,7 +18665,7 @@
     "name": "45 ANDERSON ROAD NORTHMEAD 2152",
     "locID": "LOC000015494846",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705571490"
    }
   },
@@ -19990,8 +19990,8 @@
    "properties": {
     "name": "2 EDITH PLACE NORTHMEAD 2152",
     "locID": "LOC000060913173",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705573062"
    }
   },
@@ -20248,23 +20248,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705573077"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.00170785,
-     -33.77982193
-    ]
-   },
-   "properties": {
-    "name": "24 MARY STREET NORTHMEAD 2152",
-    "locID": "LOC000053162868",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705573078"
    }
   },
   {
@@ -22676,8 +22659,8 @@
    "properties": {
     "name": "24 CAPRERA ROAD NORTHMEAD 2152",
     "locID": "LOC000025390739",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705576299"
    }
   },
@@ -32179,8 +32162,8 @@
    "properties": {
     "name": "127 WINDSOR ROAD NORTHMEAD 2152",
     "locID": "LOC000064840874",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705581983"
    }
   },
@@ -91832,8 +91815,8 @@
    "properties": {
     "name": "127A WINDSOR ROAD NORTHMEAD 2152",
     "locID": "LOC000064840874",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719259967"
    }
   },
@@ -94878,6 +94861,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721123875"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.98024363,
+     -33.78859438
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 4 AMICITIA CIRCUIT NORTHMEAD 2152",
+    "locID": "LOC000156002531",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW721123896"
    }
   },
   {
