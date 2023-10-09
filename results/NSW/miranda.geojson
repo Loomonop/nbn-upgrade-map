@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-19T16:03:42.814663",
+ "generated": "2023-10-09T12:21:56.429240",
  "suburb": "MIRANDA",
  "features": [
   {
@@ -8176,7 +8176,7 @@
     "name": "2 ASTER AVENUE MIRANDA 2228",
     "locID": "LOC000038283113",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705365695"
    }
   },
@@ -8278,7 +8278,7 @@
     "name": "5 ASTER AVENUE MIRANDA 2228",
     "locID": "LOC000033034945",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705365701"
    }
   },
@@ -11474,7 +11474,7 @@
     "name": "24 CULBURRA ROAD MIRANDA 2228",
     "locID": "LOC000021425946",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705368348"
    }
   },
@@ -11916,7 +11916,7 @@
     "name": "1 GWAWLEY PARADE MIRANDA 2228",
     "locID": "LOC000093468625",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705369021"
    }
   },
@@ -21469,8 +21469,8 @@
    "properties": {
     "name": "171 PRESIDENT AVENUE MIRANDA 2228",
     "locID": "LOC000091932789",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705375768"
    }
   },
@@ -26196,7 +26196,7 @@
     "name": "188 PARRAWEENA ROAD MIRANDA 2228",
     "locID": "LOC000056000733",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705377557"
    }
   },
@@ -29663,7 +29663,7 @@
    "properties": {
     "name": "214 PRESIDENT AVENUE MIRANDA 2228",
     "locID": "LOC000189116301",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705379058"
    }
@@ -29697,7 +29697,7 @@
    "properties": {
     "name": "216 PRESIDENT AVENUE MIRANDA 2228",
     "locID": "LOC000189116289",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705379060"
    }
@@ -34016,7 +34016,7 @@
     "name": "29 MELDRUM AVENUE MIRANDA 2228",
     "locID": "LOC000045333670",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705380573"
    }
   },
@@ -45976,6 +45976,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.09380409,
+     -34.04269466
+    ]
+   },
+   "properties": {
+    "name": "85 FOREST ROAD MIRANDA 2228",
+    "locID": "LOC000193646399",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705385284"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.0936273,
      -34.0426689
     ]
@@ -46205,7 +46222,7 @@
     "name": "27 FREDERICK STREET MIRANDA 2228",
     "locID": "LOC000098186478",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705385317"
    }
   },
@@ -47312,23 +47329,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705385758"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.09889663,
-     -34.02718505
-    ]
-   },
-   "properties": {
-    "name": "5 GRAHAM AVENUE MIRANDA 2228",
-    "locID": "LOC000106209834",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705385759"
    }
   },
   {
@@ -54943,7 +54943,7 @@
     "name": "12 BIMBADEEN AVENUE MIRANDA 2228",
     "locID": "LOC000052689044",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705389967"
    }
   },
@@ -58615,7 +58615,7 @@
     "name": "12 KIRKBY PLACE MIRANDA 2228",
     "locID": "LOC000042295086",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705394950"
    }
   },
@@ -64021,7 +64021,7 @@
     "name": "1A SHIRLEY ROAD MIRANDA 2228",
     "locID": "LOC000023912645",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705398360"
    }
   },
@@ -75496,7 +75496,7 @@
     "name": "212 SYLVANIA ROAD MIRANDA 2228",
     "locID": "LOC000082295297",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711570823"
    }
   },
@@ -92529,8 +92529,8 @@
    "properties": {
     "name": "57 MIRANDA ROAD MIRANDA 2228",
     "locID": "LOC000070640268",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW711589618"
    }
   },
@@ -109598,7 +109598,7 @@
     "name": "104 MATSON CRESCENT MIRANDA 2228",
     "locID": "LOC000023049275",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717580244"
    }
   },
@@ -109733,8 +109733,8 @@
    "properties": {
     "name": "13 MATSON CRESCENT MIRANDA 2228",
     "locID": "LOC000045699454",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717580252"
    }
   },
@@ -111756,8 +111756,8 @@
    "properties": {
     "name": "9 PARKVIEW STREET MIRANDA 2228",
     "locID": "LOC000037339968",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717581461"
    }
   },
@@ -124982,8 +124982,8 @@
    "properties": {
     "name": "150 KAREENA ROAD MIRANDA 2228",
     "locID": "LOC000003164194",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW717906754"
    }
   },
@@ -125679,8 +125679,8 @@
    "properties": {
     "name": "57 KAREENA ROAD MIRANDA 2228",
     "locID": "LOC000070640268",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW717906797"
    }
   },
@@ -127567,7 +127567,7 @@
     "name": "114 KIORA ROAD MIRANDA 2228",
     "locID": "LOC000058692407",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717907035"
    }
   },
@@ -185774,7 +185774,7 @@
    "properties": {
     "name": "214-216 PRESIDENT AVENUE MIRANDA 2228",
     "locID": "LOC000189116289",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721050016"
    }
