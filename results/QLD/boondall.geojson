@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T02:16:01.602493",
+ "generated": "2023-10-09T22:41:12.153362",
  "suburb": "BOONDALL",
  "features": [
   {
@@ -7461,8 +7461,8 @@
    "properties": {
     "name": "26 PANDORA STREET BOONDALL 4034",
     "locID": "LOC000050357761",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155037728"
    }
   },
@@ -21792,8 +21792,8 @@
    "properties": {
     "name": "35 GROTH ROAD BOONDALL 4034",
     "locID": "LOC000072609444",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155044183"
    }
   },
@@ -24396,6 +24396,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155045892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.06977474,
+     -27.34974767
+    ]
+   },
+   "properties": {
+    "name": "257 ABERDEEN PARADE BOONDALL 4034",
+    "locID": "ChIJV9JgElHik2sRm__suP9GA4A",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155045893"
    }
   },
   {
@@ -32981,6 +32998,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156062241"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.05586138,
+     -27.3523929
+    ]
+   },
+   "properties": {
+    "name": "91 BEAMS ROAD BOONDALL 4034",
+    "locID": "LOC000193691424",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156062242"
    }
   },
   {
@@ -48415,7 +48449,7 @@
     "name": "36 SAMRILL STREET BOONDALL 4034",
     "locID": "LOC000058655804",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156298002"
    }
   },
@@ -50998,8 +51032,8 @@
    "properties": {
     "name": "25 CALIDA STREET BOONDALL 4034",
     "locID": "LOC000079926421",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156300501"
    }
   },
