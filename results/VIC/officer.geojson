@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T02:47:46.530029",
+ "generated": "2023-10-10T23:01:58.141698",
  "suburb": "OFFICER",
  "features": [
   {
@@ -2004,8 +2004,8 @@
    "properties": {
     "name": "29 TIVENDALE ROAD OFFICER 3809",
     "locID": "LOC000073621803",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420196983"
    }
   },
@@ -2174,8 +2174,8 @@
    "properties": {
     "name": "214 ONEIL ROAD OFFICER 3809",
     "locID": "LOC000002966715",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC420204240"
    }
   },
@@ -2514,8 +2514,8 @@
    "properties": {
     "name": "275 DICKIE ROAD OFFICER 3809",
     "locID": "LOC000105874434",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC420494211"
    }
   },
@@ -2600,7 +2600,7 @@
     "name": "93 CARPENTER ROAD OFFICER 3809",
     "locID": "LOC000081407365",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420495050"
    }
   },
@@ -7410,8 +7410,8 @@
    "properties": {
     "name": "6 GALLE AVENUE OFFICER 3809",
     "locID": "LOC000075595100",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424094801"
    }
   },
@@ -7853,7 +7853,7 @@
     "name": "3 HUNTINGDALE STREET OFFICER 3809",
     "locID": "LOC000083015062",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424095442"
    }
   },
@@ -9433,8 +9433,8 @@
    "properties": {
     "name": "18 GRASSLAND CRESCENT OFFICER 3809",
     "locID": "LOC000058145259",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424493314"
    }
   },
@@ -13462,8 +13462,8 @@
    "properties": {
     "name": "17 ROSE GARDEN AVENUE OFFICER 3809",
     "locID": "LOC000112997843",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424629393"
    }
   },
@@ -14925,7 +14925,7 @@
     "name": "6 WINDMILL COURT OFFICER 3809",
     "locID": "LOC000010213794",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424634551"
    }
   },
@@ -153372,7 +153372,7 @@
    "properties": {
     "name": "20 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103163",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720909547"
    }
@@ -153729,7 +153729,7 @@
    "properties": {
     "name": "24 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103185",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720910851"
    }
@@ -153780,7 +153780,7 @@
    "properties": {
     "name": "26 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103192",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720911077"
    }
@@ -154358,7 +154358,7 @@
    "properties": {
     "name": "25 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103100",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720913429"
    }
@@ -154630,7 +154630,7 @@
    "properties": {
     "name": "21 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103088",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720914360"
    }
@@ -155106,7 +155106,7 @@
    "properties": {
     "name": "18 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103144",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720915783"
    }
@@ -155633,7 +155633,7 @@
    "properties": {
     "name": "23 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103090",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720917292"
    }
@@ -156279,7 +156279,7 @@
    "properties": {
     "name": "17 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103074",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720919681"
    }
@@ -156296,7 +156296,7 @@
    "properties": {
     "name": "7 CHANDLER STREET OFFICER 3809",
     "locID": "ChIJicH88Kwe1moRT1VMai6ayY4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720919780"
    }
@@ -156364,7 +156364,7 @@
    "properties": {
     "name": "22 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103171",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720919984"
    }
@@ -157095,7 +157095,7 @@
    "properties": {
     "name": "19 CHESNEY RISE OFFICER 3809",
     "locID": "LOC000193103074",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720923064"
    }
@@ -157452,7 +157452,7 @@
    "properties": {
     "name": "47 DUNCOMBE AVENUE OFFICER 3809",
     "locID": "ChIJKQEez6we1moRnGgLcZq9RVE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720924649"
    }
@@ -161923,7 +161923,7 @@
    "properties": {
     "name": "6 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJGVC3wqwe1moR5B8ZFoiQ3vc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721022724"
    }
@@ -161991,7 +161991,7 @@
    "properties": {
     "name": "3 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJQ4f7wawe1moR25-WbZP0-Ko",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721023458"
    }
@@ -162093,7 +162093,7 @@
    "properties": {
     "name": "1 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJ-RGI6awe1moRkI0HyvC4qfY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721024183"
    }
@@ -162654,7 +162654,7 @@
    "properties": {
     "name": "5 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJgzN0wawe1moR2uOVjKL0-Ms",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721027767"
    }
@@ -162773,7 +162773,7 @@
    "properties": {
     "name": "4 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJpzM-w6we1moR5F4VB5SVFhs",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721028783"
    }
@@ -163946,7 +163946,7 @@
    "properties": {
     "name": "2 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJsb-SxKwe1moRgmD_YXcOWME",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721040151"
    }
@@ -164065,7 +164065,7 @@
    "properties": {
     "name": "33 EARNLEY WAY OFFICER 3809",
     "locID": "ChIJ20Zcsqwe1moRgwkIMlg5ySc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721085684"
    }
@@ -164252,7 +164252,7 @@
    "properties": {
     "name": "7 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJO7p-yKwe1moR1s2a_Nzgpxw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721086818"
    }
@@ -164422,7 +164422,7 @@
    "properties": {
     "name": "11 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJUTWHyqwe1moRZVoTxLc57LY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721087724"
    }
@@ -164711,7 +164711,7 @@
    "properties": {
     "name": "53 DUNCOMBE AVENUE OFFICER 3809",
     "locID": "ChIJ34OCt6we1moR_3vM1eNKgwE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721089125"
    }
@@ -164864,7 +164864,7 @@
    "properties": {
     "name": "32 EARNLEY WAY OFFICER 3809",
     "locID": "ChIJafFBq6we1moR7wHa33rQ88s",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721089695"
    }
@@ -165085,7 +165085,7 @@
    "properties": {
     "name": "43 DUNCOMBE AVENUE OFFICER 3809",
     "locID": "ChIJb5UgVqse1moRnr1256ifLi4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090761"
    }
@@ -165187,7 +165187,7 @@
    "properties": {
     "name": "31 EARNLEY WAY OFFICER 3809",
     "locID": "ChIJ315Irawe1moR5WDlOrCeBso",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091308"
    }
@@ -165510,7 +165510,7 @@
    "properties": {
     "name": "27 EARNLEY WAY OFFICER 3809",
     "locID": "ChIJUcyJUVMZ1moRKYQKh84oHew",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721093698"
    }
@@ -165629,7 +165629,7 @@
    "properties": {
     "name": "8 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJ0wzkzqwe1moRSxQwwoAr4Jw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094567"
    }
@@ -165816,7 +165816,7 @@
    "properties": {
     "name": "29 EARNLEY WAY OFFICER 3809",
     "locID": "ChIJ46fzUlMZ1moRPo3tjW4XLxw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721095394"
    }
@@ -165850,7 +165850,7 @@
    "properties": {
     "name": "51 DUNCOMBE AVENUE OFFICER 3809",
     "locID": "ChIJk1-VsKwe1moRN-R4A8P55yM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721095992"
    }
@@ -165935,7 +165935,7 @@
    "properties": {
     "name": "28 EARNLEY WAY OFFICER 3809",
     "locID": "ChIJ_-WNVlMZ1moRB0zAIy5UKro",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096228"
    }
@@ -166037,7 +166037,7 @@
    "properties": {
     "name": "13 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJjxr3SlMZ1moR2Mo19sJ76eA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721097185"
    }
@@ -166394,7 +166394,7 @@
    "properties": {
     "name": "30 EARNLEY WAY OFFICER 3809",
     "locID": "ChIJhQr6VFMZ1moR6FLNz0iiaSo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721100190"
    }
@@ -166479,7 +166479,7 @@
    "properties": {
     "name": "45 DUNCOMBE AVENUE OFFICER 3809",
     "locID": "ChIJZ8gHqawe1moRa6VqWdSNOt0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721101046"
    }
@@ -166547,7 +166547,7 @@
    "properties": {
     "name": "9 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJGWGTyawe1moRogtlNbeBrEw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721101366"
    }
@@ -166955,7 +166955,7 @@
    "properties": {
     "name": "49 DUNCOMBE AVENUE OFFICER 3809",
     "locID": "ChIJ1Vg5sKwe1moRlIlv7IPhbdE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103790"
    }
@@ -166972,7 +166972,7 @@
    "properties": {
     "name": "15 HARTWORTH CLOSE OFFICER 3809",
     "locID": "ChIJ3XO7NVMZ1moR2vUQsdIihWc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103914"
    }
@@ -168471,23 +168471,6 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721158131"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.42058001,
-     -38.05682956
-    ]
-   },
-   "properties": {
-    "name": "67 MCMULLEN ROAD OFFICER 3809",
-    "locID": "Eis2NyBNY011bGxlbiBSZCwgT2ZmaWNlciBWSUMgMzgwOSwgQXVzdHJhbGlhIjASLgoUChIJ-_VdZ6Ee1moRUnLCJbGcbN8QQyoUChIJK4Ge36Me1moR091xX8qPLls",
-    "tech": "NULL",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721158156"
    }
   },
   {
