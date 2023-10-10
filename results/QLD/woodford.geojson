@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T23:53:44.887679",
+ "generated": "2023-10-10T20:34:37.815407",
  "suburb": "WOODFORD",
  "features": [
   {
@@ -6390,8 +6390,8 @@
    "properties": {
     "name": "1 WEBB LANE WOODFORD 4514",
     "locID": "LOC000034303085",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157294034"
    }
   },
@@ -8481,8 +8481,8 @@
    "properties": {
     "name": "283 KROPP ROAD WOODFORD 4514",
     "locID": "LOC000065779867",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD158880718"
    }
   },
@@ -10233,7 +10233,7 @@
     "name": "26 GLOUCESTER STREET WOODFORD 4514",
     "locID": "LOC000042142356",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158891638"
    }
   },
@@ -16447,6 +16447,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.78161216,
+     -26.95606378
+    ]
+   },
+   "properties": {
+    "name": "25-29 MARGARET STREET WOODFORD 4514",
+    "locID": "ChIJH5xglx91lGsRLVtWmYORsIo",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161446111"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.78243151,
      -26.9573064
     ]
@@ -17032,8 +17049,8 @@
    "properties": {
     "name": "2 WEBB LANE WOODFORD 4514",
     "locID": "LOC000034303085",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161463133"
    }
   },
@@ -19905,8 +19922,8 @@
    "properties": {
     "name": "56 WALKER LANE WOODFORD 4514",
     "locID": "LOC000142338350",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAQLD163257502"
    }
   },
