@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T22:17:19.447317",
+ "generated": "2023-10-10T18:48:58.666003",
  "suburb": "WALLOON",
  "features": [
   {
@@ -321,8 +321,8 @@
    "properties": {
     "name": "42 FARRELL DRIVE WALLOON 4306",
     "locID": "LOC000008655099",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155930737"
    }
   },
@@ -11338,7 +11338,7 @@
     "name": "25 FLAME TREE COURT WALLOON 4306",
     "locID": "LOC000021495739",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425749330"
    }
   },
@@ -11831,7 +11831,7 @@
     "name": "52 FLAME TREE COURT WALLOON 4306",
     "locID": "LOC000035682339",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425749359"
    }
   },
@@ -16719,6 +16719,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.65341501,
+     -27.60071198
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 44 PATERSON ROAD WALLOON 4306",
+    "locID": "LOC000182436691",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720206526"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.65796369,
      -27.59944427
     ]
@@ -16804,6 +16821,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.655157,
+     -27.60052473
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 37 PATERSON ROAD WALLOON 4306",
+    "locID": "LOC000177223644",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720208975"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.65849242,
      -27.59993785
     ]
@@ -16814,6 +16848,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720209121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.65499869,
+     -27.60050274
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 39 PATERSON ROAD WALLOON 4306",
+    "locID": "LOC000182872331",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720209377"
    }
   },
   {
@@ -16848,6 +16899,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720209468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.65404786,
+     -27.60037065
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 51 PATERSON ROAD WALLOON 4306",
+    "locID": "ChIJcUHHRHa3lmsRbJZ-TZC2y0o",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720209632"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.65448825,
+     -27.60043182
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 45 PATERSON ROAD WALLOON 4306",
+    "locID": "LOC000187871192",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720209713"
    }
   },
   {
@@ -16906,6 +16991,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.65404786,
+     -27.60037065
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 51 PATERSON ROAD WALLOON 4306",
+    "locID": "ChIJcUHHRHa3lmsRbJZ-TZC2y0o",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720210283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.65916631,
      -27.60009995
     ]
@@ -16957,6 +17059,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.65499869,
+     -27.60050274
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 39 PATERSON ROAD WALLOON 4306",
+    "locID": "LOC000182872331",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720210748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.65916631,
      -27.60009995
     ]
@@ -16967,6 +17086,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720210786"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.65448825,
+     -27.60043182
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 45 PATERSON ROAD WALLOON 4306",
+    "locID": "LOC000187871192",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720211088"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.655157,
+     -27.60052473
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 37 PATERSON ROAD WALLOON 4306",
+    "locID": "LOC000177223644",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720211119"
    }
   },
   {
