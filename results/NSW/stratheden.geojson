@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T08:24:32.001577",
+ "generated": "2023-10-10T04:48:04.482974",
  "suburb": "STRATHEDEN",
  "features": [
   {
@@ -287,8 +287,8 @@
    "properties": {
     "name": "10 JAMES ROAD STRATHEDEN 2470",
     "locID": "LOC000184900146",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW706581257"
    }
   },
@@ -593,8 +593,8 @@
    "properties": {
     "name": "35 NORTHFIELDS ROAD STRATHEDEN 2470",
     "locID": "LOC000027366986",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW706605224"
    }
   },
@@ -763,8 +763,8 @@
    "properties": {
     "name": "5 UPPER STRATHEDEN ROAD STRATHEDEN 2470",
     "locID": "LOC000022300918",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW706615057"
    }
   },
@@ -882,8 +882,8 @@
    "properties": {
     "name": "219 EDENVILLE ROAD STRATHEDEN 2470",
     "locID": "LOC000089183112",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW706618075"
    }
   },
@@ -1511,8 +1511,8 @@
    "properties": {
     "name": "333 UPPER STRATHEDEN ROAD STRATHEDEN 2470",
     "locID": "LOC000014808255",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW717589266"
    }
   },
@@ -1861,6 +1861,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.94531013,
+     -28.77340472
+    ]
+   },
+   "properties": {
+    "name": "466 STRATHEDEN ROAD STRATHEDEN 2470",
+    "locID": "ChIJ01pANxYHmmsRtKrPJsd7VbM",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721317238"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.96701465,
      -28.73854461
     ]
@@ -1871,6 +1888,23 @@
     "tech": "WIRELESS",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721317769"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.94098206,
+     -28.7775216
+    ]
+   },
+   "properties": {
+    "name": "388 STRATHEDEN ROAD STRATHEDEN 2470",
+    "locID": "ChIJmbs1HCMHmmsRevDkjMiOmYo",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721319460"
    }
   },
   {
