@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T11:56:52.835636",
+ "generated": "2023-10-10T08:15:33.084425",
  "suburb": "MOORE PARK BEACH",
  "features": [
   {
@@ -372,8 +372,8 @@
    "properties": {
     "name": "30 ROYAL BOULEVARD MOORE PARK BEACH 4670",
     "locID": "LOC000096685544",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155563684"
    }
   },
@@ -10895,8 +10895,8 @@
    "properties": {
     "name": "22 PALM COURT MOORE PARK BEACH 4670",
     "locID": "LOC000032563128",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156862468"
    }
   },
@@ -21360,6 +21360,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.29243612,
+     -24.73701608
+    ]
+   },
+   "properties": {
+    "name": "LOT 29 NORTON ROAD MOORE PARK BEACH 4670",
+    "locID": "LOC000185728980",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161940584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.29341123,
+     -24.7349136
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 NORTON ROAD MOORE PARK BEACH 4670",
+    "locID": "LOC000185728980",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161940585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.30076586,
+     -24.73637515
+    ]
+   },
+   "properties": {
+    "name": "LOT 30 NORTON ROAD MOORE PARK BEACH 4670",
+    "locID": "LOC000185728980",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161940586"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.28887092,
      -24.73524714
     ]
@@ -29289,8 +29340,8 @@
    "properties": {
     "name": "2 REGENCY ROAD MOORE PARK BEACH 4670",
     "locID": "LOC000116063267",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163316879"
    }
   },

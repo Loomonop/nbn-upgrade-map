@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T11:54:49.036845",
+ "generated": "2023-10-10T08:13:52.029268",
  "suburb": "MOOLOOLAH VALLEY",
  "features": [
   {
@@ -934,7 +934,7 @@
     "name": "15 DIAMOND VALLEY ROAD MOOLOOLAH VALLEY 4553",
     "locID": "LOC000039111884",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155562931"
    }
   },
@@ -968,7 +968,7 @@
     "name": "17 DIAMOND VALLEY ROAD MOOLOOLAH VALLEY 4553",
     "locID": "LOC000060751422",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155562933"
    }
   },
@@ -1138,7 +1138,7 @@
     "name": "9 DIAMOND VALLEY ROAD MOOLOOLAH VALLEY 4553",
     "locID": "LOC000109094479",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155562944"
    }
   },
@@ -2531,8 +2531,8 @@
    "properties": {
     "name": "80 MOOLOOLAH MEADOWS DRIVE MOOLOOLAH VALLEY 4553",
     "locID": "LOC000107046601",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155566396"
    }
   },
@@ -3823,8 +3823,8 @@
    "properties": {
     "name": "35 BRANDENBURG ROAD MOOLOOLAH VALLEY 4553",
     "locID": "LOC000093928393",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155572585"
    }
   },
@@ -5319,8 +5319,8 @@
    "properties": {
     "name": "128 NEILL ROAD MOOLOOLAH VALLEY 4553",
     "locID": "LOC000045157992",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155575684"
    }
   },
@@ -14431,8 +14431,8 @@
    "properties": {
     "name": "9 NICOLLE COURT MOOLOOLAH VALLEY 4553",
     "locID": "LOC000020008921",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158326861"
    }
   },
@@ -14601,8 +14601,8 @@
    "properties": {
     "name": "14 RIVERVIEW COURT MOOLOOLAH VALLEY 4553",
     "locID": "LOC000056448319",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160073950"
    }
   },
@@ -15519,7 +15519,7 @@
    "properties": {
     "name": "373 TUNNEL RIDGE ROAD MOOLOOLAH VALLEY 4553",
     "locID": "LOC000077791597",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160709364"
    }
@@ -17509,7 +17509,7 @@
     "name": "5 COACH HOUSE PLACE MOOLOOLAH VALLEY 4553",
     "locID": "LOC000063305467",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161735786"
    }
   },
@@ -19463,8 +19463,8 @@
    "properties": {
     "name": "14 EAGLE VIEW LANE MOOLOOLAH VALLEY 4553",
     "locID": "LOC000102615829",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162504885"
    }
   },
@@ -22660,7 +22660,7 @@
     "name": "23 THE RIVERS EDGE MOOLOOLAH VALLEY 4553",
     "locID": "LOC000116033743",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424863761"
    }
   },
@@ -27250,7 +27250,7 @@
     "name": "13 GUILGOYLE COURT MOOLOOLAH VALLEY 4553",
     "locID": "LOC000039325336",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721258808"
    }
   },
@@ -27269,6 +27269,23 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313654"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.96384884,
+     -26.76491051
+    ]
+   },
+   "properties": {
+    "name": "1 WAY STREET MOOLOOLAH VALLEY 4553",
+    "locID": "ChIJkQTO6HyEk2sRTw-rhSM28xI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721314519"
    }
   }
  ]
