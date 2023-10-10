@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T05:58:12.481826",
+ "generated": "2023-10-10T02:21:34.987414",
  "suburb": "GEEBUNG",
  "features": [
   {
@@ -1477,8 +1477,8 @@
    "properties": {
     "name": "6 SUNCREST STREET GEEBUNG 4034",
     "locID": "LOC000059695852",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155314277"
    }
   },
@@ -9290,6 +9290,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.04416255,
+     -27.37006108
+    ]
+   },
+   "properties": {
+    "name": "24 WIDDIN STREET GEEBUNG 4034",
+    "locID": "LOC000193803220",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155329385"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.04434311,
      -27.36952531
     ]
@@ -10691,8 +10708,8 @@
    "properties": {
     "name": "35 PINEWOOD STREET GEEBUNG 4034",
     "locID": "LOC000067084868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155331240"
    }
   },
@@ -11694,8 +11711,8 @@
    "properties": {
     "name": "302 NEWMAN ROAD GEEBUNG 4034",
     "locID": "LOC000020076909",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155332947"
    }
   },
@@ -12884,8 +12901,8 @@
    "properties": {
     "name": "35 LANERCOST STREET GEEBUNG 4034",
     "locID": "LOC000025770563",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD155334292"
    }
   },
@@ -21656,8 +21673,8 @@
    "properties": {
     "name": "20 SANDRA STREET GEEBUNG 4034",
     "locID": "LOC000039604951",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156075486"
    }
   },
@@ -42770,8 +42787,8 @@
    "properties": {
     "name": "UNIT 5, 8 JENDIE STREET GEEBUNG 4034",
     "locID": "LOC000076497656",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160772287"
    }
   },
