@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-20T09:33:20.298359",
+ "generated": "2023-10-10T06:01:33.138080",
  "suburb": "BROKEN HILL",
  "features": [
   {
@@ -2633,8 +2633,8 @@
    "properties": {
     "name": "168 ARGENT STREET BROKEN HILL 2880",
     "locID": "LOC000007158289",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704219938"
    }
   },
@@ -16770,6 +16770,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     141.46878274,
+     -31.93919453
+    ]
+   },
+   "properties": {
+    "name": "602 FISHER STREET BROKEN HILL 2880",
+    "locID": "LOC000002236859",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704221348"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      141.46892735,
      -31.9391035
     ]
@@ -16930,8 +16947,8 @@
    "properties": {
     "name": "3 WILSON STREET BROKEN HILL 2880",
     "locID": "LOC000009620754",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704221389"
    }
   },
@@ -22507,7 +22524,7 @@
     "name": "417 THOMAS STREET BROKEN HILL 2880",
     "locID": "LOC000071228639",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704221995"
    }
   },
@@ -24224,7 +24241,7 @@
     "name": "124 WILLS LANE BROKEN HILL 2880",
     "locID": "LOC000078539757",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704222178"
    }
   },
@@ -29085,8 +29102,8 @@
    "properties": {
     "name": "414 WILLIAMS LANE BROKEN HILL 2880",
     "locID": "LOC000046167264",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704223016"
    }
   },
@@ -33625,7 +33642,7 @@
     "name": "331 MORGAN STREET BROKEN HILL 2880",
     "locID": "LOC000064996911",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704223796"
    }
   },
@@ -33642,7 +33659,7 @@
     "name": "332 MORGAN STREET BROKEN HILL 2880",
     "locID": "LOC000017468452",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704223797"
    }
   },
@@ -43060,7 +43077,7 @@
     "name": "535 CUMMINS STREET BROKEN HILL 2880",
     "locID": "LOC000031429173",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704225199"
    }
   },
@@ -44624,7 +44641,7 @@
     "name": "194 CARBON STREET BROKEN HILL 2880",
     "locID": "LOC000061754273",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704225333"
    }
   },
@@ -45357,6 +45374,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704225378"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.44551223,
+     -31.94942303
+    ]
+   },
+   "properties": {
+    "name": "63 CUMMINS STREET BROKEN HILL 2880",
+    "locID": "LOC000078915680",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW704225379"
    }
   },
   {
@@ -49724,7 +49758,7 @@
     "name": "517 BLENDE STREET BROKEN HILL 2880",
     "locID": "LOC000052723406",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704225869"
    }
   },
@@ -50421,7 +50455,7 @@
     "name": "25 CUMMINS STREET BROKEN HILL 2880",
     "locID": "LOC000031429173",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704226010"
    }
   },
@@ -50778,7 +50812,7 @@
     "name": "178 CHAPPLE STREET BROKEN HILL 2880",
     "locID": "LOC000025569948",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704226036"
    }
   },
@@ -50846,7 +50880,7 @@
     "name": "183 CHAPPLE STREET BROKEN HILL 2880",
     "locID": "LOC000094324736",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704226040"
    }
   },
@@ -61301,7 +61335,7 @@
     "name": "113 IODIDE STREET BROKEN HILL 2880",
     "locID": "LOC000040204458",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704227220"
    }
   },
@@ -62306,6 +62340,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW704227291"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.46284134,
+     -31.93484272
+    ]
+   },
+   "properties": {
+    "name": "575 WYMAN LANE BROKEN HILL 2880",
+    "locID": "LOC000071331619",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW704227292"
    }
   },
   {
@@ -92556,6 +92607,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     141.47444103,
+     -31.94338647
+    ]
+   },
+   "properties": {
+    "name": "647 LANE LANE BROKEN HILL 2880",
+    "locID": "LOC000015514783",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704230518"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      141.47415509,
      -31.94294943
     ]
@@ -107745,7 +107813,7 @@
     "name": "344 MICA STREET BROKEN HILL 2880",
     "locID": "LOC000051760081",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704232293"
    }
   },
@@ -113049,7 +113117,7 @@
     "name": "332 WILLIAMS LANE BROKEN HILL 2880",
     "locID": "LOC000037335065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704233141"
    }
   },
@@ -113304,7 +113372,7 @@
     "name": "177 WILLIAMS STREET BROKEN HILL 2880",
     "locID": "LOC000107502672",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704233157"
    }
   },
@@ -113423,7 +113491,7 @@
     "name": "183 WILLIAMS STREET BROKEN HILL 2880",
     "locID": "LOC000098276628",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704233164"
    }
   },
@@ -116517,7 +116585,7 @@
     "name": "110 GAFFNEY STREET BROKEN HILL 2880",
     "locID": "LOC000091845654",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704233986"
    }
   },
@@ -122382,7 +122450,7 @@
     "name": "128 WILLS LANE BROKEN HILL 2880",
     "locID": "LOC000080018824",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704235612"
    }
   },
@@ -122775,6 +122843,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704235636"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.46502243,
+     -31.93415691
+    ]
+   },
+   "properties": {
+    "name": "588 WYMAN STREET BROKEN HILL 2880",
+    "locID": "LOC000047681400",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW704235637"
    }
   },
   {
@@ -142612,7 +142697,7 @@
     "name": "412 LANE STREET BROKEN HILL 2880",
     "locID": "LOC000112916572",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704241480"
    }
   },
@@ -152115,7 +152200,7 @@
     "name": "163 WILLIAMS STREET BROKEN HILL 2880",
     "locID": "LOC000114580804",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704244083"
    }
   },
@@ -161593,6 +161678,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     141.47118404,
+     -31.94164033
+    ]
+   },
+   "properties": {
+    "name": "625 WILLIAMS STREET BROKEN HILL 2880",
+    "locID": "LOC000048583862",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704250092"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      141.47794649,
      -31.94545664
     ]
@@ -163065,6 +163167,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708714519"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.47240876,
+     -31.95229569
+    ]
+   },
+   "properties": {
+    "name": "526 BLENDE STREET BROKEN HILL 2880",
+    "locID": "LOC000101459513",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW708714521"
    }
   },
   {
@@ -171223,7 +171342,7 @@
     "name": "332 LANE LANE BROKEN HILL 2880",
     "locID": "LOC000037335065",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW708725019"
    }
   },
@@ -179910,7 +180029,7 @@
     "name": "26 BLENDE STREET BROKEN HILL 2880",
     "locID": "LOC000018255056",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713072492"
    }
   },
@@ -179927,7 +180046,7 @@
     "name": "34 BLENDE STREET BROKEN HILL 2880",
     "locID": "LOC000052120906",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW713072493"
    }
   },
@@ -205130,6 +205249,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     141.47926496,
+     -31.94752426
+    ]
+   },
+   "properties": {
+    "name": "669-671 BERYL STREET BROKEN HILL 2880",
+    "locID": "LOC000122376639",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718064919"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      141.46754799,
      -31.95514235
     ]
@@ -210289,7 +210425,7 @@
     "name": "177-179 ARGENT STREET BROKEN HILL 2880",
     "locID": "LOC000158829338",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718399288"
    }
   },
@@ -215440,7 +215576,7 @@
     "name": "45 BERYL STREET BROKEN HILL 2880",
     "locID": "LOC000023120508",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW719672024"
    }
   },
