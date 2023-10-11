@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-22T00:57:45.409987",
+ "generated": "2023-10-11T21:12:08.480724",
  "suburb": "BEECHWORTH",
  "features": [
   {
@@ -2211,23 +2211,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC410862099"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     146.69728842,
-     -36.35232375
-    ]
-   },
-   "properties": {
-    "name": "23 BALACLAVA ROAD BEECHWORTH 3747",
-    "locID": "LOC000124996458",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC410862113"
    }
   },
   {
@@ -12408,8 +12391,8 @@
    "properties": {
     "name": "43 SYDNEY ROAD BEECHWORTH 3747",
     "locID": "LOC000009404562",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420562850"
    }
   },
@@ -13887,8 +13870,8 @@
    "properties": {
     "name": "486 BEECHWORTH-WANGARATTA ROAD BEECHWORTH 3747",
     "locID": "LOC000080744405",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC420597765"
    }
   },
@@ -16270,23 +16253,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420888865"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     146.69738929,
-     -36.35228028
-    ]
-   },
-   "properties": {
-    "name": "21-23 BALACLAVA ROAD BEECHWORTH 3747",
-    "locID": "LOC000124996458",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420889917"
    }
   },
   {
@@ -20467,7 +20433,7 @@
     "name": "4 WILLIAMS STREET BEECHWORTH 3747",
     "locID": "LOC000061996574",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421432239"
    }
   },
@@ -34968,7 +34934,7 @@
     "name": "12A HIGH STREET BEECHWORTH 3747",
     "locID": "LOC000066259912",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425401219"
    }
   },
@@ -42243,7 +42209,7 @@
    "properties": {
     "name": "23A BALACLAVA ROAD BEECHWORTH 3747",
     "locID": "ChIJsQNvGoKxJmsRTa262NKu70s",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721098275"
    }
