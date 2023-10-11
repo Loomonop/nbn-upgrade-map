@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T21:28:12.685017",
+ "generated": "2023-10-11T17:37:25.244505",
  "suburb": "WESTBOURNE PARK",
  "features": [
   {
@@ -5829,8 +5829,8 @@
    "properties": {
     "name": "86 MONMOUTH ROAD WESTBOURNE PARK 5041",
     "locID": "LOC000022606180",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415425446"
    }
   },
@@ -6220,8 +6220,8 @@
    "properties": {
     "name": "62 MARLBOROUGH ROAD WESTBOURNE PARK 5041",
     "locID": "LOC000097927232",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415426184"
    }
   },
@@ -18453,6 +18453,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.59648015,
+     -34.96690183
+    ]
+   },
+   "properties": {
+    "name": "LOT 7 DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000062015463",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_721275698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.59667919,
      -34.96661477
     ]
@@ -18565,6 +18582,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_721304686"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.59604726,
+     -34.9666333
+    ]
+   },
+   "properties": {
+    "name": "1D DEEPDENE AVENUE WESTBOURNE PARK 5041",
+    "locID": "LOC000193700479",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721304719"
    }
   }
  ]

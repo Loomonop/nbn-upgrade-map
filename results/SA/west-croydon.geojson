@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T21:26:28.877572",
+ "generated": "2023-10-11T17:34:59.615124",
  "suburb": "WEST CROYDON",
  "features": [
   {
@@ -525,7 +525,7 @@
    "properties": {
     "name": "509 PORT ROAD WEST CROYDON 5008",
     "locID": "LOC000193365694",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414935565"
    }
@@ -678,7 +678,7 @@
    "properties": {
     "name": "511 PORT ROAD WEST CROYDON 5008",
     "locID": "LOC000193365752",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_414938259"
    }
@@ -695,8 +695,8 @@
    "properties": {
     "name": "13 AMY STREET WEST CROYDON 5008",
     "locID": "LOC000025903294",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414940826"
    }
   },
@@ -1001,8 +1001,8 @@
    "properties": {
     "name": "47 EUSTON TERRACE WEST CROYDON 5008",
     "locID": "LOC000091996335",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_414948384"
    }
   },
@@ -7988,8 +7988,8 @@
    "properties": {
     "name": "39 CEDAR AVENUE WEST CROYDON 5008",
     "locID": "LOC000061449619",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415022621"
    }
   },
@@ -9604,7 +9604,7 @@
     "name": "2 BOSTON STREET WEST CROYDON 5008",
     "locID": "LOC000086730614",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415029974"
    }
   },
@@ -12775,23 +12775,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.56510026,
-     -34.8902752
-    ]
-   },
-   "properties": {
-    "name": "40 HURTLE STREET WEST CROYDON 5008",
-    "locID": "LOC000066260452",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GASA_415057770"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.56286351,
      -34.888563
     ]
@@ -14669,8 +14652,8 @@
    "properties": {
     "name": "313 TORRENS ROAD WEST CROYDON 5008",
     "locID": "LOC000030818137",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415102798"
    }
   },
@@ -23781,8 +23764,8 @@
    "properties": {
     "name": "28 AROONA ROAD WEST CROYDON 5008",
     "locID": "LOC000019220371",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415427859"
    }
   },
