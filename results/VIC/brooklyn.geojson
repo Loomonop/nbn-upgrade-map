@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-22T01:34:54.886960",
+ "generated": "2023-10-11T21:57:17.537610",
  "suburb": "BROOKLYN",
  "features": [
   {
@@ -7692,6 +7692,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.840003,
+     -37.82297005
+    ]
+   },
+   "properties": {
+    "name": "22 LYNCH ROAD BROOKLYN 3012",
+    "locID": "LOC000193805293",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420421235"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.84310028,
      -37.82362473
     ]
@@ -8603,23 +8620,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420535409"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.845591,
-     -37.819875
-    ]
-   },
-   "properties": {
-    "name": "38 STENHOUSE AVENUE BROOKLYN 3012",
-    "locID": "LOC000045513930",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC420535410"
    }
   },
   {
@@ -16199,8 +16199,8 @@
    "properties": {
     "name": "33 CONIFER AVENUE BROOKLYN 3012",
     "locID": "LOC000146205697",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421734772"
    }
   },
@@ -24182,6 +24182,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.83998902,
+     -37.82306467
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 22 LYNCH ROAD BROOKLYN 3012",
+    "locID": "LOC000193805293",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424883672"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.84032297,
+     -37.82305577
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 22 LYNCH ROAD BROOKLYN 3012",
+    "locID": "LOC000122780550",
+    "tech": "FTTC",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC424883673"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.8471709,
      -37.8194207
     ]
@@ -25923,8 +25957,8 @@
    "properties": {
     "name": "UNIT 1, 33 CONIFER AVENUE BROOKLYN 3012",
     "locID": "LOC000146205697",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425463080"
    }
   },
@@ -33658,7 +33692,7 @@
    "properties": {
     "name": "7 CAHIR COURT BROOKLYN 3012",
     "locID": "ChIJF38AvO9g1moR2-CHRcmLmJw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721158602"
    }

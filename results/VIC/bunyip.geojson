@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-22T01:49:45.662221",
+ "generated": "2023-10-11T22:07:08.564420",
  "suburb": "BUNYIP",
  "features": [
   {
@@ -9943,8 +9943,8 @@
    "properties": {
     "name": "61 NASH ROAD BUNYIP 3815",
     "locID": "LOC000073364431",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAVIC421393375"
    }
   },
@@ -26130,6 +26130,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721287886"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.72192181,
+     -38.08102681
+    ]
+   },
+   "properties": {
+    "name": "165 NASH ROAD BUNYIP 3815",
+    "locID": "ChIJ-XqCgHnCKWsRhupFdzeTcpg",
+    "tech": "WIRELESS",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303876"
    }
   }
  ]
