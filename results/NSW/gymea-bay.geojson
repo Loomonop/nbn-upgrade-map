@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T12:16:59.295894",
+ "generated": "2023-10-11T08:35:07.427673",
  "suburb": "GYMEA BAY",
  "features": [
   {
@@ -2905,8 +2905,8 @@
    "properties": {
     "name": "3 BALLA MACHREE WAY GYMEA BAY 2227",
     "locID": "LOC000001351041",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704906302"
    }
   },
@@ -3398,8 +3398,8 @@
    "properties": {
     "name": "126 ELLESMERE ROAD GYMEA BAY 2227",
     "locID": "LOC000096367135",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704906340"
    }
   },
@@ -4554,8 +4554,8 @@
    "properties": {
     "name": "76 COONONG ROAD GYMEA BAY 2227",
     "locID": "LOC000098365767",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704908491"
    }
   },
@@ -9297,8 +9297,8 @@
    "properties": {
     "name": "2B ARCADIA AVENUE GYMEA BAY 2227",
     "locID": "LOC000067691639",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704911121"
    }
   },
@@ -20748,6 +20748,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.08720744,
+     -34.04254504
+    ]
+   },
+   "properties": {
+    "name": "2 BUNARBA ROAD GYMEA BAY 2227",
+    "locID": "LOC000076484670",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GANSW704920893"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.08860147,
      -34.04329074
     ]
@@ -23323,7 +23340,7 @@
     "name": "89B BUNARBA ROAD GYMEA BAY 2227",
     "locID": "LOC000016272525",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704926122"
    }
   },
@@ -28796,8 +28813,8 @@
    "properties": {
     "name": "65 ELLESMERE ROAD GYMEA BAY 2227",
     "locID": "LOC000040354963",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704935669"
    }
   },
@@ -31890,8 +31907,8 @@
    "properties": {
     "name": "6 PINAROO PLACE GYMEA BAY 2227",
     "locID": "LOC000107144444",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704941624"
    }
   },
@@ -41461,7 +41478,7 @@
    "properties": {
     "name": "176A ELLESMERE ROAD GYMEA BAY 2227",
     "locID": "LOC000193141337",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719360091"
    }
