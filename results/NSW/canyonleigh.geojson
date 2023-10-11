@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T06:40:46.051264",
+ "generated": "2023-10-11T02:51:23.160540",
  "suburb": "CANYONLEIGH",
  "features": [
   {
@@ -1461,7 +1461,7 @@
     "name": "121 TUGALONG ROAD CANYONLEIGH 2577",
     "locID": "LOC000114098284",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718126959"
    }
   },
@@ -1817,8 +1817,8 @@
    "properties": {
     "name": "2289 CANYONLEIGH ROAD CANYONLEIGH 2577",
     "locID": "LOC000113026425",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW718129824"
    }
   },
@@ -5152,6 +5152,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721320944"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.18528668,
+     -34.55819694
+    ]
+   },
+   "properties": {
+    "name": "330 FOXGROVE ROAD CANYONLEIGH 2577",
+    "locID": "ChIJ1WlKtB_tE2sRKYegBoG1cSQ",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721324637"
    }
   },
   {
