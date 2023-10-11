@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T11:40:47.521822",
+ "generated": "2023-10-11T07:50:57.955735",
  "suburb": "CATHERINE FIELD",
  "features": [
   {
@@ -389,8 +389,8 @@
    "properties": {
     "name": "50 CHISHOLM ROAD CATHERINE FIELD 2557",
     "locID": "LOC000092408861",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW704354877"
    }
   },
@@ -7488,6 +7488,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.7626921,
+     -34.01572947
+    ]
+   },
+   "properties": {
+    "name": "701 CAMDEN VALLEY WAY CATHERINE FIELD 2557",
+    "locID": "ChIJnXCZZwHyEmsRug226xaiy2s",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW711279917"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.76234066,
      -34.01461343
     ]
@@ -11423,7 +11440,7 @@
     "name": "39 CHISHOLM ROAD CATHERINE FIELD 2557",
     "locID": "LOC100074884293",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW719662139"
    }
   },
@@ -32247,8 +32264,8 @@
    "properties": {
     "name": "134B DEEPFIELDS ROAD CATHERINE FIELD 2557",
     "locID": "LOC100056362911",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721270173"
    }
   },
@@ -32573,6 +32590,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721322106"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.75615969,
+     -34.00570389
+    ]
+   },
+   "properties": {
+    "name": "36 GLORY LOOP CATHERINE FIELD 2557",
+    "locID": "ChIJF4V3KBDyEmsR6DTMS4op0XI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721322254"
    }
   },
   {
