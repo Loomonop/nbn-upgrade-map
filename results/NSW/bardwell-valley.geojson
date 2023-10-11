@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T10:16:21.225342",
+ "generated": "2023-10-11T06:31:36.643311",
  "suburb": "BARDWELL VALLEY",
  "features": [
   {
@@ -5931,8 +5931,8 @@
    "properties": {
     "name": "6 WALLENDBEEN PLACE BARDWELL VALLEY 2207",
     "locID": "LOC000088112162",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704026750"
    }
   },
@@ -6986,7 +6986,7 @@
     "name": "25 SACKVILLE STREET BARDWELL VALLEY 2207",
     "locID": "LOC000032297788",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706615658"
    }
   },
@@ -7005,6 +7005,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706620658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.13717947,
+     -33.93504842
+    ]
+   },
+   "properties": {
+    "name": "42 DOWLING STREET BARDWELL VALLEY 2207",
+    "locID": "LOC000193687380",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706620659"
    }
   },
   {
