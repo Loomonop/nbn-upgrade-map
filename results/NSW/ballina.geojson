@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T04:25:29.734079",
+ "generated": "2023-10-11T00:38:12.860384",
  "suburb": "BALLINA",
  "features": [
   {
@@ -13836,8 +13836,8 @@
    "properties": {
     "name": "UNIT 5, 163 FOX STREET BALLINA 2478",
     "locID": "LOC000098776517",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703981411"
    }
   },
@@ -14041,7 +14041,7 @@
     "name": "15 MARINE STREET BALLINA 2478",
     "locID": "LOC000093743905",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703981445"
    }
   },
@@ -35596,8 +35596,8 @@
    "properties": {
     "name": "34 NORTON STREET BALLINA 2478",
     "locID": "LOC000099370969",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703987134"
    }
   },
@@ -38350,8 +38350,8 @@
    "properties": {
     "name": "UNIT 3, 23 CRANE STREET BALLINA 2478",
     "locID": "LOC000076236449",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703987938"
    }
   },
@@ -42838,8 +42838,8 @@
    "properties": {
     "name": "5 PROSPER PLACE BALLINA 2478",
     "locID": "LOC000073900340",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703988930"
    }
   },
@@ -50149,7 +50149,7 @@
     "name": "37 KERR STREET BALLINA 2478",
     "locID": "LOC000054053553",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703990668"
    }
   },
@@ -52444,7 +52444,7 @@
     "name": "UNIT 2, 8 SEAHORSE PLACE BALLINA 2478",
     "locID": "LOC000096655148",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706619889"
    }
   },
@@ -72197,8 +72197,8 @@
    "properties": {
     "name": "16 SKINNER STREET BALLINA 2478",
     "locID": "LOC000053320425",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712276157"
    }
   },
@@ -73968,6 +73968,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712279470"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.55796968,
+     -28.86980008
+    ]
+   },
+   "properties": {
+    "name": "224 RIVER STREET BALLINA 2478",
+    "locID": "LOC000121130938",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW712279471"
    }
   },
   {
@@ -115530,7 +115547,7 @@
    "properties": {
     "name": "SITE 100, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000112672856",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179883"
    }
@@ -115547,7 +115564,7 @@
    "properties": {
     "name": "SITE 101, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000112181998",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179884"
    }
@@ -115564,7 +115581,7 @@
    "properties": {
     "name": "SITE 102, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000113741168",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179885"
    }
@@ -115581,7 +115598,7 @@
    "properties": {
     "name": "SITE 103, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000113812990",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179886"
    }
@@ -115598,7 +115615,7 @@
    "properties": {
     "name": "SITE 105, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111256512",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179887"
    }
@@ -115615,7 +115632,7 @@
    "properties": {
     "name": "SITE 106, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111709112",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179888"
    }
@@ -115632,7 +115649,7 @@
    "properties": {
     "name": "SITE 107, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111422029",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179889"
    }
@@ -115649,7 +115666,7 @@
    "properties": {
     "name": "SITE 108, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000110541285",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179890"
    }
@@ -115666,7 +115683,7 @@
    "properties": {
     "name": "SITE 10, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111422029",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179891"
    }
@@ -115683,7 +115700,7 @@
    "properties": {
     "name": "SITE 110, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111811114",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179892"
    }
@@ -115700,7 +115717,7 @@
    "properties": {
     "name": "SITE 12, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111972667",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179893"
    }
@@ -115768,7 +115785,7 @@
    "properties": {
     "name": "SITE 17, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000112473150",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179897"
    }
@@ -115785,7 +115802,7 @@
    "properties": {
     "name": "SITE 18, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111972667",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179898"
    }
@@ -115802,7 +115819,7 @@
    "properties": {
     "name": "SITE 20, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000112128900",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179899"
    }
@@ -115972,7 +115989,7 @@
    "properties": {
     "name": "SITE 6, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582308",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179909"
    }
@@ -116023,7 +116040,7 @@
    "properties": {
     "name": "SITE 73, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000113628626",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179912"
    }
@@ -116091,7 +116108,7 @@
    "properties": {
     "name": "SITE 77, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000110413695",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179916"
    }
@@ -116125,7 +116142,7 @@
    "properties": {
     "name": "SITE 7, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000113628626",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179918"
    }
@@ -116159,7 +116176,7 @@
    "properties": {
     "name": "SITE 81, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111906364",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179920"
    }
@@ -116176,7 +116193,7 @@
    "properties": {
     "name": "SITE 82, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000110382669",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179921"
    }
@@ -116227,7 +116244,7 @@
    "properties": {
     "name": "SITE 86, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111688081",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179924"
    }
@@ -116244,7 +116261,7 @@
    "properties": {
     "name": "SITE 89, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000112704952",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179925"
    }
@@ -116261,7 +116278,7 @@
    "properties": {
     "name": "SITE 90, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000110763984",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179926"
    }
@@ -116295,7 +116312,7 @@
    "properties": {
     "name": "SITE 95, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111384750",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179928"
    }
@@ -116312,7 +116329,7 @@
    "properties": {
     "name": "SITE 96, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000112061949",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179929"
    }
@@ -116329,7 +116346,7 @@
    "properties": {
     "name": "SITE 97, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111693531",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179930"
    }
@@ -116346,7 +116363,7 @@
    "properties": {
     "name": "SITE 98, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000110809862",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179931"
    }
@@ -116363,7 +116380,7 @@
    "properties": {
     "name": "SITE 99, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000112399116",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718179932"
    }
@@ -120885,7 +120902,7 @@
    "properties": {
     "name": "SITE 24, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111972667",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718372310"
    }
@@ -121395,7 +121412,7 @@
    "properties": {
     "name": "SITE 11, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000111811114",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718434678"
    }
@@ -127124,7 +127141,7 @@
    "properties": {
     "name": "SITE 87, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582377",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718779651"
    }
@@ -129266,7 +129283,7 @@
    "properties": {
     "name": "UNIT 104, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582417",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931813"
    }
@@ -129283,7 +129300,7 @@
    "properties": {
     "name": "UNIT 109, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582429",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931814"
    }
@@ -129368,7 +129385,7 @@
    "properties": {
     "name": "UNIT 29, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159581756",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931819"
    }
@@ -129436,7 +129453,7 @@
    "properties": {
     "name": "SITE 35, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159581827",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931823"
    }
@@ -129606,7 +129623,7 @@
    "properties": {
     "name": "UNIT 46, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159581929",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931833"
    }
@@ -129640,7 +129657,7 @@
    "properties": {
     "name": "UNIT 48, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159581964",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931835"
    }
@@ -129793,7 +129810,7 @@
    "properties": {
     "name": "SITE 57, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582061",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931844"
    }
@@ -129810,7 +129827,7 @@
    "properties": {
     "name": "UNIT 58, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582074",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931845"
    }
@@ -129861,7 +129878,7 @@
    "properties": {
     "name": "UNIT 60, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582090",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931848"
    }
@@ -129878,7 +129895,7 @@
    "properties": {
     "name": "SITE 61, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582308",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931849"
    }
@@ -129895,7 +129912,7 @@
    "properties": {
     "name": "UNIT 66, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582312",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931850"
    }
@@ -129963,7 +129980,7 @@
    "properties": {
     "name": "UNIT 79, 126 TAMARIND DRIVE BALLINA 2478",
     "locID": "LOC000159582354",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718931854"
    }
