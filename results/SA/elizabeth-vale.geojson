@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T18:36:05.661436",
+ "generated": "2023-10-11T14:35:40.820059",
  "suburb": "ELIZABETH VALE",
  "features": [
   {
@@ -2752,8 +2752,8 @@
    "properties": {
     "name": "10 KNOWLES ROAD ELIZABETH VALE 5112",
     "locID": "LOC000010064805",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GASA_415162199"
    }
   },
@@ -22149,8 +22149,8 @@
    "properties": {
     "name": "211 PHILIP HIGHWAY ELIZABETH VALE 5112",
     "locID": "LOC000068138274",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415488753"
    }
   },
@@ -26674,6 +26674,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415976704"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.66507715,
+     -34.74331311
+    ]
+   },
+   "properties": {
+    "name": "25 STOKES COURT ELIZABETH VALE 5112",
+    "locID": "LOC000159759464",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_415976705"
    }
   },
   {
@@ -33814,6 +33831,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425724331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6651953,
+     -34.7430645
+    ]
+   },
+   "properties": {
+    "name": "25-33 STOKES COURT ELIZABETH VALE 5112",
+    "locID": "LOC000159759464",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_425724962"
    }
   },
   {
