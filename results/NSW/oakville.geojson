@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T14:06:40.096745",
+ "generated": "2023-10-11T10:14:24.280070",
  "suburb": "OAKVILLE",
  "features": [
   {
@@ -49,8 +49,8 @@
    "properties": {
     "name": "39 SPEETS ROAD OAKVILLE 2765",
     "locID": "LOC000078515190",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW705561760"
    }
   },
@@ -4581,6 +4581,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.87643587,
+     -33.64337955
+    ]
+   },
+   "properties": {
+    "name": "49 HARKNESS ROAD OAKVILLE 2765",
+    "locID": "ChIJWVTYThyeEmsRTx8muwM5RP0",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW705574977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.87763523,
      -33.64319835
     ]
@@ -4591,6 +4608,23 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705574978"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87614251,
+     -33.64264614
+    ]
+   },
+   "properties": {
+    "name": "57 HARKNESS ROAD OAKVILLE 2765",
+    "locID": "ChIJ3afhrR2eEmsRpI76OPa052Y",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW705574979"
    }
   },
   {
@@ -5781,6 +5815,40 @@
     "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705580146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87553852,
+     -33.64455302
+    ]
+   },
+   "properties": {
+    "name": "41 HARKNESS ROAD OAKVILLE 2765",
+    "locID": "LOC000190971435",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705580147"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.87780779,
+     -33.64400942
+    ]
+   },
+   "properties": {
+    "name": "42 HARKNESS ROAD OAKVILLE 2765",
+    "locID": "ChIJxboAKByeEmsRszuo4artmEg",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW705580148"
    }
   },
   {
@@ -15315,7 +15383,7 @@
    "properties": {
     "name": "52A STAHLS ROAD OAKVILLE 2765",
     "locID": "LOC100056418936",
-    "tech": "SATELLITE",
+    "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718860235"
    }

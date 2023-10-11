@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T13:15:27.482675",
+ "generated": "2023-10-11T09:29:52.898850",
  "suburb": "MOGRIGUY",
  "features": [
   {
@@ -15,8 +15,8 @@
    "properties": {
     "name": "69L GODWIN STREET MOGRIGUY 2830",
     "locID": "LOC000122177400",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GANSW705393055"
    }
   },
@@ -50,7 +50,7 @@
     "name": "141R MOGRIGUY ROAD MOGRIGUY 2830",
     "locID": "LOC000095394841",
     "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706534130"
    }
   },
@@ -783,6 +783,23 @@
     "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718776856"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.66423414,
+     -32.06241615
+    ]
+   },
+   "properties": {
+    "name": "LOT 84 GOONOO STREET MOGRIGUY 2830",
+    "locID": "Eio4NCBHb29ub28gU3QsIE1vZ3JpZ3V5IE5TVyAyODMwLCBBdXN0cmFsaWEiMBIuChQKEgn_P3to5kEPaxFRxil0tAkGExBUKhQKEgkD8uuR5kEPaxE4x9BWxeAgBA",
+    "tech": "SATELLITE",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW718777776"
    }
   },
   {
