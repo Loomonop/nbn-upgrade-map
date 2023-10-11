@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-21T20:58:08.810972",
+ "generated": "2023-10-11T17:03:39.198658",
  "suburb": "ST GEORGES",
  "features": [
   {
@@ -3432,8 +3432,8 @@
    "properties": {
     "name": "38 WOOTOONA TERRACE ST GEORGES 5064",
     "locID": "LOC000104123184",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415104523"
    }
   },
@@ -4826,8 +4826,8 @@
    "properties": {
     "name": "43A HIGHFIELD AVENUE ST GEORGES 5064",
     "locID": "LOC000028335143",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415219369"
    }
   },
@@ -5744,8 +5744,8 @@
    "properties": {
     "name": "27 FIFESHIRE AVENUE ST GEORGES 5064",
     "locID": "LOC000031868539",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_415451334"
    }
   },
@@ -6359,6 +6359,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_415457291"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.64916093,
+     -34.95437581
+    ]
+   },
+   "properties": {
+    "name": "23 WOOTOONA TERRACE ST GEORGES 5064",
+    "locID": "LOC000015261564",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_415457312"
    }
   },
   {
@@ -9885,6 +9902,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.64464993,
+     -34.9544205
+    ]
+   },
+   "properties": {
+    "name": "2 CRAIGHILL ROAD ST GEORGES 5064",
+    "locID": "LOC000091502225",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GASA_422261135"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.64756627,
      -34.95396392
     ]
@@ -11677,8 +11711,8 @@
    "properties": {
     "name": "27-29 FIFESHIRE AVENUE ST GEORGES 5064",
     "locID": "LOC000031868539",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GASA_719246013"
    }
   },
@@ -12282,6 +12316,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     138.64464993,
+     -34.9544205
+    ]
+   },
+   "properties": {
+    "name": "2A CRAIGHILL ROAD ST GEORGES 5064",
+    "locID": "ChIJdyZOCCLMsGoRZ4KDB6AwhkU",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GASA_721259281"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      138.64505129,
      -34.95283627
     ]
@@ -12323,7 +12374,7 @@
    "properties": {
     "name": "10 HEWITT AVENUE ST GEORGES 5064",
     "locID": "LOC000172880830",
-    "tech": "FTTP",
+    "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721277294"
    }
