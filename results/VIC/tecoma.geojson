@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-22T11:54:48.448319",
+ "generated": "2023-10-12T08:37:32.676966",
  "suburb": "TECOMA",
  "features": [
   {
@@ -3772,8 +3772,8 @@
    "properties": {
     "name": "21 RUTHERFORD ROAD TECOMA 3160",
     "locID": "LOC000004394818",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419606284"
    }
   },
@@ -6288,8 +6288,8 @@
    "properties": {
     "name": "2 MYRTLE GROVE TECOMA 3160",
     "locID": "LOC000029355371",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420186768"
    }
   },
@@ -10351,7 +10351,7 @@
    "properties": {
     "name": "1 ROCKSLEIGH AVENUE TECOMA 3160",
     "locID": "ChIJsyKubRIj1moRshhoaipvx1I",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421109632"
    }
@@ -11748,23 +11748,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421408067"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.348958,
-     -37.902342
-    ]
-   },
-   "properties": {
-    "name": "6 VIEW ROAD TECOMA 3160",
-    "locID": "LOC000166720047",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC421408223"
    }
   },
   {
