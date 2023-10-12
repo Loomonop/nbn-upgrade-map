@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-22T14:46:52.979669",
+ "generated": "2023-10-12T11:40:06.588690",
  "suburb": "DARLING DOWNS",
  "features": [
   {
@@ -2548,8 +2548,8 @@
    "properties": {
     "name": "65 TULLOCH WAY DARLING DOWNS 6122",
     "locID": "LOC000035257435",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "SAT_CT",
     "gnaf_pid": "GAWA_146886754"
    }
   },
@@ -3704,8 +3704,8 @@
    "properties": {
     "name": "30 DALRAY COURT DARLING DOWNS 6122",
     "locID": "LOC000008621326",
-    "tech": "SATELLITE",
-    "upgrade": "FW_NA",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146908522"
    }
   },
@@ -4098,6 +4098,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147126719"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.99834,
+     -32.20376
+    ]
+   },
+   "properties": {
+    "name": "78 KENTUCKY DRIVE WEST DARLING DOWNS 6122",
+    "locID": "ChIJl_W8pouSMioRgdwhIhLopo4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_147126721"
    }
   },
   {
@@ -6648,6 +6665,23 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162273644"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.00343208,
+     -32.20300619
+    ]
+   },
+   "properties": {
+    "name": "78 KENTUCKY DRIVE DARLING DOWNS 6122",
+    "locID": "ChIJPTDBto2SMioRSNT2G-JfVF0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAWA_162394916"
    }
   },
   {
