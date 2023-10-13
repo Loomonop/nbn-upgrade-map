@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-23T15:45:07.599607",
+ "generated": "2023-10-13T14:11:03.794617",
  "suburb": "GEORGES HALL",
  "features": [
   {
@@ -6102,7 +6102,7 @@
     "name": "4 HORBLING AVENUE GEORGES HALL 2198",
     "locID": "LOC000025394119",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704775424"
    }
   },
@@ -7003,7 +7003,7 @@
     "name": "45 SARIC AVENUE GEORGES HALL 2198",
     "locID": "LOC000067433546",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704775491"
    }
   },
@@ -8788,7 +8788,7 @@
     "name": "29 SARIC AVENUE GEORGES HALL 2198",
     "locID": "LOC000034682981",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704778097"
    }
   },
@@ -9485,7 +9485,7 @@
     "name": "36 STURT AVENUE GEORGES HALL 2198",
     "locID": "LOC000187477620",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704778808"
    }
   },
@@ -10742,8 +10742,8 @@
    "properties": {
     "name": "13 CUMBERLAND AVENUE GEORGES HALL 2198",
     "locID": "LOC000088311027",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704781356"
    }
   },
@@ -15546,6 +15546,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.98997179,
+     -33.90588747
+    ]
+   },
+   "properties": {
+    "name": "47 FLINDERS ROAD GEORGES HALL 2198",
+    "locID": "LOC000193746134",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704784421"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.99478001,
      -33.91494008
     ]
@@ -15945,7 +15962,7 @@
     "name": "529 MARION STREET GEORGES HALL 2198",
     "locID": "LOC000097945896",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704784449"
    }
   },
@@ -16423,23 +16440,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704784478"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.98788772,
-     -33.90000761
-    ]
-   },
-   "properties": {
-    "name": "10 YVONNE CRESCENT GEORGES HALL 2198",
-    "locID": "LOC000090120439",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW704784479"
    }
   },
   {
@@ -21095,8 +21095,8 @@
    "properties": {
     "name": "485 MARION STREET GEORGES HALL 2198",
     "locID": "LOC000105369242",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704787058"
    }
   },
@@ -29596,7 +29596,7 @@
     "name": "461 MARION STREET GEORGES HALL 2198",
     "locID": "LOC000078699305",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704795341"
    }
   },
@@ -30106,7 +30106,7 @@
     "name": "1 BIRDWOOD ROAD GEORGES HALL 2198",
     "locID": "LOC000097715204",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704796332"
    }
   },
@@ -34032,8 +34032,8 @@
    "properties": {
     "name": "UNIT 1, 22 BALMORAL CRESCENT GEORGES HALL 2198",
     "locID": "LOC000025535193",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704801132"
    }
   },
@@ -34118,7 +34118,7 @@
     "name": "3 BALMORAL CRESCENT GEORGES HALL 2198",
     "locID": "LOC000084006920",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704801776"
    }
   },
@@ -42329,7 +42329,7 @@
     "name": "37 STURT AVENUE GEORGES HALL 2198",
     "locID": "LOC000046469845",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706664380"
    }
   },
@@ -43451,7 +43451,7 @@
     "name": "2A SARIC AVENUE GEORGES HALL 2198",
     "locID": "LOC000005460721",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW711375717"
    }
   },
@@ -46562,7 +46562,7 @@
     "name": "24B BALMORAL CRESCENT GEORGES HALL 2198",
     "locID": "LOC000043030146",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW715730264"
    }
   },
@@ -50557,7 +50557,7 @@
     "name": "49A BIRDWOOD ROAD GEORGES HALL 2198",
     "locID": "LOC000120245333",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718349872"
    }
   },
@@ -52699,7 +52699,7 @@
     "name": "28A STURT AVENUE GEORGES HALL 2198",
     "locID": "LOC000152667752",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718853674"
    }
   },
@@ -56764,23 +56764,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721241043"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.98788283,
-     -33.90000926
-    ]
-   },
-   "properties": {
-    "name": "10A YVONNE CRESCENT GEORGES HALL 2198",
-    "locID": "LOC000090120439",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721243043"
    }
   },
   {
