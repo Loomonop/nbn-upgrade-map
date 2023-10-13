@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-23T23:19:59.124286",
+ "generated": "2023-10-13T21:00:18.779794",
  "suburb": "DUNDAS VALLEY",
  "features": [
   {
@@ -2362,7 +2362,7 @@
     "name": "46 PERRY STREET DUNDAS VALLEY 2117",
     "locID": "LOC000086909800",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704615203"
    }
   },
@@ -2498,7 +2498,7 @@
     "name": "55 PERRY STREET DUNDAS VALLEY 2117",
     "locID": "LOC000048140925",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704615211"
    }
   },
@@ -3144,7 +3144,7 @@
     "name": "57 BAIN PLACE DUNDAS VALLEY 2117",
     "locID": "LOC000047834731",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704617832"
    }
   },
@@ -6833,7 +6833,7 @@
     "name": "6 FORSTER PLACE DUNDAS VALLEY 2117",
     "locID": "LOC000033673563",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704629716"
    }
   },
@@ -10216,7 +10216,7 @@
     "name": "36 CARSON STREET DUNDAS VALLEY 2117",
     "locID": "LOC000092811832",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706524084"
    }
   },
@@ -10456,6 +10456,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706527293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.05603154,
+     -33.79243563
+    ]
+   },
+   "properties": {
+    "name": "21 ALEXANDER STREET DUNDAS VALLEY 2117",
+    "locID": "LOC000156017147",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706527294"
    }
   },
   {
@@ -10981,7 +10998,7 @@
     "name": "45 CARSON STREET DUNDAS VALLEY 2117",
     "locID": "LOC000079842345",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706534113"
    }
   },
@@ -11627,7 +11644,7 @@
     "name": "19 CARSON STREET DUNDAS VALLEY 2117",
     "locID": "LOC000020440759",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706547743"
    }
   },
@@ -14500,7 +14517,7 @@
     "name": "5A PERRY STREET DUNDAS VALLEY 2117",
     "locID": "LOC000054084407",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706576233"
    }
   },
@@ -15588,7 +15605,7 @@
     "name": "2A MILLER AVENUE DUNDAS VALLEY 2117",
     "locID": "LOC000017158607",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706592401"
    }
   },
@@ -15605,7 +15622,7 @@
     "name": "1 MILLER AVENUE DUNDAS VALLEY 2117",
     "locID": "LOC000038992486",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706592402"
    }
   },
@@ -15673,7 +15690,7 @@
     "name": "1 MARK STREET DUNDAS VALLEY 2117",
     "locID": "LOC000098442152",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706592406"
    }
   },
@@ -16370,7 +16387,7 @@
     "name": "7 VARNDELL PLACE DUNDAS VALLEY 2117",
     "locID": "LOC000010888502",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706602981"
    }
   },
@@ -16455,7 +16472,7 @@
     "name": "43 CARSON STREET DUNDAS VALLEY 2117",
     "locID": "LOC000025365943",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706606459"
    }
   },
@@ -19906,7 +19923,7 @@
     "name": "37 MOFFATTS DRIVE DUNDAS VALLEY 2117",
     "locID": "LOC000028739465",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW707538862"
    }
   },
@@ -21214,26 +21231,9 @@
    "properties": {
     "name": "UNIT 12, 49 BAIN PLACE DUNDAS VALLEY 2117",
     "locID": "LOC000052855953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW710884517"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.06090114,
-     -33.79618375
-    ]
-   },
-   "properties": {
-    "name": "13 BOARDMAN STREET DUNDAS VALLEY 2117",
-    "locID": "LOC000076014848",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710884522"
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW710884517"
    }
   },
   {
@@ -24359,8 +24359,8 @@
    "properties": {
     "name": "49 BAIN PLACE DUNDAS VALLEY 2117",
     "locID": "LOC000052855953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715587069"
    }
   },
@@ -36515,7 +36515,7 @@
     "name": "25A STEWART STREET DUNDAS VALLEY 2117",
     "locID": "LOC000165140187",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718931452"
    }
   },
