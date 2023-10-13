@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T00:38:33.954191",
+ "generated": "2023-10-13T22:31:53.669437",
  "suburb": "PORT KEMBLA",
  "features": [
   {
@@ -1307,8 +1307,8 @@
    "properties": {
     "name": "67 TOBRUK AVENUE PORT KEMBLA 2505",
     "locID": "LOC000052334804",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705644058"
    }
   },
@@ -3228,8 +3228,8 @@
    "properties": {
     "name": "27 RESERVOIR STREET PORT KEMBLA 2505",
     "locID": "LOC000031350725",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705647650"
    }
   },
@@ -3756,7 +3756,7 @@
     "name": "9 BLAND STREET PORT KEMBLA 2505",
     "locID": "LOC000021410502",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705650597"
    }
   },
@@ -4504,7 +4504,7 @@
     "name": "31 COWPER STREET PORT KEMBLA 2505",
     "locID": "LOC000012214422",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705650660"
    }
   },
@@ -6305,8 +6305,8 @@
    "properties": {
     "name": "44 FIFTH AVENUE PORT KEMBLA 2505",
     "locID": "LOC000005921449",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705654253"
    }
   },
@@ -7073,23 +7073,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705654308"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.91105382,
-     -34.49127526
-    ]
-   },
-   "properties": {
-    "name": "23 OLYMPIC BOULEVARD PORT KEMBLA 2505",
-    "locID": "LOC000033830149",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654309"
    }
   },
   {
@@ -11780,7 +11763,7 @@
     "name": "13 SURFSIDE DRIVE PORT KEMBLA 2505",
     "locID": "LOC000005093922",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705660984"
    }
   },
@@ -12731,8 +12714,8 @@
    "properties": {
     "name": "UNIT 5, 9 SURFSIDE DRIVE PORT KEMBLA 2505",
     "locID": "LOC000040328876",
-    "tech": "NULL",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705664239"
    }
   },
@@ -13618,23 +13601,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705664579"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.89408364,
-     -34.48708886
-    ]
-   },
-   "properties": {
-    "name": "25 FORSTER STREET PORT KEMBLA 2505",
-    "locID": "LOC000086272239",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664580"
    }
   },
   {
@@ -18528,8 +18494,8 @@
    "properties": {
     "name": "16 SUVLA STREET PORT KEMBLA 2505",
     "locID": "LOC000015506081",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705674518"
    }
   },
@@ -20653,8 +20619,8 @@
    "properties": {
     "name": "19 PERTH ROAD PORT KEMBLA 2505",
     "locID": "LOC000082388565",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705678122"
    }
   },
@@ -20942,8 +20908,8 @@
    "properties": {
     "name": "13 BLAND STREET PORT KEMBLA 2505",
     "locID": "LOC000106992050",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705681079"
    }
   },
@@ -21421,23 +21387,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705681107"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.89794975,
-     -34.48784933
-    ]
-   },
-   "properties": {
-    "name": "98 ILLAWARRA STREET PORT KEMBLA 2505",
-    "locID": "LOC000099290740",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681108"
    }
   },
   {
@@ -22676,8 +22625,8 @@
    "properties": {
     "name": "78 SHELLHARBOUR ROAD PORT KEMBLA 2505",
     "locID": "LOC000086397166",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705681194"
    }
   },
@@ -22745,7 +22694,7 @@
     "name": "82 SHELLHARBOUR ROAD PORT KEMBLA 2505",
     "locID": "LOC000003202669",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705681198"
    }
   },
@@ -25151,23 +25100,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.89463213,
-     -34.48767822
-    ]
-   },
-   "properties": {
-    "name": "37 FORSTER STREET PORT KEMBLA 2505",
-    "locID": "LOC000065154819",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688333"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.89532483,
      -34.48765653
     ]
@@ -26213,7 +26145,7 @@
     "name": "65 ROBERTSON STREET PORT KEMBLA 2505",
     "locID": "LOC000030035706",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705691167"
    }
   },
@@ -27147,8 +27079,8 @@
    "properties": {
     "name": "16 BRODY STREET PORT KEMBLA 2505",
     "locID": "LOC000023253326",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705691407"
    }
   },
@@ -27522,7 +27454,7 @@
     "name": "61 KEIRA STREET PORT KEMBLA 2505",
     "locID": "LOC000025548517",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705691436"
    }
   },
@@ -29052,7 +28984,7 @@
     "name": "3 SOMME STREET PORT KEMBLA 2505",
     "locID": "LOC000052678271",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705694739"
    }
   },
@@ -29222,7 +29154,7 @@
     "name": "8 STOREY STREET PORT KEMBLA 2505",
     "locID": "LOC000060201906",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705694754"
    }
   },
@@ -31925,7 +31857,7 @@
     "name": "UNIT 1, 82 SHELLHARBOUR ROAD PORT KEMBLA 2505",
     "locID": "LOC000003202669",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW708316942"
    }
   },
@@ -39302,8 +39234,8 @@
    "properties": {
     "name": "UNIT 2, 44 FIFTH AVENUE PORT KEMBLA 2505",
     "locID": "LOC000005921449",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712400178"
    }
   },
@@ -44011,8 +43943,8 @@
    "properties": {
     "name": "15 GALLIPOLI STREET PORT KEMBLA 2505",
     "locID": "LOC000152529241",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716732665"
    }
   },
@@ -46289,8 +46221,8 @@
    "properties": {
     "name": "17 GALLIPOLI STREET PORT KEMBLA 2505",
     "locID": "LOC000090573719",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717890789"
    }
   },
@@ -46391,8 +46323,8 @@
    "properties": {
     "name": "33 GALLIPOLI STREET PORT KEMBLA 2505",
     "locID": "LOC000059805122",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717890795"
    }
   },
