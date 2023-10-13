@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-23T17:13:27.870081",
+ "generated": "2023-10-13T15:40:00.624330",
  "suburb": "KIRRAWEE",
  "features": [
   {
@@ -168,8 +168,8 @@
    "properties": {
     "name": "46 TEA TREE PLACE KIRRAWEE 2232",
     "locID": "LOC000093533040",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705093591"
    }
   },
@@ -1971,7 +1971,7 @@
     "name": "5 KIEWA PLACE KIRRAWEE 2232",
     "locID": "LOC000034841224",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705105851"
    }
   },
@@ -1988,7 +1988,7 @@
     "name": "6 KIEWA PLACE KIRRAWEE 2232",
     "locID": "LOC000099525919",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705105852"
    }
   },
@@ -2005,7 +2005,7 @@
     "name": "7 KIEWA PLACE KIRRAWEE 2232",
     "locID": "LOC000010005644",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705105853"
    }
   },
@@ -2058,6 +2058,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705105857"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.06956107,
+     -34.02440109
+    ]
+   },
+   "properties": {
+    "name": "515 THE BOULEVARDE KIRRAWEE 2232",
+    "locID": "LOC000193883866",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705105858"
    }
   },
   {
@@ -5200,8 +5217,8 @@
    "properties": {
     "name": "281 FOREST ROAD KIRRAWEE 2232",
     "locID": "LOC000027335912",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705107832"
    }
   },
@@ -7479,7 +7496,7 @@
     "name": "8 KIEWA PLACE KIRRAWEE 2232",
     "locID": "LOC000065319719",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705108453"
    }
   },
@@ -8635,7 +8652,7 @@
     "name": "487 THE BOULEVARDE KIRRAWEE 2232",
     "locID": "LOC000030369919",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705109164"
    }
   },
@@ -12647,7 +12664,7 @@
     "name": "14 KIEWA PLACE KIRRAWEE 2232",
     "locID": "LOC000071015556",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705111701"
    }
   },
@@ -17560,7 +17577,7 @@
     "name": "18 PEPPERCORN PLACE KIRRAWEE 2232",
     "locID": "LOC000042358795",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705113350"
    }
   },
@@ -18640,6 +18657,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.07609596,
+     -34.03601491
+    ]
+   },
+   "properties": {
+    "name": "407 PRESIDENT AVENUE KIRRAWEE 2232",
+    "locID": "LOC000193667685",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705114109"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.07689428,
      -34.03696237
     ]
@@ -18837,23 +18871,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705114292"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.06709814,
-     -34.03663974
-    ]
-   },
-   "properties": {
-    "name": "16 BEST CRESCENT KIRRAWEE 2232",
-    "locID": "LOC000001451222",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705114293"
    }
   },
   {
@@ -23697,7 +23714,7 @@
     "name": "20 PEPPERCORN PLACE KIRRAWEE 2232",
     "locID": "LOC000035457035",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705115153"
    }
   },
@@ -23731,7 +23748,7 @@
     "name": "4 PEPPERCORN PLACE KIRRAWEE 2232",
     "locID": "LOC000082338415",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705115155"
    }
   },
@@ -23748,7 +23765,7 @@
     "name": "6 PEPPERCORN PLACE KIRRAWEE 2232",
     "locID": "LOC000056847228",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705115156"
    }
   },
@@ -24071,7 +24088,7 @@
     "name": "472 THE BOULEVARDE KIRRAWEE 2232",
     "locID": "LOC000068426605",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705115195"
    }
   },
@@ -27284,7 +27301,7 @@
     "name": "12 PEPPERCORN PLACE KIRRAWEE 2232",
     "locID": "LOC000041047750",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705116602"
    }
   },
@@ -30106,7 +30123,7 @@
     "name": "199 FOREST ROAD KIRRAWEE 2232",
     "locID": "LOC000017132236",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705117721"
    }
   },
@@ -35121,7 +35138,7 @@
     "name": "39 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000025941767",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705125359"
    }
   },
@@ -35138,7 +35155,7 @@
     "name": "41 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000108187778",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705125360"
    }
   },
@@ -35172,7 +35189,7 @@
     "name": "43 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000090775883",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705125362"
    }
   },
@@ -35189,7 +35206,7 @@
     "name": "45 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000030545552",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705125363"
    }
   },
@@ -39133,7 +39150,7 @@
     "name": "32 STIRLING AVENUE KIRRAWEE 2232",
     "locID": "LOC000080022994",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705128742"
    }
   },
@@ -39574,8 +39591,8 @@
    "properties": {
     "name": "13 CHURCHILL AVENUE KIRRAWEE 2232",
     "locID": "LOC000010617847",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GANSW705130488"
    }
   },
@@ -40782,7 +40799,7 @@
     "name": "52 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000046902980",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705130584"
    }
   },
@@ -40799,7 +40816,7 @@
     "name": "53 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000086134046",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705130585"
    }
   },
@@ -40816,7 +40833,7 @@
     "name": "55 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000061046713",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705130586"
    }
   },
@@ -40833,7 +40850,7 @@
     "name": "57 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000051581684",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705130587"
    }
   },
@@ -40884,7 +40901,7 @@
     "name": "63 MOKERA AVENUE KIRRAWEE 2232",
     "locID": "LOC000053687941",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705130590"
    }
   },
@@ -46901,8 +46918,8 @@
    "properties": {
     "name": "124 ACACIA ROAD KIRRAWEE 2232",
     "locID": "LOC000103514680",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711604337"
    }
   },
@@ -53855,7 +53872,7 @@
     "name": "13 KIEWA PLACE KIRRAWEE 2232",
     "locID": "LOC000092796670",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW711649317"
    }
   },
@@ -75326,7 +75343,7 @@
     "name": "27 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000015706915",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896711"
    }
   },
@@ -75360,7 +75377,7 @@
     "name": "29 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000015440916",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896713"
    }
   },
@@ -75394,7 +75411,7 @@
     "name": "31 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000037912253",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896715"
    }
   },
@@ -75411,7 +75428,7 @@
     "name": "32 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000096237944",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896716"
    }
   },
@@ -75428,7 +75445,7 @@
     "name": "33 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000029570870",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896717"
    }
   },
@@ -75445,7 +75462,7 @@
     "name": "34 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000019790298",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896718"
    }
   },
@@ -75462,7 +75479,7 @@
     "name": "35 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000066616444",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896719"
    }
   },
@@ -75496,7 +75513,7 @@
     "name": "37 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000030353379",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896721"
    }
   },
@@ -75530,7 +75547,7 @@
     "name": "39 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000108523407",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896723"
    }
   },
@@ -75547,7 +75564,7 @@
     "name": "40 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000086873886",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896724"
    }
   },
@@ -75564,7 +75581,7 @@
     "name": "41 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000057265045",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896725"
    }
   },
@@ -75581,7 +75598,7 @@
     "name": "42 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000054648492",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896726"
    }
   },
@@ -75598,7 +75615,7 @@
     "name": "43 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000075831589",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896727"
    }
   },
@@ -75649,7 +75666,7 @@
     "name": "46 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000109992257",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896730"
    }
   },
@@ -75683,7 +75700,7 @@
     "name": "48 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000007345539",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717896732"
    }
   },
@@ -75937,8 +75954,8 @@
    "properties": {
     "name": "69 OAK ROAD KIRRAWEE 2232",
     "locID": "LOC000015533858",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717896747"
    }
   },
