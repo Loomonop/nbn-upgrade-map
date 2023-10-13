@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-23T14:09:32.359581",
+ "generated": "2023-10-13T12:23:22.331256",
  "suburb": "LAKE ILLAWARRA",
  "features": [
   {
@@ -661,8 +661,8 @@
    "properties": {
     "name": "UNIT 1, 124 PUR PUR AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000152776222",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705136369"
    }
   },
@@ -695,8 +695,8 @@
    "properties": {
     "name": "124 PUR PUR AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000152776222",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705136371"
    }
   },
@@ -1070,7 +1070,7 @@
     "name": "145 PUR PUR AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000065537199",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705139631"
    }
   },
@@ -2345,7 +2345,7 @@
     "name": "173 PUR PUR AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000046417096",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705142225"
    }
   },
@@ -2702,7 +2702,7 @@
     "name": "20 PARK ROAD LAKE ILLAWARRA 2528",
     "locID": "LOC000011315614",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705142915"
    }
   },
@@ -4282,8 +4282,8 @@
    "properties": {
     "name": "7 ALFRED CRESCENT LAKE ILLAWARRA 2528",
     "locID": "LOC000051258149",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705145642"
    }
   },
@@ -4402,7 +4402,7 @@
     "name": "115 REDDALL PARADE LAKE ILLAWARRA 2528",
     "locID": "LOC000071029028",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705145649"
    }
   },
@@ -4598,23 +4598,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.85870113,
-     -34.54286709
-    ]
-   },
-   "properties": {
-    "name": "23 BEATON STREET LAKE ILLAWARRA 2528",
-    "locID": "LOC000010875996",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705145661"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.85219964,
      -34.54073731
     ]
@@ -4776,7 +4759,7 @@
     "name": "23 REDDALL PARADE LAKE ILLAWARRA 2528",
     "locID": "LOC000071029028",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705145678"
    }
   },
@@ -7070,8 +7053,8 @@
    "properties": {
     "name": "10 ADDISON AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000036423322",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705150477"
    }
   },
@@ -8635,7 +8618,7 @@
     "name": "39 DAY STREET LAKE ILLAWARRA 2528",
     "locID": "LOC000014647272",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705151548"
    }
   },
@@ -9196,7 +9179,7 @@
     "name": "21 SHELLHARBOUR ROAD LAKE ILLAWARRA 2528",
     "locID": "LOC000078736587",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705151597"
    }
   },
@@ -10012,7 +9995,7 @@
     "name": "33 ADDISON AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000041212252",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705153151"
    }
   },
@@ -10063,7 +10046,7 @@
     "name": "36 ADDISON AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000022257782",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705153154"
    }
   },
@@ -11576,7 +11559,7 @@
     "name": "19 SHELLHARBOUR ROAD LAKE ILLAWARRA 2528",
     "locID": "LOC000097589420",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705154186"
    }
   },
@@ -11865,7 +11848,7 @@
     "name": "6 SHORT STREET LAKE ILLAWARRA 2528",
     "locID": "LOC000063439719",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705154208"
    }
   },
@@ -13751,8 +13734,8 @@
    "properties": {
     "name": "77 PUR PUR AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000008061962",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705156432"
    }
   },
@@ -15197,7 +15180,7 @@
     "name": "5 KOTARI PARADE LAKE ILLAWARRA 2528",
     "locID": "LOC000042500419",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705156824"
    }
   },
@@ -15384,7 +15367,7 @@
     "name": "15 MORAS PLACE LAKE ILLAWARRA 2528",
     "locID": "LOC000097014015",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705156835"
    }
   },
@@ -16438,7 +16421,7 @@
     "name": "4 GIRRAWEEN AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000078733755",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706406561"
    }
   },
@@ -16880,7 +16863,7 @@
     "name": "2 KING STREET LAKE ILLAWARRA 2528",
     "locID": "LOC000082878490",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706409119"
    }
   },
@@ -17797,8 +17780,8 @@
    "properties": {
     "name": "26 GIRRAWEEN AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000093409786",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706409932"
    }
   },
@@ -18206,7 +18189,7 @@
     "name": "1 ROYDON AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000011809223",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706410029"
    }
   },
@@ -19226,7 +19209,7 @@
     "name": "6 KING STREET LAKE ILLAWARRA 2528",
     "locID": "LOC000092581250",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706416879"
    }
   },
@@ -21504,7 +21487,7 @@
     "name": "23 ALBERT STREET LAKE ILLAWARRA 2528",
     "locID": "LOC000011276674",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706439763"
    }
   },
@@ -31040,8 +31023,8 @@
    "properties": {
     "name": "UNIT 3, 77 PUR PUR AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000008061962",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717878370"
    }
   },
@@ -33625,7 +33608,7 @@
     "name": "UNIT 5, 21 PUR PUR AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000171734326",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718906106"
    }
   },
@@ -34868,23 +34851,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719740703"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.85870113,
-     -34.54286709
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 23 BEATON STREET LAKE ILLAWARRA 2528",
-    "locID": "LOC000010875996",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719741395"
    }
   },
   {
@@ -36361,8 +36327,8 @@
    "properties": {
     "name": "2A ADDISON AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000189836097",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720393661"
    }
   },
@@ -37068,23 +37034,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.85870113,
-     -34.54286709
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 23 BEATON STREET LAKE ILLAWARRA 2528",
-    "locID": "LOC000010875996",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720843108"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.85896146,
      -34.54250416
     ]
@@ -37136,23 +37085,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.85870113,
-     -34.54286709
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 23 BEATON STREET LAKE ILLAWARRA 2528",
-    "locID": "LOC000010875996",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720844185"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.86034037,
      -34.54149225
     ]
@@ -37163,23 +37095,6 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720844728"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     150.85870113,
-     -34.54286709
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 23 BEATON STREET LAKE ILLAWARRA 2528",
-    "locID": "LOC000010875996",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720844729"
    }
   },
   {
@@ -37959,8 +37874,8 @@
    "properties": {
     "name": "UNIT 2, 26 GIRRAWEEN AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000093409786",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721329439"
    }
   },
@@ -38078,8 +37993,8 @@
    "properties": {
     "name": "UNIT 3, 26 GIRRAWEEN AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000093409786",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721331961"
    }
   },
@@ -38112,8 +38027,8 @@
    "properties": {
     "name": "UNIT 1, 26 GIRRAWEEN AVENUE LAKE ILLAWARRA 2528",
     "locID": "LOC000093409786",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721332560"
    }
   },
