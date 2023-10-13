@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-23T20:02:36.304476",
+ "generated": "2023-10-13T18:34:55.468842",
  "suburb": "CASINO",
  "features": [
   {
@@ -3432,8 +3432,8 @@
    "properties": {
     "name": "84 CENTRE STREET CASINO 2470",
     "locID": "LOC000048283169",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704328556"
    }
   },
@@ -3620,7 +3620,7 @@
     "name": "30 CHARLES AVENUE CASINO 2470",
     "locID": "LOC000092245946",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704328575"
    }
   },
@@ -3909,7 +3909,7 @@
     "name": "104 HOTHAM STREET CASINO 2470",
     "locID": "LOC000012186011",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704328602"
    }
   },
@@ -12884,8 +12884,8 @@
    "properties": {
     "name": "147 BARKER STREET CASINO 2470",
     "locID": "LOC000055510123",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704337807"
    }
   },
@@ -65414,8 +65414,8 @@
    "properties": {
     "name": "17 CLARK STREET CASINO 2470",
     "locID": "LOC000109715617",
-    "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704362610"
    }
   },
@@ -73761,7 +73761,7 @@
    "properties": {
     "name": "132 JOHNSTON STREET CASINO 2470",
     "locID": "LOC000190895820",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712254320"
    }
@@ -76396,7 +76396,7 @@
    "properties": {
     "name": "134 JOHNSTON STREET CASINO 2470",
     "locID": "LOC000190895820",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712274656"
    }
@@ -94419,6 +94419,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718122058"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.04885876,
+     -28.87827814
+    ]
+   },
+   "properties": {
+    "name": "UNIT E64, 69 LIGHT STREET CASINO 2470",
+    "locID": "LOC000114264004",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718122059"
    }
   },
   {
