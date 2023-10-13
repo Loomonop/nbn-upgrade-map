@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-23T09:12:33.314805",
+ "generated": "2023-10-13T07:23:59.652338",
  "suburb": "CHELSEA",
  "features": [
   {
@@ -1579,8 +1579,8 @@
    "properties": {
     "name": "462 NEPEAN HIGHWAY CHELSEA 3196",
     "locID": "LOC000080867909",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC411093707"
    }
   },
@@ -13037,8 +13037,8 @@
    "properties": {
     "name": "16 CHELBARA COURT CHELSEA 3196",
     "locID": "LOC000082200221",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419798911"
    }
   },
@@ -17254,7 +17254,7 @@
     "name": "UNIT 2, 13 CHADWELL GROVE CHELSEA 3196",
     "locID": "LOC000124094310",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419917811"
    }
   },
@@ -17389,8 +17389,8 @@
    "properties": {
     "name": "UNIT 12, 1-5 DOBELL DRIVE CHELSEA 3196",
     "locID": "LOC000096961097",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419921384"
    }
   },
@@ -31601,8 +31601,8 @@
    "properties": {
     "name": "UNIT 2, 76 THAMES PROMENADE CHELSEA 3196",
     "locID": "LOC000037826181",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420580065"
    }
   },
@@ -34263,6 +34263,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.119952,
+     -38.055341
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 11 ARGYLE AVENUE CHELSEA 3196",
+    "locID": "LOC000193879504",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420702713"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.127125,
      -38.052914
     ]
@@ -34458,7 +34475,7 @@
     "name": "14 DONALD GROVE CHELSEA 3196",
     "locID": "LOC000095257896",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420706598"
    }
   },
@@ -35018,8 +35035,8 @@
    "properties": {
     "name": "81 THAMES PROMENADE CHELSEA 3196",
     "locID": "LOC000105880914",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420709850"
    }
   },
@@ -35293,6 +35310,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420710129"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.12608,
+     -38.046526
+    ]
+   },
+   "properties": {
+    "name": "31 MULKARRA DRIVE CHELSEA 3196",
+    "locID": "LOC000092018495",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420710130"
    }
   },
   {
@@ -36260,7 +36294,7 @@
     "name": "13 FOY AVENUE CHELSEA 3196",
     "locID": "LOC000075336805",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420715327"
    }
   },
@@ -40798,8 +40832,8 @@
    "properties": {
     "name": "UNIT 1, 63-65 SWAN WALK CHELSEA 3196",
     "locID": "LOC000073759014",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420964341"
    }
   },
@@ -47574,6 +47608,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.119952,
+     -38.055341
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 11 ARGYLE AVENUE CHELSEA 3196",
+    "locID": "LOC000193879543",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421296637"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.11543005,
      -38.04977828
     ]
@@ -49862,6 +49913,40 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421318280"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.119952,
+     -38.055341
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 11 ARGYLE AVENUE CHELSEA 3196",
+    "locID": "LOC000193879536",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421318536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.119952,
+     -38.055341
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 11 ARGYLE AVENUE CHELSEA 3196",
+    "locID": "LOC000193879527",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421318537"
    }
   },
   {
@@ -58063,6 +58148,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.117206,
+     -38.057063
+    ]
+   },
+   "properties": {
+    "name": "2 NEWINGTON PARADE CHELSEA 3196",
+    "locID": "LOC000180030496",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421646081"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.115946,
      -38.057755
     ]
@@ -61742,8 +61844,8 @@
    "properties": {
     "name": "55 ELLA GROVE CHELSEA 3196",
     "locID": "LOC000005990381",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421890960"
    }
   },
@@ -64057,6 +64159,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421922692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.119952,
+     -38.055341
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 11 ARGYLE AVENUE CHELSEA 3196",
+    "locID": "LOC000193879515",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421923982"
    }
   },
   {
@@ -66692,6 +66811,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422077096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.119952,
+     -38.055341
+    ]
+   },
+   "properties": {
+    "name": "11 ARGYLE AVENUE CHELSEA 3196",
+    "locID": "LOC000193879504",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC422077097"
    }
   },
   {
@@ -76176,7 +76312,7 @@
     "name": "UNIT 3, 27 SWANPOOL AVENUE CHELSEA 3196",
     "locID": "LOC000124054953",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424546406"
    }
   },
@@ -82584,8 +82720,8 @@
    "properties": {
     "name": "UNIT 6, 9 BLANTYRE AVENUE CHELSEA 3196",
     "locID": "LOC000166056474",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425773951"
    }
   },
@@ -89163,7 +89299,7 @@
    "properties": {
     "name": "31B MULKARRA DRIVE CHELSEA 3196",
     "locID": "ChIJT_Qimbpy1moReVbDOQdM7Dw",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721026520"
    }
@@ -89265,7 +89401,7 @@
    "properties": {
     "name": "31A MULKARRA DRIVE CHELSEA 3196",
     "locID": "ChIJJVZ0mbpy1moRvFZ2S6wkyHg",
-    "tech": "FTTC",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721035282"
    }
