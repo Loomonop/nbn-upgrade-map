@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T12:39:20.057145",
+ "generated": "2023-10-14T11:06:56.087753",
  "suburb": "CASULA",
  "features": [
   {
@@ -3248,6 +3248,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704354766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.91242665,
+     -33.94553908
+    ]
+   },
+   "properties": {
+    "name": "5 MARSH PARADE CASULA 2170",
+    "locID": "LOC000193785663",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704354767"
    }
   },
   {
@@ -11014,8 +11031,8 @@
    "properties": {
     "name": "10 WHITELEY CLOSE CASULA 2170",
     "locID": "LOC000084223141",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704359741"
    }
   },
@@ -11031,8 +11048,8 @@
    "properties": {
     "name": "11 WHITELEY CLOSE CASULA 2170",
     "locID": "LOC000095487006",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704359742"
    }
   },
@@ -11864,8 +11881,8 @@
    "properties": {
     "name": "139 PINE ROAD CASULA 2170",
     "locID": "LOC000102982706",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704360416"
    }
   },
@@ -26841,8 +26858,8 @@
    "properties": {
     "name": "6 HASSARATI PLACE CASULA 2170",
     "locID": "LOC000091859305",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704367180"
    }
   },
@@ -41070,8 +41087,8 @@
    "properties": {
     "name": "140 GLENFIELD ROAD CASULA 2170",
     "locID": "LOC000054999007",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704372788"
    }
   },
@@ -45439,8 +45456,8 @@
    "properties": {
     "name": "25 INCENSE PLACE CASULA 2170",
     "locID": "LOC000029674506",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704374940"
    }
   },
@@ -46272,8 +46289,8 @@
    "properties": {
     "name": "128 GLENFIELD ROAD CASULA 2170",
     "locID": "LOC000047480958",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704376036"
    }
   },
@@ -46561,8 +46578,8 @@
    "properties": {
     "name": "160 GLENFIELD ROAD CASULA 2170",
     "locID": "LOC000107319040",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704376054"
    }
   },
@@ -64734,8 +64751,8 @@
    "properties": {
     "name": "5 LAVENDER CLOSE CASULA 2170",
     "locID": "LOC000068911345",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704388538"
    }
   },
@@ -64751,8 +64768,8 @@
    "properties": {
     "name": "6 LAVENDER CLOSE CASULA 2170",
     "locID": "LOC000020415001",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704388539"
    }
   },
@@ -83043,8 +83060,8 @@
    "properties": {
     "name": "5 MINT CLOSE CASULA 2170",
     "locID": "LOC000043574437",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716675612"
    }
   },
@@ -89622,7 +89639,7 @@
    "properties": {
     "name": "10 PARKERS FARM PLACE CASULA 2170",
     "locID": "LOC000058670150",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717602634"
    }
@@ -109631,7 +109648,7 @@
    "properties": {
     "name": "SHOP 23B, 10 PARKERS FARM PLACE CASULA 2170",
     "locID": "LOC000058670150",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720946796"
    }
@@ -109750,7 +109767,7 @@
    "properties": {
     "name": "SHOP 19, 10 PARKERS FARM PLACE CASULA 2170",
     "locID": "LOC000058670150",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720947705"
    }
@@ -109767,7 +109784,7 @@
    "properties": {
     "name": "SHOP 19A, 10 PARKERS FARM PLACE CASULA 2170",
     "locID": "LOC000058670150",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720947720"
    }
@@ -109784,7 +109801,7 @@
    "properties": {
     "name": "SHOP 22, 10 PARKERS FARM PLACE CASULA 2170",
     "locID": "LOC000058670150",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720947927"
    }

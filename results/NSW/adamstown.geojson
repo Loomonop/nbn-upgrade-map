@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T12:05:40.121995",
+ "generated": "2023-10-14T10:35:39.712320",
  "suburb": "ADAMSTOWN",
  "features": [
   {
@@ -2616,8 +2616,8 @@
    "properties": {
     "name": "6 ELLA STREET ADAMSTOWN 2289",
     "locID": "LOC000010615576",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703877461"
    }
   },
@@ -5319,8 +5319,8 @@
    "properties": {
     "name": "7A BUXTON STREET ADAMSTOWN 2289",
     "locID": "LOC000073181069",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703879022"
    }
   },
@@ -6356,8 +6356,8 @@
    "properties": {
     "name": "18 KING STREET ADAMSTOWN 2289",
     "locID": "LOC000028326900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703879188"
    }
   },
@@ -22829,8 +22829,8 @@
    "properties": {
     "name": "27 VICTORIA STREET ADAMSTOWN 2289",
     "locID": "LOC000074598678",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703882476"
    }
   },
@@ -23289,7 +23289,7 @@
     "name": "52 BELMORE STREET ADAMSTOWN 2289",
     "locID": "LOC000003786552",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703882522"
    }
   },
@@ -23662,8 +23662,8 @@
    "properties": {
     "name": "461 GLEBE ROAD ADAMSTOWN 2289",
     "locID": "LOC000037014369",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703882553"
    }
   },
@@ -33420,8 +33420,8 @@
    "properties": {
     "name": "12 POPRAN LANE ADAMSTOWN 2289",
     "locID": "LOC000008056483",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703884651"
    }
   },
@@ -35276,6 +35276,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703886292"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.71302155,
+     -32.94128216
+    ]
+   },
+   "properties": {
+    "name": "75 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJQa4GMOMVc2sR_Pj75xjZSGs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW703886293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.7130721,
+     -32.94141012
+    ]
+   },
+   "properties": {
+    "name": "77 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJc7xgJeMVc2sR57N8yEvngUM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW703886294"
    }
   },
   {
@@ -45687,23 +45721,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.72427316,
-     -32.93523729
-    ]
-   },
-   "properties": {
-    "name": "99 VICTORIA STREET ADAMSTOWN 2289",
-    "locID": "LOC000055679507",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW713152145"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.72092684,
      -32.93827002
     ]
@@ -53209,7 +53226,7 @@
     "name": "202 CHATHAM STREET ADAMSTOWN 2289",
     "locID": "LOC000120720252",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718006426"
    }
   },
@@ -65390,6 +65407,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.71302155,
+     -32.94128216
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 75 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJQa4GMOMVc2sR_Pj75xjZSGs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721136034"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.71526454,
      -32.94247097
     ]
@@ -65424,6 +65458,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.71302155,
+     -32.94128216
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 75 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJQa4GMOMVc2sR_Pj75xjZSGs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721136439"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.73110538,
      -32.93625466
     ]
@@ -65434,6 +65485,74 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721136622"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.71302155,
+     -32.94128216
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 75 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJQa4GMOMVc2sR_Pj75xjZSGs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721137240"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.71302155,
+     -32.94128216
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 75 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJQa4GMOMVc2sR_Pj75xjZSGs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721137645"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.71302155,
+     -32.94128216
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 75 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJQa4GMOMVc2sR_Pj75xjZSGs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721137907"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.71302155,
+     -32.94128216
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 75 NORTHCOTT DRIVE ADAMSTOWN 2289",
+    "locID": "ChIJQa4GMOMVc2sR_Pj75xjZSGs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721138773"
    }
   },
   {
