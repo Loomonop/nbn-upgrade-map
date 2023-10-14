@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T00:30:44.295507",
+ "generated": "2023-10-14T22:31:28.483796",
  "suburb": "ALEXANDRIA",
  "features": [
   {
@@ -3510,23 +3510,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.20027809,
-     -33.91515808
-    ]
-   },
-   "properties": {
-    "name": "552-554 BOTANY ROAD ALEXANDRIA 2015",
-    "locID": "LOC000149226916",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW703899022"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.2002211,
      -33.91532944
     ]
@@ -6458,8 +6441,8 @@
    "properties": {
     "name": "251 LAWRENCE STREET ALEXANDRIA 2015",
     "locID": "LOC000077785989",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703900622"
    }
   },
@@ -6475,8 +6458,8 @@
    "properties": {
     "name": "253 LAWRENCE STREET ALEXANDRIA 2015",
     "locID": "LOC000032674381",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703900623"
    }
   },
@@ -8923,8 +8906,8 @@
    "properties": {
     "name": "133 LAWRENCE STREET ALEXANDRIA 2015",
     "locID": "LOC000076447780",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703901427"
    }
   },
@@ -12018,7 +12001,7 @@
     "name": "1 GILLESPIE AVENUE ALEXANDRIA 2015",
     "locID": "LOC000080705141",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703902270"
    }
   },
@@ -13836,8 +13819,8 @@
    "properties": {
     "name": "54 BRANDLING STREET ALEXANDRIA 2015",
     "locID": "LOC000036166998",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703902996"
    }
   },
@@ -17440,8 +17423,8 @@
    "properties": {
     "name": "62 ALEXANDER STREET ALEXANDRIA 2015",
     "locID": "LOC000038192004",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703904085"
    }
   },
@@ -17695,8 +17678,8 @@
    "properties": {
     "name": "116 BELMONT STREET ALEXANDRIA 2015",
     "locID": "LOC000018831879",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703904116"
    }
   },
@@ -17849,7 +17832,7 @@
     "name": "648 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000005547013",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904151"
    }
   },
@@ -17866,7 +17849,7 @@
     "name": "650 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000031205469",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904152"
    }
   },
@@ -17883,7 +17866,7 @@
     "name": "652 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000097543234",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904153"
    }
   },
@@ -18769,6 +18752,23 @@
     "tech": "FTTC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW703904345"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.19836312,
+     -33.89790783
+    ]
+   },
+   "properties": {
+    "name": "75-83 WYNDHAM STREET ALEXANDRIA 2015",
+    "locID": "ChIJCdDc9M-xEmsRMM2974vZZpo",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW703904346"
    }
   },
   {
@@ -20144,7 +20144,7 @@
     "name": "1 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000004223773",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904758"
    }
   },
@@ -20212,7 +20212,7 @@
     "name": "32-44 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000169908285",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904765"
    }
   },
@@ -20246,7 +20246,7 @@
     "name": "43 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000098624342",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904768"
    }
   },
@@ -20263,7 +20263,7 @@
     "name": "46 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000049007623",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904769"
    }
   },
@@ -20280,7 +20280,7 @@
     "name": "55 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000041700487",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904770"
    }
   },
@@ -20943,7 +20943,7 @@
     "name": "684 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000057597962",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703904935"
    }
   },
@@ -23118,8 +23118,8 @@
    "properties": {
     "name": "206 MITCHELL ROAD ALEXANDRIA 2015",
     "locID": "LOC000021345012",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703905810"
    }
   },
@@ -25754,7 +25754,7 @@
     "name": "166 WYNDHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000049398399",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703906614"
    }
   },
@@ -27896,7 +27896,7 @@
     "name": "460 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000151763762",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703907304"
    }
   },
@@ -28031,8 +28031,8 @@
    "properties": {
     "name": "284 BELMONT STREET ALEXANDRIA 2015",
     "locID": "LOC000052035850",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703907342"
    }
   },
@@ -30259,7 +30259,7 @@
     "name": "317 BELMONT STREET ALEXANDRIA 2015",
     "locID": "LOC000101811279",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703908146"
    }
   },
@@ -31313,7 +31313,7 @@
     "name": "3 ELLIS AVENUE ALEXANDRIA 2015",
     "locID": "LOC000023305285",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703908256"
    }
   },
@@ -32010,7 +32010,7 @@
     "name": "92 MITCHELL ROAD ALEXANDRIA 2015",
     "locID": "LOC000108649929",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW703908417"
    }
   },
@@ -32094,8 +32094,8 @@
    "properties": {
     "name": "97 MITCHELL ROAD ALEXANDRIA 2015",
     "locID": "LOC000078868769",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703908422"
    }
   },
@@ -32723,8 +32723,8 @@
    "properties": {
     "name": "174 HENDERSON ROAD ALEXANDRIA 2015",
     "locID": "LOC000032956237",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW703909048"
    }
   },
@@ -33557,7 +33557,7 @@
     "name": "14A BEACONSFIELD STREET ALEXANDRIA 2015",
     "locID": "LOC000047207219",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703909212"
    }
   },
@@ -33591,7 +33591,7 @@
     "name": "16A BEACONSFIELD STREET ALEXANDRIA 2015",
     "locID": "LOC000090373069",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703909214"
    }
   },
@@ -33608,7 +33608,7 @@
     "name": "16 BEACONSFIELD STREET ALEXANDRIA 2015",
     "locID": "LOC000090464921",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW703909215"
    }
   },
@@ -35104,7 +35104,7 @@
     "name": "8 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000024141679",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW706490293"
    }
   },
@@ -41182,23 +41182,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.19350064,
-     -33.90214857
-    ]
-   },
-   "properties": {
-    "name": "128 BELMONT STREET ALEXANDRIA 2015",
-    "locID": "LOC000078671842",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710323992"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.19275931,
      -33.90295968
     ]
@@ -42091,7 +42074,7 @@
     "name": "11 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000001533910",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710332824"
    }
   },
@@ -47106,7 +47089,7 @@
     "name": "UNIT 4, 2 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000119216235",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710336985"
    }
   },
@@ -52002,7 +51985,7 @@
     "name": "UNIT 4, 444 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000119216226",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710342190"
    }
   },
@@ -52036,7 +52019,7 @@
     "name": "UNIT 1, 472 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000149228257",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710342196"
    }
   },
@@ -52427,7 +52410,7 @@
     "name": "634 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000051455676",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710342733"
    }
   },
@@ -56150,7 +56133,7 @@
     "name": "UNIT 50, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710344675"
    }
   },
@@ -56167,7 +56150,7 @@
     "name": "UNIT 51, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710344676"
    }
   },
@@ -56184,7 +56167,7 @@
     "name": "UNIT 52, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710344677"
    }
   },
@@ -56218,7 +56201,7 @@
     "name": "UNIT 54, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710344679"
    }
   },
@@ -56252,7 +56235,7 @@
     "name": "UNIT 56, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710344681"
    }
   },
@@ -56269,7 +56252,7 @@
     "name": "UNIT 58, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710344682"
    }
   },
@@ -56966,7 +56949,7 @@
     "name": "11 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000055248674",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345329"
    }
   },
@@ -56983,7 +56966,7 @@
     "name": "13 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000019042615",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345330"
    }
   },
@@ -57000,7 +56983,7 @@
     "name": "15 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000029770737",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345331"
    }
   },
@@ -57068,7 +57051,7 @@
     "name": "UNIT 59, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345546"
    }
   },
@@ -57085,7 +57068,7 @@
     "name": "UNIT 60, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345547"
    }
   },
@@ -57102,7 +57085,7 @@
     "name": "UNIT 61, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345548"
    }
   },
@@ -57119,7 +57102,7 @@
     "name": "UNIT 62, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345549"
    }
   },
@@ -57238,7 +57221,7 @@
     "name": "UNIT 63, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345809"
    }
   },
@@ -57255,7 +57238,7 @@
     "name": "UNIT 64, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345810"
    }
   },
@@ -57272,7 +57255,7 @@
     "name": "UNIT 65, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345811"
    }
   },
@@ -57289,7 +57272,7 @@
     "name": "UNIT 66, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345812"
    }
   },
@@ -57306,7 +57289,7 @@
     "name": "UNIT 67, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345813"
    }
   },
@@ -57323,7 +57306,7 @@
     "name": "UNIT 68, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345814"
    }
   },
@@ -57340,7 +57323,7 @@
     "name": "UNIT 69, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345815"
    }
   },
@@ -57357,7 +57340,7 @@
     "name": "UNIT 70, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345816"
    }
   },
@@ -57374,7 +57357,7 @@
     "name": "UNIT 71, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345817"
    }
   },
@@ -57391,7 +57374,7 @@
     "name": "UNIT 72, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345818"
    }
   },
@@ -57408,7 +57391,7 @@
     "name": "UNIT 73, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345819"
    }
   },
@@ -57425,7 +57408,7 @@
     "name": "UNIT 74, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710345820"
    }
   },
@@ -57646,7 +57629,7 @@
     "name": "UNIT 75, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351958"
    }
   },
@@ -57663,7 +57646,7 @@
     "name": "UNIT 76, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351959"
    }
   },
@@ -57680,7 +57663,7 @@
     "name": "UNIT 77, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351960"
    }
   },
@@ -57697,7 +57680,7 @@
     "name": "UNIT 78, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351961"
    }
   },
@@ -57714,7 +57697,7 @@
     "name": "UNIT 79, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351962"
    }
   },
@@ -57731,7 +57714,7 @@
     "name": "UNIT 80, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351963"
    }
   },
@@ -57748,7 +57731,7 @@
     "name": "UNIT 81, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351964"
    }
   },
@@ -57765,7 +57748,7 @@
     "name": "UNIT 82, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351965"
    }
   },
@@ -57782,7 +57765,7 @@
     "name": "UNIT 83, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351966"
    }
   },
@@ -57799,7 +57782,7 @@
     "name": "UNIT 84, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351967"
    }
   },
@@ -57816,7 +57799,7 @@
     "name": "UNIT 85, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351968"
    }
   },
@@ -57833,7 +57816,7 @@
     "name": "UNIT 86, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351969"
    }
   },
@@ -57850,7 +57833,7 @@
     "name": "UNIT 87, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351970"
    }
   },
@@ -57867,7 +57850,7 @@
     "name": "UNIT 88, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351971"
    }
   },
@@ -57884,7 +57867,7 @@
     "name": "UNIT 89, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351972"
    }
   },
@@ -57901,7 +57884,7 @@
     "name": "UNIT 90, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351973"
    }
   },
@@ -57918,7 +57901,7 @@
     "name": "UNIT 91, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351974"
    }
   },
@@ -57935,7 +57918,7 @@
     "name": "UNIT 92, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351975"
    }
   },
@@ -57952,7 +57935,7 @@
     "name": "UNIT 93, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351976"
    }
   },
@@ -57969,7 +57952,7 @@
     "name": "UNIT 94, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351977"
    }
   },
@@ -57986,7 +57969,7 @@
     "name": "UNIT 95, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351978"
    }
   },
@@ -58003,7 +57986,7 @@
     "name": "UNIT 96, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351979"
    }
   },
@@ -58020,7 +58003,7 @@
     "name": "UNIT 97, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351980"
    }
   },
@@ -58037,7 +58020,7 @@
     "name": "UNIT 98, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351981"
    }
   },
@@ -58054,7 +58037,7 @@
     "name": "UNIT 99, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351982"
    }
   },
@@ -58071,7 +58054,7 @@
     "name": "UNIT 100, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351983"
    }
   },
@@ -58088,7 +58071,7 @@
     "name": "UNIT 101, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351984"
    }
   },
@@ -58105,7 +58088,7 @@
     "name": "UNIT 102, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351985"
    }
   },
@@ -58122,7 +58105,7 @@
     "name": "UNIT 103, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351986"
    }
   },
@@ -58139,7 +58122,7 @@
     "name": "UNIT 104, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351987"
    }
   },
@@ -58156,7 +58139,7 @@
     "name": "UNIT 105, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351988"
    }
   },
@@ -58173,7 +58156,7 @@
     "name": "UNIT 106, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351989"
    }
   },
@@ -58190,7 +58173,7 @@
     "name": "UNIT 107, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351990"
    }
   },
@@ -58207,7 +58190,7 @@
     "name": "UNIT 108, 4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW710351991"
    }
   },
@@ -59431,7 +59414,7 @@
     "name": "472 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000149228257",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715678561"
    }
   },
@@ -60094,7 +60077,7 @@
     "name": "470 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000151763762",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW715864785"
    }
   },
@@ -60332,7 +60315,7 @@
     "name": "16 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000119238030",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716062081"
    }
   },
@@ -60349,7 +60332,7 @@
     "name": "27-31 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000119229108",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716062083"
    }
   },
@@ -60365,8 +60348,8 @@
    "properties": {
     "name": "14 RENWICK STREET ALEXANDRIA 2015",
     "locID": "LOC000107077899",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716066417"
    }
   },
@@ -62728,8 +62711,8 @@
    "properties": {
     "name": "34B JENNINGS STREET ALEXANDRIA 2015",
     "locID": "LOC000048455739",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716633443"
    }
   },
@@ -64208,7 +64191,7 @@
     "name": "1 ELLIS AVENUE ALEXANDRIA 2015",
     "locID": "LOC000097126076",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716658138"
    }
   },
@@ -65499,8 +65482,8 @@
    "properties": {
     "name": "138 LAWRENCE STREET ALEXANDRIA 2015",
     "locID": "LOC000080946283",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716670039"
    }
   },
@@ -66315,8 +66298,8 @@
    "properties": {
     "name": "170 BELMONT STREET ALEXANDRIA 2015",
     "locID": "LOC000052404161",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716772151"
    }
   },
@@ -66401,7 +66384,7 @@
     "name": "8 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000038021795",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716773046"
    }
   },
@@ -68050,7 +68033,7 @@
     "name": "SHOP 1, 648 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000005978589",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW716891226"
    }
   },
@@ -81055,7 +81038,7 @@
     "name": "93 O'RIORDAN STREET ALEXANDRIA 2015",
     "locID": "LOC000183547641",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717581072"
    }
   },
@@ -86223,7 +86206,7 @@
     "name": "4 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000169918947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717749766"
    }
   },
@@ -87957,7 +87940,7 @@
     "name": "474 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000149228257",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717810655"
    }
   },
@@ -91714,7 +91697,7 @@
     "name": "658-660 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000119234256",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717944406"
    }
   },
@@ -91748,7 +91731,7 @@
     "name": "UNIT 1, 444-450 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000119216226",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717951876"
    }
   },
@@ -91765,7 +91748,7 @@
     "name": "UNIT 2, 444-450 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000119216235",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717951877"
    }
   },
@@ -91782,7 +91765,7 @@
     "name": "UNIT 3, 444-450 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000119216242",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717951878"
    }
   },
@@ -91799,7 +91782,7 @@
     "name": "444-450 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000119216235",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW717951879"
    }
   },
@@ -103036,7 +103019,7 @@
     "name": "UNIT 1, 46 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000049007623",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718374879"
    }
   },
@@ -110873,7 +110856,7 @@
     "name": "678-682 BOTANY ROAD ALEXANDRIA 2015",
     "locID": "LOC000149228290",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718401704"
    }
   },
@@ -112114,7 +112097,7 @@
     "name": "472-474 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000149228257",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718409041"
    }
   },
@@ -113202,7 +113185,7 @@
     "name": "45-47 RALPH STREET ALEXANDRIA 2015",
     "locID": "LOC000149226900",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718421590"
    }
   },
@@ -123385,7 +123368,7 @@
     "name": "2-4 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC100071112206",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718554817"
    }
   },
@@ -123402,7 +123385,7 @@
     "name": "6 BIRMINGHAM STREET ALEXANDRIA 2015",
     "locID": "LOC000149226842",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718554818"
    }
   },
@@ -132599,7 +132582,7 @@
     "name": "460-470 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000151763762",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW718922995"
    }
   },
@@ -139008,7 +138991,7 @@
     "name": "520 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000161426305",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW719581334"
    }
   },
@@ -141354,7 +141337,7 @@
     "name": "506 GARDENERS ROAD ALEXANDRIA 2015",
     "locID": "LOC000088317604",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW720018893"
    }
   },
