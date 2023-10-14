@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T08:32:02.549741",
+ "generated": "2023-10-14T06:52:27.105671",
  "suburb": "MOUNT OUSLEY",
  "features": [
   {
@@ -1580,7 +1580,7 @@
     "name": "17 STANBROOK AVENUE MOUNT OUSLEY 2519",
     "locID": "LOC000091237229",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705431353"
    }
   },
@@ -2294,7 +2294,7 @@
     "name": "1 STANBROOK AVENUE MOUNT OUSLEY 2519",
     "locID": "LOC000107121071",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705433983"
    }
   },
@@ -3214,6 +3214,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705436538"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.88779009,
+     -34.40220741
+    ]
+   },
+   "properties": {
+    "name": "20 STRONE AVENUE MOUNT OUSLEY 2519",
+    "locID": "ChIJsxFTZRQZE2sRlPZIGE5yqfM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW705436539"
    }
   },
   {
@@ -6034,7 +6051,7 @@
     "name": "15 ARISTO CRESCENT MOUNT OUSLEY 2519",
     "locID": "LOC000033142444",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705449987"
    }
   },
@@ -6187,7 +6204,7 @@
     "name": "7 ARISTO CRESCENT MOUNT OUSLEY 2519",
     "locID": "LOC000033163966",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705449996"
    }
   },
@@ -8006,7 +8023,7 @@
     "name": "38 MCMAHON STREET MOUNT OUSLEY 2519",
     "locID": "LOC000075781280",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706543744"
    }
   },
