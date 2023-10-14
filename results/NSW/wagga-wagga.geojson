@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T11:32:38.427580",
+ "generated": "2023-10-14T09:57:05.771948",
  "suburb": "WAGGA WAGGA",
  "features": [
   {
@@ -20289,6 +20289,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     147.35461727,
+     -35.12044597
+    ]
+   },
+   "properties": {
+    "name": "3 LEWISHAM AVENUE WAGGA WAGGA 2650",
+    "locID": "LOC000060899055",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706153818"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      147.35440723,
      -35.11977712
     ]
@@ -29459,8 +29476,8 @@
    "properties": {
     "name": "44 BROOKONG AVENUE WAGGA WAGGA 2650",
     "locID": "LOC000044792881",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706166942"
    }
   },
@@ -29527,8 +29544,8 @@
    "properties": {
     "name": "48 BROOKONG AVENUE WAGGA WAGGA 2650",
     "locID": "LOC000065254103",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706166946"
    }
   },
