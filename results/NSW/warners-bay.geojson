@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T21:30:47.383194",
+ "generated": "2023-10-14T19:30:18.883212",
  "suburb": "WARNERS BAY",
  "features": [
   {
@@ -1256,8 +1256,8 @@
    "properties": {
     "name": "35 NEW YORK AVENUE WARNERS BAY 2282",
     "locID": "LOC000069005633",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706186356"
    }
   },
@@ -10827,8 +10827,8 @@
    "properties": {
     "name": "5 CROYDON PLACE WARNERS BAY 2282",
     "locID": "LOC000008312776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706196633"
    }
   },
@@ -12986,8 +12986,8 @@
    "properties": {
     "name": "84 MYLES AVENUE WARNERS BAY 2282",
     "locID": "LOC000031351294",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706199592"
    }
   },
@@ -26433,8 +26433,8 @@
    "properties": {
     "name": "1 NEBRASKA CLOSE WARNERS BAY 2282",
     "locID": "LOC000066404616",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706213773"
    }
   },
@@ -39574,8 +39574,8 @@
    "properties": {
     "name": "1 COLORADO CLOSE WARNERS BAY 2282",
     "locID": "LOC000041822672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706227128"
    }
   },
@@ -39659,8 +39659,8 @@
    "properties": {
     "name": "4 COLORADO CLOSE WARNERS BAY 2282",
     "locID": "LOC000106012864",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706227133"
    }
   },
@@ -39676,8 +39676,8 @@
    "properties": {
     "name": "5 COLORADO CLOSE WARNERS BAY 2282",
     "locID": "LOC000053698957",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706227134"
    }
   },
@@ -39693,8 +39693,8 @@
    "properties": {
     "name": "6 COLORADO CLOSE WARNERS BAY 2282",
     "locID": "LOC000076742531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706227135"
    }
   },
@@ -39710,8 +39710,8 @@
    "properties": {
     "name": "7 COLORADO CLOSE WARNERS BAY 2282",
     "locID": "LOC000088172080",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706227136"
    }
   },
@@ -49502,8 +49502,8 @@
    "properties": {
     "name": "25 NEW YORK AVENUE WARNERS BAY 2282",
     "locID": "LOC000107372471",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW711814500"
    }
   },
@@ -51593,8 +51593,8 @@
    "properties": {
     "name": "99 MYLES AVENUE WARNERS BAY 2282",
     "locID": "LOC000061251952",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711827492"
    }
   },
@@ -52511,8 +52511,8 @@
    "properties": {
     "name": "9 NEBRASKA CLOSE WARNERS BAY 2282",
     "locID": "LOC000062574876",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW711832490"
    }
   },
@@ -52869,7 +52869,7 @@
     "name": "UNIT 7, 87 KING STREET WARNERS BAY 2282",
     "locID": "LOC100045820487",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW711833906"
    }
   },
@@ -60392,6 +60392,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.65201307,
+     -32.98416229
+    ]
+   },
+   "properties": {
+    "name": "72 WARNERS BAY ROAD WARNERS BAY 2282",
+    "locID": "ChIJYT63kuI8c2sRxr3yOAV-NK4",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW711861219"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.65320515,
      -32.98412975
     ]
@@ -62269,8 +62286,8 @@
    "properties": {
     "name": "8 BIDDABAH AVENUE WARNERS BAY 2282",
     "locID": "LOC000010522891",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715590514"
    }
   },
@@ -74373,8 +74390,8 @@
    "properties": {
     "name": "22 GRASMERE WAY WARNERS BAY 2282",
     "locID": "LOC000145326776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718459045"
    }
   },
@@ -74407,8 +74424,8 @@
    "properties": {
     "name": "24 GRASMERE WAY WARNERS BAY 2282",
     "locID": "LOC000145326795",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718459047"
    }
   },
@@ -74441,8 +74458,8 @@
    "properties": {
     "name": "28 GRASMERE WAY WARNERS BAY 2282",
     "locID": "LOC000145326833",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718459049"
    }
   },
@@ -74747,8 +74764,8 @@
    "properties": {
     "name": "12 YURUGA STREET WARNERS BAY 2282",
     "locID": "LOC000145326563",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718468158"
    }
   },
@@ -74832,8 +74849,8 @@
    "properties": {
     "name": "5 YURUGA STREET WARNERS BAY 2282",
     "locID": "LOC000145326822",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718468163"
    }
   },
@@ -74849,8 +74866,8 @@
    "properties": {
     "name": "6 YURUGA STREET WARNERS BAY 2282",
     "locID": "LOC000145326690",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718468164"
    }
   },
@@ -75088,7 +75105,7 @@
     "name": "19 GRASMERE WAY WARNERS BAY 2282",
     "locID": "LOC000145326931",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW718530467"
    }
   },
