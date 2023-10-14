@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T14:58:24.250468",
+ "generated": "2023-10-14T13:19:06.977374",
  "suburb": "SOUTH NOWRA",
  "features": [
   {
@@ -1205,8 +1205,8 @@
    "properties": {
     "name": "371 OLD SOUTHERN ROAD SOUTH NOWRA 2541",
     "locID": "LOC000056166241",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705931542"
    }
   },
@@ -1715,7 +1715,7 @@
    "properties": {
     "name": "175 OLD SOUTHERN ROAD SOUTH NOWRA 2541",
     "locID": "LOC000189669960",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705934138"
    }
@@ -3782,23 +3782,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.6157936,
-     -34.90148757
-    ]
-   },
-   "properties": {
-    "name": "173 OLD SOUTHERN ROAD SOUTH NOWRA 2541",
-    "locID": "LOC000018993440",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW705944409"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.61431509,
      -34.90384914
     ]
@@ -3858,7 +3841,7 @@
     "name": "195 OLD SOUTHERN ROAD SOUTH NOWRA 2541",
     "locID": "LOC000029600588",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705944421"
    }
   },
@@ -3874,8 +3857,8 @@
    "properties": {
     "name": "197 OLD SOUTHERN ROAD SOUTH NOWRA 2541",
     "locID": "LOC000008235813",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705944422"
    }
   },
@@ -7070,8 +7053,8 @@
    "properties": {
     "name": "381 OLD SOUTHERN ROAD SOUTH NOWRA 2541",
     "locID": "LOC000015909360",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW710139392"
    }
   },
@@ -11796,8 +11779,8 @@
    "properties": {
     "name": "8 KAROSS CLOSE SOUTH NOWRA 2541",
     "locID": "LOC000081723664",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717358044"
    }
   },
@@ -12510,8 +12493,8 @@
    "properties": {
     "name": "9 KAROSS CLOSE SOUTH NOWRA 2541",
     "locID": "LOC000072571183",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717500898"
    }
   },
@@ -14230,6 +14213,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717598193"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.57812463,
+     -34.91106369
+    ]
+   },
+   "properties": {
+    "name": "17 NORFOLK AVENUE SOUTH NOWRA 2541",
+    "locID": "ChIJpVkO4Sh-FGsRylmaeHYzSAk",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW717601556"
    }
   },
   {
@@ -16998,8 +16998,8 @@
    "properties": {
     "name": "9 BARBATA GROVE SOUTH NOWRA 2541",
     "locID": "LOC000099963326",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717915405"
    }
   },
