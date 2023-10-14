@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T07:16:04.963934",
+ "generated": "2023-10-14T05:32:22.461030",
  "suburb": "TULLIMBAR",
  "features": [
   {
@@ -474,8 +474,8 @@
    "properties": {
     "name": "21 BROUGHTON AVENUE TULLIMBAR 2527",
     "locID": "LOC000053739409",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717367522"
    }
   },
@@ -882,8 +882,8 @@
    "properties": {
     "name": "7 BROUGHTON AVENUE TULLIMBAR 2527",
     "locID": "LOC000062475087",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717367546"
    }
   },
@@ -1189,7 +1189,7 @@
     "name": "12 WONGAWILLI STREET TULLIMBAR 2527",
     "locID": "LOC000043800000",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717903499"
    }
   },
@@ -23026,6 +23026,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.75510504,
+     -34.5767985
+    ]
+   },
+   "properties": {
+    "name": "93 BROUGHTON AVENUE TULLIMBAR 2527",
+    "locID": "Ei85MyBCcm91Z2h0b24gQXZlLCBUdWxsaW1iYXIgTlNXIDI1MjcsIEF1c3RyYWxpYSIwEi4KFAoSCSFbne1PDRNrEU7kBe7LJMXFEF0qFAoSCUH-OmhFDRNrEYq8e1wyjiR5",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721009168"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.75543798,
      -34.57744857
     ]
@@ -24002,7 +24019,7 @@
    "properties": {
     "name": "114 ARALUEN TERRACE TULLIMBAR 2527",
     "locID": "LOC000193643793",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721322071"
    }
@@ -25610,6 +25627,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.75687652,
+     -34.57657637
+    ]
+   },
+   "properties": {
+    "name": "52 BALMORAL PARADE TULLIMBAR 2527",
+    "locID": "EjE1MiBCYWxtb3JhbCBQYXJhZGUsIFR1bGxpbWJhciBOU1cgMjUyNywgQXVzdHJhbGlhIjASLgoUChIJpcd2B1ANE2sRoYY0WILwfksQNCoUChIJR65r00QNE2sRD8KHqpOgFDU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336106"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.75425975,
      -34.58446024
     ]
@@ -25637,6 +25671,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721336330"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.75687652,
+     -34.57657637
+    ]
+   },
+   "properties": {
+    "name": "48 BALMORAL PARADE TULLIMBAR 2527",
+    "locID": "EjE0OCBCYWxtb3JhbCBQYXJhZGUsIFR1bGxpbWJhciBOU1cgMjUyNywgQXVzdHJhbGlhIjASLgoUChIJpcd2B1ANE2sRoYY0WILwfksQMCoUChIJR65r00QNE2sRD8KHqpOgFDU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721336343"
    }
   },
   {
@@ -25865,6 +25916,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.75687652,
+     -34.57657637
+    ]
+   },
+   "properties": {
+    "name": "58 BALMORAL PARADE TULLIMBAR 2527",
+    "locID": "EjE1OCBCYWxtb3JhbCBQYXJhZGUsIFR1bGxpbWJhciBOU1cgMjUyNywgQXVzdHJhbGlhIjASLgoUChIJpcd2B1ANE2sRyZHEmZnsescQOioUChIJR65r00QNE2sRD8KHqpOgFDU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.75187046,
      -34.58039426
     ]
@@ -25892,6 +25960,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721337827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.75687652,
+     -34.57657637
+    ]
+   },
+   "properties": {
+    "name": "60 BALMORAL PARADE TULLIMBAR 2527",
+    "locID": "EjE2MCBCYWxtb3JhbCBQYXJhZGUsIFR1bGxpbWJhciBOU1cgMjUyNywgQXVzdHJhbGlhIjASLgoUChIJpcd2B1ANE2sRyZHEmZnsescQPCoUChIJR65r00QNE2sRD8KHqpOgFDU",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW721337850"
    }
   },
   {

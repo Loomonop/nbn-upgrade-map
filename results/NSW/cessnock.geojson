@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T07:54:48.350893",
+ "generated": "2023-10-14T06:12:25.936553",
  "suburb": "CESSNOCK",
  "features": [
   {
@@ -31092,7 +31092,7 @@
     "name": "7 COULSON AVENUE CESSNOCK 2325",
     "locID": "LOC000007251958",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704373574"
    }
   },
@@ -69650,6 +69650,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704384970"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.34250646,
+     -32.83901476
+    ]
+   },
+   "properties": {
+    "name": "96 WOLLOMBI ROAD CESSNOCK 2325",
+    "locID": "ChIJyVEdvLs0c2sRcrwhGqVARQo",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW704384971"
    }
   },
   {
@@ -145042,8 +145059,8 @@
    "properties": {
     "name": "42 LAKESIDE CIRCUIT CESSNOCK 2325",
     "locID": "LOC000085593251",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW721175471"
    }
   },
