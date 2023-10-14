@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T02:05:15.623595",
+ "generated": "2023-10-14T00:04:09.429568",
  "suburb": "WALLSEND",
  "features": [
   {
@@ -8107,8 +8107,8 @@
    "properties": {
     "name": "103 NELSON STREET WALLSEND 2287",
     "locID": "LOC000057924222",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706189878"
    }
   },
@@ -9280,8 +9280,8 @@
    "properties": {
     "name": "14 MARTINDALE STREET WALLSEND 2287",
     "locID": "LOC000001462832",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706192797"
    }
   },
@@ -18324,8 +18324,8 @@
    "properties": {
     "name": "8 ALLENDALE AVENUE WALLSEND 2287",
     "locID": "LOC000017238591",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706202958"
    }
   },
@@ -20909,7 +20909,7 @@
     "name": "59 COWPER STREET WALLSEND 2287",
     "locID": "LOC000102547941",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706203343"
    }
   },
@@ -34705,6 +34705,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.66360381,
+     -32.91145759
+    ]
+   },
+   "properties": {
+    "name": "63 LAKE ROAD WALLSEND 2287",
+    "locID": "LOC000120726328",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706213685"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.66302319,
      -32.91105425
     ]
@@ -42753,7 +42770,7 @@
    "properties": {
     "name": "80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273337",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706219362"
    }
@@ -46052,7 +46069,7 @@
     "name": "40 WALFORD STREET WALLSEND 2287",
     "locID": "LOC000049114874",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706220090"
    }
   },
@@ -46068,8 +46085,8 @@
    "properties": {
     "name": "42 WALFORD STREET WALLSEND 2287",
     "locID": "LOC000057871154",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706220091"
    }
   },
@@ -46238,8 +46255,8 @@
    "properties": {
     "name": "53 WALFORD STREET WALLSEND 2287",
     "locID": "LOC000065197626",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706220101"
    }
   },
@@ -52188,8 +52205,8 @@
    "properties": {
     "name": "6 MURNIN STREET WALLSEND 2287",
     "locID": "LOC000053400117",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706223558"
    }
   },
@@ -55411,6 +55428,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.67594689,
+     -32.90046268
+    ]
+   },
+   "properties": {
+    "name": "25 PLATT STREET WALLSEND 2287",
+    "locID": "LOC000193807627",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706226729"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.675005,
      -32.90066943
     ]
@@ -57740,23 +57774,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     151.68127024,
-     -32.89895886
-    ]
-   },
-   "properties": {
-    "name": "16 DOUGLAS STREET WALLSEND 2287",
-    "locID": "LOC000110126722",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706226923"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      151.68197241,
      -32.89922168
     ]
@@ -58563,8 +58580,8 @@
    "properties": {
     "name": "2 LEWIS STREET WALLSEND 2287",
     "locID": "LOC000049450195",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706227193"
    }
   },
@@ -58767,8 +58784,8 @@
    "properties": {
     "name": "35 LEWIS STREET WALLSEND 2287",
     "locID": "LOC000097877734",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706227206"
    }
   },
@@ -69885,8 +69902,8 @@
    "properties": {
     "name": "2A PERKS STREET WALLSEND 2287",
     "locID": "LOC000098605290",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706236709"
    }
   },
@@ -81768,8 +81785,8 @@
    "properties": {
     "name": "14 BROOKS STREET WALLSEND 2287",
     "locID": "LOC000054661820",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW711874444"
    }
   },
@@ -92053,7 +92070,7 @@
    "properties": {
     "name": "64 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273337",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW715497164"
    }
@@ -104920,6 +104937,40 @@
     ]
    },
    "properties": {
+    "name": "UNIT 1, 19-21 RUNDLE AVENUE WALLSEND 2287",
+    "locID": "LOC000115413123",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718244216"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.66458216,
+     -32.90798093
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 19-21 RUNDLE AVENUE WALLSEND 2287",
+    "locID": "LOC000115413147",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718244217"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.66458216,
+     -32.90798093
+    ]
+   },
+   "properties": {
     "name": "UNIT 3, 19-21 RUNDLE AVENUE WALLSEND 2287",
     "locID": "LOC000115413147",
     "tech": "FTTN",
@@ -114367,6 +114418,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.66360381,
+     -32.91145759
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 63 LAKE ROAD WALLSEND 2287",
+    "locID": "LOC000120726328",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719490560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.66602305,
      -32.89604161
     ]
@@ -114394,6 +114462,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719492268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.66360381,
+     -32.91145759
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 63 LAKE ROAD WALLSEND 2287",
+    "locID": "LOC000120726328",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719492521"
    }
   },
   {
@@ -124778,7 +124863,7 @@
    "properties": {
     "name": "UNIT 19, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433311",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329501"
    }
@@ -124795,7 +124880,7 @@
    "properties": {
     "name": "UNIT 33, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273242",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329644"
    }
@@ -124812,7 +124897,7 @@
    "properties": {
     "name": "UNIT 34, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273257",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329645"
    }
@@ -124829,7 +124914,7 @@
    "properties": {
     "name": "UNIT 6, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433209",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329646"
    }
@@ -124846,7 +124931,7 @@
    "properties": {
     "name": "UNIT 14, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433266",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329647"
    }
@@ -124863,7 +124948,7 @@
    "properties": {
     "name": "UNIT 39, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273300",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329677"
    }
@@ -124880,7 +124965,7 @@
    "properties": {
     "name": "UNIT 7, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433191",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329694"
    }
@@ -124897,7 +124982,7 @@
    "properties": {
     "name": "UNIT 25, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273165",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721329719"
    }
@@ -124914,7 +124999,7 @@
    "properties": {
     "name": "UNIT 18, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433307",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330054"
    }
@@ -124931,7 +125016,7 @@
    "properties": {
     "name": "UNIT 3, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273235",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330107"
    }
@@ -124948,7 +125033,7 @@
    "properties": {
     "name": "UNIT 35, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273261",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330525"
    }
@@ -124965,7 +125050,7 @@
    "properties": {
     "name": "UNIT 27, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273183",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330558"
    }
@@ -124982,7 +125067,7 @@
    "properties": {
     "name": "UNIT 37, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273288",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330569"
    }
@@ -124999,7 +125084,7 @@
    "properties": {
     "name": "UNIT 32, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273235",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330750"
    }
@@ -125016,7 +125101,7 @@
    "properties": {
     "name": "UNIT 36, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273274",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330790"
    }
@@ -125033,7 +125118,7 @@
    "properties": {
     "name": "UNIT 16, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433284",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330872"
    }
@@ -125050,7 +125135,7 @@
    "properties": {
     "name": "UNIT 30, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273219",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330933"
    }
@@ -125067,7 +125152,7 @@
    "properties": {
     "name": "UNIT 12, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433245",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330934"
    }
@@ -125084,7 +125169,7 @@
    "properties": {
     "name": "UNIT 28, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273196",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330972"
    }
@@ -125101,7 +125186,7 @@
    "properties": {
     "name": "UNIT 4, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273120",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330973"
    }
@@ -125118,7 +125203,7 @@
    "properties": {
     "name": "UNIT 24, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273154",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721330989"
    }
@@ -125135,7 +125220,7 @@
    "properties": {
     "name": "UNIT 31, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273226",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331357"
    }
@@ -125152,7 +125237,7 @@
    "properties": {
     "name": "UNIT 26, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273177",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331358"
    }
@@ -125169,7 +125254,7 @@
    "properties": {
     "name": "UNIT 10, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433221",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331359"
    }
@@ -125186,7 +125271,7 @@
    "properties": {
     "name": "UNIT 29, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273203",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331360"
    }
@@ -125203,7 +125288,7 @@
    "properties": {
     "name": "UNIT 40, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273316",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331418"
    }
@@ -125220,7 +125305,7 @@
    "properties": {
     "name": "UNIT 11, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433232",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331610"
    }
@@ -125237,7 +125322,7 @@
    "properties": {
     "name": "UNIT 23, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433353",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331784"
    }
@@ -125254,7 +125339,7 @@
    "properties": {
     "name": "UNIT 21, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433330",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331785"
    }
@@ -125271,7 +125356,7 @@
    "properties": {
     "name": "UNIT 17, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433297",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721331852"
    }
@@ -125288,7 +125373,7 @@
    "properties": {
     "name": "UNIT 1, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433221",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332181"
    }
@@ -125305,7 +125390,7 @@
    "properties": {
     "name": "UNIT 38, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273290",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332182"
    }
@@ -125322,7 +125407,7 @@
    "properties": {
     "name": "UNIT 13, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433250",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332183"
    }
@@ -125339,7 +125424,7 @@
    "properties": {
     "name": "UNIT 15, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433278",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332184"
    }
@@ -125356,7 +125441,7 @@
    "properties": {
     "name": "UNIT 9, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433213",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332262"
    }
@@ -125373,7 +125458,7 @@
    "properties": {
     "name": "UNIT 2, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433324",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332582"
    }
@@ -125390,7 +125475,7 @@
    "properties": {
     "name": "UNIT 8, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433209",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332583"
    }
@@ -125407,7 +125492,7 @@
    "properties": {
     "name": "UNIT 22, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433209",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332584"
    }
@@ -125424,7 +125509,7 @@
    "properties": {
     "name": "UNIT 5, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000188273131",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332634"
    }
@@ -125441,7 +125526,7 @@
    "properties": {
     "name": "UNIT 20, 64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433324",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721332661"
    }
@@ -125492,7 +125577,7 @@
    "properties": {
     "name": "64-80 SANDGATE ROAD WALLSEND 2287",
     "locID": "LOC000193433209",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721342237"
    }
