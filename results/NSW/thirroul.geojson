@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-24T04:19:11.840391",
+ "generated": "2023-10-14T02:22:13.223784",
  "suburb": "THIRROUL",
  "features": [
   {
@@ -2022,7 +2022,7 @@
     "name": "49A HIGH STREET THIRROUL 2515",
     "locID": "LOC000089615290",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706077071"
    }
   },
@@ -2889,7 +2889,7 @@
     "name": "3 BANGALOW ROAD THIRROUL 2515",
     "locID": "LOC000013958621",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706080171"
    }
   },
@@ -3314,7 +3314,7 @@
     "name": "11 OCEAN STREET THIRROUL 2515",
     "locID": "LOC000051676182",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706083182"
    }
   },
@@ -4130,7 +4130,7 @@
     "name": "33 GEORGE STREET THIRROUL 2515",
     "locID": "LOC000049566802",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706083509"
    }
   },
@@ -5116,7 +5116,7 @@
     "name": "8 COAST STREET THIRROUL 2515",
     "locID": "LOC000047045381",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706086215"
    }
   },
@@ -6578,7 +6578,7 @@
     "name": "16 STATION STREET THIRROUL 2515",
     "locID": "LOC000074911054",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706086578"
    }
   },
@@ -8600,8 +8600,8 @@
    "properties": {
     "name": "261 LAWRENCE HARGRAVE DRIVE THIRROUL 2515",
     "locID": "LOC000148683540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706093775"
    }
   },
@@ -8991,8 +8991,8 @@
    "properties": {
     "name": "14 CORNOCK AVENUE THIRROUL 2515",
     "locID": "LOC000096888457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706093801"
    }
   },
@@ -12163,6 +12163,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.92512663,
+     -34.31997044
+    ]
+   },
+   "properties": {
+    "name": "1 SURFERS PARADE THIRROUL 2515",
+    "locID": "LOC000048275472",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW706100084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.92421968,
      -34.32032538
     ]
@@ -12528,7 +12545,7 @@
     "name": "59 ARMAGH PARADE THIRROUL 2515",
     "locID": "LOC000095507052",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706100394"
    }
   },
@@ -12630,7 +12647,7 @@
     "name": "71 ARMAGH PARADE THIRROUL 2515",
     "locID": "LOC000043219352",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706100401"
    }
   },
@@ -12884,8 +12901,8 @@
    "properties": {
     "name": "36 ARMAGH PARADE THIRROUL 2515",
     "locID": "LOC000087220182",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706100424"
    }
   },
@@ -13735,7 +13752,7 @@
     "name": "1 LACHLAN STREET THIRROUL 2515",
     "locID": "LOC000015008933",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706103665"
    }
   },
@@ -13939,7 +13956,7 @@
     "name": "63 LACHLAN STREET THIRROUL 2515",
     "locID": "LOC000086201254",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706103677"
    }
   },
@@ -14024,7 +14041,7 @@
     "name": "68 LACHLAN STREET THIRROUL 2515",
     "locID": "LOC000029698085",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706103682"
    }
   },
@@ -14347,7 +14364,7 @@
     "name": "37 JENNIFER CRESCENT THIRROUL 2515",
     "locID": "LOC000035013304",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706103724"
    }
   },
@@ -16846,7 +16863,7 @@
     "name": "32A HEWITTS AVENUE THIRROUL 2515",
     "locID": "LOC000066496669",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706106964"
    }
   },
@@ -17815,7 +17832,7 @@
     "name": "7 DEBORAH AVENUE THIRROUL 2515",
     "locID": "LOC000018066035",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706107312"
    }
   },
@@ -18834,8 +18851,8 @@
    "properties": {
     "name": "5 REDMAN AVENUE THIRROUL 2515",
     "locID": "LOC000075276150",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706107415"
    }
   },
@@ -19905,7 +19922,7 @@
    "properties": {
     "name": "8-10 TASMAN PARADE THIRROUL 2515",
     "locID": "ChIJbQZ3HsQfE2sRYhw_Q-nJf2I",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706110396"
    }
@@ -20127,7 +20144,7 @@
     "name": "21 THE LOOKOUT THIRROUL 2515",
     "locID": "LOC000088940859",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706110424"
    }
   },
@@ -22727,8 +22744,8 @@
    "properties": {
     "name": "116 PHILLIP STREET THIRROUL 2515",
     "locID": "LOC000007292516",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706114052"
    }
   },
@@ -23595,7 +23612,7 @@
     "name": "2 SEA FOAM AVENUE THIRROUL 2515",
     "locID": "LOC000052670211",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706117032"
    }
   },
@@ -23713,8 +23730,8 @@
    "properties": {
     "name": "4A SEA FOAM AVENUE THIRROUL 2515",
     "locID": "LOC000044112154",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706117039"
    }
   },
@@ -23867,7 +23884,7 @@
     "name": "58 SEA FOAM AVENUE THIRROUL 2515",
     "locID": "LOC000031877825",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706117048"
    }
   },
@@ -24887,7 +24904,7 @@
     "name": "55 HIGH STREET THIRROUL 2515",
     "locID": "LOC000044148791",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706117879"
    }
   },
@@ -24903,8 +24920,8 @@
    "properties": {
     "name": "6 SEA FOAM AVENUE THIRROUL 2515",
     "locID": "LOC000096068085",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706120244"
    }
   },
@@ -25159,7 +25176,7 @@
     "name": "27 SEABREEZE PLACE THIRROUL 2515",
     "locID": "LOC000049365166",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706120265"
    }
   },
@@ -25304,6 +25321,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.91611497,
+     -34.3134467
+    ]
+   },
+   "properties": {
+    "name": "15 SEAVIEW TERRACE THIRROUL 2515",
+    "locID": "ChIJ2-Xg1NEfE2sRbhx5xKblvc8",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GANSW706120276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.91494948,
      -34.31371734
     ]
@@ -25397,7 +25431,7 @@
     "name": "24 JENNIFER CRESCENT THIRROUL 2515",
     "locID": "LOC000037148674",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706120648"
    }
   },
@@ -26842,7 +26876,7 @@
     "name": "21 OCEAN STREET THIRROUL 2515",
     "locID": "LOC000018113429",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706124040"
    }
   },
@@ -29323,8 +29357,8 @@
    "properties": {
     "name": "38 VIRGINIA TERRACE THIRROUL 2515",
     "locID": "LOC000033298316",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706127589"
    }
   },
@@ -30089,7 +30123,7 @@
     "name": "43 HIGH STREET THIRROUL 2515",
     "locID": "LOC000006869811",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706128448"
    }
   },
@@ -31075,7 +31109,7 @@
     "name": "13 SEABREEZE PLACE THIRROUL 2515",
     "locID": "LOC000035730381",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706130521"
    }
   },
@@ -31466,7 +31500,7 @@
     "name": "25 SEAVIEW TERRACE THIRROUL 2515",
     "locID": "LOC000099807650",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706130544"
    }
   },
@@ -32129,7 +32163,7 @@
     "name": "3 OCEAN STREET THIRROUL 2515",
     "locID": "LOC000099182171",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW706131176"
    }
   },
@@ -32213,8 +32247,8 @@
    "properties": {
     "name": "57 HIGH STREET THIRROUL 2515",
     "locID": "LOC000055475110",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW706131181"
    }
   },
@@ -32656,7 +32690,7 @@
     "name": "13 JENNIFER CRESCENT THIRROUL 2515",
     "locID": "LOC000001474473",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706131207"
    }
   },
@@ -32723,8 +32757,8 @@
    "properties": {
     "name": "17 JENNIFER CRESCENT THIRROUL 2515",
     "locID": "LOC000025463529",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW706131211"
    }
   },
@@ -34339,7 +34373,7 @@
     "name": "12A SEA FOAM AVENUE THIRROUL 2515",
     "locID": "LOC000017297149",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712373608"
    }
   },
@@ -37280,7 +37314,7 @@
     "name": "48 HIGH STREET THIRROUL 2515",
     "locID": "LOC000058815355",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW712414152"
    }
   },
@@ -38418,8 +38452,8 @@
    "properties": {
     "name": "UNIT 1, 261 LAWRENCE HARGRAVE DRIVE THIRROUL 2515",
     "locID": "LOC000148683540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715382737"
    }
   },
@@ -38537,8 +38571,8 @@
    "properties": {
     "name": "UNIT 2, 261 LAWRENCE HARGRAVE DRIVE THIRROUL 2515",
     "locID": "LOC000148683540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715382772"
    }
   },
@@ -38588,8 +38622,8 @@
    "properties": {
     "name": "UNIT 3, 261 LAWRENCE HARGRAVE DRIVE THIRROUL 2515",
     "locID": "LOC000148683540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW715382797"
    }
   },
@@ -44879,7 +44913,7 @@
     "name": "18 TREETOP GLEN THIRROUL 2515",
     "locID": "LOC000108441571",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717901781"
    }
   },
@@ -45372,7 +45406,7 @@
     "name": "69A LACHLAN STREET THIRROUL 2515",
     "locID": "LOC000121315078",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW717956708"
    }
   },
@@ -47701,7 +47735,7 @@
     "name": "27 THE WAVES THIRROUL 2515",
     "locID": "LOC000121342022",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718363901"
    }
   },
@@ -52817,7 +52851,7 @@
    "properties": {
     "name": "84A PRINCES HIGHWAY THIRROUL 2515",
     "locID": "ChIJh4uXpcofE2sRmfSAY8TZO-8",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW720532962"
    }
@@ -53398,6 +53432,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720895147"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.92757693,
+     -34.31221267
+    ]
+   },
+   "properties": {
+    "name": "57 REDMAN AVENUE THIRROUL 2515",
+    "locID": "LOC000193704776",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW720896031"
    }
   },
   {
