@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T16:02:30.798103",
+ "generated": "2023-10-15T14:29:16.165140",
  "suburb": "DROMANA",
  "features": [
   {
@@ -33,7 +33,7 @@
     "name": "2A WILSON CRESCENT DROMANA 3936",
     "locID": "LOC000092123228",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC411264684"
    }
   },
@@ -2004,8 +2004,8 @@
    "properties": {
     "name": "49 MARY STREET DROMANA 3936",
     "locID": "LOC000038774419",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC411274664"
    }
   },
@@ -3595,6 +3595,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.98229832,
+     -38.34177173
+    ]
+   },
+   "properties": {
+    "name": "78 RAINIER AVENUE DROMANA 3936",
+    "locID": "ChIJLWLXlerF1WoRXg2Qx0pbxpU",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC411297986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.98224061,
      -38.3420378
     ]
@@ -4113,7 +4130,7 @@
     "name": "13 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000008419413",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC414742413"
    }
   },
@@ -5268,8 +5285,8 @@
    "properties": {
     "name": "1-3 NOEL STREET DROMANA 3936",
     "locID": "LOC000079719998",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC414787494"
    }
   },
@@ -5371,7 +5388,7 @@
     "name": "11 LATROBE PARADE DROMANA 3936",
     "locID": "LOC000046702962",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC414791403"
    }
   },
@@ -6560,8 +6577,8 @@
    "properties": {
     "name": "8 COLEUS STREET DROMANA 3936",
     "locID": "LOC000017653573",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419540936"
    }
   },
@@ -6594,8 +6611,8 @@
    "properties": {
     "name": "28 COLEUS STREET DROMANA 3936",
     "locID": "LOC000079081866",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419540938"
    }
   },
@@ -7241,7 +7258,7 @@
     "name": "23 BELLEVUE ROAD DROMANA 3936",
     "locID": "LOC000035107911",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419541593"
    }
   },
@@ -7801,8 +7818,8 @@
    "properties": {
     "name": "358 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000052696074",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419541938"
    }
   },
@@ -7818,8 +7835,8 @@
    "properties": {
     "name": "366 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000027053876",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419541939"
    }
   },
@@ -8057,7 +8074,7 @@
     "name": "47 COSMOS STREET DROMANA 3936",
     "locID": "LOC000101404099",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419542116"
    }
   },
@@ -8091,7 +8108,7 @@
     "name": "51 COSMOS STREET DROMANA 3936",
     "locID": "LOC000080513869",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419542118"
    }
   },
@@ -8431,7 +8448,7 @@
     "name": "30 COLEUS STREET DROMANA 3936",
     "locID": "LOC000104371833",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419542283"
    }
   },
@@ -9179,7 +9196,7 @@
     "name": "123 LATROBE PARADE DROMANA 3936",
     "locID": "LOC000033874510",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419542925"
    }
   },
@@ -9366,7 +9383,7 @@
     "name": "10 SEAVIEW STREET DROMANA 3936",
     "locID": "LOC000060512323",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419543015"
    }
   },
@@ -9773,8 +9790,8 @@
    "properties": {
     "name": "9 DONALD CRESCENT DROMANA 3936",
     "locID": "LOC000044389161",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419543511"
    }
   },
@@ -11796,8 +11813,8 @@
    "properties": {
     "name": "233 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000014367826",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419544350"
    }
   },
@@ -12120,7 +12137,7 @@
     "name": "3 PETER STREET DROMANA 3936",
     "locID": "LOC000030265223",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419544823"
    }
   },
@@ -12137,7 +12154,7 @@
     "name": "7 PETER STREET DROMANA 3936",
     "locID": "LOC000037828928",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419544825"
    }
   },
@@ -12255,8 +12272,8 @@
    "properties": {
     "name": "29 LUGANO AVENUE DROMANA 3936",
     "locID": "LOC000094152859",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419545019"
    }
   },
@@ -12663,8 +12680,8 @@
    "properties": {
     "name": "64 PIER STREET DROMANA 3936",
     "locID": "LOC000043866045",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419545353"
    }
   },
@@ -12680,8 +12697,8 @@
    "properties": {
     "name": "70 PIER STREET DROMANA 3936",
     "locID": "LOC000074713907",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419545354"
    }
   },
@@ -12783,7 +12800,7 @@
     "name": "239 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000004373051",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419545448"
    }
   },
@@ -13122,8 +13139,8 @@
    "properties": {
     "name": "8 THE RIGHI DROMANA 3936",
     "locID": "LOC000006232986",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419545853"
    }
   },
@@ -15077,8 +15094,8 @@
    "properties": {
     "name": "2A DONALD CRESCENT DROMANA 3936",
     "locID": "LOC000077703563",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419589802"
    }
   },
@@ -17780,8 +17797,8 @@
    "properties": {
     "name": "1106 ARTHURS SEAT ROAD DROMANA 3936",
     "locID": "LOC000071505810",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419837730"
    }
   },
@@ -18104,7 +18121,7 @@
     "name": "23 OCEAN STREET DROMANA 3936",
     "locID": "LOC000018551606",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419838841"
    }
   },
@@ -18206,7 +18223,7 @@
     "name": "11 PETER STREET DROMANA 3936",
     "locID": "LOC000089299523",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419839386"
    }
   },
@@ -18461,7 +18478,7 @@
     "name": "205 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000080314357",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419839636"
    }
   },
@@ -20365,7 +20382,7 @@
     "name": "12 JAMIESON STREET DROMANA 3936",
     "locID": "LOC000018585960",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419843651"
    }
   },
@@ -20721,8 +20738,8 @@
    "properties": {
     "name": "29 NOEL STREET DROMANA 3936",
     "locID": "LOC000182792711",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419844209"
    }
   },
@@ -21435,8 +21452,8 @@
    "properties": {
     "name": "9 COLEUS STREET DROMANA 3936",
     "locID": "LOC000006916907",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419845025"
    }
   },
@@ -21894,8 +21911,8 @@
    "properties": {
     "name": "7 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000047384163",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419845945"
    }
   },
@@ -22524,7 +22541,7 @@
     "name": "8 OLYMPIC PARADE DROMANA 3936",
     "locID": "LOC000093884815",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419846978"
    }
   },
@@ -22898,7 +22915,7 @@
     "name": "23 PETER STREET DROMANA 3936",
     "locID": "LOC000083229698",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419847789"
    }
   },
@@ -23781,8 +23798,8 @@
    "properties": {
     "name": "352 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000024273009",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419849757"
    }
   },
@@ -23798,8 +23815,8 @@
    "properties": {
     "name": "362 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000062269785",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419849758"
    }
   },
@@ -24393,8 +24410,8 @@
    "properties": {
     "name": "45 VERDON STREET DROMANA 3936",
     "locID": "LOC000022016160",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419857387"
    }
   },
@@ -24581,7 +24598,7 @@
     "name": "14 SEAVIEW STREET DROMANA 3936",
     "locID": "LOC000098358756",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419859063"
    }
   },
@@ -25073,8 +25090,8 @@
    "properties": {
     "name": "27 TENNENT STREET DROMANA 3936",
     "locID": "LOC000070366148",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419916438"
    }
   },
@@ -25158,8 +25175,8 @@
    "properties": {
     "name": "5 COLEUS STREET DROMANA 3936",
     "locID": "LOC000022123503",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419917648"
    }
   },
@@ -26281,7 +26298,7 @@
     "name": "UNIT 1, 133 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000008541169",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420058041"
    }
   },
@@ -26451,7 +26468,7 @@
     "name": "20 PETER STREET DROMANA 3936",
     "locID": "LOC000046731762",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420069538"
    }
   },
@@ -26926,8 +26943,8 @@
    "properties": {
     "name": "20 LUGANO AVENUE DROMANA 3936",
     "locID": "LOC000100768587",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420122283"
    }
   },
@@ -27369,7 +27386,7 @@
     "name": "6 MARCUS COURT DROMANA 3936",
     "locID": "LOC000071828078",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420125685"
    }
   },
@@ -27453,8 +27470,8 @@
    "properties": {
     "name": "46 SEAVIEW PARADE DROMANA 3936",
     "locID": "LOC000032710792",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420125697"
    }
   },
@@ -28898,8 +28915,8 @@
    "properties": {
     "name": "1 DONALD CRESCENT DROMANA 3936",
     "locID": "LOC000081258117",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420131184"
    }
   },
@@ -29391,8 +29408,8 @@
    "properties": {
     "name": "47 VERDON STREET DROMANA 3936",
     "locID": "LOC000092901890",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420132076"
    }
   },
@@ -29902,7 +29919,7 @@
     "name": "24 BELLEVUE ROAD DROMANA 3936",
     "locID": "LOC000020491580",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420134710"
    }
   },
@@ -30020,8 +30037,8 @@
    "properties": {
     "name": "23 CANNA STREET DROMANA 3936",
     "locID": "LOC000015248806",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420134764"
    }
   },
@@ -32213,8 +32230,8 @@
    "properties": {
     "name": "19 DAVEY AVENUE DROMANA 3936",
     "locID": "LOC000103566187",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420146601"
    }
   },
@@ -33506,7 +33523,7 @@
     "name": "191 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000008523352",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420150279"
    }
   },
@@ -33778,7 +33795,7 @@
     "name": "1 BASIL STREET DROMANA 3936",
     "locID": "LOC000018632123",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420154982"
    }
   },
@@ -34372,8 +34389,8 @@
    "properties": {
     "name": "30 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000012133605",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420159937"
    }
   },
@@ -35495,7 +35512,7 @@
     "name": "5 PETER STREET DROMANA 3936",
     "locID": "LOC000003963409",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420223677"
    }
   },
@@ -36276,8 +36293,8 @@
    "properties": {
     "name": "181 POINT NEPEAN ROAD DROMANA 3936",
     "locID": "LOC000026193596",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420352756"
    }
   },
@@ -37024,8 +37041,8 @@
    "properties": {
     "name": "6 ELIZABETH AVENUE DROMANA 3936",
     "locID": "LOC000036727088",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420428048"
    }
   },
@@ -37109,8 +37126,8 @@
    "properties": {
     "name": "9 COSMOS STREET DROMANA 3936",
     "locID": "LOC000189391356",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420431426"
    }
   },
@@ -37161,7 +37178,7 @@
     "name": "53 COSMOS STREET DROMANA 3936",
     "locID": "LOC000089122042",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420431429"
    }
   },
@@ -37313,8 +37330,8 @@
    "properties": {
     "name": "334 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000102012358",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420432357"
    }
   },
@@ -37365,7 +37382,7 @@
     "name": "340 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000041121095",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420432360"
    }
   },
@@ -37823,8 +37840,8 @@
    "properties": {
     "name": "2 EDITH PLACE DROMANA 3936",
     "locID": "LOC000102025692",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420435812"
    }
   },
@@ -38112,8 +38129,8 @@
    "properties": {
     "name": "32 MARCUS STREET DROMANA 3936",
     "locID": "LOC000095311001",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420436675"
    }
   },
@@ -38147,7 +38164,7 @@
     "name": "2 MARGO STREET DROMANA 3936",
     "locID": "LOC000021121233",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420436679"
    }
   },
@@ -38742,7 +38759,7 @@
     "name": "20 OCEAN STREET DROMANA 3936",
     "locID": "LOC000058560368",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420437640"
    }
   },
@@ -38792,8 +38809,8 @@
    "properties": {
     "name": "32 GRAEME STREET DROMANA 3936",
     "locID": "LOC000036940868",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420438278"
    }
   },
@@ -39133,7 +39150,7 @@
     "name": "6 JAMIESON STREET DROMANA 3936",
     "locID": "LOC000009255030",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420438654"
    }
   },
@@ -39303,7 +39320,7 @@
     "name": "110 LATROBE PARADE DROMANA 3936",
     "locID": "LOC000046702962",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420440265"
    }
   },
@@ -39320,7 +39337,7 @@
     "name": "112 LATROBE PARADE DROMANA 3936",
     "locID": "LOC000026090842",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420440266"
    }
   },
@@ -39609,7 +39626,7 @@
     "name": "28 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000090056625",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420441187"
    }
   },
@@ -39983,7 +40000,7 @@
     "name": "46 JACKSON WAY DROMANA 3936",
     "locID": "LOC000056303229",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420443791"
    }
   },
@@ -41122,7 +41139,7 @@
     "name": "1 TOOLERN AVENUE DROMANA 3936",
     "locID": "LOC000037873722",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420446453"
    }
   },
@@ -41173,7 +41190,7 @@
     "name": "187 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000042250326",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420446688"
    }
   },
@@ -41190,7 +41207,7 @@
     "name": "189 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000079646460",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420446689"
    }
   },
@@ -41207,7 +41224,7 @@
     "name": "225 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000065818122",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420446690"
    }
   },
@@ -41224,7 +41241,7 @@
     "name": "229 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000100596890",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420446691"
    }
   },
@@ -42482,7 +42499,7 @@
     "name": "14 JAMIESON STREET DROMANA 3936",
     "locID": "LOC000084706022",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420454854"
    }
   },
@@ -42499,7 +42516,7 @@
     "name": "16 JAMIESON STREET DROMANA 3936",
     "locID": "LOC000083098349",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420454855"
    }
   },
@@ -42889,8 +42906,8 @@
    "properties": {
     "name": "37 CODRINGTON STREET DROMANA 3936",
     "locID": "LOC000058271721",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420455465"
    }
   },
@@ -42991,8 +43008,8 @@
    "properties": {
     "name": "12 JULIAN COURT DROMANA 3936",
     "locID": "LOC000034195873",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420455735"
    }
   },
@@ -43263,7 +43280,7 @@
    "properties": {
     "name": "34 MACEDON AVENUE DROMANA 3936",
     "locID": "LOC000193483612",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420455765"
    }
@@ -44334,8 +44351,8 @@
    "properties": {
     "name": "12 COLEUS STREET DROMANA 3936",
     "locID": "LOC000076088634",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420462674"
    }
   },
@@ -46765,8 +46782,8 @@
    "properties": {
     "name": "40 DAHLIA STREET DROMANA 3936",
     "locID": "LOC000078110354",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420727580"
    }
   },
@@ -48220,6 +48237,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.96533,
+     -38.335513
+    ]
+   },
+   "properties": {
+    "name": "15 ANTHONY STREET DROMANA 3936",
+    "locID": "LOC000193759037",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420740233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.97247,
      -38.339169
     ]
@@ -48347,7 +48381,7 @@
     "name": "39 JACKSON WAY DROMANA 3936",
     "locID": "LOC000091368597",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420741183"
    }
   },
@@ -48670,7 +48704,7 @@
     "name": "24 YOU YANGS AVENUE DROMANA 3936",
     "locID": "LOC000011980706",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420742410"
    }
   },
@@ -49758,7 +49792,7 @@
     "name": "14 LUGANO AVENUE DROMANA 3936",
     "locID": "LOC000085132593",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420747402"
    }
   },
@@ -50182,8 +50216,8 @@
    "properties": {
     "name": "12 CANNA STREET DROMANA 3936",
     "locID": "LOC000009347767",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420748332"
    }
   },
@@ -50557,7 +50591,7 @@
     "name": "21 PETER STREET DROMANA 3936",
     "locID": "LOC000026004433",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420750236"
    }
   },
@@ -50574,7 +50608,7 @@
     "name": "9 SEAVIEW STREET DROMANA 3936",
     "locID": "LOC000015618011",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420750268"
    }
   },
@@ -50608,7 +50642,7 @@
     "name": "12 SEAVIEW STREET DROMANA 3936",
     "locID": "LOC000098295524",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420750270"
    }
   },
@@ -50930,8 +50964,8 @@
    "properties": {
     "name": "61 RAINIER AVENUE DROMANA 3936",
     "locID": "LOC000103224604",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420751671"
    }
   },
@@ -51270,8 +51304,8 @@
    "properties": {
     "name": "16 ANNE DRIVE DROMANA 3936",
     "locID": "LOC000077100084",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420753261"
    }
   },
@@ -51355,8 +51389,8 @@
    "properties": {
     "name": "1 NOEL STREET DROMANA 3936",
     "locID": "LOC000079719998",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420753407"
    }
   },
@@ -51661,8 +51695,8 @@
    "properties": {
     "name": "8 SUSAN STREET DROMANA 3936",
     "locID": "LOC000054296179",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420756061"
    }
   },
@@ -52971,7 +53005,7 @@
     "name": "227 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000005299581",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420763430"
    }
   },
@@ -52988,7 +53022,7 @@
     "name": "237 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000025998944",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420763431"
    }
   },
@@ -53582,8 +53616,8 @@
    "properties": {
     "name": "4 DONALD CRESCENT DROMANA 3936",
     "locID": "LOC000023440198",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420770529"
    }
   },
@@ -54194,8 +54228,8 @@
    "properties": {
     "name": "39 CODRINGTON STREET DROMANA 3936",
     "locID": "LOC000107116100",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420774031"
    }
   },
@@ -55554,8 +55588,8 @@
    "properties": {
     "name": "72 CARRIGG STREET DROMANA 3936",
     "locID": "LOC000092879178",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420934002"
    }
   },
@@ -56099,7 +56133,7 @@
     "name": "213 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000023528740",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421009755"
    }
   },
@@ -56218,7 +56252,7 @@
     "name": "161 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000005133125",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421038290"
    }
   },
@@ -56252,7 +56286,7 @@
     "name": "49 COSMOS STREET DROMANA 3936",
     "locID": "LOC000044890982",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421039752"
    }
   },
@@ -56319,8 +56353,8 @@
    "properties": {
     "name": "10 COSMOS STREET DROMANA 3936",
     "locID": "LOC000033738109",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421043298"
    }
   },
@@ -56592,7 +56626,7 @@
     "name": "8 MARCUS COURT DROMANA 3936",
     "locID": "LOC000101627048",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421044145"
    }
   },
@@ -56727,8 +56761,8 @@
    "properties": {
     "name": "42 MANNA STREET DROMANA 3936",
     "locID": "LOC000025211964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421046102"
    }
   },
@@ -57067,8 +57101,8 @@
    "properties": {
     "name": "336 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000082177548",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421046874"
    }
   },
@@ -57594,8 +57628,8 @@
    "properties": {
     "name": "17 PETER STREET DROMANA 3936",
     "locID": "LOC000109938393",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421051742"
    }
   },
@@ -57764,8 +57798,8 @@
    "properties": {
     "name": "34 VERDON STREET DROMANA 3936",
     "locID": "LOC000013574608",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421051799"
    }
   },
@@ -58614,8 +58648,8 @@
    "properties": {
     "name": "31 MONACO PARADE DROMANA 3936",
     "locID": "LOC000091377464",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421053560"
    }
   },
@@ -59294,8 +59328,8 @@
    "properties": {
     "name": "3 DONALD CRESCENT DROMANA 3936",
     "locID": "LOC000066827330",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421056034"
    }
   },
@@ -59447,8 +59481,8 @@
    "properties": {
     "name": "2 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000020162625",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421056315"
    }
   },
@@ -60773,8 +60807,8 @@
    "properties": {
     "name": "6 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000092270334",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421061240"
    }
   },
@@ -60790,8 +60824,8 @@
    "properties": {
     "name": "8 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000079152820",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421061241"
    }
   },
@@ -61708,8 +61742,8 @@
    "properties": {
     "name": "3 CLARENDON STREET DROMANA 3936",
     "locID": "LOC000108203147",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421064624"
    }
   },
@@ -62201,8 +62235,8 @@
    "properties": {
     "name": "1102 ARTHURS SEAT ROAD DROMANA 3936",
     "locID": "LOC000104285166",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421067089"
    }
   },
@@ -62371,8 +62405,8 @@
    "properties": {
     "name": "50 COLEUS STREET DROMANA 3936",
     "locID": "LOC000022123503",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421067133"
    }
   },
@@ -63698,7 +63732,7 @@
     "name": "21 OCEAN STREET DROMANA 3936",
     "locID": "LOC000050651593",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421074309"
    }
   },
@@ -64411,8 +64445,8 @@
    "properties": {
     "name": "8 SOLANDER STREET DROMANA 3936",
     "locID": "LOC000105710945",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421079000"
    }
   },
@@ -64904,8 +64938,8 @@
    "properties": {
     "name": "10A JULIAN COURT DROMANA 3936",
     "locID": "LOC000046571670",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421147147"
    }
   },
@@ -66111,8 +66145,8 @@
    "properties": {
     "name": "28 RAINIER AVENUE DROMANA 3936",
     "locID": "LOC000094015512",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421338075"
    }
   },
@@ -66570,8 +66604,8 @@
    "properties": {
     "name": "2 DAVEY AVENUE DROMANA 3936",
     "locID": "LOC000182484842",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421339806"
    }
   },
@@ -66910,8 +66944,8 @@
    "properties": {
     "name": "41 CANNA STREET DROMANA 3936",
     "locID": "LOC000055204857",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421340441"
    }
   },
@@ -67675,8 +67709,8 @@
    "properties": {
     "name": "360 BOUNDARY ROAD DROMANA 3936",
     "locID": "LOC000057935479",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421345565"
    }
   },
@@ -68134,8 +68168,8 @@
    "properties": {
     "name": "48 CHARLES STREET DROMANA 3936",
     "locID": "LOC000017699619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421347000"
    }
   },
@@ -68644,8 +68678,8 @@
    "properties": {
     "name": "43 SOLANDER STREET DROMANA 3936",
     "locID": "LOC000095055041",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421349526"
    }
   },
@@ -70378,8 +70412,8 @@
    "properties": {
     "name": "1 JETTY ROAD DROMANA 3936",
     "locID": "LOC000057493647",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421357683"
    }
   },
@@ -71381,8 +71415,8 @@
    "properties": {
     "name": "21 DAHLIA STREET DROMANA 3936",
     "locID": "LOC000045710493",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421361341"
    }
   },
@@ -71415,8 +71449,8 @@
    "properties": {
     "name": "30 DAHLIA STREET DROMANA 3936",
     "locID": "LOC000107284455",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421361343"
    }
   },
@@ -71466,8 +71500,8 @@
    "properties": {
     "name": "31 GRAEME STREET DROMANA 3936",
     "locID": "LOC000091899503",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421361384"
    }
   },
@@ -71619,8 +71653,8 @@
    "properties": {
     "name": "7 COLEUS STREET DROMANA 3936",
     "locID": "LOC000046725260",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421362054"
    }
   },
@@ -71636,8 +71670,8 @@
    "properties": {
     "name": "20 COLEUS STREET DROMANA 3936",
     "locID": "LOC000083166292",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421362055"
    }
   },
@@ -71756,7 +71790,7 @@
     "name": "4 TOOLERN AVENUE DROMANA 3936",
     "locID": "LOC000069805098",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421362162"
    }
   },
@@ -71807,7 +71841,7 @@
     "name": "10 MARCUS COURT DROMANA 3936",
     "locID": "LOC000062286686",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421362774"
    }
   },
@@ -72861,7 +72895,7 @@
     "name": "193 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000016821299",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421394821"
    }
   },
@@ -72878,7 +72912,7 @@
     "name": "195 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000045000001",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421394822"
    }
   },
@@ -72895,7 +72929,7 @@
     "name": "221 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000084891059",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421394823"
    }
   },
@@ -73320,7 +73354,7 @@
     "name": "223 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000036544485",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421427416"
    }
   },
@@ -73404,8 +73438,8 @@
    "properties": {
     "name": "18 COLEUS STREET DROMANA 3936",
     "locID": "LOC000105879460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421430333"
    }
   },
@@ -75138,8 +75172,8 @@
    "properties": {
     "name": "10 COLEUS STREET DROMANA 3936",
     "locID": "LOC000039164898",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421625707"
    }
   },
@@ -77348,8 +77382,8 @@
    "properties": {
     "name": "45 SOLANDER STREET DROMANA 3936",
     "locID": "LOC000005349243",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421665648"
    }
   },
@@ -78300,8 +78334,8 @@
    "properties": {
     "name": "3 CANNA STREET DROMANA 3936",
     "locID": "LOC000053953884",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421669445"
    }
   },
@@ -78589,8 +78623,8 @@
    "properties": {
     "name": "3 FRIEDA STREET DROMANA 3936",
     "locID": "LOC000094939865",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421670143"
    }
   },
@@ -78879,7 +78913,7 @@
     "name": "1 PETER STREET DROMANA 3936",
     "locID": "LOC000016860221",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421673041"
    }
   },
@@ -78896,7 +78930,7 @@
     "name": "9 PETER STREET DROMANA 3936",
     "locID": "LOC000079907619",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421673042"
    }
   },
@@ -78997,8 +79031,8 @@
    "properties": {
     "name": "42 PIER STREET DROMANA 3936",
     "locID": "LOC000024201988",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421673661"
    }
   },
@@ -79014,8 +79048,8 @@
    "properties": {
     "name": "85 RAINIER AVENUE DROMANA 3936",
     "locID": "LOC000045985219",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421673718"
    }
   },
@@ -81327,7 +81361,7 @@
     "name": "7 YOU YANGS AVENUE DROMANA 3936",
     "locID": "LOC000036869578",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421698437"
    }
   },
@@ -81344,7 +81378,7 @@
     "name": "17 YOU YANGS AVENUE DROMANA 3936",
     "locID": "LOC000065602982",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421698438"
    }
   },
@@ -81480,7 +81514,7 @@
     "name": "22 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000029331691",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421698580"
    }
   },
@@ -81497,7 +81531,7 @@
     "name": "26 PANORAMIC AVENUE DROMANA 3936",
     "locID": "LOC000015207349",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421698581"
    }
   },
@@ -81700,7 +81734,7 @@
    "properties": {
     "name": "14 SHAW STREET DROMANA 3936",
     "locID": "LOC000193708824",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421702588"
    }
@@ -83690,7 +83724,7 @@
     "name": "UNIT 2, 133 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000008541169",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421868109"
    }
   },
@@ -84506,7 +84540,7 @@
     "name": "133 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000008419413",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422107498"
    }
   },
@@ -85610,8 +85644,8 @@
    "properties": {
     "name": "UNIT 1, 72 CARRIGG STREET DROMANA 3936",
     "locID": "LOC000092879178",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423101888"
    }
   },
@@ -95538,8 +95572,8 @@
    "properties": {
     "name": "13 CLEMATIS STREET DROMANA 3936",
     "locID": "LOC000189048860",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424780610"
    }
   },
@@ -98173,8 +98207,8 @@
    "properties": {
     "name": "51A CARRIGG STREET DROMANA 3936",
     "locID": "LOC000145592939",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425273361"
    }
   },
@@ -99397,8 +99431,8 @@
    "properties": {
     "name": "62 MARY STREET DROMANA 3936",
     "locID": "LOC000145591439",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425531815"
    }
   },
@@ -99415,7 +99449,7 @@
     "name": "64 MARY STREET DROMANA 3936",
     "locID": "LOC000145591456",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425531816"
    }
   },
@@ -101335,8 +101369,8 @@
    "properties": {
     "name": "15 CLEMATIS STREET DROMANA 3936",
     "locID": "LOC000180914658",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425732084"
    }
   },
@@ -102271,7 +102305,7 @@
     "name": "UNIT 3, 25 CODRINGTON STREET DROMANA 3936",
     "locID": "LOC100074217830",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719095886"
    }
   },
@@ -102305,7 +102339,7 @@
     "name": "UNIT 1, 239 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000004373051",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719098065"
    }
   },
@@ -102339,7 +102373,7 @@
     "name": "UNIT 2, 25 CODRINGTON STREET DROMANA 3936",
     "locID": "LOC100074217830",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC719102735"
    }
   },
@@ -102526,7 +102560,7 @@
     "name": "UNIT 2, 239 PALMERSTON AVENUE DROMANA 3936",
     "locID": "LOC000004373051",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719116696"
    }
   },
@@ -106163,8 +106197,8 @@
    "properties": {
     "name": "UNIT 2, 19 DAVEY AVENUE DROMANA 3936",
     "locID": "LOC000182484842",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720284043"
    }
   },
@@ -106367,8 +106401,8 @@
    "properties": {
     "name": "UNIT 1, 19 DAVEY AVENUE DROMANA 3936",
     "locID": "LOC000182484842",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720289507"
    }
   },
@@ -112215,8 +112249,8 @@
    "properties": {
     "name": "47A GRAEME STREET DROMANA 3936",
     "locID": "LOC000187378692",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC720764126"
    }
   },
