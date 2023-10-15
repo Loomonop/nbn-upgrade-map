@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T21:31:57.845596",
+ "generated": "2023-10-15T20:16:42.145582",
  "suburb": "ROSEBUD",
  "features": [
   {
@@ -2362,7 +2362,7 @@
     "name": "11A MARK STREET ROSEBUD 3939",
     "locID": "LOC000102768729",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412227347"
    }
   },
@@ -8141,8 +8141,8 @@
    "properties": {
     "name": "53 BESGROVE STREET ROSEBUD 3939",
     "locID": "LOC000071399435",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419540678"
    }
   },
@@ -11151,7 +11151,7 @@
     "name": "17 MARK STREET ROSEBUD 3939",
     "locID": "LOC000022053816",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419542630"
    }
   },
@@ -11542,7 +11542,7 @@
     "name": "41 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000054083091",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419542776"
    }
   },
@@ -11559,7 +11559,7 @@
     "name": "47 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000071648689",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419542777"
    }
   },
@@ -12358,7 +12358,7 @@
     "name": "39 MARTIN STREET ROSEBUD 3939",
     "locID": "LOC000004251323",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419542939"
    }
   },
@@ -12664,7 +12664,7 @@
     "name": "5 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000080435788",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419543147"
    }
   },
@@ -13720,6 +13720,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419543557"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.910903,
+     -38.357984
+    ]
+   },
+   "properties": {
+    "name": "16 CASS STREET ROSEBUD 3939",
+    "locID": "ChIJaV_V_BvJ1WoRRPcha8Ql6WM",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC419543558"
    }
   },
   {
@@ -15299,7 +15316,7 @@
     "name": "17 MOUNT VIEW ROAD ROSEBUD 3939",
     "locID": "LOC000015574371",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419544368"
    }
   },
@@ -15502,8 +15519,8 @@
    "properties": {
     "name": "2 SHAREN COURT ROSEBUD 3939",
     "locID": "LOC000062738467",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419544413"
    }
   },
@@ -15809,7 +15826,7 @@
     "name": "52 NINTH AVENUE ROSEBUD 3939",
     "locID": "LOC000041078463",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419544862"
    }
   },
@@ -18191,23 +18208,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419545981"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.913023,
-     -38.355093
-    ]
-   },
-   "properties": {
-    "name": "12 PATERSON STREET ROSEBUD 3939",
-    "locID": "LOC000101078619",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419546033"
    }
   },
   {
@@ -21231,8 +21231,8 @@
    "properties": {
     "name": "14 MARKS AVENUE ROSEBUD 3939",
     "locID": "LOC000083519775",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419609214"
    }
   },
@@ -22881,7 +22881,7 @@
     "name": "2 CASS STREET ROSEBUD 3939",
     "locID": "LOC000006005357",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419725393"
    }
   },
@@ -24393,8 +24393,8 @@
    "properties": {
     "name": "131 FIRST AVENUE ROSEBUD 3939",
     "locID": "LOC000087469679",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419835975"
    }
   },
@@ -25719,8 +25719,8 @@
    "properties": {
     "name": "65 ELWERS ROAD ROSEBUD 3939",
     "locID": "LOC000106303733",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419837564"
    }
   },
@@ -28321,7 +28321,7 @@
     "name": "4 CASS STREET ROSEBUD 3939",
     "locID": "LOC000027836893",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419840588"
    }
   },
@@ -29289,8 +29289,8 @@
    "properties": {
     "name": "36 ELWERS ROAD ROSEBUD 3939",
     "locID": "LOC000047573107",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419842116"
    }
   },
@@ -31007,7 +31007,7 @@
     "name": "15 MOUNT VIEW ROAD ROSEBUD 3939",
     "locID": "LOC000059307915",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419844936"
    }
   },
@@ -32061,7 +32061,7 @@
     "name": "48A MURRAY-ANDERSON ROAD ROSEBUD 3939",
     "locID": "LOC000025915943",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419846744"
    }
   },
@@ -37789,8 +37789,8 @@
    "properties": {
     "name": "30 BRANSON STREET ROSEBUD 3939",
     "locID": "LOC000007753484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419913845"
    }
   },
@@ -38809,8 +38809,8 @@
    "properties": {
     "name": "UNIT 6, 3 BANKSIA PLACE ROSEBUD 3939",
     "locID": "LOC000099463444",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419978090"
    }
   },
@@ -42430,8 +42430,8 @@
    "properties": {
     "name": "14 LAMBERT COURT ROSEBUD 3939",
     "locID": "LOC000106603885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420125980"
    }
   },
@@ -43280,8 +43280,8 @@
    "properties": {
     "name": "59 NINTH AVENUE ROSEBUD 3939",
     "locID": "LOC000080954206",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420128465"
    }
   },
@@ -44113,8 +44113,8 @@
    "properties": {
     "name": "26 BRANSON STREET ROSEBUD 3939",
     "locID": "LOC000044578045",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420129480"
    }
   },
@@ -44555,7 +44555,7 @@
    "properties": {
     "name": "15 LAWSON CRESCENT ROSEBUD 3939",
     "locID": "LOC000193706041",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420129590"
    }
@@ -47513,8 +47513,8 @@
    "properties": {
     "name": "50 BESGROVE STREET ROSEBUD 3939",
     "locID": "LOC000035261624",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420139589"
    }
   },
@@ -47887,8 +47887,8 @@
    "properties": {
     "name": "15 MITCHELL STREET ROSEBUD 3939",
     "locID": "LOC000045516372",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420140450"
    }
   },
@@ -51695,8 +51695,8 @@
    "properties": {
     "name": "1 BROMLEY STREET ROSEBUD 3939",
     "locID": "LOC000018432284",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420150141"
    }
   },
@@ -53174,8 +53174,8 @@
    "properties": {
     "name": "32 WOODVALE GROVE ROSEBUD 3939",
     "locID": "LOC000057623146",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420164560"
    }
   },
@@ -53481,7 +53481,7 @@
     "name": "25A MARK STREET ROSEBUD 3939",
     "locID": "LOC000036647984",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420179896"
    }
   },
@@ -57628,8 +57628,8 @@
    "properties": {
     "name": "74 FOURTH AVENUE ROSEBUD 3939",
     "locID": "LOC000040712498",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420423431"
    }
   },
@@ -59056,8 +59056,8 @@
    "properties": {
     "name": "10 CHALLIS COURT ROSEBUD 3939",
     "locID": "LOC000009378821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420435989"
    }
   },
@@ -59923,8 +59923,8 @@
    "properties": {
     "name": "74 SEVENTH AVENUE ROSEBUD 3939",
     "locID": "LOC000066840743",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420437674"
    }
   },
@@ -60790,8 +60790,8 @@
    "properties": {
     "name": "159 SIXTH AVENUE ROSEBUD 3939",
     "locID": "LOC000004417171",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420438398"
    }
   },
@@ -63034,8 +63034,8 @@
    "properties": {
     "name": "32 SHAREN COURT ROSEBUD 3939",
     "locID": "LOC000058931780",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420442870"
    }
   },
@@ -64412,7 +64412,7 @@
     "name": "20 MOUNT VIEW ROAD ROSEBUD 3939",
     "locID": "LOC000010201604",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420446682"
    }
   },
@@ -64853,8 +64853,8 @@
    "properties": {
     "name": "26A WHITEHEAD GROVE ROSEBUD 3939",
     "locID": "LOC000068292004",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420447456"
    }
   },
@@ -66690,7 +66690,7 @@
     "name": "4 WILFRED STREET ROSEBUD 3939",
     "locID": "LOC000107248392",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420453412"
    }
   },
@@ -66775,7 +66775,7 @@
     "name": "4 PATERSON STREET ROSEBUD 3939",
     "locID": "LOC000093054399",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420454065"
    }
   },
@@ -67318,8 +67318,8 @@
    "properties": {
     "name": "22 BANKSIA PLACE ROSEBUD 3939",
     "locID": "LOC000011912722",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420455323"
    }
   },
@@ -69682,7 +69682,7 @@
     "name": "48 ROSEMORE ROAD ROSEBUD 3939",
     "locID": "LOC000007801053",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420464023"
    }
   },
@@ -69784,7 +69784,7 @@
     "name": "19 MARK STREET ROSEBUD 3939",
     "locID": "LOC000054937599",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420464235"
    }
   },
@@ -72605,8 +72605,8 @@
    "properties": {
     "name": "883 POINT NEPEAN ROAD ROSEBUD 3939",
     "locID": "LOC000030997566",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420653017"
    }
   },
@@ -73285,8 +73285,8 @@
    "properties": {
     "name": "33 BANKSIA PLACE ROSEBUD 3939",
     "locID": "LOC000057954666",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420724960"
    }
   },
@@ -74289,7 +74289,7 @@
     "name": "19 CASS STREET ROSEBUD 3939",
     "locID": "LOC000017681926",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420729087"
    }
   },
@@ -74306,7 +74306,7 @@
     "name": "6 CASS STREET ROSEBUD 3939",
     "locID": "LOC000071317155",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420729088"
    }
   },
@@ -74595,7 +74595,7 @@
     "name": "62 EIGHTH AVENUE ROSEBUD 3939",
     "locID": "LOC000073076142",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420734829"
    }
   },
@@ -77161,8 +77161,8 @@
    "properties": {
     "name": "20 CHALLIS COURT ROSEBUD 3939",
     "locID": "LOC000067074922",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420742097"
    }
   },
@@ -77790,8 +77790,8 @@
    "properties": {
     "name": "10 CLOVELLY AVENUE ROSEBUD 3939",
     "locID": "LOC000027729947",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420743120"
    }
   },
@@ -77842,7 +77842,7 @@
     "name": "28 CLOVELLY AVENUE ROSEBUD 3939",
     "locID": "LOC000036902171",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420743803"
    }
   },
@@ -78011,8 +78011,8 @@
    "properties": {
     "name": "70 FOURTH AVENUE ROSEBUD 3939",
     "locID": "LOC000005994385",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420744000"
    }
   },
@@ -79780,7 +79780,7 @@
     "name": "7 MOUNT VIEW ROAD ROSEBUD 3939",
     "locID": "LOC000067939194",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420747664"
    }
   },
@@ -81275,8 +81275,8 @@
    "properties": {
     "name": "41 BESGROVE STREET ROSEBUD 3939",
     "locID": "LOC000074269319",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420750252"
    }
   },
@@ -81309,8 +81309,8 @@
    "properties": {
     "name": "49 BESGROVE STREET ROSEBUD 3939",
     "locID": "LOC000011031454",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420750254"
    }
   },
@@ -83791,8 +83791,8 @@
    "properties": {
     "name": "8 SHAREN COURT ROSEBUD 3939",
     "locID": "LOC000047919030",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420756202"
    }
   },
@@ -83808,8 +83808,8 @@
    "properties": {
     "name": "12 SHAREN COURT ROSEBUD 3939",
     "locID": "LOC000071926370",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420756203"
    }
   },
@@ -85083,8 +85083,8 @@
    "properties": {
     "name": "49 SIXTH AVENUE ROSEBUD 3939",
     "locID": "LOC000022876509",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420759889"
    }
   },
@@ -85560,7 +85560,7 @@
     "name": "10 MOUNT VIEW ROAD ROSEBUD 3939",
     "locID": "LOC000052379273",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420763412"
    }
   },
@@ -87123,8 +87123,8 @@
    "properties": {
     "name": "193 EASTBOURNE ROAD ROSEBUD 3939",
     "locID": "LOC000105662255",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420786168"
    }
   },
@@ -91611,8 +91611,8 @@
    "properties": {
     "name": "5 MARKS AVENUE ROSEBUD 3939",
     "locID": "LOC000002904198",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421046859"
    }
   },
@@ -92818,8 +92818,8 @@
    "properties": {
     "name": "26 MARK STREET ROSEBUD 3939",
     "locID": "LOC000015199058",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421051580"
    }
   },
@@ -92904,7 +92904,7 @@
     "name": "6 PATERSON STREET ROSEBUD 3939",
     "locID": "LOC000097284380",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421051682"
    }
   },
@@ -92938,7 +92938,7 @@
     "name": "8 PATERSON STREET ROSEBUD 3939",
     "locID": "LOC000013749355",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421051684"
    }
   },
@@ -98956,7 +98956,7 @@
     "name": "40 MURRAY-ANDERSON ROAD ROSEBUD 3939",
     "locID": "LOC000054948398",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421069864"
    }
   },
@@ -99839,8 +99839,8 @@
    "properties": {
     "name": "45 SEVENTH AVENUE ROSEBUD 3939",
     "locID": "LOC000060134892",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421072536"
    }
   },
@@ -100435,7 +100435,7 @@
     "name": "15 PARKMORE ROAD ROSEBUD 3939",
     "locID": "LOC000085537402",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421073489"
    }
   },
@@ -101081,7 +101081,7 @@
     "name": "870 POINT NEPEAN ROAD ROSEBUD 3939",
     "locID": "LOC000106490147",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421076091"
    }
   },
@@ -101455,7 +101455,7 @@
     "name": "43 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000107768536",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421076220"
    }
   },
@@ -101862,8 +101862,8 @@
    "properties": {
     "name": "200 NINTH AVENUE SOUTH ROSEBUD 3939",
     "locID": "LOC000043266330",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421077072"
    }
   },
@@ -104532,7 +104532,7 @@
     "name": "3 WILFRED STREET ROSEBUD 3939",
     "locID": "LOC000020114888",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421117628"
    }
   },
@@ -105144,7 +105144,7 @@
     "name": "25 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000101599328",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421192094"
    }
   },
@@ -107813,7 +107813,7 @@
     "name": "38 MURRAY-ANDERSON ROAD ROSEBUD 3939",
     "locID": "LOC000106231989",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421338046"
    }
   },
@@ -108203,8 +108203,8 @@
    "properties": {
     "name": "2 HARRIDGE STREET ROSEBUD 3939",
     "locID": "LOC000068482169",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421338645"
    }
   },
@@ -108289,7 +108289,7 @@
     "name": "41 MARTIN STREET ROSEBUD 3939",
     "locID": "LOC000090901881",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421338687"
    }
   },
@@ -108901,7 +108901,7 @@
     "name": "60 EIGHTH AVENUE ROSEBUD 3939",
     "locID": "LOC000100307988",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421339728"
    }
   },
@@ -108918,7 +108918,7 @@
     "name": "64 EIGHTH AVENUE ROSEBUD 3939",
     "locID": "LOC000104703850",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421339729"
    }
   },
@@ -109972,7 +109972,7 @@
     "name": "11 MARK STREET ROSEBUD 3939",
     "locID": "LOC000102484533",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421344860"
    }
   },
@@ -110040,7 +110040,7 @@
     "name": "902 POINT NEPEAN ROAD ROSEBUD 3939",
     "locID": "LOC000023932107",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421345160"
    }
   },
@@ -111484,8 +111484,8 @@
    "properties": {
     "name": "11 HINTON STREET ROSEBUD 3939",
     "locID": "LOC000083115588",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421346963"
    }
   },
@@ -111739,8 +111739,8 @@
    "properties": {
     "name": "10 GRAYDON COURT ROSEBUD 3939",
     "locID": "LOC000026216293",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421347061"
    }
   },
@@ -112266,8 +112266,8 @@
    "properties": {
     "name": "144 SEVENTH AVENUE ROSEBUD 3939",
     "locID": "LOC000049975592",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421349113"
    }
   },
@@ -112794,7 +112794,7 @@
     "name": "27 CLOVELLY AVENUE ROSEBUD 3939",
     "locID": "LOC000045311056",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421350344"
    }
   },
@@ -113542,7 +113542,7 @@
     "name": "45 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000002031613",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421353045"
    }
   },
@@ -115241,8 +115241,8 @@
    "properties": {
     "name": "37 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000079571483",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421357688"
    }
   },
@@ -116312,8 +116312,8 @@
    "properties": {
     "name": "158 EIGHTH AVENUE ROSEBUD 3939",
     "locID": "LOC000036856598",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421361023"
    }
   },
@@ -116995,6 +116995,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421362092"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.91526963,
+     -38.35510893
+    ]
+   },
+   "properties": {
+    "name": "53 ROSEMORE ROAD ROSEBUD 3939",
+    "locID": "LOC000193766397",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421362133"
    }
   },
   {
@@ -119254,7 +119271,7 @@
     "name": "50 WHITEHEAD GROVE ROSEBUD 3939",
     "locID": "LOC000041440113",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421388400"
    }
   },
@@ -121362,7 +121379,7 @@
     "name": "923 POINT NEPEAN ROAD ROSEBUD 3939",
     "locID": "LOC000125597065",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421485088"
    }
   },
@@ -122979,6 +122996,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421607529"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.914918,
+     -38.358028
+    ]
+   },
+   "properties": {
+    "name": "8 KENNINGTON ROAD ROSEBUD 3939",
+    "locID": "LOC000193789864",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421607530"
    }
   },
   {
@@ -124608,8 +124642,8 @@
    "properties": {
     "name": "2 GLASSON STREET ROSEBUD 3939",
     "locID": "LOC000096327221",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421625746"
    }
   },
@@ -126173,7 +126207,7 @@
     "name": "25 MARK STREET ROSEBUD 3939",
     "locID": "LOC000169819153",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421655063"
    }
   },
@@ -126393,8 +126427,8 @@
    "properties": {
     "name": "2 HARVERSON DRIVE ROSEBUD 3939",
     "locID": "LOC000068209086",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421655673"
    }
   },
@@ -127583,8 +127617,8 @@
    "properties": {
     "name": "17 WOODVALE GROVE ROSEBUD 3939",
     "locID": "LOC000011918440",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421662968"
    }
   },
@@ -130609,8 +130643,8 @@
    "properties": {
     "name": "6 REDMOND COURT ROSEBUD 3939",
     "locID": "LOC000063559069",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421680464"
    }
   },
@@ -131749,7 +131783,7 @@
     "name": "8 CASS STREET ROSEBUD 3939",
     "locID": "LOC000016860947",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421691636"
    }
   },
@@ -131834,7 +131868,7 @@
     "name": "52 ROSEMORE ROAD ROSEBUD 3939",
     "locID": "LOC000086627893",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421691642"
    }
   },
@@ -134111,8 +134145,8 @@
    "properties": {
     "name": "18 SHAREN COURT ROSEBUD 3939",
     "locID": "LOC000026863334",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421702585"
    }
   },
@@ -135845,8 +135879,8 @@
    "properties": {
     "name": "79 EIGHTH AVENUE ROSEBUD 3939",
     "locID": "LOC000036137661",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421709368"
    }
   },
@@ -143165,6 +143199,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.90880257,
+     -38.37131512
+    ]
+   },
+   "properties": {
+    "name": "189 JETTY ROAD ROSEBUD 3939",
+    "locID": "LOC000096326386",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC422402735"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.90878046,
      -38.37150171
     ]
@@ -146300,8 +146351,8 @@
    "properties": {
     "name": "14 PARKMORE ROAD ROSEBUD 3939",
     "locID": "LOC000125550484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423567946"
    }
   },
@@ -151724,7 +151775,7 @@
     "name": "UNIT 1, 25 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000101599328",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423982203"
    }
   },
@@ -161406,23 +161457,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.89079583,
-     -38.36272456
-    ]
-   },
-   "properties": {
-    "name": "36 HOPE STREET ROSEBUD 3939",
-    "locID": "LOC000017202702",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424752962"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.89063569,
      -38.36272169
     ]
@@ -162740,7 +162774,7 @@
     "name": "30 CLOVELLY AVENUE ROSEBUD 3939",
     "locID": "LOC000125569561",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425012342"
    }
   },
@@ -167296,7 +167330,7 @@
     "name": "UNIT 1, 25 MARK STREET ROSEBUD 3939",
     "locID": "LOC000173582679",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425738298"
    }
   },
@@ -167313,7 +167347,7 @@
     "name": "UNIT 2, 25 MARK STREET ROSEBUD 3939",
     "locID": "LOC000169819153",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425738299"
    }
   },
@@ -167873,8 +167907,8 @@
    "properties": {
     "name": "70 WHITEHEAD GROVE ROSEBUD 3939",
     "locID": "LOC100056051844",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425790705"
    }
   },
@@ -169692,8 +169726,8 @@
    "properties": {
     "name": "32A WHITEHEAD GROVE ROSEBUD 3939",
     "locID": "LOC000172672289",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC719325148"
    }
   },
@@ -184126,7 +184160,7 @@
     "name": "UNIT 2, 25 JETTY ROAD ROSEBUD 3939",
     "locID": "LOC000101599328",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720226287"
    }
   },
@@ -187441,7 +187475,7 @@
     "name": "BOATSHED 92, 0 POINT NEPEAN ROAD ROSEBUD 3939",
     "locID": "LOC000125597065",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720446887"
    }
   },
@@ -189344,8 +189378,8 @@
    "properties": {
     "name": "UNIT 2, 51 ROSEMORE ROAD ROSEBUD 3939",
     "locID": "LOC000186038257",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC720524085"
    }
   },
@@ -192999,7 +193033,7 @@
    "properties": {
     "name": "UNIT 3, 15 LAWSON CRESCENT ROSEBUD 3939",
     "locID": "LOC000193706041",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721156703"
    }
@@ -193033,7 +193067,7 @@
    "properties": {
     "name": "UNIT 1, 15 LAWSON CRESCENT ROSEBUD 3939",
     "locID": "LOC000193706041",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721158927"
    }
@@ -193067,7 +193101,7 @@
    "properties": {
     "name": "UNIT 2, 15 LAWSON CRESCENT ROSEBUD 3939",
     "locID": "LOC000193706041",
-    "tech": "FTTP",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721159570"
    }
@@ -194209,23 +194243,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721332934"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.89079583,
-     -38.36272456
-    ]
-   },
-   "properties": {
-    "name": "36A HOPE STREET ROSEBUD 3939",
-    "locID": "LOC000114696324",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721333567"
    }
   },
   {

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T20:58:44.389214",
+ "generated": "2023-10-15T19:38:23.190456",
  "suburb": "STRATHDALE",
  "features": [
   {
@@ -4571,8 +4571,8 @@
    "properties": {
     "name": "27 CHELSEA BOULEVARD STRATHDALE 3550",
     "locID": "LOC000101571895",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419701907"
    }
   },
@@ -4588,8 +4588,8 @@
    "properties": {
     "name": "26 LANDALE DRIVE STRATHDALE 3550",
     "locID": "LOC000096436519",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419701908"
    }
   },
@@ -6339,8 +6339,8 @@
    "properties": {
     "name": "225 NORTH HARLEY STREET STRATHDALE 3550",
     "locID": "LOC000070280378",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419842568"
    }
   },
@@ -11575,8 +11575,8 @@
    "properties": {
     "name": "11 CHELSEA BOULEVARD STRATHDALE 3550",
     "locID": "LOC000098563576",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420286519"
    }
   },
@@ -16811,8 +16811,8 @@
    "properties": {
     "name": "3 BIRCH GROVE STRATHDALE 3550",
     "locID": "LOC000026679159",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420611673"
    }
   },
@@ -28279,6 +28279,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.30861119,
+     -36.75679855
+    ]
+   },
+   "properties": {
+    "name": "17 BEISCHER STREET STRATHDALE 3550",
+    "locID": "LOC000193741233",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421236604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.30862359,
      -36.75551851
     ]
@@ -30003,8 +30020,8 @@
    "properties": {
     "name": "10 CHELSEA BOULEVARD STRATHDALE 3550",
     "locID": "LOC000061918380",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421493923"
    }
   },
@@ -32740,8 +32757,8 @@
    "properties": {
     "name": "34 NORTHMOOR DRIVE STRATHDALE 3550",
     "locID": "LOC000029365769",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421546943"
    }
   },
@@ -32978,8 +32995,8 @@
    "properties": {
     "name": "28 WEATHERBY DRIVE STRATHDALE 3550",
     "locID": "LOC000020225111",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421562046"
    }
   },
@@ -34168,8 +34185,8 @@
    "properties": {
     "name": "6 WEATHERBY DRIVE STRATHDALE 3550",
     "locID": "LOC000048733558",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421784255"
    }
   },
@@ -38928,8 +38945,8 @@
    "properties": {
     "name": "23 ERNIOLD ROAD STRATHDALE 3550",
     "locID": "LOC000022673380",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423139889"
    }
   },
@@ -53687,6 +53704,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721224395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.30904808,
+     -36.75674543
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 17 BEISCHER STREET STRATHDALE 3550",
+    "locID": "LOC000193741251",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721285504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.30883032,
+     -36.75678745
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 17 BEISCHER STREET STRATHDALE 3550",
+    "locID": "LOC000193741246",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721295426"
    }
   }
  ]
