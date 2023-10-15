@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T11:57:02.984065",
+ "generated": "2023-10-15T10:12:34.122264",
  "suburb": "CRANBOURNE",
  "features": [
   {
@@ -17824,23 +17824,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.277776,
-     -38.111822
-    ]
-   },
-   "properties": {
-    "name": "2 HUDSON STREET CRANBOURNE 3977",
-    "locID": "LOC000106017709",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419800839"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.277464,
      -38.111502
     ]
@@ -35444,7 +35427,7 @@
     "name": "29 COOPER COURT CRANBOURNE 3977",
     "locID": "LOC000073865164",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420374875"
    }
   },
@@ -38285,6 +38268,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420397166"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.27489,
+     -38.092954
+    ]
+   },
+   "properties": {
+    "name": "52 CLAIRMONT AVENUE CRANBOURNE 3977",
+    "locID": "LOC000193750895",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420397167"
    }
   },
   {
@@ -42314,23 +42314,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420415501"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.27977568,
-     -38.1034439
-    ]
-   },
-   "properties": {
-    "name": "14 WILLIAM STREET CRANBOURNE 3977",
-    "locID": "LOC000003498171",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420415503"
    }
   },
   {
@@ -153841,23 +153824,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.25507592,
-     -38.1104805
-    ]
-   },
-   "properties": {
-    "name": "50E WILLOW GLEN BOULEVARD CRANBOURNE 3977",
-    "locID": "EjM1MCBXaWxsb3cgR2xlbiBCbHZkLCBDcmFuYm91cm5lIFZJQyAzOTc3LCBBdXN0cmFsaWEiMBIuChQKEglBDCGuWw7WahE9w4fYzJAZIxAyKhQKEgnjLjz2Wg7WahFmcNpfiHYoxg",
-    "tech": "FTTP",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC425573240"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.25582158,
      -38.11066458
     ]
@@ -181024,23 +180990,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.27977568,
-     -38.1034439
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 14 WILLIAM STREET CRANBOURNE 3977",
-    "locID": "LOC000003498171",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721210335"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.25720949,
      -38.11690779
     ]
@@ -181364,23 +181313,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.27977568,
-     -38.1034439
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 14 WILLIAM STREET CRANBOURNE 3977",
-    "locID": "LOC000003498171",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721214100"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.25436203,
      -38.11660428
     ]
@@ -181561,23 +181493,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721215362"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.27977568,
-     -38.1034439
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 14 WILLIAM STREET CRANBOURNE 3977",
-    "locID": "LOC000003498171",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721215375"
    }
   },
   {
@@ -182000,8 +181915,8 @@
    "properties": {
     "name": "48S LANGER CIRCUIT CRANBOURNE 3977",
     "locID": "LOC000050399387",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721218815"
    }
   },
