@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T05:52:29.066861",
+ "generated": "2023-10-15T03:57:52.960455",
  "suburb": "NEWTOWN",
  "features": [
   {
@@ -4181,7 +4181,7 @@
     "name": "41 CAIRNS AVENUE NEWTOWN 3220",
     "locID": "LOC000078049884",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC412008860"
    }
   },
@@ -12425,8 +12425,8 @@
    "properties": {
     "name": "99 NICHOLAS STREET NEWTOWN 3220",
     "locID": "LOC000002087945",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421929355"
    }
   },
@@ -13292,8 +13292,8 @@
    "properties": {
     "name": "UNIT 1, 71 FAIRVIEW AVENUE NEWTOWN 3220",
     "locID": "LOC000028798474",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422442811"
    }
   },
@@ -16268,7 +16268,7 @@
     "name": "10 BEALES STREET NEWTOWN 3220",
     "locID": "LOC000095263408",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423058958"
    }
   },
@@ -17186,7 +17186,7 @@
     "name": "7 CAIRNS AVENUE NEWTOWN 3220",
     "locID": "LOC000011904469",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423062335"
    }
   },
@@ -18512,7 +18512,7 @@
     "name": "25 CLARKE STREET NEWTOWN 3220",
     "locID": "LOC000053003270",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423064857"
    }
   },
@@ -18529,7 +18529,7 @@
     "name": "27 CLARKE STREET NEWTOWN 3220",
     "locID": "LOC000061897739",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423064858"
    }
   },
@@ -18682,7 +18682,7 @@
     "name": "58A CLARKE STREET NEWTOWN 3220",
     "locID": "LOC000092607844",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423064868"
    }
   },
@@ -20501,7 +20501,7 @@
     "name": "18 LAMBERT AVENUE NEWTOWN 3220",
     "locID": "LOC000036662214",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423078014"
    }
   },
@@ -20721,8 +20721,8 @@
    "properties": {
     "name": "1 LAYTON CRESCENT NEWTOWN 3220",
     "locID": "LOC000039032888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423078562"
    }
   },
@@ -22405,7 +22405,7 @@
     "name": "267 NOBLE STREET NEWTOWN 3220",
     "locID": "LOC000035948070",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423084452"
    }
   },
@@ -26723,7 +26723,7 @@
     "name": "54 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000054075521",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423096853"
    }
   },
@@ -26739,8 +26739,8 @@
    "properties": {
     "name": "56 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000027126170",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423096854"
    }
   },
@@ -28899,7 +28899,7 @@
     "name": "29 NOBLE STREET NEWTOWN 3220",
     "locID": "LOC000090037841",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423106540"
    }
   },
@@ -29714,8 +29714,8 @@
    "properties": {
     "name": "165 WEST FYANS STREET NEWTOWN 3220",
     "locID": "LOC000058363088",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423109489"
    }
   },
@@ -29853,23 +29853,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423112928"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.32925231,
-     -38.14258921
-    ]
-   },
-   "properties": {
-    "name": "163 MINERVA ROAD NEWTOWN 3220",
-    "locID": "LOC000009373677",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC423112930"
    }
   },
   {
@@ -31704,7 +31687,7 @@
     "name": "2 STANLEY STREET NEWTOWN 3220",
     "locID": "LOC000098233312",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423127929"
    }
   },
@@ -31738,7 +31721,7 @@
     "name": "4 STANLEY STREET NEWTOWN 3220",
     "locID": "LOC000087618722",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423127931"
    }
   },
@@ -35953,8 +35936,8 @@
    "properties": {
     "name": "341 AUTUMN STREET NEWTOWN 3220",
     "locID": "LOC000071456243",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423437532"
    }
   },
@@ -36463,8 +36446,8 @@
    "properties": {
     "name": "36 BALCOMBE ROAD NEWTOWN 3220",
     "locID": "LOC000088230191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423437790"
    }
   },
@@ -36770,7 +36753,7 @@
     "name": "74 BALCOMBE ROAD NEWTOWN 3220",
     "locID": "LOC000066778464",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423437809"
    }
   },
@@ -36804,7 +36787,7 @@
     "name": "78 BALCOMBE ROAD NEWTOWN 3220",
     "locID": "LOC000073851093",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423437811"
    }
   },
@@ -39285,8 +39268,8 @@
    "properties": {
     "name": "19 BRAEMAR COURT NEWTOWN 3220",
     "locID": "LOC000104716641",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423441550"
    }
   },
@@ -40629,7 +40612,7 @@
     "name": "10 CAIRNS AVENUE NEWTOWN 3220",
     "locID": "LOC000066588898",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423443016"
    }
   },
@@ -40765,7 +40748,7 @@
     "name": "18 CAIRNS AVENUE NEWTOWN 3220",
     "locID": "LOC000104467905",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423443024"
    }
   },
@@ -40884,7 +40867,7 @@
     "name": "25 CAIRNS AVENUE NEWTOWN 3220",
     "locID": "LOC000015184281",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423443031"
    }
   },
@@ -41020,7 +41003,7 @@
     "name": "31 CAIRNS AVENUE NEWTOWN 3220",
     "locID": "LOC000016114086",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423443039"
    }
   },
@@ -41139,7 +41122,7 @@
     "name": "39 CAIRNS AVENUE NEWTOWN 3220",
     "locID": "LOC000081917542",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423443046"
    }
   },
@@ -44369,7 +44352,7 @@
     "name": "28 CLARKE STREET NEWTOWN 3220",
     "locID": "LOC000050132743",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423446826"
    }
   },
@@ -44743,7 +44726,7 @@
     "name": "73 CLARKE STREET NEWTOWN 3220",
     "locID": "LOC000023027363",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423446849"
    }
   },
@@ -45677,8 +45660,8 @@
    "properties": {
     "name": "4 CORONAL AVENUE NEWTOWN 3220",
     "locID": "LOC000057100718",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423448753"
    }
   },
@@ -45695,7 +45678,7 @@
     "name": "5 CORONAL AVENUE NEWTOWN 3220",
     "locID": "LOC000091227747",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423448754"
    }
   },
@@ -47122,8 +47105,8 @@
    "properties": {
     "name": "8 DAISY STREET NEWTOWN 3220",
     "locID": "LOC000085339104",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423449450"
    }
   },
@@ -47768,8 +47751,8 @@
    "properties": {
     "name": "15 FAIRMONT ROAD NEWTOWN 3220",
     "locID": "LOC000054597585",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423454549"
    }
   },
@@ -48873,8 +48856,8 @@
    "properties": {
     "name": "71 FAIRVIEW AVENUE NEWTOWN 3220",
     "locID": "LOC000028798474",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423454616"
    }
   },
@@ -49163,7 +49146,7 @@
     "name": "94 FAIRVIEW AVENUE NEWTOWN 3220",
     "locID": "LOC000081351467",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423454633"
    }
   },
@@ -51900,7 +51883,7 @@
     "name": "5 HEATHFIELD COURT NEWTOWN 3220",
     "locID": "LOC000039514692",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423461600"
    }
   },
@@ -52903,7 +52886,7 @@
     "name": "16 LAMBERT AVENUE NEWTOWN 3220",
     "locID": "LOC000056690372",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423466710"
    }
   },
@@ -53939,8 +53922,8 @@
    "properties": {
     "name": "10 LAYTON CRESCENT NEWTOWN 3220",
     "locID": "LOC000035310953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423467869"
    }
   },
@@ -57170,7 +57153,7 @@
     "name": "15 NANTES STREET NEWTOWN 3220",
     "locID": "LOC000069200166",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423477208"
    }
   },
@@ -57340,7 +57323,7 @@
     "name": "24 NANTES STREET NEWTOWN 3220",
     "locID": "LOC000056436521",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423477218"
    }
   },
@@ -57408,7 +57391,7 @@
     "name": "28 NANTES STREET NEWTOWN 3220",
     "locID": "LOC000105812643",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423477222"
    }
   },
@@ -57442,7 +57425,7 @@
     "name": "2 NANTES STREET NEWTOWN 3220",
     "locID": "LOC000009414341",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423477224"
    }
   },
@@ -57459,7 +57442,7 @@
     "name": "30 NANTES STREET NEWTOWN 3220",
     "locID": "LOC000039118803",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423477225"
    }
   },
@@ -57493,7 +57476,7 @@
     "name": "32 NANTES STREET NEWTOWN 3220",
     "locID": "LOC000066700081",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423477227"
    }
   },
@@ -57544,7 +57527,7 @@
     "name": "38 NANTES STREET NEWTOWN 3220",
     "locID": "LOC000109180176",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423477230"
    }
   },
@@ -59379,8 +59362,8 @@
    "properties": {
     "name": "105 NOBLE STREET NEWTOWN 3220",
     "locID": "LOC000005360369",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423478517"
    }
   },
@@ -60961,7 +60944,7 @@
     "name": "261 NOBLE STREET NEWTOWN 3220",
     "locID": "LOC000046427348",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423478612"
    }
   },
@@ -61012,7 +60995,7 @@
     "name": "26 NOBLE STREET NEWTOWN 3220",
     "locID": "LOC000035948070",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423478615"
    }
   },
@@ -65364,7 +65347,7 @@
     "name": "15 QUEENS ROAD NEWTOWN 3220",
     "locID": "LOC000041013769",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423483539"
    }
   },
@@ -65415,7 +65398,7 @@
     "name": "25 QUEENS ROAD NEWTOWN 3220",
     "locID": "LOC000058264243",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423483542"
    }
   },
@@ -66213,8 +66196,8 @@
    "properties": {
     "name": "38 RETREAT ROAD NEWTOWN 3220",
     "locID": "LOC000030134025",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423484564"
    }
   },
@@ -69580,7 +69563,7 @@
     "name": "303 SHANNON AVENUE NEWTOWN 3220",
     "locID": "LOC000030013726",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423487204"
    }
   },
@@ -69682,7 +69665,7 @@
     "name": "312 SHANNON AVENUE NEWTOWN 3220",
     "locID": "LOC000061718219",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423487210"
    }
   },
@@ -75326,7 +75309,7 @@
     "name": "13 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000063851282",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423496435"
    }
   },
@@ -75428,7 +75411,7 @@
     "name": "19 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000027671738",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423496441"
    }
   },
@@ -75513,7 +75496,7 @@
     "name": "23 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000019635206",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423496446"
    }
   },
@@ -75547,7 +75530,7 @@
     "name": "25 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000101427543",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423496448"
    }
   },
@@ -76091,7 +76074,7 @@
     "name": "59 UPPER SKENE STREET NEWTOWN 3220",
     "locID": "LOC000021161025",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423496480"
    }
   },
@@ -76958,7 +76941,7 @@
     "name": "11 VISTA ROAD NEWTOWN 3220",
     "locID": "LOC000086681328",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423497776"
    }
   },
@@ -77026,7 +77009,7 @@
     "name": "15 VISTA ROAD NEWTOWN 3220",
     "locID": "LOC000018588123",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423497780"
    }
   },
@@ -77077,7 +77060,7 @@
     "name": "1 VISTA ROAD NEWTOWN 3220",
     "locID": "LOC000020043977",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423497783"
    }
   },
@@ -77145,7 +77128,7 @@
     "name": "3 VISTA ROAD NEWTOWN 3220",
     "locID": "LOC000075186796",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423497787"
    }
   },
@@ -77247,7 +77230,7 @@
     "name": "9 VISTA ROAD NEWTOWN 3220",
     "locID": "LOC000070981614",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423497793"
    }
   },
@@ -87667,8 +87650,8 @@
    "properties": {
     "name": "11 MARNOCK ROAD NEWTOWN 3220",
     "locID": "LOC000124238289",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424361026"
    }
   },
@@ -87701,8 +87684,8 @@
    "properties": {
     "name": "1 MARNOCK ROAD NEWTOWN 3220",
     "locID": "LOC000124238289",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424361028"
    }
   },
@@ -87923,7 +87906,7 @@
     "name": "53 MERVYN STREET NEWTOWN 3220",
     "locID": "LOC000080976479",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424361895"
    }
   },
@@ -91577,8 +91560,8 @@
    "properties": {
     "name": "3 MARNOCK ROAD NEWTOWN 3220",
     "locID": "LOC000124238289",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424718834"
    }
   },
@@ -97493,8 +97476,8 @@
    "properties": {
     "name": "117-119 APHRASIA STREET NEWTOWN 3220",
     "locID": "LOC000164745580",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425772963"
    }
   },
@@ -101404,7 +101387,7 @@
     "name": "38 LAMBERT AVENUE NEWTOWN 3220",
     "locID": "LOC000159527683",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720452043"
    }
   },
@@ -102817,40 +102800,6 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721155841"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.32925525,
-     -38.14257509
-    ]
-   },
-   "properties": {
-    "name": "163A MINERVA ROAD NEWTOWN 3220",
-    "locID": "LOC000009373677",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC721156688"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.32924172,
-     -38.14264288
-    ]
-   },
-   "properties": {
-    "name": "163B MINERVA ROAD NEWTOWN 3220",
-    "locID": "LOC000009373677",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAVIC721157522"
    }
   },
   {

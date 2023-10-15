@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T05:44:08.379459",
+ "generated": "2023-10-15T03:49:03.766306",
  "suburb": "TORQUAY",
  "features": [
   {
@@ -15,8 +15,8 @@
    "properties": {
     "name": "225 THE ESPLANADE TORQUAY 3228",
     "locID": "LOC000104087942",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC412467767"
    }
   },
@@ -678,8 +678,8 @@
    "properties": {
     "name": "30 BEACH ROAD TORQUAY 3228",
     "locID": "LOC000114357205",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC412493748"
    }
   },
@@ -4741,8 +4741,8 @@
    "properties": {
     "name": "1 CEDUNA CLOSE TORQUAY 3228",
     "locID": "LOC000057390963",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC414129642"
    }
   },
@@ -6340,7 +6340,7 @@
     "name": "7 HAVEN COURT TORQUAY 3228",
     "locID": "LOC000046632285",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419636506"
    }
   },
@@ -6682,6 +6682,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419636852"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.32401988,
+     -38.31877715
+    ]
+   },
+   "properties": {
+    "name": "17 HIGHLANDER STREET TORQUAY 3228",
+    "locID": "ChIJ3wN_nB9v1GoRHePBAmN3QGE",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC419636853"
    }
   },
   {
@@ -7326,7 +7343,7 @@
     "name": "61 COWRIE ROAD TORQUAY 3228",
     "locID": "LOC000057575925",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419639177"
    }
   },
@@ -8719,8 +8736,8 @@
    "properties": {
     "name": "23 HIGHLANDER STREET TORQUAY 3228",
     "locID": "LOC000018600147",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419643612"
    }
   },
@@ -9654,8 +9671,8 @@
    "properties": {
     "name": "15 MIRANDA CLOSE TORQUAY 3228",
     "locID": "LOC000047697727",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419646604"
    }
   },
@@ -10215,8 +10232,8 @@
    "properties": {
     "name": "78 ZEALLY BAY ROAD TORQUAY 3228",
     "locID": "LOC000039705096",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419647745"
    }
   },
@@ -10674,8 +10691,8 @@
    "properties": {
     "name": "34 ORUNGAL COURT TORQUAY 3228",
     "locID": "LOC000062426100",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419649034"
    }
   },
@@ -10929,8 +10946,8 @@
    "properties": {
     "name": "28 LOCH ARD DRIVE TORQUAY 3228",
     "locID": "LOC000016957261",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419649078"
    }
   },
@@ -10980,8 +10997,8 @@
    "properties": {
     "name": "37 BOSCARNE AVENUE TORQUAY 3228",
     "locID": "LOC000039569455",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419649238"
    }
   },
@@ -14043,6 +14060,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419758561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.32600519,
+     -38.31439908
+    ]
+   },
+   "properties": {
+    "name": "29 KOOMEELA DRIVE TORQUAY 3228",
+    "locID": "ChIJwcAfOd5u1GoRtCu2csh5ISU",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC419758570"
    }
   },
   {
@@ -17764,7 +17798,7 @@
     "name": "73 COWRIE ROAD TORQUAY 3228",
     "locID": "LOC000032003523",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419947220"
    }
   },
@@ -18861,6 +18895,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.32403041,
+     -38.32106813
+    ]
+   },
+   "properties": {
+    "name": "32 RIVERSIDE DRIVE TORQUAY 3228",
+    "locID": "LOC000058075442",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419954245"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.32400955,
      -38.32190403
     ]
@@ -19038,8 +19089,8 @@
    "properties": {
     "name": "8 LYDIA COURT TORQUAY 3228",
     "locID": "LOC000052328088",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419957295"
    }
   },
@@ -20381,8 +20432,8 @@
    "properties": {
     "name": "39 POMORA AVENUE TORQUAY 3228",
     "locID": "LOC000090562833",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420025089"
    }
   },
@@ -21690,8 +21741,8 @@
    "properties": {
     "name": "6 EMPIRE COURT TORQUAY 3228",
     "locID": "LOC000049012918",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420048285"
    }
   },
@@ -21707,8 +21758,8 @@
    "properties": {
     "name": "18 GLENGARRY DRIVE TORQUAY 3228",
     "locID": "LOC000063550742",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420048538"
    }
   },
@@ -21741,8 +21792,8 @@
    "properties": {
     "name": "11 KOOMEELA DRIVE TORQUAY 3228",
     "locID": "LOC000032498298",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420048545"
    }
   },
@@ -22353,8 +22404,8 @@
    "properties": {
     "name": "19 POMORA AVENUE TORQUAY 3228",
     "locID": "LOC000104774080",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420068375"
    }
   },
@@ -24190,7 +24241,7 @@
     "name": "26 PARKSIDE CRESCENT TORQUAY 3228",
     "locID": "LOC000020459681",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420232067"
    }
   },
@@ -24445,7 +24496,7 @@
     "name": "82 DARIAN ROAD TORQUAY 3228",
     "locID": "LOC000016785638",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420232082"
    }
   },
@@ -24564,7 +24615,7 @@
     "name": "60 DARIAN ROAD TORQUAY 3228",
     "locID": "LOC000018569489",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420232141"
    }
   },
@@ -24665,8 +24716,8 @@
    "properties": {
     "name": "12 VARYDALE AVENUE TORQUAY 3228",
     "locID": "LOC000040814795",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420232147"
    }
   },
@@ -24699,8 +24750,8 @@
    "properties": {
     "name": "29 FISCHER STREET TORQUAY 3228",
     "locID": "LOC000016007016",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420232149"
    }
   },
@@ -24733,8 +24784,8 @@
    "properties": {
     "name": "27 FISCHER STREET TORQUAY 3228",
     "locID": "LOC000107828256",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420232151"
    }
   },
@@ -27130,8 +27181,8 @@
    "properties": {
     "name": "16 ANTARES COURT TORQUAY 3228",
     "locID": "LOC000015957126",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420246199"
    }
   },
@@ -28133,8 +28184,8 @@
    "properties": {
     "name": "11 FISCHER STREET TORQUAY 3228",
     "locID": "LOC000149636827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420308412"
    }
   },
@@ -29282,6 +29333,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.32926278,
+     -38.31371081
+    ]
+   },
+   "properties": {
+    "name": "161 FISCHER STREET TORQUAY 3228",
+    "locID": "ChIJga8oGdxu1GoRNlOICfu1KoM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC420332784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.33126171,
      -38.31443975
     ]
@@ -29867,8 +29935,8 @@
    "properties": {
     "name": "14 CEDUNA CLOSE TORQUAY 3228",
     "locID": "LOC000057390963",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420338209"
    }
   },
@@ -31567,8 +31635,8 @@
    "properties": {
     "name": "25 ST GEORGES WAY TORQUAY 3228",
     "locID": "LOC000079975147",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420485119"
    }
   },
@@ -32095,8 +32163,25 @@
     "name": "21 DARIAN ROAD TORQUAY 3228",
     "locID": "LOC000048911069",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420537382"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.32710074,
+     -38.31464256
+    ]
+   },
+   "properties": {
+    "name": "4 ARTISAN CLOSE TORQUAY 3228",
+    "locID": "ChIJcxmWXd5u1GoRSC618qG8R0U",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC420537383"
    }
   },
   {
@@ -33013,7 +33098,7 @@
     "name": "3 CENTRE COURT TORQUAY 3228",
     "locID": "LOC000063958290",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420538404"
    }
   },
@@ -33081,7 +33166,7 @@
     "name": "1 CENTRE COURT TORQUAY 3228",
     "locID": "LOC000108052907",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420538408"
    }
   },
@@ -33183,7 +33268,7 @@
     "name": "88 DARIAN ROAD TORQUAY 3228",
     "locID": "LOC000072115600",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420538414"
    }
   },
@@ -34848,8 +34933,8 @@
    "properties": {
     "name": "16 LOCH ARD DRIVE TORQUAY 3228",
     "locID": "LOC000002750691",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420549957"
    }
   },
@@ -37296,8 +37381,8 @@
    "properties": {
     "name": "1 BADEN COURT TORQUAY 3228",
     "locID": "LOC000080398955",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420636974"
    }
   },
@@ -37333,6 +37418,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420636976"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.32825033,
+     -38.3137107
+    ]
+   },
+   "properties": {
+    "name": "3 BADEN COURT TORQUAY 3228",
+    "locID": "LOC000099502262",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC420636977"
    }
   },
   {
@@ -40560,8 +40662,8 @@
    "properties": {
     "name": "63 FISCHER STREET TORQUAY 3228",
     "locID": "LOC000029261533",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420839228"
    }
   },
@@ -41614,8 +41716,8 @@
    "properties": {
     "name": "6 RAYVILLE COURT TORQUAY 3228",
     "locID": "LOC000080549457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420844185"
    }
   },
@@ -42593,6 +42695,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.3277822,
+     -38.31721261
+    ]
+   },
+   "properties": {
+    "name": "8 FOAM COURT TORQUAY 3228",
+    "locID": "ChIJK6uUdN9u1GoRn-KqVPpJE_0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC420850024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3278551,
      -38.31857509
     ]
@@ -42855,8 +42974,8 @@
    "properties": {
     "name": "4 PETRIANA COURT TORQUAY 3228",
     "locID": "LOC000060284677",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420855818"
    }
   },
@@ -43502,7 +43621,7 @@
     "name": "28 PARKSIDE CRESCENT TORQUAY 3228",
     "locID": "LOC000096075954",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420861175"
    }
   },
@@ -43535,8 +43654,8 @@
    "properties": {
     "name": "9 HAVEN COURT TORQUAY 3228",
     "locID": "LOC000106463058",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420861177"
    }
   },
@@ -46799,8 +46918,8 @@
    "properties": {
     "name": "30 KOOMEELA DRIVE TORQUAY 3228",
     "locID": "LOC000071277580",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420955994"
    }
   },
@@ -47462,8 +47581,8 @@
    "properties": {
     "name": "11 SANDS TERRACE TORQUAY 3228",
     "locID": "LOC000035963352",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420965259"
    }
   },
@@ -48942,7 +49061,7 @@
     "name": "17 ZEALLY BAY ROAD TORQUAY 3228",
     "locID": "LOC000087743977",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421138467"
    }
   },
@@ -49009,8 +49128,8 @@
    "properties": {
     "name": "11 PARKSIDE CRESCENT TORQUAY 3228",
     "locID": "LOC000034182821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421138471"
    }
   },
@@ -49094,8 +49213,8 @@
    "properties": {
     "name": "54 DARIAN ROAD TORQUAY 3228",
     "locID": "LOC000060677719",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421138477"
    }
   },
@@ -51831,8 +51950,8 @@
    "properties": {
     "name": "16 ORUNGAL COURT TORQUAY 3228",
     "locID": "LOC000046489865",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421158071"
    }
   },
@@ -52529,7 +52648,7 @@
     "name": "14 DARIAN ROAD TORQUAY 3228",
     "locID": "LOC000020305666",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421162667"
    }
   },
@@ -53065,6 +53184,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.32213145,
+     -38.32252375
+    ]
+   },
+   "properties": {
+    "name": "68 DARIAN ROAD TORQUAY 3228",
+    "locID": "ChIJ0cmg4hhv1GoRpWOLqLcC9PI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421174591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.32207305,
      -38.32549505
     ]
@@ -53192,7 +53328,7 @@
     "name": "77 COWRIE ROAD TORQUAY 3228",
     "locID": "LOC000018625234",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421175385"
    }
   },
@@ -53888,8 +54024,8 @@
    "properties": {
     "name": "1A VARYDALE AVENUE TORQUAY 3228",
     "locID": "LOC000063586608",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421239190"
    }
   },
@@ -55224,6 +55360,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.32723761,
+     -38.31412941
+    ]
+   },
+   "properties": {
+    "name": "19 KOOMEELA DRIVE TORQUAY 3228",
+    "locID": "ChIJnfmMY95u1GoRKsZJOKzFiOM",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421255695"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.32620905,
      -38.3143343
     ]
@@ -56336,8 +56489,8 @@
    "properties": {
     "name": "10 LUNE COURT TORQUAY 3228",
     "locID": "LOC000083305711",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421271118"
    }
   },
@@ -56931,8 +57084,8 @@
    "properties": {
     "name": "28 LOCH LOMOND CRESCENT TORQUAY 3228",
     "locID": "LOC000009855932",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421386439"
    }
   },
@@ -57529,6 +57682,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421425083"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.32126439,
+     -38.32041493
+    ]
+   },
+   "properties": {
+    "name": "1 HAVEN COURT TORQUAY 3228",
+    "locID": "LOC000174307045",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC421425084"
    }
   },
   {
@@ -59158,8 +59328,8 @@
    "properties": {
     "name": "41 GLANEUSE AVENUE TORQUAY 3228",
     "locID": "LOC000083843343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421446600"
    }
   },
@@ -61487,8 +61657,8 @@
    "properties": {
     "name": "8 MIRANDA CLOSE TORQUAY 3228",
     "locID": "LOC000079355988",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421465091"
    }
   },
@@ -61828,7 +61998,7 @@
     "name": "32 GRANDVIEW ROAD TORQUAY 3228",
     "locID": "LOC000069816003",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421475616"
    }
   },
@@ -61847,6 +62017,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421475617"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.32569705,
+     -38.31722211
+    ]
+   },
+   "properties": {
+    "name": "6 RIO COURT TORQUAY 3228",
+    "locID": "ChIJbZHI8N9u1GoRM8Y68uCxljg",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421475618"
    }
   },
   {
@@ -63204,8 +63391,8 @@
    "properties": {
     "name": "3A LIESBET CLOSE TORQUAY 3228",
     "locID": "LOC000065683454",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421550529"
    }
   },
@@ -64173,8 +64360,8 @@
    "properties": {
     "name": "6 LUNE COURT TORQUAY 3228",
     "locID": "LOC000076600248",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421572884"
    }
   },
@@ -64496,8 +64683,8 @@
    "properties": {
     "name": "5 KOOMEELA DRIVE TORQUAY 3228",
     "locID": "LOC000015302581",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421581046"
    }
   },
@@ -65924,8 +66111,8 @@
    "properties": {
     "name": "8 SHAH COURT TORQUAY 3228",
     "locID": "LOC000092304076",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421718522"
    }
   },
@@ -66077,8 +66264,8 @@
    "properties": {
     "name": "18 HOLYHEAD DRIVE TORQUAY 3228",
     "locID": "LOC000102285550",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421722153"
    }
   },
@@ -66162,8 +66349,8 @@
    "properties": {
     "name": "6 GOLDEN BEACH WAY TORQUAY 3228",
     "locID": "LOC000104322389",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421722225"
    }
   },
@@ -67165,8 +67352,8 @@
    "properties": {
     "name": "1 FATIMAH COURT TORQUAY 3228",
     "locID": "LOC000063697899",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421740083"
    }
   },
@@ -69052,8 +69239,8 @@
    "properties": {
     "name": "10 VARYDALE AVENUE TORQUAY 3228",
     "locID": "LOC000016127018",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421763166"
    }
   },
@@ -69801,7 +69988,7 @@
     "name": "53 DARIAN ROAD TORQUAY 3228",
     "locID": "LOC000050726698",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421766273"
    }
   },
@@ -69903,7 +70090,7 @@
     "name": "56 COWRIE ROAD TORQUAY 3228",
     "locID": "LOC000018528794",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421766279"
    }
   },
@@ -70412,8 +70599,8 @@
    "properties": {
     "name": "19 DUMFRIES COURT TORQUAY 3228",
     "locID": "LOC000001981983",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421806996"
    }
   },
@@ -71214,6 +71401,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421842305"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.32472143,
+     -38.31530124
+    ]
+   },
+   "properties": {
+    "name": "13 GLENGARRY DRIVE TORQUAY 3228",
+    "locID": "ChIJQYTZeeBu1GoRiaDjPimOQGQ",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421842740"
    }
   },
   {
@@ -72887,6 +73091,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.32579379,
+     -38.31416365
+    ]
+   },
+   "properties": {
+    "name": "32 KOOMEELA DRIVE TORQUAY 3228",
+    "locID": "LOC000026862121",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421877594"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.32378992,
      -38.31790977
     ]
@@ -73098,8 +73319,8 @@
    "properties": {
     "name": "35A BEACH ROAD TORQUAY 3228",
     "locID": "LOC000100632138",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421880613"
    }
   },
@@ -73761,8 +73982,8 @@
    "properties": {
     "name": "9A KOOMEELA DRIVE TORQUAY 3228",
     "locID": "LOC000097280803",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421929746"
    }
   },
@@ -75556,6 +75777,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.32504533,
+     -38.31589128
+    ]
+   },
+   "properties": {
+    "name": "1 CONSIDE CRESCENT TORQUAY 3228",
+    "locID": "LOC000017753048",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC422138560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.32494368,
      -38.3156071
     ]
@@ -76209,8 +76447,8 @@
    "properties": {
     "name": "57 ST GEORGES WAY TORQUAY 3228",
     "locID": "LOC000004311979",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC422192326"
    }
   },
@@ -78164,8 +78402,8 @@
    "properties": {
     "name": "12 ALMEIDA CLOSE TORQUAY 3228",
     "locID": "LOC000012008065",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422376422"
    }
   },
@@ -79355,7 +79593,7 @@
     "name": "12 IRONBARK COURT TORQUAY 3228",
     "locID": "LOC000060470309",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422402208"
    }
   },
@@ -79474,7 +79712,7 @@
     "name": "6 IRONBARK COURT TORQUAY 3228",
     "locID": "LOC000031903095",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422402215"
    }
   },
@@ -79643,8 +79881,8 @@
    "properties": {
     "name": "3 LAHINCH MEWS TORQUAY 3228",
     "locID": "LOC000066162729",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC422405700"
    }
   },
@@ -79779,8 +80017,8 @@
    "properties": {
     "name": "6 LAHINCH MEWS TORQUAY 3228",
     "locID": "LOC000025360821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422405713"
    }
   },
@@ -80459,8 +80697,8 @@
    "properties": {
     "name": "2 RIPPLESIDE DRIVE TORQUAY 3228",
     "locID": "LOC000023456039",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422422486"
    }
   },
@@ -86171,8 +86409,8 @@
    "properties": {
     "name": "3 SHELL PLACE TORQUAY 3228",
     "locID": "LOC000034845596",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423511253"
    }
   },
@@ -86528,8 +86766,8 @@
    "properties": {
     "name": "9 SHORE PLACE TORQUAY 3228",
     "locID": "LOC000088601687",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423511327"
    }
   },
@@ -87191,8 +87429,8 @@
    "properties": {
     "name": "UNIT 1, 78 ZEALLY BAY ROAD TORQUAY 3228",
     "locID": "LOC000039705096",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423671363"
    }
   },
@@ -87225,8 +87463,8 @@
    "properties": {
     "name": "UNIT 3, 78 ZEALLY BAY ROAD TORQUAY 3228",
     "locID": "LOC000039705096",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423671365"
    }
   },
@@ -87718,8 +87956,8 @@
    "properties": {
     "name": "3 FISHOS DRIVE TORQUAY 3228",
     "locID": "LOC000082856599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423719314"
    }
   },
@@ -87753,7 +87991,7 @@
     "name": "26 HIGHLANDER STREET TORQUAY 3228",
     "locID": "LOC000002916824",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423720204"
    }
   },
@@ -89265,8 +89503,8 @@
    "properties": {
     "name": "20 ST ANNES DRIVE TORQUAY 3228",
     "locID": "LOC000082475288",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423758991"
    }
   },
@@ -90948,8 +91186,8 @@
    "properties": {
     "name": "4 SANDS TERRACE TORQUAY 3228",
     "locID": "LOC000042362940",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423806969"
    }
   },
@@ -92189,8 +92427,8 @@
    "properties": {
     "name": "21 BASS DRIVE TORQUAY 3228",
     "locID": "LOC000028448542",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423901496"
    }
   },
@@ -92241,7 +92479,7 @@
     "name": "24 BASS DRIVE TORQUAY 3228",
     "locID": "LOC000021016308",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423901499"
    }
   },
@@ -92359,8 +92597,8 @@
    "properties": {
     "name": "19 CENTRESIDE DRIVE TORQUAY 3228",
     "locID": "LOC000056624097",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423901810"
    }
   },
@@ -92597,8 +92835,8 @@
    "properties": {
     "name": "25 HEADLAND DRIVE TORQUAY 3228",
     "locID": "LOC000020305763",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423902721"
    }
   },
@@ -92682,8 +92920,8 @@
    "properties": {
     "name": "44 HIGHLANDER STREET TORQUAY 3228",
     "locID": "LOC000039667815",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423902819"
    }
   },
@@ -92736,6 +92974,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423902822"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.3205858,
+     -38.31629793
+    ]
+   },
+   "properties": {
+    "name": "67 HIGHLANDER STREET TORQUAY 3228",
+    "locID": "ChIJhZs6Fx5v1GoR1jc_avVz8hY",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC423902823"
    }
   },
   {
@@ -93073,8 +93328,8 @@
    "properties": {
     "name": "11 WHISTLER CLOSE TORQUAY 3228",
     "locID": "LOC000088368705",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423906163"
    }
   },
@@ -93107,8 +93362,8 @@
    "properties": {
     "name": "13 WHISTLER CLOSE TORQUAY 3228",
     "locID": "LOC000030901280",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423906165"
    }
   },
@@ -93277,8 +93532,8 @@
    "properties": {
     "name": "8 WHISTLER CLOSE TORQUAY 3228",
     "locID": "LOC000057022375",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423906175"
    }
   },
@@ -93651,8 +93906,8 @@
    "properties": {
     "name": "8 BEACHLEY LANE TORQUAY 3228",
     "locID": "LOC000022755197",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423934755"
    }
   },
@@ -96354,8 +96609,8 @@
    "properties": {
     "name": "35 CENTRESIDE DRIVE TORQUAY 3228",
     "locID": "LOC000060112803",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424073325"
    }
   },
@@ -96627,7 +96882,7 @@
     "name": "31 ONSHORE DRIVE TORQUAY 3228",
     "locID": "LOC000027758223",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424075170"
    }
   },
@@ -99329,8 +99584,8 @@
    "properties": {
     "name": "17 STRINGYBARK DRIVE TORQUAY 3228",
     "locID": "LOC000061900907",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424097653"
    }
   },
@@ -102679,7 +102934,7 @@
     "name": "16 INSHORE DRIVE TORQUAY 3228",
     "locID": "LOC000050093331",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424279976"
    }
   },
@@ -106792,8 +107047,8 @@
    "properties": {
     "name": "4 YELLOW GUM PLACE TORQUAY 3228",
     "locID": "LOC000114784661",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424377829"
    }
   },
@@ -107762,7 +108017,7 @@
     "name": "31 SHOREBREAK STREET TORQUAY 3228",
     "locID": "LOC000085220112",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424454106"
    }
   },
@@ -109529,8 +109784,8 @@
    "properties": {
     "name": "17 SHOREBREAK STREET TORQUAY 3228",
     "locID": "LOC000017006821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424475993"
    }
   },
@@ -111994,8 +112249,8 @@
    "properties": {
     "name": "185 FISCHER STREET TORQUAY 3228",
     "locID": "LOC000037542167",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424553054"
    }
   },
@@ -112113,8 +112368,8 @@
    "properties": {
     "name": "192 FISCHER STREET TORQUAY 3228",
     "locID": "LOC000009753321",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424553061"
    }
   },
@@ -121191,8 +121446,8 @@
    "properties": {
     "name": "195 FISCHER STREET TORQUAY 3228",
     "locID": "LOC000124328907",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC424878366"
    }
   },
@@ -122857,8 +123112,8 @@
    "properties": {
     "name": "62 COOMBES ROAD TORQUAY 3228",
     "locID": "LOC000124316863",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425013197"
    }
   },
@@ -123571,8 +123826,8 @@
    "properties": {
     "name": "4 LIUZZI DRIVE TORQUAY 3228",
     "locID": "LOC000124300225",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425021640"
    }
   },
@@ -126206,8 +126461,8 @@
    "properties": {
     "name": "35 ATTUNGA DRIVE TORQUAY 3228",
     "locID": "LOC000174131736",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425222030"
    }
   },
@@ -126614,8 +126869,8 @@
    "properties": {
     "name": "1 CRANBERRY WAY TORQUAY 3228",
     "locID": "LOC000153653379",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425224721"
    }
   },
@@ -126818,8 +127073,8 @@
    "properties": {
     "name": "32 ILLAWONG DRIVE TORQUAY 3228",
     "locID": "LOC000153672555",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425227746"
    }
   },
@@ -130082,8 +130337,8 @@
    "properties": {
     "name": "21 ATTUNGA DRIVE TORQUAY 3228",
     "locID": "LOC000171230984",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425324346"
    }
   },
@@ -131035,7 +131290,7 @@
     "name": "8 PIMELEA WAY TORQUAY 3228",
     "locID": "LOC000180904888",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC425422898"
    }
   },
@@ -136508,8 +136763,8 @@
    "properties": {
     "name": "21A CENTRAL AVENUE TORQUAY 3228",
     "locID": "LOC000165220848",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC425577539"
    }
   },
@@ -140659,6 +140914,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425853473"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31594269,
+     -38.31100902
+    ]
+   },
+   "properties": {
+    "name": "12 CYLINDERS DRIVE TORQUAY 3228",
+    "locID": "LOC000193750600",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425853474"
    }
   },
   {
@@ -146114,7 +146386,7 @@
     "name": "6 SANDS BOULEVARD TORQUAY 3228",
     "locID": "LOC000018407299",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719106193"
    }
   },
@@ -146232,8 +146504,8 @@
    "properties": {
     "name": "27 SANDS BOULEVARD TORQUAY 3228",
     "locID": "LOC000013599335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719107621"
    }
   },
@@ -146250,7 +146522,7 @@
     "name": "33 SANDS BOULEVARD TORQUAY 3228",
     "locID": "LOC000085081156",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719107622"
    }
   },
@@ -154647,8 +154919,8 @@
    "properties": {
     "name": "5A VARYDALE AVENUE TORQUAY 3228",
     "locID": "LOC000178342365",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC719431196"
    }
   },
@@ -166700,7 +166972,7 @@
    "properties": {
     "name": "63A STRETTON DRIVE TORQUAY 3228",
     "locID": "ChIJp3Gxssdu1GoRTH6XMiC0mXU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719992610"
    }
@@ -180718,6 +180990,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.31569408,
+     -38.31046117
+    ]
+   },
+   "properties": {
+    "name": "11 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJT5WzbONu1GoRchAKlaNT1Oc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720573817"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.32033147,
      -38.31328182
     ]
@@ -187841,6 +188130,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.31563016,
+     -38.31063608
+    ]
+   },
+   "properties": {
+    "name": "13 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJdWOHE-Nu1GoRulgph6nlrnA",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC720921754"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.29057436,
      -38.31143259
     ]
@@ -188191,6 +188497,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720925830"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31560948,
+     -38.31097022
+    ]
+   },
+   "properties": {
+    "name": "15 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "LOC000182520402",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC720925875"
    }
   },
   {
@@ -190942,7 +191265,7 @@
    "properties": {
     "name": "2D CORMORANT WAY TORQUAY 3228",
     "locID": "ChIJaa1KW8Zu1GoRVwHPlgNZDR0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721020271"
    }
@@ -191129,7 +191452,7 @@
    "properties": {
     "name": "2A CORMORANT WAY TORQUAY 3228",
     "locID": "ChIJwVrFhMhu1GoRx-BPrMqfYHw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721030228"
    }
@@ -192975,6 +193298,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.32450371,
+     -38.32112698
+    ]
+   },
+   "properties": {
+    "name": "32C RIVERSIDE DRIVE TORQUAY 3228",
+    "locID": "LOC000058075442",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721167433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31011026,
      -38.32785122
     ]
@@ -193417,6 +193757,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.31599606,
+     -38.31094246
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 12 CYLINDERS DRIVE TORQUAY 3228",
+    "locID": "LOC000193750600",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721284430"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.31608531,
      -38.31095286
     ]
@@ -193427,6 +193784,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721285133"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31613175,
+     -38.31051672
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 11 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJT5WzbONu1GoRchAKlaNT1Oc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721287353"
    }
   },
   {
@@ -193451,6 +193825,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.3159607,
+     -38.31047734
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 11 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJT5WzbONu1GoRchAKlaNT1Oc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721292095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31622723,
+     -38.31053871
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 11 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJT5WzbONu1GoRchAKlaNT1Oc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721295435"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.3350836,
      -38.3163002
     ]
@@ -193461,6 +193869,40 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721295833"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31604626,
+     -38.31049704
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 11 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJT5WzbONu1GoRchAKlaNT1Oc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721296832"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31580725,
+     -38.31092046
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 12 CYLINDERS DRIVE TORQUAY 3228",
+    "locID": "LOC000193750573",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC721298747"
    }
   },
   {
@@ -193485,6 +193927,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.31586559,
+     -38.31046592
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 11 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJT5WzbONu1GoRchAKlaNT1Oc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721301253"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.29217667,
      -38.31905175
     ]
@@ -193495,6 +193954,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721302003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.31576026,
+     -38.31044167
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 11 HAYSTACKS DRIVE TORQUAY 3228",
+    "locID": "ChIJT5WzbONu1GoRchAKlaNT1Oc",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC721303520"
    }
   },
   {
