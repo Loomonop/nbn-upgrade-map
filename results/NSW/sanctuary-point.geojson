@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T06:03:26.935977",
+ "generated": "2023-10-15T04:11:09.370782",
  "suburb": "SANCTUARY POINT",
  "features": [
   {
@@ -610,8 +610,8 @@
    "properties": {
     "name": "33 RIDGELANDS DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000109997321",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705832199"
    }
   },
@@ -678,8 +678,8 @@
    "properties": {
     "name": "38 RIDGELANDS DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000086570380",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705832203"
    }
   },
@@ -900,7 +900,7 @@
     "name": "53 SANCTUARY POINT ROAD SANCTUARY POINT 2540",
     "locID": "LOC000027871581",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705849252"
    }
   },
@@ -2514,8 +2514,8 @@
    "properties": {
     "name": "163 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000016780302",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705860244"
    }
   },
@@ -3398,8 +3398,8 @@
    "properties": {
     "name": "14 KIRKHAM WAY SANCTUARY POINT 2540",
     "locID": "LOC000092055843",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705860323"
    }
   },
@@ -3857,8 +3857,8 @@
    "properties": {
     "name": "61 MUSTANG DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000045364061",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705860350"
    }
   },
@@ -4299,8 +4299,8 @@
    "properties": {
     "name": "51 MUSTANG DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000079055968",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705860376"
    }
   },
@@ -5812,8 +5812,8 @@
    "properties": {
     "name": "199 SANCTUARY POINT ROAD SANCTUARY POINT 2540",
     "locID": "LOC000052424693",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705862915"
    }
   },
@@ -6458,8 +6458,8 @@
    "properties": {
     "name": "32 EDMUND STREET SANCTUARY POINT 2540",
     "locID": "LOC000072434385",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705862999"
    }
   },
@@ -6866,8 +6866,8 @@
    "properties": {
     "name": "197 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000002329506",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705863035"
    }
   },
@@ -6903,6 +6903,23 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GANSW705863037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.61411416,
+     -35.11595534
+    ]
+   },
+   "properties": {
+    "name": "2 GREVILLE AVENUE SANCTUARY POINT 2540",
+    "locID": "LOC000090370363",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705863038"
    }
   },
   {
@@ -7325,8 +7342,8 @@
    "properties": {
     "name": "238 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000029986480",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705863063"
    }
   },
@@ -9518,8 +9535,8 @@
    "properties": {
     "name": "119 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000026912162",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705866148"
    }
   },
@@ -9756,8 +9773,8 @@
    "properties": {
     "name": "139 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000089121756",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705866172"
    }
   },
@@ -10793,8 +10810,8 @@
    "properties": {
     "name": "2 IRENE STREET SANCTUARY POINT 2540",
     "locID": "LOC000030096516",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705866620"
    }
   },
@@ -10810,8 +10827,8 @@
    "properties": {
     "name": "3 IRENE STREET SANCTUARY POINT 2540",
     "locID": "LOC000030096516",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705866621"
    }
   },
@@ -10912,8 +10929,8 @@
    "properties": {
     "name": "185 LORALYN AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000064317332",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705866627"
    }
   },
@@ -11439,8 +11456,8 @@
    "properties": {
     "name": "218 LORALYN AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000014220388",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705866658"
    }
   },
@@ -11933,7 +11950,7 @@
     "name": "120 MACLEANS POINT ROAD SANCTUARY POINT 2540",
     "locID": "LOC000184130267",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW705866687"
    }
   },
@@ -12238,8 +12255,8 @@
    "properties": {
     "name": "125 FREDERICK STREET SANCTUARY POINT 2540",
     "locID": "LOC000103225309",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705866981"
    }
   },
@@ -12256,7 +12273,7 @@
     "name": "168 KERRY STREET SANCTUARY POINT 2540",
     "locID": "LOC000021445701",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705866982"
    }
   },
@@ -14023,8 +14040,8 @@
    "properties": {
     "name": "62 FAIRWAY DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000076643792",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705869480"
    }
   },
@@ -14601,8 +14618,8 @@
    "properties": {
     "name": "184 MACLEANS POINT ROAD SANCTUARY POINT 2540",
     "locID": "LOC000064240128",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705870219"
    }
   },
@@ -16012,8 +16029,8 @@
    "properties": {
     "name": "103 LARMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000008914149",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705870572"
    }
   },
@@ -16063,8 +16080,8 @@
    "properties": {
     "name": "109 LARMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000005577298",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705870575"
    }
   },
@@ -16080,8 +16097,8 @@
    "properties": {
     "name": "111 LARMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000035559472",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705870576"
    }
   },
@@ -16182,8 +16199,8 @@
    "properties": {
     "name": "36 CESSNA AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000100148798",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705872462"
    }
   },
@@ -16743,8 +16760,8 @@
    "properties": {
     "name": "103 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000086265873",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705872517"
    }
   },
@@ -17033,7 +17050,7 @@
     "name": "141 WARATAH CRESCENT SANCTUARY POINT 2540",
     "locID": "LOC000040165078",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705872534"
    }
   },
@@ -17304,8 +17321,8 @@
    "properties": {
     "name": "69 RIDGELANDS DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000103441807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705872820"
    }
   },
@@ -18919,8 +18936,8 @@
    "properties": {
     "name": "36 EDMUND STREET SANCTUARY POINT 2540",
     "locID": "LOC000021525460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705873275"
    }
   },
@@ -19685,7 +19702,7 @@
     "name": "220 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000081126982",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705873321"
    }
   },
@@ -19803,8 +19820,8 @@
    "properties": {
     "name": "46 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000008184377",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705873328"
    }
   },
@@ -19956,8 +19973,8 @@
    "properties": {
     "name": "258 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000065269351",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705873337"
    }
   },
@@ -19990,8 +20007,8 @@
    "properties": {
     "name": "260 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000105116275",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705873339"
    }
   },
@@ -20024,8 +20041,8 @@
    "properties": {
     "name": "264 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000074688301",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705873341"
    }
   },
@@ -20721,8 +20738,8 @@
    "properties": {
     "name": "164 LARMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000005577298",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705873818"
    }
   },
@@ -22727,8 +22744,8 @@
    "properties": {
     "name": "13 KARNE STREET SANCTUARY POINT 2540",
     "locID": "LOC000057547050",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705876903"
    }
   },
@@ -23203,8 +23220,8 @@
    "properties": {
     "name": "236 LORALYN AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000020632201",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705876938"
    }
   },
@@ -23306,7 +23323,7 @@
     "name": "17 KENNETH AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000103259899",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705876944"
    }
   },
@@ -23339,8 +23356,8 @@
    "properties": {
     "name": "19 KENNETH AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000062764519",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705876946"
    }
   },
@@ -24971,8 +24988,8 @@
    "properties": {
     "name": "11 BEAVER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000084077151",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705879407"
    }
   },
@@ -25005,8 +25022,8 @@
    "properties": {
     "name": "19 FORRESTER COURT SANCTUARY POINT 2540",
     "locID": "LOC000055991126",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705879409"
    }
   },
@@ -26910,7 +26927,7 @@
     "name": "42 KERRY STREET SANCTUARY POINT 2540",
     "locID": "LOC000095826236",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705880527"
    }
   },
@@ -27334,8 +27351,8 @@
    "properties": {
     "name": "67 KERRY STREET SANCTUARY POINT 2540",
     "locID": "LOC000055469138",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705880553"
    }
   },
@@ -28082,8 +28099,8 @@
    "properties": {
     "name": "21 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000040048221",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705880599"
    }
   },
@@ -30139,8 +30156,8 @@
    "properties": {
     "name": "32 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000004741265",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883380"
    }
   },
@@ -30156,8 +30173,8 @@
    "properties": {
     "name": "33 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000072392075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883381"
    }
   },
@@ -30173,8 +30190,8 @@
    "properties": {
     "name": "34 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000063926063",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883382"
    }
   },
@@ -30207,8 +30224,8 @@
    "properties": {
     "name": "36 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000047573937",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883384"
    }
   },
@@ -30241,8 +30258,8 @@
    "properties": {
     "name": "4 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000001483169",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883386"
    }
   },
@@ -30598,8 +30615,8 @@
    "properties": {
     "name": "66 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000008068056",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883577"
    }
   },
@@ -30768,8 +30785,8 @@
    "properties": {
     "name": "33 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000010080148",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883587"
    }
   },
@@ -30785,8 +30802,8 @@
    "properties": {
     "name": "34 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000027961651",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883588"
    }
   },
@@ -30819,8 +30836,8 @@
    "properties": {
     "name": "36 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000075380846",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705883590"
    }
   },
@@ -31465,8 +31482,8 @@
    "properties": {
     "name": "24 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000026457456",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705886077"
    }
   },
@@ -33455,7 +33472,7 @@
     "name": "231 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000041205511",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705886643"
    }
   },
@@ -35035,8 +35052,8 @@
    "properties": {
     "name": "15 KENNETH AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000086633312",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705887219"
    }
   },
@@ -36191,8 +36208,8 @@
    "properties": {
     "name": "239 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000008060963",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705890003"
    }
   },
@@ -36242,8 +36259,8 @@
    "properties": {
     "name": "241 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000051481344",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705890006"
    }
   },
@@ -36310,8 +36327,8 @@
    "properties": {
     "name": "245 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000066559950",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705890010"
    }
   },
@@ -37585,8 +37602,8 @@
    "properties": {
     "name": "180 MACLEANS POINT ROAD SANCTUARY POINT 2540",
     "locID": "LOC000037248993",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705890496"
    }
   },
@@ -39914,8 +39931,8 @@
    "properties": {
     "name": "106 CAMMARAY DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000096732439",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705893234"
    }
   },
@@ -39931,8 +39948,8 @@
    "properties": {
     "name": "108 CAMMARAY DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000026294668",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705893235"
    }
   },
@@ -40288,8 +40305,8 @@
    "properties": {
     "name": "152 FREDERICK STREET SANCTUARY POINT 2540",
     "locID": "LOC000057704719",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705893256"
    }
   },
@@ -40373,8 +40390,8 @@
    "properties": {
     "name": "162 FREDERICK STREET SANCTUARY POINT 2540",
     "locID": "LOC000087881403",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705893261"
    }
   },
@@ -42498,8 +42515,8 @@
    "properties": {
     "name": "87 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000103384833",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705897069"
    }
   },
@@ -42532,8 +42549,8 @@
    "properties": {
     "name": "89 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000074291745",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705897071"
    }
   },
@@ -42549,8 +42566,8 @@
    "properties": {
     "name": "9 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000044051464",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705897072"
    }
   },
@@ -44249,8 +44266,8 @@
    "properties": {
     "name": "116 FAIRWAY DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000043808302",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705899646"
    }
   },
@@ -44827,8 +44844,8 @@
    "properties": {
     "name": "9 THE GLEN SANCTUARY POINT 2540",
     "locID": "LOC000065264495",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705900249"
    }
   },
@@ -44878,8 +44895,8 @@
    "properties": {
     "name": "233 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000071396466",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705900264"
    }
   },
@@ -45270,7 +45287,7 @@
     "name": "5 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000103477991",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705900307"
    }
   },
@@ -45473,8 +45490,8 @@
    "properties": {
     "name": "16 FLORA STREET SANCTUARY POINT 2540",
     "locID": "LOC000044495544",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705900695"
    }
   },
@@ -46272,8 +46289,8 @@
    "properties": {
     "name": "148 KERRY STREET SANCTUARY POINT 2540",
     "locID": "LOC000068706772",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705900744"
    }
   },
@@ -47394,8 +47411,8 @@
    "properties": {
     "name": "233 MACLEANS POINT ROAD SANCTUARY POINT 2540",
     "locID": "LOC000044841878",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705900810"
    }
   },
@@ -48074,8 +48091,8 @@
    "properties": {
     "name": "96 MUSTANG DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000071073979",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705903051"
    }
   },
@@ -48414,8 +48431,8 @@
    "properties": {
     "name": "85 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000110194774",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705903124"
    }
   },
@@ -48499,8 +48516,8 @@
    "properties": {
     "name": "9 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000027283589",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705903129"
    }
   },
@@ -48959,7 +48976,7 @@
     "name": "26 ETHEL STREET SANCTUARY POINT 2540",
     "locID": "LOC000042115184",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW705903201"
    }
   },
@@ -49808,8 +49825,8 @@
    "properties": {
     "name": "66 WARATAH CRESCENT SANCTUARY POINT 2540",
     "locID": "LOC000030015004",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705903361"
    }
   },
@@ -50624,8 +50641,8 @@
    "properties": {
     "name": "128 GREVILLE AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000029543354",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705904266"
    }
   },
@@ -56251,8 +56268,8 @@
    "properties": {
     "name": "254 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000094785343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705910547"
    }
   },
@@ -56285,8 +56302,8 @@
    "properties": {
     "name": "258 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000016745936",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705910549"
    }
   },
@@ -56370,8 +56387,8 @@
    "properties": {
     "name": "266 WALMER AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000004614418",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705910554"
    }
   },
@@ -57322,8 +57339,8 @@
    "properties": {
     "name": "5 FORRESTER COURT SANCTUARY POINT 2540",
     "locID": "LOC000100846040",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705911002"
    }
   },
@@ -58087,8 +58104,8 @@
    "properties": {
     "name": "182 KERRY STREET SANCTUARY POINT 2540",
     "locID": "LOC000052002152",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705911047"
    }
   },
@@ -59872,8 +59889,8 @@
    "properties": {
     "name": "20 BORONIA AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000108158812",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705913487"
    }
   },
@@ -60042,8 +60059,8 @@
    "properties": {
     "name": "113 FREDERICK STREET SANCTUARY POINT 2540",
     "locID": "LOC000069694004",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW705913497"
    }
   },
@@ -62762,8 +62779,8 @@
    "properties": {
     "name": "9 ATTUNGA AVENUE SANCTUARY POINT 2540",
     "locID": "LOC100056111178",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712510359"
    }
   },
@@ -63136,8 +63153,8 @@
    "properties": {
     "name": "17 MOUNTAIN STREET SANCTUARY POINT 2540",
     "locID": "LOC000121305455",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712517409"
    }
   },
@@ -65635,8 +65652,8 @@
    "properties": {
     "name": "12 PAINO CRESCENT SANCTUARY POINT 2540",
     "locID": "LOC000090624218",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716345207"
    }
   },
@@ -67012,8 +67029,8 @@
    "properties": {
     "name": "104 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000088819740",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943740"
    }
   },
@@ -67046,8 +67063,8 @@
    "properties": {
     "name": "106 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000072417250",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943742"
    }
   },
@@ -67182,8 +67199,8 @@
    "properties": {
     "name": "113 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000102906369",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943750"
    }
   },
@@ -67369,8 +67386,8 @@
    "properties": {
     "name": "124 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000015602404",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943761"
    }
   },
@@ -67386,8 +67403,8 @@
    "properties": {
     "name": "125 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000043939046",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943762"
    }
   },
@@ -67794,8 +67811,8 @@
    "properties": {
     "name": "152 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000025035695",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943787"
    }
   },
@@ -69579,8 +69596,8 @@
    "properties": {
     "name": "277 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000072633152",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943893"
    }
   },
@@ -69613,8 +69630,8 @@
    "properties": {
     "name": "27 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000101996329",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943895"
    }
   },
@@ -69902,8 +69919,8 @@
    "properties": {
     "name": "29 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000027903891",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943912"
    }
   },
@@ -71041,8 +71058,8 @@
    "properties": {
     "name": "47 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000045435511",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716943979"
    }
   },
@@ -72010,8 +72027,8 @@
    "properties": {
     "name": "20 THE WOOL LANE SANCTUARY POINT 2540",
     "locID": "LOC000033883831",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716946525"
    }
   },
@@ -72044,8 +72061,8 @@
    "properties": {
     "name": "24 THE WOOL LANE SANCTUARY POINT 2540",
     "locID": "LOC000004177038",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW716946527"
    }
   },
@@ -72537,8 +72554,8 @@
    "properties": {
     "name": "3 CORELLA CRESCENT SANCTUARY POINT 2540",
     "locID": "LOC000028201324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717063480"
    }
   },
@@ -72809,8 +72826,8 @@
    "properties": {
     "name": "105 LINKS AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000115495348",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717067200"
    }
   },
@@ -73183,8 +73200,8 @@
    "properties": {
     "name": "72 VOST DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000055373542",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717202952"
    }
   },
@@ -74594,8 +74611,8 @@
    "properties": {
     "name": "168 THE PARK DRIVE SANCTUARY POINT 2540",
     "locID": "LOC000121303430",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717348870"
    }
   },
@@ -75767,8 +75784,8 @@
    "properties": {
     "name": "11 CAPELAND AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000153259362",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW717668197"
    }
   },
@@ -76108,7 +76125,7 @@
     "name": "26 NADINE STREET SANCTUARY POINT 2540",
     "locID": "LOC000076207653",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717796274"
    }
   },
@@ -79252,8 +79269,8 @@
    "properties": {
     "name": "11A CAPELAND AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000153259362",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718882591"
    }
   },
@@ -79473,8 +79490,8 @@
    "properties": {
     "name": "210 KERRY STREET SANCTUARY POINT 2540",
     "locID": "LOC100056108545",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW718972991"
    }
   },
@@ -79745,8 +79762,8 @@
    "properties": {
     "name": "87 LINKS AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000174038279",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719153648"
    }
   },
@@ -79796,8 +79813,8 @@
    "properties": {
     "name": "85 LINKS AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000174038312",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719158258"
    }
   },
@@ -81564,8 +81581,8 @@
    "properties": {
     "name": "72 LINKS AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000182357410",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719807929"
    }
   },
@@ -81615,8 +81632,8 @@
    "properties": {
     "name": "99B LINKS AVENUE SANCTUARY POINT 2540",
     "locID": "LOC000175078444",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW719813818"
    }
   },
@@ -84030,7 +84047,7 @@
     "name": "120B MACLEANS POINT ROAD SANCTUARY POINT 2540",
     "locID": "LOC000184130267",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW720702657"
    }
   },
