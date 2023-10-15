@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-25T07:34:52.581425",
+ "generated": "2023-10-15T05:47:08.819609",
  "suburb": "CAMPBELLTOWN",
  "features": [
   {
@@ -5285,8 +5285,8 @@
    "properties": {
     "name": "7 COLO PLACE CAMPBELLTOWN 2560",
     "locID": "LOC000029127561",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704286992"
    }
   },
@@ -11092,6 +11092,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.81895176,
+     -34.07806308
+    ]
+   },
+   "properties": {
+    "name": "1 LACHLAN PLACE CAMPBELLTOWN 2560",
+    "locID": "LOC000193709468",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704289705"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.82045048,
      -34.06999957
     ]
@@ -14679,6 +14696,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     150.82287365,
+     -34.06671429
+    ]
+   },
+   "properties": {
+    "name": "119 LINDESAY STREET CAMPBELLTOWN 2560",
+    "locID": "LOC000193749502",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW704291431"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      150.82395481,
      -34.06669774
     ]
@@ -17508,8 +17542,8 @@
    "properties": {
     "name": "19 MEGALONG CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000005528262",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704293271"
    }
   },
@@ -17526,7 +17560,7 @@
     "name": "2 MEGALONG CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000065079521",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704293272"
    }
   },
@@ -25073,8 +25107,8 @@
    "properties": {
     "name": "13 MANNING STREET CAMPBELLTOWN 2560",
     "locID": "LOC000031377644",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704297026"
    }
   },
@@ -28473,8 +28507,8 @@
    "properties": {
     "name": "10 HUNTER STREET CAMPBELLTOWN 2560",
     "locID": "LOC000087769964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704298917"
    }
   },
@@ -29782,8 +29816,8 @@
    "properties": {
     "name": "10 MURRAY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000052353037",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704299645"
    }
   },
@@ -29969,8 +30003,8 @@
    "properties": {
     "name": "6 BARWON PLACE CAMPBELLTOWN 2560",
     "locID": "LOC000084911643",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704299692"
    }
   },
@@ -35885,8 +35919,8 @@
    "properties": {
     "name": "31 RICHMOND CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000079745328",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704303377"
    }
   },
@@ -47428,8 +47462,8 @@
    "properties": {
     "name": "8 MEGALONG CRESCENT CAMPBELLTOWN 2560",
     "locID": "LOC000052011264",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW704309983"
    }
   },
@@ -51270,8 +51304,8 @@
    "properties": {
     "name": "1 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000039888378",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW704312072"
    }
   },
@@ -67396,23 +67430,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     150.81716442,
-     -34.06735241
-    ]
-   },
-   "properties": {
-    "name": "28 CORDEAUX STREET CAMPBELLTOWN 2560",
-    "locID": "LOC000121490439",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW712553705"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      150.82162295,
      -34.06823997
     ]
@@ -75036,8 +75053,8 @@
    "properties": {
     "name": "40 GILCHRIST DRIVE CAMPBELLTOWN 2560",
     "locID": "LOC000009629299",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW712580576"
    }
   },
@@ -75428,7 +75445,7 @@
     "name": "10 GILCHRIST DRIVE CAMPBELLTOWN 2560",
     "locID": "LOC000039891070",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW712597679"
    }
   },
@@ -77008,8 +77025,8 @@
    "properties": {
     "name": "9 PALEY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000049547293",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW715644339"
    }
   },
@@ -82754,8 +82771,8 @@
    "properties": {
     "name": "10 CARLTON ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000098815807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW716750878"
    }
   },
@@ -106996,8 +107013,8 @@
    "properties": {
     "name": "44 SANTANA ROAD CAMPBELLTOWN 2560",
     "locID": "LOC000074166177",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GANSW717929014"
    }
   },
@@ -178685,7 +178702,7 @@
    "properties": {
     "name": "UNIT G7, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720435867"
    }
@@ -178753,7 +178770,7 @@
    "properties": {
     "name": "UNIT G2, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720436496"
    }
@@ -178804,7 +178821,7 @@
    "properties": {
     "name": "UNIT G8, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720437134"
    }
@@ -178838,7 +178855,7 @@
    "properties": {
     "name": "UNIT G5, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720437739"
    }
@@ -178872,7 +178889,7 @@
    "properties": {
     "name": "UNIT G3, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720438442"
    }
@@ -178906,7 +178923,7 @@
    "properties": {
     "name": "UNIT G4, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720439070"
    }
@@ -178974,7 +178991,7 @@
    "properties": {
     "name": "UNIT G9, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720440313"
    }
@@ -178991,7 +179008,7 @@
    "properties": {
     "name": "UNIT G6, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720440314"
    }
@@ -181133,7 +181150,7 @@
    "properties": {
     "name": "UNIT 13, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720553569"
    }
@@ -181150,7 +181167,7 @@
    "properties": {
     "name": "UNIT 15, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720553603"
    }
@@ -181167,7 +181184,7 @@
    "properties": {
     "name": "UNIT 14, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720553819"
    }
@@ -181184,7 +181201,7 @@
    "properties": {
     "name": "UNIT 7, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720553820"
    }
@@ -181201,7 +181218,7 @@
    "properties": {
     "name": "UNIT 8, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720553821"
    }
@@ -181218,7 +181235,7 @@
    "properties": {
     "name": "UNIT 6, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720554146"
    }
@@ -181235,7 +181252,7 @@
    "properties": {
     "name": "UNIT 9, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720554214"
    }
@@ -181762,7 +181779,7 @@
    "properties": {
     "name": "UNIT LG3B, 30-36 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720627100"
    }
@@ -188341,7 +188358,7 @@
    "properties": {
     "name": "UNIT LG6, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721236318"
    }
@@ -188817,7 +188834,7 @@
    "properties": {
     "name": "UNIT LG8, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721240104"
    }
@@ -188902,7 +188919,7 @@
    "properties": {
     "name": "UNIT LG2, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721240519"
    }
@@ -189055,7 +189072,7 @@
    "properties": {
     "name": "UNIT LG3, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721242047"
    }
@@ -189293,7 +189310,7 @@
    "properties": {
     "name": "UNIT LG7, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721243920"
    }
@@ -189344,7 +189361,7 @@
    "properties": {
     "name": "UNIT LG4, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721244198"
    }
@@ -189361,7 +189378,7 @@
    "properties": {
     "name": "UNIT LG5, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721244769"
    }
@@ -189633,7 +189650,7 @@
    "properties": {
     "name": "UNIT LG1, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721246737"
    }
@@ -189973,7 +189990,7 @@
    "properties": {
     "name": "UNIT G12, 30 WARBY STREET CAMPBELLTOWN 2560",
     "locID": "LOC000192507435",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721249388"
    }
@@ -190109,8 +190126,8 @@
    "properties": {
     "name": "7A COLO PLACE CAMPBELLTOWN 2560",
     "locID": "LOC000029127561",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GANSW721261380"
    }
   },
