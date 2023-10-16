@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T15:08:00.028014",
+ "generated": "2023-10-16T14:54:12.751347",
  "suburb": "KILSYTH SOUTH",
  "features": [
   {
@@ -66,8 +66,8 @@
    "properties": {
     "name": "18 CHAMBERLAIN DRIVE KILSYTH SOUTH 3137",
     "locID": "LOC000014321343",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC411665157"
    }
   },
@@ -1290,8 +1290,8 @@
    "properties": {
     "name": "45 COLLIER ROAD KILSYTH SOUTH 3137",
     "locID": "LOC000061697106",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419565908"
    }
   },
@@ -2005,7 +2005,7 @@
     "name": "21 CLARKEDALE RISE KILSYTH SOUTH 3137",
     "locID": "LOC000102343260",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419572349"
    }
   },
@@ -2313,23 +2313,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419574741"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.306088,
-     -37.832439
-    ]
-   },
-   "properties": {
-    "name": "24 CHANDRA AVENUE KILSYTH SOUTH 3137",
-    "locID": "LOC100056880331",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419574742"
    }
   },
   {
@@ -3075,8 +3058,8 @@
    "properties": {
     "name": "33 SNOW GUM DRIVE KILSYTH SOUTH 3137",
     "locID": "LOC000167718998",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419751065"
    }
   },
@@ -5643,7 +5626,7 @@
     "name": "25 CHAMBERLAIN DRIVE KILSYTH SOUTH 3137",
     "locID": "LOC000011217880",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420154021"
    }
   },
@@ -7563,8 +7546,8 @@
    "properties": {
     "name": "82 CHANDRA AVENUE KILSYTH SOUTH 3137",
     "locID": "LOC000016998558",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420471898"
    }
   },
@@ -7818,8 +7801,8 @@
    "properties": {
     "name": "22 SHERIDAN CLOSE KILSYTH SOUTH 3137",
     "locID": "LOC000034060390",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420479354"
    }
   },
@@ -9807,8 +9790,8 @@
    "properties": {
     "name": "3 CHAMBERLAIN DRIVE KILSYTH SOUTH 3137",
     "locID": "LOC000076018192",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420765455"
    }
   },
@@ -9960,8 +9943,8 @@
    "properties": {
     "name": "64 CHANDRA AVENUE KILSYTH SOUTH 3137",
     "locID": "LOC000024340234",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420765464"
    }
   },
@@ -14805,8 +14788,8 @@
    "properties": {
     "name": "35 CHANDRA AVENUE KILSYTH SOUTH 3137",
     "locID": "LOC000035812708",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421393034"
    }
   },
@@ -16845,8 +16828,8 @@
    "properties": {
     "name": "28 CLARKEDALE RISE KILSYTH SOUTH 3137",
     "locID": "LOC000066825448",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421674152"
    }
   },
@@ -17219,8 +17202,8 @@
    "properties": {
     "name": "14 ORMOND PLACE KILSYTH SOUTH 3137",
     "locID": "LOC000032867195",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421688436"
    }
   },
@@ -19039,7 +19022,7 @@
     "name": "9 REGENCY DRIVE KILSYTH SOUTH 3137",
     "locID": "LOC000039239567",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC422421867"
    }
   },
@@ -21965,74 +21948,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721211893"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.30595309,
-     -37.8328172
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 24 CHANDRA AVENUE KILSYTH SOUTH 3137",
-    "locID": "LOC100056880331",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721212925"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.30603738,
-     -37.83298086
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 24 CHANDRA AVENUE KILSYTH SOUTH 3137",
-    "locID": "LOC100056880331",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721213414"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.30600559,
-     -37.83258255
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 24 CHANDRA AVENUE KILSYTH SOUTH 3137",
-    "locID": "LOC100056880331",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721219374"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.30597192,
-     -37.83269886
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 24 CHANDRA AVENUE KILSYTH SOUTH 3137",
-    "locID": "LOC100056880331",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721225074"
    }
   }
  ]
