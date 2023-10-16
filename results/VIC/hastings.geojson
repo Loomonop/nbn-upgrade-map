@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T00:31:29.870291",
+ "generated": "2023-10-15T23:38:54.007892",
  "suburb": "HASTINGS",
  "features": [
   {
@@ -11116,8 +11116,8 @@
    "properties": {
     "name": "47 MARTIN STREET HASTINGS 3915",
     "locID": "LOC000027980099",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419555284"
    }
   },
@@ -18324,8 +18324,8 @@
    "properties": {
     "name": "36 EDWARD STREET HASTINGS 3915",
     "locID": "LOC000066809572",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419857881"
    }
   },
@@ -18613,8 +18613,8 @@
    "properties": {
     "name": "56 MARTIN STREET HASTINGS 3915",
     "locID": "LOC000028482553",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419858991"
    }
   },
@@ -25397,7 +25397,7 @@
     "name": "20 COOL STORE ROAD HASTINGS 3915",
     "locID": "LOC000082384262",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420159397"
    }
   },
@@ -39745,7 +39745,7 @@
     "name": "8 ARTHUR STREET HASTINGS 3915",
     "locID": "LOC000024206542",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420760377"
    }
   },
@@ -42243,8 +42243,8 @@
    "properties": {
     "name": "1 RANKIN ROAD HASTINGS 3915",
     "locID": "LOC000045235448",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420777932"
    }
   },
@@ -48278,8 +48278,8 @@
    "properties": {
     "name": "26 GASKIN AVENUE HASTINGS 3915",
     "locID": "LOC000061612093",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421056483"
    }
   },
@@ -48737,8 +48737,8 @@
    "properties": {
     "name": "9 REID PARADE HASTINGS 3915",
     "locID": "LOC000023400721",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421060850"
    }
   },
@@ -49673,7 +49673,7 @@
     "name": "10 CARINYA COURT HASTINGS 3915",
     "locID": "LOC000066427985",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421082600"
    }
   },
@@ -60297,8 +60297,8 @@
    "properties": {
     "name": "UNIT 2, 37 VICTORIA STREET HASTINGS 3915",
     "locID": "LOC000172060811",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421668625"
    }
   },
@@ -62695,7 +62695,7 @@
     "name": "6 PINEWOOD DRIVE HASTINGS 3915",
     "locID": "LOC000060445661",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421687872"
    }
   },
@@ -78233,7 +78233,7 @@
     "name": "UNIT 1, 8 ARTHUR STREET HASTINGS 3915",
     "locID": "LOC000024206542",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423820530"
    }
   },
@@ -88637,7 +88637,7 @@
     "name": "3 JOHN COLEMAN CLOSE HASTINGS 3915",
     "locID": "LOC000125630848",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424753829"
    }
   },
@@ -102865,8 +102865,8 @@
    "properties": {
     "name": "UNIT 2, 37 DOUGLAS STREET HASTINGS 3915",
     "locID": "LOC000172060811",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC719009063"
    }
   },
@@ -111980,6 +111980,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721169213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.19046368,
+     -38.30213328
+    ]
+   },
+   "properties": {
+    "name": "109 VICTORIA STREET HASTINGS 3915",
+    "locID": "LOC000011012037",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC721169642"
    }
   },
   {
