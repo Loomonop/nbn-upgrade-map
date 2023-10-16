@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T17:35:03.045262",
+ "generated": "2023-10-16T17:38:28.943950",
  "suburb": "BENDIGO",
  "features": [
   {
@@ -24872,6 +24872,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420003732"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.27243434,
+     -36.7476021
+    ]
+   },
+   "properties": {
+    "name": "16 REDAN STREET BENDIGO 3550",
+    "locID": "LOC000193729235",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420003733"
    }
   },
   {
@@ -58393,8 +58410,8 @@
    "properties": {
     "name": "155 WILLIAMSON STREET BENDIGO 3550",
     "locID": "LOC000072962360",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421466018"
    }
   },
@@ -65941,8 +65958,8 @@
    "properties": {
     "name": "9 MARKS STREET BENDIGO 3550",
     "locID": "LOC000065929521",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421787892"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T17:42:51.238961",
+ "generated": "2023-10-16T17:47:46.146703",
  "suburb": "MOE",
  "features": [
   {
@@ -6084,7 +6084,7 @@
    "properties": {
     "name": "19-23 BUBB STREET MOE 3825",
     "locID": "ChIJG20TWXIJKWsRLcW5Fg-qJWA",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC414682090"
    }
@@ -6101,7 +6101,7 @@
    "properties": {
     "name": "25-29 BUBB STREET MOE 3825",
     "locID": "ChIJG20TWXIJKWsRBZZ7igvJELY",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC414682091"
    }
@@ -20569,7 +20569,7 @@
     "name": "9 WIRRANA DRIVE MOE 3825",
     "locID": "LOC000028771268",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420011345"
    }
   },
@@ -21776,7 +21776,7 @@
     "name": "21 BORRMANS STREET MOE 3825",
     "locID": "LOC000079159355",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420018545"
    }
   },
@@ -29511,7 +29511,7 @@
     "name": "24 WINDSOR AVENUE MOE 3825",
     "locID": "LOC000074135091",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420320464"
    }
   },
@@ -30820,7 +30820,7 @@
     "name": "104 WIRRAWAY STREET MOE 3825",
     "locID": "LOC000034189387",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420325395"
    }
   },
@@ -31669,8 +31669,8 @@
    "properties": {
     "name": "67 HAMPTON STREET MOE 3825",
     "locID": "LOC000098301646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420330711"
    }
   },
@@ -32197,7 +32197,7 @@
     "name": "14 GRIFFIN STREET MOE 3825",
     "locID": "LOC000033109602",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420332510"
    }
   },
@@ -37466,8 +37466,8 @@
    "properties": {
     "name": "56 HAMPTON STREET MOE 3825",
     "locID": "LOC000039460693",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420612632"
    }
   },
@@ -38469,8 +38469,8 @@
    "properties": {
     "name": "73 MARGARET STREET MOE 3825",
     "locID": "LOC000005140070",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420614573"
    }
   },
@@ -39558,7 +39558,7 @@
     "name": "46 KENT STREET MOE 3825",
     "locID": "LOC000098449851",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420618087"
    }
   },
@@ -40475,7 +40475,7 @@
    "properties": {
     "name": "19-27 BUBB STREET MOE 3825",
     "locID": "ChIJG20TWXIJKWsRvsHGqBrZVzo",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420622612"
    }
@@ -46052,7 +46052,7 @@
     "name": "91 WIRRAWAY STREET MOE 3825",
     "locID": "LOC000054056875",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420915730"
    }
   },
@@ -52412,40 +52412,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420963731"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     146.26136239,
-     -38.18511831
-    ]
-   },
-   "properties": {
-    "name": "100 FOWLER STREET MOE 3825",
-    "locID": "LOC000125256278",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420963734"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     146.26136335,
-     -38.18517918
-    ]
-   },
-   "properties": {
-    "name": "104 FOWLER STREET MOE 3825",
-    "locID": "LOC000045660706",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420963735"
    }
   },
   {
@@ -60366,7 +60332,7 @@
     "name": "25 SCORPIO DRIVE MOE 3825",
     "locID": "LOC000062319136",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421241577"
    }
   },
@@ -69052,8 +69018,8 @@
    "properties": {
     "name": "6 COMANS WAY MOE 3825",
     "locID": "LOC000079342514",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421586341"
    }
   },
@@ -69631,7 +69597,7 @@
     "name": "13 SCOTT AVENUE MOE 3825",
     "locID": "LOC000075819731",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421593656"
    }
   },
@@ -69936,8 +69902,8 @@
    "properties": {
     "name": "29 QUEEN STREET MOE 3825",
     "locID": "LOC000039193753",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421597294"
    }
   },
@@ -78318,7 +78284,7 @@
     "name": "28 MARGARET STREET MOE 3825",
     "locID": "LOC000003878161",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421880170"
    }
   },
@@ -83418,7 +83384,7 @@
     "name": "67 COALVILLE ROAD MOE 3825",
     "locID": "LOC000100637469",
     "tech": "FTTP",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC423210657"
    }
   },
@@ -104531,7 +104497,7 @@
    "properties": {
     "name": "11 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJ8yS3wt4LKWsRoDejx2NmiOY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721086447"
    }
@@ -104548,7 +104514,7 @@
    "properties": {
     "name": "17 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJccljH98LKWsR6czBGMGIqP8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721087443"
    }
@@ -104565,7 +104531,7 @@
    "properties": {
     "name": "6 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJea8z6d4LKWsR5SwShXAFAkY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721088266"
    }
@@ -104599,7 +104565,7 @@
    "properties": {
     "name": "16 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJQ3oEHN8LKWsR0zfViDVSbFQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090499"
    }
@@ -104616,7 +104582,7 @@
    "properties": {
     "name": "10 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJQ72J5t4LKWsR34kBD0orIx8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721090641"
    }
@@ -104633,7 +104599,7 @@
    "properties": {
     "name": "14 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJlwsCHt8LKWsR-S7fbpgiCL4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091352"
    }
@@ -104650,7 +104616,7 @@
    "properties": {
     "name": "19 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJ1eZlGN8LKWsR1amOfoZFmJ0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721091840"
    }
@@ -104667,7 +104633,7 @@
    "properties": {
     "name": "5 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJWxQgwN4LKWsRhbSeSeoygyA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721093046"
    }
@@ -104684,7 +104650,7 @@
    "properties": {
     "name": "15 JACARANDA CRESCENT MOE 3825",
     "locID": "EioxNSBKYWNhcmFuZGEgQ3JlcywgTW9lIFZJQyAzODI1LCBBdXN0cmFsaWEiMBIuChQKEgmZSAOV3gspaxFislkAquXDmBAPKhQKEglnDAKV3gspaxH0RZS5QPaveQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721094555"
    }
@@ -104701,7 +104667,7 @@
    "properties": {
     "name": "13 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJz1CV3d4LKWsRdxVyWuK4iGU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721096726"
    }
@@ -104718,7 +104684,7 @@
    "properties": {
     "name": "8 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJfz2v6N4LKWsRrp52Jvas3mY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721099967"
    }
@@ -104735,7 +104701,7 @@
    "properties": {
     "name": "4 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJCyB17N4LKWsRPtff2TaT-wA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721101244"
    }
@@ -104752,7 +104718,7 @@
    "properties": {
     "name": "9 JACARANDA CRESCENT MOE 3825",
     "locID": "ChIJJc9vwt4LKWsRhIaGJnLbMKo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721103775"
    }
@@ -104769,7 +104735,7 @@
    "properties": {
     "name": "12 JACARANDA CRESCENT MOE 3825",
     "locID": "EioxMiBKYWNhcmFuZGEgQ3JlcywgTW9lIFZJQyAzODI1LCBBdXN0cmFsaWEiMBIuChQKEgmZSAOV3gspaxFjslkAquXDmBAMKhQKEglnDAKV3gspaxH0RZS5QPaveQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721104675"
    }
@@ -108000,7 +107966,7 @@
     "name": "187 SERVICE ROAD SOUTH MOE 3825",
     "locID": "LOC000114256756",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721295933"
    }
   },
