@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T07:17:42.329004",
+ "generated": "2023-10-16T06:58:49.165286",
  "suburb": "BRAYBROOK",
  "features": [
   {
@@ -10777,7 +10777,7 @@
     "name": "185-195 ASHLEY STREET BRAYBROOK 3019",
     "locID": "LOC000077012579",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419724235"
    }
   },
@@ -23254,8 +23254,8 @@
    "properties": {
     "name": "10 MARIN LANE BRAYBROOK 3019",
     "locID": "LOC000033029460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420343003"
    }
   },
@@ -35171,8 +35171,8 @@
    "properties": {
     "name": "20 BUTLER STREET BRAYBROOK 3019",
     "locID": "LOC000003687387",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420921394"
    }
   },
@@ -38404,23 +38404,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421107950"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.847547,
-     -37.789703
-    ]
-   },
-   "properties": {
-    "name": "11 MYAMYN STREET BRAYBROOK 3019",
-    "locID": "LOC000079148617",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421107951"
    }
   },
   {
@@ -43783,23 +43766,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.855181,
-     -37.785274
-    ]
-   },
-   "properties": {
-    "name": "130 CHURCHILL AVENUE BRAYBROOK 3019",
-    "locID": "LOC000073105950",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421375761"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.853534,
      -37.785685
     ]
@@ -46190,6 +46156,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421418960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.853291,
+     -37.792503
+    ]
+   },
+   "properties": {
+    "name": "7 HUGHES STREET BRAYBROOK 3019",
+    "locID": "LOC000193707837",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421419274"
    }
   },
   {
@@ -52973,6 +52956,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421759943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.853313,
+     -37.783113
+    ]
+   },
+   "properties": {
+    "name": "35 SHEPHERD STREET BRAYBROOK 3019",
+    "locID": "LOC000193746303",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421760301"
    }
   },
   {
@@ -60773,8 +60773,8 @@
    "properties": {
     "name": "UNIT 2, 244-246 BALLARAT ROAD BRAYBROOK 3019",
     "locID": "LOC000057141720",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC423726804"
    }
   },
@@ -98064,57 +98064,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.8475519,
-     -37.78968985
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 11 MYAMYN STREET BRAYBROOK 3019",
-    "locID": "LOC000079148617",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721165933"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.84736027,
-     -37.78964828
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 11 MYAMYN STREET BRAYBROOK 3019",
-    "locID": "LOC000079148617",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721165944"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.84722568,
-     -37.78963608
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 11 MYAMYN STREET BRAYBROOK 3019",
-    "locID": "LOC000079148617",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721166292"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.85139766,
      -37.78383979
     ]
@@ -98251,57 +98200,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 6, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721214830"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 77, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721214976"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721215240"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.84925012,
      -37.79224814
     ]
@@ -98346,40 +98244,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721216056"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 76, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721216113"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 78, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721216672"
    }
   },
   {
@@ -98448,23 +98312,6 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721218381"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 16, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721218627"
    }
   },
   {
@@ -98761,23 +98608,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 7, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721224005"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.84907749,
      -37.79236003
     ]
@@ -98812,23 +98642,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721225290"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.84938983,
      -37.79260782
     ]
@@ -98839,40 +98652,6 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721225503"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 5, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721225581"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 75, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721225985"
    }
   },
   {
@@ -98919,74 +98698,6 @@
     ]
    },
    "properties": {
-    "name": "UNIT 3, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721226472"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 86, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254477"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 74, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254571"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 94, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254601"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
     "name": "UNIT 53, 90 CRANWELL STREET BRAYBROOK 3019",
     "locID": "ChIJ85wDYhNe1moRaEBw17wVDkc",
     "tech": "FTTN",
@@ -99021,159 +98732,6 @@
     ]
    },
    "properties": {
-    "name": "UNIT 66, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254685"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 64, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254686"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 62, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254687"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 67, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254785"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 80, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254786"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 45, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254866"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254867"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 10, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254935"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 9, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254936"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
     "name": "UNIT 57, 90 CRANWELL STREET BRAYBROOK 3019",
     "locID": "ChIJ85wDYhNe1moRaEBw17wVDkc",
     "tech": "FTTN",
@@ -99191,181 +98749,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 50, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254940"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 46, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254941"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 91, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254942"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 92, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254955"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 99, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254957"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 90, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254970"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 84, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254971"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 81, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721254972"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 61, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255039"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
     "name": "UNIT 51, 90 CRANWELL STREET BRAYBROOK 3019",
     "locID": "ChIJ85wDYhNe1moRaEBw17wVDkc",
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721255135"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 8, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255176"
    }
   },
   {
@@ -99407,23 +98795,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 40, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255220"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.856595,
      -37.784272
     ]
@@ -99446,402 +98817,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 63, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255361"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 93, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255431"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.85683965,
-     -37.77786605
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 88 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei04OCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBYKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255432"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 47, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255512"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 41, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255513"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.85683965,
-     -37.77786605
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 88 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei04OCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBYKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255514"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 70, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255523"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 96, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255524"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 72, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255542"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 68, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255543"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 88, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255544"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 85, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255545"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 49, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255580"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 11, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255674"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 58, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255737"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 39, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255738"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 44, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255818"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 98, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255819"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 73, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255820"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.85683965,
-     -37.77786605
-    ]
-   },
-   "properties": {
-    "name": "88 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei04OCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBYKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255821"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.85683965,
-     -37.77786605
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 88 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei04OCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBYKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255835"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
     "name": "UNIT 59, 90 CRANWELL STREET BRAYBROOK 3019",
     "locID": "ChIJ85wDYhNe1moRaEBw17wVDkc",
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721255836"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.85683965,
-     -37.77786605
-    ]
-   },
-   "properties": {
-    "name": "86 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei04NiBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBWKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255846"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 82, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255854"
    }
   },
   {
@@ -99871,23 +98851,6 @@
     ]
    },
    "properties": {
-    "name": "UNIT 60, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721255960"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
     "name": "UNIT 89, 90 CRANWELL STREET BRAYBROOK 3019",
     "locID": "ChIJ85wDYhNe1moRaEBw17wVDkc",
     "tech": "FTTN",
@@ -99905,96 +98868,11 @@
     ]
    },
    "properties": {
-    "name": "UNIT 42, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256042"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
     "name": "UNIT 55, 90 CRANWELL STREET BRAYBROOK 3019",
     "locID": "ChIJ85wDYhNe1moRaEBw17wVDkc",
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721256131"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 43, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256132"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.85683965,
-     -37.77786605
-    ]
-   },
-   "properties": {
-    "name": "UNIT 4, 88 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei04OCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBYKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256133"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 95, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256216"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 48, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256323"
    }
   },
   {
@@ -100036,91 +98914,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 97, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256431"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 87, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256475"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 79, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256476"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 65, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256509"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 83, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256577"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.85284189,
      -37.78199589
     ]
@@ -100148,40 +98941,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721256659"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 69, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256736"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.8566527,
-     -37.7778456
-    ]
-   },
-   "properties": {
-    "name": "UNIT 71, 90 CRANWELL STREET BRAYBROOK 3019",
-    "locID": "Ei05MCBDcmFud2VsbCBTdCwgQnJheWJyb29rIFZJQyAzMDE5LCBBdXN0cmFsaWEiMBIuChQKEgnFeolrE17WahFgh7vFDfchQRBaKhQKEgl31pprE17WahFtTNdN6AaTMA",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721256744"
    }
   },
   {
