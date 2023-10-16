@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T04:58:33.699031",
+ "generated": "2023-10-16T04:27:47.021857",
  "suburb": "COBRAM",
  "features": [
   {
@@ -713,7 +713,7 @@
     "name": "73 MOOKARII STREET COBRAM 3644",
     "locID": "LOC000050357941",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411128141"
    }
   },
@@ -4266,7 +4266,7 @@
     "name": "UNIT 8, 5 MANSE ROAD COBRAM 3644",
     "locID": "LOC000085304557",
     "tech": "FTTC",
-    "upgrade": "FW_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411144121"
    }
   },
@@ -9178,8 +9178,8 @@
    "properties": {
     "name": "11 BURKE COURT COBRAM 3644",
     "locID": "LOC000062709964",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419766508"
    }
   },
@@ -14143,7 +14143,7 @@
     "name": "135 HIGH STREET COBRAM 3644",
     "locID": "LOC000026060561",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420072912"
    }
   },
@@ -15060,8 +15060,8 @@
    "properties": {
     "name": "1 BURKE COURT COBRAM 3644",
     "locID": "LOC000044296766",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420086391"
    }
   },
@@ -15604,8 +15604,8 @@
    "properties": {
     "name": "30 SLEDMERE AVENUE COBRAM 3644",
     "locID": "LOC000036023871",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420089200"
    }
   },
@@ -17440,8 +17440,8 @@
    "properties": {
     "name": "18 SLEDMERE AVENUE COBRAM 3644",
     "locID": "LOC000047910598",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420375404"
    }
   },
@@ -17457,8 +17457,8 @@
    "properties": {
     "name": "20 SLEDMERE AVENUE COBRAM 3644",
     "locID": "LOC000100282104",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420375405"
    }
   },
@@ -17474,8 +17474,8 @@
    "properties": {
     "name": "22 SLEDMERE AVENUE COBRAM 3644",
     "locID": "LOC000090952417",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420375406"
    }
   },
@@ -19058,6 +19058,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420402562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.65676134,
+     -35.92162201
+    ]
+   },
+   "properties": {
+    "name": "2 WALLOWA STREET COBRAM 3644",
+    "locID": "LOC000193754300",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420404512"
    }
   },
   {
@@ -21027,8 +21044,8 @@
    "properties": {
     "name": "10 DENSON COURT COBRAM 3644",
     "locID": "LOC000046493621",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420683015"
    }
   },
@@ -22914,7 +22931,7 @@
    "properties": {
     "name": "99 PUNT ROAD COBRAM 3644",
     "locID": "ChIJm0S6VTitIGsRl6RAnRZyfWM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420689244"
    }
@@ -26705,8 +26722,8 @@
    "properties": {
     "name": "17 BURKE COURT COBRAM 3644",
     "locID": "LOC000091229783",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420993977"
    }
   },
@@ -27453,8 +27470,8 @@
    "properties": {
     "name": "38 MOOKARII STREET COBRAM 3644",
     "locID": "LOC000100490230",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421252077"
    }
   },
@@ -29928,6 +29945,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.65959814,
+     -35.91915095
+    ]
+   },
+   "properties": {
+    "name": "1 PUNT ROAD COBRAM 3644",
+    "locID": "LOC000013659723",
+    "tech": "FTTC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421288317"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.65901826,
      -35.92037338
     ]
@@ -30140,7 +30174,7 @@
     "name": "8 IRENE STREET COBRAM 3644",
     "locID": "LOC000071473147",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421291968"
    }
   },
@@ -32009,8 +32043,8 @@
    "properties": {
     "name": "19 SLEDMERE AVENUE COBRAM 3644",
     "locID": "LOC000088816266",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421560211"
    }
   },
@@ -36616,7 +36650,7 @@
    "properties": {
     "name": "101 PUNT ROAD COBRAM 3644",
     "locID": "ChIJazjHVDitIGsRrNeTH8oDjow",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421909792"
    }
@@ -37534,8 +37568,8 @@
    "properties": {
     "name": "26 SLEDMERE AVENUE COBRAM 3644",
     "locID": "LOC000070432674",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421937336"
    }
   },
@@ -43587,7 +43621,7 @@
     "name": "3 GRAHAME MURRAY COURT COBRAM 3644",
     "locID": "LOC000107920163",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423277918"
    }
   },
@@ -49060,8 +49094,8 @@
    "properties": {
     "name": "113-115 STATION STREET COBRAM 3644",
     "locID": "LOC000083704779",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC423931553"
    }
   },
@@ -51016,7 +51050,7 @@
     "name": "6 DILLON STREET COBRAM 3644",
     "locID": "LOC000095492860",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC424444775"
    }
   },
@@ -61742,8 +61776,8 @@
    "properties": {
     "name": "71A CAMPBELL ROAD COBRAM 3644",
     "locID": "LOC000163227823",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC425610786"
    }
   },
@@ -62354,7 +62388,7 @@
    "properties": {
     "name": "40 NEWNHAM ROAD COBRAM 3644",
     "locID": "ChIJY-xqo3KtIGsRevwC2T-mA7w",
-    "tech": "WIRELESS",
+    "tech": "NULL",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC719115351"
    }
@@ -70769,7 +70803,7 @@
    "properties": {
     "name": "41 GRASSO DRIVE COBRAM 3644",
     "locID": "Eig0MSBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQKSoUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721154711"
    }
@@ -70874,23 +70908,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721155622"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.64539988,
-     -35.90630703
-    ]
-   },
-   "properties": {
-    "name": "32 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigzMiBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQICoUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721155903"
    }
   },
   {
@@ -71160,7 +71177,7 @@
    "properties": {
     "name": "35 GRASSO DRIVE COBRAM 3644",
     "locID": "EigzNSBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQIyoUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721158101"
    }
@@ -71180,23 +71197,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721158235"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.64649565,
-     -35.90722043
-    ]
-   },
-   "properties": {
-    "name": "22 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigyMiBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQFioUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721158317"
    }
   },
   {
@@ -71282,23 +71282,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721159485"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.64559328,
-     -35.906469
-    ]
-   },
-   "properties": {
-    "name": "30 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigzMCBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQHioUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721159562"
    }
   },
   {
@@ -71561,23 +71544,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.64598008,
-     -35.90679294
-    ]
-   },
-   "properties": {
-    "name": "26 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigyNiBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQGioUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721163109"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.646763,
      -35.92177552
     ]
@@ -71622,23 +71588,6 @@
     "tech": "FTTC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721163445"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.64520648,
-     -35.90614506
-    ]
-   },
-   "properties": {
-    "name": "34 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigzNCBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQIioUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721163662"
    }
   },
   {
@@ -71867,23 +71816,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.64578668,
-     -35.90663097
-    ]
-   },
-   "properties": {
-    "name": "28 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigyOCBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQHCoUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721166173"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.64412039,
      -35.91360498
     ]
@@ -71925,7 +71857,7 @@
    "properties": {
     "name": "39 GRASSO DRIVE COBRAM 3644",
     "locID": "EigzOSBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQJyoUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721166461"
    }
@@ -71976,7 +71908,7 @@
    "properties": {
     "name": "37 GRASSO DRIVE COBRAM 3644",
     "locID": "EigzNyBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQJSoUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC721167134"
    }
@@ -72200,40 +72132,6 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721169057"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.64618692,
-     -35.90696616
-    ]
-   },
-   "properties": {
-    "name": "24 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigyNCBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQGCoUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721169187"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.64485365,
-     -35.90592844
-    ]
-   },
-   "properties": {
-    "name": "38 GRASSO DRIVE COBRAM 3644",
-    "locID": "EigzOCBHcmFzc28gRHIsIENvYnJhbSBWSUMgMzY0NCwgQXVzdHJhbGlhIjASLgoUChIJOT9dw2ytIGsR0CCODqR5BRMQJioUChIJza1Fv2ytIGsR0GsUV1Eo_n4",
-    "tech": "FTTC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAVIC721169229"
    }
   },
   {
