@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T13:57:00.523502",
+ "generated": "2023-10-16T13:38:41.875537",
  "suburb": "SUNSHINE NORTH",
  "features": [
   {
@@ -14057,8 +14057,8 @@
    "properties": {
     "name": "15 WINGED FOOT DRIVE SUNSHINE NORTH 3020",
     "locID": "LOC000080213627",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419711106"
    }
   },
@@ -22914,8 +22914,8 @@
    "properties": {
     "name": "120 SUFFOLK ROAD SUNSHINE NORTH 3020",
     "locID": "LOC000080771839",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419914516"
    }
   },
@@ -22931,8 +22931,8 @@
    "properties": {
     "name": "126 SUFFOLK ROAD SUNSHINE NORTH 3020",
     "locID": "LOC000084835301",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419914517"
    }
   },
@@ -23968,8 +23968,8 @@
    "properties": {
     "name": "110 CUMBERLAND STREET SUNSHINE NORTH 3020",
     "locID": "LOC000013496027",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419994732"
    }
   },
@@ -30411,8 +30411,8 @@
    "properties": {
     "name": "13 WILTSHIRE STREET SUNSHINE NORTH 3020",
     "locID": "LOC000047642191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420213949"
    }
   },
@@ -33080,8 +33080,8 @@
    "properties": {
     "name": "122 SUFFOLK ROAD SUNSHINE NORTH 3020",
     "locID": "LOC000056124991",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420220457"
    }
   },
@@ -51722,23 +51722,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     144.836532,
-     -37.77337
-    ]
-   },
-   "properties": {
-    "name": "12 CUTTS STREET SUNSHINE NORTH 3020",
-    "locID": "LOC000071812402",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420819153"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      144.832409,
      -37.75437
     ]
@@ -55572,7 +55555,7 @@
     "name": "26 ST ANDREWS DRIVE SUNSHINE NORTH 3020",
     "locID": "LOC000045586671",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420981701"
    }
   },
@@ -82322,6 +82305,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     144.83886,
+     -37.770998
+    ]
+   },
+   "properties": {
+    "name": "25 DOWNING STREET SUNSHINE NORTH 3020",
+    "locID": "ChIJy0mq6Tde1moRVEiVSU194hg",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAVIC421749302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      144.83888,
      -37.766015
     ]
@@ -105687,8 +105687,8 @@
    "properties": {
     "name": "UNIT 1, 10 LINCOLN STREET SUNSHINE NORTH 3020",
     "locID": "LOC100072818457",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC719759001"
    }
   },
@@ -115635,57 +115635,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721057657"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.836532,
-     -37.77337
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 12 CUTTS STREET SUNSHINE NORTH 3020",
-    "locID": "LOC000071812402",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721057706"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.836532,
-     -37.77337
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 12 CUTTS STREET SUNSHINE NORTH 3020",
-    "locID": "LOC000071812402",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721058031"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.836532,
-     -37.77337
-    ]
-   },
-   "properties": {
-    "name": "UNIT 1, 12 CUTTS STREET SUNSHINE NORTH 3020",
-    "locID": "LOC000071812402",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721058129"
    }
   },
   {
