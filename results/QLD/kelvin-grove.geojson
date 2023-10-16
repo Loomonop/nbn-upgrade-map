@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T02:44:22.599808",
+ "generated": "2023-10-16T02:06:33.125715",
  "suburb": "KELVIN GROVE",
  "features": [
   {
@@ -2466,6 +2466,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155431651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00769786,
+     -27.45264383
+    ]
+   },
+   "properties": {
+    "name": "6 PROSPECT TERRACE KELVIN GROVE 4059",
+    "locID": "LOC000193825758",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155431652"
    }
   },
   {
@@ -8518,6 +8535,23 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155452311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00780296,
+     -27.45243102
+    ]
+   },
+   "properties": {
+    "name": "10 PROSPECT TERRACE KELVIN GROVE 4059",
+    "locID": "LOC000193825801",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155452327"
    }
   },
   {
@@ -27769,6 +27803,91 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.00785507,
+     -27.45257913
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 10 PROSPECT TERRACE KELVIN GROVE 4059",
+    "locID": "LOC000193825801",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156718186"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00785507,
+     -27.45257913
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 10 PROSPECT TERRACE KELVIN GROVE 4059",
+    "locID": "LOC000193825727",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156718187"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00785507,
+     -27.45257913
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 10 PROSPECT TERRACE KELVIN GROVE 4059",
+    "locID": "LOC000193825736",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156718188"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00785507,
+     -27.45257913
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 10 PROSPECT TERRACE KELVIN GROVE 4059",
+    "locID": "LOC000193825801",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156718189"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.00785507,
+     -27.45257913
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 10 PROSPECT TERRACE KELVIN GROVE 4059",
+    "locID": "LOC000193825762",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156718190"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.00825457,
      -27.45297225
     ]
@@ -40373,8 +40492,8 @@
    "properties": {
     "name": "19 HORSBURGH STREET KELVIN GROVE 4059",
     "locID": "LOC000008414526",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD160693558"
    }
   },
@@ -40594,7 +40713,7 @@
    "properties": {
     "name": "25 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC000027447434",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160735468"
    }
@@ -40628,7 +40747,7 @@
    "properties": {
     "name": "29 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC000035195713",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160735470"
    }
@@ -40934,7 +41053,7 @@
    "properties": {
     "name": "27 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC000059219429",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160979870"
    }
@@ -40951,7 +41070,7 @@
    "properties": {
     "name": "31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160979871"
    }
@@ -41767,8 +41886,8 @@
    "properties": {
     "name": "16 HORSBURGH STREET KELVIN GROVE 4059",
     "locID": "LOC000008414526",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD161183170"
    }
   },
@@ -82091,7 +82210,7 @@
    "properties": {
     "name": "31A MUSK AVENUE KELVIN GROVE 4059",
     "locID": "ChIJrdhYIlZXkWsRGRvw8PebcYM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719265575"
    }
@@ -82108,7 +82227,7 @@
    "properties": {
     "name": "31B MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719268501"
    }
@@ -82125,7 +82244,7 @@
    "properties": {
     "name": "31C MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719270164"
    }
@@ -82159,7 +82278,7 @@
    "properties": {
     "name": "APARTMENT 1104, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296223"
    }
@@ -82176,7 +82295,7 @@
    "properties": {
     "name": "SHOP 5, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296408"
    }
@@ -82193,7 +82312,7 @@
    "properties": {
     "name": "APARTMENT 307, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296479"
    }
@@ -82210,7 +82329,7 @@
    "properties": {
     "name": "APARTMENT 505, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296593"
    }
@@ -82227,7 +82346,7 @@
    "properties": {
     "name": "APARTMENT 405, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296594"
    }
@@ -82244,7 +82363,7 @@
    "properties": {
     "name": "APARTMENT 407, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296778"
    }
@@ -82261,7 +82380,7 @@
    "properties": {
     "name": "APARTMENT 404, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296779"
    }
@@ -82278,7 +82397,7 @@
    "properties": {
     "name": "APARTMENT 312, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296780"
    }
@@ -82295,7 +82414,7 @@
    "properties": {
     "name": "APARTMENT 711, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296849"
    }
@@ -82312,7 +82431,7 @@
    "properties": {
     "name": "APARTMENT 710, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296850"
    }
@@ -82329,7 +82448,7 @@
    "properties": {
     "name": "APARTMENT 708, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296851"
    }
@@ -82346,7 +82465,7 @@
    "properties": {
     "name": "APARTMENT 701, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296852"
    }
@@ -82363,7 +82482,7 @@
    "properties": {
     "name": "APARTMENT 607, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296853"
    }
@@ -82380,7 +82499,7 @@
    "properties": {
     "name": "APARTMENT 605, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296854"
    }
@@ -82397,7 +82516,7 @@
    "properties": {
     "name": "APARTMENT 1206, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296855"
    }
@@ -82414,7 +82533,7 @@
    "properties": {
     "name": "APARTMENT 912, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296940"
    }
@@ -82431,7 +82550,7 @@
    "properties": {
     "name": "APARTMENT 1309, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719296941"
    }
@@ -82448,7 +82567,7 @@
    "properties": {
     "name": "APARTMENT 408, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297056"
    }
@@ -82465,7 +82584,7 @@
    "properties": {
     "name": "APARTMENT 311, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297057"
    }
@@ -82482,7 +82601,7 @@
    "properties": {
     "name": "APARTMENT 1001, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297068"
    }
@@ -82499,7 +82618,7 @@
    "properties": {
     "name": "APARTMENT 602, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297127"
    }
@@ -82516,7 +82635,7 @@
    "properties": {
     "name": "APARTMENT 1407, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297283"
    }
@@ -82533,7 +82652,7 @@
    "properties": {
     "name": "APARTMENT 706, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297438"
    }
@@ -82550,7 +82669,7 @@
    "properties": {
     "name": "APARTMENT 1004, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297439"
    }
@@ -82567,7 +82686,7 @@
    "properties": {
     "name": "APARTMENT 503, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297630"
    }
@@ -82584,7 +82703,7 @@
    "properties": {
     "name": "APARTMENT 310, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297631"
    }
@@ -82601,7 +82720,7 @@
    "properties": {
     "name": "APARTMENT 1312, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297632"
    }
@@ -82618,7 +82737,7 @@
    "properties": {
     "name": "APARTMENT 911, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297698"
    }
@@ -82635,7 +82754,7 @@
    "properties": {
     "name": "APARTMENT 608, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297699"
    }
@@ -82652,7 +82771,7 @@
    "properties": {
     "name": "APARTMENT 1209, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297700"
    }
@@ -82669,7 +82788,7 @@
    "properties": {
     "name": "APARTMENT 1408, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297792"
    }
@@ -82686,7 +82805,7 @@
    "properties": {
     "name": "APARTMENT 506, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297810"
    }
@@ -82703,7 +82822,7 @@
    "properties": {
     "name": "APARTMENT 1307, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297904"
    }
@@ -82720,7 +82839,7 @@
    "properties": {
     "name": "APARTMENT 402, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297905"
    }
@@ -82737,7 +82856,7 @@
    "properties": {
     "name": "APARTMENT 1101, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297911"
    }
@@ -82754,7 +82873,7 @@
    "properties": {
     "name": "APARTMENT 709, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297913"
    }
@@ -82771,7 +82890,7 @@
    "properties": {
     "name": "APARTMENT 810, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719297914"
    }
@@ -82788,7 +82907,7 @@
    "properties": {
     "name": "APARTMENT 504, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298188"
    }
@@ -82805,7 +82924,7 @@
    "properties": {
     "name": "APARTMENT 1306, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298192"
    }
@@ -82822,7 +82941,7 @@
    "properties": {
     "name": "APARTMENT 1211, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298226"
    }
@@ -82839,7 +82958,7 @@
    "properties": {
     "name": "APARTMENT 610, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298242"
    }
@@ -82856,7 +82975,7 @@
    "properties": {
     "name": "APARTMENT 1202, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298291"
    }
@@ -82873,7 +82992,7 @@
    "properties": {
     "name": "APARTMENT 1010, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298292"
    }
@@ -82890,7 +83009,7 @@
    "properties": {
     "name": "APARTMENT 609, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298304"
    }
@@ -82907,7 +83026,7 @@
    "properties": {
     "name": "APARTMENT 1305, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298343"
    }
@@ -82924,7 +83043,7 @@
    "properties": {
     "name": "APARTMENT 306, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298466"
    }
@@ -82941,7 +83060,7 @@
    "properties": {
     "name": "APARTMENT 1410, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298467"
    }
@@ -82958,7 +83077,7 @@
    "properties": {
     "name": "APARTMENT 1002, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298539"
    }
@@ -82975,7 +83094,7 @@
    "properties": {
     "name": "APARTMENT 903, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298540"
    }
@@ -82992,7 +83111,7 @@
    "properties": {
     "name": "APARTMENT 1203, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298541"
    }
@@ -83009,7 +83128,7 @@
    "properties": {
     "name": "APARTMENT 1411, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298631"
    }
@@ -83026,7 +83145,7 @@
    "properties": {
     "name": "APARTMENT 809, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298632"
    }
@@ -83043,7 +83162,7 @@
    "properties": {
     "name": "APARTMENT 502, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298730"
    }
@@ -83060,7 +83179,7 @@
    "properties": {
     "name": "APARTMENT 907, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298744"
    }
@@ -83077,7 +83196,7 @@
    "properties": {
     "name": "APARTMENT 803, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298745"
    }
@@ -83094,7 +83213,7 @@
    "properties": {
     "name": "APARTMENT 703, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298746"
    }
@@ -83111,7 +83230,7 @@
    "properties": {
     "name": "APARTMENT 1007, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298747"
    }
@@ -83128,7 +83247,7 @@
    "properties": {
     "name": "APARTMENT 901, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298748"
    }
@@ -83145,7 +83264,7 @@
    "properties": {
     "name": "APARTMENT 1009, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298964"
    }
@@ -83162,7 +83281,7 @@
    "properties": {
     "name": "APARTMENT 604, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719298985"
    }
@@ -83179,7 +83298,7 @@
    "properties": {
     "name": "APARTMENT 807, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299123"
    }
@@ -83196,7 +83315,7 @@
    "properties": {
     "name": "APARTMENT 1107, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299125"
    }
@@ -83213,7 +83332,7 @@
    "properties": {
     "name": "APARTMENT 910, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299126"
    }
@@ -83230,7 +83349,7 @@
    "properties": {
     "name": "APARTMENT 1402, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299184"
    }
@@ -83247,7 +83366,7 @@
    "properties": {
     "name": "APARTMENT 1111, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299314"
    }
@@ -83264,7 +83383,7 @@
    "properties": {
     "name": "APARTMENT 1011, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299315"
    }
@@ -83281,7 +83400,7 @@
    "properties": {
     "name": "APARTMENT 501, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299316"
    }
@@ -83298,7 +83417,7 @@
    "properties": {
     "name": "APARTMENT 410, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299317"
    }
@@ -83315,7 +83434,7 @@
    "properties": {
     "name": "APARTMENT 403, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299318"
    }
@@ -83332,7 +83451,7 @@
    "properties": {
     "name": "APARTMENT 909, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299376"
    }
@@ -83349,7 +83468,7 @@
    "properties": {
     "name": "APARTMENT 707, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299377"
    }
@@ -83366,7 +83485,7 @@
    "properties": {
     "name": "APARTMENT 512, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299378"
    }
@@ -83383,7 +83502,7 @@
    "properties": {
     "name": "APARTMENT 1301, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299379"
    }
@@ -83400,7 +83519,7 @@
    "properties": {
     "name": "APARTMENT 1212, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299380"
    }
@@ -83417,7 +83536,7 @@
    "properties": {
     "name": "APARTMENT 303, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299484"
    }
@@ -83434,7 +83553,7 @@
    "properties": {
     "name": "APARTMENT 1005, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299485"
    }
@@ -83451,7 +83570,7 @@
    "properties": {
     "name": "APARTMENT 1304, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299486"
    }
@@ -83468,7 +83587,7 @@
    "properties": {
     "name": "APARTMENT 509, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299497"
    }
@@ -83502,7 +83621,7 @@
    "properties": {
     "name": "APARTMENT 508, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299585"
    }
@@ -83519,7 +83638,7 @@
    "properties": {
     "name": "APARTMENT 1205, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299591"
    }
@@ -83536,7 +83655,7 @@
    "properties": {
     "name": "APARTMENT 1110, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299592"
    }
@@ -83553,7 +83672,7 @@
    "properties": {
     "name": "APARTMENT 808, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299796"
    }
@@ -83587,7 +83706,7 @@
    "properties": {
     "name": "APARTMENT 308, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299961"
    }
@@ -83604,7 +83723,7 @@
    "properties": {
     "name": "APARTMENT 612, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719299985"
    }
@@ -83621,7 +83740,7 @@
    "properties": {
     "name": "APARTMENT 1108, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300151"
    }
@@ -83638,7 +83757,7 @@
    "properties": {
     "name": "APARTMENT 1105, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300152"
    }
@@ -83655,7 +83774,7 @@
    "properties": {
     "name": "APARTMENT 1102, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300153"
    }
@@ -83672,7 +83791,7 @@
    "properties": {
     "name": "APARTMENT 1012, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300154"
    }
@@ -83689,7 +83808,7 @@
    "properties": {
     "name": "APARTMENT 409, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300155"
    }
@@ -83706,7 +83825,7 @@
    "properties": {
     "name": "APARTMENT 309, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300156"
    }
@@ -83723,7 +83842,7 @@
    "properties": {
     "name": "APARTMENT 302, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300157"
    }
@@ -83740,7 +83859,7 @@
    "properties": {
     "name": "APARTMENT 1403, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300158"
    }
@@ -83757,7 +83876,7 @@
    "properties": {
     "name": "APARTMENT 811, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300222"
    }
@@ -83774,7 +83893,7 @@
    "properties": {
     "name": "APARTMENT 510, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300223"
    }
@@ -83791,7 +83910,7 @@
    "properties": {
     "name": "APARTMENT 1112, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300324"
    }
@@ -83808,7 +83927,7 @@
    "properties": {
     "name": "APARTMENT 1207, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300326"
    }
@@ -83825,7 +83944,7 @@
    "properties": {
     "name": "APARTMENT 1405, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300432"
    }
@@ -83842,7 +83961,7 @@
    "properties": {
     "name": "APARTMENT 301, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300443"
    }
@@ -83859,7 +83978,7 @@
    "properties": {
     "name": "APARTMENT 1310, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300488"
    }
@@ -83876,7 +83995,7 @@
    "properties": {
     "name": "APARTMENT 1006, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300672"
    }
@@ -83893,7 +84012,7 @@
    "properties": {
     "name": "APARTMENT 1409, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300834"
    }
@@ -83910,7 +84029,7 @@
    "properties": {
     "name": "APARTMENT 1311, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300835"
    }
@@ -83927,7 +84046,7 @@
    "properties": {
     "name": "APARTMENT 511, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719300842"
    }
@@ -83944,7 +84063,7 @@
    "properties": {
     "name": "APARTMENT 304, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301026"
    }
@@ -83961,7 +84080,7 @@
    "properties": {
     "name": "APARTMENT 1008, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301088"
    }
@@ -83978,7 +84097,7 @@
    "properties": {
     "name": "APARTMENT 806, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301089"
    }
@@ -83995,7 +84114,7 @@
    "properties": {
     "name": "APARTMENT 804, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301090"
    }
@@ -84012,7 +84131,7 @@
    "properties": {
     "name": "APARTMENT 801, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301091"
    }
@@ -84029,7 +84148,7 @@
    "properties": {
     "name": "APARTMENT 705, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301092"
    }
@@ -84046,7 +84165,7 @@
    "properties": {
     "name": "SHOP 4, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301184"
    }
@@ -84063,7 +84182,7 @@
    "properties": {
     "name": "APARTMENT 1204, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301185"
    }
@@ -84080,7 +84199,7 @@
    "properties": {
     "name": "APARTMENT 603, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301310"
    }
@@ -84097,7 +84216,7 @@
    "properties": {
     "name": "APARTMENT 704, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301576"
    }
@@ -84114,7 +84233,7 @@
    "properties": {
     "name": "APARTMENT 1303, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301657"
    }
@@ -84131,7 +84250,7 @@
    "properties": {
     "name": "APARTMENT 712, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301661"
    }
@@ -84148,7 +84267,7 @@
    "properties": {
     "name": "APARTMENT 1302, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301663"
    }
@@ -84165,7 +84284,7 @@
    "properties": {
     "name": "APARTMENT 1208, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301664"
    }
@@ -84182,7 +84301,7 @@
    "properties": {
     "name": "APARTMENT 904, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301665"
    }
@@ -84199,7 +84318,7 @@
    "properties": {
     "name": "APARTMENT 305, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301674"
    }
@@ -84216,7 +84335,7 @@
    "properties": {
     "name": "APARTMENT 1109, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301861"
    }
@@ -84233,7 +84352,7 @@
    "properties": {
     "name": "APARTMENT 1106, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301862"
    }
@@ -84250,7 +84369,7 @@
    "properties": {
     "name": "APARTMENT 401, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301863"
    }
@@ -84267,7 +84386,7 @@
    "properties": {
     "name": "APARTMENT 702, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719301920"
    }
@@ -84284,7 +84403,7 @@
    "properties": {
     "name": "APARTMENT 412, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302018"
    }
@@ -84301,7 +84420,7 @@
    "properties": {
     "name": "APARTMENT 908, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302021"
    }
@@ -84318,7 +84437,7 @@
    "properties": {
     "name": "APARTMENT 905, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302022"
    }
@@ -84335,7 +84454,7 @@
    "properties": {
     "name": "APARTMENT 812, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302023"
    }
@@ -84352,7 +84471,7 @@
    "properties": {
     "name": "APARTMENT 1412, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302136"
    }
@@ -84369,7 +84488,7 @@
    "properties": {
     "name": "APARTMENT 606, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302147"
    }
@@ -84386,7 +84505,7 @@
    "properties": {
     "name": "APARTMENT 902, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302315"
    }
@@ -84403,7 +84522,7 @@
    "properties": {
     "name": "APARTMENT 1003, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302398"
    }
@@ -84420,7 +84539,7 @@
    "properties": {
     "name": "APARTMENT 411, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302502"
    }
@@ -84437,7 +84556,7 @@
    "properties": {
     "name": "APARTMENT 1103, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302701"
    }
@@ -84454,7 +84573,7 @@
    "properties": {
     "name": "APARTMENT 507, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302702"
    }
@@ -84471,7 +84590,7 @@
    "properties": {
     "name": "APARTMENT 406, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302703"
    }
@@ -84488,7 +84607,7 @@
    "properties": {
     "name": "APARTMENT 1404, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302704"
    }
@@ -84505,7 +84624,7 @@
    "properties": {
     "name": "APARTMENT 1308, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302705"
    }
@@ -84522,7 +84641,7 @@
    "properties": {
     "name": "APARTMENT 906, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302759"
    }
@@ -84539,7 +84658,7 @@
    "properties": {
     "name": "APARTMENT 802, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302760"
    }
@@ -84556,7 +84675,7 @@
    "properties": {
     "name": "APARTMENT 611, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302761"
    }
@@ -84573,7 +84692,7 @@
    "properties": {
     "name": "APARTMENT 601, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302762"
    }
@@ -84590,7 +84709,7 @@
    "properties": {
     "name": "APARTMENT 1210, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302860"
    }
@@ -84607,7 +84726,7 @@
    "properties": {
     "name": "APARTMENT 1201, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302861"
    }
@@ -84624,7 +84743,7 @@
    "properties": {
     "name": "APARTMENT 805, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302862"
    }
@@ -84641,7 +84760,7 @@
    "properties": {
     "name": "APARTMENT 1406, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302863"
    }
@@ -84658,7 +84777,7 @@
    "properties": {
     "name": "APARTMENT 1401, 31 MUSK AVENUE KELVIN GROVE 4059",
     "locID": "LOC100079624972",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719302864"
    }
