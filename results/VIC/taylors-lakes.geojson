@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-26T19:12:52.678518",
+ "generated": "2023-10-16T19:29:45.088391",
  "suburb": "TAYLORS LAKES",
  "features": [
   {
@@ -1121,7 +1121,7 @@
     "name": "33 SHOPPERS LANE TAYLORS LAKES 3038",
     "locID": "LOC000083698209",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412459130"
    }
   },
@@ -1376,7 +1376,7 @@
     "name": "29 SHOPPERS LANE TAYLORS LAKES 3038",
     "locID": "LOC000024746942",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412461906"
    }
   },
@@ -1529,7 +1529,7 @@
     "name": "2 SHOPPERS LANE TAYLORS LAKES 3038",
     "locID": "LOC000079693291",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412461915"
    }
   },
@@ -1580,7 +1580,7 @@
     "name": "20 SHOPPERS LANE TAYLORS LAKES 3038",
     "locID": "LOC000057486113",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412461918"
    }
   },
@@ -1614,7 +1614,7 @@
     "name": "25 SHOPPERS LANE TAYLORS LAKES 3038",
     "locID": "LOC000102468578",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC412461920"
    }
   },
@@ -2888,8 +2888,8 @@
    "properties": {
     "name": "73 ROBERTSONS ROAD TAYLORS LAKES 3038",
     "locID": "LOC000101656872",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC412933049"
    }
   },
@@ -4130,7 +4130,7 @@
     "name": "59 CORRYONG CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000075717855",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419556338"
    }
   },
@@ -4452,8 +4452,8 @@
    "properties": {
     "name": "17 BURROWYE CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000005377209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419556757"
    }
   },
@@ -7070,8 +7070,8 @@
    "properties": {
     "name": "7 GRIMES AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000001926340",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419559109"
    }
   },
@@ -7275,7 +7275,7 @@
     "name": "1 CASSOWARY CLOSE TAYLORS LAKES 3038",
     "locID": "LOC000189702985",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419559297"
    }
   },
@@ -7597,8 +7597,8 @@
    "properties": {
     "name": "12 GALLOWAY COURT TAYLORS LAKES 3038",
     "locID": "LOC000019438034",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419559850"
    }
   },
@@ -7988,8 +7988,8 @@
    "properties": {
     "name": "8 DRYSDALE AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000047672716",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419560490"
    }
   },
@@ -8294,8 +8294,8 @@
    "properties": {
     "name": "42 HONEYEATER CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000047776563",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419560735"
    }
   },
@@ -8311,8 +8311,8 @@
    "properties": {
     "name": "43 HONEYEATER CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000060126230",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419560736"
    }
   },
@@ -8362,8 +8362,8 @@
    "properties": {
     "name": "54 HONEYEATER CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000106783561",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419560739"
    }
   },
@@ -8549,8 +8549,8 @@
    "properties": {
     "name": "19 KAMO COURT TAYLORS LAKES 3038",
     "locID": "LOC000030187209",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419560937"
    }
   },
@@ -9229,8 +9229,8 @@
    "properties": {
     "name": "12 TINTALDRA DRIVE TAYLORS LAKES 3038",
     "locID": "LOC000026018161",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419561790"
    }
   },
@@ -9926,8 +9926,8 @@
    "properties": {
     "name": "7 MERIMBULA COURT TAYLORS LAKES 3038",
     "locID": "LOC000094921871",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC419562318"
    }
   },
@@ -11830,8 +11830,8 @@
    "properties": {
     "name": "18 MACKENZIE CLOSE TAYLORS LAKES 3038",
     "locID": "LOC000069912808",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419634832"
    }
   },
@@ -13139,8 +13139,8 @@
    "properties": {
     "name": "51 CAMBRIDGE CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000021064872",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419728776"
    }
   },
@@ -13802,8 +13802,8 @@
    "properties": {
     "name": "65 PINDARI AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000046752846",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419761301"
    }
   },
@@ -15808,8 +15808,8 @@
    "properties": {
     "name": "2 JUNIPER COURT TAYLORS LAKES 3038",
     "locID": "LOC000032608603",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419853022"
    }
   },
@@ -16301,8 +16301,8 @@
    "properties": {
     "name": "10 MUNGANA COURT TAYLORS LAKES 3038",
     "locID": "LOC000107840890",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419854849"
    }
   },
@@ -20874,8 +20874,8 @@
    "properties": {
     "name": "18 PARRAKEET COURT TAYLORS LAKES 3038",
     "locID": "LOC000032040931",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419872063"
    }
   },
@@ -21826,8 +21826,8 @@
    "properties": {
     "name": "23 STURT COURT TAYLORS LAKES 3038",
     "locID": "LOC000017652393",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC419922002"
    }
   },
@@ -22200,8 +22200,8 @@
    "properties": {
     "name": "10 BLACKMAN CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000106320279",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC419927641"
    }
   },
@@ -22795,8 +22795,8 @@
    "properties": {
     "name": "2 HART PLACE TAYLORS LAKES 3038",
     "locID": "LOC000003669646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420009174"
    }
   },
@@ -23101,8 +23101,8 @@
    "properties": {
     "name": "14 PLENTY CLOSE TAYLORS LAKES 3038",
     "locID": "LOC000069053303",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420012837"
    }
   },
@@ -24376,8 +24376,8 @@
    "properties": {
     "name": "12 MOONIE CLOSE TAYLORS LAKES 3038",
     "locID": "LOC000069855503",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420030867"
    }
   },
@@ -24529,8 +24529,8 @@
    "properties": {
     "name": "11 SALVANA COURT TAYLORS LAKES 3038",
     "locID": "LOC000071896733",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420033451"
    }
   },
@@ -25906,8 +25906,8 @@
    "properties": {
     "name": "14 BURROWYE CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000002736901",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420137573"
    }
   },
@@ -28185,7 +28185,7 @@
     "name": "2 LASER COURT TAYLORS LAKES 3038",
     "locID": "LOC000002765460",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420156337"
    }
   },
@@ -28592,8 +28592,8 @@
    "properties": {
     "name": "8 KALBARRI COURT TAYLORS LAKES 3038",
     "locID": "LOC000081229820",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420159860"
    }
   },
@@ -29222,7 +29222,7 @@
     "name": "11 KERANG COURT TAYLORS LAKES 3038",
     "locID": "LOC000080462486",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420164167"
    }
   },
@@ -29239,7 +29239,7 @@
     "name": "3 LINDEN COURT TAYLORS LAKES 3038",
     "locID": "LOC000046325150",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420164192"
    }
   },
@@ -32927,8 +32927,8 @@
    "properties": {
     "name": "15 RIGBY COURT TAYLORS LAKES 3038",
     "locID": "LOC000063354323",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420215437"
    }
   },
@@ -33301,8 +33301,8 @@
    "properties": {
     "name": "11 MIDLAND WAY TAYLORS LAKES 3038",
     "locID": "LOC000009350223",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420229550"
    }
   },
@@ -34271,7 +34271,7 @@
     "name": "1 KINNAIRD COURT TAYLORS LAKES 3038",
     "locID": "LOC000086998696",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420321254"
    }
   },
@@ -34899,8 +34899,8 @@
    "properties": {
     "name": "6 SALVANA COURT TAYLORS LAKES 3038",
     "locID": "LOC000035174522",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420334329"
    }
   },
@@ -36531,8 +36531,8 @@
    "properties": {
     "name": "2 DRYSDALE AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000002845472",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420453047"
    }
   },
@@ -37551,8 +37551,8 @@
    "properties": {
     "name": "8 HANSLOW WAY TAYLORS LAKES 3038",
     "locID": "LOC000058248171",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420456664"
    }
   },
@@ -38265,8 +38265,8 @@
    "properties": {
     "name": "8 MACDONNELL COURT TAYLORS LAKES 3038",
     "locID": "LOC000031674723",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420457523"
    }
   },
@@ -38537,8 +38537,8 @@
    "properties": {
     "name": "32 AKMA COURT TAYLORS LAKES 3038",
     "locID": "LOC000104687467",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420458374"
    }
   },
@@ -38639,8 +38639,8 @@
    "properties": {
     "name": "21 RUTHERGLEN WAY TAYLORS LAKES 3038",
     "locID": "LOC000006845248",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420459364"
    }
   },
@@ -42006,7 +42006,7 @@
     "name": "14 EAGLE TERRACE TAYLORS LAKES 3038",
     "locID": "LOC000032665171",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420471651"
    }
   },
@@ -43110,8 +43110,8 @@
    "properties": {
     "name": "83 AUSTRALIA DRIVE TAYLORS LAKES 3038",
     "locID": "LOC000039017189",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420478181"
    }
   },
@@ -43892,8 +43892,8 @@
    "properties": {
     "name": "39 PERCEVAL CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000101192114",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420525410"
    }
   },
@@ -43994,8 +43994,8 @@
    "properties": {
     "name": "82 WELLESLEY DRIVE TAYLORS LAKES 3038",
     "locID": "LOC000040497305",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420528430"
    }
   },
@@ -44045,8 +44045,8 @@
    "properties": {
     "name": "20 LANDSBOURGH AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000001938191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420528589"
    }
   },
@@ -44062,8 +44062,8 @@
    "properties": {
     "name": "2 LANDSBOURGH AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000056195442",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420528590"
    }
   },
@@ -44470,8 +44470,8 @@
    "properties": {
     "name": "5 HART PLACE TAYLORS LAKES 3038",
     "locID": "LOC000092399698",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420603316"
    }
   },
@@ -44895,8 +44895,8 @@
    "properties": {
     "name": "3 ROWELL PLACE TAYLORS LAKES 3038",
     "locID": "LOC000091374328",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420613034"
    }
   },
@@ -45371,8 +45371,8 @@
    "properties": {
     "name": "40 RUTHERGLEN WAY TAYLORS LAKES 3038",
     "locID": "LOC000081417293",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420623996"
    }
   },
@@ -47717,8 +47717,8 @@
    "properties": {
     "name": "7 KESTREL COURT TAYLORS LAKES 3038",
     "locID": "LOC000048953678",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420748428"
    }
   },
@@ -48058,7 +48058,7 @@
     "name": "9 PARRAKEET COURT TAYLORS LAKES 3038",
     "locID": "LOC000042626210",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420751514"
    }
   },
@@ -48278,8 +48278,8 @@
    "properties": {
     "name": "8 LANDAU COURT TAYLORS LAKES 3038",
     "locID": "LOC000087740249",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC420754463"
    }
   },
@@ -49961,8 +49961,8 @@
    "properties": {
     "name": "4 DRYSDALE AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000081084230",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC420765708"
    }
   },
@@ -51525,8 +51525,8 @@
    "properties": {
     "name": "5 BURROWYE CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000105736575",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420770829"
    }
   },
@@ -52732,8 +52732,8 @@
    "properties": {
     "name": "15 BECKWITH COURT TAYLORS LAKES 3038",
     "locID": "LOC000077251533",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420773115"
    }
   },
@@ -54908,8 +54908,8 @@
    "properties": {
     "name": "14 LANDSBOURGH AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000087585245",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420839944"
    }
   },
@@ -56693,8 +56693,8 @@
    "properties": {
     "name": "4 PARR COURT TAYLORS LAKES 3038",
     "locID": "LOC000080997021",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC420934011"
    }
   },
@@ -57969,7 +57969,7 @@
     "name": "1 HENTY COURT TAYLORS LAKES 3038",
     "locID": "LOC000069845458",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421019523"
    }
   },
@@ -58784,8 +58784,8 @@
    "properties": {
     "name": "3 AKMA COURT TAYLORS LAKES 3038",
     "locID": "LOC000027148096",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421062150"
    }
   },
@@ -59447,8 +59447,8 @@
    "properties": {
     "name": "12 STREETON COURT TAYLORS LAKES 3038",
     "locID": "LOC000092743577",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421067376"
    }
   },
@@ -59957,8 +59957,8 @@
    "properties": {
     "name": "15 KAMO COURT TAYLORS LAKES 3038",
     "locID": "LOC000056669591",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421069242"
    }
   },
@@ -61045,8 +61045,8 @@
    "properties": {
     "name": "2 ENSIGN GROVE TAYLORS LAKES 3038",
     "locID": "LOC000101798688",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421072472"
    }
   },
@@ -63035,7 +63035,7 @@
     "name": "2 ROBERTSONS ROAD TAYLORS LAKES 3038",
     "locID": "LOC000074882985",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421078180"
    }
   },
@@ -63085,8 +63085,8 @@
    "properties": {
     "name": "19 BURROWYE CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000030258599",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421078719"
    }
   },
@@ -66179,8 +66179,8 @@
    "properties": {
     "name": "22 LANDSBOURGH AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000056195442",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421114468"
    }
   },
@@ -66621,8 +66621,8 @@
    "properties": {
     "name": "13 GOULBURN WAY TAYLORS LAKES 3038",
     "locID": "LOC000074193771",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421130038"
    }
   },
@@ -69715,8 +69715,8 @@
    "properties": {
     "name": "9 WANGANUI COURT TAYLORS LAKES 3038",
     "locID": "LOC000065909287",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421338753"
    }
   },
@@ -70531,8 +70531,8 @@
    "properties": {
     "name": "8 BOBBORA COURT TAYLORS LAKES 3038",
     "locID": "LOC000041478123",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421360953"
    }
   },
@@ -71041,8 +71041,8 @@
    "properties": {
     "name": "12 DRYSDALE AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000011108241",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421365937"
    }
   },
@@ -71636,8 +71636,8 @@
    "properties": {
     "name": "37 PINDARI AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000056650134",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421373796"
    }
   },
@@ -72214,8 +72214,8 @@
    "properties": {
     "name": "5 COMMODORE COURT TAYLORS LAKES 3038",
     "locID": "LOC000100359905",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421377390"
    }
   },
@@ -74118,8 +74118,8 @@
    "properties": {
     "name": "7 GRETAL COURT TAYLORS LAKES 3038",
     "locID": "LOC000006879879",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAVIC421391372"
    }
   },
@@ -75462,7 +75462,7 @@
     "name": "11 QUEEN VICTORIA CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000021169689",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421406359"
    }
   },
@@ -77314,8 +77314,8 @@
    "properties": {
     "name": "8 DERWENT COURT TAYLORS LAKES 3038",
     "locID": "LOC000065738777",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421422956"
    }
   },
@@ -78573,7 +78573,7 @@
     "name": "5 KINNAIRD COURT TAYLORS LAKES 3038",
     "locID": "LOC000090976075",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421509256"
    }
   },
@@ -80459,8 +80459,8 @@
    "properties": {
     "name": "2 TINTALDRA DRIVE TAYLORS LAKES 3038",
     "locID": "LOC000011040938",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421651181"
    }
   },
@@ -80544,8 +80544,8 @@
    "properties": {
     "name": "15 PINTAIL CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000101933461",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421655099"
    }
   },
@@ -80918,8 +80918,8 @@
    "properties": {
     "name": "38 PRINCE ALBERT CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000100167061",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421655930"
    }
   },
@@ -81615,8 +81615,8 @@
    "properties": {
     "name": "8 KAMO COURT TAYLORS LAKES 3038",
     "locID": "LOC000055165462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421661843"
    }
   },
@@ -81632,8 +81632,8 @@
    "properties": {
     "name": "11 KAMO COURT TAYLORS LAKES 3038",
     "locID": "LOC000098089400",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421661844"
    }
   },
@@ -85474,8 +85474,8 @@
    "properties": {
     "name": "4 WYPERFELD AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000008610473",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421692782"
    }
   },
@@ -86273,8 +86273,8 @@
    "properties": {
     "name": "57 PINDARI AVENUE TAYLORS LAKES 3038",
     "locID": "LOC000032959950",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421699310"
    }
   },
@@ -86919,8 +86919,8 @@
    "properties": {
     "name": "2 MAHON COURT TAYLORS LAKES 3038",
     "locID": "LOC000100070310",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421703359"
    }
   },
@@ -88143,8 +88143,8 @@
    "properties": {
     "name": "40 PERCEVAL CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000030268767",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421745737"
    }
   },
@@ -88279,8 +88279,8 @@
    "properties": {
     "name": "16 MIDLAND WAY TAYLORS LAKES 3038",
     "locID": "LOC000026162008",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAVIC421746485"
    }
   },
@@ -88857,8 +88857,8 @@
    "properties": {
     "name": "35 PERCEVAL CRESCENT TAYLORS LAKES 3038",
     "locID": "LOC000102599049",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC421768754"
    }
   },
@@ -106112,8 +106112,8 @@
    "properties": {
     "name": "1-3 EAGLE TERRACE TAYLORS LAKES 3038",
     "locID": "LOC000163313856",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAVIC720965232"
    }
   },
