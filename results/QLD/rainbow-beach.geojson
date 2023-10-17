@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T21:21:04.477133",
+ "generated": "2023-10-17T22:11:51.957643",
  "suburb": "RAINBOW BEACH",
  "features": [
   {
@@ -372,8 +372,8 @@
    "properties": {
     "name": "59 TINGIRA CLOSE RAINBOW BEACH 4581",
     "locID": "LOC000063273058",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155710356"
    }
   },
@@ -1239,8 +1239,8 @@
    "properties": {
     "name": "98 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000027474836",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155733444"
    }
   },
@@ -3483,8 +3483,8 @@
    "properties": {
     "name": "20 CYPRESS AVENUE RAINBOW BEACH 4581",
     "locID": "LOC100064416743",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157031068"
    }
   },
@@ -4010,8 +4010,8 @@
    "properties": {
     "name": "31 TINGIRA CLOSE RAINBOW BEACH 4581",
     "locID": "LOC000060722803",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157037681"
    }
   },
@@ -4095,8 +4095,8 @@
    "properties": {
     "name": "42 TINGIRA CLOSE RAINBOW BEACH 4581",
     "locID": "LOC000060722803",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157037686"
    }
   },
@@ -4452,8 +4452,8 @@
    "properties": {
     "name": "92 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000059804522",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158480943"
    }
   },
@@ -5380,6 +5380,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.08911466,
+     -25.91066516
+    ]
+   },
+   "properties": {
+    "name": "66 RAINBOW BEACH ROAD RAINBOW BEACH 4581",
+    "locID": "LOC000193838846",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD158503021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.09055009,
      -25.90705513
     ]
@@ -5421,8 +5438,8 @@
    "properties": {
     "name": "41 TINGIRA CLOSE RAINBOW BEACH 4581",
     "locID": "LOC000091282649",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158503024"
    }
   },
@@ -5540,8 +5557,8 @@
    "properties": {
     "name": "83 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000089856551",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158503031"
    }
   },
@@ -6509,8 +6526,8 @@
    "properties": {
     "name": "96 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000076422642",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158513068"
    }
   },
@@ -7393,8 +7410,8 @@
    "properties": {
     "name": "UNIT 2, 20 CYPRESS AVENUE RAINBOW BEACH 4581",
     "locID": "LOC100064416743",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158519530"
    }
   },
@@ -7410,8 +7427,8 @@
    "properties": {
     "name": "UNIT 3, 20 CYPRESS AVENUE RAINBOW BEACH 4581",
     "locID": "LOC100064416743",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158519531"
    }
   },
@@ -8481,8 +8498,8 @@
    "properties": {
     "name": "UNIT 1, 20 CYPRESS AVENUE RAINBOW BEACH 4581",
     "locID": "LOC100064416743",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158525220"
    }
   },
@@ -9280,8 +9297,8 @@
    "properties": {
     "name": "34 CYPRESS AVENUE RAINBOW BEACH 4581",
     "locID": "LOC000062546859",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158533810"
    }
   },
@@ -10947,7 +10964,7 @@
     "name": "30 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000098733519",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD160195112"
    }
   },
@@ -11355,7 +11372,7 @@
     "name": "103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160198381"
    }
   },
@@ -11847,8 +11864,8 @@
    "properties": {
     "name": "34 TINGIRA CLOSE RAINBOW BEACH 4581",
     "locID": "LOC000039484154",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160200800"
    }
   },
@@ -14822,8 +14839,8 @@
    "properties": {
     "name": "18 BOMBURRA COURT RAINBOW BEACH 4581",
     "locID": "LOC000047106512",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160232710"
    }
   },
@@ -14839,8 +14856,8 @@
    "properties": {
     "name": "20 BOMBURRA COURT RAINBOW BEACH 4581",
     "locID": "LOC000043514704",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160232711"
    }
   },
@@ -17305,7 +17322,7 @@
     "name": "UNIT 10, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000007722288",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653692"
    }
   },
@@ -17322,7 +17339,7 @@
     "name": "UNIT 11, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653693"
    }
   },
@@ -17339,7 +17356,7 @@
     "name": "UNIT 12, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653694"
    }
   },
@@ -17356,7 +17373,7 @@
     "name": "UNIT 13, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000007465990",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653695"
    }
   },
@@ -17373,7 +17390,7 @@
     "name": "UNIT 14, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653696"
    }
   },
@@ -17390,7 +17407,7 @@
     "name": "UNIT 1, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000007722288",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653697"
    }
   },
@@ -17407,7 +17424,7 @@
     "name": "UNIT 2, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653698"
    }
   },
@@ -17424,7 +17441,7 @@
     "name": "UNIT 3, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653699"
    }
   },
@@ -17441,7 +17458,7 @@
     "name": "UNIT 4, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000007722288",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653700"
    }
   },
@@ -17458,7 +17475,7 @@
     "name": "UNIT 5, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653701"
    }
   },
@@ -17475,7 +17492,7 @@
     "name": "UNIT 6, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653702"
    }
   },
@@ -17492,7 +17509,7 @@
     "name": "UNIT 7, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653703"
    }
   },
@@ -17509,7 +17526,7 @@
     "name": "UNIT 8, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653704"
    }
   },
@@ -17526,7 +17543,7 @@
     "name": "UNIT 9, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000007722288",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161653705"
    }
   },
@@ -18070,7 +18087,7 @@
     "name": "UNIT 15, 103 COOLOOLA DRIVE RAINBOW BEACH 4581",
     "locID": "LOC000181765715",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162345494"
    }
   },
@@ -25719,8 +25736,8 @@
    "properties": {
     "name": "UNIT 4, 20 CYPRESS AVENUE RAINBOW BEACH 4581",
     "locID": "LOC100064416743",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720329784"
    }
   },
