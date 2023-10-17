@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T18:09:02.258529",
+ "generated": "2023-10-17T18:54:40.030864",
  "suburb": "LOGANHOLME",
  "features": [
   {
@@ -151,8 +151,8 @@
    "properties": {
     "name": "9 LAKE BREEZE DRIVE LOGANHOLME 4129",
     "locID": "LOC000061400023",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155488346"
    }
   },
@@ -11153,6 +11153,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155495572"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155495608"
    }
   },
   {
@@ -30020,8 +30037,8 @@
    "properties": {
     "name": "2 LAKE BREEZE DRIVE LOGANHOLME 4129",
     "locID": "LOC000004911773",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158169634"
    }
   },
@@ -30717,8 +30734,8 @@
    "properties": {
     "name": "1 LAKE BREEZE DRIVE LOGANHOLME 4129",
     "locID": "LOC000109533329",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158184739"
    }
   },
@@ -43858,8 +43875,8 @@
    "properties": {
     "name": "25 EASY STREET LOGANHOLME 4129",
     "locID": "LOC000019192617",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162316157"
    }
   },
@@ -43960,8 +43977,8 @@
    "properties": {
     "name": "31 EASY STREET LOGANHOLME 4129",
     "locID": "LOC000043236032",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162316163"
    }
   },
@@ -44062,8 +44079,8 @@
    "properties": {
     "name": "37 EASY STREET LOGANHOLME 4129",
     "locID": "LOC000109884307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162316169"
    }
   },
@@ -48533,8 +48550,8 @@
    "properties": {
     "name": "12 LAKELAND COURT LOGANHOLME 4129",
     "locID": "LOC000102870229",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162856120"
    }
   },
@@ -48874,7 +48891,7 @@
     "name": "31 LAKELAND COURT LOGANHOLME 4129",
     "locID": "LOC000085643633",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162856140"
    }
   },
@@ -49043,8 +49060,8 @@
    "properties": {
     "name": "44 LAKELAND COURT LOGANHOLME 4129",
     "locID": "LOC000047981248",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162856150"
    }
   },
@@ -49723,8 +49740,8 @@
    "properties": {
     "name": "6 RIVER GUM COURT LOGANHOLME 4129",
     "locID": "LOC000075859073",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162860112"
    }
   },
@@ -50437,8 +50454,8 @@
    "properties": {
     "name": "68 RIVER PARK DRIVE LOGANHOLME 4129",
     "locID": "LOC000072749222",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162860154"
    }
   },
@@ -50505,8 +50522,8 @@
    "properties": {
     "name": "74 RIVER PARK DRIVE LOGANHOLME 4129",
     "locID": "LOC000036513956",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162860158"
    }
   },
@@ -62908,6 +62925,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 13, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720627536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.18058997,
      -27.6648382
     ]
@@ -63010,6 +63044,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 12, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720627543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.17956922,
      -27.66472312
     ]
@@ -63054,6 +63105,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720627546"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 4, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720627547"
    }
   },
   {
@@ -63197,6 +63265,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 10, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720627914"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.18637302,
      -27.66786186
     ]
@@ -63248,6 +63333,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 7, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720627918"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.17956922,
      -27.66472312
     ]
@@ -63275,6 +63377,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720627920"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 9, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720627921"
    }
   },
   {
@@ -63605,6 +63724,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 8, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720628331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.1795793,
      -27.66631377
     ]
@@ -63632,6 +63768,23 @@
     "tech": "HFC",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720628333"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 6, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720628334"
    }
   },
   {
@@ -63683,6 +63836,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720628337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 11, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720628338"
    }
   },
   {
@@ -63853,6 +64023,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720628693"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 5, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720628694"
    }
   },
   {
@@ -64608,6 +64795,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720629497"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.18279252,
      -27.66712201
     ]
@@ -64720,6 +64924,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720629504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720629505"
    }
   },
   {
@@ -65179,6 +65400,23 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720629888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.18713871,
+     -27.66906663
+    ]
+   },
+   "properties": {
+    "name": "UNIT 3, 30 TORRES STREET LOGANHOLME 4129",
+    "locID": "LOC000056513268",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720629889"
    }
   },
   {
