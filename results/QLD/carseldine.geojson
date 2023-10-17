@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T15:21:55.486082",
+ "generated": "2023-10-17T16:06:13.341436",
  "suburb": "CARSELDINE",
  "features": [
   {
@@ -5455,7 +5455,7 @@
    "properties": {
     "name": "5 COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000190116947",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155154377"
    }
@@ -5472,7 +5472,7 @@
    "properties": {
     "name": "52 COWIE ROAD CARSELDINE 4034",
     "locID": "ChIJhfpij83ik2sRrQ61yd51b_o",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155154378"
    }
@@ -5523,7 +5523,7 @@
    "properties": {
     "name": "6 COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724554",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155154382"
    }
@@ -17814,7 +17814,7 @@
    "properties": {
     "name": "10 COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724596",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155162039"
    }
@@ -30224,7 +30224,7 @@
    "properties": {
     "name": "12 COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724614",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156421171"
    }
@@ -31924,7 +31924,7 @@
    "properties": {
     "name": "9 COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724583",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156422939"
    }
@@ -54484,7 +54484,7 @@
     "name": "85 DANNENBERG STREET CARSELDINE 4034",
     "locID": "LOC000085917790",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163248820"
    }
   },
@@ -54687,8 +54687,8 @@
    "properties": {
     "name": "7 DARLINGTON CLOSE CARSELDINE 4034",
     "locID": "LOC000088206908",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163248834"
    }
   },
@@ -55350,8 +55350,8 @@
    "properties": {
     "name": "103 HIGHBRIDGE CIRCUIT CARSELDINE 4034",
     "locID": "LOC000038251160",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163249771"
    }
   },
@@ -55963,7 +55963,7 @@
     "name": "44 HIGHBRIDGE CIRCUIT CARSELDINE 4034",
     "locID": "LOC000001714815",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163249807"
    }
   },
@@ -56166,8 +56166,8 @@
    "properties": {
     "name": "58 HIGHBRIDGE CIRCUIT CARSELDINE 4034",
     "locID": "LOC000024097021",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163249819"
    }
   },
@@ -56915,7 +56915,7 @@
     "name": "21 LILLYDALE STREET CARSELDINE 4034",
     "locID": "LOC000017477136",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163250330"
    }
   },
@@ -57731,7 +57731,7 @@
     "name": "42 SINGLETON PLACE CARSELDINE 4034",
     "locID": "LOC000014214736",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163251263"
    }
   },
@@ -57747,8 +57747,8 @@
    "properties": {
     "name": "46 SINGLETON PLACE CARSELDINE 4034",
     "locID": "LOC000039885306",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163251264"
    }
   },
@@ -61589,7 +61589,7 @@
    "properties": {
     "name": "54 COWIE ROAD CARSELDINE 4034",
     "locID": "ChIJW25Xf83ik2sR4a8ngYLI_F8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425148462"
    }
@@ -74196,6 +74196,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.02846549,
+     -27.34899667
+    ]
+   },
+   "properties": {
+    "name": "39 ANGOPHORA STREET CARSELDINE 4034",
+    "locID": "ChIJ4ZrquMXik2sR3lFV6HoB_8M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD720977801"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.02809893,
      -27.34928754
     ]
@@ -75767,7 +75784,7 @@
    "properties": {
     "name": "42 COWIE ROAD CARSELDINE 4034",
     "locID": "ChIJlYLPm83ik2sRipZ91luNLG8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721081415"
    }
@@ -76331,6 +76348,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721146136"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02907205,
+     -27.35000279
+    ]
+   },
+   "properties": {
+    "name": "86 PROMENADE STREET CARSELDINE 4034",
+    "locID": "ChIJ-WKO0cXik2sRuNoftkzc7rI",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721146199"
    }
   },
   {
@@ -77307,6 +77341,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.02918387,
+     -27.35036076
+    ]
+   },
+   "properties": {
+    "name": "82 PROMENADE STREET CARSELDINE 4034",
+    "locID": "ChIJJcw-1MXik2sRPHunpWHtH0M",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721149313"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.02907205,
      -27.35000279
     ]
@@ -78232,7 +78283,7 @@
    "properties": {
     "name": "4B COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724549",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721228780"
    }
@@ -78266,7 +78317,7 @@
    "properties": {
     "name": "2B COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724520",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721228963"
    }
@@ -78300,7 +78351,7 @@
    "properties": {
     "name": "36 COWIE ROAD CARSELDINE 4034",
     "locID": "EiszNiBDb3dpZSBSZCwgQ2Fyc2VsZGluZSBRTEQgNDAzNCwgQXVzdHJhbGlhIjASLgoUChIJUTLRr83ik2sRow4AtzDcK0IQJCoUChIJY4VCbdLik2sR-SecfwlhZVw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721229154"
    }
@@ -78555,7 +78606,7 @@
    "properties": {
     "name": "6A COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724554",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721231162"
    }
@@ -78708,7 +78759,7 @@
    "properties": {
     "name": "4 COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724549",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721232550"
    }
@@ -78810,7 +78861,7 @@
    "properties": {
     "name": "2A COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724520",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721233324"
    }
@@ -78878,7 +78929,7 @@
    "properties": {
     "name": "48 COWIE ROAD CARSELDINE 4034",
     "locID": "Eis0OCBDb3dpZSBSZCwgQ2Fyc2VsZGluZSBRTEQgNDAzNCwgQXVzdHJhbGlhIjASLgoUChIJQyOTjs3ik2sRjmCAXJ01hfcQMCoUChIJY4VCbdLik2sR-SecfwlhZVw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721233591"
    }
@@ -79150,7 +79201,7 @@
    "properties": {
     "name": "2 COWIE ROAD CARSELDINE 4034",
     "locID": "LOC000189724520",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721235352"
    }
@@ -79272,6 +79323,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721263863"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02792686,
+     -27.35053598
+    ]
+   },
+   "properties": {
+    "name": "74 PROMENADE STREET CARSELDINE 4034",
+    "locID": "ChIJlQkjC8bik2sR2P7mzBwpGw0",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721266620"
    }
   },
   {
