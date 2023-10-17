@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T12:35:57.145288",
+ "generated": "2023-10-17T12:59:37.896323",
  "suburb": "ASHMORE",
  "features": [
   {
@@ -24020,7 +24020,7 @@
     "name": "21 BELLARA STREET ASHMORE 4214",
     "locID": "LOC000005771473",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155622791"
    }
   },
@@ -24309,7 +24309,7 @@
     "name": "15 RHIANNON DRIVE ASHMORE 4214",
     "locID": "LOC000105039048",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155637790"
    }
   },
@@ -25107,8 +25107,8 @@
    "properties": {
     "name": "35 RIVERWOOD DRIVE ASHMORE 4214",
     "locID": "LOC000073302620",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155649041"
    }
   },
@@ -45882,7 +45882,7 @@
     "name": "22 BELLARA STREET ASHMORE 4214",
     "locID": "LOC000097535992",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156227033"
    }
   },
@@ -45899,7 +45899,7 @@
     "name": "27 BELLARA STREET ASHMORE 4214",
     "locID": "LOC000081669337",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156227035"
    }
   },
@@ -59703,7 +59703,7 @@
     "name": "682 SOUTHPORT - NERANG ROAD ASHMORE 4214",
     "locID": "LOC000085486460",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156887124"
    }
   },
@@ -59720,7 +59720,7 @@
     "name": "684 SOUTHPORT - NERANG ROAD ASHMORE 4214",
     "locID": "LOC000039535571",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156887125"
    }
   },
@@ -59771,7 +59771,7 @@
     "name": "690 SOUTHPORT - NERANG ROAD ASHMORE 4214",
     "locID": "LOC000058883940",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156890728"
    }
   },
@@ -115846,6 +115846,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.389663,
+     -27.984949
+    ]
+   },
+   "properties": {
+    "name": "UNIT 34, 74 WARDOO STREET ASHMORE 4214",
+    "locID": "LOC000160727999",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720928056"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.389343,
      -27.984413
     ]
@@ -115856,23 +115873,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720928608"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.389373,
-     -27.984102
-    ]
-   },
-   "properties": {
-    "name": "UNIT 34, 74 WARDOO STREET ASHMORE 4214",
-    "locID": "LOC000160727999",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720928787"
    }
   },
   {

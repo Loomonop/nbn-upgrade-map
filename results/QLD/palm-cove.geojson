@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T12:50:51.126210",
+ "generated": "2023-10-17T13:16:31.687037",
  "suburb": "PALM COVE",
  "features": [
   {
@@ -49,8 +49,8 @@
    "properties": {
     "name": "22 THAIS STREET PALM COVE 4879",
     "locID": "LOC000087319379",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155679791"
    }
   },
@@ -559,8 +559,8 @@
    "properties": {
     "name": "19 VEIVERS ROAD PALM COVE 4879",
     "locID": "LOC000097083688",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155696637"
    }
   },
@@ -1307,8 +1307,8 @@
    "properties": {
     "name": "79 VEIVERS ROAD PALM COVE 4879",
     "locID": "LOC000105780387",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155701294"
    }
   },
@@ -2888,8 +2888,8 @@
    "properties": {
     "name": "40 VEIVERS ROAD PALM COVE 4879",
     "locID": "LOC000029863783",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157000963"
    }
   },
@@ -3194,8 +3194,8 @@
    "properties": {
     "name": "37 TEREBRA STREET PALM COVE 4879",
     "locID": "LOC000075292766",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157007299"
    }
   },
@@ -12537,74 +12537,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.66303777,
-     -16.74952801
-    ]
-   },
-   "properties": {
-    "name": "LOT 232 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjMyMzIgQ2FwdGFpbiBDb29rIEh3eSwgUGFsbSBDb3ZlIFFMRCA0ODc5LCBBdXN0cmFsaWEiMRIvChQKEglpU13OBnJ4aRESq5UapRMn7xDoASoUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094415"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66339006,
-     -16.7463569
-    ]
-   },
-   "properties": {
-    "name": "LOT 26 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjIyNiBDYXB0YWluIENvb2sgSHd5LCBQYWxtIENvdmUgUUxEIDQ4NzksIEF1c3RyYWxpYSIwEi4KFAoSCdlTw9kFcnhpEc34FVuLY9JOEBoqFAoSCe0wl2qhdHhpESOvDmnkV930",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094419"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.6649548,
-     -16.73792183
-    ]
-   },
-   "properties": {
-    "name": "LOT 29 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjIyOSBDYXB0YWluIENvb2sgSHd5LCBQYWxtIENvdmUgUUxEIDQ4NzksIEF1c3RyYWxpYSIwEi4KFAoSCdlTw9kFcnhpEc34FVuLY9JOEB0qFAoSCe0wl2qhdHhpESOvDmnkV930",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094422"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66183862,
-     -16.75115513
-    ]
-   },
-   "properties": {
-    "name": "LOT 3 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjEzIENhcHRhaW4gQ29vayBId3ksIFBhbG0gQ292ZSBRTEQgNDg3OSwgQXVzdHJhbGlhIjASLgoUChIJ2VPD2QVyeGkRzfgVW4tj0k4QAyoUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094433"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.6634025,
      -16.7465145
     ]
@@ -12615,57 +12547,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161094444"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66222136,
-     -16.74879963
-    ]
-   },
-   "properties": {
-    "name": "LOT 5 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjE1IENhcHRhaW4gQ29vayBId3ksIFBhbG0gQ292ZSBRTEQgNDg3OSwgQXVzdHJhbGlhIjASLgoUChIJ2VPD2QVyeGkRzfgVW4tj0k4QBSoUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094455"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66199355,
-     -16.74969096
-    ]
-   },
-   "properties": {
-    "name": "LOT 6 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjE2IENhcHRhaW4gQ29vayBId3ksIFBhbG0gQ292ZSBRTEQgNDg3OSwgQXVzdHJhbGlhIjASLgoUChIJ2VPD2QVyeGkRzfgVW4tj0k4QBioUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094466"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66336079,
-     -16.7376558
-    ]
-   },
-   "properties": {
-    "name": "LOT 7 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjE3IENhcHRhaW4gQ29vayBId3ksIFBhbG0gQ292ZSBRTEQgNDg3OSwgQXVzdHJhbGlhIjASLgoUChIJ2VPD2QVyeGkRzfgVW4tj0k4QByoUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094477"
    }
   },
   {
@@ -13037,8 +12918,8 @@
    "properties": {
     "name": "97 CEDAR ROAD PALM COVE 4879",
     "locID": "LOC000093553324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161365610"
    }
   },
@@ -14601,8 +14482,8 @@
    "properties": {
     "name": "22 SAVANNAH STREET PALM COVE 4879",
     "locID": "LOC000055313554",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161797437"
    }
   },
@@ -16991,23 +16872,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.66160859,
-     -16.75218556
-    ]
-   },
-   "properties": {
-    "name": "LOT 996 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjM5OTYgQ2FwdGFpbiBDb29rIEh3eSwgUGFsbSBDb3ZlIFFMRCA0ODc5LCBBdXN0cmFsaWEiMRIvChQKEgm__7IhD3J4aRFpR7Fbp1TiXxDkByoUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162015924"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.65850797,
      -16.7545764
     ]
@@ -17593,8 +17457,8 @@
    "properties": {
     "name": "21 SAVANNAH STREET PALM COVE 4879",
     "locID": "LOC000086113074",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162064204"
    }
   },
@@ -20194,8 +20058,8 @@
    "properties": {
     "name": "14 RETREAT CLOSE PALM COVE 4879",
     "locID": "LOC000106649831",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162308446"
    }
   },
@@ -20381,8 +20245,8 @@
    "properties": {
     "name": "12 SECLUSION DRIVE PALM COVE 4879",
     "locID": "LOC000064073277",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162309837"
    }
   },
@@ -26569,8 +26433,8 @@
    "properties": {
     "name": "13 SAVANNAH STREET PALM COVE 4879",
     "locID": "LOC000055313554",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162458468"
    }
   },
@@ -26655,7 +26519,7 @@
     "name": "4 LATANIA CLOSE PALM COVE 4879",
     "locID": "LOC000183579146",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162617208"
    }
   },
@@ -27623,8 +27487,8 @@
    "properties": {
     "name": "11 LILLIAN ROAD PALM COVE 4879",
     "locID": "LOC000024936016",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162675233"
    }
   },
@@ -27691,8 +27555,8 @@
    "properties": {
     "name": "3 LILLIAN ROAD PALM COVE 4879",
     "locID": "LOC000078044991",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162675237"
    }
   },
@@ -30972,8 +30836,8 @@
    "properties": {
     "name": "17 AURELIA ROAD PALM COVE 4879",
     "locID": "LOC000009375488",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162950473"
    }
   },
@@ -31142,8 +31006,8 @@
    "properties": {
     "name": "29 AURELIA ROAD PALM COVE 4879",
     "locID": "LOC000010873431",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162950483"
    }
   },
@@ -31245,7 +31109,7 @@
     "name": "41 AURELIA ROAD PALM COVE 4879",
     "locID": "LOC000013548174",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162950489"
    }
   },
@@ -31366,23 +31230,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162950497"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66323207,
-     -16.75488344
-    ]
-   },
-   "properties": {
-    "name": "LOT 179 CAPTAIN COOK HIGHWAY PALM COVE 4879",
-    "locID": "EjMxNzkgQ2FwdGFpbiBDb29rIEh3eSwgUGFsbSBDb3ZlIFFMRCA0ODc5LCBBdXN0cmFsaWEiMRIvChQKEglpU13OBnJ4aRESq5UapRMn7xCzASoUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162952018"
    }
   },
   {
@@ -31788,8 +31635,8 @@
    "properties": {
     "name": "11 KURT CLOSE PALM COVE 4879",
     "locID": "LOC000019166680",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162957407"
    }
   },
@@ -40441,8 +40288,8 @@
    "properties": {
     "name": "20-22 FOLEY ROAD PALM COVE 4879",
     "locID": "LOC000129837148",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425425776"
    }
   },
@@ -41393,8 +41240,8 @@
    "properties": {
     "name": "8 LITARA COURT PALM COVE 4879",
     "locID": "LOC000004067997",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719125889"
    }
   },
