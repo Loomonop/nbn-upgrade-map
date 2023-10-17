@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T09:12:19.928359",
+ "generated": "2023-10-17T09:37:25.493551",
  "suburb": "BRACKEN RIDGE",
  "features": [
   {
@@ -14057,8 +14057,8 @@
    "properties": {
     "name": "13 SPRINGER PLACE BRACKEN RIDGE 4017",
     "locID": "LOC000011604864",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155052071"
    }
   },
@@ -14142,8 +14142,8 @@
    "properties": {
     "name": "19 SPRINGER PLACE BRACKEN RIDGE 4017",
     "locID": "LOC000050238186",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155052076"
    }
   },
@@ -14465,8 +14465,8 @@
    "properties": {
     "name": "1 SHEAFFE STREET BRACKEN RIDGE 4017",
     "locID": "LOC000080554097",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155052116"
    }
   },
@@ -15333,7 +15333,7 @@
     "name": "8 SPRINGER PLACE BRACKEN RIDGE 4017",
     "locID": "LOC000009963731",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155052182"
    }
   },
@@ -22608,8 +22608,8 @@
    "properties": {
     "name": "14 SIERRA STREET BRACKEN RIDGE 4017",
     "locID": "LOC000106724033",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155054004"
    }
   },
@@ -22659,8 +22659,8 @@
    "properties": {
     "name": "17 SIERRA STREET BRACKEN RIDGE 4017",
     "locID": "LOC000004976130",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155054007"
    }
   },
@@ -22727,8 +22727,8 @@
    "properties": {
     "name": "6 SIERRA STREET BRACKEN RIDGE 4017",
     "locID": "LOC000064513537",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155054011"
    }
   },
@@ -27079,8 +27079,8 @@
    "properties": {
     "name": "131 DENHAM STREET BRACKEN RIDGE 4017",
     "locID": "LOC000023648181",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155055755"
    }
   },
@@ -30584,6 +30584,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155056631"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.03186259,
+     -27.31062822
+    ]
+   },
+   "properties": {
+    "name": "367 BRACKEN RIDGE ROAD BRACKEN RIDGE 4017",
+    "locID": "LOC000193824364",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155056632"
    }
   },
   {
@@ -35028,6 +35045,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.03038677,
+     -27.3152336
+    ]
+   },
+   "properties": {
+    "name": "86 GAWAIN ROAD BRACKEN RIDGE 4017",
+    "locID": "ChIJ04v15Djjk2sRqinlqx4RDLU",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155057610"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.03288147,
      -27.31331173
     ]
@@ -37704,8 +37738,8 @@
    "properties": {
     "name": "16 GREENDALE PLACE BRACKEN RIDGE 4017",
     "locID": "LOC000064346243",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155058356"
    }
   },
@@ -37738,8 +37772,8 @@
    "properties": {
     "name": "20 GREENDALE PLACE BRACKEN RIDGE 4017",
     "locID": "LOC000030719502",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155058359"
    }
   },
@@ -40424,8 +40458,8 @@
    "properties": {
     "name": "17 BROOKVALE PLACE BRACKEN RIDGE 4017",
     "locID": "LOC000054548860",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155058566"
    }
   },
@@ -40832,8 +40866,8 @@
    "properties": {
     "name": "59 BERESFORD CIRCUIT BRACKEN RIDGE 4017",
     "locID": "LOC000079583357",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155059214"
    }
   },
@@ -44402,8 +44436,8 @@
    "properties": {
     "name": "14 ELM CRESCENT BRACKEN RIDGE 4017",
     "locID": "LOC000096033834",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155059465"
    }
   },
@@ -44555,8 +44589,8 @@
    "properties": {
     "name": "31 ELM CRESCENT BRACKEN RIDGE 4017",
     "locID": "LOC000049282261",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155059475"
    }
   },
@@ -45133,8 +45167,8 @@
    "properties": {
     "name": "1 WOODLAND CLOSE BRACKEN RIDGE 4017",
     "locID": "LOC000027393147",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155059612"
    }
   },
@@ -45167,8 +45201,8 @@
    "properties": {
     "name": "12 WOODLAND CLOSE BRACKEN RIDGE 4017",
     "locID": "LOC000051248184",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155059614"
    }
   },
@@ -45218,8 +45252,8 @@
    "properties": {
     "name": "4 WOODLAND CLOSE BRACKEN RIDGE 4017",
     "locID": "LOC000008639500",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155059617"
    }
   },
@@ -45286,8 +45320,8 @@
    "properties": {
     "name": "9 WOODLAND CLOSE BRACKEN RIDGE 4017",
     "locID": "LOC000096474098",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155059621"
    }
   },
@@ -59566,8 +59600,8 @@
    "properties": {
     "name": "6 WOODLAND CLOSE BRACKEN RIDGE 4017",
     "locID": "LOC000024977161",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156025558"
    }
   },
@@ -63085,8 +63119,8 @@
    "properties": {
     "name": "14 WOODLAND CLOSE BRACKEN RIDGE 4017",
     "locID": "LOC000083999856",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156053708"
    }
   },
@@ -64173,8 +64207,8 @@
    "properties": {
     "name": "52 QUINLAN STREET BRACKEN RIDGE 4017",
     "locID": "LOC000018297083",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156301217"
    }
   },
@@ -64258,8 +64292,8 @@
    "properties": {
     "name": "62 QUINLAN STREET BRACKEN RIDGE 4017",
     "locID": "LOC000073367015",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156301223"
    }
   },
@@ -68644,8 +68678,8 @@
    "properties": {
     "name": "125 DENHAM STREET BRACKEN RIDGE 4017",
     "locID": "LOC000027533855",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156307069"
    }
   },
@@ -68695,8 +68729,8 @@
    "properties": {
     "name": "137 DENHAM STREET BRACKEN RIDGE 4017",
     "locID": "LOC000053318492",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156307075"
    }
   },
@@ -69035,8 +69069,8 @@
    "properties": {
     "name": "4 CALOGERO DRIVE BRACKEN RIDGE 4017",
     "locID": "LOC000037468463",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156307106"
    }
   },
@@ -70905,8 +70939,8 @@
    "properties": {
     "name": "29 ELM CRESCENT BRACKEN RIDGE 4017",
     "locID": "LOC000102685776",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156308045"
    }
   },
@@ -75257,8 +75291,8 @@
    "properties": {
     "name": "113 DENHAM STREET BRACKEN RIDGE 4017",
     "locID": "LOC000087517849",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156310684"
    }
   },
@@ -75275,7 +75309,7 @@
     "name": "18 FORESTLEA STREET BRACKEN RIDGE 4017",
     "locID": "LOC000068899232",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156310685"
    }
   },
@@ -79949,8 +79983,8 @@
    "properties": {
     "name": "8 SIERRA STREET BRACKEN RIDGE 4017",
     "locID": "LOC000089303136",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156315076"
    }
   },
@@ -81463,7 +81497,7 @@
     "name": "2 PENNY STREET BRACKEN RIDGE 4017",
     "locID": "LOC000097561716",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157583643"
    }
   },
@@ -99822,8 +99856,8 @@
    "properties": {
     "name": "96 BARRETT STREET BRACKEN RIDGE 4017",
     "locID": "LOC000097460624",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162120421"
    }
   },
@@ -111450,8 +111484,8 @@
    "properties": {
     "name": "59 DARRAGH STREET BRACKEN RIDGE 4017",
     "locID": "LOC000152708752",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD425119379"
    }
   },
@@ -112028,8 +112062,8 @@
    "properties": {
     "name": "55 ELM CRESCENT BRACKEN RIDGE 4017",
     "locID": "LOC000152709800",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425542535"
    }
   },
@@ -112045,8 +112079,8 @@
    "properties": {
     "name": "57 ELM CRESCENT BRACKEN RIDGE 4017",
     "locID": "LOC000152709816",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425542536"
    }
   },
@@ -112062,8 +112096,8 @@
    "properties": {
     "name": "59 ELM CRESCENT BRACKEN RIDGE 4017",
     "locID": "LOC000152709828",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425542537"
    }
   },
@@ -112096,8 +112130,8 @@
    "properties": {
     "name": "7 SHEAFFE STREET BRACKEN RIDGE 4017",
     "locID": "LOC000152709885",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425594646"
    }
   },
