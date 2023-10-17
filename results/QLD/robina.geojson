@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T10:18:50.372701",
+ "generated": "2023-10-17T10:45:25.835327",
  "suburb": "ROBINA",
  "features": [
   {
@@ -287,8 +287,8 @@
    "properties": {
     "name": "13 APPLEGUM COURT ROBINA 4226",
     "locID": "LOC000032778082",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155737673"
    }
   },
@@ -321,8 +321,8 @@
    "properties": {
     "name": "16 APPLEGUM COURT ROBINA 4226",
     "locID": "LOC000094826831",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155737675"
    }
   },
@@ -457,8 +457,8 @@
    "properties": {
     "name": "4 APPLEGUM COURT ROBINA 4226",
     "locID": "LOC000026774474",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155737684"
    }
   },
@@ -1630,8 +1630,8 @@
    "properties": {
     "name": "51 OLYMPUS DRIVE ROBINA 4226",
     "locID": "LOC000019146322",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155737971"
    }
   },
@@ -4010,26 +4010,9 @@
    "properties": {
     "name": "71 OLYMPUS DRIVE ROBINA 4226",
     "locID": "LOC000094545001",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155739778"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39830909,
-     -28.07922877
-    ]
-   },
-   "properties": {
-    "name": "72 OLYMPUS DRIVE ROBINA 4226",
-    "locID": "LOC000018190642",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155739779"
    }
   },
   {
@@ -5982,8 +5965,8 @@
    "properties": {
     "name": "9 LAUREL OAK DRIVE ROBINA 4226",
     "locID": "LOC000100189528",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155747972"
    }
   },
@@ -6315,23 +6298,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39205947,
-     -28.089078
-    ]
-   },
-   "properties": {
-    "name": "1 PROTEA COURT ROBINA 4226",
-    "locID": "LOC000066008179",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155747998"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.39229602,
      -28.09019158
     ]
@@ -6376,23 +6342,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155748001"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39151938,
-     -28.08988113
-    ]
-   },
-   "properties": {
-    "name": "13 PROTEA COURT ROBINA 4226",
-    "locID": "LOC000066008179",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155748002"
    }
   },
   {
@@ -10555,8 +10504,8 @@
    "properties": {
     "name": "18 FAN ROAD ROBINA 4226",
     "locID": "LOC000007495516",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155750573"
    }
   },
@@ -10572,8 +10521,8 @@
    "properties": {
     "name": "20 FAN ROAD ROBINA 4226",
     "locID": "LOC000085784324",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155750574"
    }
   },
@@ -12445,23 +12394,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155751551"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39585607,
-     -28.08062632
-    ]
-   },
-   "properties": {
-    "name": "13 OLYMPUS DRIVE ROBINA 4226",
-    "locID": "LOC000054855039",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155751552"
    }
   },
   {
@@ -14890,8 +14822,8 @@
    "properties": {
     "name": "1 ABBEYTREE COURT ROBINA 4226",
     "locID": "LOC000001661751",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155752675"
    }
   },
@@ -15172,23 +15104,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39991369,
-     -28.07877683
-    ]
-   },
-   "properties": {
-    "name": "1 SCOTS PLACE ROBINA 4226",
-    "locID": "LOC000080970798",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155753386"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.39920338,
      -28.0789653
     ]
@@ -15301,40 +15216,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155753399"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39961418,
-     -28.07889945
-    ]
-   },
-   "properties": {
-    "name": "7 SCOTS PLACE ROBINA 4226",
-    "locID": "LOC000080970798",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155753400"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.40017935,
-     -28.07949493
-    ]
-   },
-   "properties": {
-    "name": "8 SCOTS PLACE ROBINA 4226",
-    "locID": "LOC000039147485",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155753401"
    }
   },
   {
@@ -17076,23 +16957,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39725348,
-     -28.0606013
-    ]
-   },
-   "properties": {
-    "name": "18 DONCASTER COURT ROBINA 4226",
-    "locID": "EisxOCBEb25jYXN0ZXIgQ3QsIFJvYmluYSBRTEQgNDIyNiwgQXVzdHJhbGlhIjASLgoUChIJ-wcvi6kEkWsR3shvIVhnr9MQEioUChIJOR0ok6kEkWsRY4Nx2OwU51Q",
-    "tech": "HFC",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD155754310"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.39918409,
      -28.06084429
     ]
@@ -17188,23 +17052,6 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155754323"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39261907,
-     -28.09016977
-    ]
-   },
-   "properties": {
-    "name": "11 LANCEWOOD CIRCUIT ROBINA 4226",
-    "locID": "LOC000050746822",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155754324"
    }
   },
   {
@@ -17545,40 +17392,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155754360"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39549328,
-     -28.09013079
-    ]
-   },
-   "properties": {
-    "name": "35 LANCEWOOD CIRCUIT ROBINA 4226",
-    "locID": "LOC000062773079",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155754361"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.3956945,
-     -28.09002204
-    ]
-   },
-   "properties": {
-    "name": "37 LANCEWOOD CIRCUIT ROBINA 4226",
-    "locID": "LOC000082691352",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155754363"
    }
   },
   {
@@ -25091,7 +24904,7 @@
     "name": "27 CEDARWOOD CRESCENT ROBINA 4226",
     "locID": "LOC000106025603",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155756241"
    }
   },
@@ -25481,8 +25294,8 @@
    "properties": {
     "name": "26 MIKADO WAY ROBINA 4226",
     "locID": "LOC000083951201",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155756286"
    }
   },
@@ -28704,23 +28517,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.40059716,
-     -28.07895989
-    ]
-   },
-   "properties": {
-    "name": "2 ROYAL LINKS DRIVE ROBINA 4226",
-    "locID": "LOC000090127190",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155757996"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.39851047,
      -28.07902467
     ]
@@ -29000,8 +28796,8 @@
    "properties": {
     "name": "11 SOLITAIRE PLACE ROBINA 4226",
     "locID": "LOC000084931001",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155758051"
    }
   },
@@ -31883,40 +31679,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39643978,
-     -28.08911728
-    ]
-   },
-   "properties": {
-    "name": "22 EUGENIA CIRCUIT ROBINA 4226",
-    "locID": "LOC000106158521",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155759834"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39658756,
-     -28.08867908
-    ]
-   },
-   "properties": {
-    "name": "26 EUGENIA CIRCUIT ROBINA 4226",
-    "locID": "LOC000106158521",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155759836"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.39758231,
      -28.0884731
     ]
@@ -31944,23 +31706,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155759838"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39672852,
-     -28.08827612
-    ]
-   },
-   "properties": {
-    "name": "31 EUGENIA CIRCUIT ROBINA 4226",
-    "locID": "LOC000096295723",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155759840"
    }
   },
   {
@@ -32060,7 +31805,7 @@
    "properties": {
     "name": "27 MOUNTAIN ASH CIRCUIT ROBINA 4226",
     "locID": "LOC000028180927",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155759860"
    }
@@ -34678,8 +34423,8 @@
    "properties": {
     "name": "7 SOLITAIRE PLACE ROBINA 4226",
     "locID": "LOC000107145462",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155760879"
    }
   },
@@ -37415,8 +37160,8 @@
    "properties": {
     "name": "6 CARPENTARIA COURT ROBINA 4226",
     "locID": "LOC000064053939",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155762495"
    }
   },
@@ -37809,23 +37554,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155762569"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39473362,
-     -28.08619235
-    ]
-   },
-   "properties": {
-    "name": "17 PEPPERTREE CIRCUIT ROBINA 4226",
-    "locID": "LOC000079847889",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155762570"
    }
   },
   {
@@ -41206,8 +40934,8 @@
    "properties": {
     "name": "11 BELLA DONNA PLACE ROBINA 4226",
     "locID": "LOC000104897330",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155764541"
    }
   },
@@ -45014,8 +44742,8 @@
    "properties": {
     "name": "4 FAN ROAD ROBINA 4226",
     "locID": "LOC000059980071",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156031324"
    }
   },
@@ -45510,23 +45238,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156031463"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39047202,
-     -28.08761714
-    ]
-   },
-   "properties": {
-    "name": "3 LAUREL OAK DRIVE ROBINA 4226",
-    "locID": "LOC000031551411",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156031465"
    }
   },
   {
@@ -47089,7 +46800,7 @@
     "name": "9 BINKAR BOULEVARD ROBINA 4226",
     "locID": "LOC000050491452",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156050528"
    }
   },
@@ -48074,8 +47785,8 @@
    "properties": {
     "name": "8 NYPA CLOSE ROBINA 4226",
     "locID": "LOC000007763378",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156076183"
    }
   },
@@ -48516,8 +48227,8 @@
    "properties": {
     "name": "15 APPLEGUM COURT ROBINA 4226",
     "locID": "LOC000081839671",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156082465"
    }
   },
@@ -64632,8 +64343,8 @@
    "properties": {
     "name": "8 STRAITE DRIVE ROBINA 4226",
     "locID": "LOC000060266196",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157066959"
    }
   },
@@ -68287,8 +67998,8 @@
    "properties": {
     "name": "36 GLENSIDE DRIVE ROBINA 4226",
     "locID": "LOC000098624989",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157070571"
    }
   },
@@ -74135,8 +73846,8 @@
    "properties": {
     "name": "27 GOLDWATER DRIVE ROBINA 4226",
     "locID": "LOC000050918023",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157077568"
    }
   },
@@ -95266,8 +94977,8 @@
    "properties": {
     "name": "75A OLYMPUS DRIVE ROBINA 4226",
     "locID": "LOC000010720425",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158552943"
    }
   },
@@ -103205,8 +102916,8 @@
    "properties": {
     "name": "11 WILD FIRE COURT ROBINA 4226",
     "locID": "LOC000018216953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158566041"
    }
   },
@@ -114877,23 +114588,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.40035048,
-     -28.07910125
-    ]
-   },
-   "properties": {
-    "name": "4 SCOTS PLACE ROBINA 4226",
-    "locID": "LOC000080970798",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD160731089"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.40335529,
      -28.07716714
     ]
@@ -116992,8 +116686,8 @@
    "properties": {
     "name": "43 GREAT SOUTHERN DRIVE ROBINA 4226",
     "locID": "LOC000105451751",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160973828"
    }
   },
@@ -117315,8 +117009,8 @@
    "properties": {
     "name": "16 LACERTA AVENUE ROBINA 4226",
     "locID": "LOC000061538168",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160976696"
    }
   },
@@ -118965,7 +118659,7 @@
     "name": "198 EASTHILL DRIVE ROBINA 4226",
     "locID": "LOC000095314803",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161012757"
    }
   },
@@ -124754,23 +124448,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39064196,
-     -28.08714432
-    ]
-   },
-   "properties": {
-    "name": "LOT 9999 LAUREL OAK DRIVE ROBINA 4226",
-    "locID": "LOC000031551411",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161209916"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.37864558,
      -28.07502206
     ]
@@ -124847,7 +124524,7 @@
     "name": "810 LEGEND TRAIL ROBINA 4226",
     "locID": "LOC000155745824",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161211144"
    }
   },
@@ -126216,23 +125893,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39478874,
-     -28.08574577
-    ]
-   },
-   "properties": {
-    "name": "LOT 9999 PEPPERTREE CIRCUIT ROBINA 4226",
-    "locID": "LOC000029848821",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161275221"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.4112269,
      -28.07372528
     ]
@@ -126379,23 +126039,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161282360"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39251354,
-     -28.09042998
-    ]
-   },
-   "properties": {
-    "name": "LOT 9999 PROTEA COURT ROBINA 4226",
-    "locID": "LOC000023533915",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161282361"
    }
   },
   {
@@ -128868,23 +128511,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.40957469,
-     -28.07676843
-    ]
-   },
-   "properties": {
-    "name": "17 THE LINKS ROBINA 4226",
-    "locID": "LOC000015846122",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161328505"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.40950406,
      -28.07660373
     ]
@@ -129004,23 +128630,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.40932184,
-     -28.0763156
-    ]
-   },
-   "properties": {
-    "name": "25 THE LINKS ROBINA 4226",
-    "locID": "LOC000026549141",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161328513"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.40883656,
      -28.07660318
     ]
@@ -129062,8 +128671,8 @@
    "properties": {
     "name": "2 THE LINKS ROBINA 4226",
     "locID": "LOC000103879191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161328516"
    }
   },
@@ -129099,23 +128708,6 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161328518"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.40893511,
-     -28.0777177
-    ]
-   },
-   "properties": {
-    "name": "3 THE LINKS ROBINA 4226",
-    "locID": "LOC000039816787",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD161328519"
    }
   },
   {
@@ -130865,7 +130457,7 @@
     "name": "255 EASTHILL DRIVE ROBINA 4226",
     "locID": "LOC000086059027",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161375511"
    }
   },
@@ -135233,8 +134825,8 @@
    "properties": {
     "name": "45 HEIGHTS DRIVE ROBINA 4226",
     "locID": "LOC000034687548",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161956232"
    }
   },
@@ -135284,8 +134876,8 @@
    "properties": {
     "name": "48 HEIGHTS DRIVE ROBINA 4226",
     "locID": "LOC000019126033",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161956235"
    }
   },
@@ -145392,23 +144984,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     153.39278237,
-     -28.09061076
-    ]
-   },
-   "properties": {
-    "name": "4 ACORN LANE ROBINA 4226",
-    "locID": "LOC000035923213",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162460212"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      153.38150569,
      -28.07907159
     ]
@@ -152474,23 +152049,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162832529"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.39284218,
-     -28.09226189
-    ]
-   },
-   "properties": {
-    "name": "287 SCOTTSDALE DRIVE ROBINA 4226",
-    "locID": "LOC000127373004",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD162832530"
    }
   },
   {
@@ -170848,8 +170406,8 @@
    "properties": {
     "name": "900 MEDINAH AVENUE ROBINA 4226",
     "locID": "LOC000127362329",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD425058057"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T10:41:37.731900",
+ "generated": "2023-10-17T11:06:48.579681",
  "suburb": "MANUNDA",
  "features": [
   {
@@ -1834,8 +1834,8 @@
    "properties": {
     "name": "35 ENGLISH STREET MANUNDA 4870",
     "locID": "LOC000056471870",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155519828"
    }
   },
@@ -2344,8 +2344,8 @@
    "properties": {
     "name": "5 TULIP CLOSE MANUNDA 4870",
     "locID": "LOC000030646473",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520457"
    }
   },
@@ -2514,8 +2514,8 @@
    "properties": {
     "name": "102 HOARE STREET MANUNDA 4870",
     "locID": "LOC000034799227",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520516"
    }
   },
@@ -2582,8 +2582,8 @@
    "properties": {
     "name": "108 HOARE STREET MANUNDA 4870",
     "locID": "LOC000027341871",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520521"
    }
   },
@@ -2667,8 +2667,8 @@
    "properties": {
     "name": "11 BARLOW STREET MANUNDA 4870",
     "locID": "LOC000103005790",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520864"
    }
   },
@@ -2702,7 +2702,7 @@
     "name": "13 BARLOW STREET MANUNDA 4870",
     "locID": "LOC000041770059",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155520866"
    }
   },
@@ -2718,8 +2718,8 @@
    "properties": {
     "name": "14 BARLOW STREET MANUNDA 4870",
     "locID": "LOC000033306473",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520867"
    }
   },
@@ -2735,8 +2735,8 @@
    "properties": {
     "name": "2 BARLOW STREET MANUNDA 4870",
     "locID": "LOC000025688541",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520868"
    }
   },
@@ -2752,8 +2752,8 @@
    "properties": {
     "name": "3 BARLOW STREET MANUNDA 4870",
     "locID": "LOC000109973887",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520869"
    }
   },
@@ -2786,8 +2786,8 @@
    "properties": {
     "name": "5 BARLOW STREET MANUNDA 4870",
     "locID": "LOC000098570479",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155520871"
    }
   },
@@ -5523,8 +5523,8 @@
    "properties": {
     "name": "7 MOODY STREET MANUNDA 4870",
     "locID": "LOC000027373777",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155525664"
    }
   },
@@ -7835,8 +7835,8 @@
    "properties": {
     "name": "86 ENGLISH STREET MANUNDA 4870",
     "locID": "LOC000046001741",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155531792"
    }
   },
@@ -8583,8 +8583,8 @@
    "properties": {
     "name": "113 ENGLISH STREET MANUNDA 4870",
     "locID": "LOC000085369124",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156034711"
    }
   },
@@ -9953,6 +9953,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     145.74949572,
+     -16.91324872
+    ]
+   },
+   "properties": {
+    "name": "11 MACNAMARA STREET MANUNDA 4870",
+    "locID": "ChIJV2L2AC9keGkRQrfJkufBX2Q",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156764340"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      145.74968047,
      -16.91264778
     ]
@@ -9961,7 +9978,7 @@
     "name": "17 MACNAMARA STREET MANUNDA 4870",
     "locID": "LOC000004100061",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156764343"
    }
   },
@@ -12221,8 +12238,8 @@
    "properties": {
     "name": "98 BIRCH STREET MANUNDA 4870",
     "locID": "LOC000051246183",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156782091"
    }
   },
@@ -13666,8 +13683,8 @@
    "properties": {
     "name": "10 BARLOW STREET MANUNDA 4870",
     "locID": "LOC000077511237",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156792437"
    }
   },
@@ -14312,8 +14329,8 @@
    "properties": {
     "name": "142 MCCORMACK STREET MANUNDA 4870",
     "locID": "LOC000020822880",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156795971"
    }
   },
@@ -19769,8 +19786,8 @@
    "properties": {
     "name": "17 CARD AVENUE MANUNDA 4870",
     "locID": "LOC000096470784",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156812981"
    }
   },
@@ -19871,8 +19888,8 @@
    "properties": {
     "name": "4 CARD AVENUE MANUNDA 4870",
     "locID": "LOC000004559346",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156812989"
    }
   },
@@ -29612,8 +29629,8 @@
    "properties": {
     "name": "UNIT 2, 10 DOLLISSON STREET MANUNDA 4870",
     "locID": "LOC000039442798",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD158234045"
    }
   },
@@ -31261,8 +31278,8 @@
    "properties": {
     "name": "35B ENGLISH STREET MANUNDA 4870",
     "locID": "LOC000056471870",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158239405"
    }
   },
@@ -31992,8 +32009,8 @@
    "properties": {
     "name": "7-9 DOUGLAS STREET MANUNDA 4870",
     "locID": "LOC000004843738",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160559133"
    }
   },
@@ -44827,8 +44844,8 @@
    "properties": {
     "name": "104 TILLS STREET MANUNDA 4870",
     "locID": "LOC000076682532",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160897231"
    }
   },
@@ -44861,8 +44878,8 @@
    "properties": {
     "name": "96 TILLS STREET MANUNDA 4870",
     "locID": "LOC000095064631",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160897233"
    }
   },
@@ -50438,7 +50455,7 @@
     "name": "141-143 MCCORMACK STREET MANUNDA 4870",
     "locID": "LOC000070123107",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161959961"
    }
   },
@@ -50522,8 +50539,8 @@
    "properties": {
     "name": "169-171 MCCORMACK STREET MANUNDA 4870",
     "locID": "LOC000023232397",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161959966"
    }
   },
@@ -51066,8 +51083,8 @@
    "properties": {
     "name": "41-47 BEHAN STREET MANUNDA 4870",
     "locID": "LOC000082498629",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162009343"
    }
   },
@@ -51321,8 +51338,8 @@
    "properties": {
     "name": "22-24 DOUGLAS STREET MANUNDA 4870",
     "locID": "LOC000039269748",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162023309"
    }
   },
@@ -51916,8 +51933,8 @@
    "properties": {
     "name": "15-21 MAYERS STREET MANUNDA 4870",
     "locID": "LOC000097726731",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162048837"
    }
   },
@@ -57340,7 +57357,7 @@
     "name": "UNIT 1, 17 MACNAMARA STREET MANUNDA 4870",
     "locID": "LOC000004100061",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163016723"
    }
   },
@@ -57357,7 +57374,7 @@
     "name": "UNIT 2, 17 MACNAMARA STREET MANUNDA 4870",
     "locID": "LOC000004100061",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163016724"
    }
   },
@@ -63834,7 +63851,7 @@
     "name": "545 MACNAMARA STREET MANUNDA 4870",
     "locID": "LOC000004100061",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD720860935"
    }
   },
