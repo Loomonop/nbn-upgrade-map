@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T04:18:54.953919",
+ "generated": "2023-10-17T04:58:09.531525",
  "suburb": "BIRTINYA",
  "features": [
   {
@@ -2242,7 +2242,7 @@
    "properties": {
     "name": "UNIT 22, 11 INNOVATION PARKWAY BIRTINYA 4575",
     "locID": "LOC000095854642",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162846847"
    }
@@ -4605,8 +4605,8 @@
    "properties": {
     "name": "5 BLADE COURT BIRTINYA 4575",
     "locID": "LOC000110627986",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD163292885"
    }
   },
@@ -6237,8 +6237,8 @@
    "properties": {
     "name": "10 PANGALI CIRCUIT BIRTINYA 4575",
     "locID": "LOC000113509932",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163315627"
    }
   },
@@ -19211,23 +19211,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425657780"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.12183567,
-     -26.74552897
-    ]
-   },
-   "properties": {
-    "name": "28 LIGHTHOUSE CIRCUIT BIRTINYA 4575",
-    "locID": "LOC000140788473",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425657781"
    }
   },
   {
@@ -45405,8 +45388,8 @@
    "properties": {
     "name": "2 BANYANDAH CLOSE BIRTINYA 4575",
     "locID": "LOC000116079311",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD720978077"
    }
   },
@@ -45660,8 +45643,8 @@
    "properties": {
     "name": "8 BANYANDAH CLOSE BIRTINYA 4575",
     "locID": "LOC000116065098",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD720981563"
    }
   },

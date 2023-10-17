@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T03:44:21.992829",
+ "generated": "2023-10-17T04:25:29.009431",
  "suburb": "CLIFTON BEACH",
  "features": [
   {
@@ -185,8 +185,8 @@
    "properties": {
     "name": "20 PELLOWE STREET CLIFTON BEACH 4879",
     "locID": "LOC000036537197",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155179760"
    }
   },
@@ -593,8 +593,8 @@
    "properties": {
     "name": "11 ARLINGTON ESPLANADE CLIFTON BEACH 4879",
     "locID": "LOC000089226648",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155182926"
    }
   },
@@ -1052,8 +1052,8 @@
    "properties": {
     "name": "18 ESCAPE CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000034861291",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155184041"
    }
   },
@@ -2786,8 +2786,8 @@
    "properties": {
     "name": "1 SPUR CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000054548802",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155191350"
    }
   },
@@ -3059,7 +3059,7 @@
     "name": "12 BRAMBLE STREET CLIFTON BEACH 4879",
     "locID": "LOC000021561764",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155192351"
    }
   },
@@ -3280,7 +3280,7 @@
     "name": "13 TURTLE CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000004995232",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155192398"
    }
   },
@@ -3425,23 +3425,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.66987091,
-     -16.76817413
-    ]
-   },
-   "properties": {
-    "name": "LOT 192 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjcxOTIgQ2FwdGFpbiBDb29rIEh3eSwgQ2xpZnRvbiBCZWFjaCBRTEQgNDg3OSwgQXVzdHJhbGlhIjESLwoUChIJT024TgFueGkRip_jvKLrIZsQwAEqFAoSCe0wl2qhdHhpESOvDmnkV930",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD155194184"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.67489624,
      -16.76962034
     ]
@@ -3500,8 +3483,8 @@
    "properties": {
     "name": "9 TURTLE CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000037547807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155194192"
    }
   },
@@ -4249,7 +4232,7 @@
     "name": "25 ARLINGTON ESPLANADE CLIFTON BEACH 4879",
     "locID": "LOC000042113027",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156440618"
    }
   },
@@ -5285,8 +5268,8 @@
    "properties": {
     "name": "11 PELLOWE STREET CLIFTON BEACH 4879",
     "locID": "LOC000027706889",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156443734"
    }
   },
@@ -5319,8 +5302,8 @@
    "properties": {
     "name": "16 PELLOWE STREET CLIFTON BEACH 4879",
     "locID": "LOC000039563865",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156443738"
    }
   },
@@ -6424,8 +6407,8 @@
    "properties": {
     "name": "34 BEAVER STREET CLIFTON BEACH 4879",
     "locID": "LOC000077949591",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156448547"
    }
   },
@@ -6832,8 +6815,8 @@
    "properties": {
     "name": "23 BRAMBLE STREET CLIFTON BEACH 4879",
     "locID": "LOC000013545090",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156450370"
    }
   },
@@ -8634,8 +8617,8 @@
    "properties": {
     "name": "12 ESCAPE CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000104929611",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156456714"
    }
   },
@@ -8702,8 +8685,8 @@
    "properties": {
     "name": "16 ESCAPE CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000024946897",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156456718"
    }
   },
@@ -9297,8 +9280,8 @@
    "properties": {
     "name": "12 GIBSON CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000053316768",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156461995"
    }
   },
@@ -9314,8 +9297,8 @@
    "properties": {
     "name": "14-16 GIBSON CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000045424570",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156461997"
    }
   },
@@ -9365,8 +9348,8 @@
    "properties": {
     "name": "19 GIBSON CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000002493965",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156462001"
    }
   },
@@ -9501,8 +9484,8 @@
    "properties": {
     "name": "57 GUIDE STREET CLIFTON BEACH 4879",
     "locID": "LOC000002565709",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156462019"
    }
   },
@@ -9535,8 +9518,8 @@
    "properties": {
     "name": "15 GREENHAVEN STREET CLIFTON BEACH 4879",
     "locID": "LOC000100781684",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156463703"
    }
   },
@@ -9621,7 +9604,7 @@
     "name": "3 HAYCOCK STREET CLIFTON BEACH 4879",
     "locID": "LOC000023528218",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156463797"
    }
   },
@@ -9943,8 +9926,8 @@
    "properties": {
     "name": "29 ARLINGTON ESPLANADE CLIFTON BEACH 4879",
     "locID": "LOC000052226896",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156466436"
    }
   },
@@ -10011,8 +9994,8 @@
    "properties": {
     "name": "4 PELLOWE STREET CLIFTON BEACH 4879",
     "locID": "LOC000061358079",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156466448"
    }
   },
@@ -10045,8 +10028,8 @@
    "properties": {
     "name": "6 PELLOWE STREET CLIFTON BEACH 4879",
     "locID": "LOC000049366817",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156466450"
    }
   },
@@ -10844,8 +10827,8 @@
    "properties": {
     "name": "4 WHITEHAVEN COURT CLIFTON BEACH 4879",
     "locID": "LOC000038579919",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157767830"
    }
   },
@@ -10997,8 +10980,8 @@
    "properties": {
     "name": "34 HOPE STREET CLIFTON BEACH 4879",
     "locID": "LOC000073438460",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157772164"
    }
   },
@@ -14244,8 +14227,8 @@
    "properties": {
     "name": "23-25 THRUSH TERRACE CLIFTON BEACH 4879",
     "locID": "LOC000003272292",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160685248"
    }
   },
@@ -14652,8 +14635,8 @@
    "properties": {
     "name": "6 BARRIER CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000094022352",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160767468"
    }
   },
@@ -14686,8 +14669,8 @@
    "properties": {
     "name": "11 SAXON STREET CLIFTON BEACH 4879",
     "locID": "LOC000027658496",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160960616"
    }
   },
@@ -14764,23 +14747,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.66872165,
-     -16.76720111
-    ]
-   },
-   "properties": {
-    "name": "LOT 102 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjcxMDIgQ2FwdGFpbiBDb29rIEh3eSwgQ2xpZnRvbiBCZWFjaCBRTEQgNDg3OSwgQXVzdHJhbGlhIjASLgoUChIJT024TgFueGkRip_jvKLrIZsQZioUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094264"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.66311551,
      -16.7588152
     ]
@@ -14791,40 +14757,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161094265"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66685458,
-     -16.76389178
-    ]
-   },
-   "properties": {
-    "name": "LOT 121 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjcxMjEgQ2FwdGFpbiBDb29rIEh3eSwgQ2xpZnRvbiBCZWFjaCBRTEQgNDg3OSwgQXVzdHJhbGlhIjASLgoUChIJT024TgFueGkRip_jvKLrIZsQeSoUChIJ7TCXaqF0eGkRI68OaeRX3fQ",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094266"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66953759,
-     -16.76743705
-    ]
-   },
-   "properties": {
-    "name": "LOT 191 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjcxOTEgQ2FwdGFpbiBDb29rIEh3eSwgQ2xpZnRvbiBCZWFjaCBRTEQgNDg3OSwgQXVzdHJhbGlhIjESLwoUChIJT024TgFueGkRip_jvKLrIZsQvwEqFAoSCe0wl2qhdHhpESOvDmnkV930",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094268"
    }
   },
   {
@@ -14883,57 +14815,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.66917193,
-     -16.76645762
-    ]
-   },
-   "properties": {
-    "name": "LOT 61 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjY2MSBDYXB0YWluIENvb2sgSHd5LCBDbGlmdG9uIEJlYWNoIFFMRCA0ODc5LCBBdXN0cmFsaWEiMBIuChQKEglPTbhOAW54aRGKn-O8oushmxA9KhQKEgntMJdqoXR4aREjrw5p5Ffd9A",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094275"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.67539643,
-     -16.77596954
-    ]
-   },
-   "properties": {
-    "name": "LOT 62 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjY2MiBDYXB0YWluIENvb2sgSHd5LCBDbGlmdG9uIEJlYWNoIFFMRCA0ODc5LCBBdXN0cmFsaWEiMBIuChQKEglPTbhOAW54aRGKn-O8oushmxA-KhQKEgntMJdqoXR4aREjrw5p5Ffd9A",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094276"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66695619,
-     -16.76316853
-    ]
-   },
-   "properties": {
-    "name": "LOT 72 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjY3MiBDYXB0YWluIENvb2sgSHd5LCBDbGlmdG9uIEJlYWNoIFFMRCA0ODc5LCBBdXN0cmFsaWEiMBIuChQKEglPTbhOAW54aRGKn-O8oushmxBIKhQKEgntMJdqoXR4aREjrw5p5Ffd9A",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094277"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.67114297,
      -16.76969406
     ]
@@ -14961,23 +14842,6 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161094279"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     145.66431965,
-     -16.76066487
-    ]
-   },
-   "properties": {
-    "name": "LOT 96 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjY5NiBDYXB0YWluIENvb2sgSHd5LCBDbGlmdG9uIEJlYWNoIFFMRCA0ODc5LCBBdXN0cmFsaWEiMBIuChQKEglPTbhOAW54aRGKn-O8oushmxBgKhQKEgntMJdqoXR4aREjrw5p5Ffd9A",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD161094280"
    }
   },
   {
@@ -16498,23 +16362,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     145.67596245,
-     -16.77379762
-    ]
-   },
-   "properties": {
-    "name": "LOT 166 CAPTAIN COOK HIGHWAY CLIFTON BEACH 4879",
-    "locID": "EjcxNjYgQ2FwdGFpbiBDb29rIEh3eSwgQ2xpZnRvbiBCZWFjaCBRTEQgNDg3OSwgQXVzdHJhbGlhIjESLwoUChIJT024TgFueGkRip_jvKLrIZsQpgEqFAoSCe0wl2qhdHhpESOvDmnkV930",
-    "tech": "FTTN",
-    "upgrade": "UNKNOWN",
-    "gnaf_pid": "GAQLD162015896"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      145.67515156,
      -16.77325051
     ]
@@ -17032,8 +16879,8 @@
    "properties": {
     "name": "1-13 THRUSH TERRACE CLIFTON BEACH 4879",
     "locID": "LOC000056789228",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162070996"
    }
   },
@@ -17066,8 +16913,8 @@
    "properties": {
     "name": "31 THRUSH TERRACE CLIFTON BEACH 4879",
     "locID": "LOC000064426686",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162070998"
    }
   },
@@ -17084,7 +16931,7 @@
     "name": "34-36 THRUSH TERRACE CLIFTON BEACH 4879",
     "locID": "LOC000004093466",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162070999"
    }
   },
@@ -17219,8 +17066,8 @@
    "properties": {
     "name": "7 TYDEMAN CRESCENT CLIFTON BEACH 4879",
     "locID": "LOC000084607651",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162072587"
    }
   },
@@ -18817,8 +18664,8 @@
    "properties": {
     "name": "30-32 ALEXANDRA STREET CLIFTON BEACH 4879",
     "locID": "LOC000029920769",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162670258"
    }
   },
@@ -18868,8 +18715,8 @@
    "properties": {
     "name": "34-36 ALEXANDRA STREET CLIFTON BEACH 4879",
     "locID": "LOC000048134908",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162670261"
    }
   },
@@ -19123,8 +18970,8 @@
    "properties": {
     "name": "1-3 ESCAPE CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000025014050",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162742244"
    }
   },
@@ -19956,8 +19803,8 @@
    "properties": {
     "name": "10-12 LARK CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000106424454",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162847533"
    }
   },
@@ -19990,8 +19837,8 @@
    "properties": {
     "name": "14-16 LARK CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000076105423",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162847535"
    }
   },
@@ -20092,8 +19939,8 @@
    "properties": {
     "name": "25-27 LARK CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000064209756",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162847541"
    }
   },
@@ -20109,8 +19956,8 @@
    "properties": {
     "name": "26-28 LARK CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000105209262",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162847542"
    }
   },
@@ -20160,8 +20007,8 @@
    "properties": {
     "name": "30-32 LARK CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000093729567",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162847545"
    }
   },
@@ -20891,8 +20738,8 @@
    "properties": {
     "name": "21-23 SOUTH ELLISON STREET CLIFTON BEACH 4879",
     "locID": "LOC000090025364",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162850091"
    }
   },
@@ -20959,8 +20806,8 @@
    "properties": {
     "name": "29-31 SOUTH ELLISON STREET CLIFTON BEACH 4879",
     "locID": "LOC000035696427",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162850095"
    }
   },
@@ -21112,8 +20959,8 @@
    "properties": {
     "name": "5-7 SOUTH ELLISON STREET CLIFTON BEACH 4879",
     "locID": "LOC000011640078",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162850104"
    }
   },
@@ -21180,8 +21027,8 @@
    "properties": {
     "name": "17-19 STEVENS STREET CLIFTON BEACH 4879",
     "locID": "LOC000083968318",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162850293"
    }
   },
@@ -21333,8 +21180,8 @@
    "properties": {
     "name": "5-7 TOBIAS CLOSE CLIFTON BEACH 4879",
     "locID": "LOC000082747413",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162850828"
    }
   },
@@ -21657,7 +21504,7 @@
     "name": "14-16 FORRESTER STREET CLIFTON BEACH 4879",
     "locID": "LOC000068231256",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162925526"
    }
   },
@@ -21776,7 +21623,7 @@
     "name": "10-12 PETRICOLA STREET CLIFTON BEACH 4879",
     "locID": "LOC000028594914",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162928964"
    }
   },
@@ -21843,8 +21690,8 @@
    "properties": {
     "name": "6-8 PETRICOLA STREET CLIFTON BEACH 4879",
     "locID": "LOC000056741641",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162928968"
    }
   },
@@ -25719,8 +25566,8 @@
    "properties": {
     "name": "23 ALEXANDRA STREET CLIFTON BEACH 4879",
     "locID": "LOC000110833688",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163209575"
    }
   },
@@ -27487,8 +27334,8 @@
    "properties": {
     "name": "2-14 ALEXANDRA STREET CLIFTON BEACH 4879",
     "locID": "LOC000048134908",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163230159"
    }
   },
@@ -33012,8 +32859,8 @@
    "properties": {
     "name": "25 ENDEAVOUR ROAD CLIFTON BEACH 4879",
     "locID": "LOC000073632218",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425748557"
    }
   },
@@ -35137,8 +34984,8 @@
    "properties": {
     "name": "1-3 SAXON STREET CLIFTON BEACH 4879",
     "locID": "LOC000027658496",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD720735530"
    }
   },
