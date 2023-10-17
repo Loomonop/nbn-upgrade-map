@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T04:26:28.780625",
+ "generated": "2023-10-17T05:07:40.716883",
  "suburb": "SOUTH GLADSTONE",
  "features": [
   {
@@ -24986,6 +24986,23 @@
     ]
    },
    "properties": {
+    "name": "UNIT 5, 23 COON STREET SOUTH GLADSTONE 4680",
+    "locID": "LOC000036538491",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD160345533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.26760293,
+     -23.85911661
+    ]
+   },
+   "properties": {
     "name": "UNIT 6, 23 COON STREET SOUTH GLADSTONE 4680",
     "locID": "LOC000036654431",
     "tech": "FTTN",
@@ -32094,8 +32111,8 @@
    "properties": {
     "name": "UNIT 9, 34 MARTEN STREET SOUTH GLADSTONE 4680",
     "locID": "LOC000056596393",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162473684"
    }
   },
@@ -32502,8 +32519,8 @@
    "properties": {
     "name": "16 OASIS COURT SOUTH GLADSTONE 4680",
     "locID": "LOC000040665940",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD162608022"
    }
   },
