@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T02:09:01.650477",
+ "generated": "2023-10-17T02:50:52.720111",
  "suburb": "GOONDI BEND",
  "features": [
   {
@@ -151,8 +151,8 @@
    "properties": {
     "name": "14 DAYMAN STREET GOONDI BEND 4860",
     "locID": "LOC000050519727",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155409337"
    }
   },
@@ -542,8 +542,8 @@
    "properties": {
     "name": "36 MAPLE STREET GOONDI BEND 4860",
     "locID": "LOC000099312440",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155418389"
    }
   },
@@ -746,8 +746,8 @@
    "properties": {
     "name": "8 CEDAR STREET GOONDI BEND 4860",
     "locID": "LOC000053266289",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155425589"
    }
   },
@@ -1103,8 +1103,8 @@
    "properties": {
     "name": "123 PALMERSTON DRIVE GOONDI BEND 4860",
     "locID": "LOC000008399888",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156592679"
    }
   },
@@ -1137,8 +1137,8 @@
    "properties": {
     "name": "66 MAPLE STREET GOONDI BEND 4860",
     "locID": "LOC000067867584",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156594358"
    }
   },
@@ -1936,8 +1936,8 @@
    "properties": {
     "name": "11 DAYMAN STREET GOONDI BEND 4860",
     "locID": "LOC000013541484",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156601257"
    }
   },
@@ -1953,8 +1953,8 @@
    "properties": {
     "name": "13 DAYMAN STREET GOONDI BEND 4860",
     "locID": "LOC000095532958",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156601258"
    }
   },
@@ -2429,8 +2429,8 @@
    "properties": {
     "name": "42 MAPLE STREET GOONDI BEND 4860",
     "locID": "LOC000004082891",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156604751"
    }
   },
@@ -2514,8 +2514,8 @@
    "properties": {
     "name": "54 MAPLE STREET GOONDI BEND 4860",
     "locID": "LOC000059362908",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156604759"
    }
   },
@@ -3092,8 +3092,8 @@
    "properties": {
     "name": "13 BATCHELOR STREET GOONDI BEND 4860",
     "locID": "LOC000085694535",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156616219"
    }
   },
@@ -3636,8 +3636,8 @@
    "properties": {
     "name": "15 LAURIE STREET GOONDI BEND 4860",
     "locID": "LOC000104866830",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156687550"
    }
   },
@@ -4275,6 +4275,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.01370075,
+     -17.52274074
+    ]
+   },
+   "properties": {
+    "name": "LOT 28 MAHOGANY STREET GOONDI BEND 4860",
+    "locID": "Ei8yOCBNYWhvZ2FueSBTdCwgR29vbmRpIEhpbGwgUUxEIDQ4NjAsIEF1c3RyYWxpYSIwEi4KFAoSCV93Au7QxHhpEakOlCkpe-vfEBwqFAoSCR1sHPLQxHhpEZRISaRH6U82",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161221861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.00979836,
      -17.52973555
     ]
@@ -4282,8 +4299,8 @@
    "properties": {
     "name": "LOT 7 MAPLE STREET GOONDI BEND 4860",
     "locID": "LOC000004082891",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161225143"
    }
   },
@@ -4421,6 +4438,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161278378"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.01530802,
+     -17.51865566
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 RAILWAY STREET GOONDI BEND 4860",
+    "locID": "LOC000083916063",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD161742324"
    }
   },
   {

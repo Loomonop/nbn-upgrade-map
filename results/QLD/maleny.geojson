@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T02:55:12.286648",
+ "generated": "2023-10-17T03:34:43.994230",
  "suburb": "MALENY",
  "features": [
   {
@@ -1256,8 +1256,8 @@
    "properties": {
     "name": "5 TAMARIND STREET MALENY 4552",
     "locID": "LOC000099205176",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155505937"
    }
   },
@@ -1409,8 +1409,8 @@
    "properties": {
     "name": "59 TAMARIND STREET MALENY 4552",
     "locID": "LOC000023614736",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155506955"
    }
   },
@@ -2089,8 +2089,8 @@
    "properties": {
     "name": "19 ASH STREET MALENY 4552",
     "locID": "LOC000088076513",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155510569"
    }
   },
@@ -2378,8 +2378,8 @@
    "properties": {
     "name": "6 TULIP STREET MALENY 4552",
     "locID": "LOC000087756236",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155510962"
    }
   },
@@ -4657,7 +4657,7 @@
     "name": "14 CEDAR STREET MALENY 4552",
     "locID": "LOC000062825012",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155516723"
    }
   },
@@ -5218,7 +5218,7 @@
     "name": "62 TALLOWWOOD STREET MALENY 4552",
     "locID": "LOC000051218255",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155518913"
    }
   },
@@ -5234,8 +5234,8 @@
    "properties": {
     "name": "11 TAMARIND STREET MALENY 4552",
     "locID": "LOC000072807617",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155518916"
    }
   },
@@ -5251,8 +5251,8 @@
    "properties": {
     "name": "13 TAMARIND STREET MALENY 4552",
     "locID": "LOC000030743026",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155518918"
    }
   },
@@ -6016,8 +6016,8 @@
    "properties": {
     "name": "16 BEAN STREET MALENY 4552",
     "locID": "LOC000020011004",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156061717"
    }
   },
@@ -7189,8 +7189,8 @@
    "properties": {
     "name": "53 TAMARIND STREET MALENY 4552",
     "locID": "LOC000074282211",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156767326"
    }
   },
@@ -9059,8 +9059,8 @@
    "properties": {
     "name": "9 TAMARIND STREET MALENY 4552",
     "locID": "LOC000088020115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156781296"
    }
   },
@@ -9426,6 +9426,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.84837202,
+     -26.75305544
+    ]
+   },
+   "properties": {
+    "name": "19 TAMARIND STREET MALENY 4552",
+    "locID": "LOC000193771052",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156781889"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.84826256,
      -26.75428391
     ]
@@ -9450,8 +9467,8 @@
    "properties": {
     "name": "24 TAMARIND STREET MALENY 4552",
     "locID": "LOC000025738619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156781893"
    }
   },
@@ -9603,8 +9620,8 @@
    "properties": {
     "name": "16 WATTLE STREET MALENY 4552",
     "locID": "LOC000017437986",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156784413"
    }
   },
@@ -10249,8 +10266,8 @@
    "properties": {
     "name": "51 MACADAMIA DRIVE MALENY 4552",
     "locID": "LOC000085049861",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156788894"
    }
   },
@@ -14788,8 +14805,8 @@
    "properties": {
     "name": "55 NORTH MALENY ROAD MALENY 4552",
     "locID": "LOC000028270968",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158208496"
    }
   },
@@ -16437,8 +16454,8 @@
    "properties": {
     "name": "10 TAMARIND STREET MALENY 4552",
     "locID": "LOC000098772192",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158219261"
    }
   },
@@ -20568,8 +20585,8 @@
    "properties": {
     "name": "43 PALM STREET MALENY 4552",
     "locID": "LOC000094249361",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160094732"
    }
   },
@@ -27963,8 +27980,8 @@
    "properties": {
     "name": "13 CURLEW COURT MALENY 4552",
     "locID": "LOC000028975253",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974598"
    }
   },
@@ -27980,8 +27997,8 @@
    "properties": {
     "name": "14 CURLEW COURT MALENY 4552",
     "locID": "LOC000002562061",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974599"
    }
   },
@@ -28014,8 +28031,8 @@
    "properties": {
     "name": "16 CURLEW COURT MALENY 4552",
     "locID": "LOC000078043485",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974601"
    }
   },
@@ -28031,8 +28048,8 @@
    "properties": {
     "name": "17 CURLEW COURT MALENY 4552",
     "locID": "LOC000047132417",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974602"
    }
   },
@@ -28082,8 +28099,8 @@
    "properties": {
     "name": "20 CURLEW COURT MALENY 4552",
     "locID": "LOC000044803407",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974606"
    }
   },
@@ -28150,8 +28167,8 @@
    "properties": {
     "name": "28 CURLEW COURT MALENY 4552",
     "locID": "LOC000014998461",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974610"
    }
   },
@@ -28184,8 +28201,8 @@
    "properties": {
     "name": "30 CURLEW COURT MALENY 4552",
     "locID": "LOC000067146744",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974612"
    }
   },
@@ -28235,8 +28252,8 @@
    "properties": {
     "name": "4 CURLEW COURT MALENY 4552",
     "locID": "LOC000096053404",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161974615"
    }
   },
@@ -29188,7 +29205,7 @@
     "name": "3 RIVER CHERRY PLACE MALENY 4552",
     "locID": "LOC000065779619",
     "tech": "FTTP",
-    "upgrade": "FTTC_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162093557"
    }
   },
@@ -31482,8 +31499,8 @@
    "properties": {
     "name": "2 LORIKEET LANE MALENY 4552",
     "locID": "LOC000040395552",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162304517"
    }
   },
@@ -31516,8 +31533,8 @@
    "properties": {
     "name": "9 LORIKEET LANE MALENY 4552",
     "locID": "LOC000074396632",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162304519"
    }
   },
@@ -31958,8 +31975,8 @@
    "properties": {
     "name": "12 LORIKEET LANE MALENY 4552",
     "locID": "LOC000062923158",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162355899"
    }
   },
@@ -31992,8 +32009,8 @@
    "properties": {
     "name": "16 LORIKEET LANE MALENY 4552",
     "locID": "LOC000008236672",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162355905"
    }
   },
@@ -32774,8 +32791,8 @@
    "properties": {
     "name": "23 LORIKEET LANE MALENY 4552",
     "locID": "LOC000074396632",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162542707"
    }
   },
@@ -32791,8 +32808,8 @@
    "properties": {
     "name": "24 LORIKEET LANE MALENY 4552",
     "locID": "LOC000014139167",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162542708"
    }
   },
@@ -33029,8 +33046,8 @@
    "properties": {
     "name": "UNIT 1, 20 TEAK STREET MALENY 4552",
     "locID": "LOC000096049911",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162620862"
    }
   },
@@ -34253,8 +34270,8 @@
    "properties": {
     "name": "4 WHIPTAIL COURT MALENY 4552",
     "locID": "LOC000097945767",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162752307"
    }
   },
@@ -34525,8 +34542,8 @@
    "properties": {
     "name": "8 LORIKEET LANE MALENY 4552",
     "locID": "LOC000082550433",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162847784"
    }
   },
@@ -37874,8 +37891,8 @@
    "properties": {
     "name": "20 LORIKEET LANE MALENY 4552",
     "locID": "LOC000116039075",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD424859544"
    }
   },
@@ -37959,8 +37976,8 @@
    "properties": {
     "name": "25 LORIKEET LANE MALENY 4552",
     "locID": "LOC000128330150",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD424937662"
    }
   },
@@ -41665,8 +41682,8 @@
    "properties": {
     "name": "56A PALM STREET MALENY 4552",
     "locID": "LOC000179903908",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425545680"
    }
   },
@@ -41682,8 +41699,8 @@
    "properties": {
     "name": "56B PALM STREET MALENY 4552",
     "locID": "LOC000178160530",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425545681"
    }
   },
