@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T17:02:30.902638",
+ "generated": "2023-10-17T17:40:28.661989",
  "suburb": "SUNNYBANK",
  "features": [
   {
@@ -6305,8 +6305,8 @@
    "properties": {
     "name": "387 MCCULLOUGH STREET SUNNYBANK 4109",
     "locID": "LOC000087165620",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155857557"
    }
   },
@@ -6543,8 +6543,8 @@
    "properties": {
     "name": "391 MCCULLOUGH STREET SUNNYBANK 4109",
     "locID": "LOC000017490531",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155858259"
    }
   },
@@ -7002,8 +7002,8 @@
    "properties": {
     "name": "383 MCCULLOUGH STREET SUNNYBANK 4109",
     "locID": "LOC000039251621",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155858394"
    }
   },
@@ -20279,7 +20279,7 @@
    "properties": {
     "name": "14 ZAMIA STREET SUNNYBANK 4109",
     "locID": "LOC000192899210",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157077798"
    }
@@ -40682,6 +40682,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157196654"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.05487411,
+     -27.57137191
+    ]
+   },
+   "properties": {
+    "name": "12 MITCHELL STREET SUNNYBANK 4109",
+    "locID": "LOC000193836909",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157196680"
    }
   },
   {
