@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-28T04:35:18.876991",
+ "generated": "2023-10-18T05:57:30.815242",
  "suburb": "WORONGARY",
  "features": [
   {
@@ -4945,8 +4945,8 @@
    "properties": {
     "name": "47 DELTA COVE DRIVE WORONGARY 4213",
     "locID": "LOC000058410261",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155994552"
    }
   },
@@ -8312,7 +8312,7 @@
     "name": "14 STANHOPE COURT WORONGARY 4213",
     "locID": "LOC000099631211",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155999686"
    }
   },
@@ -11371,8 +11371,8 @@
    "properties": {
     "name": "30 ROUSE STREET WORONGARY 4213",
     "locID": "LOC000081408110",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD156009887"
    }
   },
@@ -14264,6 +14264,23 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156100548"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.33610547,
+     -28.0366051
+    ]
+   },
+   "properties": {
+    "name": "192 SAN FERNANDO DRIVE WORONGARY 4213",
+    "locID": "LOC000028163520",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156100550"
    }
   },
   {
@@ -18613,8 +18630,8 @@
    "properties": {
     "name": "13 SHELDON COURT WORONGARY 4213",
     "locID": "LOC000020818225",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157333858"
    }
   },
@@ -22847,7 +22864,7 @@
     "name": "10 RUSHWORTH STREET WORONGARY 4213",
     "locID": "LOC000014032092",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157344619"
    }
   },
@@ -24717,7 +24734,7 @@
     "name": "8 RUSHWORTH STREET WORONGARY 4213",
     "locID": "LOC000095193344",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157351627"
    }
   },
@@ -27896,7 +27913,7 @@
     "name": "29 CARPENTER COURT WORONGARY 4213",
     "locID": "LOC000105056268",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157364883"
    }
   },
@@ -31686,8 +31703,8 @@
    "properties": {
     "name": "46 EXPLORERS WAY WORONGARY 4213",
     "locID": "LOC000041478335",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158897562"
    }
   },
@@ -35834,8 +35851,8 @@
    "properties": {
     "name": "UNIT 2, 9 ALKIRA WAY WORONGARY 4213",
     "locID": "LOC000006655867",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTC_CT",
     "gnaf_pid": "GAQLD719720810"
    }
   },
