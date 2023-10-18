@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-28T03:21:03.890114",
+ "generated": "2023-10-18T04:43:42.482836",
  "suburb": "CAPALABA",
  "features": [
   {
@@ -457,8 +457,8 @@
    "properties": {
     "name": "29 OAKWOOD STREET CAPALABA 4157",
     "locID": "LOC000103624802",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155121948"
    }
   },
@@ -508,8 +508,8 @@
    "properties": {
     "name": "35 OAKWOOD STREET CAPALABA 4157",
     "locID": "LOC000032525735",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155121952"
    }
   },
@@ -6594,8 +6594,8 @@
    "properties": {
     "name": "8 MOONLIGHT PLACE CAPALABA 4157",
     "locID": "LOC000045336645",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155124725"
    }
   },
@@ -9518,8 +9518,8 @@
    "properties": {
     "name": "20 OAKWOOD STREET CAPALABA 4157",
     "locID": "LOC000023208546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155127265"
    }
   },
@@ -19769,8 +19769,8 @@
    "properties": {
     "name": "11 OAKWOOD STREET CAPALABA 4157",
     "locID": "LOC000018279754",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155134864"
    }
   },
@@ -27267,7 +27267,7 @@
     "name": "15 WALLAROO COURT CAPALABA 4157",
     "locID": "LOC000059824219",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155139686"
    }
   },
@@ -28898,8 +28898,8 @@
    "properties": {
     "name": "56 LYNDON ROAD CAPALABA 4157",
     "locID": "LOC000085450085",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155140459"
    }
   },
@@ -29970,7 +29970,7 @@
     "name": "62 SPIRIT DRIVE CAPALABA 4157",
     "locID": "LOC000066937553",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155140758"
    }
   },
@@ -32148,6 +32148,23 @@
     "tech": "FTTN",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155142215"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.19997204,
+     -27.53657771
+    ]
+   },
+   "properties": {
+    "name": "23 NEY ROAD CAPALABA 4157",
+    "locID": "ChIJ8UYt4IZdkWsRertJmX2MK_U",
+    "tech": "HFC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155142216"
    }
   },
   {
@@ -39167,7 +39184,7 @@
     "name": "62 KOALA PLACE CAPALABA 4157",
     "locID": "LOC000036343339",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155146117"
    }
   },
@@ -41988,8 +42005,8 @@
    "properties": {
     "name": "40 KORAWAL STREET CAPALABA 4157",
     "locID": "LOC000024910011",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155147892"
    }
   },
@@ -48346,8 +48363,8 @@
    "properties": {
     "name": "28 GUYANA COURT CAPALABA 4157",
     "locID": "LOC000001698352",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156040119"
    }
   },
@@ -48397,8 +48414,8 @@
    "properties": {
     "name": "51 KOALA PLACE CAPALABA 4157",
     "locID": "LOC000085566998",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156040123"
    }
   },
@@ -57288,8 +57305,8 @@
    "properties": {
     "name": "23 OAKWOOD STREET CAPALABA 4157",
     "locID": "LOC000071990729",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156386401"
    }
   },
@@ -57425,7 +57442,7 @@
     "name": "4 HIBBERTIA CLOSE CAPALABA 4157",
     "locID": "LOC000022508878",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156386726"
    }
   },
@@ -62269,8 +62286,8 @@
    "properties": {
     "name": "24 FIRTREE STREET CAPALABA 4157",
     "locID": "LOC000006631651",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156388483"
    }
   },
@@ -64786,7 +64803,7 @@
     "name": "13 COOLNWYNPIN WAY CAPALABA 4157",
     "locID": "LOC000084517225",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156390227"
    }
   },
@@ -73965,8 +73982,8 @@
    "properties": {
     "name": "19 OAKWOOD STREET CAPALABA 4157",
     "locID": "LOC000039396563",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156395403"
    }
   },
@@ -80391,8 +80408,8 @@
    "properties": {
     "name": "31 OAKWOOD STREET CAPALABA 4157",
     "locID": "LOC000060953115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156397844"
    }
   },
@@ -95318,7 +95335,7 @@
     "name": "19 DIANELLA PLACE CAPALABA 4157",
     "locID": "LOC000034553167",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156407315"
    }
   },
@@ -108305,8 +108322,8 @@
    "properties": {
     "name": "12 ELTON CRESCENT CAPALABA 4157",
     "locID": "LOC000035621395",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157711396"
    }
   },
@@ -111790,8 +111807,8 @@
    "properties": {
     "name": "2 ELTON CRESCENT CAPALABA 4157",
     "locID": "LOC000035621395",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160971550"
    }
   },

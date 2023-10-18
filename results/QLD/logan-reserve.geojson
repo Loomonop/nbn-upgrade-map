@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-28T02:49:23.614144",
+ "generated": "2023-10-18T04:10:56.244531",
  "suburb": "LOGAN RESERVE",
  "features": [
   {
@@ -222,6 +222,23 @@
     "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155491381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.10082774,
+     -27.70519672
+    ]
+   },
+   "properties": {
+    "name": "408 CHAMBERS FLAT ROAD LOGAN RESERVE 4133",
+    "locID": "ChIJoXdosS9HkWsRmc9vFknLkqs",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD155491383"
    }
   },
   {
@@ -916,8 +933,8 @@
    "properties": {
     "name": "9 LAKE BOGONG COURT LOGAN RESERVE 4133",
     "locID": "LOC000077728872",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155502987"
    }
   },
@@ -2432,6 +2449,40 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156766047"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.09959614,
+     -27.71301343
+    ]
+   },
+   "properties": {
+    "name": "81 SCHOOL ROAD LOGAN RESERVE 4133",
+    "locID": "ChIJT6MLLzdHkWsRg3Vkjag1h2c",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156766052"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.09967412,
+     -27.71369015
+    ]
+   },
+   "properties": {
+    "name": "83 SCHOOL ROAD LOGAN RESERVE 4133",
+    "locID": "ChIJbUqHIjdHkWsRocBkbsgfsrI",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156766053"
    }
   },
   {
@@ -5516,6 +5567,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.10305093,
+     -27.71445706
+    ]
+   },
+   "properties": {
+    "name": "99-105 SCHOOL ROAD LOGAN RESERVE 4133",
+    "locID": "ChIJHSgPoDZHkWsRc3A1AJqjLj0",
+    "tech": "FTTN",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD156811549"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.1119228,
      -27.69194245
     ]
@@ -6492,7 +6560,7 @@
    "properties": {
     "name": "305-309 LOGANVIEW ROAD NORTH LOGAN RESERVE 4133",
     "locID": "ChIJ9ah-2TRHkWsRCRdac9nKFW8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159429728"
    }
@@ -6509,7 +6577,7 @@
    "properties": {
     "name": "311-315 LOGANVIEW ROAD NORTH LOGAN RESERVE 4133",
     "locID": "ChIJ44gXxTRHkWsR54WPCGpi7Po",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159429729"
    }
@@ -6917,7 +6985,7 @@
    "properties": {
     "name": "323-327 LOGANVIEW ROAD NORTH LOGAN RESERVE 4133",
     "locID": "ChIJc92BsDRHkWsR6tr3vnipXWU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159437508"
    }
@@ -7104,7 +7172,7 @@
    "properties": {
     "name": "317-321 LOGANVIEW ROAD NORTH LOGAN RESERVE 4133",
     "locID": "ChIJVTvuxzRHkWsRIh5j2CybbA0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159437519"
    }
@@ -7138,7 +7206,7 @@
    "properties": {
     "name": "299-303 LOGANVIEW ROAD NORTH LOGAN RESERVE 4133",
     "locID": "ChIJJ1wnJzVHkWsR6G0Lc__-3kA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD159437521"
    }
@@ -9502,7 +9570,7 @@
     "name": "28 LAKE SOMERSET COURT LOGAN RESERVE 4133",
     "locID": "LOC000027389865",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD161788480"
    }
   },
@@ -10402,8 +10470,8 @@
    "properties": {
     "name": "35 LAKE COOTHARABA PLACE LOGAN RESERVE 4133",
     "locID": "LOC000088228635",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161843251"
    }
   },
@@ -10470,8 +10538,8 @@
    "properties": {
     "name": "14 LAKE MANCHESTER STREET LOGAN RESERVE 4133",
     "locID": "LOC000030791369",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161843257"
    }
   },
@@ -11252,8 +11320,8 @@
    "properties": {
     "name": "18 LAKE WIVENHOE COURT LOGAN RESERVE 4133",
     "locID": "LOC000031529060",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161843322"
    }
   },
@@ -11524,8 +11592,8 @@
    "properties": {
     "name": "59 LAKEVIEW DRIVE LOGAN RESERVE 4133",
     "locID": "LOC000071061208",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161843438"
    }
   },
@@ -11541,8 +11609,8 @@
    "properties": {
     "name": "61 LAKEVIEW DRIVE LOGAN RESERVE 4133",
     "locID": "LOC000036207781",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161843439"
    }
   },
@@ -74366,6 +74434,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.11594233,
+     -27.71552022
+    ]
+   },
+   "properties": {
+    "name": "55 JACKSON CHASE LOGAN RESERVE 4133",
+    "locID": "ChIJzfL-s85AkWsRTKpPvDkP4PY",
+    "tech": "NULL",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD721070229"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      153.10566982,
      -27.70575933
     ]
@@ -85729,7 +85814,7 @@
    "properties": {
     "name": "LOT 900 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "EjFDYXZhbmFnaCBEcml2ZSwgTG9nYW4gUmVzZXJ2ZSBRTEQgNDEzMywgQXVzdHJhbGlhIi4qLAoUChIJfaXAGDVHkWsRDyHE3obcYQwSFAoSCZtTXEXEQJFrEcCO3vNaowIF",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721231873"
    }
@@ -87701,7 +87786,7 @@
    "properties": {
     "name": "63 ASPEN CIRCUIT LOGAN RESERVE 4133",
     "locID": "ChIJVwz7bEtHkWsRLrn3Q53HVhk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721305205"
    }
@@ -87718,7 +87803,7 @@
    "properties": {
     "name": "19 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJn1p2Z0tHkWsR4FKh7yEqhLE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721305283"
    }
@@ -87769,7 +87854,7 @@
    "properties": {
     "name": "26 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJvenPQ0tHkWsRO0zva-w7U4w",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721305533"
    }
@@ -87854,7 +87939,7 @@
    "properties": {
     "name": "21 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJ3R12XUtHkWsRZWzxEucyKU0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721305751"
    }
@@ -87922,7 +88007,7 @@
    "properties": {
     "name": "33 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJmVlCUEtHkWsR6oWhTt8VBfM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721306145"
    }
@@ -88058,7 +88143,7 @@
    "properties": {
     "name": "37 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJd7KLUUtHkWsR-GEHFt-uUus",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721306572"
    }
@@ -88143,7 +88228,7 @@
    "properties": {
     "name": "23 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJ6aT-XEtHkWsR70vhCjoWwKg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721306720"
    }
@@ -88194,7 +88279,7 @@
    "properties": {
     "name": "85 TAHOE STREET LOGAN RESERVE 4133",
     "locID": "ChIJ52Y-f0tHkWsROLIwzu792vg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721306789"
    }
@@ -88279,7 +88364,7 @@
    "properties": {
     "name": "65 ASPEN CIRCUIT LOGAN RESERVE 4133",
     "locID": "ChIJjaycbEtHkWsR755FqQ2OMxw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721306992"
    }
@@ -88466,7 +88551,7 @@
    "properties": {
     "name": "22 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJawvmaUtHkWsRnnpR9lBGvQg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721307558"
    }
@@ -88517,7 +88602,7 @@
    "properties": {
     "name": "29 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJlWj7WktHkWsRWJg0CgVNNdI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721307822"
    }
@@ -88704,7 +88789,7 @@
    "properties": {
     "name": "27 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJOb1zW0tHkWsRNC6WvrHVoZ4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721308413"
    }
@@ -88738,7 +88823,7 @@
    "properties": {
     "name": "24 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJGYU9QktHkWsR7H978BpOy3U",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721308448"
    }
@@ -89214,7 +89299,7 @@
    "properties": {
     "name": "114 TAHOE STREET LOGAN RESERVE 4133",
     "locID": "ChIJWWJLgktHkWsRgfAAH8w_lP8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721309963"
    }
@@ -89299,7 +89384,7 @@
    "properties": {
     "name": "16 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJea-4bktHkWsR0FUZ_q4hrE4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721310524"
    }
@@ -89367,7 +89452,7 @@
    "properties": {
     "name": "20 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJQU2eaUtHkWsRudZkj8oeGD8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721310804"
    }
@@ -89452,7 +89537,7 @@
    "properties": {
     "name": "13 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJvaQ3ZEtHkWsRPqp5jaDfzNA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721310957"
    }
@@ -89469,7 +89554,7 @@
    "properties": {
     "name": "15 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJPZOFZktHkWsR8EgclbVZ9gg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721311043"
    }
@@ -89605,7 +89690,7 @@
    "properties": {
     "name": "67 ASPEN CIRCUIT LOGAN RESERVE 4133",
     "locID": "ChIJ2xoOa0tHkWsRXYOedHKIX8o",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721311330"
    }
@@ -89639,7 +89724,7 @@
    "properties": {
     "name": "39 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJXYdBUktHkWsRl6WeyLVIqpk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721311334"
    }
@@ -89690,7 +89775,7 @@
    "properties": {
     "name": "17 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJvWsBZ0tHkWsRoNgOgHVhUC8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721311712"
    }
@@ -89707,7 +89792,7 @@
    "properties": {
     "name": "112 TAHOE STREET LOGAN RESERVE 4133",
     "locID": "ChIJJWiCgUtHkWsRObEFFpuamK0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721311781"
    }
@@ -89911,7 +89996,7 @@
    "properties": {
     "name": "61 ASPEN CIRCUIT LOGAN RESERVE 4133",
     "locID": "ChIJ1XFzbUtHkWsRqwNS_-NN0DE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721312757"
    }
@@ -89979,7 +90064,7 @@
    "properties": {
     "name": "12 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJY3QjbktHkWsR3ZwLdk-YscU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313092"
    }
@@ -89996,7 +90081,7 @@
    "properties": {
     "name": "71 ASPEN CIRCUIT LOGAN RESERVE 4133",
     "locID": "ChIJWdMnQEtHkWsR29zRpsX7NSE",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313125"
    }
@@ -90013,7 +90098,7 @@
    "properties": {
     "name": "87 TAHOE STREET LOGAN RESERVE 4133",
     "locID": "ChIJo2FxeUtHkWsRiG36ad2oGAY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313185"
    }
@@ -90064,7 +90149,7 @@
    "properties": {
     "name": "69 ASPEN CIRCUIT LOGAN RESERVE 4133",
     "locID": "ChIJZybyaktHkWsRzq_I26rk_JQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313355"
    }
@@ -90234,7 +90319,7 @@
    "properties": {
     "name": "59 ASPEN CIRCUIT LOGAN RESERVE 4133",
     "locID": "ChIJx6lZcktHkWsRPWz0O0nvKus",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313658"
    }
@@ -90268,7 +90353,7 @@
    "properties": {
     "name": "28 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJD7b5Q0tHkWsRh54Z12w8gVU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313848"
    }
@@ -90285,7 +90370,7 @@
    "properties": {
     "name": "14 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJg05ebktHkWsROnxcfY5HaJQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721313871"
    }
@@ -90387,7 +90472,7 @@
    "properties": {
     "name": "18 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJS90TaUtHkWsRSbrZcvgU4kc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721314408"
    }
@@ -90421,7 +90506,7 @@
    "properties": {
     "name": "25 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJx6WIXEtHkWsRkNxX953l0Ac",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721314493"
    }
@@ -90523,7 +90608,7 @@
    "properties": {
     "name": "31 HIGYED ROAD LOGAN RESERVE 4133",
     "locID": "ChIJYVqbWktHkWsRSSSfcegnmuI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721314756"
    }
@@ -90999,7 +91084,7 @@
    "properties": {
     "name": "UNIT 1, 15 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "EjFNY2NsdW5lIFN0cmVldCwgTG9nYW4gUmVzZXJ2ZSBRTEQgNDEzMywgQXVzdHJhbGlhIi4qLAoUChIJVWfyHzVHkWsRtkKSjy4MCuQSFAoSCZtTXEXEQJFrEcCO3vNaowIF",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338796"
    }
@@ -91033,7 +91118,7 @@
    "properties": {
     "name": "UNIT 1, 13 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJsxlKyjRHkWsRxFA8f40gGDc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338808"
    }
@@ -91152,7 +91237,7 @@
    "properties": {
     "name": "UNIT 1, 6 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJ2fMA2TRHkWsR3yP_B4mDGPY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338867"
    }
@@ -91169,7 +91254,7 @@
    "properties": {
     "name": "UNIT 2, 8 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJkXbO2TRHkWsRKXSgmhu3RVA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338868"
    }
@@ -91220,7 +91305,7 @@
    "properties": {
     "name": "UNIT 2, 38 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJ3yW-uzRHkWsRVY3i8QKcF1A",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338891"
    }
@@ -91237,7 +91322,7 @@
    "properties": {
     "name": "UNIT 1, 52 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJlU5f3DRHkWsR4uVqyz6asDA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338892"
    }
@@ -91288,7 +91373,7 @@
    "properties": {
     "name": "UNIT 2, 49 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJJ9o86jRHkWsRRQ4v9-YJjlI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338916"
    }
@@ -91305,7 +91390,7 @@
    "properties": {
     "name": "UNIT 2, 53 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJW5Nd6DRHkWsRcl3QLQlpzZQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338917"
    }
@@ -91339,7 +91424,7 @@
    "properties": {
     "name": "UNIT 1, 65 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJEThXGTVHkWsRQhKI1o4XRoA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338954"
    }
@@ -91356,7 +91441,7 @@
    "properties": {
     "name": "UNIT 2, 55 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJRT3N5zRHkWsRHLhUAKGT3BM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721338965"
    }
@@ -91492,7 +91577,7 @@
    "properties": {
     "name": "UNIT 2, 65 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJEThXGTVHkWsRQhKI1o4XRoA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339002"
    }
@@ -91509,7 +91594,7 @@
    "properties": {
     "name": "UNIT 1, 15 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJF-f_0jRHkWsRcm7AV5ddC8g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339025"
    }
@@ -91611,7 +91696,7 @@
    "properties": {
     "name": "UNIT 2, 6 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJ2fMA2TRHkWsR3yP_B4mDGPY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339081"
    }
@@ -91662,7 +91747,7 @@
    "properties": {
     "name": "UNIT 1, 10 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJn5kbzzRHkWsRTZK0aOV_tc8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339103"
    }
@@ -91696,7 +91781,7 @@
    "properties": {
     "name": "UNIT 1, 49 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJJ9o86jRHkWsRRQ4v9-YJjlI",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339122"
    }
@@ -91781,7 +91866,7 @@
    "properties": {
     "name": "UNIT 1, 18 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJDTNbS8tAkWsRANxkCesAIyY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339164"
    }
@@ -91798,7 +91883,7 @@
    "properties": {
     "name": "UNIT 2, 60 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJhzOuITVHkWsR6h55ReqjbJQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339171"
    }
@@ -91866,7 +91951,7 @@
    "properties": {
     "name": "UNIT 1, 58 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJ8aAK3zRHkWsROSTkEPF-LM4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339182"
    }
@@ -91883,7 +91968,7 @@
    "properties": {
     "name": "UNIT 1, 16 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJc1tb1DRHkWsRZys3w-D_93Q",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339207"
    }
@@ -91917,7 +92002,7 @@
    "properties": {
     "name": "UNIT 1, 63 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJBeaZHjVHkWsRpnNOTmX4Uhg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339235"
    }
@@ -91951,7 +92036,7 @@
    "properties": {
     "name": "UNIT 2, 3 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJs1M1ITVHkWsRUPxY1pLfKPk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339255"
    }
@@ -91985,7 +92070,7 @@
    "properties": {
     "name": "UNIT 2, 13 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJdUrWKzVHkWsRcBxUqjhCR4U",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339260"
    }
@@ -92036,7 +92121,7 @@
    "properties": {
     "name": "UNIT 2, 10 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJn5kbzzRHkWsRTZK0aOV_tc8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339308"
    }
@@ -92053,7 +92138,7 @@
    "properties": {
     "name": "UNIT 1, 40 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJpZ1EuTRHkWsR9q6oAD7htSo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339312"
    }
@@ -92070,7 +92155,7 @@
    "properties": {
     "name": "UNIT 1, 38 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJ3yW-uzRHkWsRVY3i8QKcF1A",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339313"
    }
@@ -92087,7 +92172,7 @@
    "properties": {
     "name": "UNIT 2, 63 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJBeaZHjVHkWsRpnNOTmX4Uhg",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339325"
    }
@@ -92155,7 +92240,7 @@
    "properties": {
     "name": "UNIT 1, 5 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJGcBP2jRHkWsRW8EsNXz5mN4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339364"
    }
@@ -92223,7 +92308,7 @@
    "properties": {
     "name": "UNIT 2, 9 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJ66CRKDVHkWsRtD1F6TlW_gk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339380"
    }
@@ -92274,7 +92359,7 @@
    "properties": {
     "name": "UNIT 2, 17 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJQ5PSyjRHkWsRReEeQgZDreo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339394"
    }
@@ -92325,7 +92410,7 @@
    "properties": {
     "name": "UNIT 2, 5 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJ6aLzJjVHkWsRI0PZBmxn1sQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339460"
    }
@@ -92410,7 +92495,7 @@
    "properties": {
     "name": "UNIT 2, 17 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "EjFQbGF0ZWxsIFN0cmVldCwgTG9nYW4gUmVzZXJ2ZSBRTEQgNDEzMywgQXVzdHJhbGlhIi4qLAoUChIJK4NI3TRHkWsRWZdO-0H_0ygSFAoSCZtTXEXEQJFrEcCO3vNaowIF",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339499"
    }
@@ -92427,7 +92512,7 @@
    "properties": {
     "name": "UNIT 2, 14 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJARBktDRHkWsRav0YEcu80Ac",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339500"
    }
@@ -92461,7 +92546,7 @@
    "properties": {
     "name": "UNIT 2, 20 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJA40UTctAkWsR_aCFrbl9328",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339503"
    }
@@ -92478,7 +92563,7 @@
    "properties": {
     "name": "UNIT 2, 26 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJS7Q5sjRHkWsRofY42Z1zQi8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339513"
    }
@@ -92512,7 +92597,7 @@
    "properties": {
     "name": "UNIT 1, 51 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJpZG86TRHkWsR58-80raLAo4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339539"
    }
@@ -92529,7 +92614,7 @@
    "properties": {
     "name": "UNIT 2, 18 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJk-G3zDRHkWsRkue0G-z7BUo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339543"
    }
@@ -92546,7 +92631,7 @@
    "properties": {
     "name": "UNIT 1, 3 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJs1M1ITVHkWsRUPxY1pLfKPk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339550"
    }
@@ -92563,7 +92648,7 @@
    "properties": {
     "name": "UNIT 2, 3 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJUz-W2zRHkWsR6ec9yiOUTjA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339552"
    }
@@ -92580,7 +92665,7 @@
    "properties": {
     "name": "UNIT 2, 15 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "EjFNY2NsdW5lIFN0cmVldCwgTG9nYW4gUmVzZXJ2ZSBRTEQgNDEzMywgQXVzdHJhbGlhIi4qLAoUChIJVWfyHzVHkWsRtkKSjy4MCuQSFAoSCZtTXEXEQJFrEcCO3vNaowIF",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339553"
    }
@@ -92614,7 +92699,7 @@
    "properties": {
     "name": "UNIT 1, 5 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJXTEyxjRHkWsRluqgNB4HfN0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339560"
    }
@@ -92699,7 +92784,7 @@
    "properties": {
     "name": "UNIT 1, 17 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJQ5PSyjRHkWsRReEeQgZDreo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339582"
    }
@@ -92750,7 +92835,7 @@
    "properties": {
     "name": "UNIT 1, 13 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJdUrWKzVHkWsRcBxUqjhCR4U",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339598"
    }
@@ -92767,7 +92852,7 @@
    "properties": {
     "name": "UNIT 2, 9 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJYezw0DRHkWsRasxUGUCFhcc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339608"
    }
@@ -92869,7 +92954,7 @@
    "properties": {
     "name": "UNIT 1, 5 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJ6aLzJjVHkWsRI0PZBmxn1sQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339647"
    }
@@ -93005,7 +93090,7 @@
    "properties": {
     "name": "UNIT 1, 62 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJD0snIjVHkWsRYzxU-jqF29A",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339680"
    }
@@ -93022,7 +93107,7 @@
    "properties": {
     "name": "UNIT 2, 51 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJpZG86TRHkWsR58-80raLAo4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339710"
    }
@@ -93039,7 +93124,7 @@
    "properties": {
     "name": "UNIT 1, 55 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJRT3N5zRHkWsRHLhUAKGT3BM",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339711"
    }
@@ -93056,7 +93141,7 @@
    "properties": {
     "name": "UNIT 2, 5 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJGcBP2jRHkWsRW8EsNXz5mN4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339740"
    }
@@ -93073,7 +93158,7 @@
    "properties": {
     "name": "UNIT 1, 3 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJUz-W2zRHkWsR6ec9yiOUTjA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339742"
    }
@@ -93141,7 +93226,7 @@
    "properties": {
     "name": "UNIT 2, 5 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJXTEyxjRHkWsRluqgNB4HfN0",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339772"
    }
@@ -93158,7 +93243,7 @@
    "properties": {
     "name": "UNIT 1, 9 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJSQaqyTRHkWsRkJRHU6wbrT8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339773"
    }
@@ -93175,7 +93260,7 @@
    "properties": {
     "name": "UNIT 2, 58 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJ8aAK3zRHkWsROSTkEPF-LM4",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339777"
    }
@@ -93192,7 +93277,7 @@
    "properties": {
     "name": "UNIT 1, 54 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJKWEv3DRHkWsRMa5JA3gaLzw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339787"
    }
@@ -93294,7 +93379,7 @@
    "properties": {
     "name": "UNIT 2, 13 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJsxlKyjRHkWsRxFA8f40gGDc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339874"
    }
@@ -93328,7 +93413,7 @@
    "properties": {
     "name": "UNIT 2, 18 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJDTNbS8tAkWsRANxkCesAIyY",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339898"
    }
@@ -93379,7 +93464,7 @@
    "properties": {
     "name": "UNIT 2, 40 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJpZ1EuTRHkWsR9q6oAD7htSo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339923"
    }
@@ -93413,7 +93498,7 @@
    "properties": {
     "name": "UNIT 2, 16 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJc1tb1DRHkWsRZys3w-D_93Q",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721339938"
    }
@@ -93549,7 +93634,7 @@
    "properties": {
     "name": "UNIT 2, 15 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJF-f_0jRHkWsRcm7AV5ddC8g",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340014"
    }
@@ -93566,7 +93651,7 @@
    "properties": {
     "name": "UNIT 2, 62 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJD0snIjVHkWsRYzxU-jqF29A",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340027"
    }
@@ -93651,7 +93736,7 @@
    "properties": {
     "name": "UNIT 1, 9 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJ66CRKDVHkWsRtD1F6TlW_gk",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340057"
    }
@@ -93668,7 +93753,7 @@
    "properties": {
     "name": "UNIT 1, 53 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJW5Nd6DRHkWsRcl3QLQlpzZQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340066"
    }
@@ -93753,7 +93838,7 @@
    "properties": {
     "name": "UNIT 1, 17 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "EjFQbGF0ZWxsIFN0cmVldCwgTG9nYW4gUmVzZXJ2ZSBRTEQgNDEzMywgQXVzdHJhbGlhIi4qLAoUChIJK4NI3TRHkWsRWZdO-0H_0ygSFAoSCZtTXEXEQJFrEcCO3vNaowIF",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340082"
    }
@@ -93838,7 +93923,7 @@
    "properties": {
     "name": "UNIT 1, 20 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJA40UTctAkWsR_aCFrbl9328",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340106"
    }
@@ -93855,7 +93940,7 @@
    "properties": {
     "name": "UNIT 1, 26 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJS7Q5sjRHkWsRofY42Z1zQi8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340107"
    }
@@ -93974,7 +94059,7 @@
    "properties": {
     "name": "UNIT 2, 9 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJSQaqyTRHkWsRkJRHU6wbrT8",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340159"
    }
@@ -93991,7 +94076,7 @@
    "properties": {
     "name": "UNIT 1, 18 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJk-G3zDRHkWsRkue0G-z7BUo",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340164"
    }
@@ -94025,7 +94110,7 @@
    "properties": {
     "name": "UNIT 1, 60 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJhzOuITVHkWsR6h55ReqjbJQ",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340186"
    }
@@ -94042,7 +94127,7 @@
    "properties": {
     "name": "UNIT 2, 52 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJlU5f3DRHkWsR4uVqyz6asDA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340187"
    }
@@ -94127,7 +94212,7 @@
    "properties": {
     "name": "UNIT 1, 47 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJz2KM6jRHkWsRIecbxMq63QA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340226"
    }
@@ -94144,7 +94229,7 @@
    "properties": {
     "name": "UNIT 2, 47 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJz2KM6jRHkWsRIecbxMq63QA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340240"
    }
@@ -94212,7 +94297,7 @@
    "properties": {
     "name": "UNIT 1, 14 TEMPLETON STREET LOGAN RESERVE 4133",
     "locID": "ChIJARBktDRHkWsRav0YEcu80Ac",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340315"
    }
@@ -94229,7 +94314,7 @@
    "properties": {
     "name": "UNIT 2, 12 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJM8z61jRHkWsRPdwGxN0jMhU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340321"
    }
@@ -94263,7 +94348,7 @@
    "properties": {
     "name": "UNIT 2, 54 CAVANAGH DRIVE LOGAN RESERVE 4133",
     "locID": "ChIJKWEv3DRHkWsRMa5JA3gaLzw",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340329"
    }
@@ -94280,7 +94365,7 @@
    "properties": {
     "name": "UNIT 1, 12 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJM8z61jRHkWsRPdwGxN0jMhU",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340343"
    }
@@ -94297,7 +94382,7 @@
    "properties": {
     "name": "UNIT 1, 9 PLATELL STREET LOGAN RESERVE 4133",
     "locID": "ChIJYezw0DRHkWsRasxUGUCFhcc",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340344"
    }
@@ -94314,7 +94399,7 @@
    "properties": {
     "name": "UNIT 1, 8 MCCLUNE STREET LOGAN RESERVE 4133",
     "locID": "ChIJkXbO2TRHkWsRKXSgmhu3RVA",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD721340348"
    }
