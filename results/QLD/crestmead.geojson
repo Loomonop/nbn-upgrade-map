@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-27T23:51:56.191768",
+ "generated": "2023-10-18T00:54:45.939071",
  "suburb": "CRESTMEAD",
  "features": [
   {
@@ -29935,8 +29935,8 @@
    "properties": {
     "name": "66 JUDITH STREET CRESTMEAD 4132",
     "locID": "LOC000088524821",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155229527"
    }
   },
@@ -29970,7 +29970,7 @@
     "name": "86 JUDITH STREET CRESTMEAD 4132",
     "locID": "LOC000035795992",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155229532"
    }
   },
@@ -37942,8 +37942,8 @@
    "properties": {
     "name": "11 JUSTIN PLACE CRESTMEAD 4132",
     "locID": "LOC000002522485",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155542288"
    }
   },
@@ -38044,8 +38044,8 @@
    "properties": {
     "name": "16 JUSTIN PLACE CRESTMEAD 4132",
     "locID": "LOC000026839819",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155544047"
    }
   },
@@ -49111,7 +49111,7 @@
    "properties": {
     "name": "265-271 CHAMBERS FLAT ROAD CRESTMEAD 4132",
     "locID": "ChIJ-ZX_VNZGkWsRC4Ir59tCOa8",
-    "tech": "NULL",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156498157"
    }
@@ -49128,7 +49128,7 @@
    "properties": {
     "name": "273-281 CHAMBERS FLAT ROAD CRESTMEAD 4132",
     "locID": "LOC000085883205",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156498158"
    }
@@ -52647,7 +52647,7 @@
    "properties": {
     "name": "345 CHAMBERS FLAT ROAD CRESTMEAD 4132",
     "locID": "ChIJVaY7e9ZGkWsRw-XKwXnrOUQ",
-    "tech": "NULL",
+    "tech": "SATELLITE",
     "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157821853"
    }
@@ -54228,8 +54228,8 @@
    "properties": {
     "name": "10 CAPRICORN AVENUE CRESTMEAD 4132",
     "locID": "LOC000020743842",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160688002"
    }
   },
@@ -54806,8 +54806,8 @@
    "properties": {
     "name": "9 PALOMINO PLACE CRESTMEAD 4132",
     "locID": "LOC000017440165",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160701632"
    }
   },
@@ -55197,7 +55197,7 @@
    "properties": {
     "name": "283-291 CHAMBERS FLAT ROAD CRESTMEAD 4132",
     "locID": "LOC000101751727",
-    "tech": "NULL",
+    "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160726155"
    }
@@ -56526,6 +56526,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161085461"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.08404149,
+     -27.69775038
+    ]
+   },
+   "properties": {
+    "name": "LOT 200 BUMSTEAD ROAD CRESTMEAD 4132",
+    "locID": "Ei4yMDAgQnVtc3RlYWQgUmQsIENyZXN0bWVhZCBRTEQgNDEzMiwgQXVzdHJhbGlhIjESLwoUChIJRaI4rB5HkWsRf2orOTvbRQYQyAEqFAoSCb_DM50hR5FrEVeWaSsBrvbt",
+    "tech": "FTTC",
+    "upgrade": "UNKNOWN",
+    "gnaf_pid": "GAQLD161085462"
    }
   },
   {
@@ -60433,8 +60450,8 @@
    "properties": {
     "name": "19 LOCKYER PLACE CRESTMEAD 4132",
     "locID": "LOC000017828664",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161978677"
    }
   },
@@ -60875,8 +60892,8 @@
    "properties": {
     "name": "10 GOW COURT CRESTMEAD 4132",
     "locID": "LOC000081250215",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162032876"
    }
   },
@@ -61674,8 +61691,8 @@
    "properties": {
     "name": "26 PIDGEON BOULEVARD CRESTMEAD 4132",
     "locID": "LOC000068930247",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162106069"
    }
   },
@@ -62032,7 +62049,7 @@
     "name": "5 SHAREECE COURT CRESTMEAD 4132",
     "locID": "LOC000105593674",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162106898"
    }
   },
@@ -62150,8 +62167,8 @@
    "properties": {
     "name": "12 CONRADI AVENUE CRESTMEAD 4132",
     "locID": "LOC000085830546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD162315154"
    }
   },
@@ -62677,8 +62694,8 @@
    "properties": {
     "name": "29 GRIFFEN PLACE CRESTMEAD 4132",
     "locID": "LOC000029873602",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162317873"
    }
   },
@@ -66689,8 +66706,8 @@
    "properties": {
     "name": "11 SERENITY COURT CRESTMEAD 4132",
     "locID": "LOC000071940986",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163235387"
    }
   },
@@ -66774,8 +66791,8 @@
    "properties": {
     "name": "16 SERENITY COURT CRESTMEAD 4132",
     "locID": "LOC000001654017",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163235392"
    }
   },
@@ -66876,8 +66893,8 @@
    "properties": {
     "name": "22 SERENITY COURT CRESTMEAD 4132",
     "locID": "LOC000019049239",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163235398"
    }
   },
@@ -66978,8 +66995,8 @@
    "properties": {
     "name": "31 SERENITY COURT CRESTMEAD 4132",
     "locID": "LOC000043296523",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163235404"
    }
   },
@@ -67029,8 +67046,8 @@
    "properties": {
     "name": "5 SERENITY COURT CRESTMEAD 4132",
     "locID": "LOC000073333646",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163235407"
    }
   },
@@ -67063,8 +67080,8 @@
    "properties": {
     "name": "7 SERENITY COURT CRESTMEAD 4132",
     "locID": "LOC000033818619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD163235409"
    }
   },
@@ -67080,8 +67097,8 @@
    "properties": {
     "name": "8 SERENITY COURT CRESTMEAD 4132",
     "locID": "LOC000044534351",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163235410"
    }
   },
@@ -68474,8 +68491,8 @@
    "properties": {
     "name": "3 DILLER DRIVE CRESTMEAD 4132",
     "locID": "LOC000126800619",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD424984492"
    }
   },
@@ -68729,8 +68746,8 @@
    "properties": {
     "name": "47 JUDITH STREET CRESTMEAD 4132",
     "locID": "LOC000126807807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425056693"
    }
   },
@@ -68899,8 +68916,8 @@
    "properties": {
     "name": "12 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373393",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150408"
    }
   },
@@ -68933,8 +68950,8 @@
    "properties": {
     "name": "14 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373465",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150410"
    }
   },
@@ -68950,8 +68967,8 @@
    "properties": {
     "name": "16 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373477",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150411"
    }
   },
@@ -69001,8 +69018,8 @@
    "properties": {
     "name": "19-21 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373546",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150414"
    }
   },
@@ -69018,8 +69035,8 @@
    "properties": {
     "name": "20 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373567",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150415"
    }
   },
@@ -69052,8 +69069,8 @@
    "properties": {
     "name": "23 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373598",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150417"
    }
   },
@@ -69086,8 +69103,8 @@
    "properties": {
     "name": "25 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373682",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150419"
    }
   },
@@ -69137,8 +69154,8 @@
    "properties": {
     "name": "4 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156373939",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150422"
    }
   },
@@ -69222,8 +69239,8 @@
    "properties": {
     "name": "9 JOHN DAVISON PLACE CRESTMEAD 4132",
     "locID": "LOC000156374016",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425150427"
    }
   },
@@ -69256,7 +69273,7 @@
    "properties": {
     "name": "23-41 RAI DRIVE CRESTMEAD 4132",
     "locID": "LOC000191925733",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425333281"
    }
@@ -69273,7 +69290,7 @@
    "properties": {
     "name": "2-14 RAI DRIVE CRESTMEAD 4132",
     "locID": "LOC000191925640",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425333282"
    }
@@ -69290,7 +69307,7 @@
    "properties": {
     "name": "5-21 RAI DRIVE CRESTMEAD 4132",
     "locID": "LOC000191925526",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425333283"
    }
@@ -70582,8 +70599,8 @@
    "properties": {
     "name": "3 BRUCE BAKER CRESCENT CRESTMEAD 4132",
     "locID": "LOC000156367675",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD425834794"
    }
   },
@@ -72452,8 +72469,8 @@
    "properties": {
     "name": "59-61 RAI DRIVE CRESTMEAD 4132",
     "locID": "LOC000171470862",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719279067"
    }
   },
@@ -73676,8 +73693,8 @@
    "properties": {
     "name": "3 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC000181560398",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719727282"
    }
   },
@@ -73829,8 +73846,8 @@
    "properties": {
     "name": "14 BRUCE BAKER CRESCENT CRESTMEAD 4132",
     "locID": "LOC000190061044",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719728001"
    }
   },
@@ -74135,8 +74152,8 @@
    "properties": {
     "name": "7 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC000183258579",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719729915"
    }
   },
@@ -74390,8 +74407,8 @@
    "properties": {
     "name": "18 BRUCE BAKER CRESCENT CRESTMEAD 4132",
     "locID": "LOC100075957115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719731689"
    }
   },
@@ -74492,8 +74509,8 @@
    "properties": {
     "name": "5 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC000184260540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719732347"
    }
   },
@@ -74730,8 +74747,8 @@
    "properties": {
     "name": "UNIT 2, 7 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC000183258579",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719928187"
    }
   },
@@ -75138,8 +75155,8 @@
    "properties": {
     "name": "UNIT 1, 5 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC000184260540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719930690"
    }
   },
@@ -75342,8 +75359,8 @@
    "properties": {
     "name": "UNIT 1, 7 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC000181560875",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719932570"
    }
   },
@@ -75427,8 +75444,8 @@
    "properties": {
     "name": "UNIT 2, 28 BRUCE BAKER CRESCENT CRESTMEAD 4132",
     "locID": "LOC000182887904",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719933390"
    }
   },
@@ -75495,8 +75512,8 @@
    "properties": {
     "name": "UNIT 1, 3 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC100074917014",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719934334"
    }
   },
@@ -75563,8 +75580,8 @@
    "properties": {
     "name": "UNIT 2, 5 DUSK PLACE CRESTMEAD 4132",
     "locID": "LOC000184260540",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719934891"
    }
   },
@@ -75648,8 +75665,8 @@
    "properties": {
     "name": "55 RAI DRIVE CRESTMEAD 4132",
     "locID": "LOC000171470862",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD719956484"
    }
   },
@@ -77433,8 +77450,8 @@
    "properties": {
     "name": "UNIT 2, 18 BRUCE BAKER CRESCENT CRESTMEAD 4132",
     "locID": "LOC100075957115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD720988747"
    }
   },
@@ -77484,8 +77501,8 @@
    "properties": {
     "name": "UNIT 1, 18 BRUCE BAKER CRESCENT CRESTMEAD 4132",
     "locID": "LOC100075957115",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD720989070"
    }
   },
