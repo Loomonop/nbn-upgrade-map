@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-28T06:16:41.448432",
+ "generated": "2023-10-18T07:54:03.384927",
  "suburb": "SCARNESS",
  "features": [
   {
@@ -3211,8 +3211,8 @@
    "properties": {
     "name": "7 JUNJAREE STREET SCARNESS 4655",
     "locID": "LOC000091312296",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155793590"
    }
   },
@@ -4741,8 +4741,8 @@
    "properties": {
     "name": "15 BARILBA STREET SCARNESS 4655",
     "locID": "LOC000031758587",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155798682"
    }
   },
@@ -13802,8 +13802,8 @@
    "properties": {
     "name": "9 TRISHA COURT SCARNESS 4655",
     "locID": "LOC000094981414",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157097910"
    }
   },
@@ -17627,8 +17627,8 @@
    "properties": {
     "name": "4 MARINEVIEW AVENUE SCARNESS 4655",
     "locID": "LOC000068833799",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157123120"
    }
   },
@@ -19259,8 +19259,8 @@
    "properties": {
     "name": "20 NULLOR STREET SCARNESS 4655",
     "locID": "LOC000088600297",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157140753"
    }
   },
@@ -28983,8 +28983,8 @@
    "properties": {
     "name": "40 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000068565900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161881356"
    }
   },
@@ -29068,8 +29068,8 @@
    "properties": {
     "name": "45 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000047188095",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161881361"
    }
   },
@@ -35375,8 +35375,8 @@
    "properties": {
     "name": "UNIT A, 40 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000068565900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719086841"
    }
   },
@@ -35392,8 +35392,8 @@
    "properties": {
     "name": "UNIT B, 40 TURRUM STREET SCARNESS 4655",
     "locID": "LOC000068565900",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD719087324"
    }
   },
@@ -42530,11 +42530,45 @@
     ]
    },
    "properties": {
+    "name": "UNIT 1, 5 GORDON STREET SCARNESS 4655",
+    "locID": "LOC000017466645",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720986671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.86079286,
+     -25.28878877
+    ]
+   },
+   "properties": {
     "name": "3 GORDON STREET SCARNESS 4655",
     "locID": "LOC000161027038",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720986683"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.86079286,
+     -25.28878877
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 5 GORDON STREET SCARNESS 4655",
+    "locID": "LOC000017466645",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720986684"
    }
   },
   {
