@@ -47,7 +47,7 @@
 
     <meta property="og:title" content="NBN Technology Map">
     <meta property="og:description" content="Map of NBN technology types in Australia.">
-    <meta property="og:url" content="https://lukeprior.github.io/nbn-upgrade-map">
+    <meta property="og:url" content="https://Loomonop.github.io/nbn-upgrade-map">
 </head>
 <body>
     <div id="map"></div>
@@ -66,8 +66,8 @@
 
         // get url parameters
         var urlParams = new URLSearchParams(window.location.search);
-        var default_suburb = "bli-bli";
-        var default_state = "QLD";
+        var default_suburb = "queens park";
+        var default_state = "WA";
         var combined_info = null;
         if (urlParams.has("suburb") && urlParams.has("state")) {
             default_suburb = urlParams.get("suburb");
@@ -75,7 +75,7 @@
         }
 
         // add dropdown
-        fetch("https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/combined-suburbs.json").then(res => res.json()).then(data => {
+        fetch("https://raw.githubusercontent.com/Loomonop/nbn-upgrade-map/main/results/combined-suburbs.json").then(res => res.json()).then(data => {
             combined_info = data;
             var dropdown = L.control({ position: 'topright' });
             dropdown.onAdd = function (map) {
@@ -132,7 +132,7 @@
             div.style.opacity = "0.8";
             div.style.padding = "5px";
             div.style.borderRadius = "5px";
-            div.innerHTML = '<a href="https://github.com/LukePrior/nbn-upgrade-map" target="_blank" style="color: #000000;">View on GitHub</a> | <a href="https://lukeprior.github.io/nbn-upgrade-map/stats" target="_blank" style="color: #000000;">Stats</a>';
+            div.innerHTML = '<a href="https://github.com/Loomonop/nbn-upgrade-map" target="_blank" style="color: #000000;">View on GitHub</a> | <a href="https://Loomonop.github.io/nbn-upgrade-map/stats" target="_blank" style="color: #000000;">Stats</a>';
             return div;
         }
         github.addTo(map);
@@ -167,7 +167,7 @@
 
         // load GeoJSON from an external file
         function loadSuburb(state_file) {
-            url = "https://raw.githubusercontent.com/LukePrior/nbn-upgrade-map/main/results/" + state_file + ".geojson"
+            url = "https://raw.githubusercontent.com/Loomonop/nbn-upgrade-map/tree/main/results/" + state_file + ".geojson"
             fetch(url).then(res => res.json()).then(data => {
                 // clear existing markers
                 map.eachLayer(function (layer) {
