@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-28T08:26:29.440853",
+ "generated": "2023-10-18T10:11:57.202735",
  "suburb": "THE GAP",
  "features": [
   {
@@ -3245,8 +3245,8 @@
    "properties": {
     "name": "22 PARKSIDE CRESCENT THE GAP 4061",
     "locID": "LOC000073826060",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155870602"
    }
   },
@@ -3313,8 +3313,8 @@
    "properties": {
     "name": "29 PARKSIDE CRESCENT THE GAP 4061",
     "locID": "LOC000097084901",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155870608"
    }
   },
@@ -3364,8 +3364,8 @@
    "properties": {
     "name": "46 PARKSIDE CRESCENT THE GAP 4061",
     "locID": "LOC000060551892",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155870612"
    }
   },
@@ -3381,8 +3381,8 @@
    "properties": {
     "name": "54 PARKSIDE CRESCENT THE GAP 4061",
     "locID": "LOC000009868632",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155870615"
    }
   },
@@ -12188,7 +12188,7 @@
     "name": "33 HIGHWOOD ROAD THE GAP 4061",
     "locID": "LOC000002522250",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155883410"
    }
   },
@@ -21946,7 +21946,7 @@
     "name": "185 MOGGILL ROAD THE GAP 4061",
     "locID": "LOC000055297217",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155887454"
    }
   },
@@ -38384,8 +38384,8 @@
    "properties": {
     "name": "23 FOOTHILL PLACE THE GAP 4061",
     "locID": "LOC000072205882",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155891478"
    }
   },
@@ -44692,7 +44692,7 @@
     "name": "81 YARRABEE ROAD THE GAP 4061",
     "locID": "LOC000093532918",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155893589"
    }
   },
@@ -50624,8 +50624,8 @@
    "properties": {
     "name": "61 CLARE PLACE THE GAP 4061",
     "locID": "LOC000061238133",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155897621"
    }
   },
@@ -50658,8 +50658,8 @@
    "properties": {
     "name": "66 CLARE PLACE THE GAP 4061",
     "locID": "LOC000039880994",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155897623"
    }
   },
@@ -53038,8 +53038,8 @@
    "properties": {
     "name": "49 CLARE PLACE THE GAP 4061",
     "locID": "LOC000016595837",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155898653"
    }
   },
@@ -53310,8 +53310,8 @@
    "properties": {
     "name": "1 EASTON CLOSE THE GAP 4061",
     "locID": "LOC000030793129",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155898723"
    }
   },
@@ -80494,7 +80494,7 @@
     "name": "513 PAYNE ROAD THE GAP 4061",
     "locID": "LOC000047478060",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157192652"
    }
   },
@@ -89708,7 +89708,7 @@
     "name": "119 DILLON ROAD THE GAP 4061",
     "locID": "LOC000062695221",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157206466"
    }
   },
@@ -93212,23 +93212,6 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157214416"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.94248537,
-     -27.44332602
-    ]
-   },
-   "properties": {
-    "name": "1140 WATERWORKS ROAD THE GAP 4061",
-    "locID": "LOC000043355837",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157214417"
    }
   },
   {
@@ -105160,8 +105143,8 @@
    "properties": {
     "name": "84 KAYS ROAD THE GAP 4061",
     "locID": "LOC000049986574",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD158762869"
    }
   },
@@ -114799,8 +114782,8 @@
    "properties": {
     "name": "105 KAYS ROAD THE GAP 4061",
     "locID": "LOC000011555316",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162303440"
    }
   },
@@ -116992,8 +116975,8 @@
    "properties": {
     "name": "25 GEORGIA PLACE THE GAP 4061",
     "locID": "LOC000072963686",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162626259"
    }
   },
@@ -117094,8 +117077,8 @@
    "properties": {
     "name": "8 GEORGIA PLACE THE GAP 4061",
     "locID": "LOC000038079234",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162626265"
    }
   },
@@ -117111,8 +117094,8 @@
    "properties": {
     "name": "9 GEORGIA PLACE THE GAP 4061",
     "locID": "LOC000052127193",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162626266"
    }
   },
@@ -131343,40 +131326,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721339335"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.94248537,
-     -27.44332602
-    ]
-   },
-   "properties": {
-    "name": "UNIT 2, 1140 WATERWORKS ROAD THE GAP 4061",
-    "locID": "LOC000043355837",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721339351"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.94248537,
-     -27.44332602
-    ]
-   },
-   "properties": {
-    "name": "UNIT 3, 1140 WATERWORKS ROAD THE GAP 4061",
-    "locID": "LOC000043355837",
-    "tech": "HFC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721339989"
    }
   },
   {
