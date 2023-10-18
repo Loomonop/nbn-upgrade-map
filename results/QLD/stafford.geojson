@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-28T00:25:11.087981",
+ "generated": "2023-10-18T01:38:24.227473",
  "suburb": "STAFFORD",
  "features": [
   {
@@ -712,8 +712,8 @@
    "properties": {
     "name": "27 TATHRA STREET STAFFORD 4053",
     "locID": "LOC000021550637",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155827907"
    }
   },
@@ -3551,8 +3551,8 @@
    "properties": {
     "name": "87 JARDINE STREET STAFFORD 4053",
     "locID": "LOC000100501421",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155840754"
    }
   },
@@ -6271,8 +6271,8 @@
    "properties": {
     "name": "44 KIDGELL STREET STAFFORD 4053",
     "locID": "LOC000027631234",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155843033"
    }
   },
@@ -7087,8 +7087,8 @@
    "properties": {
     "name": "30 BAROKEE STREET STAFFORD 4053",
     "locID": "LOC000060715399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155844109"
    }
   },
@@ -7529,8 +7529,8 @@
    "properties": {
     "name": "30 GOORAMA STREET STAFFORD 4053",
     "locID": "LOC000055488477",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155844142"
    }
   },
@@ -7546,8 +7546,8 @@
    "properties": {
     "name": "148 MINIMINE STREET STAFFORD 4053",
     "locID": "LOC000017829827",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155844147"
    }
   },
@@ -7801,8 +7801,8 @@
    "properties": {
     "name": "49 MINIMINE STREET STAFFORD 4053",
     "locID": "LOC000029936307",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155844169"
    }
   },
@@ -10181,8 +10181,8 @@
    "properties": {
     "name": "5 REUBEN STREET STAFFORD 4053",
     "locID": "LOC000087858601",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155845133"
    }
   },
@@ -10436,8 +10436,8 @@
    "properties": {
     "name": "57 BAROKEE STREET STAFFORD 4053",
     "locID": "LOC000094139882",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155845192"
    }
   },
@@ -12340,8 +12340,8 @@
    "properties": {
     "name": "599 STAFFORD ROAD STAFFORD 4053",
     "locID": "LOC000071999513",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155846138"
    }
   },
@@ -16403,8 +16403,8 @@
    "properties": {
     "name": "53 HAROLD STREET STAFFORD 4053",
     "locID": "LOC000029785018",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155847815"
    }
   },
@@ -17967,8 +17967,8 @@
    "properties": {
     "name": "35 WAROON STREET STAFFORD 4053",
     "locID": "LOC000093480006",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155848737"
    }
   },
@@ -24274,8 +24274,8 @@
    "properties": {
     "name": "20 HOOLAN STREET STAFFORD 4053",
     "locID": "LOC000003316880",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155852624"
    }
   },
@@ -24325,8 +24325,8 @@
    "properties": {
     "name": "25 HOOLAN STREET STAFFORD 4053",
     "locID": "LOC000062144618",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155852627"
    }
   },
@@ -24600,6 +24600,23 @@
     "tech": "HFC",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155852643"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.02090757,
+     -27.40996701
+    ]
+   },
+   "properties": {
+    "name": "19 CLIFFORD STREET STAFFORD 4053",
+    "locID": "LOC000193811871",
+    "tech": "HFC",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155852644"
    }
   },
   {
@@ -26892,8 +26909,8 @@
    "properties": {
     "name": "105 JARDINE STREET STAFFORD 4053",
     "locID": "LOC000007778329",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155854364"
    }
   },
@@ -27011,8 +27028,8 @@
    "properties": {
     "name": "76 JARDINE STREET STAFFORD 4053",
     "locID": "LOC000087455959",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155854371"
    }
   },
@@ -27436,8 +27453,8 @@
    "properties": {
     "name": "91 JARDINE STREET STAFFORD 4053",
     "locID": "LOC000034989737",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156035494"
    }
   },
@@ -28303,8 +28320,8 @@
    "properties": {
     "name": "600 STAFFORD ROAD STAFFORD 4053",
     "locID": "LOC000072922595",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156053354"
    }
   },
@@ -30581,8 +30598,8 @@
    "properties": {
     "name": "77 CLIFFORD STREET STAFFORD 4053",
     "locID": "LOC000005861970",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD156113128"
    }
   },
@@ -32689,8 +32706,8 @@
    "properties": {
     "name": "142 MINIMINE STREET STAFFORD 4053",
     "locID": "LOC000085729149",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157129380"
    }
   },
@@ -35494,8 +35511,8 @@
    "properties": {
     "name": "22 CLIFFORD STREET STAFFORD 4053",
     "locID": "LOC000005861970",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157161812"
    }
   },
@@ -36157,8 +36174,8 @@
    "properties": {
     "name": "30 KIDGELL STREET STAFFORD 4053",
     "locID": "LOC000182563539",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD157168742"
    }
   },
@@ -38180,8 +38197,8 @@
    "properties": {
     "name": "UNIT 2, 39 COLLIER STREET STAFFORD 4053",
     "locID": "LOC000030728224",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD157179365"
    }
   },
@@ -53735,8 +53752,8 @@
    "properties": {
     "name": "2 REUBEN STREET STAFFORD 4053",
     "locID": "LOC000089438193",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161002497"
    }
   },
@@ -58461,8 +58478,8 @@
    "properties": {
     "name": "1 BAROKEE STREET STAFFORD 4053",
     "locID": "LOC000060715399",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162880720"
    }
   },

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2023-09-28T01:08:08.221539",
+ "generated": "2023-10-18T02:19:19.391293",
  "suburb": "MEADOWBROOK",
  "features": [
   {
@@ -151,8 +151,8 @@
    "properties": {
     "name": "6 BOARDWALK AVENUE MEADOWBROOK 4131",
     "locID": "LOC000040085149",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155491753"
    }
   },
@@ -492,7 +492,7 @@
     "name": "19 LAKES ENTRANCE MEADOWBROOK 4131",
     "locID": "LOC000059807912",
     "tech": "FTTP",
-    "upgrade": "FTTN_CT",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155502367"
    }
   },
@@ -4129,8 +4129,8 @@
    "properties": {
     "name": "2 FACULTY CIRCUIT MEADOWBROOK 4131",
     "locID": "LOC000107107191",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "UNKNOWN",
     "gnaf_pid": "GAQLD155539776"
    }
   },
@@ -8005,8 +8005,8 @@
    "properties": {
     "name": "2 LIBRARY COURT MEADOWBROOK 4131",
     "locID": "LOC000092501806",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD155549273"
    }
   },
@@ -12935,8 +12935,8 @@
    "properties": {
     "name": "99 EDENLEA DRIVE MEADOWBROOK 4131",
     "locID": "LOC000083495794",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD156842549"
    }
   },
@@ -14043,6 +14043,40 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156856722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.13742582,
+     -27.66812564
+    ]
+   },
+   "properties": {
+    "name": "SHED 1, 6 NESTOR DRIVE MEADOWBROOK 4131",
+    "locID": "LOC000040492546",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156856735"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.13739964,
+     -27.66828236
+    ]
+   },
+   "properties": {
+    "name": "SHED 2, 6 NESTOR DRIVE MEADOWBROOK 4131",
+    "locID": "LOC000040492546",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD156856736"
    }
   },
   {
@@ -15468,8 +15502,8 @@
    "properties": {
     "name": "6 LAKES ENTRANCE MEADOWBROOK 4131",
     "locID": "LOC000036556277",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD159416116"
    }
   },
@@ -16896,8 +16930,8 @@
    "properties": {
     "name": "13 STOCKWELLIA STREET MEADOWBROOK 4131",
     "locID": "LOC000021811596",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160692007"
    }
   },
@@ -17457,8 +17491,8 @@
    "properties": {
     "name": "5 GOLFGREEN TERRACE MEADOWBROOK 4131",
     "locID": "LOC000027243653",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160699471"
    }
   },
@@ -17508,8 +17542,8 @@
    "properties": {
     "name": "17 GOLFGREEN TERRACE MEADOWBROOK 4131",
     "locID": "LOC000022696984",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD160699474"
    }
   },
@@ -19175,7 +19209,7 @@
     "name": "36-38 ELLERSLIE ROAD MEADOWBROOK 4131",
     "locID": "LOC000126832592",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161137960"
    }
   },
@@ -20280,7 +20314,7 @@
     "name": "29-31 NESTOR DRIVE MEADOWBROOK 4131",
     "locID": "LOC000111041802",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161253583"
    }
   },
@@ -21197,8 +21231,8 @@
    "properties": {
     "name": "11 FULLER AVENUE MEADOWBROOK 4131",
     "locID": "LOC000068889886",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161783494"
    }
   },
@@ -21248,8 +21282,8 @@
    "properties": {
     "name": "5 FULLER AVENUE MEADOWBROOK 4131",
     "locID": "LOC000039566623",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161783497"
    }
   },
@@ -21316,8 +21350,8 @@
    "properties": {
     "name": "9 FULLER AVENUE MEADOWBROOK 4131",
     "locID": "LOC000024823674",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD161783501"
    }
   },
@@ -24682,8 +24716,8 @@
    "properties": {
     "name": "1 DUNNE COURT MEADOWBROOK 4131",
     "locID": "LOC000061179931",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTN_CT",
     "gnaf_pid": "GAQLD162316108"
    }
   },
